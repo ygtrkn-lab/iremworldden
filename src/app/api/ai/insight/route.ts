@@ -112,16 +112,16 @@ const isCountryMentionedInText = (text: string | undefined | null, countryName?:
 // Topics allowed by the AI Assistant for country context — these are country-level
 // metadata and investor-oriented topics that are meaningful for property decisions.
 const allowedCountryTopics = [
-  'vergi', 'vergi sistemi', 'vergi oranı', 'tax', 'taxation',
-  'nüfus', 'population',
-  'din', 'religion', 'inanç',
-  'yatırım', 'investment', 'yatırım bölgeleri', 'yatırım fırsatı',
-  'yaşam', 'yaşam kalitesi', 'life quality', 'cost of living',
-  'kira', 'kiralar', 'kira fiyatları', 'rent', 'rental',
-  'fiyat', 'prime', 'fiyat aralığı', 'price',
+  'vergi', 'vergi sistemi', 'vergi orani', 'vergi oranı', 'tax', 'taxation',
+  'nufus', 'nüfus', 'population', 'populasyon',
+  'din', 'religion', 'inanc', 'inanç', 'kultur', 'kültür', 'culture', 'cultural',
+  'yatirim', 'yatırım', 'investment', 'yatirim bolgeleri', 'yatırım bölgeleri', 'yatirim firsati', 'yatırım fırsatı',
+  'yasam', 'yaşam', 'yasam kalitesi', 'yaşam kalitesi', 'life quality', 'cost of living', 'quality of life',
+  'kira', 'kiralar', 'kira fiyati', 'kira fiyatı', 'kira fiyatlari', 'kira fiyatları', 'rent', 'rental',
+  'fiyat', 'prime', 'fiyat araligi', 'fiyat aralığı', 'price',
   'ekonomi', 'economic', 'ekonomik', 'inflation', 'enflasyon',
-  'bölge', 'region', 'location', 'location-based',
-  'ipotek', 'mortgage', 'konut kredisi', 'mortgage rate'
+  'bolge', 'bölge', 'region', 'location', 'location-based',
+  'ipotek', 'mortgage', 'konut kredisi', 'mortgage rate', 'kredi', 'credit', 'loan'
 ];
 
 const isAboutAllowedCountryTopic = (text: string | undefined | null) => {
