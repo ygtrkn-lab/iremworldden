@@ -1,0 +1,2355 @@
+[
+  {
+    "id": "P05055",
+    "type": "sale",
+    "category": {
+      "main": "government"
+    },
+    "title": "Satılık Belediye Binası - Lesotho Central",
+    "slug": "satilik-belediye-binası-lesotho-central-P05055",
+    "description": "Lesotho Central, Lesotho bölgesinde belediye binası. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 49255783,
+    "location": {
+      "country": "LS",
+      "city": "Lesotho Central",
+      "district": "Lesotho Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 192",
+      "coordinates": {
+        "lat": -29.188826897899812,
+        "lng": 28.029964663137164
+      }
+    },
+    "specs": {
+      "netSize": 923,
+      "grossSize": 1108,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 2,
+      "floor": 14,
+      "totalFloors": 6,
+      "heating": "Kombi",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500882623908?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500051573146?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500074762613?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500103296765?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500288157066?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500553904636?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500758908984?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500373239565?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500620566824?w=800&q=80&category=architecture"
+    ],
+    "agent": {
+      "id": "A13",
+      "name": "Agent 33",
+      "phone": "+38 701 416 4518",
+      "email": "agent39@iwrealty.com",
+      "photo": "/images/icons/png/ny-skyline-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-01-14T10:50:47.234Z",
+    "updatedAt": "2025-11-13T10:50:47.234Z",
+    "storeId": "store-008"
+  },
+  {
+    "id": "P05056",
+    "type": "rent",
+    "category": {
+      "main": "government"
+    },
+    "title": "Kiralık Devlet Binası - New Lesotho",
+    "slug": "kiralik-devlet-binası-new-lesotho-P05056",
+    "description": "New Lesotho, Lesotho bölgesinde devlet binası. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 24147383,
+    "location": {
+      "country": "LS",
+      "city": "New Lesotho",
+      "district": "New Lesotho Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 704",
+      "coordinates": {
+        "lat": -29.717400092065223,
+        "lng": 28.75219374398495
+      }
+    },
+    "specs": {
+      "netSize": 4957,
+      "grossSize": 5948,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 1,
+      "floor": 15,
+      "totalFloors": 7,
+      "heating": "Merkezi",
+      "furnishing": "Unfurnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500221816853?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500467458503?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500447302551?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500772912776?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500722569537?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500169876193?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500844081806?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500923742739?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500028885649?w=800&q=80&category=building"
+    ],
+    "agent": {
+      "id": "A49",
+      "name": "Agent 57",
+      "phone": "+43 945 500 1647",
+      "email": "agent40@iwrealty.com",
+      "photo": "/images/icons/png/berlin-urban-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-08-26T10:50:47.234Z",
+    "updatedAt": "2025-11-13T10:50:47.234Z",
+    "storeId": "store-009"
+  },
+  {
+    "id": "P05057",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Müstakil Ev - Maseru",
+    "slug": "satilik-müstakil-ev-maseru-P05057",
+    "description": "Maseru, Lesotho bölgesinde müstakil ev. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 5029307,
+    "location": {
+      "country": "LS",
+      "city": "Maseru",
+      "district": "Maseru Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 959",
+      "coordinates": {
+        "lat": -29.227619021662864,
+        "lng": 28.844175081201673
+      }
+    },
+    "specs": {
+      "netSize": 414,
+      "grossSize": 497,
+      "rooms": "5+0",
+      "bathrooms": 1,
+      "age": 7,
+      "floor": 1,
+      "totalFloors": 7,
+      "heating": "Merkezi",
+      "furnishing": "Unfurnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500812727073?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500754845042?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500122117001?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500838019979?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500426456776?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500674636800?w=800&q=80&category=real-estate"
+    ],
+    "agent": {
+      "id": "A20",
+      "name": "Agent 95",
+      "phone": "+48 675 603 4768",
+      "email": "agent99@iwrealty.com",
+      "photo": "/images/icons/png/london-prime-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2024-11-30T10:50:47.234Z",
+    "updatedAt": "2025-11-13T10:50:47.234Z",
+    "storeId": "store-007"
+  },
+  {
+    "id": "P05058",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Daire - Maseru",
+    "slug": "kiralik-daire-maseru-P05058",
+    "description": "Maseru, Lesotho bölgesinde daire. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 686904,
+    "location": {
+      "country": "LS",
+      "city": "Maseru",
+      "district": "Maseru Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 160",
+      "coordinates": {
+        "lat": -29.69778782923014,
+        "lng": 28.150867616364557
+      }
+    },
+    "specs": {
+      "netSize": 134,
+      "grossSize": 161,
+      "rooms": "4+2",
+      "bathrooms": 1,
+      "age": 10,
+      "floor": 4,
+      "totalFloors": 9,
+      "heating": "Klima",
+      "furnishing": "Unfurnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500313053712?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500730895827?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500015217375?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500273779430?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500717601201?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500280181445?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500902946822?w=800&q=80&category=architecture"
+    ],
+    "agent": {
+      "id": "A80",
+      "name": "Agent 52",
+      "phone": "+77 561 430 9139",
+      "email": "agent53@iwrealty.com",
+      "photo": "/images/icons/png/ny-skyline-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2024-11-26T10:50:47.234Z",
+    "updatedAt": "2025-11-13T10:50:47.234Z",
+    "storeId": "store-008"
+  },
+  {
+    "id": "P05059",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Villa - New Lesotho",
+    "slug": "satilik-villa-new-lesotho-P05059",
+    "description": "New Lesotho, Lesotho bölgesinde villa. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 3291208,
+    "location": {
+      "country": "LS",
+      "city": "New Lesotho",
+      "district": "New Lesotho Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 33",
+      "coordinates": {
+        "lat": -29.237346549590047,
+        "lng": 28.46205563230409
+      }
+    },
+    "specs": {
+      "netSize": 145,
+      "grossSize": 174,
+      "rooms": "5+1",
+      "bathrooms": 1,
+      "age": 1,
+      "floor": 13,
+      "totalFloors": 9,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Furnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500532623112?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500355304614?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500948629509?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500026831113?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500015197738?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500615128494?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500642929286?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500320839452?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500670205617?w=800&q=80&category=building"
+    ],
+    "agent": {
+      "id": "A77",
+      "name": "Agent 31",
+      "phone": "+49 358 639 2237",
+      "email": "agent49@iwrealty.com",
+      "photo": "/images/icons/png/london-prime-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-11-10T10:50:47.234Z",
+    "updatedAt": "2025-11-13T10:50:47.234Z",
+    "storeId": "store-007"
+  },
+  {
+    "id": "P05060",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Villa - Lesotho Central",
+    "slug": "kiralik-villa-lesotho-central-P05060",
+    "description": "Lesotho Central, Lesotho bölgesinde villa. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 14628060,
+    "location": {
+      "country": "LS",
+      "city": "Lesotho Central",
+      "district": "Lesotho Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 713",
+      "coordinates": {
+        "lat": -29.80908721189741,
+        "lng": 28.648138029840432
+      }
+    },
+    "specs": {
+      "netSize": 190,
+      "grossSize": 228,
+      "rooms": "2+0",
+      "bathrooms": 4,
+      "age": 10,
+      "floor": 8,
+      "totalFloors": 15,
+      "heating": "Merkezi",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500462842657?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500268140058?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500178566657?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500231137069?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500255184720?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500363004448?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500513840756?w=800&q=80&category=architecture"
+    ],
+    "agent": {
+      "id": "A24",
+      "name": "Agent 98",
+      "phone": "+60 225 174 7949",
+      "email": "agent44@iwrealty.com",
+      "photo": "/images/icons/png/berlin-urban-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": true,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-08-19T10:50:47.234Z",
+    "updatedAt": "2025-11-13T10:50:47.234Z",
+    "storeId": "store-009"
+  },
+  {
+    "id": "P05061",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Daire - Maseru",
+    "slug": "satilik-daire-maseru-P05061",
+    "description": "Maseru, Lesotho bölgesinde daire. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 9296614,
+    "location": {
+      "country": "LS",
+      "city": "Maseru",
+      "district": "Maseru Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 276",
+      "coordinates": {
+        "lat": -29.518351538398605,
+        "lng": 28.08444794153871
+      }
+    },
+    "specs": {
+      "netSize": 401,
+      "grossSize": 481,
+      "rooms": "2+1",
+      "bathrooms": 4,
+      "age": 2,
+      "floor": 10,
+      "totalFloors": 9,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500762903662?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500770654981?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500568641726?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500119275199?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500462330435?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500610529157?w=800&q=80&category=real-estate"
+    ],
+    "agent": {
+      "id": "A7",
+      "name": "Agent 43",
+      "phone": "+54 207 631 8903",
+      "email": "agent23@iwrealty.com",
+      "photo": "/images/icons/png/london-prime-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-04-06T10:50:47.234Z",
+    "updatedAt": "2025-11-13T10:50:47.234Z",
+    "storeId": "store-007"
+  },
+  {
+    "id": "P05062",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Müstakil Ev - Lesotho Central",
+    "slug": "kiralik-müstakil-ev-lesotho-central-P05062",
+    "description": "Lesotho Central, Lesotho bölgesinde müstakil ev. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 4262690,
+    "location": {
+      "country": "LS",
+      "city": "Lesotho Central",
+      "district": "Lesotho Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 346",
+      "coordinates": {
+        "lat": -29.847874245552227,
+        "lng": 28.317322880640305
+      }
+    },
+    "specs": {
+      "netSize": 169,
+      "grossSize": 203,
+      "rooms": "1+0",
+      "bathrooms": 3,
+      "age": 6,
+      "floor": 1,
+      "totalFloors": 16,
+      "heating": "Merkezi",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500017343532?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500344901700?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500918825698?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500274330144?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500070598939?w=800&q=80&category=real-estate"
+    ],
+    "agent": {
+      "id": "A73",
+      "name": "Agent 19",
+      "phone": "+98 109 841 8881",
+      "email": "agent77@iwrealty.com",
+      "photo": "/images/icons/png/dubai-property-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2024-11-28T10:50:47.234Z",
+    "updatedAt": "2025-11-13T10:50:47.234Z",
+    "storeId": "store-004"
+  },
+  {
+    "id": "P05063",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Müstakil Ev - Lesotho City",
+    "slug": "satilik-müstakil-ev-lesotho-city-P05063",
+    "description": "Lesotho City, Lesotho bölgesinde müstakil ev. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 2305221,
+    "location": {
+      "country": "LS",
+      "city": "Lesotho City",
+      "district": "Lesotho City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 357",
+      "coordinates": {
+        "lat": -29.36929413352339,
+        "lng": 28.451593111091988
+      }
+    },
+    "specs": {
+      "netSize": 248,
+      "grossSize": 298,
+      "rooms": "5+0",
+      "bathrooms": 1,
+      "age": 17,
+      "floor": 7,
+      "totalFloors": 8,
+      "heating": "Klima",
+      "furnishing": "Furnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500724287822?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500320206204?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500907905506?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500296423440?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500917884305?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500563925635?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500556710398?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500384747335?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500689604588?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500135053735?w=800&q=80&category=building"
+    ],
+    "agent": {
+      "id": "A88",
+      "name": "Agent 3",
+      "phone": "+18 297 725 9658",
+      "email": "agent18@iwrealty.com",
+      "photo": "/images/icons/png/london-prime-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-01-24T10:50:47.234Z",
+    "updatedAt": "2025-11-13T10:50:47.234Z",
+    "storeId": "store-007"
+  },
+  {
+    "id": "P05064",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Daire - Lesotho Central",
+    "slug": "kiralik-daire-lesotho-central-P05064",
+    "description": "Lesotho Central, Lesotho bölgesinde daire. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 11991457,
+    "location": {
+      "country": "LS",
+      "city": "Lesotho Central",
+      "district": "Lesotho Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 770",
+      "coordinates": {
+        "lat": -29.687437095143355,
+        "lng": 28.57074129201791
+      }
+    },
+    "specs": {
+      "netSize": 168,
+      "grossSize": 202,
+      "rooms": "3+1",
+      "bathrooms": 2,
+      "age": 1,
+      "floor": 15,
+      "totalFloors": 10,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500246445433?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500905987795?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500091288295?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500312221370?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500016926297?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500390146289?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500583869332?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500698902965?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500586598610?w=800&q=80&category=building"
+    ],
+    "agent": {
+      "id": "A87",
+      "name": "Agent 95",
+      "phone": "+92 495 778 5529",
+      "email": "agent14@iwrealty.com",
+      "photo": "/images/icons/png/ankara-modern-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-11-11T10:50:47.234Z",
+    "updatedAt": "2025-11-13T10:50:47.234Z",
+    "storeId": "store-003"
+  },
+  {
+    "id": "P05065",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Residence - Lesotho City",
+    "slug": "satilik-residence-lesotho-city-P05065",
+    "description": "Lesotho City, Lesotho bölgesinde residence. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 5067307,
+    "location": {
+      "country": "LS",
+      "city": "Lesotho City",
+      "district": "Lesotho City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 67",
+      "coordinates": {
+        "lat": -29.044955311125495,
+        "lng": 28.807392847906986
+      }
+    },
+    "specs": {
+      "netSize": 133,
+      "grossSize": 160,
+      "rooms": "1+1",
+      "bathrooms": 1,
+      "age": 7,
+      "floor": 12,
+      "totalFloors": 13,
+      "heating": "Merkezi",
+      "furnishing": "Unfurnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500597192107?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500891809481?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500122413047?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500840821622?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500567567556?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500304469634?w=800&q=80&category=house"
+    ],
+    "agent": {
+      "id": "A85",
+      "name": "Agent 63",
+      "phone": "+35 805 584 9947",
+      "email": "agent82@iwrealty.com",
+      "photo": "/images/icons/png/sg-harbour-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-06-02T10:50:47.234Z",
+    "updatedAt": "2025-11-13T10:50:47.234Z",
+    "storeId": "store-011"
+  },
+  {
+    "id": "P05066",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Müstakil Ev - Lesotho City",
+    "slug": "kiralik-müstakil-ev-lesotho-city-P05066",
+    "description": "Lesotho City, Lesotho bölgesinde müstakil ev. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 12662342,
+    "location": {
+      "country": "LS",
+      "city": "Lesotho City",
+      "district": "Lesotho City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 329",
+      "coordinates": {
+        "lat": -29.20019736424085,
+        "lng": 28.59957331706444
+      }
+    },
+    "specs": {
+      "netSize": 428,
+      "grossSize": 514,
+      "rooms": "4+1",
+      "bathrooms": 4,
+      "age": 9,
+      "floor": 11,
+      "totalFloors": 16,
+      "heating": "Klima",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500417005733?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500783307914?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500118883144?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500511769658?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500624987262?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500622837399?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500997229553?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500957178639?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500582183253?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500550903510?w=800&q=80&category=interior"
+    ],
+    "agent": {
+      "id": "A7",
+      "name": "Agent 76",
+      "phone": "+12 284 510 7106",
+      "email": "agent68@iwrealty.com",
+      "photo": "/images/icons/png/sydney-coastal-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": false,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": true,
+      "hasSecurity": true
+    },
+    "createdAt": "2024-12-15T10:50:47.234Z",
+    "updatedAt": "2025-11-13T10:50:47.234Z",
+    "storeId": "store-012"
+  },
+  {
+    "id": "P05067",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Villa - Lesotho City",
+    "slug": "satilik-villa-lesotho-city-P05067",
+    "description": "Lesotho City, Lesotho bölgesinde villa. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 4417495,
+    "location": {
+      "country": "LS",
+      "city": "Lesotho City",
+      "district": "Lesotho City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 589",
+      "coordinates": {
+        "lat": -29.919225968305348,
+        "lng": 28.67919127307302
+      }
+    },
+    "specs": {
+      "netSize": 451,
+      "grossSize": 541,
+      "rooms": "3+0",
+      "bathrooms": 1,
+      "age": 10,
+      "floor": 14,
+      "totalFloors": 20,
+      "heating": "Klima",
+      "furnishing": "Furnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500235797194?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500182499240?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500661191788?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500220409454?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500034967985?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500840318033?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500727264217?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500271267124?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500342578119?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500397686194?w=800&q=80&category=building"
+    ],
+    "agent": {
+      "id": "A19",
+      "name": "Agent 71",
+      "phone": "+39 193 109 8032",
+      "email": "agent33@iwrealty.com",
+      "photo": "/images/icons/png/ankara-modern-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": true,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-07-24T10:50:47.234Z",
+    "updatedAt": "2025-11-13T10:50:47.234Z",
+    "storeId": "store-003"
+  },
+  {
+    "id": "P05068",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Residence - Lesotho Central",
+    "slug": "kiralik-residence-lesotho-central-P05068",
+    "description": "Lesotho Central, Lesotho bölgesinde residence. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 13489650,
+    "location": {
+      "country": "LS",
+      "city": "Lesotho Central",
+      "district": "Lesotho Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 607",
+      "coordinates": {
+        "lat": -29.55273250290965,
+        "lng": 28.64839457947579
+      }
+    },
+    "specs": {
+      "netSize": 138,
+      "grossSize": 166,
+      "rooms": "3+0",
+      "bathrooms": 3,
+      "age": 14,
+      "floor": 5,
+      "totalFloors": 16,
+      "heating": "Merkezi",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500462345606?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500213219284?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500759322927?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500710253937?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500861612829?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500428837394?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500938822869?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500943495576?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500262174830?w=800&q=80&category=architecture"
+    ],
+    "agent": {
+      "id": "A74",
+      "name": "Agent 17",
+      "phone": "+75 777 200 8965",
+      "email": "agent69@iwrealty.com",
+      "photo": "/images/icons/png/berlin-urban-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": false,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-04-02T10:50:47.234Z",
+    "updatedAt": "2025-11-13T10:50:47.234Z",
+    "storeId": "store-009"
+  },
+  {
+    "id": "P05069",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Daire - Lesotho City",
+    "slug": "satilik-daire-lesotho-city-P05069",
+    "description": "Lesotho City, Lesotho bölgesinde daire. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 4734898,
+    "location": {
+      "country": "LS",
+      "city": "Lesotho City",
+      "district": "Lesotho City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 841",
+      "coordinates": {
+        "lat": -29.7419197992786,
+        "lng": 28.717593475993183
+      }
+    },
+    "specs": {
+      "netSize": 359,
+      "grossSize": 431,
+      "rooms": "4+0",
+      "bathrooms": 1,
+      "age": 8,
+      "floor": 9,
+      "totalFloors": 7,
+      "heating": "Klima",
+      "furnishing": "Furnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500538701536?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500982321900?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500667431847?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500334857943?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500660358015?w=800&q=80&category=real-estate"
+    ],
+    "agent": {
+      "id": "A56",
+      "name": "Agent 13",
+      "phone": "+21 734 123 9040",
+      "email": "agent63@iwrealty.com",
+      "photo": "/images/icons/png/ankara-modern-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-08-15T10:50:47.234Z",
+    "updatedAt": "2025-11-13T10:50:47.234Z",
+    "storeId": "store-003"
+  },
+  {
+    "id": "P05070",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Müstakil Ev - Lesotho Central",
+    "slug": "kiralik-müstakil-ev-lesotho-central-P05070",
+    "description": "Lesotho Central, Lesotho bölgesinde müstakil ev. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 13970932,
+    "location": {
+      "country": "LS",
+      "city": "Lesotho Central",
+      "district": "Lesotho Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 362",
+      "coordinates": {
+        "lat": -29.94978555578823,
+        "lng": 28.976858302051184
+      }
+    },
+    "specs": {
+      "netSize": 357,
+      "grossSize": 428,
+      "rooms": "4+2",
+      "bathrooms": 3,
+      "age": 13,
+      "floor": 13,
+      "totalFloors": 7,
+      "heating": "Merkezi",
+      "furnishing": "Unfurnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500626138279?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500088755383?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500882003445?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500249379615?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500130280595?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500613967541?w=800&q=80&category=real-estate"
+    ],
+    "agent": {
+      "id": "A75",
+      "name": "Agent 5",
+      "phone": "+83 785 859 5553",
+      "email": "agent50@iwrealty.com",
+      "photo": "/images/icons/png/izmir-sahil-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-07-27T10:50:47.234Z",
+    "updatedAt": "2025-11-13T10:50:47.234Z",
+    "storeId": "store-005"
+  },
+  {
+    "id": "P05071",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Villa - Lesotho Central",
+    "slug": "satilik-villa-lesotho-central-P05071",
+    "description": "Lesotho Central, Lesotho bölgesinde villa. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 11996812,
+    "location": {
+      "country": "LS",
+      "city": "Lesotho Central",
+      "district": "Lesotho Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 218",
+      "coordinates": {
+        "lat": -29.575676001695843,
+        "lng": 28.972425057445506
+      }
+    },
+    "specs": {
+      "netSize": 95,
+      "grossSize": 114,
+      "rooms": "4+1",
+      "bathrooms": 2,
+      "age": 11,
+      "floor": 8,
+      "totalFloors": 20,
+      "heating": "Kombi",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500057631918?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500448645445?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500385351660?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500755616006?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500999501862?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500619237638?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500695491157?w=800&q=80&category=real-estate"
+    ],
+    "agent": {
+      "id": "A64",
+      "name": "Agent 42",
+      "phone": "+52 304 324 5809",
+      "email": "agent63@iwrealty.com",
+      "photo": "/images/icons/png/ankara-modern-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": false,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-06-24T10:50:47.234Z",
+    "updatedAt": "2025-11-13T10:50:47.234Z",
+    "storeId": "store-003"
+  },
+  {
+    "id": "P05072",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Villa - New Lesotho",
+    "slug": "kiralik-villa-new-lesotho-P05072",
+    "description": "New Lesotho, Lesotho bölgesinde villa. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 3117269,
+    "location": {
+      "country": "LS",
+      "city": "New Lesotho",
+      "district": "New Lesotho Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 802",
+      "coordinates": {
+        "lat": -29.077446394808405,
+        "lng": 28.452297069339487
+      }
+    },
+    "specs": {
+      "netSize": 210,
+      "grossSize": 252,
+      "rooms": "1+1",
+      "bathrooms": 4,
+      "age": 12,
+      "floor": 14,
+      "totalFloors": 12,
+      "heating": "Klima",
+      "furnishing": "Unfurnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500000686245?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500818363870?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500841170638?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500935493445?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500948229765?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500954268903?w=800&q=80&category=architecture"
+    ],
+    "agent": {
+      "id": "A91",
+      "name": "Agent 63",
+      "phone": "+99 618 890 6222",
+      "email": "agent7@iwrealty.com",
+      "photo": "/images/icons/png/izmir-sahil-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": false,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2024-11-26T10:50:47.234Z",
+    "updatedAt": "2025-11-13T10:50:47.234Z",
+    "storeId": "store-005"
+  },
+  {
+    "id": "P05073",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Villa - Lesotho City",
+    "slug": "satilik-villa-lesotho-city-P05073",
+    "description": "Lesotho City, Lesotho bölgesinde villa. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 9645626,
+    "location": {
+      "country": "LS",
+      "city": "Lesotho City",
+      "district": "Lesotho City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 125",
+      "coordinates": {
+        "lat": -29.269822016476876,
+        "lng": 28.79537531236717
+      }
+    },
+    "specs": {
+      "netSize": 402,
+      "grossSize": 482,
+      "rooms": "1+0",
+      "bathrooms": 3,
+      "age": 20,
+      "floor": 14,
+      "totalFloors": 14,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500150586629?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500446831800?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500604716473?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500786734317?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500909433782?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500785264925?w=800&q=80&category=architecture"
+    ],
+    "agent": {
+      "id": "A48",
+      "name": "Agent 3",
+      "phone": "+79 207 862 2086",
+      "email": "agent71@iwrealty.com",
+      "photo": "/images/icons/png/ny-skyline-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": false,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-05-07T10:50:47.234Z",
+    "updatedAt": "2025-11-13T10:50:47.234Z",
+    "storeId": "store-008"
+  },
+  {
+    "id": "P05074",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Müstakil Ev - Lesotho Central",
+    "slug": "kiralik-müstakil-ev-lesotho-central-P05074",
+    "description": "Lesotho Central, Lesotho bölgesinde müstakil ev. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 8043441,
+    "location": {
+      "country": "LS",
+      "city": "Lesotho Central",
+      "district": "Lesotho Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 651",
+      "coordinates": {
+        "lat": -29.474426285932715,
+        "lng": 28.160011821018987
+      }
+    },
+    "specs": {
+      "netSize": 447,
+      "grossSize": 536,
+      "rooms": "1+1",
+      "bathrooms": 4,
+      "age": 4,
+      "floor": 3,
+      "totalFloors": 7,
+      "heating": "Klima",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500670735721?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500179673191?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500998526384?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500868059287?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500065794490?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500422645005?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500655734758?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500443764677?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500174174729?w=800&q=80&category=building"
+    ],
+    "agent": {
+      "id": "A88",
+      "name": "Agent 49",
+      "phone": "+21 430 174 9982",
+      "email": "agent33@iwrealty.com",
+      "photo": "/images/icons/png/sg-harbour-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-06-03T10:50:47.234Z",
+    "updatedAt": "2025-11-13T10:50:47.234Z",
+    "storeId": "store-011"
+  },
+  {
+    "id": "P05075",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Residence - Lesotho Central",
+    "slug": "satilik-residence-lesotho-central-P05075",
+    "description": "Lesotho Central, Lesotho bölgesinde residence. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 14696675,
+    "location": {
+      "country": "LS",
+      "city": "Lesotho Central",
+      "district": "Lesotho Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 910",
+      "coordinates": {
+        "lat": -29.535839955784205,
+        "lng": 28.757958956846718
+      }
+    },
+    "specs": {
+      "netSize": 141,
+      "grossSize": 169,
+      "rooms": "1+2",
+      "bathrooms": 4,
+      "age": 11,
+      "floor": 13,
+      "totalFloors": 20,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Furnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500281041729?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500667334651?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500984016769?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500033857348?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500828957640?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500937849948?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500402240755?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500890751634?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500864595905?w=800&q=80&category=interior"
+    ],
+    "agent": {
+      "id": "A50",
+      "name": "Agent 6",
+      "phone": "+81 918 497 8628",
+      "email": "agent24@iwrealty.com",
+      "photo": "/images/icons/png/ankara-modern-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-07-03T10:50:47.234Z",
+    "updatedAt": "2025-11-13T10:50:47.234Z",
+    "storeId": "store-003"
+  },
+  {
+    "id": "P05076",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Daire - New Lesotho",
+    "slug": "kiralik-daire-new-lesotho-P05076",
+    "description": "New Lesotho, Lesotho bölgesinde daire. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 13771447,
+    "location": {
+      "country": "LS",
+      "city": "New Lesotho",
+      "district": "New Lesotho Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 22",
+      "coordinates": {
+        "lat": -29.7515872709737,
+        "lng": 28.022799006694115
+      }
+    },
+    "specs": {
+      "netSize": 429,
+      "grossSize": 515,
+      "rooms": "3+0",
+      "bathrooms": 3,
+      "age": 5,
+      "floor": 8,
+      "totalFloors": 20,
+      "heating": "Merkezi",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500763798997?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500676780400?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500604354529?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500655800249?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500460451580?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500433993857?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500845764933?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500302018878?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500754837744?w=800&q=80&category=architecture"
+    ],
+    "agent": {
+      "id": "A36",
+      "name": "Agent 69",
+      "phone": "+72 580 330 6353",
+      "email": "agent84@iwrealty.com",
+      "photo": "/images/icons/png/berlin-urban-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": false,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": true,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-02-25T10:50:47.234Z",
+    "updatedAt": "2025-11-13T10:50:47.234Z",
+    "storeId": "store-009"
+  },
+  {
+    "id": "P05077",
+    "type": "sale",
+    "category": {
+      "main": "commercial",
+      "sub": "hospital"
+    },
+    "title": "Satılık Hastane - Lesotho Central",
+    "slug": "satilik-hastane-lesotho-central-P05077",
+    "description": "Lesotho Central, Lesotho bölgesinde hastane. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 59953353,
+    "location": {
+      "country": "LS",
+      "city": "Lesotho Central",
+      "district": "Lesotho Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 601",
+      "coordinates": {
+        "lat": -29.128515714221557,
+        "lng": 28.242788879672055
+      }
+    },
+    "specs": {
+      "netSize": 8486,
+      "grossSize": 10183,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 20,
+      "floor": 14,
+      "totalFloors": 5,
+      "heating": "Klima",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500123991426?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500041619544?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500683370252?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500578932577?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500146686865?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500196075557?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500179237662?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500805523441?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500828824940?w=800&q=80&category=architecture"
+    ],
+    "agent": {
+      "id": "A97",
+      "name": "Agent 65",
+      "phone": "+19 584 731 4348",
+      "email": "agent3@iwrealty.com",
+      "photo": "/images/icons/png/luxury-homes-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": true,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-05-07T10:50:47.234Z",
+    "updatedAt": "2025-11-13T10:50:47.234Z",
+    "storeId": "store-002"
+  },
+  {
+    "id": "P05078",
+    "type": "rent",
+    "category": {
+      "main": "commercial",
+      "sub": "hospital"
+    },
+    "title": "Kiralık Hastane - Lesotho City",
+    "slug": "kiralik-hastane-lesotho-city-P05078",
+    "description": "Lesotho City, Lesotho bölgesinde hastane. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 27252985,
+    "location": {
+      "country": "LS",
+      "city": "Lesotho City",
+      "district": "Lesotho City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 832",
+      "coordinates": {
+        "lat": -29.601131924226767,
+        "lng": 28.243196234688487
+      }
+    },
+    "specs": {
+      "netSize": 15035,
+      "grossSize": 18042,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 0,
+      "floor": 14,
+      "totalFloors": 17,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500598715327?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500734453872?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500741895596?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500830562957?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500228924255?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500047242386?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500407240302?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500591371229?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500459929419?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500191096003?w=800&q=80&category=real-estate"
+    ],
+    "agent": {
+      "id": "A83",
+      "name": "Agent 67",
+      "phone": "+15 329 938 4378",
+      "email": "agent4@iwrealty.com",
+      "photo": "/images/icons/png/paris-heritage-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": false,
+      "hasBalcony": false,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2024-11-20T10:50:47.234Z",
+    "updatedAt": "2025-11-13T10:50:47.234Z",
+    "storeId": "store-010"
+  },
+  {
+    "id": "P05079",
+    "type": "sale",
+    "category": {
+      "main": "commercial",
+      "sub": "clinic"
+    },
+    "title": "Satılık Klinik - Maseru",
+    "slug": "satilik-klinik-maseru-P05079",
+    "description": "Maseru, Lesotho bölgesinde klinik. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 6792654,
+    "location": {
+      "country": "LS",
+      "city": "Maseru",
+      "district": "Maseru Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 601",
+      "coordinates": {
+        "lat": -29.23441484951679,
+        "lng": 28.931744946864274
+      }
+    },
+    "specs": {
+      "netSize": 537,
+      "grossSize": 644,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 18,
+      "floor": 5,
+      "totalFloors": 9,
+      "heating": "Kombi",
+      "furnishing": "Unfurnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500108864639?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500143938425?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500989328636?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500038235149?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500883450696?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500611924089?w=800&q=80&category=house"
+    ],
+    "agent": {
+      "id": "A56",
+      "name": "Agent 65",
+      "phone": "+52 875 137 7565",
+      "email": "agent46@iwrealty.com",
+      "photo": "/images/icons/png/luxury-homes-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": false,
+      "hasBalcony": false,
+      "hasGarden": true,
+      "hasPool": true,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-04-06T10:50:47.234Z",
+    "updatedAt": "2025-11-13T10:50:47.234Z",
+    "storeId": "store-002"
+  },
+  {
+    "id": "P05080",
+    "type": "rent",
+    "category": {
+      "main": "commercial",
+      "sub": "clinic"
+    },
+    "title": "Kiralık Klinik - Maseru",
+    "slug": "kiralik-klinik-maseru-P05080",
+    "description": "Maseru, Lesotho bölgesinde klinik. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 15290031,
+    "location": {
+      "country": "LS",
+      "city": "Maseru",
+      "district": "Maseru Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 924",
+      "coordinates": {
+        "lat": -29.601092645943833,
+        "lng": 28.832147600076993
+      }
+    },
+    "specs": {
+      "netSize": 1445,
+      "grossSize": 1734,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 7,
+      "floor": 9,
+      "totalFloors": 19,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Furnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500991252098?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500804740742?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500915830798?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500749779814?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500358172890?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500291224357?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500343991668?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500665676950?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500897646839?w=800&q=80&category=architecture"
+    ],
+    "agent": {
+      "id": "A59",
+      "name": "Agent 93",
+      "phone": "+93 779 174 7482",
+      "email": "agent78@iwrealty.com",
+      "photo": "/images/icons/png/london-prime-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": true,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-05-02T10:50:47.234Z",
+    "updatedAt": "2025-11-13T10:50:47.234Z",
+    "storeId": "store-007"
+  },
+  {
+    "id": "P05081",
+    "type": "sale",
+    "category": {
+      "main": "commercial",
+      "sub": "shop"
+    },
+    "title": "Satılık Dükkan - Lesotho Central",
+    "slug": "satilik-dükkan-lesotho-central-P05081",
+    "description": "Lesotho Central, Lesotho bölgesinde dükkan. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 7403630,
+    "location": {
+      "country": "LS",
+      "city": "Lesotho Central",
+      "district": "Lesotho Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 524",
+      "coordinates": {
+        "lat": -29.634235752859613,
+        "lng": 28.65323868404614
+      }
+    },
+    "specs": {
+      "netSize": 199,
+      "grossSize": 239,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 6,
+      "floor": 3,
+      "totalFloors": 15,
+      "heating": "Merkezi",
+      "furnishing": "Unfurnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500703641851?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500355565243?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500532954423?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500537640415?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500657748884?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500233561214?w=800&q=80&category=architecture"
+    ],
+    "agent": {
+      "id": "A67",
+      "name": "Agent 97",
+      "phone": "+36 114 930 5678",
+      "email": "agent83@iwrealty.com",
+      "photo": "/images/icons/png/antalya-investment-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-02-10T10:50:47.234Z",
+    "updatedAt": "2025-11-13T10:50:47.234Z",
+    "storeId": "store-006"
+  },
+  {
+    "id": "P05082",
+    "type": "rent",
+    "category": {
+      "main": "commercial",
+      "sub": "shop"
+    },
+    "title": "Kiralık Dükkan - Lesotho City",
+    "slug": "kiralik-dükkan-lesotho-city-P05082",
+    "description": "Lesotho City, Lesotho bölgesinde dükkan. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 2143647,
+    "location": {
+      "country": "LS",
+      "city": "Lesotho City",
+      "district": "Lesotho City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 948",
+      "coordinates": {
+        "lat": -29.46516458292441,
+        "lng": 28.927850892205875
+      }
+    },
+    "specs": {
+      "netSize": 77,
+      "grossSize": 92,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 18,
+      "floor": 14,
+      "totalFloors": 12,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500054767985?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500913793372?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500041735658?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500998122595?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500010745785?w=800&q=80&category=house"
+    ],
+    "agent": {
+      "id": "A30",
+      "name": "Agent 64",
+      "phone": "+16 182 921 1354",
+      "email": "agent17@iwrealty.com",
+      "photo": "/images/icons/png/izmir-sahil-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-02-14T10:50:47.234Z",
+    "updatedAt": "2025-11-13T10:50:47.234Z",
+    "storeId": "store-005"
+  },
+  {
+    "id": "P05083",
+    "type": "sale",
+    "category": {
+      "main": "commercial",
+      "sub": "office"
+    },
+    "title": "Satılık Ofis - Maseru",
+    "slug": "satilik-ofis-maseru-P05083",
+    "description": "Maseru, Lesotho bölgesinde ofis. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 11740050,
+    "location": {
+      "country": "LS",
+      "city": "Maseru",
+      "district": "Maseru Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 978",
+      "coordinates": {
+        "lat": -29.056869175439115,
+        "lng": 28.579537697997424
+      }
+    },
+    "specs": {
+      "netSize": 962,
+      "grossSize": 1154,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 5,
+      "floor": 4,
+      "totalFloors": 14,
+      "heating": "Klima",
+      "furnishing": "Unfurnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500158025622?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500912349115?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500572121205?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500701782785?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500721518237?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500330995213?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500074810928?w=800&q=80&category=real-estate"
+    ],
+    "agent": {
+      "id": "A76",
+      "name": "Agent 33",
+      "phone": "+11 171 193 3783",
+      "email": "agent64@iwrealty.com",
+      "photo": "/images/icons/png/berlin-urban-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-08-29T10:50:47.234Z",
+    "updatedAt": "2025-11-13T10:50:47.234Z",
+    "storeId": "store-009"
+  },
+  {
+    "id": "P05084",
+    "type": "rent",
+    "category": {
+      "main": "commercial",
+      "sub": "office"
+    },
+    "title": "Kiralık Ofis - Lesotho City",
+    "slug": "kiralik-ofis-lesotho-city-P05084",
+    "description": "Lesotho City, Lesotho bölgesinde ofis. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 6341838,
+    "location": {
+      "country": "LS",
+      "city": "Lesotho City",
+      "district": "Lesotho City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 860",
+      "coordinates": {
+        "lat": -29.330304455105235,
+        "lng": 28.29630905006811
+      }
+    },
+    "specs": {
+      "netSize": 632,
+      "grossSize": 758,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 11,
+      "floor": 7,
+      "totalFloors": 14,
+      "heating": "Merkezi",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500356111479?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500311993882?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500897243830?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500189475155?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500086042298?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500283491435?w=800&q=80&category=architecture"
+    ],
+    "agent": {
+      "id": "A60",
+      "name": "Agent 4",
+      "phone": "+56 673 749 2807",
+      "email": "agent43@iwrealty.com",
+      "photo": "/images/icons/png/sydney-coastal-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2024-11-19T10:50:47.234Z",
+    "updatedAt": "2025-11-13T10:50:47.234Z",
+    "storeId": "store-012"
+  },
+  {
+    "id": "P05085",
+    "type": "sale",
+    "category": {
+      "main": "commercial",
+      "sub": "mall"
+    },
+    "title": "Satılık AVM - New Lesotho",
+    "slug": "satilik-avm-new-lesotho-P05085",
+    "description": "New Lesotho, Lesotho bölgesinde avm. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 337884327,
+    "location": {
+      "country": "LS",
+      "city": "New Lesotho",
+      "district": "New Lesotho Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 910",
+      "coordinates": {
+        "lat": -29.03485776766226,
+        "lng": 28.64898262735578
+      }
+    },
+    "specs": {
+      "netSize": 29811,
+      "grossSize": 35773,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 8,
+      "floor": 5,
+      "totalFloors": 12,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500348787819?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500155879178?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500371832504?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500080958094?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500564292247?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500855954534?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500279597391?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500854408846?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500601384621?w=800&q=80&category=house"
+    ],
+    "agent": {
+      "id": "A91",
+      "name": "Agent 52",
+      "phone": "+13 379 813 4842",
+      "email": "agent71@iwrealty.com",
+      "photo": "/images/icons/png/sg-harbour-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": false,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-06-15T10:50:47.234Z",
+    "updatedAt": "2025-11-13T10:50:47.234Z",
+    "storeId": "store-011"
+  },
+  {
+    "id": "P05086",
+    "type": "rent",
+    "category": {
+      "main": "commercial",
+      "sub": "mall"
+    },
+    "title": "Kiralık AVM - Lesotho Central",
+    "slug": "kiralik-avm-lesotho-central-P05086",
+    "description": "Lesotho Central, Lesotho bölgesinde avm. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 268216953,
+    "location": {
+      "country": "LS",
+      "city": "Lesotho Central",
+      "district": "Lesotho Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 168",
+      "coordinates": {
+        "lat": -29.93503604342077,
+        "lng": 28.31534350240111
+      }
+    },
+    "specs": {
+      "netSize": 17472,
+      "grossSize": 20966,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 6,
+      "floor": 7,
+      "totalFloors": 8,
+      "heating": "Merkezi",
+      "furnishing": "Unfurnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500890050490?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500337058128?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500744150287?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500378225599?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500934710963?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500920877756?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500835984630?w=800&q=80&category=interior"
+    ],
+    "agent": {
+      "id": "A38",
+      "name": "Agent 83",
+      "phone": "+16 620 750 5896",
+      "email": "agent35@iwrealty.com",
+      "photo": "/images/icons/png/ny-skyline-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-11-01T10:50:47.234Z",
+    "updatedAt": "2025-11-13T10:50:47.234Z",
+    "storeId": "store-008"
+  },
+  {
+    "id": "P05087",
+    "type": "sale",
+    "category": {
+      "main": "commercial",
+      "sub": "hotel"
+    },
+    "title": "Satılık Otel - New Lesotho",
+    "slug": "satilik-otel-new-lesotho-P05087",
+    "description": "New Lesotho, Lesotho bölgesinde otel. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 147060667,
+    "location": {
+      "country": "LS",
+      "city": "New Lesotho",
+      "district": "New Lesotho Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 983",
+      "coordinates": {
+        "lat": -29.94814240423612,
+        "lng": 28.453070259485965
+      }
+    },
+    "specs": {
+      "netSize": 21892,
+      "grossSize": 26270,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 4,
+      "floor": 1,
+      "totalFloors": 17,
+      "heating": "Kombi",
+      "furnishing": "Furnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500501198339?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500170937446?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500473763851?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500572319476?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500278861869?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500347393098?w=800&q=80&category=interior"
+    ],
+    "agent": {
+      "id": "A85",
+      "name": "Agent 10",
+      "phone": "+31 766 877 4260",
+      "email": "agent20@iwrealty.com",
+      "photo": "/images/icons/png/luxury-homes-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-03-25T10:50:47.234Z",
+    "updatedAt": "2025-11-13T10:50:47.234Z",
+    "storeId": "store-002"
+  },
+  {
+    "id": "P05088",
+    "type": "rent",
+    "category": {
+      "main": "commercial",
+      "sub": "hotel"
+    },
+    "title": "Kiralık Otel - Maseru",
+    "slug": "kiralik-otel-maseru-P05088",
+    "description": "Maseru, Lesotho bölgesinde otel. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 52494029,
+    "location": {
+      "country": "LS",
+      "city": "Maseru",
+      "district": "Maseru Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 865",
+      "coordinates": {
+        "lat": -29.2398708845301,
+        "lng": 28.141891378769515
+      }
+    },
+    "specs": {
+      "netSize": 23404,
+      "grossSize": 28085,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 19,
+      "floor": 4,
+      "totalFloors": 10,
+      "heating": "Kombi",
+      "furnishing": "Unfurnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500426340672?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500080839226?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500660669704?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500432884511?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500154835877?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500640880100?w=800&q=80&category=architecture"
+    ],
+    "agent": {
+      "id": "A27",
+      "name": "Agent 89",
+      "phone": "+22 452 763 5950",
+      "email": "agent64@iwrealty.com",
+      "photo": "/images/icons/png/antalya-investment-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": false,
+      "hasBalcony": false,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-06-17T10:50:47.234Z",
+    "updatedAt": "2025-11-13T10:50:47.234Z",
+    "storeId": "store-006"
+  },
+  {
+    "id": "P05089",
+    "type": "sale",
+    "category": {
+      "main": "commercial",
+      "sub": "restaurant"
+    },
+    "title": "Satılık Restoran - Maseru",
+    "slug": "satilik-restoran-maseru-P05089",
+    "description": "Maseru, Lesotho bölgesinde restoran. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 2159407,
+    "location": {
+      "country": "LS",
+      "city": "Maseru",
+      "district": "Maseru Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 95",
+      "coordinates": {
+        "lat": -29.08904502481568,
+        "lng": 28.415590160164665
+      }
+    },
+    "specs": {
+      "netSize": 1461,
+      "grossSize": 1753,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 10,
+      "floor": 1,
+      "totalFloors": 10,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500455006596?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500736627022?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500966176357?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500552041170?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500156464819?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500767996073?w=800&q=80&category=architecture"
+    ],
+    "agent": {
+      "id": "A3",
+      "name": "Agent 91",
+      "phone": "+15 607 417 9019",
+      "email": "agent93@iwrealty.com",
+      "photo": "/images/icons/png/sydney-coastal-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-09-01T10:50:47.234Z",
+    "updatedAt": "2025-11-13T10:50:47.234Z",
+    "storeId": "store-012"
+  },
+  {
+    "id": "P05090",
+    "type": "rent",
+    "category": {
+      "main": "commercial",
+      "sub": "restaurant"
+    },
+    "title": "Kiralık Restoran - Maseru",
+    "slug": "kiralik-restoran-maseru-P05090",
+    "description": "Maseru, Lesotho bölgesinde restoran. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 4587674,
+    "location": {
+      "country": "LS",
+      "city": "Maseru",
+      "district": "Maseru Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 625",
+      "coordinates": {
+        "lat": -29.48563200300881,
+        "lng": 28.391200838957502
+      }
+    },
+    "specs": {
+      "netSize": 969,
+      "grossSize": 1163,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 14,
+      "floor": 14,
+      "totalFloors": 17,
+      "heating": "Klima",
+      "furnishing": "Unfurnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500942984063?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500610497038?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500725230598?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500656811368?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500194607330?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500153523023?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500672361408?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500849551927?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500825239481?w=800&q=80&category=building"
+    ],
+    "agent": {
+      "id": "A62",
+      "name": "Agent 7",
+      "phone": "+28 738 292 8059",
+      "email": "agent6@iwrealty.com",
+      "photo": "/images/icons/png/sg-harbour-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": false,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-02-16T10:50:47.234Z",
+    "updatedAt": "2025-11-13T10:50:47.234Z",
+    "storeId": "store-011"
+  },
+  {
+    "id": "P05091",
+    "type": "sale",
+    "category": {
+      "main": "commercial",
+      "sub": "warehouse"
+    },
+    "title": "Satılık Depo - Lesotho Central",
+    "slug": "satilik-depo-lesotho-central-P05091",
+    "description": "Lesotho Central, Lesotho bölgesinde depo. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 29981882,
+    "location": {
+      "country": "LS",
+      "city": "Lesotho Central",
+      "district": "Lesotho Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 258",
+      "coordinates": {
+        "lat": -29.406835136902796,
+        "lng": 28.77115747271346
+      }
+    },
+    "specs": {
+      "netSize": 9262,
+      "grossSize": 11114,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 4,
+      "floor": 10,
+      "totalFloors": 10,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Unfurnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500044718307?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500737781039?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500484467104?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500552103650?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500291899754?w=800&q=80&category=architecture"
+    ],
+    "agent": {
+      "id": "A49",
+      "name": "Agent 7",
+      "phone": "+44 823 424 7336",
+      "email": "agent65@iwrealty.com",
+      "photo": "/images/icons/png/sydney-coastal-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-02-13T10:50:47.234Z",
+    "updatedAt": "2025-11-13T10:50:47.234Z",
+    "storeId": "store-012"
+  },
+  {
+    "id": "P05092",
+    "type": "rent",
+    "category": {
+      "main": "commercial",
+      "sub": "warehouse"
+    },
+    "title": "Kiralık Depo - Lesotho Central",
+    "slug": "kiralik-depo-lesotho-central-P05092",
+    "description": "Lesotho Central, Lesotho bölgesinde depo. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 6677825,
+    "location": {
+      "country": "LS",
+      "city": "Lesotho Central",
+      "district": "Lesotho Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 184",
+      "coordinates": {
+        "lat": -29.114098508198538,
+        "lng": 28.896576829357514
+      }
+    },
+    "specs": {
+      "netSize": 6121,
+      "grossSize": 7345,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 12,
+      "floor": 12,
+      "totalFloors": 16,
+      "heating": "Klima",
+      "furnishing": "Furnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500710448635?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500588526518?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500211562691?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500567420050?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500772951966?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500981004000?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500529619018?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500049506879?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500051668332?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500802344346?w=800&q=80&category=building"
+    ],
+    "agent": {
+      "id": "A5",
+      "name": "Agent 38",
+      "phone": "+91 149 731 2542",
+      "email": "agent17@iwrealty.com",
+      "photo": "/images/icons/png/dubai-property-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": false,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-03-23T10:50:47.234Z",
+    "updatedAt": "2025-11-13T10:50:47.234Z",
+    "storeId": "store-004"
+  }
+]

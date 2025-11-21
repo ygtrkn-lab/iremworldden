@@ -1,0 +1,2355 @@
+[
+  {
+    "id": "P03649",
+    "type": "sale",
+    "category": {
+      "main": "government"
+    },
+    "title": "Satılık Okul - Guyana City",
+    "slug": "satilik-okul-guyana-city-P03649",
+    "description": "Guyana City, Guyana bölgesinde okul. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 11111118,
+    "location": {
+      "country": "GY",
+      "city": "Guyana City",
+      "district": "Guyana City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 468",
+      "coordinates": {
+        "lat": 5.049510587141014,
+        "lng": -58.762378875924966
+      }
+    },
+    "specs": {
+      "netSize": 1733,
+      "grossSize": 2080,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 1,
+      "floor": 5,
+      "totalFloors": 19,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Unfurnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500481013845?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500479905959?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500132475615?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500860914144?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500965121365?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500632512331?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500636533431?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500938824808?w=800&q=80&category=architecture"
+    ],
+    "agent": {
+      "id": "A31",
+      "name": "Agent 64",
+      "phone": "+57 392 617 4409",
+      "email": "agent82@iwrealty.com",
+      "photo": "/images/icons/png/izmir-sahil-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-08-30T10:50:47.217Z",
+    "updatedAt": "2025-11-13T10:50:47.217Z",
+    "storeId": "store-005"
+  },
+  {
+    "id": "P03650",
+    "type": "rent",
+    "category": {
+      "main": "government"
+    },
+    "title": "Kiralık Devlet Binası - New Guyana",
+    "slug": "kiralik-devlet-binası-new-guyana-P03650",
+    "description": "New Guyana, Guyana bölgesinde devlet binası. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 46014315,
+    "location": {
+      "country": "GY",
+      "city": "New Guyana",
+      "district": "New Guyana Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 816",
+      "coordinates": {
+        "lat": 4.89067545747945,
+        "lng": -59.447775646780265
+      }
+    },
+    "specs": {
+      "netSize": 4048,
+      "grossSize": 4858,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 6,
+      "floor": 1,
+      "totalFloors": 14,
+      "heating": "Kombi",
+      "furnishing": "Furnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500769261030?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500553293210?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500989045636?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500351847232?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500664313492?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500242737996?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500908357870?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500957418091?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500657272451?w=800&q=80&category=building"
+    ],
+    "agent": {
+      "id": "A45",
+      "name": "Agent 36",
+      "phone": "+75 928 147 9729",
+      "email": "agent21@iwrealty.com",
+      "photo": "/images/icons/png/london-prime-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": false,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2024-11-14T10:50:47.217Z",
+    "updatedAt": "2025-11-13T10:50:47.217Z",
+    "storeId": "store-007"
+  },
+  {
+    "id": "P03651",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Müstakil Ev - Guyana Central",
+    "slug": "satilik-müstakil-ev-guyana-central-P03651",
+    "description": "Guyana Central, Guyana bölgesinde müstakil ev. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 14628271,
+    "location": {
+      "country": "GY",
+      "city": "Guyana Central",
+      "district": "Guyana Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 93",
+      "coordinates": {
+        "lat": 4.629920151739683,
+        "lng": -58.78634673789486
+      }
+    },
+    "specs": {
+      "netSize": 450,
+      "grossSize": 540,
+      "rooms": "1+0",
+      "bathrooms": 3,
+      "age": 13,
+      "floor": 2,
+      "totalFloors": 18,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Unfurnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500963229871?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500221402370?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500270983014?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500268823210?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500803588304?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500834236095?w=800&q=80&category=architecture"
+    ],
+    "agent": {
+      "id": "A75",
+      "name": "Agent 62",
+      "phone": "+32 123 869 2564",
+      "email": "agent22@iwrealty.com",
+      "photo": "/images/icons/png/london-prime-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-05-17T10:50:47.217Z",
+    "updatedAt": "2025-11-13T10:50:47.217Z",
+    "storeId": "store-007"
+  },
+  {
+    "id": "P03652",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Villa - Guyana Central",
+    "slug": "kiralik-villa-guyana-central-P03652",
+    "description": "Guyana Central, Guyana bölgesinde villa. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 5505865,
+    "location": {
+      "country": "GY",
+      "city": "Guyana Central",
+      "district": "Guyana Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 323",
+      "coordinates": {
+        "lat": 4.771119374207914,
+        "lng": -58.77077296187819
+      }
+    },
+    "specs": {
+      "netSize": 178,
+      "grossSize": 214,
+      "rooms": "1+2",
+      "bathrooms": 3,
+      "age": 10,
+      "floor": 7,
+      "totalFloors": 16,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Furnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500827485832?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500603172645?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500045980922?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500687121326?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500102774681?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500052045930?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500452031001?w=800&q=80&category=interior"
+    ],
+    "agent": {
+      "id": "A42",
+      "name": "Agent 37",
+      "phone": "+21 977 607 8362",
+      "email": "agent48@iwrealty.com",
+      "photo": "/images/icons/png/ny-skyline-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-08-07T10:50:47.217Z",
+    "updatedAt": "2025-11-13T10:50:47.217Z",
+    "storeId": "store-008"
+  },
+  {
+    "id": "P03653",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Villa - Guyana City",
+    "slug": "satilik-villa-guyana-city-P03653",
+    "description": "Guyana City, Guyana bölgesinde villa. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 10675303,
+    "location": {
+      "country": "GY",
+      "city": "Guyana City",
+      "district": "Guyana City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 491",
+      "coordinates": {
+        "lat": 5.392234340815737,
+        "lng": -58.52020401862007
+      }
+    },
+    "specs": {
+      "netSize": 275,
+      "grossSize": 330,
+      "rooms": "1+1",
+      "bathrooms": 2,
+      "age": 0,
+      "floor": 4,
+      "totalFloors": 17,
+      "heating": "Kombi",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500921909972?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500398677787?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500505425496?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500586254475?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500399832682?w=800&q=80&category=house"
+    ],
+    "agent": {
+      "id": "A36",
+      "name": "Agent 26",
+      "phone": "+31 117 774 5218",
+      "email": "agent58@iwrealty.com",
+      "photo": "/images/icons/png/berlin-urban-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": true,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-02-17T10:50:47.217Z",
+    "updatedAt": "2025-11-13T10:50:47.217Z",
+    "storeId": "store-009"
+  },
+  {
+    "id": "P03654",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Daire - Guyana Central",
+    "slug": "kiralik-daire-guyana-central-P03654",
+    "description": "Guyana Central, Guyana bölgesinde daire. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 4478751,
+    "location": {
+      "country": "GY",
+      "city": "Guyana Central",
+      "district": "Guyana Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 816",
+      "coordinates": {
+        "lat": 4.666447270620834,
+        "lng": -58.78905450187451
+      }
+    },
+    "specs": {
+      "netSize": 309,
+      "grossSize": 371,
+      "rooms": "3+1",
+      "bathrooms": 3,
+      "age": 13,
+      "floor": 11,
+      "totalFloors": 15,
+      "heating": "Klima",
+      "furnishing": "Unfurnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500166067063?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500834890338?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500155213922?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500196866454?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500855346083?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500152836183?w=800&q=80&category=interior"
+    ],
+    "agent": {
+      "id": "A5",
+      "name": "Agent 13",
+      "phone": "+13 876 883 2501",
+      "email": "agent82@iwrealty.com",
+      "photo": "/images/icons/png/sg-harbour-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": true,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-01-24T10:50:47.217Z",
+    "updatedAt": "2025-11-13T10:50:47.217Z",
+    "storeId": "store-011"
+  },
+  {
+    "id": "P03655",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Villa - New Guyana",
+    "slug": "satilik-villa-new-guyana-P03655",
+    "description": "New Guyana, Guyana bölgesinde villa. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 10431584,
+    "location": {
+      "country": "GY",
+      "city": "New Guyana",
+      "district": "New Guyana Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 809",
+      "coordinates": {
+        "lat": 5.18889279529732,
+        "lng": -59.41894088372646
+      }
+    },
+    "specs": {
+      "netSize": 294,
+      "grossSize": 353,
+      "rooms": "1+2",
+      "bathrooms": 4,
+      "age": 0,
+      "floor": 13,
+      "totalFloors": 8,
+      "heating": "Klima",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500355815918?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500859561598?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500118623484?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500834038609?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500413009602?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500956062948?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500901947953?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500743691788?w=800&q=80&category=real-estate"
+    ],
+    "agent": {
+      "id": "A18",
+      "name": "Agent 29",
+      "phone": "+28 309 998 1357",
+      "email": "agent20@iwrealty.com",
+      "photo": "/images/icons/png/antalya-investment-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-09-05T10:50:47.217Z",
+    "updatedAt": "2025-11-13T10:50:47.217Z",
+    "storeId": "store-006"
+  },
+  {
+    "id": "P03656",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Daire - Guyana City",
+    "slug": "kiralik-daire-guyana-city-P03656",
+    "description": "Guyana City, Guyana bölgesinde daire. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 9981165,
+    "location": {
+      "country": "GY",
+      "city": "Guyana City",
+      "district": "Guyana City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 644",
+      "coordinates": {
+        "lat": 4.825282297221533,
+        "lng": -59.31213948446472
+      }
+    },
+    "specs": {
+      "netSize": 228,
+      "grossSize": 274,
+      "rooms": "1+1",
+      "bathrooms": 1,
+      "age": 2,
+      "floor": 11,
+      "totalFloors": 16,
+      "heating": "Kombi",
+      "furnishing": "Furnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500170560358?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500137426368?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500989594674?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500847885982?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500892847333?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500970709017?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500764191200?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500964225769?w=800&q=80&category=building"
+    ],
+    "agent": {
+      "id": "A89",
+      "name": "Agent 85",
+      "phone": "+49 476 849 9077",
+      "email": "agent58@iwrealty.com",
+      "photo": "/images/icons/png/berlin-urban-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-01-01T10:50:47.217Z",
+    "updatedAt": "2025-11-13T10:50:47.217Z",
+    "storeId": "store-009"
+  },
+  {
+    "id": "P03657",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Müstakil Ev - Guyana City",
+    "slug": "satilik-müstakil-ev-guyana-city-P03657",
+    "description": "Guyana City, Guyana bölgesinde müstakil ev. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 11645712,
+    "location": {
+      "country": "GY",
+      "city": "Guyana City",
+      "district": "Guyana City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 387",
+      "coordinates": {
+        "lat": 4.688384403122126,
+        "lng": -59.410392137693066
+      }
+    },
+    "specs": {
+      "netSize": 128,
+      "grossSize": 154,
+      "rooms": "3+2",
+      "bathrooms": 4,
+      "age": 16,
+      "floor": 4,
+      "totalFloors": 10,
+      "heating": "Klima",
+      "furnishing": "Furnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500854715036?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500296961352?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500562100221?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500155734972?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500114416025?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500583018290?w=800&q=80&category=architecture"
+    ],
+    "agent": {
+      "id": "A47",
+      "name": "Agent 53",
+      "phone": "+25 161 451 3779",
+      "email": "agent94@iwrealty.com",
+      "photo": "/images/icons/png/ankara-modern-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-06-13T10:50:47.217Z",
+    "updatedAt": "2025-11-13T10:50:47.217Z",
+    "storeId": "store-003"
+  },
+  {
+    "id": "P03658",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Müstakil Ev - Guyana City",
+    "slug": "kiralik-müstakil-ev-guyana-city-P03658",
+    "description": "Guyana City, Guyana bölgesinde müstakil ev. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 12703537,
+    "location": {
+      "country": "GY",
+      "city": "Guyana City",
+      "district": "Guyana City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 584",
+      "coordinates": {
+        "lat": 4.746730943096347,
+        "lng": -59.45027874465251
+      }
+    },
+    "specs": {
+      "netSize": 154,
+      "grossSize": 185,
+      "rooms": "4+2",
+      "bathrooms": 4,
+      "age": 12,
+      "floor": 11,
+      "totalFloors": 8,
+      "heating": "Kombi",
+      "furnishing": "Furnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500174659486?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500610045571?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500173227288?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500028813238?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500826354446?w=800&q=80&category=real-estate"
+    ],
+    "agent": {
+      "id": "A94",
+      "name": "Agent 78",
+      "phone": "+29 801 735 8316",
+      "email": "agent68@iwrealty.com",
+      "photo": "/images/icons/png/antalya-investment-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-03-09T10:50:47.217Z",
+    "updatedAt": "2025-11-13T10:50:47.217Z",
+    "storeId": "store-006"
+  },
+  {
+    "id": "P03659",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Villa - Guyana City",
+    "slug": "satilik-villa-guyana-city-P03659",
+    "description": "Guyana City, Guyana bölgesinde villa. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 14774472,
+    "location": {
+      "country": "GY",
+      "city": "Guyana City",
+      "district": "Guyana City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 254",
+      "coordinates": {
+        "lat": 5.259789572376198,
+        "lng": -59.3601537657359
+      }
+    },
+    "specs": {
+      "netSize": 441,
+      "grossSize": 529,
+      "rooms": "3+2",
+      "bathrooms": 1,
+      "age": 4,
+      "floor": 13,
+      "totalFloors": 11,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500101472932?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500245261961?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500025984130?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500947610207?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500035536690?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500905320169?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500636330834?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500821340704?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500074128448?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500885298727?w=800&q=80&category=house"
+    ],
+    "agent": {
+      "id": "A8",
+      "name": "Agent 92",
+      "phone": "+89 194 377 6141",
+      "email": "agent57@iwrealty.com",
+      "photo": "/images/icons/png/luxury-homes-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": false,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-09-09T10:50:47.217Z",
+    "updatedAt": "2025-11-13T10:50:47.217Z",
+    "storeId": "store-002"
+  },
+  {
+    "id": "P03660",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Residence - Guyana City",
+    "slug": "kiralik-residence-guyana-city-P03660",
+    "description": "Guyana City, Guyana bölgesinde residence. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 9730405,
+    "location": {
+      "country": "GY",
+      "city": "Guyana City",
+      "district": "Guyana City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 363",
+      "coordinates": {
+        "lat": 4.5534844683986355,
+        "lng": -58.898038384675104
+      }
+    },
+    "specs": {
+      "netSize": 320,
+      "grossSize": 384,
+      "rooms": "2+0",
+      "bathrooms": 4,
+      "age": 18,
+      "floor": 15,
+      "totalFloors": 7,
+      "heating": "Kombi",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500813960914?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500496759079?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500425291175?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500717045304?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500976377886?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500987177070?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500264146610?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500033431088?w=800&q=80&category=house"
+    ],
+    "agent": {
+      "id": "A98",
+      "name": "Agent 74",
+      "phone": "+37 230 330 3097",
+      "email": "agent19@iwrealty.com",
+      "photo": "/images/icons/png/ny-skyline-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-10-05T10:50:47.217Z",
+    "updatedAt": "2025-11-13T10:50:47.217Z",
+    "storeId": "store-008"
+  },
+  {
+    "id": "P03661",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Daire - Guyana Central",
+    "slug": "satilik-daire-guyana-central-P03661",
+    "description": "Guyana Central, Guyana bölgesinde daire. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 10160913,
+    "location": {
+      "country": "GY",
+      "city": "Guyana Central",
+      "district": "Guyana Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 942",
+      "coordinates": {
+        "lat": 5.469690233065853,
+        "lng": -58.7568443810784
+      }
+    },
+    "specs": {
+      "netSize": 260,
+      "grossSize": 312,
+      "rooms": "4+0",
+      "bathrooms": 2,
+      "age": 18,
+      "floor": 5,
+      "totalFloors": 19,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Furnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500752137105?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500453809365?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500464118776?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500612171074?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500524295876?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500345483946?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500606244202?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500829324011?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500178553714?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500308173788?w=800&q=80&category=real-estate"
+    ],
+    "agent": {
+      "id": "A35",
+      "name": "Agent 76",
+      "phone": "+77 937 573 9776",
+      "email": "agent56@iwrealty.com",
+      "photo": "/images/icons/png/london-prime-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": false,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": true,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-09-23T10:50:47.217Z",
+    "updatedAt": "2025-11-13T10:50:47.217Z",
+    "storeId": "store-007"
+  },
+  {
+    "id": "P03662",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Daire - New Guyana",
+    "slug": "kiralik-daire-new-guyana-P03662",
+    "description": "New Guyana, Guyana bölgesinde daire. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 12190123,
+    "location": {
+      "country": "GY",
+      "city": "New Guyana",
+      "district": "New Guyana Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 45",
+      "coordinates": {
+        "lat": 5.145083449371775,
+        "lng": -58.9947715804313
+      }
+    },
+    "specs": {
+      "netSize": 192,
+      "grossSize": 230,
+      "rooms": "1+1",
+      "bathrooms": 4,
+      "age": 16,
+      "floor": 6,
+      "totalFloors": 8,
+      "heating": "Merkezi",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500636685217?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500970313189?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500801186156?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500270005775?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500265425090?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500341765765?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500371097535?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500542539741?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500640998377?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500656882385?w=800&q=80&category=architecture"
+    ],
+    "agent": {
+      "id": "A81",
+      "name": "Agent 89",
+      "phone": "+23 113 167 5783",
+      "email": "agent12@iwrealty.com",
+      "photo": "/images/icons/png/ny-skyline-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": false,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": true,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-01-03T10:50:47.217Z",
+    "updatedAt": "2025-11-13T10:50:47.217Z",
+    "storeId": "store-008"
+  },
+  {
+    "id": "P03663",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Residence - Guyana Central",
+    "slug": "satilik-residence-guyana-central-P03663",
+    "description": "Guyana Central, Guyana bölgesinde residence. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 6883076,
+    "location": {
+      "country": "GY",
+      "city": "Guyana Central",
+      "district": "Guyana Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 221",
+      "coordinates": {
+        "lat": 4.749660562979903,
+        "lng": -59.1575150789862
+      }
+    },
+    "specs": {
+      "netSize": 434,
+      "grossSize": 521,
+      "rooms": "5+1",
+      "bathrooms": 3,
+      "age": 9,
+      "floor": 14,
+      "totalFloors": 11,
+      "heating": "Merkezi",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500496693631?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500210666112?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500948588280?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500836410640?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500424145121?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500739431467?w=800&q=80&category=real-estate"
+    ],
+    "agent": {
+      "id": "A29",
+      "name": "Agent 77",
+      "phone": "+43 719 779 7078",
+      "email": "agent44@iwrealty.com",
+      "photo": "/images/icons/png/paris-heritage-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": false,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-07-31T10:50:47.217Z",
+    "updatedAt": "2025-11-13T10:50:47.217Z",
+    "storeId": "store-010"
+  },
+  {
+    "id": "P03664",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Residence - Guyana Central",
+    "slug": "kiralik-residence-guyana-central-P03664",
+    "description": "Guyana Central, Guyana bölgesinde residence. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 2731372,
+    "location": {
+      "country": "GY",
+      "city": "Guyana Central",
+      "district": "Guyana Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 397",
+      "coordinates": {
+        "lat": 5.222855367789131,
+        "lng": -59.07281898332262
+      }
+    },
+    "specs": {
+      "netSize": 416,
+      "grossSize": 499,
+      "rooms": "3+0",
+      "bathrooms": 1,
+      "age": 13,
+      "floor": 11,
+      "totalFloors": 7,
+      "heating": "Kombi",
+      "furnishing": "Furnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500799756615?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500603783292?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500869395845?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500948979422?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500399053822?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500637445798?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500083804308?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500138954595?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500349527145?w=800&q=80&category=architecture"
+    ],
+    "agent": {
+      "id": "A71",
+      "name": "Agent 69",
+      "phone": "+39 983 932 4790",
+      "email": "agent53@iwrealty.com",
+      "photo": "/images/icons/png/ny-skyline-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-01-07T10:50:47.217Z",
+    "updatedAt": "2025-11-13T10:50:47.217Z",
+    "storeId": "store-008"
+  },
+  {
+    "id": "P03665",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Villa - Georgetown",
+    "slug": "satilik-villa-georgetown-P03665",
+    "description": "Georgetown, Guyana bölgesinde villa. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 12812847,
+    "location": {
+      "country": "GY",
+      "city": "Georgetown",
+      "district": "Georgetown Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 260",
+      "coordinates": {
+        "lat": 4.753647796624044,
+        "lng": -59.34979294960626
+      }
+    },
+    "specs": {
+      "netSize": 274,
+      "grossSize": 329,
+      "rooms": "4+2",
+      "bathrooms": 4,
+      "age": 15,
+      "floor": 4,
+      "totalFloors": 8,
+      "heating": "Kombi",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500666166629?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500095525912?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500358881417?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500222573142?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500950758136?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500406885386?w=800&q=80&category=real-estate"
+    ],
+    "agent": {
+      "id": "A53",
+      "name": "Agent 1",
+      "phone": "+42 158 326 4897",
+      "email": "agent32@iwrealty.com",
+      "photo": "/images/icons/png/paris-heritage-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": true,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-08-05T10:50:47.217Z",
+    "updatedAt": "2025-11-13T10:50:47.217Z",
+    "storeId": "store-010"
+  },
+  {
+    "id": "P03666",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Daire - New Guyana",
+    "slug": "kiralik-daire-new-guyana-P03666",
+    "description": "New Guyana, Guyana bölgesinde daire. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 11188407,
+    "location": {
+      "country": "GY",
+      "city": "New Guyana",
+      "district": "New Guyana Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 481",
+      "coordinates": {
+        "lat": 5.134753895867845,
+        "lng": -59.34264909517167
+      }
+    },
+    "specs": {
+      "netSize": 298,
+      "grossSize": 358,
+      "rooms": "2+2",
+      "bathrooms": 2,
+      "age": 7,
+      "floor": 5,
+      "totalFloors": 16,
+      "heating": "Kombi",
+      "furnishing": "Furnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500869893720?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500308990794?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500257429596?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500463457318?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500328718881?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500540472746?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500433031471?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500067131192?w=800&q=80&category=real-estate"
+    ],
+    "agent": {
+      "id": "A89",
+      "name": "Agent 10",
+      "phone": "+82 427 900 8423",
+      "email": "agent55@iwrealty.com",
+      "photo": "/images/icons/png/berlin-urban-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": false,
+      "hasBalcony": false,
+      "hasGarden": true,
+      "hasPool": true,
+      "hasSecurity": true
+    },
+    "createdAt": "2024-12-26T10:50:47.217Z",
+    "updatedAt": "2025-11-13T10:50:47.217Z",
+    "storeId": "store-009"
+  },
+  {
+    "id": "P03667",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Daire - Guyana City",
+    "slug": "satilik-daire-guyana-city-P03667",
+    "description": "Guyana City, Guyana bölgesinde daire. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 10989447,
+    "location": {
+      "country": "GY",
+      "city": "Guyana City",
+      "district": "Guyana City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 421",
+      "coordinates": {
+        "lat": 5.488691341896401,
+        "lng": -59.20426977652464
+      }
+    },
+    "specs": {
+      "netSize": 233,
+      "grossSize": 280,
+      "rooms": "5+0",
+      "bathrooms": 3,
+      "age": 17,
+      "floor": 8,
+      "totalFloors": 15,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Unfurnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500440765676?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500466850341?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500010264783?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500960563025?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500168018481?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500290866035?w=800&q=80&category=real-estate"
+    ],
+    "agent": {
+      "id": "A60",
+      "name": "Agent 89",
+      "phone": "+52 206 423 4316",
+      "email": "agent54@iwrealty.com",
+      "photo": "/images/icons/png/sg-harbour-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-05-20T10:50:47.217Z",
+    "updatedAt": "2025-11-13T10:50:47.217Z",
+    "storeId": "store-011"
+  },
+  {
+    "id": "P03668",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Residence - Guyana Central",
+    "slug": "kiralik-residence-guyana-central-P03668",
+    "description": "Guyana Central, Guyana bölgesinde residence. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 12573995,
+    "location": {
+      "country": "GY",
+      "city": "Guyana Central",
+      "district": "Guyana Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 709",
+      "coordinates": {
+        "lat": 4.658561806626889,
+        "lng": -59.03538114334591
+      }
+    },
+    "specs": {
+      "netSize": 151,
+      "grossSize": 181,
+      "rooms": "4+0",
+      "bathrooms": 2,
+      "age": 5,
+      "floor": 7,
+      "totalFloors": 14,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Furnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500993556652?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500589494510?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500438762912?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500846657182?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500154173091?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500810621145?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500400090273?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500238966390?w=800&q=80&category=interior"
+    ],
+    "agent": {
+      "id": "A84",
+      "name": "Agent 86",
+      "phone": "+63 897 512 6024",
+      "email": "agent10@iwrealty.com",
+      "photo": "/images/icons/png/antalya-investment-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-06-01T10:50:47.217Z",
+    "updatedAt": "2025-11-13T10:50:47.217Z",
+    "storeId": "store-006"
+  },
+  {
+    "id": "P03669",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Residence - New Guyana",
+    "slug": "satilik-residence-new-guyana-P03669",
+    "description": "New Guyana, Guyana bölgesinde residence. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 6315730,
+    "location": {
+      "country": "GY",
+      "city": "New Guyana",
+      "district": "New Guyana Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 636",
+      "coordinates": {
+        "lat": 5.381903752328829,
+        "lng": -59.14831031691389
+      }
+    },
+    "specs": {
+      "netSize": 225,
+      "grossSize": 270,
+      "rooms": "2+2",
+      "bathrooms": 1,
+      "age": 19,
+      "floor": 4,
+      "totalFloors": 17,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Furnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500800896594?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500934257085?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500954172126?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500202700753?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500199644817?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500366756694?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500899684517?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500810544888?w=800&q=80&category=building"
+    ],
+    "agent": {
+      "id": "A60",
+      "name": "Agent 23",
+      "phone": "+73 616 950 3531",
+      "email": "agent17@iwrealty.com",
+      "photo": "/images/icons/png/paris-heritage-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": false,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-04-05T10:50:47.217Z",
+    "updatedAt": "2025-11-13T10:50:47.217Z",
+    "storeId": "store-010"
+  },
+  {
+    "id": "P03670",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Villa - Guyana Central",
+    "slug": "kiralik-villa-guyana-central-P03670",
+    "description": "Guyana Central, Guyana bölgesinde villa. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 13625687,
+    "location": {
+      "country": "GY",
+      "city": "Guyana Central",
+      "district": "Guyana Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 201",
+      "coordinates": {
+        "lat": 5.275743761919013,
+        "lng": -58.59483059319774
+      }
+    },
+    "specs": {
+      "netSize": 268,
+      "grossSize": 322,
+      "rooms": "3+1",
+      "bathrooms": 3,
+      "age": 15,
+      "floor": 10,
+      "totalFloors": 15,
+      "heating": "Merkezi",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500182599776?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500790485686?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500510932615?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500440166385?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500405230378?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500063196202?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500304393074?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500177138456?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500845433182?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500335554808?w=800&q=80&category=architecture"
+    ],
+    "agent": {
+      "id": "A80",
+      "name": "Agent 48",
+      "phone": "+34 646 200 6949",
+      "email": "agent24@iwrealty.com",
+      "photo": "/images/icons/png/sg-harbour-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": false,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-05-03T10:50:47.217Z",
+    "updatedAt": "2025-11-13T10:50:47.217Z",
+    "storeId": "store-011"
+  },
+  {
+    "id": "P03671",
+    "type": "sale",
+    "category": {
+      "main": "commercial",
+      "sub": "hospital"
+    },
+    "title": "Satılık Hastane - New Guyana",
+    "slug": "satilik-hastane-new-guyana-P03671",
+    "description": "New Guyana, Guyana bölgesinde hastane. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 58155110,
+    "location": {
+      "country": "GY",
+      "city": "New Guyana",
+      "district": "New Guyana Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 868",
+      "coordinates": {
+        "lat": 5.185590980758822,
+        "lng": -58.87834919443276
+      }
+    },
+    "specs": {
+      "netSize": 17407,
+      "grossSize": 20888,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 6,
+      "floor": 8,
+      "totalFloors": 11,
+      "heating": "Klima",
+      "furnishing": "Unfurnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500971841826?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500304843483?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500660772533?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500165975718?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500421158401?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500460307716?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500297519137?w=800&q=80&category=architecture"
+    ],
+    "agent": {
+      "id": "A93",
+      "name": "Agent 43",
+      "phone": "+67 445 625 5479",
+      "email": "agent84@iwrealty.com",
+      "photo": "/images/icons/png/ankara-modern-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": true,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-07-02T10:50:47.217Z",
+    "updatedAt": "2025-11-13T10:50:47.217Z",
+    "storeId": "store-003"
+  },
+  {
+    "id": "P03672",
+    "type": "rent",
+    "category": {
+      "main": "commercial",
+      "sub": "hospital"
+    },
+    "title": "Kiralık Hastane - Guyana City",
+    "slug": "kiralik-hastane-guyana-city-P03672",
+    "description": "Guyana City, Guyana bölgesinde hastane. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 90166743,
+    "location": {
+      "country": "GY",
+      "city": "Guyana City",
+      "district": "Guyana City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 398",
+      "coordinates": {
+        "lat": 4.793388497840088,
+        "lng": -59.05090432640384
+      }
+    },
+    "specs": {
+      "netSize": 14833,
+      "grossSize": 17800,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 1,
+      "floor": 3,
+      "totalFloors": 18,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500752286297?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500356532105?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500932268012?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500326482426?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500262150040?w=800&q=80&category=interior"
+    ],
+    "agent": {
+      "id": "A25",
+      "name": "Agent 90",
+      "phone": "+42 657 789 8788",
+      "email": "agent95@iwrealty.com",
+      "photo": "/images/icons/png/antalya-investment-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": true,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-05-24T10:50:47.217Z",
+    "updatedAt": "2025-11-13T10:50:47.217Z",
+    "storeId": "store-006"
+  },
+  {
+    "id": "P03673",
+    "type": "sale",
+    "category": {
+      "main": "commercial",
+      "sub": "clinic"
+    },
+    "title": "Satılık Klinik - New Guyana",
+    "slug": "satilik-klinik-new-guyana-P03673",
+    "description": "New Guyana, Guyana bölgesinde klinik. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 10383722,
+    "location": {
+      "country": "GY",
+      "city": "New Guyana",
+      "district": "New Guyana Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 654",
+      "coordinates": {
+        "lat": 4.502353188316496,
+        "lng": -58.7727310413094
+      }
+    },
+    "specs": {
+      "netSize": 1204,
+      "grossSize": 1445,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 3,
+      "floor": 5,
+      "totalFloors": 18,
+      "heating": "Merkezi",
+      "furnishing": "Furnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500781398126?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500140252462?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500782820510?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500634976690?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500161716693?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500741365917?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500698885924?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500485901564?w=800&q=80&category=architecture"
+    ],
+    "agent": {
+      "id": "A99",
+      "name": "Agent 80",
+      "phone": "+73 105 978 7611",
+      "email": "agent100@iwrealty.com",
+      "photo": "/images/icons/png/paris-heritage-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": false,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-10-16T10:50:47.217Z",
+    "updatedAt": "2025-11-13T10:50:47.217Z",
+    "storeId": "store-010"
+  },
+  {
+    "id": "P03674",
+    "type": "rent",
+    "category": {
+      "main": "commercial",
+      "sub": "clinic"
+    },
+    "title": "Kiralık Klinik - New Guyana",
+    "slug": "kiralik-klinik-new-guyana-P03674",
+    "description": "New Guyana, Guyana bölgesinde klinik. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 10571037,
+    "location": {
+      "country": "GY",
+      "city": "New Guyana",
+      "district": "New Guyana Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 613",
+      "coordinates": {
+        "lat": 5.116673310284582,
+        "lng": -59.17509978860395
+      }
+    },
+    "specs": {
+      "netSize": 747,
+      "grossSize": 896,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 13,
+      "floor": 8,
+      "totalFloors": 14,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500480587372?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500124814749?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500735711319?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500806073773?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500092812081?w=800&q=80&category=interior"
+    ],
+    "agent": {
+      "id": "A96",
+      "name": "Agent 82",
+      "phone": "+76 221 498 9387",
+      "email": "agent47@iwrealty.com",
+      "photo": "/images/icons/png/dubai-property-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-03-04T10:50:47.217Z",
+    "updatedAt": "2025-11-13T10:50:47.217Z",
+    "storeId": "store-004"
+  },
+  {
+    "id": "P03675",
+    "type": "sale",
+    "category": {
+      "main": "commercial",
+      "sub": "shop"
+    },
+    "title": "Satılık Dükkan - New Guyana",
+    "slug": "satilik-dükkan-new-guyana-P03675",
+    "description": "New Guyana, Guyana bölgesinde dükkan. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 2938794,
+    "location": {
+      "country": "GY",
+      "city": "New Guyana",
+      "district": "New Guyana Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 770",
+      "coordinates": {
+        "lat": 5.4225475339825735,
+        "lng": -59.13323734614048
+      }
+    },
+    "specs": {
+      "netSize": 303,
+      "grossSize": 364,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 10,
+      "floor": 14,
+      "totalFloors": 14,
+      "heating": "Kombi",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500374048963?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500376523819?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500273818195?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500491760526?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500890849998?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500051931747?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500190389926?w=800&q=80&category=house"
+    ],
+    "agent": {
+      "id": "A72",
+      "name": "Agent 58",
+      "phone": "+57 984 956 8630",
+      "email": "agent38@iwrealty.com",
+      "photo": "/images/icons/png/antalya-investment-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": false,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-04-07T10:50:47.217Z",
+    "updatedAt": "2025-11-13T10:50:47.217Z",
+    "storeId": "store-006"
+  },
+  {
+    "id": "P03676",
+    "type": "rent",
+    "category": {
+      "main": "commercial",
+      "sub": "shop"
+    },
+    "title": "Kiralık Dükkan - Guyana Central",
+    "slug": "kiralik-dükkan-guyana-central-P03676",
+    "description": "Guyana Central, Guyana bölgesinde dükkan. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 5076345,
+    "location": {
+      "country": "GY",
+      "city": "Guyana Central",
+      "district": "Guyana Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 28",
+      "coordinates": {
+        "lat": 5.304360843837023,
+        "lng": -59.15130173487137
+      }
+    },
+    "specs": {
+      "netSize": 322,
+      "grossSize": 386,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 4,
+      "floor": 10,
+      "totalFloors": 9,
+      "heating": "Klima",
+      "furnishing": "Furnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500499858317?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500996707891?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500957279489?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500300941489?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500015829426?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500946462378?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500090697304?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500690052610?w=800&q=80&category=interior"
+    ],
+    "agent": {
+      "id": "A83",
+      "name": "Agent 1",
+      "phone": "+50 527 821 1479",
+      "email": "agent73@iwrealty.com",
+      "photo": "/images/icons/png/ankara-modern-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": false,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": true,
+      "hasSecurity": false
+    },
+    "createdAt": "2024-11-23T10:50:47.217Z",
+    "updatedAt": "2025-11-13T10:50:47.217Z",
+    "storeId": "store-003"
+  },
+  {
+    "id": "P03677",
+    "type": "sale",
+    "category": {
+      "main": "commercial",
+      "sub": "office"
+    },
+    "title": "Satılık Ofis - Guyana Central",
+    "slug": "satilik-ofis-guyana-central-P03677",
+    "description": "Guyana Central, Guyana bölgesinde ofis. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 12164857,
+    "location": {
+      "country": "GY",
+      "city": "Guyana Central",
+      "district": "Guyana Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 737",
+      "coordinates": {
+        "lat": 4.9907271379404134,
+        "lng": -59.016842822617875
+      }
+    },
+    "specs": {
+      "netSize": 268,
+      "grossSize": 322,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 14,
+      "floor": 5,
+      "totalFloors": 10,
+      "heating": "Klima",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500204762953?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500238761417?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500931028122?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500224279794?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500620167195?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500778918486?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500876901881?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500804424470?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500015505681?w=800&q=80&category=building"
+    ],
+    "agent": {
+      "id": "A84",
+      "name": "Agent 39",
+      "phone": "+31 888 228 9150",
+      "email": "agent35@iwrealty.com",
+      "photo": "/images/icons/png/london-prime-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": false,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-06-22T10:50:47.217Z",
+    "updatedAt": "2025-11-13T10:50:47.217Z",
+    "storeId": "store-007"
+  },
+  {
+    "id": "P03678",
+    "type": "rent",
+    "category": {
+      "main": "commercial",
+      "sub": "office"
+    },
+    "title": "Kiralık Ofis - Guyana Central",
+    "slug": "kiralik-ofis-guyana-central-P03678",
+    "description": "Guyana Central, Guyana bölgesinde ofis. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 10067274,
+    "location": {
+      "country": "GY",
+      "city": "Guyana Central",
+      "district": "Guyana Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 651",
+      "coordinates": {
+        "lat": 5.26638407149345,
+        "lng": -59.04102738454029
+      }
+    },
+    "specs": {
+      "netSize": 930,
+      "grossSize": 1116,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 3,
+      "floor": 7,
+      "totalFloors": 16,
+      "heating": "Merkezi",
+      "furnishing": "Unfurnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500247949027?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500628919972?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500604804632?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500043567193?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500833726775?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500519913429?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500855688099?w=800&q=80&category=building"
+    ],
+    "agent": {
+      "id": "A44",
+      "name": "Agent 44",
+      "phone": "+11 188 979 1060",
+      "email": "agent35@iwrealty.com",
+      "photo": "/images/icons/png/paris-heritage-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": false,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": true,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-03-29T10:50:47.217Z",
+    "updatedAt": "2025-11-13T10:50:47.217Z",
+    "storeId": "store-010"
+  },
+  {
+    "id": "P03679",
+    "type": "sale",
+    "category": {
+      "main": "commercial",
+      "sub": "mall"
+    },
+    "title": "Satılık AVM - Guyana Central",
+    "slug": "satilik-avm-guyana-central-P03679",
+    "description": "Guyana Central, Guyana bölgesinde avm. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 72048630,
+    "location": {
+      "country": "GY",
+      "city": "Guyana Central",
+      "district": "Guyana Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 110",
+      "coordinates": {
+        "lat": 4.904353728859605,
+        "lng": -59.28669943350152
+      }
+    },
+    "specs": {
+      "netSize": 28854,
+      "grossSize": 34625,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 19,
+      "floor": 10,
+      "totalFloors": 12,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Unfurnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500664323932?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500388980230?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500144034838?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500104871120?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500512761311?w=800&q=80&category=architecture"
+    ],
+    "agent": {
+      "id": "A7",
+      "name": "Agent 25",
+      "phone": "+44 361 732 4596",
+      "email": "agent64@iwrealty.com",
+      "photo": "/images/icons/png/paris-heritage-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": true,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-06-02T10:50:47.217Z",
+    "updatedAt": "2025-11-13T10:50:47.217Z",
+    "storeId": "store-010"
+  },
+  {
+    "id": "P03680",
+    "type": "rent",
+    "category": {
+      "main": "commercial",
+      "sub": "mall"
+    },
+    "title": "Kiralık AVM - Georgetown",
+    "slug": "kiralik-avm-georgetown-P03680",
+    "description": "Georgetown, Guyana bölgesinde avm. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 74024570,
+    "location": {
+      "country": "GY",
+      "city": "Georgetown",
+      "district": "Georgetown Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 639",
+      "coordinates": {
+        "lat": 5.446026176476737,
+        "lng": -59.171844530277625
+      }
+    },
+    "specs": {
+      "netSize": 16088,
+      "grossSize": 19306,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 8,
+      "floor": 3,
+      "totalFloors": 10,
+      "heating": "Merkezi",
+      "furnishing": "Furnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500722627819?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500732540814?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500836091311?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500782043948?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500308119651?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500313603438?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500913295135?w=800&q=80&category=interior"
+    ],
+    "agent": {
+      "id": "A60",
+      "name": "Agent 49",
+      "phone": "+44 730 214 3190",
+      "email": "agent8@iwrealty.com",
+      "photo": "/images/icons/png/izmir-sahil-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-07-02T10:50:47.217Z",
+    "updatedAt": "2025-11-13T10:50:47.217Z",
+    "storeId": "store-005"
+  },
+  {
+    "id": "P03681",
+    "type": "sale",
+    "category": {
+      "main": "commercial",
+      "sub": "hotel"
+    },
+    "title": "Satılık Otel - Georgetown",
+    "slug": "satilik-otel-georgetown-P03681",
+    "description": "Georgetown, Guyana bölgesinde otel. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 65625535,
+    "location": {
+      "country": "GY",
+      "city": "Georgetown",
+      "district": "Georgetown Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 109",
+      "coordinates": {
+        "lat": 5.377581072881357,
+        "lng": -59.42949893645468
+      }
+    },
+    "specs": {
+      "netSize": 9277,
+      "grossSize": 11132,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 15,
+      "floor": 7,
+      "totalFloors": 5,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Unfurnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500865523231?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500295348489?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500481055550?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500700317432?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500018563833?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500341296806?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500356911184?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500595189433?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500617731437?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500477588936?w=800&q=80&category=interior"
+    ],
+    "agent": {
+      "id": "A36",
+      "name": "Agent 82",
+      "phone": "+50 569 418 8788",
+      "email": "agent41@iwrealty.com",
+      "photo": "/images/icons/png/sydney-coastal-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": true,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-10-26T10:50:47.217Z",
+    "updatedAt": "2025-11-13T10:50:47.217Z",
+    "storeId": "store-012"
+  },
+  {
+    "id": "P03682",
+    "type": "rent",
+    "category": {
+      "main": "commercial",
+      "sub": "hotel"
+    },
+    "title": "Kiralık Otel - New Guyana",
+    "slug": "kiralik-otel-new-guyana-P03682",
+    "description": "New Guyana, Guyana bölgesinde otel. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 175589265,
+    "location": {
+      "country": "GY",
+      "city": "New Guyana",
+      "district": "New Guyana Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 887",
+      "coordinates": {
+        "lat": 4.60296938588694,
+        "lng": -58.623157629104085
+      }
+    },
+    "specs": {
+      "netSize": 5476,
+      "grossSize": 6571,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 0,
+      "floor": 8,
+      "totalFloors": 7,
+      "heating": "Kombi",
+      "furnishing": "Unfurnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500164338522?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500839208439?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500646204030?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500790288508?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500176615935?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500619842543?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500885362583?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500278786869?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500474799193?w=800&q=80&category=building"
+    ],
+    "agent": {
+      "id": "A44",
+      "name": "Agent 100",
+      "phone": "+84 625 331 1405",
+      "email": "agent84@iwrealty.com",
+      "photo": "/images/icons/png/sg-harbour-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-07-10T10:50:47.217Z",
+    "updatedAt": "2025-11-13T10:50:47.217Z",
+    "storeId": "store-011"
+  },
+  {
+    "id": "P03683",
+    "type": "sale",
+    "category": {
+      "main": "commercial",
+      "sub": "restaurant"
+    },
+    "title": "Satılık Restoran - Guyana City",
+    "slug": "satilik-restoran-guyana-city-P03683",
+    "description": "Guyana City, Guyana bölgesinde restoran. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 1068306,
+    "location": {
+      "country": "GY",
+      "city": "Guyana City",
+      "district": "Guyana City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 971",
+      "coordinates": {
+        "lat": 5.321045072212252,
+        "lng": -59.424638472317056
+      }
+    },
+    "specs": {
+      "netSize": 915,
+      "grossSize": 1098,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 19,
+      "floor": 10,
+      "totalFloors": 19,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Furnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500727501357?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500640357006?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500035675088?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500165323417?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500455308118?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500205078440?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500430836910?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500232286448?w=800&q=80&category=real-estate"
+    ],
+    "agent": {
+      "id": "A89",
+      "name": "Agent 100",
+      "phone": "+72 278 819 5769",
+      "email": "agent25@iwrealty.com",
+      "photo": "/images/icons/png/london-prime-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-02-15T10:50:47.217Z",
+    "updatedAt": "2025-11-13T10:50:47.217Z",
+    "storeId": "store-007"
+  },
+  {
+    "id": "P03684",
+    "type": "rent",
+    "category": {
+      "main": "commercial",
+      "sub": "restaurant"
+    },
+    "title": "Kiralık Restoran - New Guyana",
+    "slug": "kiralik-restoran-new-guyana-P03684",
+    "description": "New Guyana, Guyana bölgesinde restoran. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 1554221,
+    "location": {
+      "country": "GY",
+      "city": "New Guyana",
+      "district": "New Guyana Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 32",
+      "coordinates": {
+        "lat": 5.3177300446519356,
+        "lng": -58.98763000244885
+      }
+    },
+    "specs": {
+      "netSize": 1041,
+      "grossSize": 1249,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 1,
+      "floor": 15,
+      "totalFloors": 19,
+      "heating": "Klima",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500003862285?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500469187681?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500136902391?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500559613011?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500265370409?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500672128804?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500300179727?w=800&q=80&category=real-estate"
+    ],
+    "agent": {
+      "id": "A78",
+      "name": "Agent 55",
+      "phone": "+97 819 441 5910",
+      "email": "agent96@iwrealty.com",
+      "photo": "/images/icons/png/luxury-homes-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": false,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-10-04T10:50:47.217Z",
+    "updatedAt": "2025-11-13T10:50:47.217Z",
+    "storeId": "store-002"
+  },
+  {
+    "id": "P03685",
+    "type": "sale",
+    "category": {
+      "main": "commercial",
+      "sub": "warehouse"
+    },
+    "title": "Satılık Depo - New Guyana",
+    "slug": "satilik-depo-new-guyana-P03685",
+    "description": "New Guyana, Guyana bölgesinde depo. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 15255885,
+    "location": {
+      "country": "GY",
+      "city": "New Guyana",
+      "district": "New Guyana Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 830",
+      "coordinates": {
+        "lat": 4.745330528843983,
+        "lng": -58.969553671334396
+      }
+    },
+    "specs": {
+      "netSize": 9183,
+      "grossSize": 11020,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 19,
+      "floor": 6,
+      "totalFloors": 5,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Furnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500923928469?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500955652547?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500305762443?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500182969035?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500222756872?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500434498623?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500241588821?w=800&q=80&category=building"
+    ],
+    "agent": {
+      "id": "A51",
+      "name": "Agent 61",
+      "phone": "+18 321 127 7242",
+      "email": "agent75@iwrealty.com",
+      "photo": "/images/icons/png/luxury-homes-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": false,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": true,
+      "hasSecurity": true
+    },
+    "createdAt": "2024-12-14T10:50:47.217Z",
+    "updatedAt": "2025-11-13T10:50:47.217Z",
+    "storeId": "store-002"
+  },
+  {
+    "id": "P03686",
+    "type": "rent",
+    "category": {
+      "main": "commercial",
+      "sub": "warehouse"
+    },
+    "title": "Kiralık Depo - New Guyana",
+    "slug": "kiralik-depo-new-guyana-P03686",
+    "description": "New Guyana, Guyana bölgesinde depo. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 3304312,
+    "location": {
+      "country": "GY",
+      "city": "New Guyana",
+      "district": "New Guyana Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 462",
+      "coordinates": {
+        "lat": 4.539596234325956,
+        "lng": -58.9758441683635
+      }
+    },
+    "specs": {
+      "netSize": 2930,
+      "grossSize": 3516,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 7,
+      "floor": 2,
+      "totalFloors": 14,
+      "heating": "Klima",
+      "furnishing": "Unfurnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500383785227?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500337006117?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500794254930?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500772592387?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500552017474?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500172680922?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500101962020?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500108523270?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500896471761?w=800&q=80&category=interior"
+    ],
+    "agent": {
+      "id": "A88",
+      "name": "Agent 91",
+      "phone": "+69 948 975 8272",
+      "email": "agent38@iwrealty.com",
+      "photo": "/images/icons/png/ankara-modern-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-04-02T10:50:47.217Z",
+    "updatedAt": "2025-11-13T10:50:47.217Z",
+    "storeId": "store-003"
+  }
+]

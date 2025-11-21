@@ -1,0 +1,2344 @@
+[
+  {
+    "id": "P05093",
+    "type": "sale",
+    "category": {
+      "main": "government"
+    },
+    "title": "Satılık Devlet Binası - Lithuania Central",
+    "slug": "satilik-devlet-binası-lithuania-central-P05093",
+    "description": "Lithuania Central, Lithuania bölgesinde devlet binası. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 45300840,
+    "location": {
+      "country": "LT",
+      "city": "Lithuania Central",
+      "district": "Lithuania Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 948",
+      "coordinates": {
+        "lat": 56.38639608158928,
+        "lng": 23.792189827810187
+      }
+    },
+    "specs": {
+      "netSize": 1721,
+      "grossSize": 2065,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 20,
+      "floor": 10,
+      "totalFloors": 13,
+      "heating": "Klima",
+      "furnishing": "Furnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500527355127?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500606496973?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500468408774?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500418252076?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500276294419?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500616134926?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500805951606?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500003413992?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500800582780?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500373678921?w=800&q=80&category=architecture"
+    ],
+    "agent": {
+      "id": "A35",
+      "name": "Agent 37",
+      "phone": "+36 823 627 5327",
+      "email": "agent79@iwrealty.com",
+      "photo": "/images/icons/png/dubai-property-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": false,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": true,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-11-01T10:50:47.234Z",
+    "updatedAt": "2025-11-13T10:50:47.234Z",
+    "storeId": "store-004"
+  },
+  {
+    "id": "P05094",
+    "type": "rent",
+    "category": {
+      "main": "government"
+    },
+    "title": "Kiralık Hastane - Lithuania Central",
+    "slug": "kiralik-hastane-lithuania-central-P05094",
+    "description": "Lithuania Central, Lithuania bölgesinde hastane. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 43930518,
+    "location": {
+      "country": "LT",
+      "city": "Lithuania Central",
+      "district": "Lithuania Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 355",
+      "coordinates": {
+        "lat": 56.23847632891231,
+        "lng": 23.658690752987905
+      }
+    },
+    "specs": {
+      "netSize": 793,
+      "grossSize": 952,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 7,
+      "floor": 10,
+      "totalFloors": 9,
+      "heating": "Klima",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500568994663?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500197611110?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500192047781?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500574075335?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500671717958?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500377461049?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500432685017?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500666955100?w=800&q=80&category=house"
+    ],
+    "agent": {
+      "id": "A2",
+      "name": "Agent 6",
+      "phone": "+59 771 853 1650",
+      "email": "agent42@iwrealty.com",
+      "photo": "/images/icons/png/dubai-property-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": false,
+      "hasBalcony": false,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-08-04T10:50:47.234Z",
+    "updatedAt": "2025-11-13T10:50:47.234Z",
+    "storeId": "store-004"
+  },
+  {
+    "id": "P05095",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Villa - Vilnius",
+    "slug": "satilik-villa-vilnius-P05095",
+    "description": "Vilnius, Lithuania bölgesinde villa. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 11052607,
+    "location": {
+      "country": "LT",
+      "city": "Vilnius",
+      "district": "Vilnius Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 866",
+      "coordinates": {
+        "lat": 55.97930948889959,
+        "lng": 24.220944216240806
+      }
+    },
+    "specs": {
+      "netSize": 358,
+      "grossSize": 430,
+      "rooms": "1+2",
+      "bathrooms": 3,
+      "age": 3,
+      "floor": 3,
+      "totalFloors": 6,
+      "heating": "Kombi",
+      "furnishing": "Furnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500348482070?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500751095297?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500663871955?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500127510033?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500903813415?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500874175003?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500292747288?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500034477444?w=800&q=80&category=architecture"
+    ],
+    "agent": {
+      "id": "A88",
+      "name": "Agent 54",
+      "phone": "+47 311 808 9103",
+      "email": "agent45@iwrealty.com",
+      "photo": "/images/icons/png/berlin-urban-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-06-27T10:50:47.234Z",
+    "updatedAt": "2025-11-13T10:50:47.234Z",
+    "storeId": "store-009"
+  },
+  {
+    "id": "P05096",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Müstakil Ev - Vilnius",
+    "slug": "kiralik-müstakil-ev-vilnius-P05096",
+    "description": "Vilnius, Lithuania bölgesinde müstakil ev. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 9079199,
+    "location": {
+      "country": "LT",
+      "city": "Vilnius",
+      "district": "Vilnius Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 610",
+      "coordinates": {
+        "lat": 56.2548945178685,
+        "lng": 23.792456379509066
+      }
+    },
+    "specs": {
+      "netSize": 249,
+      "grossSize": 299,
+      "rooms": "5+0",
+      "bathrooms": 4,
+      "age": 13,
+      "floor": 1,
+      "totalFloors": 10,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Unfurnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500826467348?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500364770826?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500848204839?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500834400119?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500530168997?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500112321364?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500203578646?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500925016190?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500174795741?w=800&q=80&category=architecture"
+    ],
+    "agent": {
+      "id": "A80",
+      "name": "Agent 53",
+      "phone": "+44 657 648 1072",
+      "email": "agent10@iwrealty.com",
+      "photo": "/images/icons/png/ankara-modern-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-04-12T10:50:47.234Z",
+    "updatedAt": "2025-11-13T10:50:47.234Z",
+    "storeId": "store-003"
+  },
+  {
+    "id": "P05097",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Villa - Lithuania Central",
+    "slug": "satilik-villa-lithuania-central-P05097",
+    "description": "Lithuania Central, Lithuania bölgesinde villa. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 8367898,
+    "location": {
+      "country": "LT",
+      "city": "Lithuania Central",
+      "district": "Lithuania Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 296",
+      "coordinates": {
+        "lat": 55.975870839241935,
+        "lng": 23.70901421584895
+      }
+    },
+    "specs": {
+      "netSize": 130,
+      "grossSize": 156,
+      "rooms": "5+0",
+      "bathrooms": 3,
+      "age": 2,
+      "floor": 10,
+      "totalFloors": 14,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500186360643?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500802459356?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500539610002?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500373253102?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500590765159?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500582192283?w=800&q=80&category=real-estate"
+    ],
+    "agent": {
+      "id": "A31",
+      "name": "Agent 31",
+      "phone": "+97 670 950 3073",
+      "email": "agent81@iwrealty.com",
+      "photo": "/images/icons/png/antalya-investment-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-01-07T10:50:47.234Z",
+    "updatedAt": "2025-11-13T10:50:47.234Z",
+    "storeId": "store-006"
+  },
+  {
+    "id": "P05098",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Daire - Vilnius",
+    "slug": "kiralik-daire-vilnius-P05098",
+    "description": "Vilnius, Lithuania bölgesinde daire. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 10542948,
+    "location": {
+      "country": "LT",
+      "city": "Vilnius",
+      "district": "Vilnius Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 774",
+      "coordinates": {
+        "lat": 56.38779343975928,
+        "lng": 23.93653964629851
+      }
+    },
+    "specs": {
+      "netSize": 271,
+      "grossSize": 325,
+      "rooms": "2+0",
+      "bathrooms": 1,
+      "age": 20,
+      "floor": 15,
+      "totalFloors": 17,
+      "heating": "Klima",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500222735861?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500767800050?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500318984130?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500810435308?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500783732504?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500394990882?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500803510811?w=800&q=80&category=architecture"
+    ],
+    "agent": {
+      "id": "A55",
+      "name": "Agent 28",
+      "phone": "+31 350 843 2603",
+      "email": "agent40@iwrealty.com",
+      "photo": "/images/icons/png/paris-heritage-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-04-04T10:50:47.234Z",
+    "updatedAt": "2025-11-13T10:50:47.234Z",
+    "storeId": "store-010"
+  },
+  {
+    "id": "P05099",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Müstakil Ev - Vilnius",
+    "slug": "satilik-müstakil-ev-vilnius-P05099",
+    "description": "Vilnius, Lithuania bölgesinde müstakil ev. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 12657015,
+    "location": {
+      "country": "LT",
+      "city": "Vilnius",
+      "district": "Vilnius Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 750",
+      "coordinates": {
+        "lat": 55.91005667562143,
+        "lng": 24.09882676335252
+      }
+    },
+    "specs": {
+      "netSize": 99,
+      "grossSize": 119,
+      "rooms": "3+2",
+      "bathrooms": 4,
+      "age": 18,
+      "floor": 10,
+      "totalFloors": 9,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500726414948?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500679186551?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500501340123?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500757266310?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500172513597?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500471741905?w=800&q=80&category=real-estate"
+    ],
+    "agent": {
+      "id": "A31",
+      "name": "Agent 42",
+      "phone": "+59 263 565 8212",
+      "email": "agent37@iwrealty.com",
+      "photo": "/images/icons/png/luxury-homes-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": true,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-10-29T10:50:47.234Z",
+    "updatedAt": "2025-11-13T10:50:47.234Z",
+    "storeId": "store-002"
+  },
+  {
+    "id": "P05100",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Daire - Lithuania Central",
+    "slug": "kiralik-daire-lithuania-central-P05100",
+    "description": "Lithuania Central, Lithuania bölgesinde daire. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 7431332,
+    "location": {
+      "country": "LT",
+      "city": "Lithuania Central",
+      "district": "Lithuania Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 66",
+      "coordinates": {
+        "lat": 55.712702442772475,
+        "lng": 24.18854959478815
+      }
+    },
+    "specs": {
+      "netSize": 141,
+      "grossSize": 169,
+      "rooms": "1+2",
+      "bathrooms": 1,
+      "age": 19,
+      "floor": 2,
+      "totalFloors": 12,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Unfurnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500375177325?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500258913297?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500666375716?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500348785833?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500287055584?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500209556265?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500595990689?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500962185491?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500403603666?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500566803938?w=800&q=80&category=house"
+    ],
+    "agent": {
+      "id": "A34",
+      "name": "Agent 35",
+      "phone": "+18 238 378 2310",
+      "email": "agent44@iwrealty.com",
+      "photo": "/images/icons/png/luxury-homes-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-04-13T10:50:47.234Z",
+    "updatedAt": "2025-11-13T10:50:47.234Z",
+    "storeId": "store-002"
+  },
+  {
+    "id": "P05101",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Villa - Lithuania City",
+    "slug": "satilik-villa-lithuania-city-P05101",
+    "description": "Lithuania City, Lithuania bölgesinde villa. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 6577050,
+    "location": {
+      "country": "LT",
+      "city": "Lithuania City",
+      "district": "Lithuania City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 189",
+      "coordinates": {
+        "lat": 56.40632908729378,
+        "lng": 24.483933090236523
+      }
+    },
+    "specs": {
+      "netSize": 471,
+      "grossSize": 565,
+      "rooms": "2+2",
+      "bathrooms": 1,
+      "age": 7,
+      "floor": 8,
+      "totalFloors": 19,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Furnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500013580968?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500042625965?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500157360106?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500482340701?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500197468408?w=800&q=80&category=house"
+    ],
+    "agent": {
+      "id": "A23",
+      "name": "Agent 94",
+      "phone": "+88 321 643 8838",
+      "email": "agent58@iwrealty.com",
+      "photo": "/images/icons/png/luxury-homes-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-05-09T10:50:47.234Z",
+    "updatedAt": "2025-11-13T10:50:47.234Z",
+    "storeId": "store-002"
+  },
+  {
+    "id": "P05102",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Daire - Lithuania Central",
+    "slug": "kiralik-daire-lithuania-central-P05102",
+    "description": "Lithuania Central, Lithuania bölgesinde daire. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 8514782,
+    "location": {
+      "country": "LT",
+      "city": "Lithuania Central",
+      "district": "Lithuania Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 999",
+      "coordinates": {
+        "lat": 55.9766882070655,
+        "lng": 23.62044025331094
+      }
+    },
+    "specs": {
+      "netSize": 274,
+      "grossSize": 329,
+      "rooms": "2+1",
+      "bathrooms": 3,
+      "age": 8,
+      "floor": 3,
+      "totalFloors": 7,
+      "heating": "Merkezi",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500147428465?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500180864206?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500039203343?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500513347443?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500827025875?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500804642242?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500716186231?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500719323978?w=800&q=80&category=building"
+    ],
+    "agent": {
+      "id": "A92",
+      "name": "Agent 60",
+      "phone": "+31 110 722 7774",
+      "email": "agent20@iwrealty.com",
+      "photo": "/images/icons/png/sydney-coastal-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": true,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-02-14T10:50:47.234Z",
+    "updatedAt": "2025-11-13T10:50:47.234Z",
+    "storeId": "store-012"
+  },
+  {
+    "id": "P05103",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Villa - New Lithuania",
+    "slug": "satilik-villa-new-lithuania-P05103",
+    "description": "New Lithuania, Lithuania bölgesinde villa. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 13549905,
+    "location": {
+      "country": "LT",
+      "city": "New Lithuania",
+      "district": "New Lithuania Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 66",
+      "coordinates": {
+        "lat": 55.650395067347304,
+        "lng": 24.300915051577466
+      }
+    },
+    "specs": {
+      "netSize": 295,
+      "grossSize": 354,
+      "rooms": "3+1",
+      "bathrooms": 3,
+      "age": 13,
+      "floor": 5,
+      "totalFloors": 14,
+      "heating": "Klima",
+      "furnishing": "Furnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500919905635?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500414520304?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500522474382?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500029083442?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500118779075?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500326624649?w=800&q=80&category=real-estate"
+    ],
+    "agent": {
+      "id": "A94",
+      "name": "Agent 23",
+      "phone": "+75 534 148 6632",
+      "email": "agent28@iwrealty.com",
+      "photo": "/images/icons/png/ny-skyline-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": true,
+      "hasSecurity": true
+    },
+    "createdAt": "2024-11-28T10:50:47.234Z",
+    "updatedAt": "2025-11-13T10:50:47.234Z",
+    "storeId": "store-008"
+  },
+  {
+    "id": "P05104",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Müstakil Ev - Vilnius",
+    "slug": "kiralik-müstakil-ev-vilnius-P05104",
+    "description": "Vilnius, Lithuania bölgesinde müstakil ev. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 1346727,
+    "location": {
+      "country": "LT",
+      "city": "Vilnius",
+      "district": "Vilnius Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 158",
+      "coordinates": {
+        "lat": 56.472487507813696,
+        "lng": 23.832131284809375
+      }
+    },
+    "specs": {
+      "netSize": 308,
+      "grossSize": 370,
+      "rooms": "1+2",
+      "bathrooms": 1,
+      "age": 2,
+      "floor": 10,
+      "totalFloors": 9,
+      "heating": "Kombi",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500224725055?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500484206684?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500828523842?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500046876598?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500586429757?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500813150869?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500170961751?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500243493582?w=800&q=80&category=architecture"
+    ],
+    "agent": {
+      "id": "A58",
+      "name": "Agent 79",
+      "phone": "+21 641 447 5092",
+      "email": "agent24@iwrealty.com",
+      "photo": "/images/icons/png/berlin-urban-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": false,
+      "hasBalcony": false,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2024-11-28T10:50:47.234Z",
+    "updatedAt": "2025-11-13T10:50:47.234Z",
+    "storeId": "store-009"
+  },
+  {
+    "id": "P05105",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Müstakil Ev - Lithuania Central",
+    "slug": "satilik-müstakil-ev-lithuania-central-P05105",
+    "description": "Lithuania Central, Lithuania bölgesinde müstakil ev. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 12202247,
+    "location": {
+      "country": "LT",
+      "city": "Lithuania Central",
+      "district": "Lithuania Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 527",
+      "coordinates": {
+        "lat": 55.76080580098349,
+        "lng": 23.607111866170087
+      }
+    },
+    "specs": {
+      "netSize": 153,
+      "grossSize": 184,
+      "rooms": "5+1",
+      "bathrooms": 1,
+      "age": 4,
+      "floor": 13,
+      "totalFloors": 5,
+      "heating": "Klima",
+      "furnishing": "Furnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500116392799?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500033919199?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500304536582?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500646068390?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500002217763?w=800&q=80&category=real-estate"
+    ],
+    "agent": {
+      "id": "A42",
+      "name": "Agent 95",
+      "phone": "+38 904 849 3364",
+      "email": "agent63@iwrealty.com",
+      "photo": "/images/icons/png/luxury-homes-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": true,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-06-11T10:50:47.234Z",
+    "updatedAt": "2025-11-13T10:50:47.234Z",
+    "storeId": "store-002"
+  },
+  {
+    "id": "P05106",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Residence - Vilnius",
+    "slug": "kiralik-residence-vilnius-P05106",
+    "description": "Vilnius, Lithuania bölgesinde residence. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 5661810,
+    "location": {
+      "country": "LT",
+      "city": "Vilnius",
+      "district": "Vilnius Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 573",
+      "coordinates": {
+        "lat": 56.34660513560806,
+        "lng": 24.18388180863374
+      }
+    },
+    "specs": {
+      "netSize": 130,
+      "grossSize": 156,
+      "rooms": "1+1",
+      "bathrooms": 3,
+      "age": 17,
+      "floor": 15,
+      "totalFloors": 20,
+      "heating": "Klima",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500989879863?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500728170750?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500257775144?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500640466575?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500657768383?w=800&q=80&category=real-estate"
+    ],
+    "agent": {
+      "id": "A3",
+      "name": "Agent 20",
+      "phone": "+89 512 776 1145",
+      "email": "agent72@iwrealty.com",
+      "photo": "/images/icons/png/antalya-investment-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-02-09T10:50:47.234Z",
+    "updatedAt": "2025-11-13T10:50:47.234Z",
+    "storeId": "store-006"
+  },
+  {
+    "id": "P05107",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Residence - Vilnius",
+    "slug": "satilik-residence-vilnius-P05107",
+    "description": "Vilnius, Lithuania bölgesinde residence. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 14469999,
+    "location": {
+      "country": "LT",
+      "city": "Vilnius",
+      "district": "Vilnius Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 463",
+      "coordinates": {
+        "lat": 55.69662456867029,
+        "lng": 23.51233954521003
+      }
+    },
+    "specs": {
+      "netSize": 361,
+      "grossSize": 433,
+      "rooms": "1+1",
+      "bathrooms": 4,
+      "age": 5,
+      "floor": 8,
+      "totalFloors": 6,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500274499469?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500291079196?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500473271162?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500305703191?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500586751298?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500688018615?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500575090156?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500734458885?w=800&q=80&category=interior"
+    ],
+    "agent": {
+      "id": "A40",
+      "name": "Agent 26",
+      "phone": "+37 256 188 7344",
+      "email": "agent32@iwrealty.com",
+      "photo": "/images/icons/png/london-prime-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": true,
+      "hasPool": true,
+      "hasSecurity": false
+    },
+    "createdAt": "2024-12-27T10:50:47.234Z",
+    "updatedAt": "2025-11-13T10:50:47.234Z",
+    "storeId": "store-007"
+  },
+  {
+    "id": "P05108",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Daire - Lithuania Central",
+    "slug": "kiralik-daire-lithuania-central-P05108",
+    "description": "Lithuania Central, Lithuania bölgesinde daire. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 7353465,
+    "location": {
+      "country": "LT",
+      "city": "Lithuania Central",
+      "district": "Lithuania Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 152",
+      "coordinates": {
+        "lat": 55.932890782811185,
+        "lng": 23.742339649941275
+      }
+    },
+    "specs": {
+      "netSize": 85,
+      "grossSize": 102,
+      "rooms": "4+1",
+      "bathrooms": 1,
+      "age": 10,
+      "floor": 9,
+      "totalFloors": 15,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Unfurnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500970270267?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500470152929?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500532299714?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500692363325?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500029556863?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500141448409?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500084889668?w=800&q=80&category=architecture"
+    ],
+    "agent": {
+      "id": "A76",
+      "name": "Agent 45",
+      "phone": "+41 864 442 1995",
+      "email": "agent32@iwrealty.com",
+      "photo": "/images/icons/png/antalya-investment-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-11-07T10:50:47.234Z",
+    "updatedAt": "2025-11-13T10:50:47.234Z",
+    "storeId": "store-006"
+  },
+  {
+    "id": "P05109",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Daire - Vilnius",
+    "slug": "satilik-daire-vilnius-P05109",
+    "description": "Vilnius, Lithuania bölgesinde daire. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 6616227,
+    "location": {
+      "country": "LT",
+      "city": "Vilnius",
+      "district": "Vilnius Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 295",
+      "coordinates": {
+        "lat": 55.68089533598604,
+        "lng": 23.86192609712306
+      }
+    },
+    "specs": {
+      "netSize": 220,
+      "grossSize": 264,
+      "rooms": "2+2",
+      "bathrooms": 3,
+      "age": 6,
+      "floor": 7,
+      "totalFloors": 10,
+      "heating": "Merkezi",
+      "furnishing": "Furnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500447463848?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500380547937?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500850190883?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500922239223?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500008381683?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500803847262?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500019986107?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500600420451?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500400605479?w=800&q=80&category=architecture"
+    ],
+    "agent": {
+      "id": "A70",
+      "name": "Agent 17",
+      "phone": "+32 550 654 2883",
+      "email": "agent6@iwrealty.com",
+      "photo": "/images/icons/png/ankara-modern-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-10-10T10:50:47.234Z",
+    "updatedAt": "2025-11-13T10:50:47.234Z",
+    "storeId": "store-003"
+  },
+  {
+    "id": "P05110",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Villa - Vilnius",
+    "slug": "kiralik-villa-vilnius-P05110",
+    "description": "Vilnius, Lithuania bölgesinde villa. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 13880467,
+    "location": {
+      "country": "LT",
+      "city": "Vilnius",
+      "district": "Vilnius Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 988",
+      "coordinates": {
+        "lat": 56.10724441368527,
+        "lng": 23.74925882149761
+      }
+    },
+    "specs": {
+      "netSize": 158,
+      "grossSize": 190,
+      "rooms": "2+1",
+      "bathrooms": 1,
+      "age": 20,
+      "floor": 1,
+      "totalFloors": 9,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Furnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500455861120?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500163231059?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500793170247?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500309529029?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500845459066?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500343526044?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500222001890?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500099882106?w=800&q=80&category=architecture"
+    ],
+    "agent": {
+      "id": "A5",
+      "name": "Agent 92",
+      "phone": "+15 686 564 3025",
+      "email": "agent30@iwrealty.com",
+      "photo": "/images/icons/png/luxury-homes-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": true,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-03-03T10:50:47.234Z",
+    "updatedAt": "2025-11-13T10:50:47.234Z",
+    "storeId": "store-002"
+  },
+  {
+    "id": "P05111",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Müstakil Ev - Vilnius",
+    "slug": "satilik-müstakil-ev-vilnius-P05111",
+    "description": "Vilnius, Lithuania bölgesinde müstakil ev. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 2384427,
+    "location": {
+      "country": "LT",
+      "city": "Vilnius",
+      "district": "Vilnius Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 107",
+      "coordinates": {
+        "lat": 56.36085297887283,
+        "lng": 23.948219714944198
+      }
+    },
+    "specs": {
+      "netSize": 425,
+      "grossSize": 510,
+      "rooms": "2+0",
+      "bathrooms": 2,
+      "age": 16,
+      "floor": 8,
+      "totalFloors": 11,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500579934721?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500361730867?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500813090069?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500298594690?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500753304929?w=800&q=80&category=building"
+    ],
+    "agent": {
+      "id": "A12",
+      "name": "Agent 68",
+      "phone": "+23 400 693 1347",
+      "email": "agent74@iwrealty.com",
+      "photo": "/images/icons/png/luxury-homes-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": false,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-10-03T10:50:47.234Z",
+    "updatedAt": "2025-11-13T10:50:47.234Z",
+    "storeId": "store-002"
+  },
+  {
+    "id": "P05112",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Daire - New Lithuania",
+    "slug": "kiralik-daire-new-lithuania-P05112",
+    "description": "New Lithuania, Lithuania bölgesinde daire. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 8866847,
+    "location": {
+      "country": "LT",
+      "city": "New Lithuania",
+      "district": "New Lithuania Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 427",
+      "coordinates": {
+        "lat": 56.26520505214847,
+        "lng": 24.13706434167817
+      }
+    },
+    "specs": {
+      "netSize": 251,
+      "grossSize": 301,
+      "rooms": "1+0",
+      "bathrooms": 2,
+      "age": 6,
+      "floor": 4,
+      "totalFloors": 9,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500427123447?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500896678400?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500426600915?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500616361059?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500466652507?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500844036700?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500427875834?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500873787808?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500138583813?w=800&q=80&category=building"
+    ],
+    "agent": {
+      "id": "A16",
+      "name": "Agent 61",
+      "phone": "+46 298 314 2990",
+      "email": "agent13@iwrealty.com",
+      "photo": "/images/icons/png/paris-heritage-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-10-25T10:50:47.234Z",
+    "updatedAt": "2025-11-13T10:50:47.234Z",
+    "storeId": "store-010"
+  },
+  {
+    "id": "P05113",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Villa - Lithuania Central",
+    "slug": "satilik-villa-lithuania-central-P05113",
+    "description": "Lithuania Central, Lithuania bölgesinde villa. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 14896707,
+    "location": {
+      "country": "LT",
+      "city": "Lithuania Central",
+      "district": "Lithuania Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 272",
+      "coordinates": {
+        "lat": 56.16261209273956,
+        "lng": 23.6924239198264
+      }
+    },
+    "specs": {
+      "netSize": 207,
+      "grossSize": 248,
+      "rooms": "1+1",
+      "bathrooms": 4,
+      "age": 4,
+      "floor": 13,
+      "totalFloors": 18,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Furnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500201764688?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500529810085?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500051592257?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500363005357?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500620292518?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500016769290?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500900108363?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500431309116?w=800&q=80&category=interior"
+    ],
+    "agent": {
+      "id": "A42",
+      "name": "Agent 28",
+      "phone": "+82 382 976 2247",
+      "email": "agent78@iwrealty.com",
+      "photo": "/images/icons/png/izmir-sahil-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-03-28T10:50:47.234Z",
+    "updatedAt": "2025-11-13T10:50:47.234Z",
+    "storeId": "store-005"
+  },
+  {
+    "id": "P05114",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Daire - Vilnius",
+    "slug": "kiralik-daire-vilnius-P05114",
+    "description": "Vilnius, Lithuania bölgesinde daire. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 3713225,
+    "location": {
+      "country": "LT",
+      "city": "Vilnius",
+      "district": "Vilnius Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 482",
+      "coordinates": {
+        "lat": 55.55723622746224,
+        "lng": 23.66162697567597
+      }
+    },
+    "specs": {
+      "netSize": 265,
+      "grossSize": 318,
+      "rooms": "3+2",
+      "bathrooms": 3,
+      "age": 11,
+      "floor": 1,
+      "totalFloors": 5,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Furnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500189272587?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500991746437?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500208268987?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500781732989?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500240211368?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500440827045?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500866261479?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500466261104?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500890031779?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500729760566?w=800&q=80&category=real-estate"
+    ],
+    "agent": {
+      "id": "A62",
+      "name": "Agent 71",
+      "phone": "+14 742 625 8252",
+      "email": "agent20@iwrealty.com",
+      "photo": "/images/icons/png/paris-heritage-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": false,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-09-20T10:50:47.234Z",
+    "updatedAt": "2025-11-13T10:50:47.234Z",
+    "storeId": "store-010"
+  },
+  {
+    "id": "P05115",
+    "type": "sale",
+    "category": {
+      "main": "commercial",
+      "sub": "hospital"
+    },
+    "title": "Satılık Hastane - Vilnius",
+    "slug": "satilik-hastane-vilnius-P05115",
+    "description": "Vilnius, Lithuania bölgesinde hastane. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 36499243,
+    "location": {
+      "country": "LT",
+      "city": "Vilnius",
+      "district": "Vilnius Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 942",
+      "coordinates": {
+        "lat": 55.59851740788623,
+        "lng": 23.520537214519763
+      }
+    },
+    "specs": {
+      "netSize": 14947,
+      "grossSize": 17936,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 11,
+      "floor": 12,
+      "totalFloors": 10,
+      "heating": "Kombi",
+      "furnishing": "Furnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500884255455?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500955748160?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500811844422?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500476627963?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500366645090?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500343603221?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500424854985?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500200183884?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500458284800?w=800&q=80&category=house"
+    ],
+    "agent": {
+      "id": "A37",
+      "name": "Agent 40",
+      "phone": "+64 329 223 6241",
+      "email": "agent99@iwrealty.com",
+      "photo": "/images/icons/png/ny-skyline-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": false,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": true,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-08-21T10:50:47.234Z",
+    "updatedAt": "2025-11-13T10:50:47.234Z",
+    "storeId": "store-008"
+  },
+  {
+    "id": "P05116",
+    "type": "rent",
+    "category": {
+      "main": "commercial",
+      "sub": "hospital"
+    },
+    "title": "Kiralık Hastane - Lithuania City",
+    "slug": "kiralik-hastane-lithuania-city-P05116",
+    "description": "Lithuania City, Lithuania bölgesinde hastane. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 41611757,
+    "location": {
+      "country": "LT",
+      "city": "Lithuania City",
+      "district": "Lithuania City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 147",
+      "coordinates": {
+        "lat": 55.50804504072994,
+        "lng": 23.87379416413036
+      }
+    },
+    "specs": {
+      "netSize": 18493,
+      "grossSize": 22192,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 6,
+      "floor": 14,
+      "totalFloors": 19,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500107337427?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500880197153?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500374454892?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500971406830?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500310935218?w=800&q=80&category=architecture"
+    ],
+    "agent": {
+      "id": "A27",
+      "name": "Agent 7",
+      "phone": "+51 300 401 2508",
+      "email": "agent98@iwrealty.com",
+      "photo": "/images/icons/png/ankara-modern-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": false,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-09-08T10:50:47.234Z",
+    "updatedAt": "2025-11-13T10:50:47.234Z",
+    "storeId": "store-003"
+  },
+  {
+    "id": "P05117",
+    "type": "sale",
+    "category": {
+      "main": "commercial",
+      "sub": "clinic"
+    },
+    "title": "Satılık Klinik - New Lithuania",
+    "slug": "satilik-klinik-new-lithuania-P05117",
+    "description": "New Lithuania, Lithuania bölgesinde klinik. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 7288567,
+    "location": {
+      "country": "LT",
+      "city": "New Lithuania",
+      "district": "New Lithuania Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 982",
+      "coordinates": {
+        "lat": 55.53447967797087,
+        "lng": 24.20194679132786
+      }
+    },
+    "specs": {
+      "netSize": 1573,
+      "grossSize": 1888,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 9,
+      "floor": 2,
+      "totalFloors": 16,
+      "heating": "Merkezi",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500792365099?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500805158170?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500109652125?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500750360083?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500490715232?w=800&q=80&category=architecture"
+    ],
+    "agent": {
+      "id": "A85",
+      "name": "Agent 20",
+      "phone": "+68 799 607 4679",
+      "email": "agent36@iwrealty.com",
+      "photo": "/images/icons/png/paris-heritage-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-02-01T10:50:47.234Z",
+    "updatedAt": "2025-11-13T10:50:47.234Z",
+    "storeId": "store-010"
+  },
+  {
+    "id": "P05118",
+    "type": "rent",
+    "category": {
+      "main": "commercial",
+      "sub": "clinic"
+    },
+    "title": "Kiralık Klinik - Lithuania City",
+    "slug": "kiralik-klinik-lithuania-city-P05118",
+    "description": "Lithuania City, Lithuania bölgesinde klinik. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 11633278,
+    "location": {
+      "country": "LT",
+      "city": "Lithuania City",
+      "district": "Lithuania City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 963",
+      "coordinates": {
+        "lat": 55.96124168226646,
+        "lng": 23.813575440651782
+      }
+    },
+    "specs": {
+      "netSize": 800,
+      "grossSize": 960,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 4,
+      "floor": 15,
+      "totalFloors": 16,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Unfurnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500822827610?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500226140407?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500448564683?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500467711907?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500627151412?w=800&q=80&category=architecture"
+    ],
+    "agent": {
+      "id": "A70",
+      "name": "Agent 42",
+      "phone": "+74 139 898 9688",
+      "email": "agent92@iwrealty.com",
+      "photo": "/images/icons/png/luxury-homes-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2024-12-27T10:50:47.234Z",
+    "updatedAt": "2025-11-13T10:50:47.234Z",
+    "storeId": "store-002"
+  },
+  {
+    "id": "P05119",
+    "type": "sale",
+    "category": {
+      "main": "commercial",
+      "sub": "shop"
+    },
+    "title": "Satılık Dükkan - Vilnius",
+    "slug": "satilik-dükkan-vilnius-P05119",
+    "description": "Vilnius, Lithuania bölgesinde dükkan. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 3534740,
+    "location": {
+      "country": "LT",
+      "city": "Vilnius",
+      "district": "Vilnius Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 13",
+      "coordinates": {
+        "lat": 55.98020023950495,
+        "lng": 23.674193963265697
+      }
+    },
+    "specs": {
+      "netSize": 292,
+      "grossSize": 350,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 16,
+      "floor": 4,
+      "totalFloors": 17,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Furnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500554112096?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500744417082?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500467711410?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500281545360?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500215869121?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500692350675?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500815635694?w=800&q=80&category=architecture"
+    ],
+    "agent": {
+      "id": "A81",
+      "name": "Agent 20",
+      "phone": "+27 599 755 1680",
+      "email": "agent61@iwrealty.com",
+      "photo": "/images/icons/png/sg-harbour-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-09-07T10:50:47.234Z",
+    "updatedAt": "2025-11-13T10:50:47.234Z",
+    "storeId": "store-011"
+  },
+  {
+    "id": "P05120",
+    "type": "rent",
+    "category": {
+      "main": "commercial",
+      "sub": "shop"
+    },
+    "title": "Kiralık Dükkan - New Lithuania",
+    "slug": "kiralik-dükkan-new-lithuania-P05120",
+    "description": "New Lithuania, Lithuania bölgesinde dükkan. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 5406940,
+    "location": {
+      "country": "LT",
+      "city": "New Lithuania",
+      "district": "New Lithuania Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 326",
+      "coordinates": {
+        "lat": 55.967694083711926,
+        "lng": 23.944621268234386
+      }
+    },
+    "specs": {
+      "netSize": 278,
+      "grossSize": 334,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 14,
+      "floor": 2,
+      "totalFloors": 12,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500463545136?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500866024165?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500381375730?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500369057363?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500720132145?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500667866489?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500126970055?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500993659522?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500987025854?w=800&q=80&category=real-estate"
+    ],
+    "agent": {
+      "id": "A57",
+      "name": "Agent 85",
+      "phone": "+32 718 436 1024",
+      "email": "agent46@iwrealty.com",
+      "photo": "/images/icons/png/paris-heritage-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": true,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-04-23T10:50:47.234Z",
+    "updatedAt": "2025-11-13T10:50:47.234Z",
+    "storeId": "store-010"
+  },
+  {
+    "id": "P05121",
+    "type": "sale",
+    "category": {
+      "main": "commercial",
+      "sub": "office"
+    },
+    "title": "Satılık Ofis - New Lithuania",
+    "slug": "satilik-ofis-new-lithuania-P05121",
+    "description": "New Lithuania, Lithuania bölgesinde ofis. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 7365020,
+    "location": {
+      "country": "LT",
+      "city": "New Lithuania",
+      "district": "New Lithuania Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 990",
+      "coordinates": {
+        "lat": 55.924346586171964,
+        "lng": 23.892194644407194
+      }
+    },
+    "specs": {
+      "netSize": 245,
+      "grossSize": 294,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 7,
+      "floor": 8,
+      "totalFloors": 18,
+      "heating": "Merkezi",
+      "furnishing": "Furnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500684146007?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500607947293?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500147527111?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500030547670?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500723715287?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500616495585?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500986880509?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500029017825?w=800&q=80&category=house"
+    ],
+    "agent": {
+      "id": "A65",
+      "name": "Agent 2",
+      "phone": "+63 464 272 2056",
+      "email": "agent18@iwrealty.com",
+      "photo": "/images/icons/png/antalya-investment-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-02-08T10:50:47.234Z",
+    "updatedAt": "2025-11-13T10:50:47.234Z",
+    "storeId": "store-006"
+  },
+  {
+    "id": "P05122",
+    "type": "rent",
+    "category": {
+      "main": "commercial",
+      "sub": "office"
+    },
+    "title": "Kiralık Ofis - Lithuania Central",
+    "slug": "kiralik-ofis-lithuania-central-P05122",
+    "description": "Lithuania Central, Lithuania bölgesinde ofis. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 2137317,
+    "location": {
+      "country": "LT",
+      "city": "Lithuania Central",
+      "district": "Lithuania Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 882",
+      "coordinates": {
+        "lat": 55.772436613730015,
+        "lng": 23.679836611740413
+      }
+    },
+    "specs": {
+      "netSize": 764,
+      "grossSize": 917,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 10,
+      "floor": 9,
+      "totalFloors": 12,
+      "heating": "Kombi",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500038387572?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500809045366?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500552475037?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500749221246?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500826724413?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500410864089?w=800&q=80&category=architecture"
+    ],
+    "agent": {
+      "id": "A31",
+      "name": "Agent 97",
+      "phone": "+39 623 545 6217",
+      "email": "agent16@iwrealty.com",
+      "photo": "/images/icons/png/berlin-urban-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-09-21T10:50:47.234Z",
+    "updatedAt": "2025-11-13T10:50:47.234Z",
+    "storeId": "store-009"
+  },
+  {
+    "id": "P05123",
+    "type": "sale",
+    "category": {
+      "main": "commercial",
+      "sub": "mall"
+    },
+    "title": "Satılık AVM - Lithuania Central",
+    "slug": "satilik-avm-lithuania-central-P05123",
+    "description": "Lithuania Central, Lithuania bölgesinde avm. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 142150444,
+    "location": {
+      "country": "LT",
+      "city": "Lithuania Central",
+      "district": "Lithuania Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 348",
+      "coordinates": {
+        "lat": 56.28811207704709,
+        "lng": 23.555845079987648
+      }
+    },
+    "specs": {
+      "netSize": 37972,
+      "grossSize": 45566,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 4,
+      "floor": 6,
+      "totalFloors": 15,
+      "heating": "Kombi",
+      "furnishing": "Furnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500888723069?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500469260209?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500999622054?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500877098466?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500382515189?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500633488805?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500135196218?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500854939004?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500463518749?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500010437828?w=800&q=80&category=house"
+    ],
+    "agent": {
+      "id": "A3",
+      "name": "Agent 76",
+      "phone": "+97 944 136 4972",
+      "email": "agent1@iwrealty.com",
+      "photo": "/images/icons/png/london-prime-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-08-05T10:50:47.234Z",
+    "updatedAt": "2025-11-13T10:50:47.234Z",
+    "storeId": "store-007"
+  },
+  {
+    "id": "P05124",
+    "type": "rent",
+    "category": {
+      "main": "commercial",
+      "sub": "mall"
+    },
+    "title": "Kiralık AVM - New Lithuania",
+    "slug": "kiralik-avm-new-lithuania-P05124",
+    "description": "New Lithuania, Lithuania bölgesinde avm. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 350259860,
+    "location": {
+      "country": "LT",
+      "city": "New Lithuania",
+      "district": "New Lithuania Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 829",
+      "coordinates": {
+        "lat": 55.67155618929084,
+        "lng": 23.957208425236367
+      }
+    },
+    "specs": {
+      "netSize": 10282,
+      "grossSize": 12338,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 7,
+      "floor": 8,
+      "totalFloors": 12,
+      "heating": "Klima",
+      "furnishing": "Furnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500090307222?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500370160626?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500728929522?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500422386287?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500811938883?w=800&q=80&category=architecture"
+    ],
+    "agent": {
+      "id": "A61",
+      "name": "Agent 10",
+      "phone": "+85 451 525 5083",
+      "email": "agent60@iwrealty.com",
+      "photo": "/images/icons/png/luxury-homes-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-10-18T10:50:47.234Z",
+    "updatedAt": "2025-11-13T10:50:47.234Z",
+    "storeId": "store-002"
+  },
+  {
+    "id": "P05125",
+    "type": "sale",
+    "category": {
+      "main": "commercial",
+      "sub": "hotel"
+    },
+    "title": "Satılık Otel - New Lithuania",
+    "slug": "satilik-otel-new-lithuania-P05125",
+    "description": "New Lithuania, Lithuania bölgesinde otel. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 198044719,
+    "location": {
+      "country": "LT",
+      "city": "New Lithuania",
+      "district": "New Lithuania Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 628",
+      "coordinates": {
+        "lat": 56.19877308805809,
+        "lng": 24.288388572952613
+      }
+    },
+    "specs": {
+      "netSize": 24476,
+      "grossSize": 29371,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 18,
+      "floor": 1,
+      "totalFloors": 19,
+      "heating": "Kombi",
+      "furnishing": "Furnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500898023581?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500246945671?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500584192702?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500608014018?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500003572653?w=800&q=80&category=house"
+    ],
+    "agent": {
+      "id": "A22",
+      "name": "Agent 74",
+      "phone": "+86 781 248 2323",
+      "email": "agent24@iwrealty.com",
+      "photo": "/images/icons/png/paris-heritage-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-02-27T10:50:47.234Z",
+    "updatedAt": "2025-11-13T10:50:47.234Z",
+    "storeId": "store-010"
+  },
+  {
+    "id": "P05126",
+    "type": "rent",
+    "category": {
+      "main": "commercial",
+      "sub": "hotel"
+    },
+    "title": "Kiralık Otel - Lithuania City",
+    "slug": "kiralik-otel-lithuania-city-P05126",
+    "description": "Lithuania City, Lithuania bölgesinde otel. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 183174034,
+    "location": {
+      "country": "LT",
+      "city": "Lithuania City",
+      "district": "Lithuania City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 448",
+      "coordinates": {
+        "lat": 55.7312750242457,
+        "lng": 23.646160160062852
+      }
+    },
+    "specs": {
+      "netSize": 12271,
+      "grossSize": 14725,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 17,
+      "floor": 9,
+      "totalFloors": 12,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Unfurnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500416763028?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500122900453?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500664642731?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500461008694?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500966847269?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500917909421?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500560942215?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500146971500?w=800&q=80&category=interior"
+    ],
+    "agent": {
+      "id": "A94",
+      "name": "Agent 26",
+      "phone": "+62 224 545 8867",
+      "email": "agent63@iwrealty.com",
+      "photo": "/images/icons/png/ankara-modern-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-10-24T10:50:47.234Z",
+    "updatedAt": "2025-11-13T10:50:47.234Z",
+    "storeId": "store-003"
+  },
+  {
+    "id": "P05127",
+    "type": "sale",
+    "category": {
+      "main": "commercial",
+      "sub": "restaurant"
+    },
+    "title": "Satılık Restoran - Vilnius",
+    "slug": "satilik-restoran-vilnius-P05127",
+    "description": "Vilnius, Lithuania bölgesinde restoran. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 4411358,
+    "location": {
+      "country": "LT",
+      "city": "Vilnius",
+      "district": "Vilnius Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 794",
+      "coordinates": {
+        "lat": 56.35818761054832,
+        "lng": 24.218944153555086
+      }
+    },
+    "specs": {
+      "netSize": 1238,
+      "grossSize": 1486,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 2,
+      "floor": 3,
+      "totalFloors": 17,
+      "heating": "Merkezi",
+      "furnishing": "Unfurnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500930737171?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500369168584?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500260357259?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500454348705?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500897649936?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500769732394?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500606887555?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500980871622?w=800&q=80&category=architecture"
+    ],
+    "agent": {
+      "id": "A52",
+      "name": "Agent 100",
+      "phone": "+71 228 234 2868",
+      "email": "agent19@iwrealty.com",
+      "photo": "/images/icons/png/antalya-investment-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-07-01T10:50:47.234Z",
+    "updatedAt": "2025-11-13T10:50:47.234Z",
+    "storeId": "store-006"
+  },
+  {
+    "id": "P05128",
+    "type": "rent",
+    "category": {
+      "main": "commercial",
+      "sub": "restaurant"
+    },
+    "title": "Kiralık Restoran - Lithuania City",
+    "slug": "kiralik-restoran-lithuania-city-P05128",
+    "description": "Lithuania City, Lithuania bölgesinde restoran. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 9388887,
+    "location": {
+      "country": "LT",
+      "city": "Lithuania City",
+      "district": "Lithuania City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 143",
+      "coordinates": {
+        "lat": 56.06325874419033,
+        "lng": 24.44066629601795
+      }
+    },
+    "specs": {
+      "netSize": 1079,
+      "grossSize": 1295,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 7,
+      "floor": 1,
+      "totalFloors": 20,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Unfurnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500512947134?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500936973088?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500297906501?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500517069425?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500543191836?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500534567042?w=800&q=80&category=house"
+    ],
+    "agent": {
+      "id": "A39",
+      "name": "Agent 15",
+      "phone": "+71 478 936 6710",
+      "email": "agent85@iwrealty.com",
+      "photo": "/images/icons/png/dubai-property-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-07-31T10:50:47.234Z",
+    "updatedAt": "2025-11-13T10:50:47.234Z",
+    "storeId": "store-004"
+  },
+  {
+    "id": "P05129",
+    "type": "sale",
+    "category": {
+      "main": "commercial",
+      "sub": "warehouse"
+    },
+    "title": "Satılık Depo - New Lithuania",
+    "slug": "satilik-depo-new-lithuania-P05129",
+    "description": "New Lithuania, Lithuania bölgesinde depo. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 22695766,
+    "location": {
+      "country": "LT",
+      "city": "New Lithuania",
+      "district": "New Lithuania Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 946",
+      "coordinates": {
+        "lat": 56.26442066184278,
+        "lng": 24.24359753885574
+      }
+    },
+    "specs": {
+      "netSize": 2821,
+      "grossSize": 3385,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 17,
+      "floor": 14,
+      "totalFloors": 8,
+      "heating": "Klima",
+      "furnishing": "Unfurnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500236081710?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500233486415?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500299091350?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500782608281?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500024418578?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500544709175?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500524337372?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500010198685?w=800&q=80&category=real-estate"
+    ],
+    "agent": {
+      "id": "A1",
+      "name": "Agent 99",
+      "phone": "+13 238 466 5043",
+      "email": "agent6@iwrealty.com",
+      "photo": "/images/icons/png/antalya-investment-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-04-09T10:50:47.234Z",
+    "updatedAt": "2025-11-13T10:50:47.234Z",
+    "storeId": "store-006"
+  },
+  {
+    "id": "P05130",
+    "type": "rent",
+    "category": {
+      "main": "commercial",
+      "sub": "warehouse"
+    },
+    "title": "Kiralık Depo - Vilnius",
+    "slug": "kiralik-depo-vilnius-P05130",
+    "description": "Vilnius, Lithuania bölgesinde depo. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 27675322,
+    "location": {
+      "country": "LT",
+      "city": "Vilnius",
+      "district": "Vilnius Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 550",
+      "coordinates": {
+        "lat": 55.77668138882187,
+        "lng": 24.22661315173365
+      }
+    },
+    "specs": {
+      "netSize": 1430,
+      "grossSize": 1716,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 11,
+      "floor": 8,
+      "totalFloors": 9,
+      "heating": "Kombi",
+      "furnishing": "Unfurnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500471225748?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500672064827?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500176080085?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500791634140?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500761027785?w=800&q=80&category=interior"
+    ],
+    "agent": {
+      "id": "A96",
+      "name": "Agent 100",
+      "phone": "+34 266 411 7279",
+      "email": "agent91@iwrealty.com",
+      "photo": "/images/icons/png/izmir-sahil-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-05-27T10:50:47.234Z",
+    "updatedAt": "2025-11-13T10:50:47.234Z",
+    "storeId": "store-005"
+  }
+]

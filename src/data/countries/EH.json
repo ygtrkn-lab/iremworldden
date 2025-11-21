@@ -1,0 +1,2341 @@
+[
+  {
+    "id": "P02623",
+    "type": "sale",
+    "category": {
+      "main": "government"
+    },
+    "title": "Satılık Hastane - Western Sahara City",
+    "slug": "satilik-hastane-western-sahara-city-P02623",
+    "description": "Western Sahara City, Western Sahara bölgesinde hastane. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 22068031,
+    "location": {
+      "country": "EH",
+      "city": "Western Sahara City",
+      "district": "Western Sahara City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 135",
+      "coordinates": {
+        "lat": 24.919583280801554,
+        "lng": -12.58910010646061
+      }
+    },
+    "specs": {
+      "netSize": 1063,
+      "grossSize": 1276,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 5,
+      "floor": 11,
+      "totalFloors": 5,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Unfurnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500874987834?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500954776363?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500900209796?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500393977042?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500242302362?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500787173874?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500625252609?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500860835912?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500081979898?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500646571699?w=800&q=80&category=real-estate"
+    ],
+    "agent": {
+      "id": "A9",
+      "name": "Agent 52",
+      "phone": "+94 748 792 1717",
+      "email": "agent87@iwrealty.com",
+      "photo": "/images/icons/png/sydney-coastal-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": false,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-07-15T10:50:47.205Z",
+    "updatedAt": "2025-11-13T10:50:47.205Z",
+    "storeId": "store-012"
+  },
+  {
+    "id": "P02624",
+    "type": "rent",
+    "category": {
+      "main": "government"
+    },
+    "title": "Kiralık Belediye Binası - New Western Sahara",
+    "slug": "kiralik-belediye-binası-new-western-sahara-P02624",
+    "description": "New Western Sahara, Western Sahara bölgesinde belediye binası. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 31528205,
+    "location": {
+      "country": "EH",
+      "city": "New Western Sahara",
+      "district": "New Western Sahara Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 135",
+      "coordinates": {
+        "lat": 24.72579345418838,
+        "lng": -13.345403377068306
+      }
+    },
+    "specs": {
+      "netSize": 4606,
+      "grossSize": 5527,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 19,
+      "floor": 1,
+      "totalFloors": 18,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500067397282?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500211131412?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500344126808?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500849335764?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500506053356?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500194715896?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500262572909?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500817203087?w=800&q=80&category=building"
+    ],
+    "agent": {
+      "id": "A98",
+      "name": "Agent 89",
+      "phone": "+47 437 285 8433",
+      "email": "agent19@iwrealty.com",
+      "photo": "/images/icons/png/antalya-investment-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": true,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-10-12T10:50:47.205Z",
+    "updatedAt": "2025-11-13T10:50:47.205Z",
+    "storeId": "store-006"
+  },
+  {
+    "id": "P02625",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Daire - El Aaiún",
+    "slug": "satilik-daire-el-aaiún-P02625",
+    "description": "El Aaiún, Western Sahara bölgesinde daire. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 6791148,
+    "location": {
+      "country": "EH",
+      "city": "El Aaiún",
+      "district": "El Aaiún Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 743",
+      "coordinates": {
+        "lat": 24.201606886416695,
+        "lng": -13.10540483428996
+      }
+    },
+    "specs": {
+      "netSize": 289,
+      "grossSize": 347,
+      "rooms": "5+1",
+      "bathrooms": 4,
+      "age": 11,
+      "floor": 8,
+      "totalFloors": 16,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Unfurnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500495836637?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500639460184?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500077475070?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500289736843?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500772901335?w=800&q=80&category=real-estate"
+    ],
+    "agent": {
+      "id": "A60",
+      "name": "Agent 8",
+      "phone": "+48 159 950 2780",
+      "email": "agent98@iwrealty.com",
+      "photo": "/images/icons/png/london-prime-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": false,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": true,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-10-26T10:50:47.205Z",
+    "updatedAt": "2025-11-13T10:50:47.205Z",
+    "storeId": "store-007"
+  },
+  {
+    "id": "P02626",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Villa - El Aaiún",
+    "slug": "kiralik-villa-el-aaiún-P02626",
+    "description": "El Aaiún, Western Sahara bölgesinde villa. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 5616855,
+    "location": {
+      "country": "EH",
+      "city": "El Aaiún",
+      "district": "El Aaiún Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 332",
+      "coordinates": {
+        "lat": 24.056319423854596,
+        "lng": -12.568891507687686
+      }
+    },
+    "specs": {
+      "netSize": 405,
+      "grossSize": 486,
+      "rooms": "3+1",
+      "bathrooms": 4,
+      "age": 12,
+      "floor": 3,
+      "totalFloors": 17,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500709635444?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500059251145?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500661447439?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500537322166?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500107453041?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500635115147?w=800&q=80&category=building"
+    ],
+    "agent": {
+      "id": "A53",
+      "name": "Agent 53",
+      "phone": "+55 669 752 5749",
+      "email": "agent77@iwrealty.com",
+      "photo": "/images/icons/png/ankara-modern-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": false,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-07-15T10:50:47.205Z",
+    "updatedAt": "2025-11-13T10:50:47.205Z",
+    "storeId": "store-003"
+  },
+  {
+    "id": "P02627",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Daire - Western Sahara City",
+    "slug": "satilik-daire-western-sahara-city-P02627",
+    "description": "Western Sahara City, Western Sahara bölgesinde daire. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 12694940,
+    "location": {
+      "country": "EH",
+      "city": "Western Sahara City",
+      "district": "Western Sahara City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 350",
+      "coordinates": {
+        "lat": 24.509943645730058,
+        "lng": -12.776027058016632
+      }
+    },
+    "specs": {
+      "netSize": 101,
+      "grossSize": 121,
+      "rooms": "3+0",
+      "bathrooms": 4,
+      "age": 16,
+      "floor": 14,
+      "totalFloors": 20,
+      "heating": "Klima",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500251457513?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500949589357?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500594377633?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500912977543?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500443625986?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500807605173?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500254549587?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500533465562?w=800&q=80&category=building"
+    ],
+    "agent": {
+      "id": "A44",
+      "name": "Agent 20",
+      "phone": "+56 440 779 2473",
+      "email": "agent44@iwrealty.com",
+      "photo": "/images/icons/png/ankara-modern-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": true,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-02-08T10:50:47.205Z",
+    "updatedAt": "2025-11-13T10:50:47.205Z",
+    "storeId": "store-003"
+  },
+  {
+    "id": "P02628",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Daire - Western Sahara City",
+    "slug": "kiralik-daire-western-sahara-city-P02628",
+    "description": "Western Sahara City, Western Sahara bölgesinde daire. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 11219975,
+    "location": {
+      "country": "EH",
+      "city": "Western Sahara City",
+      "district": "Western Sahara City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 454",
+      "coordinates": {
+        "lat": 24.908782764452333,
+        "lng": -12.790531475616925
+      }
+    },
+    "specs": {
+      "netSize": 99,
+      "grossSize": 119,
+      "rooms": "1+2",
+      "bathrooms": 4,
+      "age": 14,
+      "floor": 5,
+      "totalFloors": 13,
+      "heating": "Kombi",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500739245063?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500837164765?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500070757075?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500706011233?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500147120540?w=800&q=80&category=building"
+    ],
+    "agent": {
+      "id": "A2",
+      "name": "Agent 52",
+      "phone": "+16 686 289 1737",
+      "email": "agent4@iwrealty.com",
+      "photo": "/images/icons/png/london-prime-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": false,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": true,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-08-06T10:50:47.205Z",
+    "updatedAt": "2025-11-13T10:50:47.205Z",
+    "storeId": "store-007"
+  },
+  {
+    "id": "P02629",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Müstakil Ev - Western Sahara City",
+    "slug": "satilik-müstakil-ev-western-sahara-city-P02629",
+    "description": "Western Sahara City, Western Sahara bölgesinde müstakil ev. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 12208753,
+    "location": {
+      "country": "EH",
+      "city": "Western Sahara City",
+      "district": "Western Sahara City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 315",
+      "coordinates": {
+        "lat": 24.454367599869673,
+        "lng": -13.47113068064707
+      }
+    },
+    "specs": {
+      "netSize": 112,
+      "grossSize": 134,
+      "rooms": "5+0",
+      "bathrooms": 1,
+      "age": 13,
+      "floor": 6,
+      "totalFloors": 15,
+      "heating": "Kombi",
+      "furnishing": "Unfurnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500410624847?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500671483502?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500337300643?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500833194201?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500352007109?w=800&q=80&category=architecture"
+    ],
+    "agent": {
+      "id": "A47",
+      "name": "Agent 12",
+      "phone": "+33 791 804 8725",
+      "email": "agent49@iwrealty.com",
+      "photo": "/images/icons/png/berlin-urban-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": false,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-09-08T10:50:47.205Z",
+    "updatedAt": "2025-11-13T10:50:47.205Z",
+    "storeId": "store-009"
+  },
+  {
+    "id": "P02630",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Residence - New Western Sahara",
+    "slug": "kiralik-residence-new-western-sahara-P02630",
+    "description": "New Western Sahara, Western Sahara bölgesinde residence. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 11468299,
+    "location": {
+      "country": "EH",
+      "city": "New Western Sahara",
+      "district": "New Western Sahara Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 979",
+      "coordinates": {
+        "lat": 24.95663519486944,
+        "lng": -12.753654379105807
+      }
+    },
+    "specs": {
+      "netSize": 322,
+      "grossSize": 386,
+      "rooms": "4+1",
+      "bathrooms": 1,
+      "age": 13,
+      "floor": 5,
+      "totalFloors": 20,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500620795900?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500995825748?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500568354730?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500099735240?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500835670080?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500868991342?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500384742452?w=800&q=80&category=house"
+    ],
+    "agent": {
+      "id": "A45",
+      "name": "Agent 50",
+      "phone": "+24 965 173 4493",
+      "email": "agent73@iwrealty.com",
+      "photo": "/images/icons/png/luxury-homes-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-04-21T10:50:47.205Z",
+    "updatedAt": "2025-11-13T10:50:47.205Z",
+    "storeId": "store-002"
+  },
+  {
+    "id": "P02631",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Residence - Western Sahara Central",
+    "slug": "satilik-residence-western-sahara-central-P02631",
+    "description": "Western Sahara Central, Western Sahara bölgesinde residence. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 9365227,
+    "location": {
+      "country": "EH",
+      "city": "Western Sahara Central",
+      "district": "Western Sahara Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 720",
+      "coordinates": {
+        "lat": 24.749217674674785,
+        "lng": -12.775056807219608
+      }
+    },
+    "specs": {
+      "netSize": 189,
+      "grossSize": 227,
+      "rooms": "3+1",
+      "bathrooms": 4,
+      "age": 12,
+      "floor": 15,
+      "totalFloors": 14,
+      "heating": "Merkezi",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500301555668?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500870138859?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500623667557?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500579408208?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500136899583?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500304370954?w=800&q=80&category=building"
+    ],
+    "agent": {
+      "id": "A73",
+      "name": "Agent 97",
+      "phone": "+46 455 400 1433",
+      "email": "agent14@iwrealty.com",
+      "photo": "/images/icons/png/sg-harbour-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-06-18T10:50:47.205Z",
+    "updatedAt": "2025-11-13T10:50:47.205Z",
+    "storeId": "store-011"
+  },
+  {
+    "id": "P02632",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Villa - New Western Sahara",
+    "slug": "kiralik-villa-new-western-sahara-P02632",
+    "description": "New Western Sahara, Western Sahara bölgesinde villa. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 3321402,
+    "location": {
+      "country": "EH",
+      "city": "New Western Sahara",
+      "district": "New Western Sahara Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 720",
+      "coordinates": {
+        "lat": 24.145615498666906,
+        "lng": -13.12390875455424
+      }
+    },
+    "specs": {
+      "netSize": 189,
+      "grossSize": 227,
+      "rooms": "1+0",
+      "bathrooms": 1,
+      "age": 6,
+      "floor": 5,
+      "totalFloors": 12,
+      "heating": "Merkezi",
+      "furnishing": "Furnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500454761360?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500625231730?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500953792920?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500637364103?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500483811982?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500466542063?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500403208850?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500148663686?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500675115091?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500184476959?w=800&q=80&category=house"
+    ],
+    "agent": {
+      "id": "A82",
+      "name": "Agent 72",
+      "phone": "+52 833 843 2779",
+      "email": "agent79@iwrealty.com",
+      "photo": "/images/icons/png/dubai-property-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-10-18T10:50:47.205Z",
+    "updatedAt": "2025-11-13T10:50:47.205Z",
+    "storeId": "store-004"
+  },
+  {
+    "id": "P02633",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Daire - Western Sahara Central",
+    "slug": "satilik-daire-western-sahara-central-P02633",
+    "description": "Western Sahara Central, Western Sahara bölgesinde daire. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 13672484,
+    "location": {
+      "country": "EH",
+      "city": "Western Sahara Central",
+      "district": "Western Sahara Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 31",
+      "coordinates": {
+        "lat": 24.159259445665384,
+        "lng": -12.836717330806284
+      }
+    },
+    "specs": {
+      "netSize": 420,
+      "grossSize": 504,
+      "rooms": "4+0",
+      "bathrooms": 1,
+      "age": 11,
+      "floor": 3,
+      "totalFloors": 19,
+      "heating": "Kombi",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500573869130?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500606617827?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500550125818?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500304074200?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500845649619?w=800&q=80&category=building"
+    ],
+    "agent": {
+      "id": "A85",
+      "name": "Agent 89",
+      "phone": "+31 191 696 3111",
+      "email": "agent78@iwrealty.com",
+      "photo": "/images/icons/png/london-prime-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-06-10T10:50:47.205Z",
+    "updatedAt": "2025-11-13T10:50:47.205Z",
+    "storeId": "store-007"
+  },
+  {
+    "id": "P02634",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Residence - El Aaiún",
+    "slug": "kiralik-residence-el-aaiún-P02634",
+    "description": "El Aaiún, Western Sahara bölgesinde residence. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 3723076,
+    "location": {
+      "country": "EH",
+      "city": "El Aaiún",
+      "district": "El Aaiún Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 218",
+      "coordinates": {
+        "lat": 24.19564969033293,
+        "lng": -12.895760872892563
+      }
+    },
+    "specs": {
+      "netSize": 297,
+      "grossSize": 356,
+      "rooms": "4+2",
+      "bathrooms": 1,
+      "age": 6,
+      "floor": 9,
+      "totalFloors": 6,
+      "heating": "Klima",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500209988088?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500894587220?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500160674640?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500181244116?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500272775138?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500010918622?w=800&q=80&category=building"
+    ],
+    "agent": {
+      "id": "A61",
+      "name": "Agent 83",
+      "phone": "+77 167 220 9271",
+      "email": "agent66@iwrealty.com",
+      "photo": "/images/icons/png/berlin-urban-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": false,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": true,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-03-11T10:50:47.206Z",
+    "updatedAt": "2025-11-13T10:50:47.206Z",
+    "storeId": "store-009"
+  },
+  {
+    "id": "P02635",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Daire - El Aaiún",
+    "slug": "satilik-daire-el-aaiún-P02635",
+    "description": "El Aaiún, Western Sahara bölgesinde daire. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 3169862,
+    "location": {
+      "country": "EH",
+      "city": "El Aaiún",
+      "district": "El Aaiún Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 354",
+      "coordinates": {
+        "lat": 24.86155799700413,
+        "lng": -13.10036611221651
+      }
+    },
+    "specs": {
+      "netSize": 392,
+      "grossSize": 470,
+      "rooms": "1+1",
+      "bathrooms": 4,
+      "age": 11,
+      "floor": 9,
+      "totalFloors": 5,
+      "heating": "Merkezi",
+      "furnishing": "Furnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500506376026?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500557691704?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500181435162?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500277248942?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500789080694?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500571351435?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500203147498?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500936532121?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500590416146?w=800&q=80&category=house"
+    ],
+    "agent": {
+      "id": "A54",
+      "name": "Agent 18",
+      "phone": "+82 417 855 7063",
+      "email": "agent9@iwrealty.com",
+      "photo": "/images/icons/png/sydney-coastal-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": false,
+      "hasBalcony": false,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-05-15T10:50:47.206Z",
+    "updatedAt": "2025-11-13T10:50:47.206Z",
+    "storeId": "store-012"
+  },
+  {
+    "id": "P02636",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Residence - New Western Sahara",
+    "slug": "kiralik-residence-new-western-sahara-P02636",
+    "description": "New Western Sahara, Western Sahara bölgesinde residence. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 9775729,
+    "location": {
+      "country": "EH",
+      "city": "New Western Sahara",
+      "district": "New Western Sahara Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 527",
+      "coordinates": {
+        "lat": 24.032261135818622,
+        "lng": -13.016485587856343
+      }
+    },
+    "specs": {
+      "netSize": 366,
+      "grossSize": 439,
+      "rooms": "2+2",
+      "bathrooms": 3,
+      "age": 20,
+      "floor": 2,
+      "totalFloors": 17,
+      "heating": "Merkezi",
+      "furnishing": "Unfurnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500790916191?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500333307920?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500413110680?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500106357375?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500352898675?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500992993653?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500117725534?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500306246219?w=800&q=80&category=building"
+    ],
+    "agent": {
+      "id": "A77",
+      "name": "Agent 36",
+      "phone": "+79 264 796 2497",
+      "email": "agent53@iwrealty.com",
+      "photo": "/images/icons/png/antalya-investment-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": true,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-03-13T10:50:47.206Z",
+    "updatedAt": "2025-11-13T10:50:47.206Z",
+    "storeId": "store-006"
+  },
+  {
+    "id": "P02637",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Residence - El Aaiún",
+    "slug": "satilik-residence-el-aaiún-P02637",
+    "description": "El Aaiún, Western Sahara bölgesinde residence. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 8969354,
+    "location": {
+      "country": "EH",
+      "city": "El Aaiún",
+      "district": "El Aaiún Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 519",
+      "coordinates": {
+        "lat": 24.920680989516303,
+        "lng": -13.38562460115269
+      }
+    },
+    "specs": {
+      "netSize": 323,
+      "grossSize": 388,
+      "rooms": "3+1",
+      "bathrooms": 2,
+      "age": 5,
+      "floor": 6,
+      "totalFloors": 12,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Furnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500802791854?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500104159649?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500457143617?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500197118051?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500217312717?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500022332539?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500570516415?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500923005805?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500903987141?w=800&q=80&category=house"
+    ],
+    "agent": {
+      "id": "A77",
+      "name": "Agent 14",
+      "phone": "+97 677 684 9964",
+      "email": "agent93@iwrealty.com",
+      "photo": "/images/icons/png/london-prime-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": false,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-04-28T10:50:47.206Z",
+    "updatedAt": "2025-11-13T10:50:47.206Z",
+    "storeId": "store-007"
+  },
+  {
+    "id": "P02638",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Müstakil Ev - New Western Sahara",
+    "slug": "kiralik-müstakil-ev-new-western-sahara-P02638",
+    "description": "New Western Sahara, Western Sahara bölgesinde müstakil ev. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 1359313,
+    "location": {
+      "country": "EH",
+      "city": "New Western Sahara",
+      "district": "New Western Sahara Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 501",
+      "coordinates": {
+        "lat": 24.62686979482712,
+        "lng": -12.912660792177721
+      }
+    },
+    "specs": {
+      "netSize": 222,
+      "grossSize": 266,
+      "rooms": "4+2",
+      "bathrooms": 3,
+      "age": 4,
+      "floor": 8,
+      "totalFloors": 17,
+      "heating": "Klima",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500802746581?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500609488494?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500097413816?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500905383374?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500876199102?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500074567996?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500508907102?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500844360604?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500362673439?w=800&q=80&category=real-estate"
+    ],
+    "agent": {
+      "id": "A77",
+      "name": "Agent 97",
+      "phone": "+46 602 371 9369",
+      "email": "agent85@iwrealty.com",
+      "photo": "/images/icons/png/london-prime-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-10-04T10:50:47.206Z",
+    "updatedAt": "2025-11-13T10:50:47.206Z",
+    "storeId": "store-007"
+  },
+  {
+    "id": "P02639",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Residence - Western Sahara Central",
+    "slug": "satilik-residence-western-sahara-central-P02639",
+    "description": "Western Sahara Central, Western Sahara bölgesinde residence. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 7752141,
+    "location": {
+      "country": "EH",
+      "city": "Western Sahara Central",
+      "district": "Western Sahara Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 288",
+      "coordinates": {
+        "lat": 24.308600797013007,
+        "lng": -13.41524785343105
+      }
+    },
+    "specs": {
+      "netSize": 425,
+      "grossSize": 510,
+      "rooms": "5+0",
+      "bathrooms": 3,
+      "age": 9,
+      "floor": 3,
+      "totalFloors": 5,
+      "heating": "Kombi",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500356856766?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500381626977?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500462861504?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500297587895?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500990731295?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500164104224?w=800&q=80&category=house"
+    ],
+    "agent": {
+      "id": "A84",
+      "name": "Agent 49",
+      "phone": "+22 475 431 3664",
+      "email": "agent49@iwrealty.com",
+      "photo": "/images/icons/png/berlin-urban-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-06-05T10:50:47.206Z",
+    "updatedAt": "2025-11-13T10:50:47.206Z",
+    "storeId": "store-009"
+  },
+  {
+    "id": "P02640",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Daire - New Western Sahara",
+    "slug": "kiralik-daire-new-western-sahara-P02640",
+    "description": "New Western Sahara, Western Sahara bölgesinde daire. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 8314840,
+    "location": {
+      "country": "EH",
+      "city": "New Western Sahara",
+      "district": "New Western Sahara Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 112",
+      "coordinates": {
+        "lat": 24.03121966972838,
+        "lng": -13.290135958003052
+      }
+    },
+    "specs": {
+      "netSize": 126,
+      "grossSize": 151,
+      "rooms": "5+2",
+      "bathrooms": 1,
+      "age": 6,
+      "floor": 7,
+      "totalFloors": 8,
+      "heating": "Merkezi",
+      "furnishing": "Furnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500894503799?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500740210834?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500638112054?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500549215880?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500314374012?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500230776067?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500833866067?w=800&q=80&category=building"
+    ],
+    "agent": {
+      "id": "A38",
+      "name": "Agent 83",
+      "phone": "+96 282 764 1108",
+      "email": "agent9@iwrealty.com",
+      "photo": "/images/icons/png/ankara-modern-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": false,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": true,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-10-15T10:50:47.206Z",
+    "updatedAt": "2025-11-13T10:50:47.206Z",
+    "storeId": "store-003"
+  },
+  {
+    "id": "P02641",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Residence - New Western Sahara",
+    "slug": "satilik-residence-new-western-sahara-P02641",
+    "description": "New Western Sahara, Western Sahara bölgesinde residence. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 6550454,
+    "location": {
+      "country": "EH",
+      "city": "New Western Sahara",
+      "district": "New Western Sahara Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 209",
+      "coordinates": {
+        "lat": 24.985564127377298,
+        "lng": -12.918327584100005
+      }
+    },
+    "specs": {
+      "netSize": 305,
+      "grossSize": 366,
+      "rooms": "1+0",
+      "bathrooms": 3,
+      "age": 5,
+      "floor": 14,
+      "totalFloors": 19,
+      "heating": "Klima",
+      "furnishing": "Unfurnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500927970806?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500547885356?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500040188665?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500490391836?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500054875593?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500022183674?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500951883185?w=800&q=80&category=architecture"
+    ],
+    "agent": {
+      "id": "A62",
+      "name": "Agent 75",
+      "phone": "+22 405 838 1944",
+      "email": "agent42@iwrealty.com",
+      "photo": "/images/icons/png/berlin-urban-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": false,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-05-03T10:50:47.206Z",
+    "updatedAt": "2025-11-13T10:50:47.206Z",
+    "storeId": "store-009"
+  },
+  {
+    "id": "P02642",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Müstakil Ev - Western Sahara City",
+    "slug": "kiralik-müstakil-ev-western-sahara-city-P02642",
+    "description": "Western Sahara City, Western Sahara bölgesinde müstakil ev. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 13769004,
+    "location": {
+      "country": "EH",
+      "city": "Western Sahara City",
+      "district": "Western Sahara City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 11",
+      "coordinates": {
+        "lat": 24.75127739841472,
+        "lng": -12.943461300790005
+      }
+    },
+    "specs": {
+      "netSize": 372,
+      "grossSize": 446,
+      "rooms": "3+0",
+      "bathrooms": 3,
+      "age": 2,
+      "floor": 13,
+      "totalFloors": 12,
+      "heating": "Klima",
+      "furnishing": "Unfurnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500462374603?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500444915944?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500694499644?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500115048789?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500967657057?w=800&q=80&category=building"
+    ],
+    "agent": {
+      "id": "A73",
+      "name": "Agent 29",
+      "phone": "+83 828 435 8839",
+      "email": "agent57@iwrealty.com",
+      "photo": "/images/icons/png/izmir-sahil-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": false,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": true,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-07-24T10:50:47.206Z",
+    "updatedAt": "2025-11-13T10:50:47.206Z",
+    "storeId": "store-005"
+  },
+  {
+    "id": "P02643",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Daire - New Western Sahara",
+    "slug": "satilik-daire-new-western-sahara-P02643",
+    "description": "New Western Sahara, Western Sahara bölgesinde daire. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 5967564,
+    "location": {
+      "country": "EH",
+      "city": "New Western Sahara",
+      "district": "New Western Sahara Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 80",
+      "coordinates": {
+        "lat": 24.491400492132495,
+        "lng": -13.424926469672464
+      }
+    },
+    "specs": {
+      "netSize": 86,
+      "grossSize": 103,
+      "rooms": "3+2",
+      "bathrooms": 3,
+      "age": 14,
+      "floor": 1,
+      "totalFloors": 9,
+      "heating": "Merkezi",
+      "furnishing": "Furnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500389782450?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500110149595?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500941679951?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500106979697?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500102379596?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500849124881?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500830287864?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500348958083?w=800&q=80&category=building"
+    ],
+    "agent": {
+      "id": "A46",
+      "name": "Agent 36",
+      "phone": "+30 544 438 4657",
+      "email": "agent24@iwrealty.com",
+      "photo": "/images/icons/png/sydney-coastal-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-05-18T10:50:47.206Z",
+    "updatedAt": "2025-11-13T10:50:47.206Z",
+    "storeId": "store-012"
+  },
+  {
+    "id": "P02644",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Daire - El Aaiún",
+    "slug": "kiralik-daire-el-aaiún-P02644",
+    "description": "El Aaiún, Western Sahara bölgesinde daire. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 6779684,
+    "location": {
+      "country": "EH",
+      "city": "El Aaiún",
+      "district": "El Aaiún Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 638",
+      "coordinates": {
+        "lat": 24.052719833026114,
+        "lng": -12.604058201956832
+      }
+    },
+    "specs": {
+      "netSize": 239,
+      "grossSize": 287,
+      "rooms": "1+0",
+      "bathrooms": 1,
+      "age": 13,
+      "floor": 13,
+      "totalFloors": 5,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Unfurnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500852169575?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500173331546?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500160550181?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500288341105?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500335431394?w=800&q=80&category=architecture"
+    ],
+    "agent": {
+      "id": "A90",
+      "name": "Agent 88",
+      "phone": "+31 100 575 7002",
+      "email": "agent48@iwrealty.com",
+      "photo": "/images/icons/png/london-prime-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-02-06T10:50:47.206Z",
+    "updatedAt": "2025-11-13T10:50:47.206Z",
+    "storeId": "store-007"
+  },
+  {
+    "id": "P02645",
+    "type": "sale",
+    "category": {
+      "main": "commercial",
+      "sub": "hospital"
+    },
+    "title": "Satılık Hastane - El Aaiún",
+    "slug": "satilik-hastane-el-aaiún-P02645",
+    "description": "El Aaiún, Western Sahara bölgesinde hastane. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 72251372,
+    "location": {
+      "country": "EH",
+      "city": "El Aaiún",
+      "district": "El Aaiún Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 939",
+      "coordinates": {
+        "lat": 24.591869960561006,
+        "lng": -13.21582246588915
+      }
+    },
+    "specs": {
+      "netSize": 5417,
+      "grossSize": 6500,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 7,
+      "floor": 13,
+      "totalFloors": 9,
+      "heating": "Klima",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500328883224?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500925352679?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500647895216?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500342195413?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500648127824?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500826581375?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500956347810?w=800&q=80&category=interior"
+    ],
+    "agent": {
+      "id": "A57",
+      "name": "Agent 82",
+      "phone": "+51 935 541 6654",
+      "email": "agent58@iwrealty.com",
+      "photo": "/images/icons/png/antalya-investment-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": false,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-04-30T10:50:47.206Z",
+    "updatedAt": "2025-11-13T10:50:47.206Z",
+    "storeId": "store-006"
+  },
+  {
+    "id": "P02646",
+    "type": "rent",
+    "category": {
+      "main": "commercial",
+      "sub": "hospital"
+    },
+    "title": "Kiralık Hastane - El Aaiún",
+    "slug": "kiralik-hastane-el-aaiún-P02646",
+    "description": "El Aaiún, Western Sahara bölgesinde hastane. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 26521200,
+    "location": {
+      "country": "EH",
+      "city": "El Aaiún",
+      "district": "El Aaiún Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 692",
+      "coordinates": {
+        "lat": 24.565996902115387,
+        "lng": -12.825261396193785
+      }
+    },
+    "specs": {
+      "netSize": 12830,
+      "grossSize": 15396,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 12,
+      "floor": 14,
+      "totalFloors": 8,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500114343062?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500849478272?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500466413473?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500819251823?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500311490111?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500758819524?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500695687015?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500374044137?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500704624895?w=800&q=80&category=real-estate"
+    ],
+    "agent": {
+      "id": "A43",
+      "name": "Agent 94",
+      "phone": "+23 405 464 4098",
+      "email": "agent99@iwrealty.com",
+      "photo": "/images/icons/png/london-prime-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-01-27T10:50:47.206Z",
+    "updatedAt": "2025-11-13T10:50:47.206Z",
+    "storeId": "store-007"
+  },
+  {
+    "id": "P02647",
+    "type": "sale",
+    "category": {
+      "main": "commercial",
+      "sub": "clinic"
+    },
+    "title": "Satılık Klinik - New Western Sahara",
+    "slug": "satilik-klinik-new-western-sahara-P02647",
+    "description": "New Western Sahara, Western Sahara bölgesinde klinik. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 18842888,
+    "location": {
+      "country": "EH",
+      "city": "New Western Sahara",
+      "district": "New Western Sahara Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 226",
+      "coordinates": {
+        "lat": 24.517356240489505,
+        "lng": -13.25000043082309
+      }
+    },
+    "specs": {
+      "netSize": 1729,
+      "grossSize": 2075,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 9,
+      "floor": 2,
+      "totalFloors": 17,
+      "heating": "Kombi",
+      "furnishing": "Unfurnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500156506251?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500102719757?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500758508995?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500214764938?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500808793170?w=800&q=80&category=real-estate"
+    ],
+    "agent": {
+      "id": "A89",
+      "name": "Agent 10",
+      "phone": "+51 442 286 1406",
+      "email": "agent81@iwrealty.com",
+      "photo": "/images/icons/png/sg-harbour-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": false,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-07-25T10:50:47.206Z",
+    "updatedAt": "2025-11-13T10:50:47.206Z",
+    "storeId": "store-011"
+  },
+  {
+    "id": "P02648",
+    "type": "rent",
+    "category": {
+      "main": "commercial",
+      "sub": "clinic"
+    },
+    "title": "Kiralık Klinik - El Aaiún",
+    "slug": "kiralik-klinik-el-aaiún-P02648",
+    "description": "El Aaiún, Western Sahara bölgesinde klinik. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 13900328,
+    "location": {
+      "country": "EH",
+      "city": "El Aaiún",
+      "district": "El Aaiún Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 658",
+      "coordinates": {
+        "lat": 24.953059764652664,
+        "lng": -13.0966353368321
+      }
+    },
+    "specs": {
+      "netSize": 1318,
+      "grossSize": 1582,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 11,
+      "floor": 2,
+      "totalFloors": 11,
+      "heating": "Kombi",
+      "furnishing": "Furnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500911884508?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500492246313?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500619459943?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500828632812?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500463070796?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500314078984?w=800&q=80&category=interior"
+    ],
+    "agent": {
+      "id": "A90",
+      "name": "Agent 85",
+      "phone": "+14 295 800 2207",
+      "email": "agent85@iwrealty.com",
+      "photo": "/images/icons/png/antalya-investment-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": false,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": true,
+      "hasSecurity": true
+    },
+    "createdAt": "2024-12-04T10:50:47.206Z",
+    "updatedAt": "2025-11-13T10:50:47.206Z",
+    "storeId": "store-006"
+  },
+  {
+    "id": "P02649",
+    "type": "sale",
+    "category": {
+      "main": "commercial",
+      "sub": "shop"
+    },
+    "title": "Satılık Dükkan - Western Sahara Central",
+    "slug": "satilik-dükkan-western-sahara-central-P02649",
+    "description": "Western Sahara Central, Western Sahara bölgesinde dükkan. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 4036722,
+    "location": {
+      "country": "EH",
+      "city": "Western Sahara Central",
+      "district": "Western Sahara Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 159",
+      "coordinates": {
+        "lat": 24.924206526376537,
+        "lng": -13.278788919820936
+      }
+    },
+    "specs": {
+      "netSize": 439,
+      "grossSize": 527,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 3,
+      "floor": 3,
+      "totalFloors": 6,
+      "heating": "Merkezi",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500070413432?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500064124988?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500592365806?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500895453825?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500191820018?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500161445339?w=800&q=80&category=building"
+    ],
+    "agent": {
+      "id": "A99",
+      "name": "Agent 69",
+      "phone": "+78 564 798 5346",
+      "email": "agent38@iwrealty.com",
+      "photo": "/images/icons/png/sg-harbour-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-10-12T10:50:47.206Z",
+    "updatedAt": "2025-11-13T10:50:47.206Z",
+    "storeId": "store-011"
+  },
+  {
+    "id": "P02650",
+    "type": "rent",
+    "category": {
+      "main": "commercial",
+      "sub": "shop"
+    },
+    "title": "Kiralık Dükkan - Western Sahara Central",
+    "slug": "kiralik-dükkan-western-sahara-central-P02650",
+    "description": "Western Sahara Central, Western Sahara bölgesinde dükkan. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 1929615,
+    "location": {
+      "country": "EH",
+      "city": "Western Sahara Central",
+      "district": "Western Sahara Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 403",
+      "coordinates": {
+        "lat": 24.85180044873493,
+        "lng": -13.103651492694446
+      }
+    },
+    "specs": {
+      "netSize": 495,
+      "grossSize": 594,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 8,
+      "floor": 13,
+      "totalFloors": 19,
+      "heating": "Merkezi",
+      "furnishing": "Furnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500051939433?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500866743091?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500447096150?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500671165093?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500211487766?w=800&q=80&category=real-estate"
+    ],
+    "agent": {
+      "id": "A21",
+      "name": "Agent 14",
+      "phone": "+41 251 541 7905",
+      "email": "agent24@iwrealty.com",
+      "photo": "/images/icons/png/sydney-coastal-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": true,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-06-01T10:50:47.206Z",
+    "updatedAt": "2025-11-13T10:50:47.206Z",
+    "storeId": "store-012"
+  },
+  {
+    "id": "P02651",
+    "type": "sale",
+    "category": {
+      "main": "commercial",
+      "sub": "office"
+    },
+    "title": "Satılık Ofis - Western Sahara Central",
+    "slug": "satilik-ofis-western-sahara-central-P02651",
+    "description": "Western Sahara Central, Western Sahara bölgesinde ofis. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 6725434,
+    "location": {
+      "country": "EH",
+      "city": "Western Sahara Central",
+      "district": "Western Sahara Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 56",
+      "coordinates": {
+        "lat": 24.324096876972618,
+        "lng": -12.546753383831494
+      }
+    },
+    "specs": {
+      "netSize": 628,
+      "grossSize": 754,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 11,
+      "floor": 12,
+      "totalFloors": 9,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Unfurnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500370565682?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500001791533?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500047937308?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500774251845?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500225819004?w=800&q=80&category=architecture"
+    ],
+    "agent": {
+      "id": "A99",
+      "name": "Agent 19",
+      "phone": "+21 119 822 8556",
+      "email": "agent51@iwrealty.com",
+      "photo": "/images/icons/png/london-prime-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": false,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-05-19T10:50:47.206Z",
+    "updatedAt": "2025-11-13T10:50:47.206Z",
+    "storeId": "store-007"
+  },
+  {
+    "id": "P02652",
+    "type": "rent",
+    "category": {
+      "main": "commercial",
+      "sub": "office"
+    },
+    "title": "Kiralık Ofis - Western Sahara Central",
+    "slug": "kiralik-ofis-western-sahara-central-P02652",
+    "description": "Western Sahara Central, Western Sahara bölgesinde ofis. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 14514332,
+    "location": {
+      "country": "EH",
+      "city": "Western Sahara Central",
+      "district": "Western Sahara Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 441",
+      "coordinates": {
+        "lat": 24.267562527060154,
+        "lng": -13.38079824303729
+      }
+    },
+    "specs": {
+      "netSize": 624,
+      "grossSize": 749,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 1,
+      "floor": 6,
+      "totalFloors": 9,
+      "heating": "Klima",
+      "furnishing": "Unfurnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500170313819?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500904641605?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500262397029?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500644517327?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500076188387?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500741548272?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500982989031?w=800&q=80&category=architecture"
+    ],
+    "agent": {
+      "id": "A45",
+      "name": "Agent 37",
+      "phone": "+87 120 980 5784",
+      "email": "agent66@iwrealty.com",
+      "photo": "/images/icons/png/dubai-property-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-09-10T10:50:47.206Z",
+    "updatedAt": "2025-11-13T10:50:47.206Z",
+    "storeId": "store-004"
+  },
+  {
+    "id": "P02653",
+    "type": "sale",
+    "category": {
+      "main": "commercial",
+      "sub": "mall"
+    },
+    "title": "Satılık AVM - New Western Sahara",
+    "slug": "satilik-avm-new-western-sahara-P02653",
+    "description": "New Western Sahara, Western Sahara bölgesinde avm. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 498702685,
+    "location": {
+      "country": "EH",
+      "city": "New Western Sahara",
+      "district": "New Western Sahara Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 742",
+      "coordinates": {
+        "lat": 24.174044525635708,
+        "lng": -13.183915985991892
+      }
+    },
+    "specs": {
+      "netSize": 32970,
+      "grossSize": 39564,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 19,
+      "floor": 15,
+      "totalFloors": 16,
+      "heating": "Merkezi",
+      "furnishing": "Furnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500191591742?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500650781748?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500055048739?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500147726110?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500356449656?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500391123953?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500488182075?w=800&q=80&category=architecture"
+    ],
+    "agent": {
+      "id": "A12",
+      "name": "Agent 16",
+      "phone": "+98 623 713 6252",
+      "email": "agent58@iwrealty.com",
+      "photo": "/images/icons/png/berlin-urban-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": true,
+      "hasPool": true,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-08-03T10:50:47.206Z",
+    "updatedAt": "2025-11-13T10:50:47.206Z",
+    "storeId": "store-009"
+  },
+  {
+    "id": "P02654",
+    "type": "rent",
+    "category": {
+      "main": "commercial",
+      "sub": "mall"
+    },
+    "title": "Kiralık AVM - New Western Sahara",
+    "slug": "kiralik-avm-new-western-sahara-P02654",
+    "description": "New Western Sahara, Western Sahara bölgesinde avm. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 150303026,
+    "location": {
+      "country": "EH",
+      "city": "New Western Sahara",
+      "district": "New Western Sahara Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 142",
+      "coordinates": {
+        "lat": 24.068431355079895,
+        "lng": -13.279267571158528
+      }
+    },
+    "specs": {
+      "netSize": 48682,
+      "grossSize": 58418,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 8,
+      "floor": 8,
+      "totalFloors": 10,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500035371110?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500441669231?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500236355248?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500939964107?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500763068187?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500472491226?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500621646675?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500684826849?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500812486991?w=800&q=80&category=architecture"
+    ],
+    "agent": {
+      "id": "A36",
+      "name": "Agent 31",
+      "phone": "+32 337 529 6955",
+      "email": "agent74@iwrealty.com",
+      "photo": "/images/icons/png/london-prime-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": false,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-10-05T10:50:47.206Z",
+    "updatedAt": "2025-11-13T10:50:47.206Z",
+    "storeId": "store-007"
+  },
+  {
+    "id": "P02655",
+    "type": "sale",
+    "category": {
+      "main": "commercial",
+      "sub": "hotel"
+    },
+    "title": "Satılık Otel - El Aaiún",
+    "slug": "satilik-otel-el-aaiún-P02655",
+    "description": "El Aaiún, Western Sahara bölgesinde otel. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 81232006,
+    "location": {
+      "country": "EH",
+      "city": "El Aaiún",
+      "district": "El Aaiún Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 670",
+      "coordinates": {
+        "lat": 24.86772609936907,
+        "lng": -13.363923618295713
+      }
+    },
+    "specs": {
+      "netSize": 18227,
+      "grossSize": 21872,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 14,
+      "floor": 3,
+      "totalFloors": 9,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Unfurnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500840450918?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500268135032?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500998953054?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500661830952?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500815608699?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500716435532?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500322287162?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500374127136?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500653686717?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500094986208?w=800&q=80&category=interior"
+    ],
+    "agent": {
+      "id": "A66",
+      "name": "Agent 4",
+      "phone": "+40 957 978 9487",
+      "email": "agent16@iwrealty.com",
+      "photo": "/images/icons/png/antalya-investment-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": false,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-11-08T10:50:47.206Z",
+    "updatedAt": "2025-11-13T10:50:47.206Z",
+    "storeId": "store-006"
+  },
+  {
+    "id": "P02656",
+    "type": "rent",
+    "category": {
+      "main": "commercial",
+      "sub": "hotel"
+    },
+    "title": "Kiralık Otel - Western Sahara City",
+    "slug": "kiralik-otel-western-sahara-city-P02656",
+    "description": "Western Sahara City, Western Sahara bölgesinde otel. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 76872642,
+    "location": {
+      "country": "EH",
+      "city": "Western Sahara City",
+      "district": "Western Sahara City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 390",
+      "coordinates": {
+        "lat": 24.62010208288336,
+        "lng": -13.195786316837196
+      }
+    },
+    "specs": {
+      "netSize": 17057,
+      "grossSize": 20468,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 20,
+      "floor": 10,
+      "totalFloors": 5,
+      "heating": "Kombi",
+      "furnishing": "Furnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500127345527?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500130970727?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500801499659?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500617468530?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500373380654?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500281703751?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500570163139?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500072792552?w=800&q=80&category=real-estate"
+    ],
+    "agent": {
+      "id": "A97",
+      "name": "Agent 6",
+      "phone": "+27 162 523 1600",
+      "email": "agent61@iwrealty.com",
+      "photo": "/images/icons/png/ankara-modern-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": true,
+      "hasSecurity": true
+    },
+    "createdAt": "2024-12-30T10:50:47.206Z",
+    "updatedAt": "2025-11-13T10:50:47.206Z",
+    "storeId": "store-003"
+  },
+  {
+    "id": "P02657",
+    "type": "sale",
+    "category": {
+      "main": "commercial",
+      "sub": "restaurant"
+    },
+    "title": "Satılık Restoran - Western Sahara Central",
+    "slug": "satilik-restoran-western-sahara-central-P02657",
+    "description": "Western Sahara Central, Western Sahara bölgesinde restoran. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 6546781,
+    "location": {
+      "country": "EH",
+      "city": "Western Sahara Central",
+      "district": "Western Sahara Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 743",
+      "coordinates": {
+        "lat": 24.672288164693214,
+        "lng": -12.667585294367234
+      }
+    },
+    "specs": {
+      "netSize": 1256,
+      "grossSize": 1507,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 11,
+      "floor": 5,
+      "totalFloors": 6,
+      "heating": "Kombi",
+      "furnishing": "Furnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500875090941?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500612669622?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500022392518?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500969449484?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500837066422?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500344660020?w=800&q=80&category=architecture"
+    ],
+    "agent": {
+      "id": "A93",
+      "name": "Agent 18",
+      "phone": "+85 332 110 8196",
+      "email": "agent3@iwrealty.com",
+      "photo": "/images/icons/png/sg-harbour-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": false,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-09-09T10:50:47.206Z",
+    "updatedAt": "2025-11-13T10:50:47.206Z",
+    "storeId": "store-011"
+  },
+  {
+    "id": "P02658",
+    "type": "rent",
+    "category": {
+      "main": "commercial",
+      "sub": "restaurant"
+    },
+    "title": "Kiralık Restoran - New Western Sahara",
+    "slug": "kiralik-restoran-new-western-sahara-P02658",
+    "description": "New Western Sahara, Western Sahara bölgesinde restoran. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 6324394,
+    "location": {
+      "country": "EH",
+      "city": "New Western Sahara",
+      "district": "New Western Sahara Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 233",
+      "coordinates": {
+        "lat": 24.059950954126194,
+        "lng": -12.784672358175229
+      }
+    },
+    "specs": {
+      "netSize": 938,
+      "grossSize": 1126,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 3,
+      "floor": 11,
+      "totalFloors": 6,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500266460510?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500624903177?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500550824452?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500639649124?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500270743786?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500799159441?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500866693850?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500619044866?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500326759647?w=800&q=80&category=architecture"
+    ],
+    "agent": {
+      "id": "A72",
+      "name": "Agent 100",
+      "phone": "+75 786 739 2220",
+      "email": "agent86@iwrealty.com",
+      "photo": "/images/icons/png/berlin-urban-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": true,
+      "hasPool": true,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-04-05T10:50:47.206Z",
+    "updatedAt": "2025-11-13T10:50:47.206Z",
+    "storeId": "store-009"
+  },
+  {
+    "id": "P02659",
+    "type": "sale",
+    "category": {
+      "main": "commercial",
+      "sub": "warehouse"
+    },
+    "title": "Satılık Depo - Western Sahara Central",
+    "slug": "satilik-depo-western-sahara-central-P02659",
+    "description": "Western Sahara Central, Western Sahara bölgesinde depo. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 25305867,
+    "location": {
+      "country": "EH",
+      "city": "Western Sahara Central",
+      "district": "Western Sahara Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 115",
+      "coordinates": {
+        "lat": 24.086125709948302,
+        "lng": -13.218528355133996
+      }
+    },
+    "specs": {
+      "netSize": 1269,
+      "grossSize": 1523,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 16,
+      "floor": 10,
+      "totalFloors": 17,
+      "heating": "Kombi",
+      "furnishing": "Furnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500455349161?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500369958663?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500955047533?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500453005251?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500305715279?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500321454762?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500985898979?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500459640458?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500127770349?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500809321583?w=800&q=80&category=house"
+    ],
+    "agent": {
+      "id": "A2",
+      "name": "Agent 8",
+      "phone": "+23 268 548 9606",
+      "email": "agent20@iwrealty.com",
+      "photo": "/images/icons/png/sg-harbour-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": false,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-10-23T10:50:47.206Z",
+    "updatedAt": "2025-11-13T10:50:47.206Z",
+    "storeId": "store-011"
+  },
+  {
+    "id": "P02660",
+    "type": "rent",
+    "category": {
+      "main": "commercial",
+      "sub": "warehouse"
+    },
+    "title": "Kiralık Depo - Western Sahara Central",
+    "slug": "kiralik-depo-western-sahara-central-P02660",
+    "description": "Western Sahara Central, Western Sahara bölgesinde depo. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 17610349,
+    "location": {
+      "country": "EH",
+      "city": "Western Sahara Central",
+      "district": "Western Sahara Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 951",
+      "coordinates": {
+        "lat": 24.061179286912704,
+        "lng": -12.748326269518321
+      }
+    },
+    "specs": {
+      "netSize": 5661,
+      "grossSize": 6793,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 7,
+      "floor": 8,
+      "totalFloors": 20,
+      "heating": "Klima",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500727852123?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500540095199?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500880177430?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500337592854?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500387102976?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500383273872?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500963029915?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500939676276?w=800&q=80&category=house"
+    ],
+    "agent": {
+      "id": "A1",
+      "name": "Agent 9",
+      "phone": "+27 480 560 3027",
+      "email": "agent3@iwrealty.com",
+      "photo": "/images/icons/png/paris-heritage-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": false,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-05-21T10:50:47.206Z",
+    "updatedAt": "2025-11-13T10:50:47.206Z",
+    "storeId": "store-010"
+  }
+]

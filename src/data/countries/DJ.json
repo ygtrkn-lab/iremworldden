@@ -1,0 +1,2378 @@
+[
+  {
+    "id": "P02319",
+    "type": "sale",
+    "category": {
+      "main": "government"
+    },
+    "title": "Satılık Belediye Binası - Djibouti Central",
+    "slug": "satilik-belediye-binası-djibouti-central-P02319",
+    "description": "Djibouti Central, Djibouti bölgesinde belediye binası. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 39928831,
+    "location": {
+      "country": "DJ",
+      "city": "Djibouti Central",
+      "district": "Djibouti Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 721",
+      "coordinates": {
+        "lat": 11.07063485010778,
+        "lng": 42.53390084186097
+      }
+    },
+    "specs": {
+      "netSize": 3967,
+      "grossSize": 4760,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 1,
+      "floor": 6,
+      "totalFloors": 19,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500121387534?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500377505130?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500419936251?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500317811062?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500840485134?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500535797000?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500947177484?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500452135753?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500640172485?w=800&q=80&category=building"
+    ],
+    "agent": {
+      "id": "A61",
+      "name": "Agent 51",
+      "phone": "+24 509 751 8948",
+      "email": "agent92@iwrealty.com",
+      "photo": "/images/icons/png/antalya-investment-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-08-10T10:50:47.202Z",
+    "updatedAt": "2025-11-13T10:50:47.202Z",
+    "storeId": "store-006"
+  },
+  {
+    "id": "P02320",
+    "type": "rent",
+    "category": {
+      "main": "government"
+    },
+    "title": "Kiralık Hastane - New Djibouti",
+    "slug": "kiralik-hastane-new-djibouti-P02320",
+    "description": "New Djibouti, Djibouti bölgesinde hastane. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 25084672,
+    "location": {
+      "country": "DJ",
+      "city": "New Djibouti",
+      "district": "New Djibouti Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 232",
+      "coordinates": {
+        "lat": 11.358173237645756,
+        "lng": 42.51151556628975
+      }
+    },
+    "specs": {
+      "netSize": 4070,
+      "grossSize": 4884,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 5,
+      "floor": 4,
+      "totalFloors": 10,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500083401019?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500068849012?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500044092077?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500138845867?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500139625904?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500863247944?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500202071856?w=800&q=80&category=architecture"
+    ],
+    "agent": {
+      "id": "A54",
+      "name": "Agent 27",
+      "phone": "+73 935 328 5732",
+      "email": "agent77@iwrealty.com",
+      "photo": "/images/icons/png/antalya-investment-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": true,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-05-12T10:50:47.202Z",
+    "updatedAt": "2025-11-13T10:50:47.202Z",
+    "storeId": "store-006"
+  },
+  {
+    "id": "P02321",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Residence - Djibouti City",
+    "slug": "satilik-residence-djibouti-city-P02321",
+    "description": "Djibouti City, Djibouti bölgesinde residence. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 5072079,
+    "location": {
+      "country": "DJ",
+      "city": "Djibouti City",
+      "district": "Djibouti City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 578",
+      "coordinates": {
+        "lat": 11.841540793197497,
+        "lng": 42.94817542588757
+      }
+    },
+    "specs": {
+      "netSize": 217,
+      "grossSize": 260,
+      "rooms": "1+1",
+      "bathrooms": 1,
+      "age": 8,
+      "floor": 15,
+      "totalFloors": 6,
+      "heating": "Klima",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500530033467?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500164948513?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500098412855?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500273695548?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500641043641?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500547499833?w=800&q=80&category=real-estate"
+    ],
+    "agent": {
+      "id": "A34",
+      "name": "Agent 34",
+      "phone": "+90 501 179 8513",
+      "email": "agent82@iwrealty.com",
+      "photo": "/images/icons/png/antalya-investment-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": false,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-02-11T10:50:47.202Z",
+    "updatedAt": "2025-11-13T10:50:47.202Z",
+    "storeId": "store-006"
+  },
+  {
+    "id": "P02322",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Villa - New Djibouti",
+    "slug": "kiralik-villa-new-djibouti-P02322",
+    "description": "New Djibouti, Djibouti bölgesinde villa. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 8670872,
+    "location": {
+      "country": "DJ",
+      "city": "New Djibouti",
+      "district": "New Djibouti Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 313",
+      "coordinates": {
+        "lat": 11.94550121000905,
+        "lng": 43.38778071882395
+      }
+    },
+    "specs": {
+      "netSize": 241,
+      "grossSize": 289,
+      "rooms": "1+2",
+      "bathrooms": 4,
+      "age": 14,
+      "floor": 13,
+      "totalFloors": 6,
+      "heating": "Merkezi",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500472665238?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500242625428?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500328906457?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500098086501?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500924616537?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500335284196?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500233064095?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500890904284?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500914468336?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500438000118?w=800&q=80&category=real-estate"
+    ],
+    "agent": {
+      "id": "A54",
+      "name": "Agent 61",
+      "phone": "+75 331 311 2544",
+      "email": "agent42@iwrealty.com",
+      "photo": "/images/icons/png/sydney-coastal-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-01-30T10:50:47.202Z",
+    "updatedAt": "2025-11-13T10:50:47.202Z",
+    "storeId": "store-012"
+  },
+  {
+    "id": "P02323",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Villa - Djibouti",
+    "slug": "satilik-villa-djibouti-P02323",
+    "description": "Djibouti, Djibouti bölgesinde villa. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 8540566,
+    "location": {
+      "country": "DJ",
+      "city": "Djibouti",
+      "district": "Djibouti Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 439",
+      "coordinates": {
+        "lat": 11.960065356255605,
+        "lng": 42.671627402710634
+      }
+    },
+    "specs": {
+      "netSize": 421,
+      "grossSize": 505,
+      "rooms": "4+2",
+      "bathrooms": 2,
+      "age": 2,
+      "floor": 8,
+      "totalFloors": 6,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500453948316?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500920478054?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500560240285?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500066572835?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500845883764?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500516274449?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500027860268?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500748881457?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500605288961?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500193123106?w=800&q=80&category=architecture"
+    ],
+    "agent": {
+      "id": "A33",
+      "name": "Agent 2",
+      "phone": "+23 215 996 5449",
+      "email": "agent18@iwrealty.com",
+      "photo": "/images/icons/png/berlin-urban-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": false,
+      "hasBalcony": false,
+      "hasGarden": true,
+      "hasPool": true,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-01-19T10:50:47.202Z",
+    "updatedAt": "2025-11-13T10:50:47.202Z",
+    "storeId": "store-009"
+  },
+  {
+    "id": "P02324",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Daire - New Djibouti",
+    "slug": "kiralik-daire-new-djibouti-P02324",
+    "description": "New Djibouti, Djibouti bölgesinde daire. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 10092585,
+    "location": {
+      "country": "DJ",
+      "city": "New Djibouti",
+      "district": "New Djibouti Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 701",
+      "coordinates": {
+        "lat": 11.051072956642166,
+        "lng": 42.538716750009655
+      }
+    },
+    "specs": {
+      "netSize": 355,
+      "grossSize": 426,
+      "rooms": "5+1",
+      "bathrooms": 1,
+      "age": 9,
+      "floor": 15,
+      "totalFloors": 19,
+      "heating": "Klima",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500136302911?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500920800704?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500810427434?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500978519355?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500496633922?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500889236797?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500394367491?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500904093514?w=800&q=80&category=architecture"
+    ],
+    "agent": {
+      "id": "A20",
+      "name": "Agent 62",
+      "phone": "+92 148 764 9723",
+      "email": "agent27@iwrealty.com",
+      "photo": "/images/icons/png/antalya-investment-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2024-12-28T10:50:47.202Z",
+    "updatedAt": "2025-11-13T10:50:47.202Z",
+    "storeId": "store-006"
+  },
+  {
+    "id": "P02325",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Villa - Djibouti",
+    "slug": "satilik-villa-djibouti-P02325",
+    "description": "Djibouti, Djibouti bölgesinde villa. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 12076294,
+    "location": {
+      "country": "DJ",
+      "city": "Djibouti",
+      "district": "Djibouti Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 214",
+      "coordinates": {
+        "lat": 11.527494677740352,
+        "lng": 42.78486771431592
+      }
+    },
+    "specs": {
+      "netSize": 227,
+      "grossSize": 272,
+      "rooms": "3+0",
+      "bathrooms": 4,
+      "age": 15,
+      "floor": 4,
+      "totalFloors": 12,
+      "heating": "Klima",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500485264794?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500797979412?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500604424287?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500672053685?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500229017182?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500159308572?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500475627178?w=800&q=80&category=interior"
+    ],
+    "agent": {
+      "id": "A59",
+      "name": "Agent 78",
+      "phone": "+88 601 636 1124",
+      "email": "agent62@iwrealty.com",
+      "photo": "/images/icons/png/ankara-modern-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-05-19T10:50:47.202Z",
+    "updatedAt": "2025-11-13T10:50:47.203Z",
+    "storeId": "store-003"
+  },
+  {
+    "id": "P02326",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Müstakil Ev - Djibouti Central",
+    "slug": "kiralik-müstakil-ev-djibouti-central-P02326",
+    "description": "Djibouti Central, Djibouti bölgesinde müstakil ev. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 2021154,
+    "location": {
+      "country": "DJ",
+      "city": "Djibouti Central",
+      "district": "Djibouti Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 476",
+      "coordinates": {
+        "lat": 11.864756678910306,
+        "lng": 42.85301822980066
+      }
+    },
+    "specs": {
+      "netSize": 101,
+      "grossSize": 121,
+      "rooms": "1+0",
+      "bathrooms": 3,
+      "age": 9,
+      "floor": 9,
+      "totalFloors": 6,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Unfurnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500458492995?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500247347507?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500362834213?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500658054196?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500261671873?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500108464831?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500660658488?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500098340837?w=800&q=80&category=architecture"
+    ],
+    "agent": {
+      "id": "A15",
+      "name": "Agent 2",
+      "phone": "+78 202 951 1781",
+      "email": "agent67@iwrealty.com",
+      "photo": "/images/icons/png/paris-heritage-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": false,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": true,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-01-26T10:50:47.203Z",
+    "updatedAt": "2025-11-13T10:50:47.203Z",
+    "storeId": "store-010"
+  },
+  {
+    "id": "P02327",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Villa - New Djibouti",
+    "slug": "satilik-villa-new-djibouti-P02327",
+    "description": "New Djibouti, Djibouti bölgesinde villa. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 12577613,
+    "location": {
+      "country": "DJ",
+      "city": "New Djibouti",
+      "district": "New Djibouti Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 833",
+      "coordinates": {
+        "lat": 11.663461800396524,
+        "lng": 42.648271087387535
+      }
+    },
+    "specs": {
+      "netSize": 309,
+      "grossSize": 371,
+      "rooms": "4+0",
+      "bathrooms": 1,
+      "age": 0,
+      "floor": 8,
+      "totalFloors": 6,
+      "heating": "Merkezi",
+      "furnishing": "Furnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500722364948?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500710650235?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500451642913?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500719413995?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500144688945?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500221197079?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500297385853?w=800&q=80&category=house"
+    ],
+    "agent": {
+      "id": "A69",
+      "name": "Agent 48",
+      "phone": "+14 218 549 4178",
+      "email": "agent70@iwrealty.com",
+      "photo": "/images/icons/png/london-prime-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": false,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-01-22T10:50:47.203Z",
+    "updatedAt": "2025-11-13T10:50:47.203Z",
+    "storeId": "store-007"
+  },
+  {
+    "id": "P02328",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Daire - Djibouti City",
+    "slug": "kiralik-daire-djibouti-city-P02328",
+    "description": "Djibouti City, Djibouti bölgesinde daire. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 11563147,
+    "location": {
+      "country": "DJ",
+      "city": "Djibouti City",
+      "district": "Djibouti City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 204",
+      "coordinates": {
+        "lat": 11.084117583350238,
+        "lng": 42.96544550112659
+      }
+    },
+    "specs": {
+      "netSize": 382,
+      "grossSize": 458,
+      "rooms": "5+0",
+      "bathrooms": 1,
+      "age": 7,
+      "floor": 12,
+      "totalFloors": 5,
+      "heating": "Merkezi",
+      "furnishing": "Unfurnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500857777631?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500591192733?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500847853474?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500645080136?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500901167726?w=800&q=80&category=building"
+    ],
+    "agent": {
+      "id": "A56",
+      "name": "Agent 5",
+      "phone": "+31 496 376 7579",
+      "email": "agent3@iwrealty.com",
+      "photo": "/images/icons/png/berlin-urban-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-07-10T10:50:47.203Z",
+    "updatedAt": "2025-11-13T10:50:47.203Z",
+    "storeId": "store-009"
+  },
+  {
+    "id": "P02329",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Residence - Djibouti City",
+    "slug": "satilik-residence-djibouti-city-P02329",
+    "description": "Djibouti City, Djibouti bölgesinde residence. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 2582061,
+    "location": {
+      "country": "DJ",
+      "city": "Djibouti City",
+      "district": "Djibouti City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 154",
+      "coordinates": {
+        "lat": 11.461608737553382,
+        "lng": 43.156693244098356
+      }
+    },
+    "specs": {
+      "netSize": 470,
+      "grossSize": 564,
+      "rooms": "1+0",
+      "bathrooms": 2,
+      "age": 3,
+      "floor": 15,
+      "totalFloors": 6,
+      "heating": "Klima",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500045835868?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500759139275?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500842306241?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500602839872?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500674453661?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500696106866?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500249550673?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500898333915?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500712049955?w=800&q=80&category=building"
+    ],
+    "agent": {
+      "id": "A10",
+      "name": "Agent 77",
+      "phone": "+71 411 265 9992",
+      "email": "agent28@iwrealty.com",
+      "photo": "/images/icons/png/sydney-coastal-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": false,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-04-20T10:50:47.203Z",
+    "updatedAt": "2025-11-13T10:50:47.203Z",
+    "storeId": "store-012"
+  },
+  {
+    "id": "P02330",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Müstakil Ev - Djibouti",
+    "slug": "kiralik-müstakil-ev-djibouti-P02330",
+    "description": "Djibouti, Djibouti bölgesinde müstakil ev. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 4283925,
+    "location": {
+      "country": "DJ",
+      "city": "Djibouti",
+      "district": "Djibouti Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 974",
+      "coordinates": {
+        "lat": 11.80843618838338,
+        "lng": 42.870197457746094
+      }
+    },
+    "specs": {
+      "netSize": 414,
+      "grossSize": 497,
+      "rooms": "5+1",
+      "bathrooms": 3,
+      "age": 9,
+      "floor": 9,
+      "totalFloors": 20,
+      "heating": "Kombi",
+      "furnishing": "Furnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500475427662?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500238506510?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500833018328?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500814280300?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500538233003?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500739469165?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500659576207?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500253145113?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500689337384?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500299653588?w=800&q=80&category=house"
+    ],
+    "agent": {
+      "id": "A4",
+      "name": "Agent 61",
+      "phone": "+41 449 138 5148",
+      "email": "agent45@iwrealty.com",
+      "photo": "/images/icons/png/izmir-sahil-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": false,
+      "hasBalcony": false,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-04-05T10:50:47.203Z",
+    "updatedAt": "2025-11-13T10:50:47.203Z",
+    "storeId": "store-005"
+  },
+  {
+    "id": "P02331",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Daire - Djibouti Central",
+    "slug": "satilik-daire-djibouti-central-P02331",
+    "description": "Djibouti Central, Djibouti bölgesinde daire. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 7492956,
+    "location": {
+      "country": "DJ",
+      "city": "Djibouti Central",
+      "district": "Djibouti Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 443",
+      "coordinates": {
+        "lat": 11.328634927837252,
+        "lng": 42.52602063512009
+      }
+    },
+    "specs": {
+      "netSize": 387,
+      "grossSize": 464,
+      "rooms": "3+2",
+      "bathrooms": 2,
+      "age": 5,
+      "floor": 7,
+      "totalFloors": 12,
+      "heating": "Kombi",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500670481393?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500710893255?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500065852569?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500292109437?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500302788459?w=800&q=80&category=real-estate"
+    ],
+    "agent": {
+      "id": "A65",
+      "name": "Agent 56",
+      "phone": "+57 868 187 8694",
+      "email": "agent77@iwrealty.com",
+      "photo": "/images/icons/png/sg-harbour-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": true,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-03-18T10:50:47.203Z",
+    "updatedAt": "2025-11-13T10:50:47.203Z",
+    "storeId": "store-011"
+  },
+  {
+    "id": "P02332",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Müstakil Ev - Djibouti City",
+    "slug": "kiralik-müstakil-ev-djibouti-city-P02332",
+    "description": "Djibouti City, Djibouti bölgesinde müstakil ev. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 5813867,
+    "location": {
+      "country": "DJ",
+      "city": "Djibouti City",
+      "district": "Djibouti City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 771",
+      "coordinates": {
+        "lat": 11.155523183792516,
+        "lng": 42.51113311625677
+      }
+    },
+    "specs": {
+      "netSize": 284,
+      "grossSize": 341,
+      "rooms": "3+2",
+      "bathrooms": 3,
+      "age": 1,
+      "floor": 11,
+      "totalFloors": 9,
+      "heating": "Kombi",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500827228744?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500858430517?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500545705120?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500107432200?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500896963427?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500338192275?w=800&q=80&category=interior"
+    ],
+    "agent": {
+      "id": "A62",
+      "name": "Agent 49",
+      "phone": "+27 748 132 5058",
+      "email": "agent86@iwrealty.com",
+      "photo": "/images/icons/png/luxury-homes-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-04-06T10:50:47.203Z",
+    "updatedAt": "2025-11-13T10:50:47.203Z",
+    "storeId": "store-002"
+  },
+  {
+    "id": "P02333",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Residence - Djibouti Central",
+    "slug": "satilik-residence-djibouti-central-P02333",
+    "description": "Djibouti Central, Djibouti bölgesinde residence. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 5348739,
+    "location": {
+      "country": "DJ",
+      "city": "Djibouti Central",
+      "district": "Djibouti Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 815",
+      "coordinates": {
+        "lat": 11.577782121535824,
+        "lng": 42.802268104106076
+      }
+    },
+    "specs": {
+      "netSize": 284,
+      "grossSize": 341,
+      "rooms": "4+0",
+      "bathrooms": 1,
+      "age": 1,
+      "floor": 4,
+      "totalFloors": 20,
+      "heating": "Klima",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500473590633?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500849008376?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500368354082?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500297592705?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500363436124?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500911720622?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500577170864?w=800&q=80&category=real-estate"
+    ],
+    "agent": {
+      "id": "A21",
+      "name": "Agent 33",
+      "phone": "+50 592 757 9849",
+      "email": "agent76@iwrealty.com",
+      "photo": "/images/icons/png/sg-harbour-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2024-11-18T10:50:47.203Z",
+    "updatedAt": "2025-11-13T10:50:47.203Z",
+    "storeId": "store-011"
+  },
+  {
+    "id": "P02334",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Müstakil Ev - New Djibouti",
+    "slug": "kiralik-müstakil-ev-new-djibouti-P02334",
+    "description": "New Djibouti, Djibouti bölgesinde müstakil ev. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 6669832,
+    "location": {
+      "country": "DJ",
+      "city": "New Djibouti",
+      "district": "New Djibouti Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 67",
+      "coordinates": {
+        "lat": 11.835187443982587,
+        "lng": 42.87632884006068
+      }
+    },
+    "specs": {
+      "netSize": 362,
+      "grossSize": 434,
+      "rooms": "1+0",
+      "bathrooms": 4,
+      "age": 16,
+      "floor": 13,
+      "totalFloors": 6,
+      "heating": "Merkezi",
+      "furnishing": "Furnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500118286958?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500572032955?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500181545519?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500359308140?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500480177397?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500574495393?w=800&q=80&category=building"
+    ],
+    "agent": {
+      "id": "A55",
+      "name": "Agent 40",
+      "phone": "+59 873 623 7189",
+      "email": "agent75@iwrealty.com",
+      "photo": "/images/icons/png/ny-skyline-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": false,
+      "hasBalcony": false,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2024-12-29T10:50:47.203Z",
+    "updatedAt": "2025-11-13T10:50:47.203Z",
+    "storeId": "store-008"
+  },
+  {
+    "id": "P02335",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Villa - Djibouti",
+    "slug": "satilik-villa-djibouti-P02335",
+    "description": "Djibouti, Djibouti bölgesinde villa. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 14364457,
+    "location": {
+      "country": "DJ",
+      "city": "Djibouti",
+      "district": "Djibouti Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 246",
+      "coordinates": {
+        "lat": 11.14761506748771,
+        "lng": 43.3670441836905
+      }
+    },
+    "specs": {
+      "netSize": 183,
+      "grossSize": 220,
+      "rooms": "5+0",
+      "bathrooms": 1,
+      "age": 6,
+      "floor": 13,
+      "totalFloors": 12,
+      "heating": "Kombi",
+      "furnishing": "Furnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500496844651?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500279557684?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500372867240?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500325127782?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500031442542?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500522095109?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500568412164?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500865880899?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500958239358?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500761861913?w=800&q=80&category=real-estate"
+    ],
+    "agent": {
+      "id": "A61",
+      "name": "Agent 6",
+      "phone": "+74 105 618 8719",
+      "email": "agent24@iwrealty.com",
+      "photo": "/images/icons/png/izmir-sahil-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": true,
+      "hasPool": true,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-05-25T10:50:47.203Z",
+    "updatedAt": "2025-11-13T10:50:47.203Z",
+    "storeId": "store-005"
+  },
+  {
+    "id": "P02336",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Villa - Djibouti City",
+    "slug": "kiralik-villa-djibouti-city-P02336",
+    "description": "Djibouti City, Djibouti bölgesinde villa. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 9874574,
+    "location": {
+      "country": "DJ",
+      "city": "Djibouti City",
+      "district": "Djibouti City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 569",
+      "coordinates": {
+        "lat": 11.67277547394724,
+        "lng": 42.96596329465847
+      }
+    },
+    "specs": {
+      "netSize": 370,
+      "grossSize": 444,
+      "rooms": "1+2",
+      "bathrooms": 3,
+      "age": 15,
+      "floor": 9,
+      "totalFloors": 12,
+      "heating": "Kombi",
+      "furnishing": "Unfurnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500920560880?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500235001388?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500565527060?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500992713548?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500501481100?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500530954123?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500393119691?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500823940758?w=800&q=80&category=architecture"
+    ],
+    "agent": {
+      "id": "A30",
+      "name": "Agent 90",
+      "phone": "+61 586 859 5750",
+      "email": "agent47@iwrealty.com",
+      "photo": "/images/icons/png/izmir-sahil-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": true,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-09-14T10:50:47.203Z",
+    "updatedAt": "2025-11-13T10:50:47.203Z",
+    "storeId": "store-005"
+  },
+  {
+    "id": "P02337",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Müstakil Ev - Djibouti Central",
+    "slug": "satilik-müstakil-ev-djibouti-central-P02337",
+    "description": "Djibouti Central, Djibouti bölgesinde müstakil ev. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 14467801,
+    "location": {
+      "country": "DJ",
+      "city": "Djibouti Central",
+      "district": "Djibouti Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 935",
+      "coordinates": {
+        "lat": 11.809823072413613,
+        "lng": 43.0501206179728
+      }
+    },
+    "specs": {
+      "netSize": 270,
+      "grossSize": 324,
+      "rooms": "3+0",
+      "bathrooms": 3,
+      "age": 2,
+      "floor": 4,
+      "totalFloors": 14,
+      "heating": "Klima",
+      "furnishing": "Furnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500116551894?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500244779899?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500225972264?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500400564005?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500410648123?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500085428436?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500836116853?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500293441687?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500449927861?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500809034089?w=800&q=80&category=house"
+    ],
+    "agent": {
+      "id": "A11",
+      "name": "Agent 43",
+      "phone": "+99 440 679 3391",
+      "email": "agent27@iwrealty.com",
+      "photo": "/images/icons/png/izmir-sahil-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": false,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-07-06T10:50:47.203Z",
+    "updatedAt": "2025-11-13T10:50:47.203Z",
+    "storeId": "store-005"
+  },
+  {
+    "id": "P02338",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Residence - Djibouti City",
+    "slug": "kiralik-residence-djibouti-city-P02338",
+    "description": "Djibouti City, Djibouti bölgesinde residence. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 4920654,
+    "location": {
+      "country": "DJ",
+      "city": "Djibouti City",
+      "district": "Djibouti City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 17",
+      "coordinates": {
+        "lat": 11.474775579733821,
+        "lng": 42.81125631570638
+      }
+    },
+    "specs": {
+      "netSize": 103,
+      "grossSize": 124,
+      "rooms": "5+1",
+      "bathrooms": 4,
+      "age": 20,
+      "floor": 15,
+      "totalFloors": 6,
+      "heating": "Merkezi",
+      "furnishing": "Unfurnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500950381232?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500875657261?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500374364951?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500939720810?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500437570708?w=800&q=80&category=building"
+    ],
+    "agent": {
+      "id": "A70",
+      "name": "Agent 16",
+      "phone": "+17 755 295 3932",
+      "email": "agent55@iwrealty.com",
+      "photo": "/images/icons/png/ny-skyline-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-10-11T10:50:47.203Z",
+    "updatedAt": "2025-11-13T10:50:47.203Z",
+    "storeId": "store-008"
+  },
+  {
+    "id": "P02339",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Villa - New Djibouti",
+    "slug": "satilik-villa-new-djibouti-P02339",
+    "description": "New Djibouti, Djibouti bölgesinde villa. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 9170680,
+    "location": {
+      "country": "DJ",
+      "city": "New Djibouti",
+      "district": "New Djibouti Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 706",
+      "coordinates": {
+        "lat": 11.54086403522994,
+        "lng": 43.24551361461353
+      }
+    },
+    "specs": {
+      "netSize": 205,
+      "grossSize": 246,
+      "rooms": "3+1",
+      "bathrooms": 4,
+      "age": 7,
+      "floor": 14,
+      "totalFloors": 5,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Furnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500878367280?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500185115203?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500017168389?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500470831348?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500005699258?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500679740488?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500463940713?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500450059605?w=800&q=80&category=house"
+    ],
+    "agent": {
+      "id": "A90",
+      "name": "Agent 21",
+      "phone": "+67 323 355 5582",
+      "email": "agent45@iwrealty.com",
+      "photo": "/images/icons/png/sydney-coastal-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": false,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-03-30T10:50:47.203Z",
+    "updatedAt": "2025-11-13T10:50:47.203Z",
+    "storeId": "store-012"
+  },
+  {
+    "id": "P02340",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Müstakil Ev - New Djibouti",
+    "slug": "kiralik-müstakil-ev-new-djibouti-P02340",
+    "description": "New Djibouti, Djibouti bölgesinde müstakil ev. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 6274110,
+    "location": {
+      "country": "DJ",
+      "city": "New Djibouti",
+      "district": "New Djibouti Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 471",
+      "coordinates": {
+        "lat": 11.410799405517633,
+        "lng": 42.95913854127585
+      }
+    },
+    "specs": {
+      "netSize": 134,
+      "grossSize": 161,
+      "rooms": "1+1",
+      "bathrooms": 4,
+      "age": 18,
+      "floor": 7,
+      "totalFloors": 11,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Unfurnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500763048567?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500434290062?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500323054245?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500653828093?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500029733933?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500552105881?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500884379351?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500108983606?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500945167703?w=800&q=80&category=real-estate"
+    ],
+    "agent": {
+      "id": "A22",
+      "name": "Agent 6",
+      "phone": "+16 674 442 6762",
+      "email": "agent47@iwrealty.com",
+      "photo": "/images/icons/png/paris-heritage-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": true,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-02-18T10:50:47.203Z",
+    "updatedAt": "2025-11-13T10:50:47.203Z",
+    "storeId": "store-010"
+  },
+  {
+    "id": "P02341",
+    "type": "sale",
+    "category": {
+      "main": "commercial",
+      "sub": "hospital"
+    },
+    "title": "Satılık Hastane - Djibouti City",
+    "slug": "satilik-hastane-djibouti-city-P02341",
+    "description": "Djibouti City, Djibouti bölgesinde hastane. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 32144057,
+    "location": {
+      "country": "DJ",
+      "city": "Djibouti City",
+      "district": "Djibouti City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 922",
+      "coordinates": {
+        "lat": 11.660936274978146,
+        "lng": 42.85205128646963
+      }
+    },
+    "specs": {
+      "netSize": 16617,
+      "grossSize": 19940,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 19,
+      "floor": 14,
+      "totalFloors": 11,
+      "heating": "Kombi",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500764381023?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500371937266?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500211944908?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500034106299?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500823906477?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500237520873?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500634793960?w=800&q=80&category=interior"
+    ],
+    "agent": {
+      "id": "A25",
+      "name": "Agent 34",
+      "phone": "+16 172 545 5962",
+      "email": "agent47@iwrealty.com",
+      "photo": "/images/icons/png/dubai-property-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-11-02T10:50:47.203Z",
+    "updatedAt": "2025-11-13T10:50:47.203Z",
+    "storeId": "store-004"
+  },
+  {
+    "id": "P02342",
+    "type": "rent",
+    "category": {
+      "main": "commercial",
+      "sub": "hospital"
+    },
+    "title": "Kiralık Hastane - Djibouti",
+    "slug": "kiralik-hastane-djibouti-P02342",
+    "description": "Djibouti, Djibouti bölgesinde hastane. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 39273912,
+    "location": {
+      "country": "DJ",
+      "city": "Djibouti",
+      "district": "Djibouti Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 320",
+      "coordinates": {
+        "lat": 11.192866370789565,
+        "lng": 43.45378431999883
+      }
+    },
+    "specs": {
+      "netSize": 2254,
+      "grossSize": 2705,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 18,
+      "floor": 14,
+      "totalFloors": 9,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Furnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500942719313?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500748479820?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500458350956?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500298688364?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500868329103?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500576811720?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500994961650?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500093562547?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500178607891?w=800&q=80&category=building"
+    ],
+    "agent": {
+      "id": "A18",
+      "name": "Agent 83",
+      "phone": "+60 202 108 4492",
+      "email": "agent55@iwrealty.com",
+      "photo": "/images/icons/png/ankara-modern-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": false,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": true,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-10-25T10:50:47.203Z",
+    "updatedAt": "2025-11-13T10:50:47.203Z",
+    "storeId": "store-003"
+  },
+  {
+    "id": "P02343",
+    "type": "sale",
+    "category": {
+      "main": "commercial",
+      "sub": "clinic"
+    },
+    "title": "Satılık Klinik - Djibouti Central",
+    "slug": "satilik-klinik-djibouti-central-P02343",
+    "description": "Djibouti Central, Djibouti bölgesinde klinik. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 7603670,
+    "location": {
+      "country": "DJ",
+      "city": "Djibouti Central",
+      "district": "Djibouti Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 251",
+      "coordinates": {
+        "lat": 11.255728210503886,
+        "lng": 42.770670621007106
+      }
+    },
+    "specs": {
+      "netSize": 1499,
+      "grossSize": 1799,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 8,
+      "floor": 14,
+      "totalFloors": 9,
+      "heating": "Klima",
+      "furnishing": "Unfurnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500058505817?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500873966921?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500993039049?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500502324359?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500727708966?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500537770441?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500870202634?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500738193845?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500838933100?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500534047804?w=800&q=80&category=architecture"
+    ],
+    "agent": {
+      "id": "A16",
+      "name": "Agent 38",
+      "phone": "+98 101 565 8622",
+      "email": "agent90@iwrealty.com",
+      "photo": "/images/icons/png/london-prime-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": false,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-05-20T10:50:47.203Z",
+    "updatedAt": "2025-11-13T10:50:47.203Z",
+    "storeId": "store-007"
+  },
+  {
+    "id": "P02344",
+    "type": "rent",
+    "category": {
+      "main": "commercial",
+      "sub": "clinic"
+    },
+    "title": "Kiralık Klinik - Djibouti",
+    "slug": "kiralik-klinik-djibouti-P02344",
+    "description": "Djibouti, Djibouti bölgesinde klinik. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 12934806,
+    "location": {
+      "country": "DJ",
+      "city": "Djibouti",
+      "district": "Djibouti Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 435",
+      "coordinates": {
+        "lat": 11.898490975332091,
+        "lng": 43.45570575925331
+      }
+    },
+    "specs": {
+      "netSize": 1838,
+      "grossSize": 2206,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 19,
+      "floor": 6,
+      "totalFloors": 5,
+      "heating": "Kombi",
+      "furnishing": "Furnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500692784060?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500789101767?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500764499590?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500201015237?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500279420975?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500772532099?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500441636614?w=800&q=80&category=real-estate"
+    ],
+    "agent": {
+      "id": "A43",
+      "name": "Agent 83",
+      "phone": "+24 777 871 8379",
+      "email": "agent15@iwrealty.com",
+      "photo": "/images/icons/png/luxury-homes-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2024-12-01T10:50:47.203Z",
+    "updatedAt": "2025-11-13T10:50:47.203Z",
+    "storeId": "store-002"
+  },
+  {
+    "id": "P02345",
+    "type": "sale",
+    "category": {
+      "main": "commercial",
+      "sub": "shop"
+    },
+    "title": "Satılık Dükkan - New Djibouti",
+    "slug": "satilik-dükkan-new-djibouti-P02345",
+    "description": "New Djibouti, Djibouti bölgesinde dükkan. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 2784502,
+    "location": {
+      "country": "DJ",
+      "city": "New Djibouti",
+      "district": "New Djibouti Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 37",
+      "coordinates": {
+        "lat": 11.596750655921083,
+        "lng": 43.379993671693875
+      }
+    },
+    "specs": {
+      "netSize": 299,
+      "grossSize": 359,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 12,
+      "floor": 5,
+      "totalFloors": 7,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Furnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500292798073?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500870733047?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500547784098?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500435197377?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500132259315?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500455829672?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500917414945?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500813106454?w=800&q=80&category=house"
+    ],
+    "agent": {
+      "id": "A85",
+      "name": "Agent 17",
+      "phone": "+49 850 844 8758",
+      "email": "agent23@iwrealty.com",
+      "photo": "/images/icons/png/sg-harbour-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-03-21T10:50:47.203Z",
+    "updatedAt": "2025-11-13T10:50:47.203Z",
+    "storeId": "store-011"
+  },
+  {
+    "id": "P02346",
+    "type": "rent",
+    "category": {
+      "main": "commercial",
+      "sub": "shop"
+    },
+    "title": "Kiralık Dükkan - Djibouti City",
+    "slug": "kiralik-dükkan-djibouti-city-P02346",
+    "description": "Djibouti City, Djibouti bölgesinde dükkan. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 4901404,
+    "location": {
+      "country": "DJ",
+      "city": "Djibouti City",
+      "district": "Djibouti City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 784",
+      "coordinates": {
+        "lat": 11.53334243248356,
+        "lng": 43.23985310841802
+      }
+    },
+    "specs": {
+      "netSize": 278,
+      "grossSize": 334,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 10,
+      "floor": 14,
+      "totalFloors": 14,
+      "heating": "Kombi",
+      "furnishing": "Furnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500179555624?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500760337119?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500771407056?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500636438296?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500023379210?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500400178807?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500077317324?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500911240291?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500671145458?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500776708887?w=800&q=80&category=house"
+    ],
+    "agent": {
+      "id": "A20",
+      "name": "Agent 16",
+      "phone": "+64 817 591 4765",
+      "email": "agent53@iwrealty.com",
+      "photo": "/images/icons/png/luxury-homes-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": true,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-05-23T10:50:47.203Z",
+    "updatedAt": "2025-11-13T10:50:47.203Z",
+    "storeId": "store-002"
+  },
+  {
+    "id": "P02347",
+    "type": "sale",
+    "category": {
+      "main": "commercial",
+      "sub": "office"
+    },
+    "title": "Satılık Ofis - New Djibouti",
+    "slug": "satilik-ofis-new-djibouti-P02347",
+    "description": "New Djibouti, Djibouti bölgesinde ofis. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 13275742,
+    "location": {
+      "country": "DJ",
+      "city": "New Djibouti",
+      "district": "New Djibouti Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 344",
+      "coordinates": {
+        "lat": 11.063070971638632,
+        "lng": 43.48807496390957
+      }
+    },
+    "specs": {
+      "netSize": 463,
+      "grossSize": 556,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 7,
+      "floor": 14,
+      "totalFloors": 10,
+      "heating": "Merkezi",
+      "furnishing": "Furnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500045008224?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500605506145?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500932959110?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500470746021?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500472554952?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500020097038?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500026937624?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500193009994?w=800&q=80&category=house"
+    ],
+    "agent": {
+      "id": "A36",
+      "name": "Agent 54",
+      "phone": "+10 501 806 3752",
+      "email": "agent27@iwrealty.com",
+      "photo": "/images/icons/png/paris-heritage-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-05-04T10:50:47.203Z",
+    "updatedAt": "2025-11-13T10:50:47.203Z",
+    "storeId": "store-010"
+  },
+  {
+    "id": "P02348",
+    "type": "rent",
+    "category": {
+      "main": "commercial",
+      "sub": "office"
+    },
+    "title": "Kiralık Ofis - Djibouti Central",
+    "slug": "kiralik-ofis-djibouti-central-P02348",
+    "description": "Djibouti Central, Djibouti bölgesinde ofis. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 12108673,
+    "location": {
+      "country": "DJ",
+      "city": "Djibouti Central",
+      "district": "Djibouti Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 311",
+      "coordinates": {
+        "lat": 11.5704004804137,
+        "lng": 42.82641131563937
+      }
+    },
+    "specs": {
+      "netSize": 393,
+      "grossSize": 472,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 4,
+      "floor": 7,
+      "totalFloors": 12,
+      "heating": "Merkezi",
+      "furnishing": "Furnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500016798040?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500670705544?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500014917840?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500654900633?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500091757440?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500549090423?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500884783254?w=800&q=80&category=architecture"
+    ],
+    "agent": {
+      "id": "A79",
+      "name": "Agent 29",
+      "phone": "+90 146 417 7924",
+      "email": "agent51@iwrealty.com",
+      "photo": "/images/icons/png/antalya-investment-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": false,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-02-04T10:50:47.203Z",
+    "updatedAt": "2025-11-13T10:50:47.203Z",
+    "storeId": "store-006"
+  },
+  {
+    "id": "P02349",
+    "type": "sale",
+    "category": {
+      "main": "commercial",
+      "sub": "mall"
+    },
+    "title": "Satılık AVM - Djibouti",
+    "slug": "satilik-avm-djibouti-P02349",
+    "description": "Djibouti, Djibouti bölgesinde avm. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 284060686,
+    "location": {
+      "country": "DJ",
+      "city": "Djibouti",
+      "district": "Djibouti Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 152",
+      "coordinates": {
+        "lat": 11.153465688884493,
+        "lng": 43.487773534176014
+      }
+    },
+    "specs": {
+      "netSize": 11157,
+      "grossSize": 13388,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 17,
+      "floor": 14,
+      "totalFloors": 20,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500222668241?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500212508879?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500575913074?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500002289327?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500169050109?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500240982585?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500969499326?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500534235437?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500278190162?w=800&q=80&category=real-estate"
+    ],
+    "agent": {
+      "id": "A77",
+      "name": "Agent 25",
+      "phone": "+67 840 588 3459",
+      "email": "agent72@iwrealty.com",
+      "photo": "/images/icons/png/sydney-coastal-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-07-27T10:50:47.203Z",
+    "updatedAt": "2025-11-13T10:50:47.203Z",
+    "storeId": "store-012"
+  },
+  {
+    "id": "P02350",
+    "type": "rent",
+    "category": {
+      "main": "commercial",
+      "sub": "mall"
+    },
+    "title": "Kiralık AVM - New Djibouti",
+    "slug": "kiralik-avm-new-djibouti-P02350",
+    "description": "New Djibouti, Djibouti bölgesinde avm. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 383301563,
+    "location": {
+      "country": "DJ",
+      "city": "New Djibouti",
+      "district": "New Djibouti Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 11",
+      "coordinates": {
+        "lat": 11.79496721759362,
+        "lng": 43.406800393835184
+      }
+    },
+    "specs": {
+      "netSize": 12451,
+      "grossSize": 14941,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 20,
+      "floor": 5,
+      "totalFloors": 19,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Furnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500849289866?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500847837070?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500484687535?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500154073764?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500140519667?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500016082420?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500033284393?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500539432729?w=800&q=80&category=building"
+    ],
+    "agent": {
+      "id": "A88",
+      "name": "Agent 7",
+      "phone": "+88 249 932 4816",
+      "email": "agent59@iwrealty.com",
+      "photo": "/images/icons/png/ny-skyline-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-01-22T10:50:47.203Z",
+    "updatedAt": "2025-11-13T10:50:47.203Z",
+    "storeId": "store-008"
+  },
+  {
+    "id": "P02351",
+    "type": "sale",
+    "category": {
+      "main": "commercial",
+      "sub": "hotel"
+    },
+    "title": "Satılık Otel - Djibouti City",
+    "slug": "satilik-otel-djibouti-city-P02351",
+    "description": "Djibouti City, Djibouti bölgesinde otel. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 165961017,
+    "location": {
+      "country": "DJ",
+      "city": "Djibouti City",
+      "district": "Djibouti City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 945",
+      "coordinates": {
+        "lat": 11.36128965732707,
+        "lng": 43.4262060438059
+      }
+    },
+    "specs": {
+      "netSize": 26272,
+      "grossSize": 31526,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 1,
+      "floor": 9,
+      "totalFloors": 16,
+      "heating": "Merkezi",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500676141765?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500350861003?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500619090231?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500115071810?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500213005647?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500237444051?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500898224126?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500426700131?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500757257091?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500859417225?w=800&q=80&category=interior"
+    ],
+    "agent": {
+      "id": "A57",
+      "name": "Agent 16",
+      "phone": "+62 751 621 1692",
+      "email": "agent55@iwrealty.com",
+      "photo": "/images/icons/png/sg-harbour-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": false,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": true,
+      "hasSecurity": false
+    },
+    "createdAt": "2024-12-05T10:50:47.203Z",
+    "updatedAt": "2025-11-13T10:50:47.203Z",
+    "storeId": "store-011"
+  },
+  {
+    "id": "P02352",
+    "type": "rent",
+    "category": {
+      "main": "commercial",
+      "sub": "hotel"
+    },
+    "title": "Kiralık Otel - Djibouti Central",
+    "slug": "kiralik-otel-djibouti-central-P02352",
+    "description": "Djibouti Central, Djibouti bölgesinde otel. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 100930880,
+    "location": {
+      "country": "DJ",
+      "city": "Djibouti Central",
+      "district": "Djibouti Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 709",
+      "coordinates": {
+        "lat": 11.100224081072385,
+        "lng": 43.09180061689246
+      }
+    },
+    "specs": {
+      "netSize": 28056,
+      "grossSize": 33667,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 16,
+      "floor": 12,
+      "totalFloors": 12,
+      "heating": "Kombi",
+      "furnishing": "Furnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500961958745?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500801769209?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500866715777?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500731990629?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500209077434?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500560885388?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500106011007?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500987856479?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500854486614?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500973572967?w=800&q=80&category=building"
+    ],
+    "agent": {
+      "id": "A11",
+      "name": "Agent 13",
+      "phone": "+13 482 915 7691",
+      "email": "agent19@iwrealty.com",
+      "photo": "/images/icons/png/sg-harbour-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": false,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-07-05T10:50:47.203Z",
+    "updatedAt": "2025-11-13T10:50:47.203Z",
+    "storeId": "store-011"
+  },
+  {
+    "id": "P02353",
+    "type": "sale",
+    "category": {
+      "main": "commercial",
+      "sub": "restaurant"
+    },
+    "title": "Satılık Restoran - Djibouti Central",
+    "slug": "satilik-restoran-djibouti-central-P02353",
+    "description": "Djibouti Central, Djibouti bölgesinde restoran. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 3850122,
+    "location": {
+      "country": "DJ",
+      "city": "Djibouti Central",
+      "district": "Djibouti Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 643",
+      "coordinates": {
+        "lat": 11.699089207931745,
+        "lng": 42.57255864935795
+      }
+    },
+    "specs": {
+      "netSize": 1086,
+      "grossSize": 1303,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 7,
+      "floor": 13,
+      "totalFloors": 9,
+      "heating": "Kombi",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500502951796?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500902559332?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500717565325?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500282282727?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500803189680?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500029484025?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500430960198?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500567597923?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500165647201?w=800&q=80&category=architecture"
+    ],
+    "agent": {
+      "id": "A70",
+      "name": "Agent 70",
+      "phone": "+92 878 295 3924",
+      "email": "agent42@iwrealty.com",
+      "photo": "/images/icons/png/luxury-homes-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": false,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-07-20T10:50:47.203Z",
+    "updatedAt": "2025-11-13T10:50:47.203Z",
+    "storeId": "store-002"
+  },
+  {
+    "id": "P02354",
+    "type": "rent",
+    "category": {
+      "main": "commercial",
+      "sub": "restaurant"
+    },
+    "title": "Kiralık Restoran - Djibouti",
+    "slug": "kiralik-restoran-djibouti-P02354",
+    "description": "Djibouti, Djibouti bölgesinde restoran. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 5648518,
+    "location": {
+      "country": "DJ",
+      "city": "Djibouti",
+      "district": "Djibouti Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 970",
+      "coordinates": {
+        "lat": 11.507960498828645,
+        "lng": 42.968557050465506
+      }
+    },
+    "specs": {
+      "netSize": 1182,
+      "grossSize": 1418,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 3,
+      "floor": 6,
+      "totalFloors": 13,
+      "heating": "Kombi",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500272379011?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500209676008?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500002403207?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500473250823?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500558089992?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500198853075?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500403016005?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500838279823?w=800&q=80&category=house"
+    ],
+    "agent": {
+      "id": "A13",
+      "name": "Agent 70",
+      "phone": "+77 871 221 6111",
+      "email": "agent34@iwrealty.com",
+      "photo": "/images/icons/png/berlin-urban-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-03-27T10:50:47.203Z",
+    "updatedAt": "2025-11-13T10:50:47.203Z",
+    "storeId": "store-009"
+  },
+  {
+    "id": "P02355",
+    "type": "sale",
+    "category": {
+      "main": "commercial",
+      "sub": "warehouse"
+    },
+    "title": "Satılık Depo - Djibouti Central",
+    "slug": "satilik-depo-djibouti-central-P02355",
+    "description": "Djibouti Central, Djibouti bölgesinde depo. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 5952707,
+    "location": {
+      "country": "DJ",
+      "city": "Djibouti Central",
+      "district": "Djibouti Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 953",
+      "coordinates": {
+        "lat": 11.665648261138125,
+        "lng": 42.597499530336805
+      }
+    },
+    "specs": {
+      "netSize": 9018,
+      "grossSize": 10822,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 4,
+      "floor": 3,
+      "totalFloors": 5,
+      "heating": "Merkezi",
+      "furnishing": "Unfurnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500699847503?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500590519113?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500961104075?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500221584297?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500475253336?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500080530583?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500169593665?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500873134106?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500747660748?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500505864615?w=800&q=80&category=real-estate"
+    ],
+    "agent": {
+      "id": "A20",
+      "name": "Agent 81",
+      "phone": "+38 445 665 2769",
+      "email": "agent45@iwrealty.com",
+      "photo": "/images/icons/png/ankara-modern-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": false,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-11-05T10:50:47.203Z",
+    "updatedAt": "2025-11-13T10:50:47.203Z",
+    "storeId": "store-003"
+  },
+  {
+    "id": "P02356",
+    "type": "rent",
+    "category": {
+      "main": "commercial",
+      "sub": "warehouse"
+    },
+    "title": "Kiralık Depo - Djibouti",
+    "slug": "kiralik-depo-djibouti-P02356",
+    "description": "Djibouti, Djibouti bölgesinde depo. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 28642167,
+    "location": {
+      "country": "DJ",
+      "city": "Djibouti",
+      "district": "Djibouti Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 653",
+      "coordinates": {
+        "lat": 11.337428186331083,
+        "lng": 42.59274353650702
+      }
+    },
+    "specs": {
+      "netSize": 4573,
+      "grossSize": 5488,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 20,
+      "floor": 11,
+      "totalFloors": 11,
+      "heating": "Klima",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500389169330?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500575093839?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500044105215?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500802847511?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500634013789?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500848750440?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500624522920?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500844637977?w=800&q=80&category=house"
+    ],
+    "agent": {
+      "id": "A66",
+      "name": "Agent 4",
+      "phone": "+57 383 844 8452",
+      "email": "agent72@iwrealty.com",
+      "photo": "/images/icons/png/paris-heritage-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-10-07T10:50:47.203Z",
+    "updatedAt": "2025-11-13T10:50:47.203Z",
+    "storeId": "store-010"
+  }
+]

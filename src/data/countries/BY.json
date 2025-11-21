@@ -1,0 +1,2355 @@
+[
+  {
+    "id": "P01065",
+    "type": "sale",
+    "category": {
+      "main": "government"
+    },
+    "title": "Satılık Belediye Binası - New Belarus",
+    "slug": "satilik-belediye-binası-new-belarus-P01065",
+    "description": "New Belarus, Belarus bölgesinde belediye binası. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 42064763,
+    "location": {
+      "country": "BY",
+      "city": "New Belarus",
+      "district": "New Belarus Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 660",
+      "coordinates": {
+        "lat": 53.08335461773521,
+        "lng": 27.87442204150123
+      }
+    },
+    "specs": {
+      "netSize": 2488,
+      "grossSize": 2986,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 5,
+      "floor": 14,
+      "totalFloors": 7,
+      "heating": "Merkezi",
+      "furnishing": "Unfurnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500185820788?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500323895830?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500070114092?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500358860562?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500138783971?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500562410731?w=800&q=80&category=architecture"
+    ],
+    "agent": {
+      "id": "A67",
+      "name": "Agent 45",
+      "phone": "+15 348 161 5679",
+      "email": "agent85@iwrealty.com",
+      "photo": "/images/icons/png/sydney-coastal-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": true,
+      "hasSecurity": true
+    },
+    "createdAt": "2024-12-06T10:50:47.188Z",
+    "updatedAt": "2025-11-13T10:50:47.188Z",
+    "storeId": "store-012"
+  },
+  {
+    "id": "P01066",
+    "type": "rent",
+    "category": {
+      "main": "government"
+    },
+    "title": "Kiralık Belediye Binası - Minsk",
+    "slug": "kiralik-belediye-binası-minsk-P01066",
+    "description": "Minsk, Belarus bölgesinde belediye binası. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 31092843,
+    "location": {
+      "country": "BY",
+      "city": "Minsk",
+      "district": "Minsk Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 42",
+      "coordinates": {
+        "lat": 52.619880253793724,
+        "lng": 28.425754910427827
+      }
+    },
+    "specs": {
+      "netSize": 4974,
+      "grossSize": 5969,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 0,
+      "floor": 11,
+      "totalFloors": 15,
+      "heating": "Kombi",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500447758904?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500292208053?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500342356966?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500816563461?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500420280882?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500584949211?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500370248339?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500535623202?w=800&q=80&category=house"
+    ],
+    "agent": {
+      "id": "A17",
+      "name": "Agent 87",
+      "phone": "+79 852 854 3617",
+      "email": "agent2@iwrealty.com",
+      "photo": "/images/icons/png/sydney-coastal-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-09-08T10:50:47.188Z",
+    "updatedAt": "2025-11-13T10:50:47.188Z",
+    "storeId": "store-012"
+  },
+  {
+    "id": "P01067",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Villa - Belarus City",
+    "slug": "satilik-villa-belarus-city-P01067",
+    "description": "Belarus City, Belarus bölgesinde villa. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 12146151,
+    "location": {
+      "country": "BY",
+      "city": "Belarus City",
+      "district": "Belarus City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 68",
+      "coordinates": {
+        "lat": 53.37519622682204,
+        "lng": 27.537785033617986
+      }
+    },
+    "specs": {
+      "netSize": 179,
+      "grossSize": 215,
+      "rooms": "1+1",
+      "bathrooms": 2,
+      "age": 11,
+      "floor": 12,
+      "totalFloors": 7,
+      "heating": "Merkezi",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500198584468?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500717090339?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500805559603?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500163322221?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500962332925?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500644745767?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500853963274?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500895315730?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500634971520?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500851476989?w=800&q=80&category=interior"
+    ],
+    "agent": {
+      "id": "A11",
+      "name": "Agent 11",
+      "phone": "+16 661 367 3547",
+      "email": "agent87@iwrealty.com",
+      "photo": "/images/icons/png/sydney-coastal-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": true,
+      "hasPool": true,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-02-17T10:50:47.188Z",
+    "updatedAt": "2025-11-13T10:50:47.188Z",
+    "storeId": "store-012"
+  },
+  {
+    "id": "P01068",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Müstakil Ev - Belarus City",
+    "slug": "kiralik-müstakil-ev-belarus-city-P01068",
+    "description": "Belarus City, Belarus bölgesinde müstakil ev. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 14067793,
+    "location": {
+      "country": "BY",
+      "city": "Belarus City",
+      "district": "Belarus City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 820",
+      "coordinates": {
+        "lat": 52.60534822974003,
+        "lng": 28.084660229536855
+      }
+    },
+    "specs": {
+      "netSize": 484,
+      "grossSize": 581,
+      "rooms": "5+0",
+      "bathrooms": 2,
+      "age": 11,
+      "floor": 7,
+      "totalFloors": 6,
+      "heating": "Merkezi",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500535768200?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500376641483?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500471864193?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500367021958?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500711243538?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500266223465?w=800&q=80&category=real-estate"
+    ],
+    "agent": {
+      "id": "A57",
+      "name": "Agent 25",
+      "phone": "+16 489 555 8043",
+      "email": "agent61@iwrealty.com",
+      "photo": "/images/icons/png/london-prime-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-10-27T10:50:47.188Z",
+    "updatedAt": "2025-11-13T10:50:47.188Z",
+    "storeId": "store-007"
+  },
+  {
+    "id": "P01069",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Daire - Belarus Central",
+    "slug": "satilik-daire-belarus-central-P01069",
+    "description": "Belarus Central, Belarus bölgesinde daire. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 7998092,
+    "location": {
+      "country": "BY",
+      "city": "Belarus Central",
+      "district": "Belarus Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 853",
+      "coordinates": {
+        "lat": 52.5439356667751,
+        "lng": 27.85432884615674
+      }
+    },
+    "specs": {
+      "netSize": 334,
+      "grossSize": 401,
+      "rooms": "1+2",
+      "bathrooms": 2,
+      "age": 7,
+      "floor": 12,
+      "totalFloors": 20,
+      "heating": "Kombi",
+      "furnishing": "Furnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500066913535?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500573485407?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500302524077?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500005224498?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500082139998?w=800&q=80&category=interior"
+    ],
+    "agent": {
+      "id": "A68",
+      "name": "Agent 86",
+      "phone": "+42 662 597 6766",
+      "email": "agent91@iwrealty.com",
+      "photo": "/images/icons/png/paris-heritage-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": false,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": true,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-03-11T10:50:47.188Z",
+    "updatedAt": "2025-11-13T10:50:47.188Z",
+    "storeId": "store-010"
+  },
+  {
+    "id": "P01070",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Residence - New Belarus",
+    "slug": "kiralik-residence-new-belarus-P01070",
+    "description": "New Belarus, Belarus bölgesinde residence. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 6718962,
+    "location": {
+      "country": "BY",
+      "city": "New Belarus",
+      "district": "New Belarus Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 869",
+      "coordinates": {
+        "lat": 53.44301999377476,
+        "lng": 27.97794592744201
+      }
+    },
+    "specs": {
+      "netSize": 311,
+      "grossSize": 373,
+      "rooms": "2+2",
+      "bathrooms": 3,
+      "age": 13,
+      "floor": 12,
+      "totalFloors": 9,
+      "heating": "Merkezi",
+      "furnishing": "Furnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500519840369?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500851218200?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500303192235?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500668621651?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500075465963?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500795050939?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500246832888?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500734610201?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500206958735?w=800&q=80&category=building"
+    ],
+    "agent": {
+      "id": "A51",
+      "name": "Agent 52",
+      "phone": "+75 735 306 6943",
+      "email": "agent77@iwrealty.com",
+      "photo": "/images/icons/png/luxury-homes-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": true,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-10-12T10:50:47.188Z",
+    "updatedAt": "2025-11-13T10:50:47.188Z",
+    "storeId": "store-002"
+  },
+  {
+    "id": "P01071",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Villa - New Belarus",
+    "slug": "satilik-villa-new-belarus-P01071",
+    "description": "New Belarus, Belarus bölgesinde villa. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 2668728,
+    "location": {
+      "country": "BY",
+      "city": "New Belarus",
+      "district": "New Belarus Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 95",
+      "coordinates": {
+        "lat": 52.952439059289226,
+        "lng": 28.41252829430431
+      }
+    },
+    "specs": {
+      "netSize": 389,
+      "grossSize": 467,
+      "rooms": "5+1",
+      "bathrooms": 4,
+      "age": 9,
+      "floor": 3,
+      "totalFloors": 7,
+      "heating": "Merkezi",
+      "furnishing": "Furnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500947341974?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500504481465?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500637473391?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500685273772?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500026912784?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500344143320?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500970723790?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500802017563?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500239114383?w=800&q=80&category=house"
+    ],
+    "agent": {
+      "id": "A59",
+      "name": "Agent 51",
+      "phone": "+93 242 947 6691",
+      "email": "agent3@iwrealty.com",
+      "photo": "/images/icons/png/sydney-coastal-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-02-06T10:50:47.188Z",
+    "updatedAt": "2025-11-13T10:50:47.188Z",
+    "storeId": "store-012"
+  },
+  {
+    "id": "P01072",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Villa - Belarus Central",
+    "slug": "kiralik-villa-belarus-central-P01072",
+    "description": "Belarus Central, Belarus bölgesinde villa. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 14979841,
+    "location": {
+      "country": "BY",
+      "city": "Belarus Central",
+      "district": "Belarus Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 279",
+      "coordinates": {
+        "lat": 53.42907123580706,
+        "lng": 27.878405091241394
+      }
+    },
+    "specs": {
+      "netSize": 272,
+      "grossSize": 326,
+      "rooms": "1+1",
+      "bathrooms": 3,
+      "age": 9,
+      "floor": 5,
+      "totalFloors": 5,
+      "heating": "Kombi",
+      "furnishing": "Unfurnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500207997001?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500674105583?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500096390172?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500377123104?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500736603960?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500799893015?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500574944298?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500965755657?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500882447316?w=800&q=80&category=building"
+    ],
+    "agent": {
+      "id": "A79",
+      "name": "Agent 89",
+      "phone": "+97 427 580 1800",
+      "email": "agent15@iwrealty.com",
+      "photo": "/images/icons/png/ankara-modern-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-09-02T10:50:47.188Z",
+    "updatedAt": "2025-11-13T10:50:47.188Z",
+    "storeId": "store-003"
+  },
+  {
+    "id": "P01073",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Daire - Belarus Central",
+    "slug": "satilik-daire-belarus-central-P01073",
+    "description": "Belarus Central, Belarus bölgesinde daire. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 7480626,
+    "location": {
+      "country": "BY",
+      "city": "Belarus Central",
+      "district": "Belarus Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 674",
+      "coordinates": {
+        "lat": 53.29135162823033,
+        "lng": 28.336197708550145
+      }
+    },
+    "specs": {
+      "netSize": 182,
+      "grossSize": 218,
+      "rooms": "5+2",
+      "bathrooms": 1,
+      "age": 13,
+      "floor": 5,
+      "totalFloors": 12,
+      "heating": "Merkezi",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500908267693?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500036587103?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500868096994?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500177143421?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500319493368?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500077861218?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500478314479?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500351916714?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500396027962?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500262358454?w=800&q=80&category=interior"
+    ],
+    "agent": {
+      "id": "A54",
+      "name": "Agent 2",
+      "phone": "+24 382 420 1790",
+      "email": "agent50@iwrealty.com",
+      "photo": "/images/icons/png/dubai-property-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-09-01T10:50:47.188Z",
+    "updatedAt": "2025-11-13T10:50:47.188Z",
+    "storeId": "store-004"
+  },
+  {
+    "id": "P01074",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Daire - Belarus Central",
+    "slug": "kiralik-daire-belarus-central-P01074",
+    "description": "Belarus Central, Belarus bölgesinde daire. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 3490848,
+    "location": {
+      "country": "BY",
+      "city": "Belarus Central",
+      "district": "Belarus Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 736",
+      "coordinates": {
+        "lat": 52.61936606325471,
+        "lng": 28.366039271259694
+      }
+    },
+    "specs": {
+      "netSize": 169,
+      "grossSize": 203,
+      "rooms": "5+2",
+      "bathrooms": 4,
+      "age": 2,
+      "floor": 15,
+      "totalFloors": 19,
+      "heating": "Kombi",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500791928271?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500747389465?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500686744601?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500516199229?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500365995392?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500376622441?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500550870486?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500270485284?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500670004951?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500716361779?w=800&q=80&category=house"
+    ],
+    "agent": {
+      "id": "A98",
+      "name": "Agent 76",
+      "phone": "+21 832 927 3113",
+      "email": "agent100@iwrealty.com",
+      "photo": "/images/icons/png/luxury-homes-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-08-11T10:50:47.188Z",
+    "updatedAt": "2025-11-13T10:50:47.188Z",
+    "storeId": "store-002"
+  },
+  {
+    "id": "P01075",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Villa - Belarus Central",
+    "slug": "satilik-villa-belarus-central-P01075",
+    "description": "Belarus Central, Belarus bölgesinde villa. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 8812626,
+    "location": {
+      "country": "BY",
+      "city": "Belarus Central",
+      "district": "Belarus Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 84",
+      "coordinates": {
+        "lat": 52.81860051419177,
+        "lng": 28.065760709548556
+      }
+    },
+    "specs": {
+      "netSize": 108,
+      "grossSize": 130,
+      "rooms": "3+2",
+      "bathrooms": 2,
+      "age": 11,
+      "floor": 14,
+      "totalFloors": 8,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Furnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500808903525?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500577644268?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500364283719?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500903419074?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500489239096?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500969302394?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500832462510?w=800&q=80&category=architecture"
+    ],
+    "agent": {
+      "id": "A36",
+      "name": "Agent 43",
+      "phone": "+12 776 412 6113",
+      "email": "agent93@iwrealty.com",
+      "photo": "/images/icons/png/sydney-coastal-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": true,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-07-29T10:50:47.188Z",
+    "updatedAt": "2025-11-13T10:50:47.188Z",
+    "storeId": "store-012"
+  },
+  {
+    "id": "P01076",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Müstakil Ev - New Belarus",
+    "slug": "kiralik-müstakil-ev-new-belarus-P01076",
+    "description": "New Belarus, Belarus bölgesinde müstakil ev. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 12900396,
+    "location": {
+      "country": "BY",
+      "city": "New Belarus",
+      "district": "New Belarus Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 89",
+      "coordinates": {
+        "lat": 53.227258813002216,
+        "lng": 27.570686914142506
+      }
+    },
+    "specs": {
+      "netSize": 277,
+      "grossSize": 332,
+      "rooms": "5+1",
+      "bathrooms": 3,
+      "age": 19,
+      "floor": 5,
+      "totalFloors": 14,
+      "heating": "Merkezi",
+      "furnishing": "Unfurnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500930522246?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500539003151?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500672137065?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500698157111?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500469103885?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500759157106?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500376965715?w=800&q=80&category=real-estate"
+    ],
+    "agent": {
+      "id": "A79",
+      "name": "Agent 94",
+      "phone": "+93 477 204 6707",
+      "email": "agent36@iwrealty.com",
+      "photo": "/images/icons/png/sydney-coastal-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2024-12-09T10:50:47.188Z",
+    "updatedAt": "2025-11-13T10:50:47.188Z",
+    "storeId": "store-012"
+  },
+  {
+    "id": "P01077",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Residence - Belarus City",
+    "slug": "satilik-residence-belarus-city-P01077",
+    "description": "Belarus City, Belarus bölgesinde residence. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 11379193,
+    "location": {
+      "country": "BY",
+      "city": "Belarus City",
+      "district": "Belarus City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 839",
+      "coordinates": {
+        "lat": 53.31361782174278,
+        "lng": 28.076718933142892
+      }
+    },
+    "specs": {
+      "netSize": 447,
+      "grossSize": 536,
+      "rooms": "2+0",
+      "bathrooms": 2,
+      "age": 20,
+      "floor": 7,
+      "totalFloors": 5,
+      "heating": "Klima",
+      "furnishing": "Unfurnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500195464418?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500158031658?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500360239491?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500804916124?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500665569207?w=800&q=80&category=building"
+    ],
+    "agent": {
+      "id": "A91",
+      "name": "Agent 12",
+      "phone": "+39 571 582 6880",
+      "email": "agent30@iwrealty.com",
+      "photo": "/images/icons/png/ankara-modern-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-06-26T10:50:47.188Z",
+    "updatedAt": "2025-11-13T10:50:47.188Z",
+    "storeId": "store-003"
+  },
+  {
+    "id": "P01078",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Daire - Minsk",
+    "slug": "kiralik-daire-minsk-P01078",
+    "description": "Minsk, Belarus bölgesinde daire. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 6500457,
+    "location": {
+      "country": "BY",
+      "city": "Minsk",
+      "district": "Minsk Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 108",
+      "coordinates": {
+        "lat": 53.377896851619795,
+        "lng": 28.40238964722242
+      }
+    },
+    "specs": {
+      "netSize": 86,
+      "grossSize": 103,
+      "rooms": "1+1",
+      "bathrooms": 1,
+      "age": 16,
+      "floor": 3,
+      "totalFloors": 9,
+      "heating": "Kombi",
+      "furnishing": "Unfurnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500203600067?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500174306022?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500927981623?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500287995219?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500956229235?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500401816335?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500208999412?w=800&q=80&category=architecture"
+    ],
+    "agent": {
+      "id": "A31",
+      "name": "Agent 68",
+      "phone": "+47 688 103 3183",
+      "email": "agent69@iwrealty.com",
+      "photo": "/images/icons/png/sg-harbour-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": true,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-06-17T10:50:47.188Z",
+    "updatedAt": "2025-11-13T10:50:47.188Z",
+    "storeId": "store-011"
+  },
+  {
+    "id": "P01079",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Daire - Belarus City",
+    "slug": "satilik-daire-belarus-city-P01079",
+    "description": "Belarus City, Belarus bölgesinde daire. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 12469976,
+    "location": {
+      "country": "BY",
+      "city": "Belarus City",
+      "district": "Belarus City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 603",
+      "coordinates": {
+        "lat": 52.89846816994555,
+        "lng": 28.031768573567625
+      }
+    },
+    "specs": {
+      "netSize": 478,
+      "grossSize": 574,
+      "rooms": "4+1",
+      "bathrooms": 1,
+      "age": 0,
+      "floor": 14,
+      "totalFloors": 12,
+      "heating": "Klima",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500060002666?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500629115737?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500203285912?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500156012108?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500382700772?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500917994659?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500978424973?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500385063708?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500127188963?w=800&q=80&category=real-estate"
+    ],
+    "agent": {
+      "id": "A2",
+      "name": "Agent 91",
+      "phone": "+28 438 106 5333",
+      "email": "agent57@iwrealty.com",
+      "photo": "/images/icons/png/ny-skyline-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": false,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-09-29T10:50:47.188Z",
+    "updatedAt": "2025-11-13T10:50:47.188Z",
+    "storeId": "store-008"
+  },
+  {
+    "id": "P01080",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Daire - Belarus City",
+    "slug": "kiralik-daire-belarus-city-P01080",
+    "description": "Belarus City, Belarus bölgesinde daire. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 9666912,
+    "location": {
+      "country": "BY",
+      "city": "Belarus City",
+      "district": "Belarus City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 665",
+      "coordinates": {
+        "lat": 53.05081707184711,
+        "lng": 28.12953060780207
+      }
+    },
+    "specs": {
+      "netSize": 214,
+      "grossSize": 257,
+      "rooms": "4+1",
+      "bathrooms": 3,
+      "age": 16,
+      "floor": 15,
+      "totalFloors": 17,
+      "heating": "Klima",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500112932962?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500821767499?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500499940133?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500753259961?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500580634098?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500781596439?w=800&q=80&category=house"
+    ],
+    "agent": {
+      "id": "A16",
+      "name": "Agent 25",
+      "phone": "+16 784 565 2544",
+      "email": "agent63@iwrealty.com",
+      "photo": "/images/icons/png/luxury-homes-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-06-04T10:50:47.188Z",
+    "updatedAt": "2025-11-13T10:50:47.188Z",
+    "storeId": "store-002"
+  },
+  {
+    "id": "P01081",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Villa - New Belarus",
+    "slug": "satilik-villa-new-belarus-P01081",
+    "description": "New Belarus, Belarus bölgesinde villa. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 8002659,
+    "location": {
+      "country": "BY",
+      "city": "New Belarus",
+      "district": "New Belarus Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 772",
+      "coordinates": {
+        "lat": 52.52421994838311,
+        "lng": 28.406209083541945
+      }
+    },
+    "specs": {
+      "netSize": 141,
+      "grossSize": 169,
+      "rooms": "1+1",
+      "bathrooms": 3,
+      "age": 2,
+      "floor": 8,
+      "totalFloors": 14,
+      "heating": "Merkezi",
+      "furnishing": "Unfurnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500518818974?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500953702878?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500147706701?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500180953605?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500315454701?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500757587779?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500730395552?w=800&q=80&category=house"
+    ],
+    "agent": {
+      "id": "A45",
+      "name": "Agent 81",
+      "phone": "+45 344 713 1675",
+      "email": "agent11@iwrealty.com",
+      "photo": "/images/icons/png/izmir-sahil-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-02-19T10:50:47.188Z",
+    "updatedAt": "2025-11-13T10:50:47.188Z",
+    "storeId": "store-005"
+  },
+  {
+    "id": "P01082",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Müstakil Ev - Minsk",
+    "slug": "kiralik-müstakil-ev-minsk-P01082",
+    "description": "Minsk, Belarus bölgesinde müstakil ev. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 10635876,
+    "location": {
+      "country": "BY",
+      "city": "Minsk",
+      "district": "Minsk Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 881",
+      "coordinates": {
+        "lat": 52.959365510540835,
+        "lng": 27.583900521448946
+      }
+    },
+    "specs": {
+      "netSize": 483,
+      "grossSize": 580,
+      "rooms": "3+1",
+      "bathrooms": 1,
+      "age": 0,
+      "floor": 1,
+      "totalFloors": 12,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Furnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500579966483?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500179458990?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500554735920?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500141039580?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500726378156?w=800&q=80&category=interior"
+    ],
+    "agent": {
+      "id": "A25",
+      "name": "Agent 22",
+      "phone": "+86 893 225 2220",
+      "email": "agent49@iwrealty.com",
+      "photo": "/images/icons/png/ankara-modern-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": true,
+      "hasPool": true,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-05-11T10:50:47.188Z",
+    "updatedAt": "2025-11-13T10:50:47.188Z",
+    "storeId": "store-003"
+  },
+  {
+    "id": "P01083",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Daire - New Belarus",
+    "slug": "satilik-daire-new-belarus-P01083",
+    "description": "New Belarus, Belarus bölgesinde daire. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 9750323,
+    "location": {
+      "country": "BY",
+      "city": "New Belarus",
+      "district": "New Belarus Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 868",
+      "coordinates": {
+        "lat": 53.40412494346002,
+        "lng": 28.230559186779676
+      }
+    },
+    "specs": {
+      "netSize": 500,
+      "grossSize": 600,
+      "rooms": "1+0",
+      "bathrooms": 2,
+      "age": 17,
+      "floor": 15,
+      "totalFloors": 11,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500047103645?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500756912997?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500356353228?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500557846255?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500295522848?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500239935421?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500443212381?w=800&q=80&category=real-estate"
+    ],
+    "agent": {
+      "id": "A19",
+      "name": "Agent 73",
+      "phone": "+82 921 318 4957",
+      "email": "agent5@iwrealty.com",
+      "photo": "/images/icons/png/berlin-urban-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-05-19T10:50:47.188Z",
+    "updatedAt": "2025-11-13T10:50:47.188Z",
+    "storeId": "store-009"
+  },
+  {
+    "id": "P01084",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Villa - Minsk",
+    "slug": "kiralik-villa-minsk-P01084",
+    "description": "Minsk, Belarus bölgesinde villa. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 9230210,
+    "location": {
+      "country": "BY",
+      "city": "Minsk",
+      "district": "Minsk Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 650",
+      "coordinates": {
+        "lat": 52.731254264358945,
+        "lng": 27.973743288008272
+      }
+    },
+    "specs": {
+      "netSize": 497,
+      "grossSize": 596,
+      "rooms": "3+0",
+      "bathrooms": 4,
+      "age": 7,
+      "floor": 6,
+      "totalFloors": 14,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Furnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500221296623?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500674112635?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500233111344?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500187068827?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500135458889?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500029128029?w=800&q=80&category=interior"
+    ],
+    "agent": {
+      "id": "A8",
+      "name": "Agent 3",
+      "phone": "+48 190 216 5669",
+      "email": "agent82@iwrealty.com",
+      "photo": "/images/icons/png/sg-harbour-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": true,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-09-11T10:50:47.188Z",
+    "updatedAt": "2025-11-13T10:50:47.188Z",
+    "storeId": "store-011"
+  },
+  {
+    "id": "P01085",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Villa - Belarus Central",
+    "slug": "satilik-villa-belarus-central-P01085",
+    "description": "Belarus Central, Belarus bölgesinde villa. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 12565590,
+    "location": {
+      "country": "BY",
+      "city": "Belarus Central",
+      "district": "Belarus Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 492",
+      "coordinates": {
+        "lat": 52.82976294441822,
+        "lng": 28.093032754985195
+      }
+    },
+    "specs": {
+      "netSize": 322,
+      "grossSize": 386,
+      "rooms": "1+1",
+      "bathrooms": 2,
+      "age": 1,
+      "floor": 8,
+      "totalFloors": 16,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Furnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500399006045?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500075877767?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500366440580?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500117116295?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500698669085?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500243095782?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500496566429?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500140766635?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500754007790?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500165523581?w=800&q=80&category=building"
+    ],
+    "agent": {
+      "id": "A52",
+      "name": "Agent 97",
+      "phone": "+21 858 724 1917",
+      "email": "agent38@iwrealty.com",
+      "photo": "/images/icons/png/berlin-urban-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": false,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-04-11T10:50:47.188Z",
+    "updatedAt": "2025-11-13T10:50:47.188Z",
+    "storeId": "store-009"
+  },
+  {
+    "id": "P01086",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Villa - Belarus City",
+    "slug": "kiralik-villa-belarus-city-P01086",
+    "description": "Belarus City, Belarus bölgesinde villa. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 13037942,
+    "location": {
+      "country": "BY",
+      "city": "Belarus City",
+      "district": "Belarus City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 21",
+      "coordinates": {
+        "lat": 53.15010531435369,
+        "lng": 27.936600934052514
+      }
+    },
+    "specs": {
+      "netSize": 447,
+      "grossSize": 536,
+      "rooms": "1+1",
+      "bathrooms": 3,
+      "age": 11,
+      "floor": 5,
+      "totalFloors": 9,
+      "heating": "Klima",
+      "furnishing": "Furnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500363660297?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500756190926?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500470763158?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500096527559?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500723698394?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500671243046?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500555204015?w=800&q=80&category=real-estate"
+    ],
+    "agent": {
+      "id": "A81",
+      "name": "Agent 60",
+      "phone": "+28 140 571 9871",
+      "email": "agent91@iwrealty.com",
+      "photo": "/images/icons/png/ankara-modern-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": true,
+      "hasSecurity": true
+    },
+    "createdAt": "2024-11-18T10:50:47.188Z",
+    "updatedAt": "2025-11-13T10:50:47.188Z",
+    "storeId": "store-003"
+  },
+  {
+    "id": "P01087",
+    "type": "sale",
+    "category": {
+      "main": "commercial",
+      "sub": "hospital"
+    },
+    "title": "Satılık Hastane - Minsk",
+    "slug": "satilik-hastane-minsk-P01087",
+    "description": "Minsk, Belarus bölgesinde hastane. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 14755393,
+    "location": {
+      "country": "BY",
+      "city": "Minsk",
+      "district": "Minsk Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 572",
+      "coordinates": {
+        "lat": 52.821700580137744,
+        "lng": 28.280659552288515
+      }
+    },
+    "specs": {
+      "netSize": 7676,
+      "grossSize": 9211,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 7,
+      "floor": 2,
+      "totalFloors": 19,
+      "heating": "Merkezi",
+      "furnishing": "Furnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500345550686?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500870817234?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500426194490?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500262328768?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500872498232?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500093896111?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500520942116?w=800&q=80&category=architecture"
+    ],
+    "agent": {
+      "id": "A12",
+      "name": "Agent 37",
+      "phone": "+43 189 534 3569",
+      "email": "agent12@iwrealty.com",
+      "photo": "/images/icons/png/ny-skyline-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-01-21T10:50:47.188Z",
+    "updatedAt": "2025-11-13T10:50:47.188Z",
+    "storeId": "store-008"
+  },
+  {
+    "id": "P01088",
+    "type": "rent",
+    "category": {
+      "main": "commercial",
+      "sub": "hospital"
+    },
+    "title": "Kiralık Hastane - Belarus Central",
+    "slug": "kiralik-hastane-belarus-central-P01088",
+    "description": "Belarus Central, Belarus bölgesinde hastane. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 53384884,
+    "location": {
+      "country": "BY",
+      "city": "Belarus Central",
+      "district": "Belarus Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 639",
+      "coordinates": {
+        "lat": 53.385911378733454,
+        "lng": 28.121298150629638
+      }
+    },
+    "specs": {
+      "netSize": 17664,
+      "grossSize": 21197,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 4,
+      "floor": 9,
+      "totalFloors": 10,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Unfurnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500122857120?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500878182671?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500760824509?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500004454359?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500194158923?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500529222566?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500682586970?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500137694079?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500178492485?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500890747782?w=800&q=80&category=architecture"
+    ],
+    "agent": {
+      "id": "A51",
+      "name": "Agent 14",
+      "phone": "+58 665 546 5899",
+      "email": "agent57@iwrealty.com",
+      "photo": "/images/icons/png/sg-harbour-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": true,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-01-23T10:50:47.188Z",
+    "updatedAt": "2025-11-13T10:50:47.188Z",
+    "storeId": "store-011"
+  },
+  {
+    "id": "P01089",
+    "type": "sale",
+    "category": {
+      "main": "commercial",
+      "sub": "clinic"
+    },
+    "title": "Satılık Klinik - Minsk",
+    "slug": "satilik-klinik-minsk-P01089",
+    "description": "Minsk, Belarus bölgesinde klinik. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 16983743,
+    "location": {
+      "country": "BY",
+      "city": "Minsk",
+      "district": "Minsk Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 958",
+      "coordinates": {
+        "lat": 53.24016030886281,
+        "lng": 27.95063425153901
+      }
+    },
+    "specs": {
+      "netSize": 1721,
+      "grossSize": 2065,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 18,
+      "floor": 12,
+      "totalFloors": 9,
+      "heating": "Merkezi",
+      "furnishing": "Unfurnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500394966754?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500209976995?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500052998584?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500855835394?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500958626151?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500119685908?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500222859168?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500861148958?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500047655072?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500415656176?w=800&q=80&category=building"
+    ],
+    "agent": {
+      "id": "A62",
+      "name": "Agent 84",
+      "phone": "+13 299 644 6157",
+      "email": "agent72@iwrealty.com",
+      "photo": "/images/icons/png/antalya-investment-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-01-14T10:50:47.188Z",
+    "updatedAt": "2025-11-13T10:50:47.188Z",
+    "storeId": "store-006"
+  },
+  {
+    "id": "P01090",
+    "type": "rent",
+    "category": {
+      "main": "commercial",
+      "sub": "clinic"
+    },
+    "title": "Kiralık Klinik - Belarus City",
+    "slug": "kiralik-klinik-belarus-city-P01090",
+    "description": "Belarus City, Belarus bölgesinde klinik. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 19363844,
+    "location": {
+      "country": "BY",
+      "city": "Belarus City",
+      "district": "Belarus City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 118",
+      "coordinates": {
+        "lat": 53.35873166804828,
+        "lng": 27.96414504527404
+      }
+    },
+    "specs": {
+      "netSize": 1058,
+      "grossSize": 1270,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 16,
+      "floor": 15,
+      "totalFloors": 20,
+      "heating": "Merkezi",
+      "furnishing": "Furnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500867925732?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500036692270?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500661158286?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500458914803?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500370859533?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500109334360?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500749490323?w=800&q=80&category=building"
+    ],
+    "agent": {
+      "id": "A56",
+      "name": "Agent 25",
+      "phone": "+76 986 570 1177",
+      "email": "agent97@iwrealty.com",
+      "photo": "/images/icons/png/antalya-investment-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": false,
+      "hasBalcony": false,
+      "hasGarden": true,
+      "hasPool": true,
+      "hasSecurity": true
+    },
+    "createdAt": "2024-12-12T10:50:47.188Z",
+    "updatedAt": "2025-11-13T10:50:47.188Z",
+    "storeId": "store-006"
+  },
+  {
+    "id": "P01091",
+    "type": "sale",
+    "category": {
+      "main": "commercial",
+      "sub": "shop"
+    },
+    "title": "Satılık Dükkan - Minsk",
+    "slug": "satilik-dükkan-minsk-P01091",
+    "description": "Minsk, Belarus bölgesinde dükkan. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 2132107,
+    "location": {
+      "country": "BY",
+      "city": "Minsk",
+      "district": "Minsk Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 997",
+      "coordinates": {
+        "lat": 52.80868140123147,
+        "lng": 27.943573249163915
+      }
+    },
+    "specs": {
+      "netSize": 116,
+      "grossSize": 139,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 17,
+      "floor": 3,
+      "totalFloors": 20,
+      "heating": "Klima",
+      "furnishing": "Furnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500056855149?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500105077585?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500427551023?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500370680321?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500390365552?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500889616092?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500909468135?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500734415987?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500660202968?w=800&q=80&category=architecture"
+    ],
+    "agent": {
+      "id": "A66",
+      "name": "Agent 62",
+      "phone": "+35 977 539 8805",
+      "email": "agent91@iwrealty.com",
+      "photo": "/images/icons/png/luxury-homes-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": true,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-05-11T10:50:47.188Z",
+    "updatedAt": "2025-11-13T10:50:47.188Z",
+    "storeId": "store-002"
+  },
+  {
+    "id": "P01092",
+    "type": "rent",
+    "category": {
+      "main": "commercial",
+      "sub": "shop"
+    },
+    "title": "Kiralık Dükkan - Minsk",
+    "slug": "kiralik-dükkan-minsk-P01092",
+    "description": "Minsk, Belarus bölgesinde dükkan. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 3138367,
+    "location": {
+      "country": "BY",
+      "city": "Minsk",
+      "district": "Minsk Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 431",
+      "coordinates": {
+        "lat": 53.32852143080498,
+        "lng": 27.62520181551184
+      }
+    },
+    "specs": {
+      "netSize": 63,
+      "grossSize": 76,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 14,
+      "floor": 12,
+      "totalFloors": 15,
+      "heating": "Kombi",
+      "furnishing": "Unfurnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500964451140?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500323155802?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500648066075?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500892370063?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500293759730?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500993554134?w=800&q=80&category=interior"
+    ],
+    "agent": {
+      "id": "A33",
+      "name": "Agent 26",
+      "phone": "+36 597 162 2847",
+      "email": "agent18@iwrealty.com",
+      "photo": "/images/icons/png/luxury-homes-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": false,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-11-04T10:50:47.188Z",
+    "updatedAt": "2025-11-13T10:50:47.188Z",
+    "storeId": "store-002"
+  },
+  {
+    "id": "P01093",
+    "type": "sale",
+    "category": {
+      "main": "commercial",
+      "sub": "office"
+    },
+    "title": "Satılık Ofis - Minsk",
+    "slug": "satilik-ofis-minsk-P01093",
+    "description": "Minsk, Belarus bölgesinde ofis. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 7935260,
+    "location": {
+      "country": "BY",
+      "city": "Minsk",
+      "district": "Minsk Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 333",
+      "coordinates": {
+        "lat": 52.63375741183719,
+        "lng": 28.01394933794301
+      }
+    },
+    "specs": {
+      "netSize": 235,
+      "grossSize": 282,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 8,
+      "floor": 14,
+      "totalFloors": 16,
+      "heating": "Kombi",
+      "furnishing": "Unfurnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500952734901?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500325137755?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500803257170?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500683731734?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500167776130?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500470124259?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500941793357?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500483702464?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500128175282?w=800&q=80&category=architecture"
+    ],
+    "agent": {
+      "id": "A76",
+      "name": "Agent 47",
+      "phone": "+32 674 484 3635",
+      "email": "agent45@iwrealty.com",
+      "photo": "/images/icons/png/sydney-coastal-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-11-09T10:50:47.188Z",
+    "updatedAt": "2025-11-13T10:50:47.188Z",
+    "storeId": "store-012"
+  },
+  {
+    "id": "P01094",
+    "type": "rent",
+    "category": {
+      "main": "commercial",
+      "sub": "office"
+    },
+    "title": "Kiralık Ofis - Belarus City",
+    "slug": "kiralik-ofis-belarus-city-P01094",
+    "description": "Belarus City, Belarus bölgesinde ofis. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 14976087,
+    "location": {
+      "country": "BY",
+      "city": "Belarus City",
+      "district": "Belarus City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 492",
+      "coordinates": {
+        "lat": 52.95764761784976,
+        "lng": 28.464638888184428
+      }
+    },
+    "specs": {
+      "netSize": 991,
+      "grossSize": 1189,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 6,
+      "floor": 13,
+      "totalFloors": 20,
+      "heating": "Merkezi",
+      "furnishing": "Unfurnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500800639387?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500170323195?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500811404219?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500495520046?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500083835408?w=800&q=80&category=real-estate"
+    ],
+    "agent": {
+      "id": "A90",
+      "name": "Agent 24",
+      "phone": "+65 659 466 2026",
+      "email": "agent79@iwrealty.com",
+      "photo": "/images/icons/png/dubai-property-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": false,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-05-11T10:50:47.188Z",
+    "updatedAt": "2025-11-13T10:50:47.188Z",
+    "storeId": "store-004"
+  },
+  {
+    "id": "P01095",
+    "type": "sale",
+    "category": {
+      "main": "commercial",
+      "sub": "mall"
+    },
+    "title": "Satılık AVM - Belarus Central",
+    "slug": "satilik-avm-belarus-central-P01095",
+    "description": "Belarus Central, Belarus bölgesinde avm. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 245823951,
+    "location": {
+      "country": "BY",
+      "city": "Belarus Central",
+      "district": "Belarus Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 165",
+      "coordinates": {
+        "lat": 53.45186599639451,
+        "lng": 27.53630957773766
+      }
+    },
+    "specs": {
+      "netSize": 12484,
+      "grossSize": 14981,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 2,
+      "floor": 13,
+      "totalFloors": 10,
+      "heating": "Klima",
+      "furnishing": "Furnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500381582333?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500274391106?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500662475905?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500458558633?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500453463994?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500588872999?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500500689591?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500030924436?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500139258104?w=800&q=80&category=interior"
+    ],
+    "agent": {
+      "id": "A48",
+      "name": "Agent 2",
+      "phone": "+26 574 458 8084",
+      "email": "agent25@iwrealty.com",
+      "photo": "/images/icons/png/ny-skyline-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2024-12-04T10:50:47.188Z",
+    "updatedAt": "2025-11-13T10:50:47.188Z",
+    "storeId": "store-008"
+  },
+  {
+    "id": "P01096",
+    "type": "rent",
+    "category": {
+      "main": "commercial",
+      "sub": "mall"
+    },
+    "title": "Kiralık AVM - Belarus Central",
+    "slug": "kiralik-avm-belarus-central-P01096",
+    "description": "Belarus Central, Belarus bölgesinde avm. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 190782898,
+    "location": {
+      "country": "BY",
+      "city": "Belarus Central",
+      "district": "Belarus Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 780",
+      "coordinates": {
+        "lat": 53.31316300798003,
+        "lng": 28.074935491174834
+      }
+    },
+    "specs": {
+      "netSize": 14661,
+      "grossSize": 17593,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 0,
+      "floor": 2,
+      "totalFloors": 13,
+      "heating": "Merkezi",
+      "furnishing": "Unfurnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500398214542?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500901808191?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500706795017?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500864728824?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500872587333?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500103481129?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500790667908?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500754633264?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500014360158?w=800&q=80&category=house"
+    ],
+    "agent": {
+      "id": "A32",
+      "name": "Agent 36",
+      "phone": "+41 958 605 8366",
+      "email": "agent19@iwrealty.com",
+      "photo": "/images/icons/png/paris-heritage-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": true,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-09-14T10:50:47.188Z",
+    "updatedAt": "2025-11-13T10:50:47.188Z",
+    "storeId": "store-010"
+  },
+  {
+    "id": "P01097",
+    "type": "sale",
+    "category": {
+      "main": "commercial",
+      "sub": "hotel"
+    },
+    "title": "Satılık Otel - Belarus City",
+    "slug": "satilik-otel-belarus-city-P01097",
+    "description": "Belarus City, Belarus bölgesinde otel. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 181506463,
+    "location": {
+      "country": "BY",
+      "city": "Belarus City",
+      "district": "Belarus City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 533",
+      "coordinates": {
+        "lat": 53.381574785221495,
+        "lng": 28.492291487966117
+      }
+    },
+    "specs": {
+      "netSize": 11423,
+      "grossSize": 13708,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 9,
+      "floor": 3,
+      "totalFloors": 5,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Furnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500384226212?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500487422459?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500643729276?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500850005115?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500291925761?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500796496826?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500269305609?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500381731212?w=800&q=80&category=architecture"
+    ],
+    "agent": {
+      "id": "A92",
+      "name": "Agent 4",
+      "phone": "+22 960 618 8002",
+      "email": "agent43@iwrealty.com",
+      "photo": "/images/icons/png/ankara-modern-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-03-24T10:50:47.188Z",
+    "updatedAt": "2025-11-13T10:50:47.188Z",
+    "storeId": "store-003"
+  },
+  {
+    "id": "P01098",
+    "type": "rent",
+    "category": {
+      "main": "commercial",
+      "sub": "hotel"
+    },
+    "title": "Kiralık Otel - Belarus Central",
+    "slug": "kiralik-otel-belarus-central-P01098",
+    "description": "Belarus Central, Belarus bölgesinde otel. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 99308181,
+    "location": {
+      "country": "BY",
+      "city": "Belarus Central",
+      "district": "Belarus Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 865",
+      "coordinates": {
+        "lat": 52.8277997502262,
+        "lng": 27.563183663198327
+      }
+    },
+    "specs": {
+      "netSize": 22438,
+      "grossSize": 26926,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 5,
+      "floor": 4,
+      "totalFloors": 10,
+      "heating": "Merkezi",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500685473195?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500575021228?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500210706840?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500460747349?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500476104233?w=800&q=80&category=architecture"
+    ],
+    "agent": {
+      "id": "A16",
+      "name": "Agent 60",
+      "phone": "+54 978 799 9112",
+      "email": "agent26@iwrealty.com",
+      "photo": "/images/icons/png/antalya-investment-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": false,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2024-12-01T10:50:47.188Z",
+    "updatedAt": "2025-11-13T10:50:47.188Z",
+    "storeId": "store-006"
+  },
+  {
+    "id": "P01099",
+    "type": "sale",
+    "category": {
+      "main": "commercial",
+      "sub": "restaurant"
+    },
+    "title": "Satılık Restoran - Minsk",
+    "slug": "satilik-restoran-minsk-P01099",
+    "description": "Minsk, Belarus bölgesinde restoran. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 3181096,
+    "location": {
+      "country": "BY",
+      "city": "Minsk",
+      "district": "Minsk Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 209",
+      "coordinates": {
+        "lat": 52.98754228639145,
+        "lng": 27.853763678296218
+      }
+    },
+    "specs": {
+      "netSize": 643,
+      "grossSize": 772,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 2,
+      "floor": 11,
+      "totalFloors": 18,
+      "heating": "Merkezi",
+      "furnishing": "Unfurnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500628734419?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500133191324?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500407657616?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500573089364?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500429150241?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500798113220?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500135954299?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500639514291?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500023007949?w=800&q=80&category=house"
+    ],
+    "agent": {
+      "id": "A45",
+      "name": "Agent 42",
+      "phone": "+99 458 157 8528",
+      "email": "agent10@iwrealty.com",
+      "photo": "/images/icons/png/sg-harbour-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": false,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2024-12-18T10:50:47.188Z",
+    "updatedAt": "2025-11-13T10:50:47.188Z",
+    "storeId": "store-011"
+  },
+  {
+    "id": "P01100",
+    "type": "rent",
+    "category": {
+      "main": "commercial",
+      "sub": "restaurant"
+    },
+    "title": "Kiralık Restoran - Belarus City",
+    "slug": "kiralik-restoran-belarus-city-P01100",
+    "description": "Belarus City, Belarus bölgesinde restoran. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 9276494,
+    "location": {
+      "country": "BY",
+      "city": "Belarus City",
+      "district": "Belarus City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 5",
+      "coordinates": {
+        "lat": 53.365744435211525,
+        "lng": 28.308718870199364
+      }
+    },
+    "specs": {
+      "netSize": 863,
+      "grossSize": 1036,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 20,
+      "floor": 9,
+      "totalFloors": 19,
+      "heating": "Klima",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500312532640?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500948222229?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500832654497?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500207058193?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500884609732?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500096146026?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500060549421?w=800&q=80&category=interior"
+    ],
+    "agent": {
+      "id": "A36",
+      "name": "Agent 53",
+      "phone": "+73 651 541 4096",
+      "email": "agent73@iwrealty.com",
+      "photo": "/images/icons/png/london-prime-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": false,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2024-11-29T10:50:47.188Z",
+    "updatedAt": "2025-11-13T10:50:47.188Z",
+    "storeId": "store-007"
+  },
+  {
+    "id": "P01101",
+    "type": "sale",
+    "category": {
+      "main": "commercial",
+      "sub": "warehouse"
+    },
+    "title": "Satılık Depo - Belarus Central",
+    "slug": "satilik-depo-belarus-central-P01101",
+    "description": "Belarus Central, Belarus bölgesinde depo. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 22241158,
+    "location": {
+      "country": "BY",
+      "city": "Belarus Central",
+      "district": "Belarus Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 811",
+      "coordinates": {
+        "lat": 53.159668511347526,
+        "lng": 27.626233351896598
+      }
+    },
+    "specs": {
+      "netSize": 5982,
+      "grossSize": 7178,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 17,
+      "floor": 3,
+      "totalFloors": 12,
+      "heating": "Kombi",
+      "furnishing": "Unfurnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500172722871?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500414373334?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500362786075?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500245695056?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500164646182?w=800&q=80&category=interior"
+    ],
+    "agent": {
+      "id": "A41",
+      "name": "Agent 45",
+      "phone": "+32 625 156 7468",
+      "email": "agent58@iwrealty.com",
+      "photo": "/images/icons/png/izmir-sahil-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-08-09T10:50:47.188Z",
+    "updatedAt": "2025-11-13T10:50:47.188Z",
+    "storeId": "store-005"
+  },
+  {
+    "id": "P01102",
+    "type": "rent",
+    "category": {
+      "main": "commercial",
+      "sub": "warehouse"
+    },
+    "title": "Kiralık Depo - Belarus City",
+    "slug": "kiralik-depo-belarus-city-P01102",
+    "description": "Belarus City, Belarus bölgesinde depo. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 28491267,
+    "location": {
+      "country": "BY",
+      "city": "Belarus City",
+      "district": "Belarus City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 273",
+      "coordinates": {
+        "lat": 53.452269016718276,
+        "lng": 27.65281446803685
+      }
+    },
+    "specs": {
+      "netSize": 5234,
+      "grossSize": 6281,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 15,
+      "floor": 2,
+      "totalFloors": 15,
+      "heating": "Klima",
+      "furnishing": "Furnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500080395029?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500655882137?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500178514777?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500135530207?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500840146569?w=800&q=80&category=real-estate"
+    ],
+    "agent": {
+      "id": "A39",
+      "name": "Agent 22",
+      "phone": "+47 285 471 6290",
+      "email": "agent47@iwrealty.com",
+      "photo": "/images/icons/png/london-prime-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": true,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-08-24T10:50:47.188Z",
+    "updatedAt": "2025-11-13T10:50:47.188Z",
+    "storeId": "store-007"
+  }
+]

@@ -1,0 +1,2339 @@
+[
+  {
+    "id": "P06271",
+    "type": "sale",
+    "category": {
+      "main": "government"
+    },
+    "title": "Satılık Hastane - Nigeria City",
+    "slug": "satilik-hastane-nigeria-city-P06271",
+    "description": "Nigeria City, Nigeria bölgesinde hastane. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 7178001,
+    "location": {
+      "country": "NG",
+      "city": "Nigeria City",
+      "district": "Nigeria City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 86",
+      "coordinates": {
+        "lat": 10.34637412937663,
+        "lng": 7.5283133693467486
+      }
+    },
+    "specs": {
+      "netSize": 1030,
+      "grossSize": 1236,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 16,
+      "floor": 4,
+      "totalFloors": 9,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Unfurnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500997868445?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500478056266?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500162580062?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500239488657?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500155164657?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500983962399?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500434284467?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500762041450?w=800&q=80&category=interior"
+    ],
+    "agent": {
+      "id": "A89",
+      "name": "Agent 4",
+      "phone": "+44 561 979 1649",
+      "email": "agent58@iwrealty.com",
+      "photo": "/images/icons/png/paris-heritage-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-11-08T10:50:47.246Z",
+    "updatedAt": "2025-11-13T10:50:47.246Z",
+    "storeId": "store-010"
+  },
+  {
+    "id": "P06272",
+    "type": "rent",
+    "category": {
+      "main": "government"
+    },
+    "title": "Kiralık Hastane - Nigeria Central",
+    "slug": "kiralik-hastane-nigeria-central-P06272",
+    "description": "Nigeria Central, Nigeria bölgesinde hastane. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 26740447,
+    "location": {
+      "country": "NG",
+      "city": "Nigeria Central",
+      "district": "Nigeria Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 584",
+      "coordinates": {
+        "lat": 9.580131030579407,
+        "lng": 7.881169658104099
+      }
+    },
+    "specs": {
+      "netSize": 3364,
+      "grossSize": 4037,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 0,
+      "floor": 9,
+      "totalFloors": 7,
+      "heating": "Kombi",
+      "furnishing": "Unfurnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500290767603?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500990508345?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500762773349?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500483098310?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500965983192?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500112138993?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500884705696?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500768087621?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500134940344?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500211968454?w=800&q=80&category=building"
+    ],
+    "agent": {
+      "id": "A10",
+      "name": "Agent 95",
+      "phone": "+50 980 138 8545",
+      "email": "agent25@iwrealty.com",
+      "photo": "/images/icons/png/luxury-homes-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-04-06T10:50:47.246Z",
+    "updatedAt": "2025-11-13T10:50:47.246Z",
+    "storeId": "store-002"
+  },
+  {
+    "id": "P06273",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Villa - New Nigeria",
+    "slug": "satilik-villa-new-nigeria-P06273",
+    "description": "New Nigeria, Nigeria bölgesinde villa. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 10358657,
+    "location": {
+      "country": "NG",
+      "city": "New Nigeria",
+      "district": "New Nigeria Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 947",
+      "coordinates": {
+        "lat": 9.710841476694394,
+        "lng": 8.476192493189247
+      }
+    },
+    "specs": {
+      "netSize": 455,
+      "grossSize": 546,
+      "rooms": "5+0",
+      "bathrooms": 4,
+      "age": 1,
+      "floor": 5,
+      "totalFloors": 10,
+      "heating": "Merkezi",
+      "furnishing": "Furnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500325725653?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500355224010?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500732962724?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500647120893?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500275491494?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500610757892?w=800&q=80&category=real-estate"
+    ],
+    "agent": {
+      "id": "A27",
+      "name": "Agent 48",
+      "phone": "+51 521 428 2335",
+      "email": "agent24@iwrealty.com",
+      "photo": "/images/icons/png/sydney-coastal-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2024-12-18T10:50:47.246Z",
+    "updatedAt": "2025-11-13T10:50:47.246Z",
+    "storeId": "store-012"
+  },
+  {
+    "id": "P06274",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Müstakil Ev - Nigeria Central",
+    "slug": "kiralik-müstakil-ev-nigeria-central-P06274",
+    "description": "Nigeria Central, Nigeria bölgesinde müstakil ev. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 6448510,
+    "location": {
+      "country": "NG",
+      "city": "Nigeria Central",
+      "district": "Nigeria Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 633",
+      "coordinates": {
+        "lat": 10.27881294107282,
+        "lng": 8.219429689875161
+      }
+    },
+    "specs": {
+      "netSize": 437,
+      "grossSize": 524,
+      "rooms": "2+0",
+      "bathrooms": 3,
+      "age": 5,
+      "floor": 11,
+      "totalFloors": 13,
+      "heating": "Klima",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500118616345?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500615163159?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500114773390?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500940049799?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500492271816?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500936721526?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500607838036?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500280182451?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500368689640?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500550248407?w=800&q=80&category=real-estate"
+    ],
+    "agent": {
+      "id": "A6",
+      "name": "Agent 39",
+      "phone": "+61 107 130 2280",
+      "email": "agent86@iwrealty.com",
+      "photo": "/images/icons/png/london-prime-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": true,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-07-07T10:50:47.246Z",
+    "updatedAt": "2025-11-13T10:50:47.246Z",
+    "storeId": "store-007"
+  },
+  {
+    "id": "P06275",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Müstakil Ev - Abuja",
+    "slug": "satilik-müstakil-ev-abuja-P06275",
+    "description": "Abuja, Nigeria bölgesinde müstakil ev. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 7671332,
+    "location": {
+      "country": "NG",
+      "city": "Abuja",
+      "district": "Abuja Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 62",
+      "coordinates": {
+        "lat": 9.537947862349771,
+        "lng": 7.838565061769383
+      }
+    },
+    "specs": {
+      "netSize": 413,
+      "grossSize": 496,
+      "rooms": "1+0",
+      "bathrooms": 1,
+      "age": 1,
+      "floor": 12,
+      "totalFloors": 9,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500293630754?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500868197892?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500244077843?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500372215425?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500703448225?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500927797444?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500412601429?w=800&q=80&category=real-estate"
+    ],
+    "agent": {
+      "id": "A76",
+      "name": "Agent 7",
+      "phone": "+94 741 830 2830",
+      "email": "agent40@iwrealty.com",
+      "photo": "/images/icons/png/paris-heritage-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": false,
+      "hasBalcony": false,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-03-28T10:50:47.246Z",
+    "updatedAt": "2025-11-13T10:50:47.246Z",
+    "storeId": "store-010"
+  },
+  {
+    "id": "P06276",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Residence - Nigeria Central",
+    "slug": "kiralik-residence-nigeria-central-P06276",
+    "description": "Nigeria Central, Nigeria bölgesinde residence. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 3734612,
+    "location": {
+      "country": "NG",
+      "city": "Nigeria Central",
+      "district": "Nigeria Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 713",
+      "coordinates": {
+        "lat": 10.13329925636746,
+        "lng": 7.8601134198203395
+      }
+    },
+    "specs": {
+      "netSize": 366,
+      "grossSize": 439,
+      "rooms": "4+1",
+      "bathrooms": 1,
+      "age": 18,
+      "floor": 5,
+      "totalFloors": 5,
+      "heating": "Merkezi",
+      "furnishing": "Furnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500845036119?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500544037368?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500441497581?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500948152073?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500788339350?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500259926750?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500593515468?w=800&q=80&category=interior"
+    ],
+    "agent": {
+      "id": "A80",
+      "name": "Agent 9",
+      "phone": "+78 255 212 6203",
+      "email": "agent33@iwrealty.com",
+      "photo": "/images/icons/png/izmir-sahil-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-03-17T10:50:47.246Z",
+    "updatedAt": "2025-11-13T10:50:47.246Z",
+    "storeId": "store-005"
+  },
+  {
+    "id": "P06277",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Daire - Abuja",
+    "slug": "satilik-daire-abuja-P06277",
+    "description": "Abuja, Nigeria bölgesinde daire. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 4573813,
+    "location": {
+      "country": "NG",
+      "city": "Abuja",
+      "district": "Abuja Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 946",
+      "coordinates": {
+        "lat": 9.656756784128557,
+        "lng": 7.746152318225399
+      }
+    },
+    "specs": {
+      "netSize": 227,
+      "grossSize": 272,
+      "rooms": "2+2",
+      "bathrooms": 4,
+      "age": 4,
+      "floor": 1,
+      "totalFloors": 20,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Unfurnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500472975513?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500501986117?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500365700582?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500132186445?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500158447851?w=800&q=80&category=architecture"
+    ],
+    "agent": {
+      "id": "A96",
+      "name": "Agent 13",
+      "phone": "+16 643 746 3208",
+      "email": "agent98@iwrealty.com",
+      "photo": "/images/icons/png/sg-harbour-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": false,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": true,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-04-06T10:50:47.246Z",
+    "updatedAt": "2025-11-13T10:50:47.246Z",
+    "storeId": "store-011"
+  },
+  {
+    "id": "P06278",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Daire - Nigeria Central",
+    "slug": "kiralik-daire-nigeria-central-P06278",
+    "description": "Nigeria Central, Nigeria bölgesinde daire. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 11085336,
+    "location": {
+      "country": "NG",
+      "city": "Nigeria Central",
+      "district": "Nigeria Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 599",
+      "coordinates": {
+        "lat": 10.435346358454499,
+        "lng": 7.568200272697371
+      }
+    },
+    "specs": {
+      "netSize": 350,
+      "grossSize": 420,
+      "rooms": "5+1",
+      "bathrooms": 4,
+      "age": 4,
+      "floor": 13,
+      "totalFloors": 9,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500264069814?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500048043613?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500638099365?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500049038903?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500254591254?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500393654518?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500619865873?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500471140271?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500322314963?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500420784162?w=800&q=80&category=interior"
+    ],
+    "agent": {
+      "id": "A21",
+      "name": "Agent 22",
+      "phone": "+73 160 226 4932",
+      "email": "agent60@iwrealty.com",
+      "photo": "/images/icons/png/sg-harbour-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-01-19T10:50:47.246Z",
+    "updatedAt": "2025-11-13T10:50:47.246Z",
+    "storeId": "store-011"
+  },
+  {
+    "id": "P06279",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Daire - Nigeria Central",
+    "slug": "satilik-daire-nigeria-central-P06279",
+    "description": "Nigeria Central, Nigeria bölgesinde daire. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 1156357,
+    "location": {
+      "country": "NG",
+      "city": "Nigeria Central",
+      "district": "Nigeria Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 86",
+      "coordinates": {
+        "lat": 10.418012270034927,
+        "lng": 7.919785791283754
+      }
+    },
+    "specs": {
+      "netSize": 478,
+      "grossSize": 574,
+      "rooms": "2+2",
+      "bathrooms": 4,
+      "age": 5,
+      "floor": 3,
+      "totalFloors": 14,
+      "heating": "Kombi",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500033757903?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500216621227?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500936637219?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500289499546?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500522543921?w=800&q=80&category=building"
+    ],
+    "agent": {
+      "id": "A68",
+      "name": "Agent 86",
+      "phone": "+12 831 523 1510",
+      "email": "agent88@iwrealty.com",
+      "photo": "/images/icons/png/luxury-homes-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": false,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2024-12-05T10:50:47.246Z",
+    "updatedAt": "2025-11-13T10:50:47.246Z",
+    "storeId": "store-002"
+  },
+  {
+    "id": "P06280",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Residence - Nigeria City",
+    "slug": "kiralik-residence-nigeria-city-P06280",
+    "description": "Nigeria City, Nigeria bölgesinde residence. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 12031301,
+    "location": {
+      "country": "NG",
+      "city": "Nigeria City",
+      "district": "Nigeria City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 31",
+      "coordinates": {
+        "lat": 10.082989641480792,
+        "lng": 7.857595921533177
+      }
+    },
+    "specs": {
+      "netSize": 416,
+      "grossSize": 499,
+      "rooms": "3+0",
+      "bathrooms": 1,
+      "age": 5,
+      "floor": 9,
+      "totalFloors": 9,
+      "heating": "Kombi",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500520889059?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500415839978?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500490381967?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500334886769?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500437318130?w=800&q=80&category=interior"
+    ],
+    "agent": {
+      "id": "A52",
+      "name": "Agent 80",
+      "phone": "+10 366 239 7642",
+      "email": "agent67@iwrealty.com",
+      "photo": "/images/icons/png/london-prime-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": false,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-07-13T10:50:47.246Z",
+    "updatedAt": "2025-11-13T10:50:47.246Z",
+    "storeId": "store-007"
+  },
+  {
+    "id": "P06281",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Müstakil Ev - Abuja",
+    "slug": "satilik-müstakil-ev-abuja-P06281",
+    "description": "Abuja, Nigeria bölgesinde müstakil ev. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 7850571,
+    "location": {
+      "country": "NG",
+      "city": "Abuja",
+      "district": "Abuja Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 848",
+      "coordinates": {
+        "lat": 9.626687137998532,
+        "lng": 8.363840844477918
+      }
+    },
+    "specs": {
+      "netSize": 429,
+      "grossSize": 515,
+      "rooms": "2+2",
+      "bathrooms": 1,
+      "age": 7,
+      "floor": 11,
+      "totalFloors": 8,
+      "heating": "Merkezi",
+      "furnishing": "Furnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500955168892?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500407806837?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500973491048?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500082408305?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500782717497?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500534474403?w=800&q=80&category=architecture"
+    ],
+    "agent": {
+      "id": "A45",
+      "name": "Agent 25",
+      "phone": "+71 454 455 5194",
+      "email": "agent44@iwrealty.com",
+      "photo": "/images/icons/png/ny-skyline-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-05-02T10:50:47.246Z",
+    "updatedAt": "2025-11-13T10:50:47.246Z",
+    "storeId": "store-008"
+  },
+  {
+    "id": "P06282",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Müstakil Ev - Nigeria City",
+    "slug": "kiralik-müstakil-ev-nigeria-city-P06282",
+    "description": "Nigeria City, Nigeria bölgesinde müstakil ev. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 3742366,
+    "location": {
+      "country": "NG",
+      "city": "Nigeria City",
+      "district": "Nigeria City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 741",
+      "coordinates": {
+        "lat": 9.569144083591697,
+        "lng": 8.079214715238052
+      }
+    },
+    "specs": {
+      "netSize": 376,
+      "grossSize": 451,
+      "rooms": "3+2",
+      "bathrooms": 3,
+      "age": 4,
+      "floor": 5,
+      "totalFloors": 9,
+      "heating": "Klima",
+      "furnishing": "Unfurnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500652860728?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500388498987?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500435697787?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500067119412?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500479345594?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500195515275?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500780080550?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500041529998?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500126070758?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500939579506?w=800&q=80&category=architecture"
+    ],
+    "agent": {
+      "id": "A45",
+      "name": "Agent 59",
+      "phone": "+50 394 225 8407",
+      "email": "agent52@iwrealty.com",
+      "photo": "/images/icons/png/sg-harbour-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": false,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-02-24T10:50:47.246Z",
+    "updatedAt": "2025-11-13T10:50:47.246Z",
+    "storeId": "store-011"
+  },
+  {
+    "id": "P06283",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Residence - New Nigeria",
+    "slug": "satilik-residence-new-nigeria-P06283",
+    "description": "New Nigeria, Nigeria bölgesinde residence. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 4771372,
+    "location": {
+      "country": "NG",
+      "city": "New Nigeria",
+      "district": "New Nigeria Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 405",
+      "coordinates": {
+        "lat": 10.030999954394764,
+        "lng": 8.485393017554923
+      }
+    },
+    "specs": {
+      "netSize": 388,
+      "grossSize": 466,
+      "rooms": "2+1",
+      "bathrooms": 4,
+      "age": 17,
+      "floor": 6,
+      "totalFloors": 16,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500457724101?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500354247896?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500922705158?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500119854380?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500943200698?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500835029017?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500176029796?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500412751261?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500198758088?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500282345348?w=800&q=80&category=house"
+    ],
+    "agent": {
+      "id": "A80",
+      "name": "Agent 24",
+      "phone": "+94 780 952 6804",
+      "email": "agent61@iwrealty.com",
+      "photo": "/images/icons/png/sg-harbour-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-09-16T10:50:47.246Z",
+    "updatedAt": "2025-11-13T10:50:47.246Z",
+    "storeId": "store-011"
+  },
+  {
+    "id": "P06284",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Villa - Abuja",
+    "slug": "kiralik-villa-abuja-P06284",
+    "description": "Abuja, Nigeria bölgesinde villa. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 6422266,
+    "location": {
+      "country": "NG",
+      "city": "Abuja",
+      "district": "Abuja Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 401",
+      "coordinates": {
+        "lat": 9.561478561930658,
+        "lng": 7.626429411874188
+      }
+    },
+    "specs": {
+      "netSize": 463,
+      "grossSize": 556,
+      "rooms": "5+2",
+      "bathrooms": 1,
+      "age": 11,
+      "floor": 12,
+      "totalFloors": 12,
+      "heating": "Klima",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500467132681?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500955825266?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500017231067?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500267151473?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500619115345?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500973216804?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500015400355?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500463789475?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500662796365?w=800&q=80&category=real-estate"
+    ],
+    "agent": {
+      "id": "A47",
+      "name": "Agent 44",
+      "phone": "+12 983 462 3668",
+      "email": "agent62@iwrealty.com",
+      "photo": "/images/icons/png/ankara-modern-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-02-11T10:50:47.246Z",
+    "updatedAt": "2025-11-13T10:50:47.246Z",
+    "storeId": "store-003"
+  },
+  {
+    "id": "P06285",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Residence - Nigeria Central",
+    "slug": "satilik-residence-nigeria-central-P06285",
+    "description": "Nigeria Central, Nigeria bölgesinde residence. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 11932564,
+    "location": {
+      "country": "NG",
+      "city": "Nigeria Central",
+      "district": "Nigeria Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 88",
+      "coordinates": {
+        "lat": 10.443499790825747,
+        "lng": 7.790234732973368
+      }
+    },
+    "specs": {
+      "netSize": 443,
+      "grossSize": 532,
+      "rooms": "3+0",
+      "bathrooms": 3,
+      "age": 5,
+      "floor": 7,
+      "totalFloors": 8,
+      "heating": "Kombi",
+      "furnishing": "Unfurnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500335941350?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500600089582?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500941002577?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500729539042?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500889234479?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500643207192?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500852006625?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500514920329?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500338490021?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500061464028?w=800&q=80&category=house"
+    ],
+    "agent": {
+      "id": "A94",
+      "name": "Agent 53",
+      "phone": "+66 455 995 5473",
+      "email": "agent52@iwrealty.com",
+      "photo": "/images/icons/png/london-prime-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-04-21T10:50:47.246Z",
+    "updatedAt": "2025-11-13T10:50:47.246Z",
+    "storeId": "store-007"
+  },
+  {
+    "id": "P06286",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Residence - Nigeria Central",
+    "slug": "kiralik-residence-nigeria-central-P06286",
+    "description": "Nigeria Central, Nigeria bölgesinde residence. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 10965470,
+    "location": {
+      "country": "NG",
+      "city": "Nigeria Central",
+      "district": "Nigeria Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 588",
+      "coordinates": {
+        "lat": 9.598056115334188,
+        "lng": 7.774681768760138
+      }
+    },
+    "specs": {
+      "netSize": 477,
+      "grossSize": 572,
+      "rooms": "1+2",
+      "bathrooms": 4,
+      "age": 14,
+      "floor": 15,
+      "totalFloors": 9,
+      "heating": "Klima",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500975973448?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500246601016?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500357633308?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500283066427?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500420546951?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500372722819?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500458057946?w=800&q=80&category=building"
+    ],
+    "agent": {
+      "id": "A79",
+      "name": "Agent 86",
+      "phone": "+52 244 892 4841",
+      "email": "agent86@iwrealty.com",
+      "photo": "/images/icons/png/luxury-homes-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-08-15T10:50:47.246Z",
+    "updatedAt": "2025-11-13T10:50:47.246Z",
+    "storeId": "store-002"
+  },
+  {
+    "id": "P06287",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Villa - New Nigeria",
+    "slug": "satilik-villa-new-nigeria-P06287",
+    "description": "New Nigeria, Nigeria bölgesinde villa. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 5957262,
+    "location": {
+      "country": "NG",
+      "city": "New Nigeria",
+      "district": "New Nigeria Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 907",
+      "coordinates": {
+        "lat": 10.310318241602864,
+        "lng": 8.45871931347036
+      }
+    },
+    "specs": {
+      "netSize": 386,
+      "grossSize": 463,
+      "rooms": "3+0",
+      "bathrooms": 4,
+      "age": 5,
+      "floor": 13,
+      "totalFloors": 8,
+      "heating": "Klima",
+      "furnishing": "Furnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500874833219?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500695632102?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500167442276?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500643472560?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500479566238?w=800&q=80&category=building"
+    ],
+    "agent": {
+      "id": "A31",
+      "name": "Agent 69",
+      "phone": "+58 718 771 9193",
+      "email": "agent26@iwrealty.com",
+      "photo": "/images/icons/png/ny-skyline-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": false,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-08-21T10:50:47.246Z",
+    "updatedAt": "2025-11-13T10:50:47.246Z",
+    "storeId": "store-008"
+  },
+  {
+    "id": "P06288",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Daire - Abuja",
+    "slug": "kiralik-daire-abuja-P06288",
+    "description": "Abuja, Nigeria bölgesinde daire. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 5915088,
+    "location": {
+      "country": "NG",
+      "city": "Abuja",
+      "district": "Abuja Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 899",
+      "coordinates": {
+        "lat": 9.726223150276953,
+        "lng": 7.892821125252762
+      }
+    },
+    "specs": {
+      "netSize": 162,
+      "grossSize": 194,
+      "rooms": "1+2",
+      "bathrooms": 2,
+      "age": 10,
+      "floor": 3,
+      "totalFloors": 5,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Unfurnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500484861031?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500686628873?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500922556080?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500901638707?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500085577088?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500639746983?w=800&q=80&category=architecture"
+    ],
+    "agent": {
+      "id": "A79",
+      "name": "Agent 23",
+      "phone": "+42 688 814 5562",
+      "email": "agent84@iwrealty.com",
+      "photo": "/images/icons/png/luxury-homes-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": true,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-08-17T10:50:47.246Z",
+    "updatedAt": "2025-11-13T10:50:47.246Z",
+    "storeId": "store-002"
+  },
+  {
+    "id": "P06289",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Residence - Nigeria City",
+    "slug": "satilik-residence-nigeria-city-P06289",
+    "description": "Nigeria City, Nigeria bölgesinde residence. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 569947,
+    "location": {
+      "country": "NG",
+      "city": "Nigeria City",
+      "district": "Nigeria City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 661",
+      "coordinates": {
+        "lat": 10.237701822572784,
+        "lng": 8.09033346132359
+      }
+    },
+    "specs": {
+      "netSize": 430,
+      "grossSize": 516,
+      "rooms": "3+0",
+      "bathrooms": 3,
+      "age": 14,
+      "floor": 14,
+      "totalFloors": 13,
+      "heating": "Merkezi",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500175463367?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500555350886?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500820790732?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500729668350?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500473858220?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500584704361?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500639791115?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500913320105?w=800&q=80&category=building"
+    ],
+    "agent": {
+      "id": "A37",
+      "name": "Agent 24",
+      "phone": "+81 280 245 3837",
+      "email": "agent16@iwrealty.com",
+      "photo": "/images/icons/png/izmir-sahil-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": false,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": true,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-01-02T10:50:47.246Z",
+    "updatedAt": "2025-11-13T10:50:47.246Z",
+    "storeId": "store-005"
+  },
+  {
+    "id": "P06290",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Villa - New Nigeria",
+    "slug": "kiralik-villa-new-nigeria-P06290",
+    "description": "New Nigeria, Nigeria bölgesinde villa. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 10150975,
+    "location": {
+      "country": "NG",
+      "city": "New Nigeria",
+      "district": "New Nigeria Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 675",
+      "coordinates": {
+        "lat": 9.747420275425826,
+        "lng": 7.800296942315359
+      }
+    },
+    "specs": {
+      "netSize": 143,
+      "grossSize": 172,
+      "rooms": "4+1",
+      "bathrooms": 4,
+      "age": 15,
+      "floor": 1,
+      "totalFloors": 18,
+      "heating": "Klima",
+      "furnishing": "Furnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500093705393?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500544006877?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500331942619?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500560291050?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500287680952?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500503929076?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500991091229?w=800&q=80&category=architecture"
+    ],
+    "agent": {
+      "id": "A58",
+      "name": "Agent 97",
+      "phone": "+95 439 152 3410",
+      "email": "agent9@iwrealty.com",
+      "photo": "/images/icons/png/antalya-investment-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": false,
+      "hasBalcony": false,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-10-31T10:50:47.246Z",
+    "updatedAt": "2025-11-13T10:50:47.246Z",
+    "storeId": "store-006"
+  },
+  {
+    "id": "P06291",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Residence - New Nigeria",
+    "slug": "satilik-residence-new-nigeria-P06291",
+    "description": "New Nigeria, Nigeria bölgesinde residence. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 11670619,
+    "location": {
+      "country": "NG",
+      "city": "New Nigeria",
+      "district": "New Nigeria Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 862",
+      "coordinates": {
+        "lat": 10.33100148067496,
+        "lng": 8.368966661615703
+      }
+    },
+    "specs": {
+      "netSize": 387,
+      "grossSize": 464,
+      "rooms": "5+0",
+      "bathrooms": 3,
+      "age": 12,
+      "floor": 13,
+      "totalFloors": 12,
+      "heating": "Kombi",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500803586106?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500714765339?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500520463780?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500893108446?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500476244426?w=800&q=80&category=building"
+    ],
+    "agent": {
+      "id": "A85",
+      "name": "Agent 28",
+      "phone": "+90 192 730 3261",
+      "email": "agent67@iwrealty.com",
+      "photo": "/images/icons/png/luxury-homes-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-07-12T10:50:47.246Z",
+    "updatedAt": "2025-11-13T10:50:47.246Z",
+    "storeId": "store-002"
+  },
+  {
+    "id": "P06292",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Residence - Abuja",
+    "slug": "kiralik-residence-abuja-P06292",
+    "description": "Abuja, Nigeria bölgesinde residence. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 2636249,
+    "location": {
+      "country": "NG",
+      "city": "Abuja",
+      "district": "Abuja Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 72",
+      "coordinates": {
+        "lat": 10.101195753027111,
+        "lng": 8.380078943512961
+      }
+    },
+    "specs": {
+      "netSize": 179,
+      "grossSize": 215,
+      "rooms": "2+2",
+      "bathrooms": 1,
+      "age": 7,
+      "floor": 10,
+      "totalFloors": 7,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Furnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500416123778?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500363434827?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500040407544?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500490765446?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500742600039?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500878873935?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500012088064?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500786705517?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500007218137?w=800&q=80&category=interior"
+    ],
+    "agent": {
+      "id": "A28",
+      "name": "Agent 36",
+      "phone": "+71 794 847 6309",
+      "email": "agent78@iwrealty.com",
+      "photo": "/images/icons/png/izmir-sahil-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": false,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-05-21T10:50:47.246Z",
+    "updatedAt": "2025-11-13T10:50:47.246Z",
+    "storeId": "store-005"
+  },
+  {
+    "id": "P06293",
+    "type": "sale",
+    "category": {
+      "main": "commercial",
+      "sub": "hospital"
+    },
+    "title": "Satılık Hastane - Nigeria Central",
+    "slug": "satilik-hastane-nigeria-central-P06293",
+    "description": "Nigeria Central, Nigeria bölgesinde hastane. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 29159615,
+    "location": {
+      "country": "NG",
+      "city": "Nigeria Central",
+      "district": "Nigeria Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 719",
+      "coordinates": {
+        "lat": 9.51071050475421,
+        "lng": 7.84421602995149
+      }
+    },
+    "specs": {
+      "netSize": 2918,
+      "grossSize": 3502,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 9,
+      "floor": 12,
+      "totalFloors": 6,
+      "heating": "Merkezi",
+      "furnishing": "Unfurnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500956935135?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500908819923?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500088342338?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500607003159?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500792214191?w=800&q=80&category=architecture"
+    ],
+    "agent": {
+      "id": "A3",
+      "name": "Agent 53",
+      "phone": "+11 277 339 5648",
+      "email": "agent36@iwrealty.com",
+      "photo": "/images/icons/png/izmir-sahil-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-10-01T10:50:47.246Z",
+    "updatedAt": "2025-11-13T10:50:47.246Z",
+    "storeId": "store-005"
+  },
+  {
+    "id": "P06294",
+    "type": "rent",
+    "category": {
+      "main": "commercial",
+      "sub": "hospital"
+    },
+    "title": "Kiralık Hastane - New Nigeria",
+    "slug": "kiralik-hastane-new-nigeria-P06294",
+    "description": "New Nigeria, Nigeria bölgesinde hastane. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 32025341,
+    "location": {
+      "country": "NG",
+      "city": "New Nigeria",
+      "district": "New Nigeria Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 893",
+      "coordinates": {
+        "lat": 9.915271926809577,
+        "lng": 7.924691227415555
+      }
+    },
+    "specs": {
+      "netSize": 6264,
+      "grossSize": 7517,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 5,
+      "floor": 3,
+      "totalFloors": 7,
+      "heating": "Kombi",
+      "furnishing": "Furnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500313716586?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500642442307?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500211933549?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500863598885?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500934871982?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500585587200?w=800&q=80&category=house"
+    ],
+    "agent": {
+      "id": "A70",
+      "name": "Agent 63",
+      "phone": "+83 173 642 2550",
+      "email": "agent97@iwrealty.com",
+      "photo": "/images/icons/png/luxury-homes-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-10-05T10:50:47.246Z",
+    "updatedAt": "2025-11-13T10:50:47.246Z",
+    "storeId": "store-002"
+  },
+  {
+    "id": "P06295",
+    "type": "sale",
+    "category": {
+      "main": "commercial",
+      "sub": "clinic"
+    },
+    "title": "Satılık Klinik - Nigeria Central",
+    "slug": "satilik-klinik-nigeria-central-P06295",
+    "description": "Nigeria Central, Nigeria bölgesinde klinik. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 18107466,
+    "location": {
+      "country": "NG",
+      "city": "Nigeria Central",
+      "district": "Nigeria Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 985",
+      "coordinates": {
+        "lat": 9.570293123817962,
+        "lng": 7.750307418854194
+      }
+    },
+    "specs": {
+      "netSize": 1108,
+      "grossSize": 1330,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 16,
+      "floor": 4,
+      "totalFloors": 7,
+      "heating": "Kombi",
+      "furnishing": "Unfurnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500736960866?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500606852804?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500367830056?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500967543662?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500394511651?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500448507493?w=800&q=80&category=building"
+    ],
+    "agent": {
+      "id": "A8",
+      "name": "Agent 92",
+      "phone": "+46 442 365 5095",
+      "email": "agent43@iwrealty.com",
+      "photo": "/images/icons/png/london-prime-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-10-24T10:50:47.246Z",
+    "updatedAt": "2025-11-13T10:50:47.246Z",
+    "storeId": "store-007"
+  },
+  {
+    "id": "P06296",
+    "type": "rent",
+    "category": {
+      "main": "commercial",
+      "sub": "clinic"
+    },
+    "title": "Kiralık Klinik - Nigeria Central",
+    "slug": "kiralik-klinik-nigeria-central-P06296",
+    "description": "Nigeria Central, Nigeria bölgesinde klinik. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 2272531,
+    "location": {
+      "country": "NG",
+      "city": "Nigeria Central",
+      "district": "Nigeria Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 603",
+      "coordinates": {
+        "lat": 10.462357084148708,
+        "lng": 8.140996092128978
+      }
+    },
+    "specs": {
+      "netSize": 1325,
+      "grossSize": 1590,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 13,
+      "floor": 5,
+      "totalFloors": 11,
+      "heating": "Klima",
+      "furnishing": "Unfurnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500836853785?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500795974133?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500584472383?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500401250251?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500528463316?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500310219436?w=800&q=80&category=real-estate"
+    ],
+    "agent": {
+      "id": "A77",
+      "name": "Agent 82",
+      "phone": "+39 450 972 2425",
+      "email": "agent90@iwrealty.com",
+      "photo": "/images/icons/png/dubai-property-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": false,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2024-12-25T10:50:47.246Z",
+    "updatedAt": "2025-11-13T10:50:47.246Z",
+    "storeId": "store-004"
+  },
+  {
+    "id": "P06297",
+    "type": "sale",
+    "category": {
+      "main": "commercial",
+      "sub": "shop"
+    },
+    "title": "Satılık Dükkan - New Nigeria",
+    "slug": "satilik-dükkan-new-nigeria-P06297",
+    "description": "New Nigeria, Nigeria bölgesinde dükkan. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 2083711,
+    "location": {
+      "country": "NG",
+      "city": "New Nigeria",
+      "district": "New Nigeria Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 597",
+      "coordinates": {
+        "lat": 10.275479632200938,
+        "lng": 7.709834306299566
+      }
+    },
+    "specs": {
+      "netSize": 188,
+      "grossSize": 226,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 17,
+      "floor": 13,
+      "totalFloors": 15,
+      "heating": "Kombi",
+      "furnishing": "Furnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500239417900?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500478515220?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500236818207?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500575469413?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500518212020?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500415096913?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500781856826?w=800&q=80&category=real-estate"
+    ],
+    "agent": {
+      "id": "A37",
+      "name": "Agent 12",
+      "phone": "+46 155 661 6508",
+      "email": "agent28@iwrealty.com",
+      "photo": "/images/icons/png/paris-heritage-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-07-21T10:50:47.246Z",
+    "updatedAt": "2025-11-13T10:50:47.246Z",
+    "storeId": "store-010"
+  },
+  {
+    "id": "P06298",
+    "type": "rent",
+    "category": {
+      "main": "commercial",
+      "sub": "shop"
+    },
+    "title": "Kiralık Dükkan - Nigeria City",
+    "slug": "kiralik-dükkan-nigeria-city-P06298",
+    "description": "Nigeria City, Nigeria bölgesinde dükkan. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 7505120,
+    "location": {
+      "country": "NG",
+      "city": "Nigeria City",
+      "district": "Nigeria City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 367",
+      "coordinates": {
+        "lat": 9.719730157224822,
+        "lng": 8.486386800868901
+      }
+    },
+    "specs": {
+      "netSize": 475,
+      "grossSize": 570,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 11,
+      "floor": 4,
+      "totalFloors": 20,
+      "heating": "Kombi",
+      "furnishing": "Unfurnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500457539416?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500425217069?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500998727241?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500779593802?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500652702932?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500949428132?w=800&q=80&category=house"
+    ],
+    "agent": {
+      "id": "A66",
+      "name": "Agent 86",
+      "phone": "+30 745 852 1529",
+      "email": "agent65@iwrealty.com",
+      "photo": "/images/icons/png/paris-heritage-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": false,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": true,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-04-04T10:50:47.246Z",
+    "updatedAt": "2025-11-13T10:50:47.246Z",
+    "storeId": "store-010"
+  },
+  {
+    "id": "P06299",
+    "type": "sale",
+    "category": {
+      "main": "commercial",
+      "sub": "office"
+    },
+    "title": "Satılık Ofis - Nigeria Central",
+    "slug": "satilik-ofis-nigeria-central-P06299",
+    "description": "Nigeria Central, Nigeria bölgesinde ofis. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 11210607,
+    "location": {
+      "country": "NG",
+      "city": "Nigeria Central",
+      "district": "Nigeria Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 483",
+      "coordinates": {
+        "lat": 9.795198516007517,
+        "lng": 7.986204671837177
+      }
+    },
+    "specs": {
+      "netSize": 387,
+      "grossSize": 464,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 9,
+      "floor": 4,
+      "totalFloors": 16,
+      "heating": "Kombi",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500772766361?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500954925647?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500926765284?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500819726549?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500362142786?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500964958828?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500938525594?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500386849253?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500164185008?w=800&q=80&category=interior"
+    ],
+    "agent": {
+      "id": "A63",
+      "name": "Agent 44",
+      "phone": "+32 978 612 6510",
+      "email": "agent56@iwrealty.com",
+      "photo": "/images/icons/png/ankara-modern-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-08-23T10:50:47.246Z",
+    "updatedAt": "2025-11-13T10:50:47.246Z",
+    "storeId": "store-003"
+  },
+  {
+    "id": "P06300",
+    "type": "rent",
+    "category": {
+      "main": "commercial",
+      "sub": "office"
+    },
+    "title": "Kiralık Ofis - Nigeria City",
+    "slug": "kiralik-ofis-nigeria-city-P06300",
+    "description": "Nigeria City, Nigeria bölgesinde ofis. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 9038967,
+    "location": {
+      "country": "NG",
+      "city": "Nigeria City",
+      "district": "Nigeria City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 749",
+      "coordinates": {
+        "lat": 10.243022007042361,
+        "lng": 7.721850743530746
+      }
+    },
+    "specs": {
+      "netSize": 476,
+      "grossSize": 571,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 4,
+      "floor": 10,
+      "totalFloors": 6,
+      "heating": "Kombi",
+      "furnishing": "Unfurnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500633767068?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500216387256?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500722772258?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500371034159?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500726437005?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500179503130?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500581093251?w=800&q=80&category=real-estate"
+    ],
+    "agent": {
+      "id": "A54",
+      "name": "Agent 92",
+      "phone": "+32 727 948 5566",
+      "email": "agent80@iwrealty.com",
+      "photo": "/images/icons/png/luxury-homes-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-10-11T10:50:47.246Z",
+    "updatedAt": "2025-11-13T10:50:47.246Z",
+    "storeId": "store-002"
+  },
+  {
+    "id": "P06301",
+    "type": "sale",
+    "category": {
+      "main": "commercial",
+      "sub": "mall"
+    },
+    "title": "Satılık AVM - Nigeria City",
+    "slug": "satilik-avm-nigeria-city-P06301",
+    "description": "Nigeria City, Nigeria bölgesinde avm. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 109772136,
+    "location": {
+      "country": "NG",
+      "city": "Nigeria City",
+      "district": "Nigeria City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 834",
+      "coordinates": {
+        "lat": 9.821541913543365,
+        "lng": 7.7120304132045705
+      }
+    },
+    "specs": {
+      "netSize": 22080,
+      "grossSize": 26496,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 2,
+      "floor": 13,
+      "totalFloors": 5,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Unfurnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500046235635?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500614885005?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500595317409?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500208075142?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500607187691?w=800&q=80&category=architecture"
+    ],
+    "agent": {
+      "id": "A73",
+      "name": "Agent 73",
+      "phone": "+20 959 338 9544",
+      "email": "agent58@iwrealty.com",
+      "photo": "/images/icons/png/ny-skyline-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": false,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-01-21T10:50:47.246Z",
+    "updatedAt": "2025-11-13T10:50:47.246Z",
+    "storeId": "store-008"
+  },
+  {
+    "id": "P06302",
+    "type": "rent",
+    "category": {
+      "main": "commercial",
+      "sub": "mall"
+    },
+    "title": "Kiralık AVM - New Nigeria",
+    "slug": "kiralik-avm-new-nigeria-P06302",
+    "description": "New Nigeria, Nigeria bölgesinde avm. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 348416341,
+    "location": {
+      "country": "NG",
+      "city": "New Nigeria",
+      "district": "New Nigeria Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 625",
+      "coordinates": {
+        "lat": 10.265243641178952,
+        "lng": 7.771071554412991
+      }
+    },
+    "specs": {
+      "netSize": 28210,
+      "grossSize": 33852,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 18,
+      "floor": 6,
+      "totalFloors": 6,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500652133896?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500196337358?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500350949753?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500468508946?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500836574687?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500935569653?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500718677350?w=800&q=80&category=interior"
+    ],
+    "agent": {
+      "id": "A37",
+      "name": "Agent 36",
+      "phone": "+77 213 408 8600",
+      "email": "agent57@iwrealty.com",
+      "photo": "/images/icons/png/paris-heritage-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": true,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-01-29T10:50:47.246Z",
+    "updatedAt": "2025-11-13T10:50:47.246Z",
+    "storeId": "store-010"
+  },
+  {
+    "id": "P06303",
+    "type": "sale",
+    "category": {
+      "main": "commercial",
+      "sub": "hotel"
+    },
+    "title": "Satılık Otel - Nigeria City",
+    "slug": "satilik-otel-nigeria-city-P06303",
+    "description": "Nigeria City, Nigeria bölgesinde otel. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 178244737,
+    "location": {
+      "country": "NG",
+      "city": "Nigeria City",
+      "district": "Nigeria City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 163",
+      "coordinates": {
+        "lat": 9.754598698741031,
+        "lng": 8.385132989755837
+      }
+    },
+    "specs": {
+      "netSize": 4527,
+      "grossSize": 5432,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 5,
+      "floor": 6,
+      "totalFloors": 11,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500049334475?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500324939461?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500183580867?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500489598479?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500477647050?w=800&q=80&category=architecture"
+    ],
+    "agent": {
+      "id": "A86",
+      "name": "Agent 53",
+      "phone": "+47 170 134 5491",
+      "email": "agent74@iwrealty.com",
+      "photo": "/images/icons/png/ny-skyline-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-10-22T10:50:47.246Z",
+    "updatedAt": "2025-11-13T10:50:47.246Z",
+    "storeId": "store-008"
+  },
+  {
+    "id": "P06304",
+    "type": "rent",
+    "category": {
+      "main": "commercial",
+      "sub": "hotel"
+    },
+    "title": "Kiralık Otel - Abuja",
+    "slug": "kiralik-otel-abuja-P06304",
+    "description": "Abuja, Nigeria bölgesinde otel. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 127210803,
+    "location": {
+      "country": "NG",
+      "city": "Abuja",
+      "district": "Abuja Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 419",
+      "coordinates": {
+        "lat": 10.266237538294726,
+        "lng": 8.289405825351738
+      }
+    },
+    "specs": {
+      "netSize": 4230,
+      "grossSize": 5076,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 7,
+      "floor": 9,
+      "totalFloors": 9,
+      "heating": "Merkezi",
+      "furnishing": "Unfurnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500874431221?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500388456845?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500132000514?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500025282815?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500902388186?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500032661668?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500413773787?w=800&q=80&category=architecture"
+    ],
+    "agent": {
+      "id": "A14",
+      "name": "Agent 40",
+      "phone": "+36 793 695 6152",
+      "email": "agent53@iwrealty.com",
+      "photo": "/images/icons/png/antalya-investment-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-02-12T10:50:47.246Z",
+    "updatedAt": "2025-11-13T10:50:47.246Z",
+    "storeId": "store-006"
+  },
+  {
+    "id": "P06305",
+    "type": "sale",
+    "category": {
+      "main": "commercial",
+      "sub": "restaurant"
+    },
+    "title": "Satılık Restoran - Abuja",
+    "slug": "satilik-restoran-abuja-P06305",
+    "description": "Abuja, Nigeria bölgesinde restoran. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 5816161,
+    "location": {
+      "country": "NG",
+      "city": "Abuja",
+      "district": "Abuja Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 204",
+      "coordinates": {
+        "lat": 9.97383848970256,
+        "lng": 8.228668381506681
+      }
+    },
+    "specs": {
+      "netSize": 1046,
+      "grossSize": 1255,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 19,
+      "floor": 8,
+      "totalFloors": 11,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Unfurnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500418922668?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500888981779?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500696188838?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500348964991?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500415989168?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500056027841?w=800&q=80&category=interior"
+    ],
+    "agent": {
+      "id": "A85",
+      "name": "Agent 11",
+      "phone": "+23 274 238 5338",
+      "email": "agent95@iwrealty.com",
+      "photo": "/images/icons/png/sg-harbour-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": false,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": true,
+      "hasSecurity": true
+    },
+    "createdAt": "2024-12-12T10:50:47.246Z",
+    "updatedAt": "2025-11-13T10:50:47.246Z",
+    "storeId": "store-011"
+  },
+  {
+    "id": "P06306",
+    "type": "rent",
+    "category": {
+      "main": "commercial",
+      "sub": "restaurant"
+    },
+    "title": "Kiralık Restoran - Nigeria City",
+    "slug": "kiralik-restoran-nigeria-city-P06306",
+    "description": "Nigeria City, Nigeria bölgesinde restoran. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 9420942,
+    "location": {
+      "country": "NG",
+      "city": "Nigeria City",
+      "district": "Nigeria City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 129",
+      "coordinates": {
+        "lat": 9.83826794885256,
+        "lng": 7.793291045526579
+      }
+    },
+    "specs": {
+      "netSize": 835,
+      "grossSize": 1002,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 10,
+      "floor": 7,
+      "totalFloors": 5,
+      "heating": "Kombi",
+      "furnishing": "Unfurnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500537607987?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500261501825?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500044924087?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500333106111?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500438585813?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500900923346?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500782480983?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500002588413?w=800&q=80&category=building"
+    ],
+    "agent": {
+      "id": "A11",
+      "name": "Agent 74",
+      "phone": "+43 944 624 3617",
+      "email": "agent76@iwrealty.com",
+      "photo": "/images/icons/png/paris-heritage-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-05-20T10:50:47.246Z",
+    "updatedAt": "2025-11-13T10:50:47.246Z",
+    "storeId": "store-010"
+  },
+  {
+    "id": "P06307",
+    "type": "sale",
+    "category": {
+      "main": "commercial",
+      "sub": "warehouse"
+    },
+    "title": "Satılık Depo - Abuja",
+    "slug": "satilik-depo-abuja-P06307",
+    "description": "Abuja, Nigeria bölgesinde depo. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 5259297,
+    "location": {
+      "country": "NG",
+      "city": "Abuja",
+      "district": "Abuja Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 231",
+      "coordinates": {
+        "lat": 10.02247919373556,
+        "lng": 8.147733042158226
+      }
+    },
+    "specs": {
+      "netSize": 7193,
+      "grossSize": 8632,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 17,
+      "floor": 11,
+      "totalFloors": 17,
+      "heating": "Klima",
+      "furnishing": "Unfurnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500079448869?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500461269902?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500054529771?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500701760145?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500818932786?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500939705861?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500508822739?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500593549642?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500757686159?w=800&q=80&category=architecture"
+    ],
+    "agent": {
+      "id": "A39",
+      "name": "Agent 19",
+      "phone": "+77 485 146 4244",
+      "email": "agent71@iwrealty.com",
+      "photo": "/images/icons/png/sydney-coastal-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-03-18T10:50:47.246Z",
+    "updatedAt": "2025-11-13T10:50:47.246Z",
+    "storeId": "store-012"
+  },
+  {
+    "id": "P06308",
+    "type": "rent",
+    "category": {
+      "main": "commercial",
+      "sub": "warehouse"
+    },
+    "title": "Kiralık Depo - New Nigeria",
+    "slug": "kiralik-depo-new-nigeria-P06308",
+    "description": "New Nigeria, Nigeria bölgesinde depo. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 4965260,
+    "location": {
+      "country": "NG",
+      "city": "New Nigeria",
+      "district": "New Nigeria Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 230",
+      "coordinates": {
+        "lat": 10.22173416323452,
+        "lng": 7.779439529675035
+      }
+    },
+    "specs": {
+      "netSize": 3612,
+      "grossSize": 4334,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 3,
+      "floor": 11,
+      "totalFloors": 16,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500976910746?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500508100730?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500848361303?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500242950411?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500275215437?w=800&q=80&category=architecture"
+    ],
+    "agent": {
+      "id": "A99",
+      "name": "Agent 6",
+      "phone": "+18 630 772 8238",
+      "email": "agent53@iwrealty.com",
+      "photo": "/images/icons/png/dubai-property-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-02-19T10:50:47.246Z",
+    "updatedAt": "2025-11-13T10:50:47.246Z",
+    "storeId": "store-004"
+  }
+]

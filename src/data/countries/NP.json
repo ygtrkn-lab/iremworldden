@@ -1,0 +1,2355 @@
+[
+  {
+    "id": "P06461",
+    "type": "sale",
+    "category": {
+      "main": "government"
+    },
+    "title": "Satılık Hastane - New Nepal",
+    "slug": "satilik-hastane-new-nepal-P06461",
+    "description": "New Nepal, Nepal bölgesinde hastane. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 19036297,
+    "location": {
+      "country": "NP",
+      "city": "New Nepal",
+      "district": "New Nepal Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 563",
+      "coordinates": {
+        "lat": 28.156085898577146,
+        "lng": 83.67900097785258
+      }
+    },
+    "specs": {
+      "netSize": 2799,
+      "grossSize": 3359,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 13,
+      "floor": 6,
+      "totalFloors": 13,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Furnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500790152904?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500653605327?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500333333065?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500327811783?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500785865654?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500085464481?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500078391408?w=800&q=80&category=real-estate"
+    ],
+    "agent": {
+      "id": "A55",
+      "name": "Agent 77",
+      "phone": "+12 505 731 1754",
+      "email": "agent68@iwrealty.com",
+      "photo": "/images/icons/png/paris-heritage-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": false,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": true,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-08-25T10:50:47.247Z",
+    "updatedAt": "2025-11-13T10:50:47.247Z",
+    "storeId": "store-010"
+  },
+  {
+    "id": "P06462",
+    "type": "rent",
+    "category": {
+      "main": "government"
+    },
+    "title": "Kiralık Hastane - Kathmandu",
+    "slug": "kiralik-hastane-kathmandu-P06462",
+    "description": "Kathmandu, Nepal bölgesinde hastane. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 30404945,
+    "location": {
+      "country": "NP",
+      "city": "Kathmandu",
+      "district": "Kathmandu Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 616",
+      "coordinates": {
+        "lat": 28.306208972790806,
+        "lng": 83.5428070516855
+      }
+    },
+    "specs": {
+      "netSize": 2031,
+      "grossSize": 2437,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 0,
+      "floor": 15,
+      "totalFloors": 16,
+      "heating": "Merkezi",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500723553196?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500122775026?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500810721262?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500744447884?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500954015775?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500435811227?w=800&q=80&category=house"
+    ],
+    "agent": {
+      "id": "A72",
+      "name": "Agent 95",
+      "phone": "+27 273 627 6121",
+      "email": "agent91@iwrealty.com",
+      "photo": "/images/icons/png/berlin-urban-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-02-27T10:50:47.247Z",
+    "updatedAt": "2025-11-13T10:50:47.247Z",
+    "storeId": "store-009"
+  },
+  {
+    "id": "P06463",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Daire - Nepal Central",
+    "slug": "satilik-daire-nepal-central-P06463",
+    "description": "Nepal Central, Nepal bölgesinde daire. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 4727983,
+    "location": {
+      "country": "NP",
+      "city": "Nepal Central",
+      "district": "Nepal Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 438",
+      "coordinates": {
+        "lat": 27.801558431047344,
+        "lng": 84.473544450492
+      }
+    },
+    "specs": {
+      "netSize": 264,
+      "grossSize": 317,
+      "rooms": "1+0",
+      "bathrooms": 2,
+      "age": 16,
+      "floor": 7,
+      "totalFloors": 6,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Unfurnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500809967372?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500296236683?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500218023364?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500311060646?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500993504936?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500382752512?w=800&q=80&category=interior"
+    ],
+    "agent": {
+      "id": "A89",
+      "name": "Agent 62",
+      "phone": "+91 831 581 7876",
+      "email": "agent22@iwrealty.com",
+      "photo": "/images/icons/png/ankara-modern-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-09-25T10:50:47.247Z",
+    "updatedAt": "2025-11-13T10:50:47.247Z",
+    "storeId": "store-003"
+  },
+  {
+    "id": "P06464",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Müstakil Ev - Nepal Central",
+    "slug": "kiralik-müstakil-ev-nepal-central-P06464",
+    "description": "Nepal Central, Nepal bölgesinde müstakil ev. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 10001411,
+    "location": {
+      "country": "NP",
+      "city": "Nepal Central",
+      "district": "Nepal Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 338",
+      "coordinates": {
+        "lat": 27.601616375690906,
+        "lng": 84.1802940334645
+      }
+    },
+    "specs": {
+      "netSize": 205,
+      "grossSize": 246,
+      "rooms": "5+2",
+      "bathrooms": 2,
+      "age": 17,
+      "floor": 1,
+      "totalFloors": 16,
+      "heating": "Merkezi",
+      "furnishing": "Unfurnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500658367136?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500788078287?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500368865173?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500582873714?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500699150637?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500096249518?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500031896920?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500837706291?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500302837586?w=800&q=80&category=house"
+    ],
+    "agent": {
+      "id": "A84",
+      "name": "Agent 38",
+      "phone": "+14 594 998 1137",
+      "email": "agent97@iwrealty.com",
+      "photo": "/images/icons/png/izmir-sahil-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": true,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-07-01T10:50:47.247Z",
+    "updatedAt": "2025-11-13T10:50:47.247Z",
+    "storeId": "store-005"
+  },
+  {
+    "id": "P06465",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Villa - Nepal City",
+    "slug": "satilik-villa-nepal-city-P06465",
+    "description": "Nepal City, Nepal bölgesinde villa. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 9447963,
+    "location": {
+      "country": "NP",
+      "city": "Nepal City",
+      "district": "Nepal City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 340",
+      "coordinates": {
+        "lat": 28.18784202000617,
+        "lng": 83.9005651367769
+      }
+    },
+    "specs": {
+      "netSize": 184,
+      "grossSize": 221,
+      "rooms": "5+2",
+      "bathrooms": 3,
+      "age": 11,
+      "floor": 1,
+      "totalFloors": 11,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Furnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500920377444?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500609995787?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500245702859?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500965761429?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500808319271?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500014144188?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500317914204?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500793356331?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500894400775?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500872092718?w=800&q=80&category=interior"
+    ],
+    "agent": {
+      "id": "A27",
+      "name": "Agent 61",
+      "phone": "+49 123 912 8171",
+      "email": "agent32@iwrealty.com",
+      "photo": "/images/icons/png/london-prime-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": true,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-05-19T10:50:47.247Z",
+    "updatedAt": "2025-11-13T10:50:47.247Z",
+    "storeId": "store-007"
+  },
+  {
+    "id": "P06466",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Residence - Nepal Central",
+    "slug": "kiralik-residence-nepal-central-P06466",
+    "description": "Nepal Central, Nepal bölgesinde residence. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 9177052,
+    "location": {
+      "country": "NP",
+      "city": "Nepal Central",
+      "district": "Nepal Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 345",
+      "coordinates": {
+        "lat": 28.187120364711586,
+        "lng": 84.30469312721958
+      }
+    },
+    "specs": {
+      "netSize": 220,
+      "grossSize": 264,
+      "rooms": "4+2",
+      "bathrooms": 3,
+      "age": 1,
+      "floor": 5,
+      "totalFloors": 16,
+      "heating": "Kombi",
+      "furnishing": "Unfurnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500327967571?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500923860433?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500505425116?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500849969522?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500275521448?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500524557264?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500801113155?w=800&q=80&category=building"
+    ],
+    "agent": {
+      "id": "A68",
+      "name": "Agent 55",
+      "phone": "+92 220 574 3518",
+      "email": "agent10@iwrealty.com",
+      "photo": "/images/icons/png/london-prime-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": true,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-08-13T10:50:47.247Z",
+    "updatedAt": "2025-11-13T10:50:47.247Z",
+    "storeId": "store-007"
+  },
+  {
+    "id": "P06467",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Daire - New Nepal",
+    "slug": "satilik-daire-new-nepal-P06467",
+    "description": "New Nepal, Nepal bölgesinde daire. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 8435793,
+    "location": {
+      "country": "NP",
+      "city": "New Nepal",
+      "district": "New Nepal Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 718",
+      "coordinates": {
+        "lat": 28.223210312508495,
+        "lng": 84.08169863040709
+      }
+    },
+    "specs": {
+      "netSize": 456,
+      "grossSize": 547,
+      "rooms": "2+1",
+      "bathrooms": 3,
+      "age": 6,
+      "floor": 6,
+      "totalFloors": 8,
+      "heating": "Merkezi",
+      "furnishing": "Furnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500126431135?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500455447546?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500208763969?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500278847619?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500005371875?w=800&q=80&category=architecture"
+    ],
+    "agent": {
+      "id": "A66",
+      "name": "Agent 47",
+      "phone": "+96 202 948 5000",
+      "email": "agent1@iwrealty.com",
+      "photo": "/images/icons/png/london-prime-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": false,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2024-11-22T10:50:47.247Z",
+    "updatedAt": "2025-11-13T10:50:47.247Z",
+    "storeId": "store-007"
+  },
+  {
+    "id": "P06468",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Residence - Kathmandu",
+    "slug": "kiralik-residence-kathmandu-P06468",
+    "description": "Kathmandu, Nepal bölgesinde residence. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 4066245,
+    "location": {
+      "country": "NP",
+      "city": "Kathmandu",
+      "district": "Kathmandu Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 830",
+      "coordinates": {
+        "lat": 27.99531209531376,
+        "lng": 83.71666932517516
+      }
+    },
+    "specs": {
+      "netSize": 187,
+      "grossSize": 224,
+      "rooms": "4+1",
+      "bathrooms": 3,
+      "age": 11,
+      "floor": 7,
+      "totalFloors": 18,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Furnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500409957689?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500128944281?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500134685317?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500261398972?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500950801825?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500054598277?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500350524506?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500188895264?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500690948699?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500186541348?w=800&q=80&category=building"
+    ],
+    "agent": {
+      "id": "A8",
+      "name": "Agent 2",
+      "phone": "+55 580 424 4018",
+      "email": "agent85@iwrealty.com",
+      "photo": "/images/icons/png/izmir-sahil-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": false,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": true,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-06-14T10:50:47.247Z",
+    "updatedAt": "2025-11-13T10:50:47.247Z",
+    "storeId": "store-005"
+  },
+  {
+    "id": "P06469",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Residence - Kathmandu",
+    "slug": "satilik-residence-kathmandu-P06469",
+    "description": "Kathmandu, Nepal bölgesinde residence. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 5146005,
+    "location": {
+      "country": "NP",
+      "city": "Kathmandu",
+      "district": "Kathmandu Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 212",
+      "coordinates": {
+        "lat": 28.1412879043565,
+        "lng": 84.1763082926051
+      }
+    },
+    "specs": {
+      "netSize": 156,
+      "grossSize": 187,
+      "rooms": "1+0",
+      "bathrooms": 2,
+      "age": 4,
+      "floor": 4,
+      "totalFloors": 15,
+      "heating": "Klima",
+      "furnishing": "Furnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500818320490?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500595441692?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500786860112?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500846681470?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500243931596?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500927845746?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500047048354?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500871504484?w=800&q=80&category=building"
+    ],
+    "agent": {
+      "id": "A95",
+      "name": "Agent 28",
+      "phone": "+35 805 987 6272",
+      "email": "agent95@iwrealty.com",
+      "photo": "/images/icons/png/sg-harbour-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-03-20T10:50:47.247Z",
+    "updatedAt": "2025-11-13T10:50:47.247Z",
+    "storeId": "store-011"
+  },
+  {
+    "id": "P06470",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Residence - Nepal Central",
+    "slug": "kiralik-residence-nepal-central-P06470",
+    "description": "Nepal Central, Nepal bölgesinde residence. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 7340098,
+    "location": {
+      "country": "NP",
+      "city": "Nepal Central",
+      "district": "Nepal Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 874",
+      "coordinates": {
+        "lat": 28.379930355045133,
+        "lng": 83.86048757488135
+      }
+    },
+    "specs": {
+      "netSize": 200,
+      "grossSize": 240,
+      "rooms": "3+0",
+      "bathrooms": 1,
+      "age": 16,
+      "floor": 15,
+      "totalFloors": 15,
+      "heating": "Merkezi",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500249753985?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500620874754?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500619106557?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500197107594?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500043166082?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500913640164?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500999495410?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500324117543?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500278688858?w=800&q=80&category=architecture"
+    ],
+    "agent": {
+      "id": "A2",
+      "name": "Agent 40",
+      "phone": "+21 293 774 7177",
+      "email": "agent73@iwrealty.com",
+      "photo": "/images/icons/png/luxury-homes-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": false,
+      "hasBalcony": false,
+      "hasGarden": true,
+      "hasPool": true,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-05-07T10:50:47.247Z",
+    "updatedAt": "2025-11-13T10:50:47.247Z",
+    "storeId": "store-002"
+  },
+  {
+    "id": "P06471",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Müstakil Ev - Nepal City",
+    "slug": "satilik-müstakil-ev-nepal-city-P06471",
+    "description": "Nepal City, Nepal bölgesinde müstakil ev. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 8315214,
+    "location": {
+      "country": "NP",
+      "city": "Nepal City",
+      "district": "Nepal City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 634",
+      "coordinates": {
+        "lat": 27.596676591357678,
+        "lng": 83.60636067427444
+      }
+    },
+    "specs": {
+      "netSize": 200,
+      "grossSize": 240,
+      "rooms": "2+2",
+      "bathrooms": 4,
+      "age": 6,
+      "floor": 3,
+      "totalFloors": 6,
+      "heating": "Merkezi",
+      "furnishing": "Unfurnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500867071771?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500051280239?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500631092618?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500320205640?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500910037466?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500414826216?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500764772374?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500305251540?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500403527202?w=800&q=80&category=interior"
+    ],
+    "agent": {
+      "id": "A31",
+      "name": "Agent 91",
+      "phone": "+60 635 564 2997",
+      "email": "agent13@iwrealty.com",
+      "photo": "/images/icons/png/luxury-homes-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-08-17T10:50:47.247Z",
+    "updatedAt": "2025-11-13T10:50:47.247Z",
+    "storeId": "store-002"
+  },
+  {
+    "id": "P06472",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Villa - Kathmandu",
+    "slug": "kiralik-villa-kathmandu-P06472",
+    "description": "Kathmandu, Nepal bölgesinde villa. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 8412004,
+    "location": {
+      "country": "NP",
+      "city": "Kathmandu",
+      "district": "Kathmandu Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 157",
+      "coordinates": {
+        "lat": 28.14950288376717,
+        "lng": 84.2414859683959
+      }
+    },
+    "specs": {
+      "netSize": 178,
+      "grossSize": 214,
+      "rooms": "3+1",
+      "bathrooms": 3,
+      "age": 6,
+      "floor": 8,
+      "totalFloors": 7,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500118639677?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500668086223?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500134981743?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500411833887?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500159160139?w=800&q=80&category=architecture"
+    ],
+    "agent": {
+      "id": "A69",
+      "name": "Agent 77",
+      "phone": "+75 491 391 7555",
+      "email": "agent88@iwrealty.com",
+      "photo": "/images/icons/png/berlin-urban-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-01-03T10:50:47.247Z",
+    "updatedAt": "2025-11-13T10:50:47.247Z",
+    "storeId": "store-009"
+  },
+  {
+    "id": "P06473",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Müstakil Ev - New Nepal",
+    "slug": "satilik-müstakil-ev-new-nepal-P06473",
+    "description": "New Nepal, Nepal bölgesinde müstakil ev. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 5648981,
+    "location": {
+      "country": "NP",
+      "city": "New Nepal",
+      "district": "New Nepal Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 426",
+      "coordinates": {
+        "lat": 27.58531954419901,
+        "lng": 84.16478190142757
+      }
+    },
+    "specs": {
+      "netSize": 279,
+      "grossSize": 335,
+      "rooms": "3+1",
+      "bathrooms": 3,
+      "age": 6,
+      "floor": 11,
+      "totalFloors": 16,
+      "heating": "Merkezi",
+      "furnishing": "Unfurnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500224184703?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500977557908?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500133774178?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500593505217?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500532218958?w=800&q=80&category=real-estate"
+    ],
+    "agent": {
+      "id": "A34",
+      "name": "Agent 45",
+      "phone": "+39 754 268 2473",
+      "email": "agent29@iwrealty.com",
+      "photo": "/images/icons/png/sg-harbour-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": true,
+      "hasPool": true,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-10-03T10:50:47.247Z",
+    "updatedAt": "2025-11-13T10:50:47.247Z",
+    "storeId": "store-011"
+  },
+  {
+    "id": "P06474",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Müstakil Ev - Kathmandu",
+    "slug": "kiralik-müstakil-ev-kathmandu-P06474",
+    "description": "Kathmandu, Nepal bölgesinde müstakil ev. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 11828794,
+    "location": {
+      "country": "NP",
+      "city": "Kathmandu",
+      "district": "Kathmandu Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 911",
+      "coordinates": {
+        "lat": 27.698250509929366,
+        "lng": 83.97650198718587
+      }
+    },
+    "specs": {
+      "netSize": 149,
+      "grossSize": 179,
+      "rooms": "1+0",
+      "bathrooms": 3,
+      "age": 18,
+      "floor": 1,
+      "totalFloors": 6,
+      "heating": "Kombi",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500633197747?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500219509576?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500682541587?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500175560153?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500915864561?w=800&q=80&category=building"
+    ],
+    "agent": {
+      "id": "A50",
+      "name": "Agent 86",
+      "phone": "+97 938 616 2234",
+      "email": "agent75@iwrealty.com",
+      "photo": "/images/icons/png/ankara-modern-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-05-23T10:50:47.247Z",
+    "updatedAt": "2025-11-13T10:50:47.247Z",
+    "storeId": "store-003"
+  },
+  {
+    "id": "P06475",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Daire - New Nepal",
+    "slug": "satilik-daire-new-nepal-P06475",
+    "description": "New Nepal, Nepal bölgesinde daire. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 3455866,
+    "location": {
+      "country": "NP",
+      "city": "New Nepal",
+      "district": "New Nepal Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 944",
+      "coordinates": {
+        "lat": 28.28695662154348,
+        "lng": 83.94874439888386
+      }
+    },
+    "specs": {
+      "netSize": 239,
+      "grossSize": 287,
+      "rooms": "1+0",
+      "bathrooms": 2,
+      "age": 0,
+      "floor": 4,
+      "totalFloors": 7,
+      "heating": "Merkezi",
+      "furnishing": "Unfurnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500084560925?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500984352797?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500939724727?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500482366344?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500248047370?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500238263399?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500047871252?w=800&q=80&category=architecture"
+    ],
+    "agent": {
+      "id": "A38",
+      "name": "Agent 21",
+      "phone": "+84 286 586 8507",
+      "email": "agent52@iwrealty.com",
+      "photo": "/images/icons/png/berlin-urban-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-09-14T10:50:47.247Z",
+    "updatedAt": "2025-11-13T10:50:47.247Z",
+    "storeId": "store-009"
+  },
+  {
+    "id": "P06476",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Residence - New Nepal",
+    "slug": "kiralik-residence-new-nepal-P06476",
+    "description": "New Nepal, Nepal bölgesinde residence. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 8368176,
+    "location": {
+      "country": "NP",
+      "city": "New Nepal",
+      "district": "New Nepal Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 587",
+      "coordinates": {
+        "lat": 27.516815744201164,
+        "lng": 83.57866253772585
+      }
+    },
+    "specs": {
+      "netSize": 134,
+      "grossSize": 161,
+      "rooms": "4+1",
+      "bathrooms": 1,
+      "age": 10,
+      "floor": 7,
+      "totalFloors": 14,
+      "heating": "Klima",
+      "furnishing": "Furnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500513591093?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500890413928?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500684862393?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500550230440?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500306244907?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500498895321?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500791613179?w=800&q=80&category=building"
+    ],
+    "agent": {
+      "id": "A3",
+      "name": "Agent 16",
+      "phone": "+99 874 667 1210",
+      "email": "agent25@iwrealty.com",
+      "photo": "/images/icons/png/antalya-investment-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": false,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-09-03T10:50:47.247Z",
+    "updatedAt": "2025-11-13T10:50:47.247Z",
+    "storeId": "store-006"
+  },
+  {
+    "id": "P06477",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Residence - New Nepal",
+    "slug": "satilik-residence-new-nepal-P06477",
+    "description": "New Nepal, Nepal bölgesinde residence. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 959678,
+    "location": {
+      "country": "NP",
+      "city": "New Nepal",
+      "district": "New Nepal Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 425",
+      "coordinates": {
+        "lat": 28.37412364958543,
+        "lng": 83.86456572571716
+      }
+    },
+    "specs": {
+      "netSize": 270,
+      "grossSize": 324,
+      "rooms": "4+2",
+      "bathrooms": 1,
+      "age": 9,
+      "floor": 15,
+      "totalFloors": 20,
+      "heating": "Merkezi",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500091140624?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500471640727?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500919245606?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500404114944?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500177953266?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500936613834?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500282370443?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500223319454?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500227403077?w=800&q=80&category=interior"
+    ],
+    "agent": {
+      "id": "A17",
+      "name": "Agent 44",
+      "phone": "+42 171 559 7874",
+      "email": "agent32@iwrealty.com",
+      "photo": "/images/icons/png/luxury-homes-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": true,
+      "hasSecurity": true
+    },
+    "createdAt": "2024-12-23T10:50:47.247Z",
+    "updatedAt": "2025-11-13T10:50:47.247Z",
+    "storeId": "store-002"
+  },
+  {
+    "id": "P06478",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Residence - Kathmandu",
+    "slug": "kiralik-residence-kathmandu-P06478",
+    "description": "Kathmandu, Nepal bölgesinde residence. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 1621087,
+    "location": {
+      "country": "NP",
+      "city": "Kathmandu",
+      "district": "Kathmandu Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 258",
+      "coordinates": {
+        "lat": 28.498582683875185,
+        "lng": 83.98560939698625
+      }
+    },
+    "specs": {
+      "netSize": 232,
+      "grossSize": 278,
+      "rooms": "2+0",
+      "bathrooms": 3,
+      "age": 8,
+      "floor": 12,
+      "totalFloors": 20,
+      "heating": "Kombi",
+      "furnishing": "Unfurnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500172241137?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500755982737?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500194847165?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500995923850?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500604408494?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500748739881?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500936612598?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500554460505?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500536353106?w=800&q=80&category=architecture"
+    ],
+    "agent": {
+      "id": "A38",
+      "name": "Agent 64",
+      "phone": "+38 972 192 1194",
+      "email": "agent79@iwrealty.com",
+      "photo": "/images/icons/png/izmir-sahil-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": false,
+      "hasBalcony": false,
+      "hasGarden": true,
+      "hasPool": true,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-04-04T10:50:47.247Z",
+    "updatedAt": "2025-11-13T10:50:47.247Z",
+    "storeId": "store-005"
+  },
+  {
+    "id": "P06479",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Müstakil Ev - Nepal Central",
+    "slug": "satilik-müstakil-ev-nepal-central-P06479",
+    "description": "Nepal Central, Nepal bölgesinde müstakil ev. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 11675485,
+    "location": {
+      "country": "NP",
+      "city": "Nepal Central",
+      "district": "Nepal Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 424",
+      "coordinates": {
+        "lat": 28.016807340470287,
+        "lng": 83.61362372736724
+      }
+    },
+    "specs": {
+      "netSize": 267,
+      "grossSize": 320,
+      "rooms": "2+1",
+      "bathrooms": 1,
+      "age": 3,
+      "floor": 15,
+      "totalFloors": 14,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500102913445?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500832680575?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500043215439?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500548171582?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500885501785?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500983921654?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500623497466?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500008377062?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500256106894?w=800&q=80&category=house"
+    ],
+    "agent": {
+      "id": "A90",
+      "name": "Agent 48",
+      "phone": "+24 535 244 7868",
+      "email": "agent11@iwrealty.com",
+      "photo": "/images/icons/png/ny-skyline-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": true,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-09-06T10:50:47.247Z",
+    "updatedAt": "2025-11-13T10:50:47.247Z",
+    "storeId": "store-008"
+  },
+  {
+    "id": "P06480",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Daire - Nepal City",
+    "slug": "kiralik-daire-nepal-city-P06480",
+    "description": "Nepal City, Nepal bölgesinde daire. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 13325419,
+    "location": {
+      "country": "NP",
+      "city": "Nepal City",
+      "district": "Nepal City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 214",
+      "coordinates": {
+        "lat": 27.509432948153382,
+        "lng": 84.47326938374029
+      }
+    },
+    "specs": {
+      "netSize": 366,
+      "grossSize": 439,
+      "rooms": "2+2",
+      "bathrooms": 3,
+      "age": 11,
+      "floor": 11,
+      "totalFloors": 8,
+      "heating": "Merkezi",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500466634510?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500641129358?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500168413012?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500938351866?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500672977571?w=800&q=80&category=real-estate"
+    ],
+    "agent": {
+      "id": "A5",
+      "name": "Agent 20",
+      "phone": "+32 331 979 6851",
+      "email": "agent58@iwrealty.com",
+      "photo": "/images/icons/png/sg-harbour-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": true,
+      "hasSecurity": false
+    },
+    "createdAt": "2024-12-12T10:50:47.247Z",
+    "updatedAt": "2025-11-13T10:50:47.247Z",
+    "storeId": "store-011"
+  },
+  {
+    "id": "P06481",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Residence - Nepal Central",
+    "slug": "satilik-residence-nepal-central-P06481",
+    "description": "Nepal Central, Nepal bölgesinde residence. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 13765409,
+    "location": {
+      "country": "NP",
+      "city": "Nepal Central",
+      "district": "Nepal Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 631",
+      "coordinates": {
+        "lat": 28.095687675962164,
+        "lng": 84.33083526508558
+      }
+    },
+    "specs": {
+      "netSize": 114,
+      "grossSize": 137,
+      "rooms": "5+2",
+      "bathrooms": 4,
+      "age": 12,
+      "floor": 8,
+      "totalFloors": 19,
+      "heating": "Merkezi",
+      "furnishing": "Furnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500651503512?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500023737457?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500197939281?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500052653227?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500769974736?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500351757466?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500010276327?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500048147184?w=800&q=80&category=architecture"
+    ],
+    "agent": {
+      "id": "A15",
+      "name": "Agent 100",
+      "phone": "+65 778 874 8027",
+      "email": "agent39@iwrealty.com",
+      "photo": "/images/icons/png/sg-harbour-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-03-03T10:50:47.248Z",
+    "updatedAt": "2025-11-13T10:50:47.248Z",
+    "storeId": "store-011"
+  },
+  {
+    "id": "P06482",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Daire - New Nepal",
+    "slug": "kiralik-daire-new-nepal-P06482",
+    "description": "New Nepal, Nepal bölgesinde daire. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 11902640,
+    "location": {
+      "country": "NP",
+      "city": "New Nepal",
+      "district": "New Nepal Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 733",
+      "coordinates": {
+        "lat": 27.581559583368325,
+        "lng": 84.32363727879107
+      }
+    },
+    "specs": {
+      "netSize": 294,
+      "grossSize": 353,
+      "rooms": "4+2",
+      "bathrooms": 3,
+      "age": 1,
+      "floor": 4,
+      "totalFloors": 19,
+      "heating": "Klima",
+      "furnishing": "Unfurnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500744144710?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500990140675?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500364692931?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500714876201?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500545221120?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500880798201?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500463940998?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500378308642?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500750363821?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500562077064?w=800&q=80&category=interior"
+    ],
+    "agent": {
+      "id": "A86",
+      "name": "Agent 81",
+      "phone": "+47 922 706 7625",
+      "email": "agent26@iwrealty.com",
+      "photo": "/images/icons/png/london-prime-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": false,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-11-07T10:50:47.248Z",
+    "updatedAt": "2025-11-13T10:50:47.248Z",
+    "storeId": "store-007"
+  },
+  {
+    "id": "P06483",
+    "type": "sale",
+    "category": {
+      "main": "commercial",
+      "sub": "hospital"
+    },
+    "title": "Satılık Hastane - Nepal Central",
+    "slug": "satilik-hastane-nepal-central-P06483",
+    "description": "Nepal Central, Nepal bölgesinde hastane. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 33245049,
+    "location": {
+      "country": "NP",
+      "city": "Nepal Central",
+      "district": "Nepal Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 811",
+      "coordinates": {
+        "lat": 28.01437324529619,
+        "lng": 84.4389076491291
+      }
+    },
+    "specs": {
+      "netSize": 6820,
+      "grossSize": 8184,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 0,
+      "floor": 9,
+      "totalFloors": 18,
+      "heating": "Merkezi",
+      "furnishing": "Furnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500602941332?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500012644394?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500222450646?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500672896328?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500277124772?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500627007193?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500325001829?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500505931541?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500944541821?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500637882128?w=800&q=80&category=interior"
+    ],
+    "agent": {
+      "id": "A7",
+      "name": "Agent 35",
+      "phone": "+71 899 399 6411",
+      "email": "agent66@iwrealty.com",
+      "photo": "/images/icons/png/izmir-sahil-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-01-06T10:50:47.248Z",
+    "updatedAt": "2025-11-13T10:50:47.248Z",
+    "storeId": "store-005"
+  },
+  {
+    "id": "P06484",
+    "type": "rent",
+    "category": {
+      "main": "commercial",
+      "sub": "hospital"
+    },
+    "title": "Kiralık Hastane - Nepal Central",
+    "slug": "kiralik-hastane-nepal-central-P06484",
+    "description": "Nepal Central, Nepal bölgesinde hastane. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 26262341,
+    "location": {
+      "country": "NP",
+      "city": "Nepal Central",
+      "district": "Nepal Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 883",
+      "coordinates": {
+        "lat": 27.581873653317135,
+        "lng": 84.24225454589534
+      }
+    },
+    "specs": {
+      "netSize": 15573,
+      "grossSize": 18688,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 17,
+      "floor": 7,
+      "totalFloors": 16,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Unfurnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500676607655?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500896445617?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500235130964?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500840974889?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500616891441?w=800&q=80&category=interior"
+    ],
+    "agent": {
+      "id": "A23",
+      "name": "Agent 27",
+      "phone": "+53 103 952 9332",
+      "email": "agent64@iwrealty.com",
+      "photo": "/images/icons/png/london-prime-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": true,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-04-25T10:50:47.248Z",
+    "updatedAt": "2025-11-13T10:50:47.248Z",
+    "storeId": "store-007"
+  },
+  {
+    "id": "P06485",
+    "type": "sale",
+    "category": {
+      "main": "commercial",
+      "sub": "clinic"
+    },
+    "title": "Satılık Klinik - Nepal Central",
+    "slug": "satilik-klinik-nepal-central-P06485",
+    "description": "Nepal Central, Nepal bölgesinde klinik. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 3489165,
+    "location": {
+      "country": "NP",
+      "city": "Nepal Central",
+      "district": "Nepal Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 854",
+      "coordinates": {
+        "lat": 28.170699588059296,
+        "lng": 84.46644890883077
+      }
+    },
+    "specs": {
+      "netSize": 766,
+      "grossSize": 919,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 13,
+      "floor": 2,
+      "totalFloors": 10,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Unfurnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500780405932?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500263810030?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500952288153?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500934254557?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500465611542?w=800&q=80&category=building"
+    ],
+    "agent": {
+      "id": "A69",
+      "name": "Agent 54",
+      "phone": "+38 608 482 8326",
+      "email": "agent35@iwrealty.com",
+      "photo": "/images/icons/png/ankara-modern-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-02-08T10:50:47.248Z",
+    "updatedAt": "2025-11-13T10:50:47.248Z",
+    "storeId": "store-003"
+  },
+  {
+    "id": "P06486",
+    "type": "rent",
+    "category": {
+      "main": "commercial",
+      "sub": "clinic"
+    },
+    "title": "Kiralık Klinik - Nepal City",
+    "slug": "kiralik-klinik-nepal-city-P06486",
+    "description": "Nepal City, Nepal bölgesinde klinik. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 11059041,
+    "location": {
+      "country": "NP",
+      "city": "Nepal City",
+      "district": "Nepal City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 157",
+      "coordinates": {
+        "lat": 27.785843246403278,
+        "lng": 84.20555267006303
+      }
+    },
+    "specs": {
+      "netSize": 597,
+      "grossSize": 716,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 0,
+      "floor": 10,
+      "totalFloors": 11,
+      "heating": "Kombi",
+      "furnishing": "Furnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500926416834?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500246954291?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500599342415?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500078001061?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500182878695?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500238422760?w=800&q=80&category=interior"
+    ],
+    "agent": {
+      "id": "A94",
+      "name": "Agent 15",
+      "phone": "+48 810 762 7399",
+      "email": "agent42@iwrealty.com",
+      "photo": "/images/icons/png/sg-harbour-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-03-29T10:50:47.248Z",
+    "updatedAt": "2025-11-13T10:50:47.248Z",
+    "storeId": "store-011"
+  },
+  {
+    "id": "P06487",
+    "type": "sale",
+    "category": {
+      "main": "commercial",
+      "sub": "shop"
+    },
+    "title": "Satılık Dükkan - Nepal City",
+    "slug": "satilik-dükkan-nepal-city-P06487",
+    "description": "Nepal City, Nepal bölgesinde dükkan. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 7114657,
+    "location": {
+      "country": "NP",
+      "city": "Nepal City",
+      "district": "Nepal City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 726",
+      "coordinates": {
+        "lat": 27.576749144041404,
+        "lng": 84.43702250193398
+      }
+    },
+    "specs": {
+      "netSize": 291,
+      "grossSize": 349,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 10,
+      "floor": 13,
+      "totalFloors": 16,
+      "heating": "Klima",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500092685735?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500416338206?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500056081041?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500890194653?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500310812683?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500492527209?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500996123512?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500963281909?w=800&q=80&category=house"
+    ],
+    "agent": {
+      "id": "A18",
+      "name": "Agent 32",
+      "phone": "+10 932 368 5906",
+      "email": "agent52@iwrealty.com",
+      "photo": "/images/icons/png/dubai-property-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-08-16T10:50:47.248Z",
+    "updatedAt": "2025-11-13T10:50:47.248Z",
+    "storeId": "store-004"
+  },
+  {
+    "id": "P06488",
+    "type": "rent",
+    "category": {
+      "main": "commercial",
+      "sub": "shop"
+    },
+    "title": "Kiralık Dükkan - Nepal Central",
+    "slug": "kiralik-dükkan-nepal-central-P06488",
+    "description": "Nepal Central, Nepal bölgesinde dükkan. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 7156579,
+    "location": {
+      "country": "NP",
+      "city": "Nepal Central",
+      "district": "Nepal Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 101",
+      "coordinates": {
+        "lat": 27.55432012036299,
+        "lng": 83.74427723079654
+      }
+    },
+    "specs": {
+      "netSize": 440,
+      "grossSize": 528,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 16,
+      "floor": 9,
+      "totalFloors": 11,
+      "heating": "Klima",
+      "furnishing": "Furnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500859158290?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500518838549?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500048752898?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500662230776?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500640943137?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500747690504?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500761248155?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500016442472?w=800&q=80&category=real-estate"
+    ],
+    "agent": {
+      "id": "A78",
+      "name": "Agent 26",
+      "phone": "+10 920 184 3990",
+      "email": "agent96@iwrealty.com",
+      "photo": "/images/icons/png/izmir-sahil-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2024-12-14T10:50:47.248Z",
+    "updatedAt": "2025-11-13T10:50:47.248Z",
+    "storeId": "store-005"
+  },
+  {
+    "id": "P06489",
+    "type": "sale",
+    "category": {
+      "main": "commercial",
+      "sub": "office"
+    },
+    "title": "Satılık Ofis - New Nepal",
+    "slug": "satilik-ofis-new-nepal-P06489",
+    "description": "New Nepal, Nepal bölgesinde ofis. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 12805818,
+    "location": {
+      "country": "NP",
+      "city": "New Nepal",
+      "district": "New Nepal Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 307",
+      "coordinates": {
+        "lat": 27.82956085544037,
+        "lng": 83.79891375403837
+      }
+    },
+    "specs": {
+      "netSize": 403,
+      "grossSize": 484,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 20,
+      "floor": 15,
+      "totalFloors": 13,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Unfurnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500453749475?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500792245691?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500582218172?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500600941894?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500604756790?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500303187418?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500511405482?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500181655816?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500137662568?w=800&q=80&category=building"
+    ],
+    "agent": {
+      "id": "A70",
+      "name": "Agent 61",
+      "phone": "+36 907 424 6638",
+      "email": "agent79@iwrealty.com",
+      "photo": "/images/icons/png/dubai-property-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": false,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": true,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-07-01T10:50:47.248Z",
+    "updatedAt": "2025-11-13T10:50:47.248Z",
+    "storeId": "store-004"
+  },
+  {
+    "id": "P06490",
+    "type": "rent",
+    "category": {
+      "main": "commercial",
+      "sub": "office"
+    },
+    "title": "Kiralık Ofis - Nepal Central",
+    "slug": "kiralik-ofis-nepal-central-P06490",
+    "description": "Nepal Central, Nepal bölgesinde ofis. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 8695629,
+    "location": {
+      "country": "NP",
+      "city": "Nepal Central",
+      "district": "Nepal Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 24",
+      "coordinates": {
+        "lat": 27.952079077850534,
+        "lng": 83.54972382611763
+      }
+    },
+    "specs": {
+      "netSize": 833,
+      "grossSize": 1000,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 16,
+      "floor": 9,
+      "totalFloors": 8,
+      "heating": "Kombi",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500713775569?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500250314403?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500750479803?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500197058139?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500707644564?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500419025423?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500017427628?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500370868721?w=800&q=80&category=interior"
+    ],
+    "agent": {
+      "id": "A10",
+      "name": "Agent 76",
+      "phone": "+59 565 114 1905",
+      "email": "agent89@iwrealty.com",
+      "photo": "/images/icons/png/berlin-urban-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-11-03T10:50:47.248Z",
+    "updatedAt": "2025-11-13T10:50:47.248Z",
+    "storeId": "store-009"
+  },
+  {
+    "id": "P06491",
+    "type": "sale",
+    "category": {
+      "main": "commercial",
+      "sub": "mall"
+    },
+    "title": "Satılık AVM - Nepal City",
+    "slug": "satilik-avm-nepal-city-P06491",
+    "description": "Nepal City, Nepal bölgesinde avm. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 74170096,
+    "location": {
+      "country": "NP",
+      "city": "Nepal City",
+      "district": "Nepal City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 122",
+      "coordinates": {
+        "lat": 27.655806708245382,
+        "lng": 83.79289104093617
+      }
+    },
+    "specs": {
+      "netSize": 18375,
+      "grossSize": 22050,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 12,
+      "floor": 12,
+      "totalFloors": 20,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500478303093?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500214724600?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500023327848?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500088401248?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500021207363?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500463133702?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500257623597?w=800&q=80&category=real-estate"
+    ],
+    "agent": {
+      "id": "A95",
+      "name": "Agent 18",
+      "phone": "+56 765 156 5551",
+      "email": "agent80@iwrealty.com",
+      "photo": "/images/icons/png/ny-skyline-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": false,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": true,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-05-02T10:50:47.248Z",
+    "updatedAt": "2025-11-13T10:50:47.248Z",
+    "storeId": "store-008"
+  },
+  {
+    "id": "P06492",
+    "type": "rent",
+    "category": {
+      "main": "commercial",
+      "sub": "mall"
+    },
+    "title": "Kiralık AVM - Nepal City",
+    "slug": "kiralik-avm-nepal-city-P06492",
+    "description": "Nepal City, Nepal bölgesinde avm. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 102175391,
+    "location": {
+      "country": "NP",
+      "city": "Nepal City",
+      "district": "Nepal City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 270",
+      "coordinates": {
+        "lat": 28.37191418888003,
+        "lng": 84.00456950607212
+      }
+    },
+    "specs": {
+      "netSize": 31290,
+      "grossSize": 37548,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 5,
+      "floor": 1,
+      "totalFloors": 17,
+      "heating": "Kombi",
+      "furnishing": "Unfurnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500577016646?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500655836845?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500199934352?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500613756925?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500407308300?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500304043739?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500978223396?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500634287024?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500714407756?w=800&q=80&category=house"
+    ],
+    "agent": {
+      "id": "A37",
+      "name": "Agent 40",
+      "phone": "+60 599 361 7015",
+      "email": "agent48@iwrealty.com",
+      "photo": "/images/icons/png/dubai-property-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": true,
+      "hasPool": true,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-05-03T10:50:47.248Z",
+    "updatedAt": "2025-11-13T10:50:47.248Z",
+    "storeId": "store-004"
+  },
+  {
+    "id": "P06493",
+    "type": "sale",
+    "category": {
+      "main": "commercial",
+      "sub": "hotel"
+    },
+    "title": "Satılık Otel - New Nepal",
+    "slug": "satilik-otel-new-nepal-P06493",
+    "description": "New Nepal, Nepal bölgesinde otel. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 45963614,
+    "location": {
+      "country": "NP",
+      "city": "New Nepal",
+      "district": "New Nepal Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 367",
+      "coordinates": {
+        "lat": 27.75088138400249,
+        "lng": 83.76059448154558
+      }
+    },
+    "specs": {
+      "netSize": 28464,
+      "grossSize": 34157,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 4,
+      "floor": 10,
+      "totalFloors": 13,
+      "heating": "Merkezi",
+      "furnishing": "Unfurnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500211260643?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500268187714?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500331968225?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500907410775?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500755623540?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500477586950?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500934887110?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500346701042?w=800&q=80&category=building"
+    ],
+    "agent": {
+      "id": "A20",
+      "name": "Agent 11",
+      "phone": "+45 118 238 9657",
+      "email": "agent51@iwrealty.com",
+      "photo": "/images/icons/png/ankara-modern-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-01-04T10:50:47.248Z",
+    "updatedAt": "2025-11-13T10:50:47.248Z",
+    "storeId": "store-003"
+  },
+  {
+    "id": "P06494",
+    "type": "rent",
+    "category": {
+      "main": "commercial",
+      "sub": "hotel"
+    },
+    "title": "Kiralık Otel - Nepal Central",
+    "slug": "kiralik-otel-nepal-central-P06494",
+    "description": "Nepal Central, Nepal bölgesinde otel. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 147037438,
+    "location": {
+      "country": "NP",
+      "city": "Nepal Central",
+      "district": "Nepal Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 656",
+      "coordinates": {
+        "lat": 28.035633244317353,
+        "lng": 83.8763961221715
+      }
+    },
+    "specs": {
+      "netSize": 14475,
+      "grossSize": 17370,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 7,
+      "floor": 1,
+      "totalFloors": 20,
+      "heating": "Klima",
+      "furnishing": "Unfurnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500844996607?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500542425315?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500073656388?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500104879260?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500072764088?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500604085015?w=800&q=80&category=architecture"
+    ],
+    "agent": {
+      "id": "A41",
+      "name": "Agent 96",
+      "phone": "+48 768 666 5106",
+      "email": "agent98@iwrealty.com",
+      "photo": "/images/icons/png/berlin-urban-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": false,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": true,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-08-11T10:50:47.248Z",
+    "updatedAt": "2025-11-13T10:50:47.248Z",
+    "storeId": "store-009"
+  },
+  {
+    "id": "P06495",
+    "type": "sale",
+    "category": {
+      "main": "commercial",
+      "sub": "restaurant"
+    },
+    "title": "Satılık Restoran - Kathmandu",
+    "slug": "satilik-restoran-kathmandu-P06495",
+    "description": "Kathmandu, Nepal bölgesinde restoran. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 4682001,
+    "location": {
+      "country": "NP",
+      "city": "Kathmandu",
+      "district": "Kathmandu Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 458",
+      "coordinates": {
+        "lat": 27.58282811183431,
+        "lng": 83.73951385643382
+      }
+    },
+    "specs": {
+      "netSize": 1428,
+      "grossSize": 1714,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 17,
+      "floor": 1,
+      "totalFloors": 6,
+      "heating": "Merkezi",
+      "furnishing": "Furnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500413725324?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500193205412?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500710917300?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500872273484?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500988399809?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500765585563?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500471623319?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500664340409?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500579058645?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500948640775?w=800&q=80&category=real-estate"
+    ],
+    "agent": {
+      "id": "A5",
+      "name": "Agent 4",
+      "phone": "+14 708 635 8214",
+      "email": "agent16@iwrealty.com",
+      "photo": "/images/icons/png/berlin-urban-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": true,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-05-11T10:50:47.248Z",
+    "updatedAt": "2025-11-13T10:50:47.248Z",
+    "storeId": "store-009"
+  },
+  {
+    "id": "P06496",
+    "type": "rent",
+    "category": {
+      "main": "commercial",
+      "sub": "restaurant"
+    },
+    "title": "Kiralık Restoran - Nepal Central",
+    "slug": "kiralik-restoran-nepal-central-P06496",
+    "description": "Nepal Central, Nepal bölgesinde restoran. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 6183506,
+    "location": {
+      "country": "NP",
+      "city": "Nepal Central",
+      "district": "Nepal Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 588",
+      "coordinates": {
+        "lat": 27.65385888302004,
+        "lng": 84.06721482852129
+      }
+    },
+    "specs": {
+      "netSize": 738,
+      "grossSize": 886,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 2,
+      "floor": 8,
+      "totalFloors": 6,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Furnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500817614328?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500227898803?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500865090900?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500114271630?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500347300518?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500931196807?w=800&q=80&category=building"
+    ],
+    "agent": {
+      "id": "A37",
+      "name": "Agent 92",
+      "phone": "+92 280 359 7427",
+      "email": "agent14@iwrealty.com",
+      "photo": "/images/icons/png/paris-heritage-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": true,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-03-01T10:50:47.248Z",
+    "updatedAt": "2025-11-13T10:50:47.248Z",
+    "storeId": "store-010"
+  },
+  {
+    "id": "P06497",
+    "type": "sale",
+    "category": {
+      "main": "commercial",
+      "sub": "warehouse"
+    },
+    "title": "Satılık Depo - Nepal City",
+    "slug": "satilik-depo-nepal-city-P06497",
+    "description": "Nepal City, Nepal bölgesinde depo. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 17406142,
+    "location": {
+      "country": "NP",
+      "city": "Nepal City",
+      "district": "Nepal City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 511",
+      "coordinates": {
+        "lat": 28.03223828590136,
+        "lng": 83.89338800122356
+      }
+    },
+    "specs": {
+      "netSize": 3729,
+      "grossSize": 4475,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 16,
+      "floor": 9,
+      "totalFloors": 9,
+      "heating": "Klima",
+      "furnishing": "Unfurnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500683041822?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500991681694?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500065919886?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500647886461?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500311068584?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500849815963?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500530096391?w=800&q=80&category=interior"
+    ],
+    "agent": {
+      "id": "A97",
+      "name": "Agent 89",
+      "phone": "+22 771 625 3454",
+      "email": "agent44@iwrealty.com",
+      "photo": "/images/icons/png/paris-heritage-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-08-23T10:50:47.248Z",
+    "updatedAt": "2025-11-13T10:50:47.248Z",
+    "storeId": "store-010"
+  },
+  {
+    "id": "P06498",
+    "type": "rent",
+    "category": {
+      "main": "commercial",
+      "sub": "warehouse"
+    },
+    "title": "Kiralık Depo - Kathmandu",
+    "slug": "kiralik-depo-kathmandu-P06498",
+    "description": "Kathmandu, Nepal bölgesinde depo. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 5897021,
+    "location": {
+      "country": "NP",
+      "city": "Kathmandu",
+      "district": "Kathmandu Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 710",
+      "coordinates": {
+        "lat": 27.711005526078164,
+        "lng": 84.42718164008686
+      }
+    },
+    "specs": {
+      "netSize": 5605,
+      "grossSize": 6726,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 11,
+      "floor": 7,
+      "totalFloors": 15,
+      "heating": "Klima",
+      "furnishing": "Unfurnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500381613047?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500610929037?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500919861303?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500771372000?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500054837008?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500514081742?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500571664018?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500149602805?w=800&q=80&category=building"
+    ],
+    "agent": {
+      "id": "A38",
+      "name": "Agent 4",
+      "phone": "+36 321 365 9553",
+      "email": "agent14@iwrealty.com",
+      "photo": "/images/icons/png/ny-skyline-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": false,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-09-18T10:50:47.248Z",
+    "updatedAt": "2025-11-13T10:50:47.248Z",
+    "storeId": "store-008"
+  }
+]

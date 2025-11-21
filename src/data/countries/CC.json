@@ -1,0 +1,2345 @@
+[
+  {
+    "id": "P01559",
+    "type": "sale",
+    "category": {
+      "main": "government"
+    },
+    "title": "Satılık Devlet Binası - Cocos (Keeling) Islands Central",
+    "slug": "satilik-devlet-binası-cocos-(keeling)-islands-central-P01559",
+    "description": "Cocos (Keeling) Islands Central, Cocos (Keeling) Islands bölgesinde devlet binası. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 43041605,
+    "location": {
+      "country": "CC",
+      "city": "Cocos (Keeling) Islands Central",
+      "district": "Cocos (Keeling) Islands Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 163",
+      "coordinates": {
+        "lat": -12.831664086399533,
+        "lng": 96.7210093634258
+      }
+    },
+    "specs": {
+      "netSize": 757,
+      "grossSize": 908,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 2,
+      "floor": 13,
+      "totalFloors": 17,
+      "heating": "Klima",
+      "furnishing": "Unfurnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500076907968?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500628239434?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500294136768?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500240567798?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500011852661?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500302504090?w=800&q=80&category=architecture"
+    ],
+    "agent": {
+      "id": "A19",
+      "name": "Agent 34",
+      "phone": "+48 229 699 3556",
+      "email": "agent5@iwrealty.com",
+      "photo": "/images/icons/png/berlin-urban-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": false,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": true,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-06-13T10:50:47.194Z",
+    "updatedAt": "2025-11-13T10:50:47.194Z",
+    "storeId": "store-009"
+  },
+  {
+    "id": "P01560",
+    "type": "rent",
+    "category": {
+      "main": "government"
+    },
+    "title": "Kiralık Okul - Cocos (Keeling) Islands City",
+    "slug": "kiralik-okul-cocos-(keeling)-islands-city-P01560",
+    "description": "Cocos (Keeling) Islands City, Cocos (Keeling) Islands bölgesinde okul. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 42054373,
+    "location": {
+      "country": "CC",
+      "city": "Cocos (Keeling) Islands City",
+      "district": "Cocos (Keeling) Islands City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 668",
+      "coordinates": {
+        "lat": -12.890366972107472,
+        "lng": 96.93771086370636
+      }
+    },
+    "specs": {
+      "netSize": 3602,
+      "grossSize": 4322,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 11,
+      "floor": 11,
+      "totalFloors": 10,
+      "heating": "Klima",
+      "furnishing": "Unfurnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500124482190?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500497044233?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500722194146?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500758980413?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500647711437?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500838257559?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500845314078?w=800&q=80&category=real-estate"
+    ],
+    "agent": {
+      "id": "A62",
+      "name": "Agent 100",
+      "phone": "+46 527 646 5544",
+      "email": "agent55@iwrealty.com",
+      "photo": "/images/icons/png/dubai-property-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-07-22T10:50:47.194Z",
+    "updatedAt": "2025-11-13T10:50:47.194Z",
+    "storeId": "store-004"
+  },
+  {
+    "id": "P01561",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Residence - West Island",
+    "slug": "satilik-residence-west-island-P01561",
+    "description": "West Island, Cocos (Keeling) Islands bölgesinde residence. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 7589745,
+    "location": {
+      "country": "CC",
+      "city": "West Island",
+      "district": "West Island Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 963",
+      "coordinates": {
+        "lat": -12.426892866056834,
+        "lng": 97.31386282486336
+      }
+    },
+    "specs": {
+      "netSize": 489,
+      "grossSize": 587,
+      "rooms": "1+2",
+      "bathrooms": 4,
+      "age": 17,
+      "floor": 2,
+      "totalFloors": 6,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500533765016?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500598100863?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500146371180?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500658641166?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500705156326?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500592541545?w=800&q=80&category=architecture"
+    ],
+    "agent": {
+      "id": "A86",
+      "name": "Agent 7",
+      "phone": "+38 890 366 5973",
+      "email": "agent92@iwrealty.com",
+      "photo": "/images/icons/png/ankara-modern-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": false,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-06-08T10:50:47.194Z",
+    "updatedAt": "2025-11-13T10:50:47.194Z",
+    "storeId": "store-003"
+  },
+  {
+    "id": "P01562",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Villa - West Island",
+    "slug": "kiralik-villa-west-island-P01562",
+    "description": "West Island, Cocos (Keeling) Islands bölgesinde villa. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 3051518,
+    "location": {
+      "country": "CC",
+      "city": "West Island",
+      "district": "West Island Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 291",
+      "coordinates": {
+        "lat": -12.500719403717689,
+        "lng": 96.99983373323724
+      }
+    },
+    "specs": {
+      "netSize": 198,
+      "grossSize": 238,
+      "rooms": "1+0",
+      "bathrooms": 4,
+      "age": 20,
+      "floor": 5,
+      "totalFloors": 15,
+      "heating": "Klima",
+      "furnishing": "Furnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500711064989?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500063545833?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500415146185?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500732638121?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500502492313?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500253847600?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500488564104?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500659739939?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500008891046?w=800&q=80&category=interior"
+    ],
+    "agent": {
+      "id": "A100",
+      "name": "Agent 49",
+      "phone": "+74 924 492 1333",
+      "email": "agent59@iwrealty.com",
+      "photo": "/images/icons/png/dubai-property-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-01-15T10:50:47.194Z",
+    "updatedAt": "2025-11-13T10:50:47.194Z",
+    "storeId": "store-004"
+  },
+  {
+    "id": "P01563",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Daire - Cocos (Keeling) Islands Central",
+    "slug": "satilik-daire-cocos-(keeling)-islands-central-P01563",
+    "description": "Cocos (Keeling) Islands Central, Cocos (Keeling) Islands bölgesinde daire. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 2617984,
+    "location": {
+      "country": "CC",
+      "city": "Cocos (Keeling) Islands Central",
+      "district": "Cocos (Keeling) Islands Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 855",
+      "coordinates": {
+        "lat": -12.946921904116138,
+        "lng": 97.24972775417038
+      }
+    },
+    "specs": {
+      "netSize": 287,
+      "grossSize": 344,
+      "rooms": "4+0",
+      "bathrooms": 4,
+      "age": 16,
+      "floor": 11,
+      "totalFloors": 5,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Furnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500459095975?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500172694728?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500481125448?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500241268881?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500561460063?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500746566520?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500021257068?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500153132832?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500008652903?w=800&q=80&category=architecture"
+    ],
+    "agent": {
+      "id": "A63",
+      "name": "Agent 6",
+      "phone": "+95 205 746 7010",
+      "email": "agent48@iwrealty.com",
+      "photo": "/images/icons/png/berlin-urban-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-08-14T10:50:47.194Z",
+    "updatedAt": "2025-11-13T10:50:47.194Z",
+    "storeId": "store-009"
+  },
+  {
+    "id": "P01564",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Daire - Cocos (Keeling) Islands City",
+    "slug": "kiralik-daire-cocos-(keeling)-islands-city-P01564",
+    "description": "Cocos (Keeling) Islands City, Cocos (Keeling) Islands bölgesinde daire. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 5805895,
+    "location": {
+      "country": "CC",
+      "city": "Cocos (Keeling) Islands City",
+      "district": "Cocos (Keeling) Islands City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 326",
+      "coordinates": {
+        "lat": -12.012902622808456,
+        "lng": 96.42828349252092
+      }
+    },
+    "specs": {
+      "netSize": 220,
+      "grossSize": 264,
+      "rooms": "3+0",
+      "bathrooms": 2,
+      "age": 6,
+      "floor": 1,
+      "totalFloors": 17,
+      "heating": "Klima",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500321837162?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500746519957?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500272078459?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500351328113?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500137533363?w=800&q=80&category=house"
+    ],
+    "agent": {
+      "id": "A87",
+      "name": "Agent 86",
+      "phone": "+96 912 706 1124",
+      "email": "agent8@iwrealty.com",
+      "photo": "/images/icons/png/antalya-investment-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": false,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2024-11-16T10:50:47.194Z",
+    "updatedAt": "2025-11-13T10:50:47.194Z",
+    "storeId": "store-006"
+  },
+  {
+    "id": "P01565",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Residence - Cocos (Keeling) Islands Central",
+    "slug": "satilik-residence-cocos-(keeling)-islands-central-P01565",
+    "description": "Cocos (Keeling) Islands Central, Cocos (Keeling) Islands bölgesinde residence. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 6023967,
+    "location": {
+      "country": "CC",
+      "city": "Cocos (Keeling) Islands Central",
+      "district": "Cocos (Keeling) Islands Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 489",
+      "coordinates": {
+        "lat": -12.489579968364449,
+        "lng": 96.76261450696904
+      }
+    },
+    "specs": {
+      "netSize": 258,
+      "grossSize": 310,
+      "rooms": "1+2",
+      "bathrooms": 1,
+      "age": 15,
+      "floor": 14,
+      "totalFloors": 15,
+      "heating": "Merkezi",
+      "furnishing": "Unfurnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500880697074?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500671232411?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500101326401?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500171734959?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500060162835?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500025050222?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500798795644?w=800&q=80&category=building"
+    ],
+    "agent": {
+      "id": "A23",
+      "name": "Agent 59",
+      "phone": "+28 474 502 2760",
+      "email": "agent19@iwrealty.com",
+      "photo": "/images/icons/png/berlin-urban-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-10-14T10:50:47.195Z",
+    "updatedAt": "2025-11-13T10:50:47.195Z",
+    "storeId": "store-009"
+  },
+  {
+    "id": "P01566",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Villa - New Cocos (Keeling) Islands",
+    "slug": "kiralik-villa-new-cocos-(keeling)-islands-P01566",
+    "description": "New Cocos (Keeling) Islands, Cocos (Keeling) Islands bölgesinde villa. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 5404237,
+    "location": {
+      "country": "CC",
+      "city": "New Cocos (Keeling) Islands",
+      "district": "New Cocos (Keeling) Islands Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 143",
+      "coordinates": {
+        "lat": -12.233818206375469,
+        "lng": 97.12481424620256
+      }
+    },
+    "specs": {
+      "netSize": 151,
+      "grossSize": 181,
+      "rooms": "4+1",
+      "bathrooms": 4,
+      "age": 17,
+      "floor": 6,
+      "totalFloors": 8,
+      "heating": "Merkezi",
+      "furnishing": "Furnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500024600321?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500125382972?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500855948368?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500485167474?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500268057212?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500704639975?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500983445200?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500355234492?w=800&q=80&category=real-estate"
+    ],
+    "agent": {
+      "id": "A17",
+      "name": "Agent 97",
+      "phone": "+58 356 623 9938",
+      "email": "agent11@iwrealty.com",
+      "photo": "/images/icons/png/london-prime-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": false,
+      "hasBalcony": false,
+      "hasGarden": true,
+      "hasPool": true,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-06-16T10:50:47.195Z",
+    "updatedAt": "2025-11-13T10:50:47.195Z",
+    "storeId": "store-007"
+  },
+  {
+    "id": "P01567",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Müstakil Ev - Cocos (Keeling) Islands City",
+    "slug": "satilik-müstakil-ev-cocos-(keeling)-islands-city-P01567",
+    "description": "Cocos (Keeling) Islands City, Cocos (Keeling) Islands bölgesinde müstakil ev. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 4364633,
+    "location": {
+      "country": "CC",
+      "city": "Cocos (Keeling) Islands City",
+      "district": "Cocos (Keeling) Islands City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 348",
+      "coordinates": {
+        "lat": -12.800971848961135,
+        "lng": 97.27450278149232
+      }
+    },
+    "specs": {
+      "netSize": 219,
+      "grossSize": 263,
+      "rooms": "2+1",
+      "bathrooms": 4,
+      "age": 17,
+      "floor": 6,
+      "totalFloors": 20,
+      "heating": "Kombi",
+      "furnishing": "Furnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500898929842?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500543705002?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500313360766?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500377602502?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500053688898?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500931131162?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500117740143?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500485927859?w=800&q=80&category=real-estate"
+    ],
+    "agent": {
+      "id": "A52",
+      "name": "Agent 21",
+      "phone": "+46 237 693 2966",
+      "email": "agent21@iwrealty.com",
+      "photo": "/images/icons/png/ankara-modern-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": false,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-02-28T10:50:47.195Z",
+    "updatedAt": "2025-11-13T10:50:47.195Z",
+    "storeId": "store-003"
+  },
+  {
+    "id": "P01568",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Daire - Cocos (Keeling) Islands Central",
+    "slug": "kiralik-daire-cocos-(keeling)-islands-central-P01568",
+    "description": "Cocos (Keeling) Islands Central, Cocos (Keeling) Islands bölgesinde daire. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 6986787,
+    "location": {
+      "country": "CC",
+      "city": "Cocos (Keeling) Islands Central",
+      "district": "Cocos (Keeling) Islands Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 578",
+      "coordinates": {
+        "lat": -12.695196277362685,
+        "lng": 97.29080260972555
+      }
+    },
+    "specs": {
+      "netSize": 419,
+      "grossSize": 503,
+      "rooms": "2+0",
+      "bathrooms": 4,
+      "age": 3,
+      "floor": 2,
+      "totalFloors": 17,
+      "heating": "Klima",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500722499706?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500861088823?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500142288880?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500566364675?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500320767012?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500447782287?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500272945025?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500672600351?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500333174608?w=800&q=80&category=real-estate"
+    ],
+    "agent": {
+      "id": "A40",
+      "name": "Agent 93",
+      "phone": "+20 246 526 5228",
+      "email": "agent77@iwrealty.com",
+      "photo": "/images/icons/png/berlin-urban-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2024-11-30T10:50:47.195Z",
+    "updatedAt": "2025-11-13T10:50:47.195Z",
+    "storeId": "store-009"
+  },
+  {
+    "id": "P01569",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Residence - Cocos (Keeling) Islands Central",
+    "slug": "satilik-residence-cocos-(keeling)-islands-central-P01569",
+    "description": "Cocos (Keeling) Islands Central, Cocos (Keeling) Islands bölgesinde residence. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 5969179,
+    "location": {
+      "country": "CC",
+      "city": "Cocos (Keeling) Islands Central",
+      "district": "Cocos (Keeling) Islands Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 729",
+      "coordinates": {
+        "lat": -12.75018106006366,
+        "lng": 97.2078262840709
+      }
+    },
+    "specs": {
+      "netSize": 275,
+      "grossSize": 330,
+      "rooms": "2+1",
+      "bathrooms": 3,
+      "age": 6,
+      "floor": 13,
+      "totalFloors": 8,
+      "heating": "Merkezi",
+      "furnishing": "Unfurnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500496170385?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500459087219?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500471026373?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500329047013?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500006512593?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500593968104?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500780677029?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500654581899?w=800&q=80&category=house"
+    ],
+    "agent": {
+      "id": "A61",
+      "name": "Agent 1",
+      "phone": "+36 551 500 3099",
+      "email": "agent81@iwrealty.com",
+      "photo": "/images/icons/png/ankara-modern-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-05-02T10:50:47.195Z",
+    "updatedAt": "2025-11-13T10:50:47.195Z",
+    "storeId": "store-003"
+  },
+  {
+    "id": "P01570",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Daire - New Cocos (Keeling) Islands",
+    "slug": "kiralik-daire-new-cocos-(keeling)-islands-P01570",
+    "description": "New Cocos (Keeling) Islands, Cocos (Keeling) Islands bölgesinde daire. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 12872135,
+    "location": {
+      "country": "CC",
+      "city": "New Cocos (Keeling) Islands",
+      "district": "New Cocos (Keeling) Islands Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 819",
+      "coordinates": {
+        "lat": -12.011480897947662,
+        "lng": 96.40766305921636
+      }
+    },
+    "specs": {
+      "netSize": 119,
+      "grossSize": 143,
+      "rooms": "2+0",
+      "bathrooms": 4,
+      "age": 9,
+      "floor": 10,
+      "totalFloors": 13,
+      "heating": "Merkezi",
+      "furnishing": "Unfurnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500150008104?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500435574356?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500951736312?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500101694529?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500544838247?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500619020821?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500303660787?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500061188035?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500864378068?w=800&q=80&category=interior"
+    ],
+    "agent": {
+      "id": "A32",
+      "name": "Agent 68",
+      "phone": "+86 973 822 1425",
+      "email": "agent99@iwrealty.com",
+      "photo": "/images/icons/png/berlin-urban-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2024-12-13T10:50:47.195Z",
+    "updatedAt": "2025-11-13T10:50:47.195Z",
+    "storeId": "store-009"
+  },
+  {
+    "id": "P01571",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Residence - Cocos (Keeling) Islands City",
+    "slug": "satilik-residence-cocos-(keeling)-islands-city-P01571",
+    "description": "Cocos (Keeling) Islands City, Cocos (Keeling) Islands bölgesinde residence. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 12634603,
+    "location": {
+      "country": "CC",
+      "city": "Cocos (Keeling) Islands City",
+      "district": "Cocos (Keeling) Islands City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 383",
+      "coordinates": {
+        "lat": -12.571646830300988,
+        "lng": 96.92243590534692
+      }
+    },
+    "specs": {
+      "netSize": 252,
+      "grossSize": 302,
+      "rooms": "4+1",
+      "bathrooms": 4,
+      "age": 13,
+      "floor": 1,
+      "totalFloors": 15,
+      "heating": "Kombi",
+      "furnishing": "Unfurnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500022900959?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500654072105?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500280205244?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500106878920?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500318976493?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500751310352?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500789175604?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500415868448?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500309267138?w=800&q=80&category=real-estate"
+    ],
+    "agent": {
+      "id": "A85",
+      "name": "Agent 87",
+      "phone": "+31 750 670 5407",
+      "email": "agent89@iwrealty.com",
+      "photo": "/images/icons/png/berlin-urban-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-08-16T10:50:47.195Z",
+    "updatedAt": "2025-11-13T10:50:47.195Z",
+    "storeId": "store-009"
+  },
+  {
+    "id": "P01572",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Villa - West Island",
+    "slug": "kiralik-villa-west-island-P01572",
+    "description": "West Island, Cocos (Keeling) Islands bölgesinde villa. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 1542806,
+    "location": {
+      "country": "CC",
+      "city": "West Island",
+      "district": "West Island Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 125",
+      "coordinates": {
+        "lat": -12.768832454156028,
+        "lng": 96.92667246454934
+      }
+    },
+    "specs": {
+      "netSize": 405,
+      "grossSize": 486,
+      "rooms": "5+0",
+      "bathrooms": 3,
+      "age": 5,
+      "floor": 4,
+      "totalFloors": 6,
+      "heating": "Klima",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500117408411?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500085479541?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500705962350?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500690371544?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500973830511?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500317911763?w=800&q=80&category=architecture"
+    ],
+    "agent": {
+      "id": "A58",
+      "name": "Agent 53",
+      "phone": "+27 347 661 6889",
+      "email": "agent92@iwrealty.com",
+      "photo": "/images/icons/png/izmir-sahil-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-09-11T10:50:47.195Z",
+    "updatedAt": "2025-11-13T10:50:47.195Z",
+    "storeId": "store-005"
+  },
+  {
+    "id": "P01573",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Villa - Cocos (Keeling) Islands Central",
+    "slug": "satilik-villa-cocos-(keeling)-islands-central-P01573",
+    "description": "Cocos (Keeling) Islands Central, Cocos (Keeling) Islands bölgesinde villa. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 7515157,
+    "location": {
+      "country": "CC",
+      "city": "Cocos (Keeling) Islands Central",
+      "district": "Cocos (Keeling) Islands Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 108",
+      "coordinates": {
+        "lat": -12.631833389395748,
+        "lng": 96.45141597529654
+      }
+    },
+    "specs": {
+      "netSize": 194,
+      "grossSize": 233,
+      "rooms": "3+2",
+      "bathrooms": 1,
+      "age": 2,
+      "floor": 12,
+      "totalFloors": 11,
+      "heating": "Merkezi",
+      "furnishing": "Unfurnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500223681005?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500308876955?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500354259404?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500181453734?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500407695267?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500935147270?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500329205089?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500595396430?w=800&q=80&category=building"
+    ],
+    "agent": {
+      "id": "A8",
+      "name": "Agent 27",
+      "phone": "+90 959 107 2498",
+      "email": "agent48@iwrealty.com",
+      "photo": "/images/icons/png/luxury-homes-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": true,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-03-31T10:50:47.195Z",
+    "updatedAt": "2025-11-13T10:50:47.195Z",
+    "storeId": "store-002"
+  },
+  {
+    "id": "P01574",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Müstakil Ev - New Cocos (Keeling) Islands",
+    "slug": "kiralik-müstakil-ev-new-cocos-(keeling)-islands-P01574",
+    "description": "New Cocos (Keeling) Islands, Cocos (Keeling) Islands bölgesinde müstakil ev. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 10645850,
+    "location": {
+      "country": "CC",
+      "city": "New Cocos (Keeling) Islands",
+      "district": "New Cocos (Keeling) Islands Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 479",
+      "coordinates": {
+        "lat": -12.14163706672558,
+        "lng": 96.61286908548318
+      }
+    },
+    "specs": {
+      "netSize": 191,
+      "grossSize": 229,
+      "rooms": "5+2",
+      "bathrooms": 1,
+      "age": 3,
+      "floor": 9,
+      "totalFloors": 12,
+      "heating": "Kombi",
+      "furnishing": "Unfurnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500359502073?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500304331804?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500573328216?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500786273658?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500833319671?w=800&q=80&category=architecture"
+    ],
+    "agent": {
+      "id": "A81",
+      "name": "Agent 84",
+      "phone": "+55 410 396 2113",
+      "email": "agent38@iwrealty.com",
+      "photo": "/images/icons/png/antalya-investment-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": false,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-08-02T10:50:47.195Z",
+    "updatedAt": "2025-11-13T10:50:47.195Z",
+    "storeId": "store-006"
+  },
+  {
+    "id": "P01575",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Daire - West Island",
+    "slug": "satilik-daire-west-island-P01575",
+    "description": "West Island, Cocos (Keeling) Islands bölgesinde daire. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 9167803,
+    "location": {
+      "country": "CC",
+      "city": "West Island",
+      "district": "West Island Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 473",
+      "coordinates": {
+        "lat": -12.799501568386155,
+        "lng": 96.79719602520885
+      }
+    },
+    "specs": {
+      "netSize": 114,
+      "grossSize": 137,
+      "rooms": "2+0",
+      "bathrooms": 2,
+      "age": 6,
+      "floor": 10,
+      "totalFloors": 8,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500924535602?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500207615000?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500909735951?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500483637596?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500016120485?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500013752366?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500894628105?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500145886661?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500111355165?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500450915274?w=800&q=80&category=architecture"
+    ],
+    "agent": {
+      "id": "A75",
+      "name": "Agent 19",
+      "phone": "+21 156 428 2225",
+      "email": "agent90@iwrealty.com",
+      "photo": "/images/icons/png/sg-harbour-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-03-26T10:50:47.195Z",
+    "updatedAt": "2025-11-13T10:50:47.195Z",
+    "storeId": "store-011"
+  },
+  {
+    "id": "P01576",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Residence - Cocos (Keeling) Islands City",
+    "slug": "kiralik-residence-cocos-(keeling)-islands-city-P01576",
+    "description": "Cocos (Keeling) Islands City, Cocos (Keeling) Islands bölgesinde residence. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 11775674,
+    "location": {
+      "country": "CC",
+      "city": "Cocos (Keeling) Islands City",
+      "district": "Cocos (Keeling) Islands City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 935",
+      "coordinates": {
+        "lat": -12.592120302785776,
+        "lng": 96.5657775085707
+      }
+    },
+    "specs": {
+      "netSize": 203,
+      "grossSize": 244,
+      "rooms": "5+2",
+      "bathrooms": 1,
+      "age": 1,
+      "floor": 7,
+      "totalFloors": 5,
+      "heating": "Kombi",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500833199571?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500808368101?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500334172946?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500592761661?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500930463708?w=800&q=80&category=architecture"
+    ],
+    "agent": {
+      "id": "A65",
+      "name": "Agent 17",
+      "phone": "+26 183 891 1457",
+      "email": "agent30@iwrealty.com",
+      "photo": "/images/icons/png/paris-heritage-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-09-26T10:50:47.195Z",
+    "updatedAt": "2025-11-13T10:50:47.195Z",
+    "storeId": "store-010"
+  },
+  {
+    "id": "P01577",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Daire - New Cocos (Keeling) Islands",
+    "slug": "satilik-daire-new-cocos-(keeling)-islands-P01577",
+    "description": "New Cocos (Keeling) Islands, Cocos (Keeling) Islands bölgesinde daire. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 780438,
+    "location": {
+      "country": "CC",
+      "city": "New Cocos (Keeling) Islands",
+      "district": "New Cocos (Keeling) Islands Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 60",
+      "coordinates": {
+        "lat": -12.20895366366473,
+        "lng": 96.5853807366893
+      }
+    },
+    "specs": {
+      "netSize": 261,
+      "grossSize": 313,
+      "rooms": "3+2",
+      "bathrooms": 1,
+      "age": 9,
+      "floor": 13,
+      "totalFloors": 13,
+      "heating": "Klima",
+      "furnishing": "Furnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500314027272?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500583645305?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500494776517?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500990802893?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500267872107?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500398636151?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500929416187?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500316153256?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500655544537?w=800&q=80&category=real-estate"
+    ],
+    "agent": {
+      "id": "A19",
+      "name": "Agent 100",
+      "phone": "+58 662 206 7734",
+      "email": "agent56@iwrealty.com",
+      "photo": "/images/icons/png/paris-heritage-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-02-16T10:50:47.195Z",
+    "updatedAt": "2025-11-13T10:50:47.195Z",
+    "storeId": "store-010"
+  },
+  {
+    "id": "P01578",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Daire - New Cocos (Keeling) Islands",
+    "slug": "kiralik-daire-new-cocos-(keeling)-islands-P01578",
+    "description": "New Cocos (Keeling) Islands, Cocos (Keeling) Islands bölgesinde daire. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 14615544,
+    "location": {
+      "country": "CC",
+      "city": "New Cocos (Keeling) Islands",
+      "district": "New Cocos (Keeling) Islands Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 959",
+      "coordinates": {
+        "lat": -12.423809574818222,
+        "lng": 97.02670949325578
+      }
+    },
+    "specs": {
+      "netSize": 485,
+      "grossSize": 582,
+      "rooms": "4+0",
+      "bathrooms": 4,
+      "age": 0,
+      "floor": 3,
+      "totalFloors": 18,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500963636930?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500897084115?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500747130882?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500747439782?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500795952568?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500890795305?w=800&q=80&category=architecture"
+    ],
+    "agent": {
+      "id": "A2",
+      "name": "Agent 34",
+      "phone": "+65 901 892 5107",
+      "email": "agent64@iwrealty.com",
+      "photo": "/images/icons/png/ankara-modern-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": false,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": true,
+      "hasSecurity": false
+    },
+    "createdAt": "2024-12-02T10:50:47.195Z",
+    "updatedAt": "2025-11-13T10:50:47.195Z",
+    "storeId": "store-003"
+  },
+  {
+    "id": "P01579",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Daire - West Island",
+    "slug": "satilik-daire-west-island-P01579",
+    "description": "West Island, Cocos (Keeling) Islands bölgesinde daire. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 12492555,
+    "location": {
+      "country": "CC",
+      "city": "West Island",
+      "district": "West Island Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 142",
+      "coordinates": {
+        "lat": -12.707814975598104,
+        "lng": 97.29786922539924
+      }
+    },
+    "specs": {
+      "netSize": 177,
+      "grossSize": 212,
+      "rooms": "1+0",
+      "bathrooms": 3,
+      "age": 16,
+      "floor": 5,
+      "totalFloors": 9,
+      "heating": "Kombi",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500552014359?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500323185783?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500024192899?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500833497599?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500313765723?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500750830396?w=800&q=80&category=interior"
+    ],
+    "agent": {
+      "id": "A90",
+      "name": "Agent 52",
+      "phone": "+21 726 227 2027",
+      "email": "agent77@iwrealty.com",
+      "photo": "/images/icons/png/paris-heritage-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": false,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": true,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-01-11T10:50:47.195Z",
+    "updatedAt": "2025-11-13T10:50:47.195Z",
+    "storeId": "store-010"
+  },
+  {
+    "id": "P01580",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Residence - Cocos (Keeling) Islands Central",
+    "slug": "kiralik-residence-cocos-(keeling)-islands-central-P01580",
+    "description": "Cocos (Keeling) Islands Central, Cocos (Keeling) Islands bölgesinde residence. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 9800220,
+    "location": {
+      "country": "CC",
+      "city": "Cocos (Keeling) Islands Central",
+      "district": "Cocos (Keeling) Islands Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 384",
+      "coordinates": {
+        "lat": -12.729555932356938,
+        "lng": 97.10213113808909
+      }
+    },
+    "specs": {
+      "netSize": 352,
+      "grossSize": 422,
+      "rooms": "3+2",
+      "bathrooms": 3,
+      "age": 15,
+      "floor": 2,
+      "totalFloors": 6,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500226018952?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500014465689?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500849257291?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500840446318?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500904201211?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500291373981?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500067737636?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500812084606?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500101277759?w=800&q=80&category=house"
+    ],
+    "agent": {
+      "id": "A14",
+      "name": "Agent 20",
+      "phone": "+43 630 463 2325",
+      "email": "agent94@iwrealty.com",
+      "photo": "/images/icons/png/paris-heritage-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": false,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": true,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-01-09T10:50:47.195Z",
+    "updatedAt": "2025-11-13T10:50:47.195Z",
+    "storeId": "store-010"
+  },
+  {
+    "id": "P01581",
+    "type": "sale",
+    "category": {
+      "main": "commercial",
+      "sub": "hospital"
+    },
+    "title": "Satılık Hastane - West Island",
+    "slug": "satilik-hastane-west-island-P01581",
+    "description": "West Island, Cocos (Keeling) Islands bölgesinde hastane. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 82339693,
+    "location": {
+      "country": "CC",
+      "city": "West Island",
+      "district": "West Island Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 156",
+      "coordinates": {
+        "lat": -12.075483597107498,
+        "lng": 97.10942070113298
+      }
+    },
+    "specs": {
+      "netSize": 12190,
+      "grossSize": 14628,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 12,
+      "floor": 4,
+      "totalFloors": 10,
+      "heating": "Kombi",
+      "furnishing": "Furnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500530189833?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500287202157?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500900312758?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500017702179?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500989046637?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500507847841?w=800&q=80&category=building"
+    ],
+    "agent": {
+      "id": "A94",
+      "name": "Agent 50",
+      "phone": "+96 884 632 4326",
+      "email": "agent84@iwrealty.com",
+      "photo": "/images/icons/png/ankara-modern-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": true,
+      "hasPool": true,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-04-08T10:50:47.195Z",
+    "updatedAt": "2025-11-13T10:50:47.195Z",
+    "storeId": "store-003"
+  },
+  {
+    "id": "P01582",
+    "type": "rent",
+    "category": {
+      "main": "commercial",
+      "sub": "hospital"
+    },
+    "title": "Kiralık Hastane - West Island",
+    "slug": "kiralik-hastane-west-island-P01582",
+    "description": "West Island, Cocos (Keeling) Islands bölgesinde hastane. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 48907499,
+    "location": {
+      "country": "CC",
+      "city": "West Island",
+      "district": "West Island Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 961",
+      "coordinates": {
+        "lat": -12.361490314370775,
+        "lng": 96.80130577884607
+      }
+    },
+    "specs": {
+      "netSize": 15018,
+      "grossSize": 18022,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 14,
+      "floor": 10,
+      "totalFloors": 20,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Furnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500620017409?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500693055896?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500266588272?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500736005036?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500735670415?w=800&q=80&category=interior"
+    ],
+    "agent": {
+      "id": "A57",
+      "name": "Agent 60",
+      "phone": "+31 838 959 7664",
+      "email": "agent64@iwrealty.com",
+      "photo": "/images/icons/png/sg-harbour-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": true,
+      "hasSecurity": true
+    },
+    "createdAt": "2024-12-20T10:50:47.195Z",
+    "updatedAt": "2025-11-13T10:50:47.195Z",
+    "storeId": "store-011"
+  },
+  {
+    "id": "P01583",
+    "type": "sale",
+    "category": {
+      "main": "commercial",
+      "sub": "clinic"
+    },
+    "title": "Satılık Klinik - New Cocos (Keeling) Islands",
+    "slug": "satilik-klinik-new-cocos-(keeling)-islands-P01583",
+    "description": "New Cocos (Keeling) Islands, Cocos (Keeling) Islands bölgesinde klinik. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 2753233,
+    "location": {
+      "country": "CC",
+      "city": "New Cocos (Keeling) Islands",
+      "district": "New Cocos (Keeling) Islands Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 973",
+      "coordinates": {
+        "lat": -12.109867556900193,
+        "lng": 96.93212203187142
+      }
+    },
+    "specs": {
+      "netSize": 1631,
+      "grossSize": 1957,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 18,
+      "floor": 6,
+      "totalFloors": 14,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Unfurnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500003174511?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500335303571?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500989092088?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500752833195?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500609992966?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500410804580?w=800&q=80&category=interior"
+    ],
+    "agent": {
+      "id": "A18",
+      "name": "Agent 19",
+      "phone": "+88 735 927 9619",
+      "email": "agent27@iwrealty.com",
+      "photo": "/images/icons/png/luxury-homes-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-09-11T10:50:47.195Z",
+    "updatedAt": "2025-11-13T10:50:47.195Z",
+    "storeId": "store-002"
+  },
+  {
+    "id": "P01584",
+    "type": "rent",
+    "category": {
+      "main": "commercial",
+      "sub": "clinic"
+    },
+    "title": "Kiralık Klinik - New Cocos (Keeling) Islands",
+    "slug": "kiralik-klinik-new-cocos-(keeling)-islands-P01584",
+    "description": "New Cocos (Keeling) Islands, Cocos (Keeling) Islands bölgesinde klinik. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 18335429,
+    "location": {
+      "country": "CC",
+      "city": "New Cocos (Keeling) Islands",
+      "district": "New Cocos (Keeling) Islands Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 212",
+      "coordinates": {
+        "lat": -12.099142944938874,
+        "lng": 96.62442489887427
+      }
+    },
+    "specs": {
+      "netSize": 1523,
+      "grossSize": 1828,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 12,
+      "floor": 12,
+      "totalFloors": 18,
+      "heating": "Klima",
+      "furnishing": "Unfurnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500577503705?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500686242326?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500033616315?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500626292151?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500550375467?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500886499451?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500053565975?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500477249498?w=800&q=80&category=real-estate"
+    ],
+    "agent": {
+      "id": "A36",
+      "name": "Agent 80",
+      "phone": "+38 643 142 4006",
+      "email": "agent70@iwrealty.com",
+      "photo": "/images/icons/png/izmir-sahil-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-08-24T10:50:47.195Z",
+    "updatedAt": "2025-11-13T10:50:47.195Z",
+    "storeId": "store-005"
+  },
+  {
+    "id": "P01585",
+    "type": "sale",
+    "category": {
+      "main": "commercial",
+      "sub": "shop"
+    },
+    "title": "Satılık Dükkan - Cocos (Keeling) Islands Central",
+    "slug": "satilik-dükkan-cocos-(keeling)-islands-central-P01585",
+    "description": "Cocos (Keeling) Islands Central, Cocos (Keeling) Islands bölgesinde dükkan. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 5496025,
+    "location": {
+      "country": "CC",
+      "city": "Cocos (Keeling) Islands Central",
+      "district": "Cocos (Keeling) Islands Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 766",
+      "coordinates": {
+        "lat": -12.073556352494638,
+        "lng": 96.57125219021998
+      }
+    },
+    "specs": {
+      "netSize": 437,
+      "grossSize": 524,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 4,
+      "floor": 6,
+      "totalFloors": 8,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Furnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500647765452?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500071848883?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500606642507?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500047198005?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500308953227?w=800&q=80&category=architecture"
+    ],
+    "agent": {
+      "id": "A26",
+      "name": "Agent 66",
+      "phone": "+37 646 345 5214",
+      "email": "agent17@iwrealty.com",
+      "photo": "/images/icons/png/london-prime-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": true,
+      "hasPool": true,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-01-13T10:50:47.195Z",
+    "updatedAt": "2025-11-13T10:50:47.195Z",
+    "storeId": "store-007"
+  },
+  {
+    "id": "P01586",
+    "type": "rent",
+    "category": {
+      "main": "commercial",
+      "sub": "shop"
+    },
+    "title": "Kiralık Dükkan - Cocos (Keeling) Islands Central",
+    "slug": "kiralik-dükkan-cocos-(keeling)-islands-central-P01586",
+    "description": "Cocos (Keeling) Islands Central, Cocos (Keeling) Islands bölgesinde dükkan. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 7731012,
+    "location": {
+      "country": "CC",
+      "city": "Cocos (Keeling) Islands Central",
+      "district": "Cocos (Keeling) Islands Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 824",
+      "coordinates": {
+        "lat": -12.746168750050657,
+        "lng": 97.32338791574888
+      }
+    },
+    "specs": {
+      "netSize": 240,
+      "grossSize": 288,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 0,
+      "floor": 12,
+      "totalFloors": 20,
+      "heating": "Kombi",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500546367236?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500801276571?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500481466184?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500719383095?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500166578080?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500495310268?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500708974509?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500293953849?w=800&q=80&category=house"
+    ],
+    "agent": {
+      "id": "A65",
+      "name": "Agent 76",
+      "phone": "+84 427 175 1199",
+      "email": "agent25@iwrealty.com",
+      "photo": "/images/icons/png/london-prime-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": false,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-03-20T10:50:47.195Z",
+    "updatedAt": "2025-11-13T10:50:47.195Z",
+    "storeId": "store-007"
+  },
+  {
+    "id": "P01587",
+    "type": "sale",
+    "category": {
+      "main": "commercial",
+      "sub": "office"
+    },
+    "title": "Satılık Ofis - West Island",
+    "slug": "satilik-ofis-west-island-P01587",
+    "description": "West Island, Cocos (Keeling) Islands bölgesinde ofis. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 2114201,
+    "location": {
+      "country": "CC",
+      "city": "West Island",
+      "district": "West Island Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 690",
+      "coordinates": {
+        "lat": -12.81426639884636,
+        "lng": 96.53746640879645
+      }
+    },
+    "specs": {
+      "netSize": 534,
+      "grossSize": 641,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 15,
+      "floor": 8,
+      "totalFloors": 19,
+      "heating": "Merkezi",
+      "furnishing": "Furnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500784022678?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500354241178?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500161410858?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500419536547?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500147632773?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500447046098?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500614884103?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500572992207?w=800&q=80&category=building"
+    ],
+    "agent": {
+      "id": "A7",
+      "name": "Agent 6",
+      "phone": "+77 468 300 2852",
+      "email": "agent55@iwrealty.com",
+      "photo": "/images/icons/png/berlin-urban-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": true,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-03-13T10:50:47.195Z",
+    "updatedAt": "2025-11-13T10:50:47.195Z",
+    "storeId": "store-009"
+  },
+  {
+    "id": "P01588",
+    "type": "rent",
+    "category": {
+      "main": "commercial",
+      "sub": "office"
+    },
+    "title": "Kiralık Ofis - West Island",
+    "slug": "kiralik-ofis-west-island-P01588",
+    "description": "West Island, Cocos (Keeling) Islands bölgesinde ofis. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 14472852,
+    "location": {
+      "country": "CC",
+      "city": "West Island",
+      "district": "West Island Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 685",
+      "coordinates": {
+        "lat": -12.78467159361757,
+        "lng": 96.85612362993768
+      }
+    },
+    "specs": {
+      "netSize": 405,
+      "grossSize": 486,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 7,
+      "floor": 4,
+      "totalFloors": 17,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500417657208?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500203875816?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500231531869?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500651663917?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500582831566?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500537445694?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500451805456?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500042574748?w=800&q=80&category=real-estate"
+    ],
+    "agent": {
+      "id": "A22",
+      "name": "Agent 71",
+      "phone": "+92 914 964 7672",
+      "email": "agent24@iwrealty.com",
+      "photo": "/images/icons/png/luxury-homes-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": false,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": true,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-05-25T10:50:47.195Z",
+    "updatedAt": "2025-11-13T10:50:47.195Z",
+    "storeId": "store-002"
+  },
+  {
+    "id": "P01589",
+    "type": "sale",
+    "category": {
+      "main": "commercial",
+      "sub": "mall"
+    },
+    "title": "Satılık AVM - Cocos (Keeling) Islands City",
+    "slug": "satilik-avm-cocos-(keeling)-islands-city-P01589",
+    "description": "Cocos (Keeling) Islands City, Cocos (Keeling) Islands bölgesinde avm. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 424964336,
+    "location": {
+      "country": "CC",
+      "city": "Cocos (Keeling) Islands City",
+      "district": "Cocos (Keeling) Islands City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 252",
+      "coordinates": {
+        "lat": -12.228745545600797,
+        "lng": 96.79645497264227
+      }
+    },
+    "specs": {
+      "netSize": 20713,
+      "grossSize": 24856,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 16,
+      "floor": 1,
+      "totalFloors": 15,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Furnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500977121483?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500076612542?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500861735744?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500393482305?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500028141844?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500387610697?w=800&q=80&category=interior"
+    ],
+    "agent": {
+      "id": "A27",
+      "name": "Agent 23",
+      "phone": "+40 698 165 5567",
+      "email": "agent83@iwrealty.com",
+      "photo": "/images/icons/png/ankara-modern-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": false,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-04-11T10:50:47.195Z",
+    "updatedAt": "2025-11-13T10:50:47.195Z",
+    "storeId": "store-003"
+  },
+  {
+    "id": "P01590",
+    "type": "rent",
+    "category": {
+      "main": "commercial",
+      "sub": "mall"
+    },
+    "title": "Kiralık AVM - Cocos (Keeling) Islands City",
+    "slug": "kiralik-avm-cocos-(keeling)-islands-city-P01590",
+    "description": "Cocos (Keeling) Islands City, Cocos (Keeling) Islands bölgesinde avm. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 101788945,
+    "location": {
+      "country": "CC",
+      "city": "Cocos (Keeling) Islands City",
+      "district": "Cocos (Keeling) Islands City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 511",
+      "coordinates": {
+        "lat": -12.692069809583952,
+        "lng": 97.05568250302804
+      }
+    },
+    "specs": {
+      "netSize": 49126,
+      "grossSize": 58951,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 11,
+      "floor": 9,
+      "totalFloors": 6,
+      "heating": "Merkezi",
+      "furnishing": "Unfurnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500411469324?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500413270964?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500004885223?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500961776938?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500211514771?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500993515805?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500185043808?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500561155587?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500780358221?w=800&q=80&category=house"
+    ],
+    "agent": {
+      "id": "A30",
+      "name": "Agent 32",
+      "phone": "+65 723 675 3580",
+      "email": "agent11@iwrealty.com",
+      "photo": "/images/icons/png/berlin-urban-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": true,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-06-14T10:50:47.195Z",
+    "updatedAt": "2025-11-13T10:50:47.195Z",
+    "storeId": "store-009"
+  },
+  {
+    "id": "P01591",
+    "type": "sale",
+    "category": {
+      "main": "commercial",
+      "sub": "hotel"
+    },
+    "title": "Satılık Otel - Cocos (Keeling) Islands City",
+    "slug": "satilik-otel-cocos-(keeling)-islands-city-P01591",
+    "description": "Cocos (Keeling) Islands City, Cocos (Keeling) Islands bölgesinde otel. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 23437929,
+    "location": {
+      "country": "CC",
+      "city": "Cocos (Keeling) Islands City",
+      "district": "Cocos (Keeling) Islands City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 527",
+      "coordinates": {
+        "lat": -12.87144387205463,
+        "lng": 97.02186225622124
+      }
+    },
+    "specs": {
+      "netSize": 25211,
+      "grossSize": 30253,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 11,
+      "floor": 5,
+      "totalFloors": 9,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Unfurnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500053704377?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500607748579?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500356827236?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500589507224?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500699328780?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500328525025?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500729691182?w=800&q=80&category=interior"
+    ],
+    "agent": {
+      "id": "A21",
+      "name": "Agent 52",
+      "phone": "+56 362 410 7978",
+      "email": "agent44@iwrealty.com",
+      "photo": "/images/icons/png/ankara-modern-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-02-14T10:50:47.195Z",
+    "updatedAt": "2025-11-13T10:50:47.195Z",
+    "storeId": "store-003"
+  },
+  {
+    "id": "P01592",
+    "type": "rent",
+    "category": {
+      "main": "commercial",
+      "sub": "hotel"
+    },
+    "title": "Kiralık Otel - New Cocos (Keeling) Islands",
+    "slug": "kiralik-otel-new-cocos-(keeling)-islands-P01592",
+    "description": "New Cocos (Keeling) Islands, Cocos (Keeling) Islands bölgesinde otel. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 138012597,
+    "location": {
+      "country": "CC",
+      "city": "New Cocos (Keeling) Islands",
+      "district": "New Cocos (Keeling) Islands Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 983",
+      "coordinates": {
+        "lat": -12.126624246189461,
+        "lng": 96.74891313720694
+      }
+    },
+    "specs": {
+      "netSize": 21311,
+      "grossSize": 25573,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 13,
+      "floor": 9,
+      "totalFloors": 8,
+      "heating": "Klima",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500936764542?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500657120754?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500485502031?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500402878690?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500265519946?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500696776030?w=800&q=80&category=house"
+    ],
+    "agent": {
+      "id": "A5",
+      "name": "Agent 89",
+      "phone": "+60 284 210 3067",
+      "email": "agent80@iwrealty.com",
+      "photo": "/images/icons/png/sydney-coastal-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": true,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-04-06T10:50:47.195Z",
+    "updatedAt": "2025-11-13T10:50:47.195Z",
+    "storeId": "store-012"
+  },
+  {
+    "id": "P01593",
+    "type": "sale",
+    "category": {
+      "main": "commercial",
+      "sub": "restaurant"
+    },
+    "title": "Satılık Restoran - New Cocos (Keeling) Islands",
+    "slug": "satilik-restoran-new-cocos-(keeling)-islands-P01593",
+    "description": "New Cocos (Keeling) Islands, Cocos (Keeling) Islands bölgesinde restoran. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 1148107,
+    "location": {
+      "country": "CC",
+      "city": "New Cocos (Keeling) Islands",
+      "district": "New Cocos (Keeling) Islands Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 908",
+      "coordinates": {
+        "lat": -12.058066732122033,
+        "lng": 96.49401468170281
+      }
+    },
+    "specs": {
+      "netSize": 188,
+      "grossSize": 226,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 17,
+      "floor": 4,
+      "totalFloors": 14,
+      "heating": "Merkezi",
+      "furnishing": "Unfurnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500029124680?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500895587441?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500797062879?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500425966556?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500966459696?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500593486670?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500349800557?w=800&q=80&category=interior"
+    ],
+    "agent": {
+      "id": "A74",
+      "name": "Agent 60",
+      "phone": "+65 103 627 2268",
+      "email": "agent90@iwrealty.com",
+      "photo": "/images/icons/png/ankara-modern-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": false,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2024-12-05T10:50:47.195Z",
+    "updatedAt": "2025-11-13T10:50:47.195Z",
+    "storeId": "store-003"
+  },
+  {
+    "id": "P01594",
+    "type": "rent",
+    "category": {
+      "main": "commercial",
+      "sub": "restaurant"
+    },
+    "title": "Kiralık Restoran - Cocos (Keeling) Islands Central",
+    "slug": "kiralik-restoran-cocos-(keeling)-islands-central-P01594",
+    "description": "Cocos (Keeling) Islands Central, Cocos (Keeling) Islands bölgesinde restoran. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 4343280,
+    "location": {
+      "country": "CC",
+      "city": "Cocos (Keeling) Islands Central",
+      "district": "Cocos (Keeling) Islands Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 104",
+      "coordinates": {
+        "lat": -12.936316384242435,
+        "lng": 97.13213083618967
+      }
+    },
+    "specs": {
+      "netSize": 359,
+      "grossSize": 431,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 18,
+      "floor": 9,
+      "totalFloors": 14,
+      "heating": "Kombi",
+      "furnishing": "Unfurnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500283194657?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500606783989?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500925905133?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500406416115?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500144068815?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500124301413?w=800&q=80&category=architecture"
+    ],
+    "agent": {
+      "id": "A91",
+      "name": "Agent 2",
+      "phone": "+41 513 579 4483",
+      "email": "agent92@iwrealty.com",
+      "photo": "/images/icons/png/paris-heritage-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2024-12-23T10:50:47.195Z",
+    "updatedAt": "2025-11-13T10:50:47.195Z",
+    "storeId": "store-010"
+  },
+  {
+    "id": "P01595",
+    "type": "sale",
+    "category": {
+      "main": "commercial",
+      "sub": "warehouse"
+    },
+    "title": "Satılık Depo - Cocos (Keeling) Islands City",
+    "slug": "satilik-depo-cocos-(keeling)-islands-city-P01595",
+    "description": "Cocos (Keeling) Islands City, Cocos (Keeling) Islands bölgesinde depo. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 7514037,
+    "location": {
+      "country": "CC",
+      "city": "Cocos (Keeling) Islands City",
+      "district": "Cocos (Keeling) Islands City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 18",
+      "coordinates": {
+        "lat": -12.362898028727017,
+        "lng": 96.39443161688575
+      }
+    },
+    "specs": {
+      "netSize": 2606,
+      "grossSize": 3127,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 15,
+      "floor": 9,
+      "totalFloors": 6,
+      "heating": "Kombi",
+      "furnishing": "Furnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500712924792?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500086976169?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500516507066?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500489448950?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500298168183?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500673936006?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500557433160?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500697128244?w=800&q=80&category=interior"
+    ],
+    "agent": {
+      "id": "A37",
+      "name": "Agent 15",
+      "phone": "+11 786 340 8688",
+      "email": "agent85@iwrealty.com",
+      "photo": "/images/icons/png/dubai-property-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2024-12-07T10:50:47.195Z",
+    "updatedAt": "2025-11-13T10:50:47.195Z",
+    "storeId": "store-004"
+  },
+  {
+    "id": "P01596",
+    "type": "rent",
+    "category": {
+      "main": "commercial",
+      "sub": "warehouse"
+    },
+    "title": "Kiralık Depo - Cocos (Keeling) Islands City",
+    "slug": "kiralik-depo-cocos-(keeling)-islands-city-P01596",
+    "description": "Cocos (Keeling) Islands City, Cocos (Keeling) Islands bölgesinde depo. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 20177138,
+    "location": {
+      "country": "CC",
+      "city": "Cocos (Keeling) Islands City",
+      "district": "Cocos (Keeling) Islands City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 70",
+      "coordinates": {
+        "lat": -12.671564106072765,
+        "lng": 96.70335014885833
+      }
+    },
+    "specs": {
+      "netSize": 549,
+      "grossSize": 659,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 4,
+      "floor": 3,
+      "totalFloors": 18,
+      "heating": "Merkezi",
+      "furnishing": "Furnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500135698493?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500422856827?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500562677027?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500927128821?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500949073343?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500765315321?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500345171021?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500604425540?w=800&q=80&category=real-estate"
+    ],
+    "agent": {
+      "id": "A38",
+      "name": "Agent 57",
+      "phone": "+77 183 427 9824",
+      "email": "agent98@iwrealty.com",
+      "photo": "/images/icons/png/antalya-investment-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": false,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": true,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-05-07T10:50:47.195Z",
+    "updatedAt": "2025-11-13T10:50:47.195Z",
+    "storeId": "store-006"
+  }
+]

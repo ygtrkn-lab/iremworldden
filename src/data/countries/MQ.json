@@ -1,0 +1,2343 @@
+[
+  {
+    "id": "P05929",
+    "type": "sale",
+    "category": {
+      "main": "government"
+    },
+    "title": "Satılık Okul - Martinique City",
+    "slug": "satilik-okul-martinique-city-P05929",
+    "description": "Martinique City, Martinique bölgesinde okul. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 20860864,
+    "location": {
+      "country": "MQ",
+      "city": "Martinique City",
+      "district": "Martinique City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 953",
+      "coordinates": {
+        "lat": 15.065041763318758,
+        "lng": -60.86450275658696
+      }
+    },
+    "specs": {
+      "netSize": 601,
+      "grossSize": 721,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 15,
+      "floor": 6,
+      "totalFloors": 11,
+      "heating": "Klima",
+      "furnishing": "Furnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500464231579?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500047069803?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500520089059?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500947147375?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500931409136?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500621098206?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500307928718?w=800&q=80&category=house"
+    ],
+    "agent": {
+      "id": "A94",
+      "name": "Agent 66",
+      "phone": "+74 476 794 3223",
+      "email": "agent62@iwrealty.com",
+      "photo": "/images/icons/png/izmir-sahil-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": true,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-05-15T10:50:47.241Z",
+    "updatedAt": "2025-11-13T10:50:47.241Z",
+    "storeId": "store-005"
+  },
+  {
+    "id": "P05930",
+    "type": "rent",
+    "category": {
+      "main": "government"
+    },
+    "title": "Kiralık Devlet Binası - New Martinique",
+    "slug": "kiralik-devlet-binası-new-martinique-P05930",
+    "description": "New Martinique, Martinique bölgesinde devlet binası. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 32821772,
+    "location": {
+      "country": "MQ",
+      "city": "New Martinique",
+      "district": "New Martinique Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 543",
+      "coordinates": {
+        "lat": 14.286364470463758,
+        "lng": -61.239867096604776
+      }
+    },
+    "specs": {
+      "netSize": 3460,
+      "grossSize": 4152,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 16,
+      "floor": 7,
+      "totalFloors": 18,
+      "heating": "Kombi",
+      "furnishing": "Furnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500216181908?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500229409468?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500746123134?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500638329743?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500217304411?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500034851799?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500798139038?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500019555944?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500047414118?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500864867200?w=800&q=80&category=interior"
+    ],
+    "agent": {
+      "id": "A77",
+      "name": "Agent 31",
+      "phone": "+22 514 957 3959",
+      "email": "agent34@iwrealty.com",
+      "photo": "/images/icons/png/izmir-sahil-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": false,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": true,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-09-06T10:50:47.241Z",
+    "updatedAt": "2025-11-13T10:50:47.241Z",
+    "storeId": "store-005"
+  },
+  {
+    "id": "P05931",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Müstakil Ev - Martinique Central",
+    "slug": "satilik-müstakil-ev-martinique-central-P05931",
+    "description": "Martinique Central, Martinique bölgesinde müstakil ev. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 9187615,
+    "location": {
+      "country": "MQ",
+      "city": "Martinique Central",
+      "district": "Martinique Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 802",
+      "coordinates": {
+        "lat": 14.656776260565902,
+        "lng": -60.71245763907429
+      }
+    },
+    "specs": {
+      "netSize": 321,
+      "grossSize": 385,
+      "rooms": "2+2",
+      "bathrooms": 3,
+      "age": 1,
+      "floor": 2,
+      "totalFloors": 18,
+      "heating": "Kombi",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500434184662?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500772923161?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500340521039?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500061897784?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500750900624?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500746548436?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500857224362?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500470357417?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500359883140?w=800&q=80&category=house"
+    ],
+    "agent": {
+      "id": "A73",
+      "name": "Agent 56",
+      "phone": "+34 971 487 8154",
+      "email": "agent95@iwrealty.com",
+      "photo": "/images/icons/png/sg-harbour-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-02-18T10:50:47.241Z",
+    "updatedAt": "2025-11-13T10:50:47.241Z",
+    "storeId": "store-011"
+  },
+  {
+    "id": "P05932",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Residence - Martinique City",
+    "slug": "kiralik-residence-martinique-city-P05932",
+    "description": "Martinique City, Martinique bölgesinde residence. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 13838238,
+    "location": {
+      "country": "MQ",
+      "city": "Martinique City",
+      "district": "Martinique City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 916",
+      "coordinates": {
+        "lat": 14.991501159835138,
+        "lng": -61.45651536489777
+      }
+    },
+    "specs": {
+      "netSize": 222,
+      "grossSize": 266,
+      "rooms": "2+1",
+      "bathrooms": 4,
+      "age": 1,
+      "floor": 4,
+      "totalFloors": 9,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Furnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500016398183?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500917344526?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500394420604?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500565709229?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500643433302?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500475211511?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500683377487?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500384293330?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500017382112?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500778567589?w=800&q=80&category=real-estate"
+    ],
+    "agent": {
+      "id": "A47",
+      "name": "Agent 90",
+      "phone": "+81 786 606 4730",
+      "email": "agent95@iwrealty.com",
+      "photo": "/images/icons/png/sg-harbour-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-11-01T10:50:47.241Z",
+    "updatedAt": "2025-11-13T10:50:47.241Z",
+    "storeId": "store-011"
+  },
+  {
+    "id": "P05933",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Daire - New Martinique",
+    "slug": "satilik-daire-new-martinique-P05933",
+    "description": "New Martinique, Martinique bölgesinde daire. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 7512867,
+    "location": {
+      "country": "MQ",
+      "city": "New Martinique",
+      "district": "New Martinique Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 255",
+      "coordinates": {
+        "lat": 14.466472076966859,
+        "lng": -61.08278628194047
+      }
+    },
+    "specs": {
+      "netSize": 269,
+      "grossSize": 323,
+      "rooms": "2+1",
+      "bathrooms": 3,
+      "age": 18,
+      "floor": 12,
+      "totalFloors": 9,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500104096488?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500439672724?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500067923413?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500853161185?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500813397080?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500025710574?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500441684969?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500943203485?w=800&q=80&category=real-estate"
+    ],
+    "agent": {
+      "id": "A19",
+      "name": "Agent 25",
+      "phone": "+50 389 403 8411",
+      "email": "agent98@iwrealty.com",
+      "photo": "/images/icons/png/sg-harbour-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-04-13T10:50:47.241Z",
+    "updatedAt": "2025-11-13T10:50:47.241Z",
+    "storeId": "store-011"
+  },
+  {
+    "id": "P05934",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Daire - New Martinique",
+    "slug": "kiralik-daire-new-martinique-P05934",
+    "description": "New Martinique, Martinique bölgesinde daire. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 13677485,
+    "location": {
+      "country": "MQ",
+      "city": "New Martinique",
+      "district": "New Martinique Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 82",
+      "coordinates": {
+        "lat": 14.658132179421017,
+        "lng": -61.146526568325775
+      }
+    },
+    "specs": {
+      "netSize": 147,
+      "grossSize": 176,
+      "rooms": "1+1",
+      "bathrooms": 4,
+      "age": 19,
+      "floor": 14,
+      "totalFloors": 18,
+      "heating": "Kombi",
+      "furnishing": "Furnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500060716257?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500589587105?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500061767310?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500071954808?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500058995328?w=800&q=80&category=interior"
+    ],
+    "agent": {
+      "id": "A6",
+      "name": "Agent 28",
+      "phone": "+53 415 163 3222",
+      "email": "agent85@iwrealty.com",
+      "photo": "/images/icons/png/ankara-modern-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-01-22T10:50:47.241Z",
+    "updatedAt": "2025-11-13T10:50:47.241Z",
+    "storeId": "store-003"
+  },
+  {
+    "id": "P05935",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Daire - New Martinique",
+    "slug": "satilik-daire-new-martinique-P05935",
+    "description": "New Martinique, Martinique bölgesinde daire. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 4399717,
+    "location": {
+      "country": "MQ",
+      "city": "New Martinique",
+      "district": "New Martinique Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 888",
+      "coordinates": {
+        "lat": 15.121160449924895,
+        "lng": -61.170691436501635
+      }
+    },
+    "specs": {
+      "netSize": 427,
+      "grossSize": 512,
+      "rooms": "4+0",
+      "bathrooms": 2,
+      "age": 11,
+      "floor": 9,
+      "totalFloors": 18,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Unfurnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500377146063?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500764144151?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500679930734?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500739717662?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500934806455?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500414787515?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500682717577?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500368259384?w=800&q=80&category=building"
+    ],
+    "agent": {
+      "id": "A5",
+      "name": "Agent 100",
+      "phone": "+98 201 432 7702",
+      "email": "agent24@iwrealty.com",
+      "photo": "/images/icons/png/ny-skyline-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-07-04T10:50:47.241Z",
+    "updatedAt": "2025-11-13T10:50:47.241Z",
+    "storeId": "store-008"
+  },
+  {
+    "id": "P05936",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Daire - Martinique City",
+    "slug": "kiralik-daire-martinique-city-P05936",
+    "description": "Martinique City, Martinique bölgesinde daire. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 7510270,
+    "location": {
+      "country": "MQ",
+      "city": "Martinique City",
+      "district": "Martinique City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 640",
+      "coordinates": {
+        "lat": 15.01548456540369,
+        "lng": -60.6670390967371
+      }
+    },
+    "specs": {
+      "netSize": 269,
+      "grossSize": 323,
+      "rooms": "2+1",
+      "bathrooms": 1,
+      "age": 14,
+      "floor": 4,
+      "totalFloors": 13,
+      "heating": "Klima",
+      "furnishing": "Furnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500915111372?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500345897692?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500074211881?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500087991080?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500723772340?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500271141237?w=800&q=80&category=building"
+    ],
+    "agent": {
+      "id": "A27",
+      "name": "Agent 13",
+      "phone": "+57 310 961 8313",
+      "email": "agent59@iwrealty.com",
+      "photo": "/images/icons/png/ny-skyline-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-07-09T10:50:47.241Z",
+    "updatedAt": "2025-11-13T10:50:47.241Z",
+    "storeId": "store-008"
+  },
+  {
+    "id": "P05937",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Müstakil Ev - Martinique Central",
+    "slug": "satilik-müstakil-ev-martinique-central-P05937",
+    "description": "Martinique Central, Martinique bölgesinde müstakil ev. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 9640104,
+    "location": {
+      "country": "MQ",
+      "city": "Martinique Central",
+      "district": "Martinique Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 768",
+      "coordinates": {
+        "lat": 14.364146701459807,
+        "lng": -61.46573813065707
+      }
+    },
+    "specs": {
+      "netSize": 235,
+      "grossSize": 282,
+      "rooms": "3+0",
+      "bathrooms": 1,
+      "age": 19,
+      "floor": 5,
+      "totalFloors": 7,
+      "heating": "Klima",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500240486195?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500056450928?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500216382346?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500595126424?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500432946866?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500358003573?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500855155415?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500821108150?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500733458407?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500600245587?w=800&q=80&category=interior"
+    ],
+    "agent": {
+      "id": "A76",
+      "name": "Agent 91",
+      "phone": "+98 774 698 9134",
+      "email": "agent73@iwrealty.com",
+      "photo": "/images/icons/png/sg-harbour-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-03-15T10:50:47.241Z",
+    "updatedAt": "2025-11-13T10:50:47.241Z",
+    "storeId": "store-011"
+  },
+  {
+    "id": "P05938",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Residence - Fort-de-France",
+    "slug": "kiralik-residence-fort-de-france-P05938",
+    "description": "Fort-de-France, Martinique bölgesinde residence. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 8141170,
+    "location": {
+      "country": "MQ",
+      "city": "Fort-de-France",
+      "district": "Fort-de-France Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 361",
+      "coordinates": {
+        "lat": 14.97517849570492,
+        "lng": -60.67997940294288
+      }
+    },
+    "specs": {
+      "netSize": 198,
+      "grossSize": 238,
+      "rooms": "4+2",
+      "bathrooms": 1,
+      "age": 5,
+      "floor": 5,
+      "totalFloors": 18,
+      "heating": "Klima",
+      "furnishing": "Furnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500302956542?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500563608963?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500245904005?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500966055697?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500053649711?w=800&q=80&category=real-estate"
+    ],
+    "agent": {
+      "id": "A48",
+      "name": "Agent 79",
+      "phone": "+72 202 583 1460",
+      "email": "agent37@iwrealty.com",
+      "photo": "/images/icons/png/antalya-investment-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": false,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": true,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-03-06T10:50:47.241Z",
+    "updatedAt": "2025-11-13T10:50:47.241Z",
+    "storeId": "store-006"
+  },
+  {
+    "id": "P05939",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Daire - Fort-de-France",
+    "slug": "satilik-daire-fort-de-france-P05939",
+    "description": "Fort-de-France, Martinique bölgesinde daire. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 4879079,
+    "location": {
+      "country": "MQ",
+      "city": "Fort-de-France",
+      "district": "Fort-de-France Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 634",
+      "coordinates": {
+        "lat": 14.78057355663556,
+        "lng": -61.02521749999625
+      }
+    },
+    "specs": {
+      "netSize": 349,
+      "grossSize": 419,
+      "rooms": "4+2",
+      "bathrooms": 1,
+      "age": 18,
+      "floor": 1,
+      "totalFloors": 12,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Unfurnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500871263338?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500188066544?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500459680397?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500877645750?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500866964757?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500957376202?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500898975368?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500982972441?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500999557140?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500277794684?w=800&q=80&category=interior"
+    ],
+    "agent": {
+      "id": "A74",
+      "name": "Agent 70",
+      "phone": "+37 619 723 1378",
+      "email": "agent55@iwrealty.com",
+      "photo": "/images/icons/png/izmir-sahil-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": false,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-08-02T10:50:47.241Z",
+    "updatedAt": "2025-11-13T10:50:47.241Z",
+    "storeId": "store-005"
+  },
+  {
+    "id": "P05940",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Daire - New Martinique",
+    "slug": "kiralik-daire-new-martinique-P05940",
+    "description": "New Martinique, Martinique bölgesinde daire. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 9431489,
+    "location": {
+      "country": "MQ",
+      "city": "New Martinique",
+      "district": "New Martinique Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 800",
+      "coordinates": {
+        "lat": 14.970231698646273,
+        "lng": -60.941189609085605
+      }
+    },
+    "specs": {
+      "netSize": 110,
+      "grossSize": 132,
+      "rooms": "2+2",
+      "bathrooms": 1,
+      "age": 13,
+      "floor": 10,
+      "totalFloors": 8,
+      "heating": "Kombi",
+      "furnishing": "Unfurnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500182654383?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500837108032?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500704712702?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500521465058?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500994714011?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500172434749?w=800&q=80&category=house"
+    ],
+    "agent": {
+      "id": "A92",
+      "name": "Agent 26",
+      "phone": "+35 778 504 6317",
+      "email": "agent48@iwrealty.com",
+      "photo": "/images/icons/png/ny-skyline-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2024-11-18T10:50:47.241Z",
+    "updatedAt": "2025-11-13T10:50:47.241Z",
+    "storeId": "store-008"
+  },
+  {
+    "id": "P05941",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Villa - Martinique Central",
+    "slug": "satilik-villa-martinique-central-P05941",
+    "description": "Martinique Central, Martinique bölgesinde villa. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 721189,
+    "location": {
+      "country": "MQ",
+      "city": "Martinique Central",
+      "district": "Martinique Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 19",
+      "coordinates": {
+        "lat": 14.510513108193775,
+        "lng": -61.026723349449696
+      }
+    },
+    "specs": {
+      "netSize": 259,
+      "grossSize": 311,
+      "rooms": "2+0",
+      "bathrooms": 3,
+      "age": 2,
+      "floor": 3,
+      "totalFloors": 5,
+      "heating": "Klima",
+      "furnishing": "Furnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500893296490?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500752637786?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500055610467?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500447075233?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500255066909?w=800&q=80&category=building"
+    ],
+    "agent": {
+      "id": "A97",
+      "name": "Agent 22",
+      "phone": "+56 801 852 5465",
+      "email": "agent33@iwrealty.com",
+      "photo": "/images/icons/png/paris-heritage-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": false,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-01-06T10:50:47.241Z",
+    "updatedAt": "2025-11-13T10:50:47.241Z",
+    "storeId": "store-010"
+  },
+  {
+    "id": "P05942",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Daire - New Martinique",
+    "slug": "kiralik-daire-new-martinique-P05942",
+    "description": "New Martinique, Martinique bölgesinde daire. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 6637603,
+    "location": {
+      "country": "MQ",
+      "city": "New Martinique",
+      "district": "New Martinique Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 894",
+      "coordinates": {
+        "lat": 14.677265023335199,
+        "lng": -60.93383177114371
+      }
+    },
+    "specs": {
+      "netSize": 197,
+      "grossSize": 236,
+      "rooms": "3+1",
+      "bathrooms": 4,
+      "age": 6,
+      "floor": 8,
+      "totalFloors": 8,
+      "heating": "Klima",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500657504131?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500264646454?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500955083077?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500324855990?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500095129322?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500748209110?w=800&q=80&category=real-estate"
+    ],
+    "agent": {
+      "id": "A32",
+      "name": "Agent 44",
+      "phone": "+45 318 478 8332",
+      "email": "agent96@iwrealty.com",
+      "photo": "/images/icons/png/sydney-coastal-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-01-24T10:50:47.241Z",
+    "updatedAt": "2025-11-13T10:50:47.241Z",
+    "storeId": "store-012"
+  },
+  {
+    "id": "P05943",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Müstakil Ev - New Martinique",
+    "slug": "satilik-müstakil-ev-new-martinique-P05943",
+    "description": "New Martinique, Martinique bölgesinde müstakil ev. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 11022218,
+    "location": {
+      "country": "MQ",
+      "city": "New Martinique",
+      "district": "New Martinique Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 722",
+      "coordinates": {
+        "lat": 14.623351508811064,
+        "lng": -61.16613021572464
+      }
+    },
+    "specs": {
+      "netSize": 342,
+      "grossSize": 410,
+      "rooms": "3+1",
+      "bathrooms": 3,
+      "age": 14,
+      "floor": 10,
+      "totalFloors": 12,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Unfurnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500606938677?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500709097491?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500904996758?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500324293095?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500421850574?w=800&q=80&category=architecture"
+    ],
+    "agent": {
+      "id": "A21",
+      "name": "Agent 78",
+      "phone": "+27 619 322 8060",
+      "email": "agent14@iwrealty.com",
+      "photo": "/images/icons/png/paris-heritage-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": false,
+      "hasBalcony": false,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-09-18T10:50:47.241Z",
+    "updatedAt": "2025-11-13T10:50:47.241Z",
+    "storeId": "store-010"
+  },
+  {
+    "id": "P05944",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Villa - Martinique City",
+    "slug": "kiralik-villa-martinique-city-P05944",
+    "description": "Martinique City, Martinique bölgesinde villa. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 6773083,
+    "location": {
+      "country": "MQ",
+      "city": "Martinique City",
+      "district": "Martinique City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 278",
+      "coordinates": {
+        "lat": 14.391330538899343,
+        "lng": -61.18390746310376
+      }
+    },
+    "specs": {
+      "netSize": 98,
+      "grossSize": 118,
+      "rooms": "1+2",
+      "bathrooms": 4,
+      "age": 10,
+      "floor": 13,
+      "totalFloors": 13,
+      "heating": "Kombi",
+      "furnishing": "Unfurnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500272662239?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500697935790?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500823955115?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500678037654?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500331545231?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500695367801?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500296158750?w=800&q=80&category=real-estate"
+    ],
+    "agent": {
+      "id": "A67",
+      "name": "Agent 8",
+      "phone": "+92 584 266 9223",
+      "email": "agent48@iwrealty.com",
+      "photo": "/images/icons/png/berlin-urban-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-06-16T10:50:47.241Z",
+    "updatedAt": "2025-11-13T10:50:47.241Z",
+    "storeId": "store-009"
+  },
+  {
+    "id": "P05945",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Villa - Fort-de-France",
+    "slug": "satilik-villa-fort-de-france-P05945",
+    "description": "Fort-de-France, Martinique bölgesinde villa. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 7180393,
+    "location": {
+      "country": "MQ",
+      "city": "Fort-de-France",
+      "district": "Fort-de-France Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 251",
+      "coordinates": {
+        "lat": 14.883841923178263,
+        "lng": -61.27039861518791
+      }
+    },
+    "specs": {
+      "netSize": 313,
+      "grossSize": 376,
+      "rooms": "4+1",
+      "bathrooms": 1,
+      "age": 15,
+      "floor": 10,
+      "totalFloors": 7,
+      "heating": "Klima",
+      "furnishing": "Unfurnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500117875887?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500607459590?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500017299677?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500962058342?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500498281197?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500983948703?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500508152961?w=800&q=80&category=real-estate"
+    ],
+    "agent": {
+      "id": "A12",
+      "name": "Agent 44",
+      "phone": "+76 207 882 2241",
+      "email": "agent4@iwrealty.com",
+      "photo": "/images/icons/png/izmir-sahil-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2024-11-22T10:50:47.241Z",
+    "updatedAt": "2025-11-13T10:50:47.241Z",
+    "storeId": "store-005"
+  },
+  {
+    "id": "P05946",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Villa - Fort-de-France",
+    "slug": "kiralik-villa-fort-de-france-P05946",
+    "description": "Fort-de-France, Martinique bölgesinde villa. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 6284273,
+    "location": {
+      "country": "MQ",
+      "city": "Fort-de-France",
+      "district": "Fort-de-France Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 850",
+      "coordinates": {
+        "lat": 14.823856634612032,
+        "lng": -61.317701912757435
+      }
+    },
+    "specs": {
+      "netSize": 487,
+      "grossSize": 584,
+      "rooms": "3+1",
+      "bathrooms": 4,
+      "age": 12,
+      "floor": 6,
+      "totalFloors": 18,
+      "heating": "Merkezi",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500278766330?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500931246675?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500140878649?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500077456305?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500808011272?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500761993296?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500499436292?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500025146047?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500755960622?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500816141411?w=800&q=80&category=architecture"
+    ],
+    "agent": {
+      "id": "A31",
+      "name": "Agent 60",
+      "phone": "+95 782 120 4793",
+      "email": "agent65@iwrealty.com",
+      "photo": "/images/icons/png/antalya-investment-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": false,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-01-01T10:50:47.241Z",
+    "updatedAt": "2025-11-13T10:50:47.241Z",
+    "storeId": "store-006"
+  },
+  {
+    "id": "P05947",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Müstakil Ev - Martinique City",
+    "slug": "satilik-müstakil-ev-martinique-city-P05947",
+    "description": "Martinique City, Martinique bölgesinde müstakil ev. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 4600201,
+    "location": {
+      "country": "MQ",
+      "city": "Martinique City",
+      "district": "Martinique City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 546",
+      "coordinates": {
+        "lat": 14.39200170868599,
+        "lng": -61.352145206414534
+      }
+    },
+    "specs": {
+      "netSize": 494,
+      "grossSize": 593,
+      "rooms": "1+1",
+      "bathrooms": 3,
+      "age": 7,
+      "floor": 3,
+      "totalFloors": 12,
+      "heating": "Kombi",
+      "furnishing": "Furnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500085891649?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500648865867?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500350457294?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500389873395?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500370573471?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500497515560?w=800&q=80&category=architecture"
+    ],
+    "agent": {
+      "id": "A2",
+      "name": "Agent 34",
+      "phone": "+43 851 771 1825",
+      "email": "agent24@iwrealty.com",
+      "photo": "/images/icons/png/izmir-sahil-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": true,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-11-02T10:50:47.241Z",
+    "updatedAt": "2025-11-13T10:50:47.241Z",
+    "storeId": "store-005"
+  },
+  {
+    "id": "P05948",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Residence - Martinique City",
+    "slug": "kiralik-residence-martinique-city-P05948",
+    "description": "Martinique City, Martinique bölgesinde residence. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 9589711,
+    "location": {
+      "country": "MQ",
+      "city": "Martinique City",
+      "district": "Martinique City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 836",
+      "coordinates": {
+        "lat": 14.774473098594196,
+        "lng": -60.64313097169434
+      }
+    },
+    "specs": {
+      "netSize": 135,
+      "grossSize": 162,
+      "rooms": "5+1",
+      "bathrooms": 2,
+      "age": 2,
+      "floor": 8,
+      "totalFloors": 7,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Unfurnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500100670660?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500454379661?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500872121177?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500877351029?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500666987432?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500249052205?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500917748204?w=800&q=80&category=interior"
+    ],
+    "agent": {
+      "id": "A86",
+      "name": "Agent 91",
+      "phone": "+55 273 644 8798",
+      "email": "agent11@iwrealty.com",
+      "photo": "/images/icons/png/izmir-sahil-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-10-20T10:50:47.241Z",
+    "updatedAt": "2025-11-13T10:50:47.241Z",
+    "storeId": "store-005"
+  },
+  {
+    "id": "P05949",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Daire - Martinique Central",
+    "slug": "satilik-daire-martinique-central-P05949",
+    "description": "Martinique Central, Martinique bölgesinde daire. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 9660930,
+    "location": {
+      "country": "MQ",
+      "city": "Martinique Central",
+      "district": "Martinique Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 414",
+      "coordinates": {
+        "lat": 14.405185258168611,
+        "lng": -61.049849513141446
+      }
+    },
+    "specs": {
+      "netSize": 381,
+      "grossSize": 457,
+      "rooms": "5+1",
+      "bathrooms": 4,
+      "age": 12,
+      "floor": 4,
+      "totalFloors": 6,
+      "heating": "Merkezi",
+      "furnishing": "Unfurnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500390015782?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500328280042?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500095216676?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500540081264?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500771948899?w=800&q=80&category=building"
+    ],
+    "agent": {
+      "id": "A27",
+      "name": "Agent 97",
+      "phone": "+94 294 356 1920",
+      "email": "agent97@iwrealty.com",
+      "photo": "/images/icons/png/london-prime-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-09-21T10:50:47.241Z",
+    "updatedAt": "2025-11-13T10:50:47.241Z",
+    "storeId": "store-007"
+  },
+  {
+    "id": "P05950",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Daire - Fort-de-France",
+    "slug": "kiralik-daire-fort-de-france-P05950",
+    "description": "Fort-de-France, Martinique bölgesinde daire. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 13244002,
+    "location": {
+      "country": "MQ",
+      "city": "Fort-de-France",
+      "district": "Fort-de-France Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 105",
+      "coordinates": {
+        "lat": 14.290153416165433,
+        "lng": -61.19416838243529
+      }
+    },
+    "specs": {
+      "netSize": 441,
+      "grossSize": 529,
+      "rooms": "5+2",
+      "bathrooms": 2,
+      "age": 8,
+      "floor": 4,
+      "totalFloors": 9,
+      "heating": "Merkezi",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500155337435?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500417762818?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500188363413?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500600239686?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500103052776?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500747371378?w=800&q=80&category=house"
+    ],
+    "agent": {
+      "id": "A55",
+      "name": "Agent 56",
+      "phone": "+46 266 744 7337",
+      "email": "agent30@iwrealty.com",
+      "photo": "/images/icons/png/izmir-sahil-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": true,
+      "hasPool": true,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-04-28T10:50:47.241Z",
+    "updatedAt": "2025-11-13T10:50:47.241Z",
+    "storeId": "store-005"
+  },
+  {
+    "id": "P05951",
+    "type": "sale",
+    "category": {
+      "main": "commercial",
+      "sub": "hospital"
+    },
+    "title": "Satılık Hastane - Martinique City",
+    "slug": "satilik-hastane-martinique-city-P05951",
+    "description": "Martinique City, Martinique bölgesinde hastane. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 75597019,
+    "location": {
+      "country": "MQ",
+      "city": "Martinique City",
+      "district": "Martinique City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 137",
+      "coordinates": {
+        "lat": 14.278594910896064,
+        "lng": -60.542080274878906
+      }
+    },
+    "specs": {
+      "netSize": 19462,
+      "grossSize": 23354,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 8,
+      "floor": 7,
+      "totalFloors": 6,
+      "heating": "Klima",
+      "furnishing": "Furnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500079021330?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500777248507?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500228306851?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500582025596?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500634676506?w=800&q=80&category=real-estate"
+    ],
+    "agent": {
+      "id": "A18",
+      "name": "Agent 43",
+      "phone": "+27 284 542 1039",
+      "email": "agent24@iwrealty.com",
+      "photo": "/images/icons/png/dubai-property-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": false,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": true,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-07-06T10:50:47.241Z",
+    "updatedAt": "2025-11-13T10:50:47.241Z",
+    "storeId": "store-004"
+  },
+  {
+    "id": "P05952",
+    "type": "rent",
+    "category": {
+      "main": "commercial",
+      "sub": "hospital"
+    },
+    "title": "Kiralık Hastane - New Martinique",
+    "slug": "kiralik-hastane-new-martinique-P05952",
+    "description": "New Martinique, Martinique bölgesinde hastane. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 48000958,
+    "location": {
+      "country": "MQ",
+      "city": "New Martinique",
+      "district": "New Martinique Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 364",
+      "coordinates": {
+        "lat": 14.254930280847978,
+        "lng": -61.12976167978246
+      }
+    },
+    "specs": {
+      "netSize": 9512,
+      "grossSize": 11414,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 19,
+      "floor": 9,
+      "totalFloors": 19,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Furnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500382649478?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500930369086?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500952725125?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500033490165?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500999970020?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500495544201?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500028084738?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500052857273?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500694119854?w=800&q=80&category=real-estate"
+    ],
+    "agent": {
+      "id": "A75",
+      "name": "Agent 77",
+      "phone": "+42 103 707 3343",
+      "email": "agent47@iwrealty.com",
+      "photo": "/images/icons/png/berlin-urban-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": true,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-09-22T10:50:47.241Z",
+    "updatedAt": "2025-11-13T10:50:47.241Z",
+    "storeId": "store-009"
+  },
+  {
+    "id": "P05953",
+    "type": "sale",
+    "category": {
+      "main": "commercial",
+      "sub": "clinic"
+    },
+    "title": "Satılık Klinik - Fort-de-France",
+    "slug": "satilik-klinik-fort-de-france-P05953",
+    "description": "Fort-de-France, Martinique bölgesinde klinik. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 17061685,
+    "location": {
+      "country": "MQ",
+      "city": "Fort-de-France",
+      "district": "Fort-de-France Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 497",
+      "coordinates": {
+        "lat": 15.031043929436349,
+        "lng": -61.21942953379253
+      }
+    },
+    "specs": {
+      "netSize": 557,
+      "grossSize": 668,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 10,
+      "floor": 8,
+      "totalFloors": 13,
+      "heating": "Kombi",
+      "furnishing": "Furnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500460924746?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500859892578?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500867532231?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500252478496?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500298685205?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500072488100?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500204422527?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500472210278?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500046438448?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500480227331?w=800&q=80&category=interior"
+    ],
+    "agent": {
+      "id": "A47",
+      "name": "Agent 82",
+      "phone": "+45 942 776 4022",
+      "email": "agent42@iwrealty.com",
+      "photo": "/images/icons/png/berlin-urban-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": false,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": true,
+      "hasSecurity": true
+    },
+    "createdAt": "2024-12-05T10:50:47.241Z",
+    "updatedAt": "2025-11-13T10:50:47.241Z",
+    "storeId": "store-009"
+  },
+  {
+    "id": "P05954",
+    "type": "rent",
+    "category": {
+      "main": "commercial",
+      "sub": "clinic"
+    },
+    "title": "Kiralık Klinik - Fort-de-France",
+    "slug": "kiralik-klinik-fort-de-france-P05954",
+    "description": "Fort-de-France, Martinique bölgesinde klinik. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 8073932,
+    "location": {
+      "country": "MQ",
+      "city": "Fort-de-France",
+      "district": "Fort-de-France Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 596",
+      "coordinates": {
+        "lat": 14.28872501297675,
+        "lng": -61.0476938526528
+      }
+    },
+    "specs": {
+      "netSize": 1294,
+      "grossSize": 1553,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 3,
+      "floor": 7,
+      "totalFloors": 14,
+      "heating": "Klima",
+      "furnishing": "Furnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500325898273?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500385589531?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500501016056?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500159318486?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500065119087?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500829609242?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500334939048?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500415622915?w=800&q=80&category=architecture"
+    ],
+    "agent": {
+      "id": "A19",
+      "name": "Agent 18",
+      "phone": "+75 860 370 1489",
+      "email": "agent36@iwrealty.com",
+      "photo": "/images/icons/png/ny-skyline-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-08-22T10:50:47.241Z",
+    "updatedAt": "2025-11-13T10:50:47.241Z",
+    "storeId": "store-008"
+  },
+  {
+    "id": "P05955",
+    "type": "sale",
+    "category": {
+      "main": "commercial",
+      "sub": "shop"
+    },
+    "title": "Satılık Dükkan - Fort-de-France",
+    "slug": "satilik-dükkan-fort-de-france-P05955",
+    "description": "Fort-de-France, Martinique bölgesinde dükkan. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 4778562,
+    "location": {
+      "country": "MQ",
+      "city": "Fort-de-France",
+      "district": "Fort-de-France Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 33",
+      "coordinates": {
+        "lat": 14.427133774896808,
+        "lng": -60.925197635945175
+      }
+    },
+    "specs": {
+      "netSize": 226,
+      "grossSize": 271,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 5,
+      "floor": 7,
+      "totalFloors": 8,
+      "heating": "Kombi",
+      "furnishing": "Unfurnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500334920053?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500939164278?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500568177322?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500898991100?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500161802563?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500219953267?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500895491989?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500239907889?w=800&q=80&category=building"
+    ],
+    "agent": {
+      "id": "A64",
+      "name": "Agent 95",
+      "phone": "+43 256 827 4413",
+      "email": "agent38@iwrealty.com",
+      "photo": "/images/icons/png/ankara-modern-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-08-19T10:50:47.241Z",
+    "updatedAt": "2025-11-13T10:50:47.241Z",
+    "storeId": "store-003"
+  },
+  {
+    "id": "P05956",
+    "type": "rent",
+    "category": {
+      "main": "commercial",
+      "sub": "shop"
+    },
+    "title": "Kiralık Dükkan - Martinique City",
+    "slug": "kiralik-dükkan-martinique-city-P05956",
+    "description": "Martinique City, Martinique bölgesinde dükkan. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 4840813,
+    "location": {
+      "country": "MQ",
+      "city": "Martinique City",
+      "district": "Martinique City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 919",
+      "coordinates": {
+        "lat": 14.62260195714362,
+        "lng": -60.74426270282192
+      }
+    },
+    "specs": {
+      "netSize": 208,
+      "grossSize": 250,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 15,
+      "floor": 8,
+      "totalFloors": 19,
+      "heating": "Klima",
+      "furnishing": "Furnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500780961706?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500977024827?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500713983506?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500974840831?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500965918834?w=800&q=80&category=house"
+    ],
+    "agent": {
+      "id": "A87",
+      "name": "Agent 87",
+      "phone": "+61 241 884 8427",
+      "email": "agent36@iwrealty.com",
+      "photo": "/images/icons/png/dubai-property-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-01-08T10:50:47.241Z",
+    "updatedAt": "2025-11-13T10:50:47.241Z",
+    "storeId": "store-004"
+  },
+  {
+    "id": "P05957",
+    "type": "sale",
+    "category": {
+      "main": "commercial",
+      "sub": "office"
+    },
+    "title": "Satılık Ofis - Martinique Central",
+    "slug": "satilik-ofis-martinique-central-P05957",
+    "description": "Martinique Central, Martinique bölgesinde ofis. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 12862903,
+    "location": {
+      "country": "MQ",
+      "city": "Martinique Central",
+      "district": "Martinique Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 805",
+      "coordinates": {
+        "lat": 14.761836516239557,
+        "lng": -61.001207182590946
+      }
+    },
+    "specs": {
+      "netSize": 595,
+      "grossSize": 714,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 14,
+      "floor": 14,
+      "totalFloors": 16,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500223194255?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500087709738?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500484860030?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500963195816?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500490453798?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500069255716?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500419263125?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500813444013?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500557489357?w=800&q=80&category=interior"
+    ],
+    "agent": {
+      "id": "A19",
+      "name": "Agent 59",
+      "phone": "+94 296 721 1979",
+      "email": "agent3@iwrealty.com",
+      "photo": "/images/icons/png/berlin-urban-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-07-19T10:50:47.241Z",
+    "updatedAt": "2025-11-13T10:50:47.241Z",
+    "storeId": "store-009"
+  },
+  {
+    "id": "P05958",
+    "type": "rent",
+    "category": {
+      "main": "commercial",
+      "sub": "office"
+    },
+    "title": "Kiralık Ofis - New Martinique",
+    "slug": "kiralik-ofis-new-martinique-P05958",
+    "description": "New Martinique, Martinique bölgesinde ofis. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 2179154,
+    "location": {
+      "country": "MQ",
+      "city": "New Martinique",
+      "district": "New Martinique Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 542",
+      "coordinates": {
+        "lat": 14.191213838601104,
+        "lng": -60.650761234096066
+      }
+    },
+    "specs": {
+      "netSize": 790,
+      "grossSize": 948,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 20,
+      "floor": 3,
+      "totalFloors": 20,
+      "heating": "Kombi",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500893215423?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500485992800?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500376685572?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500763920727?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500419404177?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500555280125?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500887829022?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500360988741?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500861760451?w=800&q=80&category=architecture"
+    ],
+    "agent": {
+      "id": "A28",
+      "name": "Agent 72",
+      "phone": "+39 503 889 8951",
+      "email": "agent65@iwrealty.com",
+      "photo": "/images/icons/png/luxury-homes-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-08-04T10:50:47.241Z",
+    "updatedAt": "2025-11-13T10:50:47.241Z",
+    "storeId": "store-002"
+  },
+  {
+    "id": "P05959",
+    "type": "sale",
+    "category": {
+      "main": "commercial",
+      "sub": "mall"
+    },
+    "title": "Satılık AVM - Martinique Central",
+    "slug": "satilik-avm-martinique-central-P05959",
+    "description": "Martinique Central, Martinique bölgesinde avm. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 260002750,
+    "location": {
+      "country": "MQ",
+      "city": "Martinique Central",
+      "district": "Martinique Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 854",
+      "coordinates": {
+        "lat": 15.075442329721067,
+        "lng": -61.05280804388782
+      }
+    },
+    "specs": {
+      "netSize": 33055,
+      "grossSize": 39666,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 16,
+      "floor": 2,
+      "totalFloors": 6,
+      "heating": "Merkezi",
+      "furnishing": "Furnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500854301672?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500028368164?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500036481663?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500084706191?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500826358949?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500515212756?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500893517756?w=800&q=80&category=architecture"
+    ],
+    "agent": {
+      "id": "A30",
+      "name": "Agent 10",
+      "phone": "+14 225 821 2749",
+      "email": "agent55@iwrealty.com",
+      "photo": "/images/icons/png/luxury-homes-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-05-22T10:50:47.241Z",
+    "updatedAt": "2025-11-13T10:50:47.241Z",
+    "storeId": "store-002"
+  },
+  {
+    "id": "P05960",
+    "type": "rent",
+    "category": {
+      "main": "commercial",
+      "sub": "mall"
+    },
+    "title": "Kiralık AVM - Fort-de-France",
+    "slug": "kiralik-avm-fort-de-france-P05960",
+    "description": "Fort-de-France, Martinique bölgesinde avm. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 68312915,
+    "location": {
+      "country": "MQ",
+      "city": "Fort-de-France",
+      "district": "Fort-de-France Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 793",
+      "coordinates": {
+        "lat": 14.177828885294206,
+        "lng": -60.54159792462337
+      }
+    },
+    "specs": {
+      "netSize": 34283,
+      "grossSize": 41140,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 19,
+      "floor": 13,
+      "totalFloors": 11,
+      "heating": "Merkezi",
+      "furnishing": "Unfurnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500759680088?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500183586919?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500874264395?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500624797567?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500829108197?w=800&q=80&category=real-estate"
+    ],
+    "agent": {
+      "id": "A81",
+      "name": "Agent 76",
+      "phone": "+50 721 195 8803",
+      "email": "agent94@iwrealty.com",
+      "photo": "/images/icons/png/paris-heritage-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-02-22T10:50:47.241Z",
+    "updatedAt": "2025-11-13T10:50:47.241Z",
+    "storeId": "store-010"
+  },
+  {
+    "id": "P05961",
+    "type": "sale",
+    "category": {
+      "main": "commercial",
+      "sub": "hotel"
+    },
+    "title": "Satılık Otel - New Martinique",
+    "slug": "satilik-otel-new-martinique-P05961",
+    "description": "New Martinique, Martinique bölgesinde otel. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 33286508,
+    "location": {
+      "country": "MQ",
+      "city": "New Martinique",
+      "district": "New Martinique Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 349",
+      "coordinates": {
+        "lat": 14.750591312811506,
+        "lng": -61.470140937276895
+      }
+    },
+    "specs": {
+      "netSize": 14197,
+      "grossSize": 17036,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 12,
+      "floor": 15,
+      "totalFloors": 13,
+      "heating": "Klima",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500698370434?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500266984618?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500483678016?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500945012244?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500285166549?w=800&q=80&category=house"
+    ],
+    "agent": {
+      "id": "A95",
+      "name": "Agent 63",
+      "phone": "+95 861 480 1315",
+      "email": "agent50@iwrealty.com",
+      "photo": "/images/icons/png/sydney-coastal-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2024-11-18T10:50:47.241Z",
+    "updatedAt": "2025-11-13T10:50:47.241Z",
+    "storeId": "store-012"
+  },
+  {
+    "id": "P05962",
+    "type": "rent",
+    "category": {
+      "main": "commercial",
+      "sub": "hotel"
+    },
+    "title": "Kiralık Otel - Martinique Central",
+    "slug": "kiralik-otel-martinique-central-P05962",
+    "description": "Martinique Central, Martinique bölgesinde otel. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 81524580,
+    "location": {
+      "country": "MQ",
+      "city": "Martinique Central",
+      "district": "Martinique Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 232",
+      "coordinates": {
+        "lat": 14.18902384475918,
+        "lng": -60.760140402042914
+      }
+    },
+    "specs": {
+      "netSize": 19527,
+      "grossSize": 23432,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 12,
+      "floor": 12,
+      "totalFloors": 15,
+      "heating": "Merkezi",
+      "furnishing": "Furnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500323194491?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500282032712?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500601116463?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500360833459?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500898495222?w=800&q=80&category=real-estate"
+    ],
+    "agent": {
+      "id": "A23",
+      "name": "Agent 32",
+      "phone": "+64 739 788 1546",
+      "email": "agent85@iwrealty.com",
+      "photo": "/images/icons/png/sydney-coastal-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-02-20T10:50:47.241Z",
+    "updatedAt": "2025-11-13T10:50:47.241Z",
+    "storeId": "store-012"
+  },
+  {
+    "id": "P05963",
+    "type": "sale",
+    "category": {
+      "main": "commercial",
+      "sub": "restaurant"
+    },
+    "title": "Satılık Restoran - Martinique Central",
+    "slug": "satilik-restoran-martinique-central-P05963",
+    "description": "Martinique Central, Martinique bölgesinde restoran. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 2515829,
+    "location": {
+      "country": "MQ",
+      "city": "Martinique Central",
+      "district": "Martinique Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 933",
+      "coordinates": {
+        "lat": 14.572746979086181,
+        "lng": -61.44864047835648
+      }
+    },
+    "specs": {
+      "netSize": 900,
+      "grossSize": 1080,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 9,
+      "floor": 5,
+      "totalFloors": 10,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Furnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500283579863?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500248877313?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500073135140?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500088973780?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500067173349?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500321454703?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500382660039?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500382265964?w=800&q=80&category=architecture"
+    ],
+    "agent": {
+      "id": "A8",
+      "name": "Agent 93",
+      "phone": "+75 394 698 4167",
+      "email": "agent54@iwrealty.com",
+      "photo": "/images/icons/png/dubai-property-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": false,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": true,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-01-14T10:50:47.241Z",
+    "updatedAt": "2025-11-13T10:50:47.241Z",
+    "storeId": "store-004"
+  },
+  {
+    "id": "P05964",
+    "type": "rent",
+    "category": {
+      "main": "commercial",
+      "sub": "restaurant"
+    },
+    "title": "Kiralık Restoran - Fort-de-France",
+    "slug": "kiralik-restoran-fort-de-france-P05964",
+    "description": "Fort-de-France, Martinique bölgesinde restoran. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 3148253,
+    "location": {
+      "country": "MQ",
+      "city": "Fort-de-France",
+      "district": "Fort-de-France Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 769",
+      "coordinates": {
+        "lat": 14.305165679560123,
+        "lng": -61.06374294163401
+      }
+    },
+    "specs": {
+      "netSize": 487,
+      "grossSize": 584,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 0,
+      "floor": 1,
+      "totalFloors": 8,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Unfurnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500848693391?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500675046069?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500578777256?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500629627825?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500680888390?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500653844930?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500085770271?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500920495147?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500566288989?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500677742913?w=800&q=80&category=house"
+    ],
+    "agent": {
+      "id": "A48",
+      "name": "Agent 49",
+      "phone": "+90 583 630 7622",
+      "email": "agent32@iwrealty.com",
+      "photo": "/images/icons/png/berlin-urban-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-02-26T10:50:47.241Z",
+    "updatedAt": "2025-11-13T10:50:47.241Z",
+    "storeId": "store-009"
+  },
+  {
+    "id": "P05965",
+    "type": "sale",
+    "category": {
+      "main": "commercial",
+      "sub": "warehouse"
+    },
+    "title": "Satılık Depo - Fort-de-France",
+    "slug": "satilik-depo-fort-de-france-P05965",
+    "description": "Fort-de-France, Martinique bölgesinde depo. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 29845040,
+    "location": {
+      "country": "MQ",
+      "city": "Fort-de-France",
+      "district": "Fort-de-France Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 59",
+      "coordinates": {
+        "lat": 14.928307450213707,
+        "lng": -60.887990438222616
+      }
+    },
+    "specs": {
+      "netSize": 1093,
+      "grossSize": 1312,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 4,
+      "floor": 13,
+      "totalFloors": 16,
+      "heating": "Merkezi",
+      "furnishing": "Unfurnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500988730832?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500224995508?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500701430724?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500295010087?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500727700011?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500770252383?w=800&q=80&category=building"
+    ],
+    "agent": {
+      "id": "A9",
+      "name": "Agent 61",
+      "phone": "+92 630 435 5540",
+      "email": "agent93@iwrealty.com",
+      "photo": "/images/icons/png/izmir-sahil-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-08-29T10:50:47.241Z",
+    "updatedAt": "2025-11-13T10:50:47.241Z",
+    "storeId": "store-005"
+  },
+  {
+    "id": "P05966",
+    "type": "rent",
+    "category": {
+      "main": "commercial",
+      "sub": "warehouse"
+    },
+    "title": "Kiralık Depo - Martinique City",
+    "slug": "kiralik-depo-martinique-city-P05966",
+    "description": "Martinique City, Martinique bölgesinde depo. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 26830323,
+    "location": {
+      "country": "MQ",
+      "city": "Martinique City",
+      "district": "Martinique City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 742",
+      "coordinates": {
+        "lat": 14.344186267791406,
+        "lng": -60.76023688150903
+      }
+    },
+    "specs": {
+      "netSize": 2886,
+      "grossSize": 3463,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 13,
+      "floor": 15,
+      "totalFloors": 15,
+      "heating": "Merkezi",
+      "furnishing": "Unfurnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500923671143?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500637242169?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500141706569?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500758877338?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500596511582?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500019625132?w=800&q=80&category=building"
+    ],
+    "agent": {
+      "id": "A98",
+      "name": "Agent 61",
+      "phone": "+98 338 315 3453",
+      "email": "agent85@iwrealty.com",
+      "photo": "/images/icons/png/izmir-sahil-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2024-12-29T10:50:47.241Z",
+    "updatedAt": "2025-11-13T10:50:47.241Z",
+    "storeId": "store-005"
+  }
+]

@@ -1,0 +1,492 @@
+[
+  {
+    "id": "store-001",
+    "slug": "iremworld-real-estate",
+    "name": "IREMWORLD Real Estate",
+    "legalName": "İremworld Gayrimenkul Yatırım Danışmanlık A.Ş.",
+    "description": "İstanbul Finans Merkezi'ndeki deneyim alanımızdan dünyanın dört bir yanındaki yatırım ofislerine uzanan global gayrimenkul platformu. IREMWORLD, uluslararası gayrimenkul ekosistemlerini tek dijital mağazada buluşturur.",
+    "tagline": "Global Gayrimenkul Deneyimi",
+    "contact": {
+      "email": "info@iremworld.com",
+      "phone": "+90 (216) 755 4738",
+      "website": "https://www.iremworld.com",
+      "address": "Sarphan Plaza, Barbaros Mah., İstanbul",
+      "city": "İstanbul",
+      "country": "TR"
+    },
+    "logo": "/images/kurumsal-logo/iremworld-store.png",
+    "coverImage": "https://images.unsplash.com/photo-1582407947304-fd86f028f716?q=80&w=1596&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "brandColor": "#1a56db",
+    "stats": {
+      "activeListings": 450,
+      "totalSales": 120,
+      "yearsInBusiness": 8,
+      "employeeCount": 25
+    },
+    "specialties": ["Lüks Konut", "Ticari Gayrimenkul", "Uluslararası Yatırım", "Proje Pazarlama"],
+    "serviceAreas": ["İstanbul", "Ankara", "Dubai", "Londra", "New York"],
+    "employees": [
+      {
+        "id": "emp-001-1",
+        "name": "Mehmet Yılmaz",
+        "position": "Genel Müdür",
+        "photo": "https://randomuser.me/api/portraits/men/32.jpg",
+        "email": "mehmet.yilmaz@iremworld.com",
+        "phone": "+90 532 123 4567",
+        "languages": ["Türkçe", "İngilizce", "Arapça"],
+        "linkedin": "https://linkedin.com/in/mehmet-yilmaz-realestate",
+        "specialties": ["Uluslararası Yatırım", "Lüks Konut"],
+        "yearsOfExperience": 12,
+        "bio": "15 yıllık gayrimenkul deneyimi ile uluslararası yatırım danışmanlığı alanında uzman."
+      },
+      {
+        "id": "emp-001-2",
+        "name": "Ayşe Kaya",
+        "position": "Kıdemli Emlak Danışmanı",
+        "photo": "https://randomuser.me/api/portraits/women/44.jpg",
+        "email": "ayse.kaya@iremworld.com",
+        "phone": "+90 532 234 5678",
+        "languages": ["Türkçe", "İngilizce", "Rusça"],
+        "linkedin": "https://linkedin.com/in/ayse-kaya-property",
+        "specialties": ["Lüks Konut", "Proje Pazarlama"],
+        "yearsOfExperience": 8
+      },
+      {
+        "id": "emp-001-3",
+        "name": "Can Öztürk",
+        "position": "Yatırım Danışmanı",
+        "photo": "https://randomuser.me/api/portraits/men/67.jpg",
+        "email": "can.ozturk@iremworld.com",
+        "phone": "+90 532 345 6789",
+        "languages": ["Türkçe", "İngilizce", "Almanca"],
+        "linkedin": "https://linkedin.com/in/can-ozturk-investment",
+        "specialties": ["Ticari Gayrimenkul", "Yatırım Analizi"],
+        "yearsOfExperience": 10
+      },
+      {
+        "id": "emp-001-4",
+        "name": "Zeynep Arslan",
+        "position": "Pazarlama Müdürü",
+        "photo": "https://randomuser.me/api/portraits/women/68.jpg",
+        "email": "zeynep.arslan@iremworld.com",
+        "languages": ["Türkçe", "İngilizce", "Fransızca"],
+        "linkedin": "https://linkedin.com/in/zeynep-arslan-marketing",
+        "specialties": ["Dijital Pazarlama", "Proje Lansmanı"],
+        "yearsOfExperience": 6
+      }
+    ],
+    "featured": true,
+    "verified": true,
+    "rating": 4.8,
+    "reviewCount": 86,
+    "social": {
+      "instagram": "https://instagram.com/iremworld",
+      "linkedin": "https://linkedin.com/company/iremworld",
+      "facebook": "https://facebook.com/iremworld"
+    },
+    "licenseNumber": "TR-2016-001234",
+    "foundedYear": 2016,
+    "createdAt": "2024-01-01T00:00:00Z",
+    "updatedAt": "2024-11-14T00:00:00Z"
+  },
+  {
+    "id": "store-002",
+    "slug": "luxury-homes-istanbul",
+    "name": "Luxury Homes İstanbul",
+    "description": "İstanbul'un prestijli semtlerinde lüks konut satış ve kiralama hizmetleri sunan butik gayrimenkul danışmanlık firması. Özel portföy ve VIP müşteri hizmetleri.",
+    "tagline": "Lüks Yaşamın Adresi",
+    "contact": {
+      "email": "info@luxuryhomesistanbul.com",
+      "phone": "+90 (212) 345 6789",
+      "website": "https://www.luxuryhomesistanbul.com",
+      "address": "Nispetiye Cad. No:45 Etiler",
+      "city": "İstanbul",
+      "country": "TR"
+    },
+    "logo": "/images/icons/png/luxury-homes-logo.png",
+    "coverImage": "/uploads/des/luxury-istanbul.jpg",
+    "brandColor": "#d97706",
+    "stats": {
+      "activeListings": 78,
+      "totalSales": 45,
+      "yearsInBusiness": 5,
+      "employeeCount": 12
+    },
+    "specialties": ["Lüks Konut", "Penthouse", "Tarihi Konaklar", "Boğaz Manzaralı"],
+    "serviceAreas": ["Bebek", "Etiler", "Nişantaşı", "Beşiktaş", "Sarıyer"],
+    "employees": [
+      {
+        "id": "emp-002-1",
+        "name": "Serkan Demir",
+        "position": "Kurucu Ortak",
+        "photo": "https://randomuser.me/api/portraits/men/75.jpg",
+        "email": "serkan@luxuryhomesistanbul.com",
+        "phone": "+90 532 111 2233",
+        "languages": ["Türkçe", "İngilizce"],
+        "linkedin": "https://linkedin.com/in/serkan-demir-luxury",
+        "specialties": ["Lüks Konut", "Penthouse"],
+        "yearsOfExperience": 15
+      },
+      {
+        "id": "emp-002-2",
+        "name": "Elif Yıldız",
+        "position": "Lüks Konut Uzmanı",
+        "photo": "https://randomuser.me/api/portraits/women/65.jpg",
+        "email": "elif@luxuryhomesistanbul.com",
+        "languages": ["Türkçe", "İngilizce", "İtalyanca"],
+        "linkedin": "https://linkedin.com/in/elif-yildiz-luxury",
+        "specialties": ["Boğaz Manzaralı", "Tarihi Konaklar"],
+        "yearsOfExperience": 7
+      }
+    ],
+    "featured": true,
+    "verified": true,
+    "rating": 4.6,
+    "reviewCount": 42,
+    "social": {
+      "instagram": "https://instagram.com/luxuryhomesist",
+      "linkedin": "https://linkedin.com/company/luxury-homes-istanbul"
+    },
+    "licenseNumber": "TR-2019-005678",
+    "foundedYear": 2019,
+    "createdAt": "2024-02-15T00:00:00Z"
+  },
+  {
+    "id": "store-003",
+    "slug": "ankara-modern-emlak",
+    "name": "Ankara Modern Emlak",
+    "description": "Ankara'nın merkezi lokasyonlarında ticari ve konut alanında uzman emlak ofisi. Modern yaşam alanları ve iş merkezleri konusunda uzmanlaşmış ekip.",
+    "tagline": "Başkentin Modern Emlakçısı",
+    "contact": {
+      "email": "destek@ankaramodern.com",
+      "phone": "+90 (312) 456 7890",
+      "address": "Tunalı Hilmi Cad. No:88 Kavaklıdere",
+      "city": "Ankara",
+      "country": "TR"
+    },
+    "logo": "/images/icons/png/ankara-modern-logo.png",
+    "brandColor": "#059669",
+    "stats": {
+      "activeListings": 112,
+      "totalSales": 67,
+      "yearsInBusiness": 12,
+      "employeeCount": 18
+    },
+    "specialties": ["Konut", "Ofis", "Dükkan", "İş Merkezi"],
+    "serviceAreas": ["Çankaya", "Yenimahalle", "Keçiören", "Etimesgut"],
+    "featured": false,
+    "verified": true,
+    "rating": 4.4,
+    "reviewCount": 58,
+    "social": {
+      "facebook": "https://facebook.com/ankaramodern",
+      "instagram": "https://instagram.com/ankaramodernemlak"
+    },
+    "licenseNumber": "TR-2012-002341",
+    "foundedYear": 2012,
+    "createdAt": "2024-03-10T00:00:00Z"
+  },
+  {
+    "id": "store-004",
+    "slug": "dubai-property-group",
+    "name": "Dubai Property Group",
+    "description": "Dubai ve BAE genelinde lüks konut, ticari gayrimenkul ve yatırım danışmanlığı hizmeti sunan uluslararası emlak grubu. Türk yatırımcılara özel hizmet paketi.",
+    "tagline": "Your Gateway to Dubai Real Estate",
+    "contact": {
+      "email": "info@dubaipropertygroup.ae",
+      "phone": "+971 (4) 567 8900",
+      "website": "https://www.dubaipropertygroup.ae",
+      "address": "Business Bay, Burj Khalifa District",
+      "city": "Dubai",
+      "country": "AE"
+    },
+    "logo": "/images/icons/png/dubai-property-logo.png",
+    "coverImage": "/uploads/des/dubai-skyline.jpg",
+    "brandColor": "#dc2626",
+    "stats": {
+      "activeListings": 230,
+      "totalSales": 156,
+      "yearsInBusiness": 15,
+      "employeeCount": 42
+    },
+    "specialties": ["Lüks Konut", "Ticari Gayrimenkul", "Off-Plan Yatırım", "Golden Visa"],
+    "serviceAreas": ["Dubai", "Abu Dhabi", "Sharjah", "Ras Al Khaimah"],
+    "featured": true,
+    "verified": true,
+    "rating": 4.9,
+    "reviewCount": 124,
+    "social": {
+      "instagram": "https://instagram.com/dubaipropertygroup",
+      "linkedin": "https://linkedin.com/company/dubai-property-group",
+      "twitter": "https://twitter.com/dpg_dubai"
+    },
+    "foundedYear": 2009,
+    "createdAt": "2024-01-20T00:00:00Z"
+  },
+  {
+    "id": "store-005",
+    "slug": "izmir-sahil-emlak",
+    "name": "İzmir Sahil Emlak",
+    "description": "İzmir'in sahil şeridinde deniz manzaralı konutlar ve yazlık villalar konusunda uzman emlak ofisi. Alaçatı, Çeşme ve Foça bölgelerinde geniş portföy.",
+    "tagline": "Denizin Kenarında Yaşam",
+    "contact": {
+      "email": "iletisim@izmirsahil.com",
+      "phone": "+90 (232) 345 6789",
+      "address": "Kordon Boyu, Alsancak",
+      "city": "İzmir",
+      "country": "TR"
+    },
+    "logo": "/images/icons/png/izmir-sahil-logo.png",
+    "brandColor": "#0891b2",
+    "stats": {
+      "activeListings": 95,
+      "totalSales": 52,
+      "yearsInBusiness": 7,
+      "employeeCount": 10
+    },
+    "specialties": ["Sahil Konut", "Yazlık Villa", "Apart Otel", "Yatırım"],
+    "serviceAreas": ["Alsancak", "Karşıyaka", "Çeşme", "Alaçatı", "Foça"],
+    "featured": false,
+    "verified": true,
+    "rating": 4.5,
+    "reviewCount": 36,
+    "social": {
+      "instagram": "https://instagram.com/izmirsahilemlak",
+      "facebook": "https://facebook.com/izmirsahil"
+    },
+    "licenseNumber": "TR-2017-003456",
+    "foundedYear": 2017,
+    "createdAt": "2024-04-05T00:00:00Z"
+  },
+  {
+    "id": "store-006",
+    "slug": "antalya-investment-realty",
+    "name": "Antalya Investment Realty",
+    "description": "Antalya ve çevresinde turizm amaçlı gayrimenkul yatırımları, otel ve apart yönetimi konusunda uzman danışmanlık firması. Yabancı yatırımcı odaklı hizmet.",
+    "tagline": "Tourism & Investment Properties",
+    "contact": {
+      "email": "info@antalyainvestment.com",
+      "phone": "+90 (242) 234 5678",
+      "website": "https://www.antalyainvestment.com",
+      "address": "Lara Cad. No:12 Muratpaşa",
+      "city": "Antalya",
+      "country": "TR"
+    },
+    "logo": "/images/icons/png/antalya-investment-logo.png",
+    "brandColor": "#ea580c",
+    "stats": {
+      "activeListings": 145,
+      "totalSales": 89,
+      "yearsInBusiness": 10,
+      "employeeCount": 22
+    },
+    "specialties": ["Turizm Yatırımı", "Otel", "Apart", "Villa", "Arsa"],
+    "serviceAreas": ["Lara", "Belek", "Kemer", "Alanya", "Side"],
+    "featured": true,
+    "verified": true,
+    "rating": 4.7,
+    "reviewCount": 71,
+    "social": {
+      "instagram": "https://instagram.com/antalyainvest",
+      "linkedin": "https://linkedin.com/company/antalya-investment"
+    },
+    "licenseNumber": "TR-2014-004567",
+    "foundedYear": 2014,
+    "createdAt": "2024-02-28T00:00:00Z"
+  },
+  {
+    "id": "store-007",
+    "slug": "london-prime-estates",
+    "name": "London Prime Estates",
+    "description": "Birleşik Krallık genelinde prime lokasyon konut ve ticari taşınmaz danışmanlığı sunan butik emlak kolektifi.",
+    "tagline": "Prime London, Prime Service",
+    "contact": {
+      "email": "hello@londonprime.uk",
+      "phone": "+44 20 7946 1200",
+      "website": "https://www.londonprime.uk",
+      "address": "30 St Mary Axe",
+      "city": "London",
+      "country": "GB"
+    },
+    "logo": "/images/icons/png/london-prime-logo.png",
+    "brandColor": "#1d4ed8",
+    "stats": {
+      "activeListings": 165,
+      "totalSales": 210,
+      "yearsInBusiness": 14,
+      "employeeCount": 48
+    },
+    "specialties": ["Luxury Residential", "Investment", "Office"],
+    "serviceAreas": ["Mayfair", "Chelsea", "Canary Wharf", "City of London"],
+    "featured": true,
+    "verified": true,
+    "rating": 4.7,
+    "reviewCount": 102,
+    "social": {
+      "linkedin": "https://linkedin.com/company/london-prime-estates"
+    },
+    "licenseNumber": "UK-2010-004512",
+    "foundedYear": 2010,
+    "createdAt": "2024-05-01T00:00:00Z"
+  },
+  {
+    "id": "store-008",
+    "slug": "new-york-skyline-realty",
+    "name": "New York Skyline Realty",
+    "description": "Manhattan ve Brooklyn odaklı gökdelen katı, ofis ve karma kullanım yatırımları için premium danışmanlık.",
+    "tagline": "Invest Above the Skyline",
+    "contact": {
+      "email": "team@skylinerealty.us",
+      "phone": "+1 (212) 555-7845",
+      "website": "https://www.skylinerealty.us",
+      "address": "135 Madison Ave",
+      "city": "New York",
+      "country": "US"
+    },
+    "logo": "/images/icons/png/ny-skyline-logo.png",
+    "brandColor": "#dc2626",
+    "stats": {
+      "activeListings": 320,
+      "totalSales": 410,
+      "yearsInBusiness": 18,
+      "employeeCount": 60
+    },
+    "specialties": ["High-Rise", "Commercial", "Mixed-Use"],
+    "serviceAreas": ["Manhattan", "Brooklyn", "Long Island City"],
+    "featured": true,
+    "verified": true,
+    "rating": 4.9,
+    "reviewCount": 187,
+    "social": {
+      "instagram": "https://instagram.com/skylinerealty",
+      "linkedin": "https://linkedin.com/company/skyline-realty"
+    },
+    "licenseNumber": "US-NY-2006-7781",
+    "foundedYear": 2006,
+    "createdAt": "2024-05-05T00:00:00Z"
+  },
+  {
+    "id": "store-009",
+    "slug": "berlin-urban-spaces",
+    "name": "Berlin Urban Spaces",
+    "description": "Berlin ve DACH bölgesinde startup kampüsleri, lojistik merkezleri ve modern konut projeleri geliştiren ekip.",
+    "tagline": "Raum für Neues",
+    "contact": {
+      "email": "kontakt@urban-spaces.de",
+      "phone": "+49 30 8899 1122",
+      "address": "Rosenthaler Str. 45",
+      "city": "Berlin",
+      "country": "DE"
+    },
+    "logo": "/images/icons/png/berlin-urban-logo.png",
+    "brandColor": "#0f766e",
+    "stats": {
+      "activeListings": 142,
+      "totalSales": 190,
+      "yearsInBusiness": 11,
+      "employeeCount": 34
+    },
+    "specialties": ["Loft", "Office", "Logistics"],
+    "serviceAreas": ["Mitte", "Prenzlauer Berg", "Kreuzberg", "Friedrichshain"],
+    "featured": false,
+    "verified": true,
+    "rating": 4.5,
+    "reviewCount": 63,
+    "licenseNumber": "DE-2013-009221",
+    "foundedYear": 2013,
+    "createdAt": "2024-05-07T00:00:00Z"
+  },
+  {
+    "id": "store-010",
+    "slug": "paris-heritage-properties",
+    "name": "Paris Heritage Properties",
+    "description": "Paris merkezinde tarihi apartmanlar ve lüks haussmannien konut portföyleri yöneten danışmanlık.",
+    "tagline": "Patrimoine & Prestige",
+    "contact": {
+      "email": "contact@parisheritage.fr",
+      "phone": "+33 1 89 75 30 20",
+      "address": "12 Avenue Montaigne",
+      "city": "Paris",
+      "country": "FR"
+    },
+    "logo": "/images/icons/png/paris-heritage-logo.png",
+    "brandColor": "#a16207",
+    "stats": {
+      "activeListings": 88,
+      "totalSales": 120,
+      "yearsInBusiness": 16,
+      "employeeCount": 20
+    },
+    "specialties": ["Historic", "Luxury", "Pied-à-terre"],
+    "serviceAreas": ["8ème", "7ème", "Le Marais", "Saint-Germain"],
+    "featured": false,
+    "verified": true,
+    "rating": 4.6,
+    "reviewCount": 54,
+    "licenseNumber": "FR-2008-003876",
+    "foundedYear": 2008,
+    "createdAt": "2024-05-09T00:00:00Z"
+  },
+  {
+    "id": "store-011",
+    "slug": "singapore-harbour-realty",
+    "name": "Singapore Harbour Realty",
+    "description": "Güneydoğu Asya'nın finans merkezinde marina residence, ofis kulesi ve data center yatırımlarını yöneten ekip.",
+    "tagline": "Gateway to ASEAN Assets",
+    "contact": {
+      "email": "info@harbourrealty.sg",
+      "phone": "+65 6123 4455",
+      "address": "8 Marina View",
+      "city": "Singapore",
+      "country": "SG"
+    },
+    "logo": "/images/icons/png/sg-harbour-logo.png",
+    "brandColor": "#2563eb",
+    "stats": {
+      "activeListings": 205,
+      "totalSales": 260,
+      "yearsInBusiness": 9,
+      "employeeCount": 38
+    },
+    "specialties": ["Marina Condo", "Commercial", "Data Center"],
+    "serviceAreas": ["Marina Bay", "Sentosa", "Orchard", "River Valley"],
+    "featured": true,
+    "verified": true,
+    "rating": 4.8,
+    "reviewCount": 97,
+    "licenseNumber": "SG-2015-009812",
+    "foundedYear": 2015,
+    "createdAt": "2024-05-12T00:00:00Z"
+  },
+  {
+    "id": "store-012",
+    "slug": "sydney-coastal-living",
+    "name": "Sydney Coastal Living",
+    "description": "Avustralya'nın doğu kıyısında deniz manzaralı rezidans ve resort yatırımları üzerine uzmanlaşmış butik ofis.",
+    "tagline": "Life by the Coast",
+    "contact": {
+      "email": "team@coastalliving.au",
+      "phone": "+61 2 8890 3344",
+      "address": "1 Macquarie Place",
+      "city": "Sydney",
+      "country": "AU"
+    },
+    "logo": "/images/icons/png/sydney-coastal-logo.png",
+    "brandColor": "#0ea5e9",
+    "stats": {
+      "activeListings": 132,
+      "totalSales": 175,
+      "yearsInBusiness": 13,
+      "employeeCount": 26
+    },
+    "specialties": ["Waterfront", "Resort", "Villa"],
+    "serviceAreas": ["Bondi", "Manly", "Palm Beach", "Barangaroo"],
+    "featured": false,
+    "verified": true,
+    "rating": 4.6,
+    "reviewCount": 58,
+    "licenseNumber": "AU-2011-006732",
+    "foundedYear": 2011,
+    "createdAt": "2024-05-15T00:00:00Z"
+  }
+]

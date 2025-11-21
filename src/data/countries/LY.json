@@ -1,0 +1,2341 @@
+[
+  {
+    "id": "P04903",
+    "type": "sale",
+    "category": {
+      "main": "government"
+    },
+    "title": "Satılık Devlet Binası - Libya City",
+    "slug": "satilik-devlet-binası-libya-city-P04903",
+    "description": "Libya City, Libya bölgesinde devlet binası. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 49682992,
+    "location": {
+      "country": "LY",
+      "city": "Libya City",
+      "district": "Libya City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 360",
+      "coordinates": {
+        "lat": 25.359645704954165,
+        "lng": 16.60679390424591
+      }
+    },
+    "specs": {
+      "netSize": 4795,
+      "grossSize": 5754,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 10,
+      "floor": 7,
+      "totalFloors": 16,
+      "heating": "Merkezi",
+      "furnishing": "Unfurnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500792841131?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500119447731?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500313643071?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500695107267?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500637615898?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500268347715?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500942702992?w=800&q=80&category=interior"
+    ],
+    "agent": {
+      "id": "A49",
+      "name": "Agent 50",
+      "phone": "+35 267 633 6691",
+      "email": "agent7@iwrealty.com",
+      "photo": "/images/icons/png/dubai-property-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-09-01T10:50:47.232Z",
+    "updatedAt": "2025-11-13T10:50:47.232Z",
+    "storeId": "store-004"
+  },
+  {
+    "id": "P04904",
+    "type": "rent",
+    "category": {
+      "main": "government"
+    },
+    "title": "Kiralık Belediye Binası - New Libya",
+    "slug": "kiralik-belediye-binası-new-libya-P04904",
+    "description": "New Libya, Libya bölgesinde belediye binası. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 22171803,
+    "location": {
+      "country": "LY",
+      "city": "New Libya",
+      "district": "New Libya Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 98",
+      "coordinates": {
+        "lat": 25.168787434553412,
+        "lng": 16.8842045796844
+      }
+    },
+    "specs": {
+      "netSize": 1998,
+      "grossSize": 2398,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 17,
+      "floor": 10,
+      "totalFloors": 11,
+      "heating": "Klima",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500981033310?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500755420489?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500496568929?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500799894438?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500303853987?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500768060417?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500358514130?w=800&q=80&category=real-estate"
+    ],
+    "agent": {
+      "id": "A100",
+      "name": "Agent 6",
+      "phone": "+22 544 858 3070",
+      "email": "agent99@iwrealty.com",
+      "photo": "/images/icons/png/ankara-modern-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-11-08T10:50:47.232Z",
+    "updatedAt": "2025-11-13T10:50:47.232Z",
+    "storeId": "store-003"
+  },
+  {
+    "id": "P04905",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Daire - Libya City",
+    "slug": "satilik-daire-libya-city-P04905",
+    "description": "Libya City, Libya bölgesinde daire. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 11441145,
+    "location": {
+      "country": "LY",
+      "city": "Libya City",
+      "district": "Libya City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 807",
+      "coordinates": {
+        "lat": 25.142579659032442,
+        "lng": 17.348981234338364
+      }
+    },
+    "specs": {
+      "netSize": 389,
+      "grossSize": 467,
+      "rooms": "3+2",
+      "bathrooms": 4,
+      "age": 12,
+      "floor": 8,
+      "totalFloors": 16,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500345359524?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500563138108?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500586760309?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500735467555?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500584107547?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500746009898?w=800&q=80&category=real-estate"
+    ],
+    "agent": {
+      "id": "A84",
+      "name": "Agent 94",
+      "phone": "+38 512 226 7443",
+      "email": "agent7@iwrealty.com",
+      "photo": "/images/icons/png/izmir-sahil-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2024-11-28T10:50:47.232Z",
+    "updatedAt": "2025-11-13T10:50:47.232Z",
+    "storeId": "store-005"
+  },
+  {
+    "id": "P04906",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Residence - New Libya",
+    "slug": "kiralik-residence-new-libya-P04906",
+    "description": "New Libya, Libya bölgesinde residence. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 6957839,
+    "location": {
+      "country": "LY",
+      "city": "New Libya",
+      "district": "New Libya Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 321",
+      "coordinates": {
+        "lat": 24.749145698680575,
+        "lng": 16.90513704345508
+      }
+    },
+    "specs": {
+      "netSize": 291,
+      "grossSize": 349,
+      "rooms": "3+2",
+      "bathrooms": 4,
+      "age": 15,
+      "floor": 8,
+      "totalFloors": 8,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Furnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500337904554?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500894008964?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500407750849?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500643611778?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500084383079?w=800&q=80&category=house"
+    ],
+    "agent": {
+      "id": "A72",
+      "name": "Agent 78",
+      "phone": "+43 947 783 5231",
+      "email": "agent35@iwrealty.com",
+      "photo": "/images/icons/png/sydney-coastal-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-04-30T10:50:47.232Z",
+    "updatedAt": "2025-11-13T10:50:47.232Z",
+    "storeId": "store-012"
+  },
+  {
+    "id": "P04907",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Daire - Libya City",
+    "slug": "satilik-daire-libya-city-P04907",
+    "description": "Libya City, Libya bölgesinde daire. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 693382,
+    "location": {
+      "country": "LY",
+      "city": "Libya City",
+      "district": "Libya City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 677",
+      "coordinates": {
+        "lat": 24.65704424825608,
+        "lng": 17.004515425028345
+      }
+    },
+    "specs": {
+      "netSize": 304,
+      "grossSize": 365,
+      "rooms": "3+1",
+      "bathrooms": 3,
+      "age": 3,
+      "floor": 13,
+      "totalFloors": 6,
+      "heating": "Klima",
+      "furnishing": "Unfurnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500612085539?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500966206873?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500246354140?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500804561071?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500273103928?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500870545796?w=800&q=80&category=building"
+    ],
+    "agent": {
+      "id": "A69",
+      "name": "Agent 74",
+      "phone": "+41 822 621 7789",
+      "email": "agent10@iwrealty.com",
+      "photo": "/images/icons/png/ny-skyline-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": false,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-04-06T10:50:47.232Z",
+    "updatedAt": "2025-11-13T10:50:47.232Z",
+    "storeId": "store-008"
+  },
+  {
+    "id": "P04908",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Residence - Libya City",
+    "slug": "kiralik-residence-libya-city-P04908",
+    "description": "Libya City, Libya bölgesinde residence. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 7073968,
+    "location": {
+      "country": "LY",
+      "city": "Libya City",
+      "district": "Libya City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 764",
+      "coordinates": {
+        "lat": 24.675480885620335,
+        "lng": 17.09792514955695
+      }
+    },
+    "specs": {
+      "netSize": 87,
+      "grossSize": 104,
+      "rooms": "5+2",
+      "bathrooms": 4,
+      "age": 13,
+      "floor": 5,
+      "totalFloors": 9,
+      "heating": "Merkezi",
+      "furnishing": "Furnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500890534728?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500890410079?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500937408010?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500008799908?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500976263749?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500928943428?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500882195309?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500624082604?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500868686723?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500520975028?w=800&q=80&category=real-estate"
+    ],
+    "agent": {
+      "id": "A92",
+      "name": "Agent 79",
+      "phone": "+60 735 949 1802",
+      "email": "agent80@iwrealty.com",
+      "photo": "/images/icons/png/sg-harbour-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2024-12-25T10:50:47.232Z",
+    "updatedAt": "2025-11-13T10:50:47.232Z",
+    "storeId": "store-011"
+  },
+  {
+    "id": "P04909",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Residence - Libya City",
+    "slug": "satilik-residence-libya-city-P04909",
+    "description": "Libya City, Libya bölgesinde residence. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 13250306,
+    "location": {
+      "country": "LY",
+      "city": "Libya City",
+      "district": "Libya City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 53",
+      "coordinates": {
+        "lat": 24.97374280986197,
+        "lng": 17.131216165154346
+      }
+    },
+    "specs": {
+      "netSize": 135,
+      "grossSize": 162,
+      "rooms": "4+0",
+      "bathrooms": 4,
+      "age": 0,
+      "floor": 12,
+      "totalFloors": 9,
+      "heating": "Kombi",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500977135803?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500457396977?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500571996960?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500514975359?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500498175219?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500496718261?w=800&q=80&category=house"
+    ],
+    "agent": {
+      "id": "A4",
+      "name": "Agent 38",
+      "phone": "+70 648 765 9853",
+      "email": "agent96@iwrealty.com",
+      "photo": "/images/icons/png/izmir-sahil-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2024-11-24T10:50:47.232Z",
+    "updatedAt": "2025-11-13T10:50:47.232Z",
+    "storeId": "store-005"
+  },
+  {
+    "id": "P04910",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Villa - Tripoli",
+    "slug": "kiralik-villa-tripoli-P04910",
+    "description": "Tripoli, Libya bölgesinde villa. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 7539669,
+    "location": {
+      "country": "LY",
+      "city": "Tripoli",
+      "district": "Tripoli Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 136",
+      "coordinates": {
+        "lat": 25.164676843937983,
+        "lng": 16.530199769181717
+      }
+    },
+    "specs": {
+      "netSize": 362,
+      "grossSize": 434,
+      "rooms": "5+0",
+      "bathrooms": 1,
+      "age": 19,
+      "floor": 13,
+      "totalFloors": 16,
+      "heating": "Merkezi",
+      "furnishing": "Unfurnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500750494331?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500197322007?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500414421170?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500579376179?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500846278237?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500548091133?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500231993603?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500751386979?w=800&q=80&category=building"
+    ],
+    "agent": {
+      "id": "A1",
+      "name": "Agent 27",
+      "phone": "+77 622 193 7217",
+      "email": "agent47@iwrealty.com",
+      "photo": "/images/icons/png/ny-skyline-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-10-13T10:50:47.232Z",
+    "updatedAt": "2025-11-13T10:50:47.232Z",
+    "storeId": "store-008"
+  },
+  {
+    "id": "P04911",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Daire - New Libya",
+    "slug": "satilik-daire-new-libya-P04911",
+    "description": "New Libya, Libya bölgesinde daire. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 11771477,
+    "location": {
+      "country": "LY",
+      "city": "New Libya",
+      "district": "New Libya Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 761",
+      "coordinates": {
+        "lat": 24.68461440549947,
+        "lng": 16.60220923841404
+      }
+    },
+    "specs": {
+      "netSize": 95,
+      "grossSize": 114,
+      "rooms": "2+2",
+      "bathrooms": 4,
+      "age": 10,
+      "floor": 12,
+      "totalFloors": 15,
+      "heating": "Klima",
+      "furnishing": "Unfurnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500441233183?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500653620529?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500151881163?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500134078807?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500221942311?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500592678339?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500080015183?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500303676726?w=800&q=80&category=architecture"
+    ],
+    "agent": {
+      "id": "A12",
+      "name": "Agent 46",
+      "phone": "+86 405 399 3022",
+      "email": "agent88@iwrealty.com",
+      "photo": "/images/icons/png/berlin-urban-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-08-17T10:50:47.232Z",
+    "updatedAt": "2025-11-13T10:50:47.232Z",
+    "storeId": "store-009"
+  },
+  {
+    "id": "P04912",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Müstakil Ev - Libya City",
+    "slug": "kiralik-müstakil-ev-libya-city-P04912",
+    "description": "Libya City, Libya bölgesinde müstakil ev. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 10421873,
+    "location": {
+      "country": "LY",
+      "city": "Libya City",
+      "district": "Libya City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 938",
+      "coordinates": {
+        "lat": 25.459878523213867,
+        "lng": 16.806435977089848
+      }
+    },
+    "specs": {
+      "netSize": 478,
+      "grossSize": 574,
+      "rooms": "4+1",
+      "bathrooms": 4,
+      "age": 1,
+      "floor": 12,
+      "totalFloors": 10,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Furnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500734473769?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500823449487?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500206970972?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500145813228?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500973037135?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500980255581?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500548053060?w=800&q=80&category=architecture"
+    ],
+    "agent": {
+      "id": "A26",
+      "name": "Agent 80",
+      "phone": "+80 483 915 9506",
+      "email": "agent78@iwrealty.com",
+      "photo": "/images/icons/png/london-prime-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": false,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-10-30T10:50:47.232Z",
+    "updatedAt": "2025-11-13T10:50:47.232Z",
+    "storeId": "store-007"
+  },
+  {
+    "id": "P04913",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Daire - Libya City",
+    "slug": "satilik-daire-libya-city-P04913",
+    "description": "Libya City, Libya bölgesinde daire. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 12732387,
+    "location": {
+      "country": "LY",
+      "city": "Libya City",
+      "district": "Libya City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 756",
+      "coordinates": {
+        "lat": 24.841294404336356,
+        "lng": 16.841816719623846
+      }
+    },
+    "specs": {
+      "netSize": 278,
+      "grossSize": 334,
+      "rooms": "4+1",
+      "bathrooms": 2,
+      "age": 17,
+      "floor": 4,
+      "totalFloors": 8,
+      "heating": "Kombi",
+      "furnishing": "Furnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500719881690?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500807832789?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500268945648?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500371218164?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500475012959?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500927173258?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500616760674?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500275868320?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500835273632?w=800&q=80&category=real-estate"
+    ],
+    "agent": {
+      "id": "A49",
+      "name": "Agent 49",
+      "phone": "+48 433 871 4130",
+      "email": "agent9@iwrealty.com",
+      "photo": "/images/icons/png/berlin-urban-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": false,
+      "hasBalcony": false,
+      "hasGarden": true,
+      "hasPool": true,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-01-02T10:50:47.232Z",
+    "updatedAt": "2025-11-13T10:50:47.232Z",
+    "storeId": "store-009"
+  },
+  {
+    "id": "P04914",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Daire - Tripoli",
+    "slug": "kiralik-daire-tripoli-P04914",
+    "description": "Tripoli, Libya bölgesinde daire. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 2008999,
+    "location": {
+      "country": "LY",
+      "city": "Tripoli",
+      "district": "Tripoli Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 398",
+      "coordinates": {
+        "lat": 25.158898406719832,
+        "lng": 17.156218625267105
+      }
+    },
+    "specs": {
+      "netSize": 395,
+      "grossSize": 474,
+      "rooms": "5+0",
+      "bathrooms": 1,
+      "age": 4,
+      "floor": 2,
+      "totalFloors": 11,
+      "heating": "Merkezi",
+      "furnishing": "Unfurnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500071561381?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500062927326?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500162351817?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500512701781?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500327650679?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500092536913?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500865406515?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500067051770?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500505690340?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500710040471?w=800&q=80&category=real-estate"
+    ],
+    "agent": {
+      "id": "A34",
+      "name": "Agent 78",
+      "phone": "+35 744 418 7282",
+      "email": "agent53@iwrealty.com",
+      "photo": "/images/icons/png/london-prime-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": false,
+      "hasBalcony": false,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-06-11T10:50:47.232Z",
+    "updatedAt": "2025-11-13T10:50:47.232Z",
+    "storeId": "store-007"
+  },
+  {
+    "id": "P04915",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Villa - Tripoli",
+    "slug": "satilik-villa-tripoli-P04915",
+    "description": "Tripoli, Libya bölgesinde villa. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 3085157,
+    "location": {
+      "country": "LY",
+      "city": "Tripoli",
+      "district": "Tripoli Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 410",
+      "coordinates": {
+        "lat": 24.98981814183382,
+        "lng": 16.973857070782046
+      }
+    },
+    "specs": {
+      "netSize": 163,
+      "grossSize": 196,
+      "rooms": "2+0",
+      "bathrooms": 1,
+      "age": 7,
+      "floor": 10,
+      "totalFloors": 10,
+      "heating": "Merkezi",
+      "furnishing": "Furnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500704578151?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500021456135?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500399285789?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500372606034?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500685347796?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500766810626?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500708440522?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500053324725?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500193911168?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500521242793?w=800&q=80&category=interior"
+    ],
+    "agent": {
+      "id": "A96",
+      "name": "Agent 75",
+      "phone": "+67 989 287 8192",
+      "email": "agent90@iwrealty.com",
+      "photo": "/images/icons/png/luxury-homes-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-05-18T10:50:47.232Z",
+    "updatedAt": "2025-11-13T10:50:47.232Z",
+    "storeId": "store-002"
+  },
+  {
+    "id": "P04916",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Villa - Tripoli",
+    "slug": "kiralik-villa-tripoli-P04916",
+    "description": "Tripoli, Libya bölgesinde villa. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 11643463,
+    "location": {
+      "country": "LY",
+      "city": "Tripoli",
+      "district": "Tripoli Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 296",
+      "coordinates": {
+        "lat": 24.800659385932022,
+        "lng": 17.48182684418137
+      }
+    },
+    "specs": {
+      "netSize": 163,
+      "grossSize": 196,
+      "rooms": "1+2",
+      "bathrooms": 4,
+      "age": 20,
+      "floor": 12,
+      "totalFloors": 8,
+      "heating": "Merkezi",
+      "furnishing": "Unfurnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500919267783?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500363258420?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500074949405?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500197978130?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500846363400?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500192461771?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500902340196?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500173407067?w=800&q=80&category=architecture"
+    ],
+    "agent": {
+      "id": "A31",
+      "name": "Agent 18",
+      "phone": "+31 965 333 8625",
+      "email": "agent83@iwrealty.com",
+      "photo": "/images/icons/png/berlin-urban-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-01-02T10:50:47.232Z",
+    "updatedAt": "2025-11-13T10:50:47.232Z",
+    "storeId": "store-009"
+  },
+  {
+    "id": "P04917",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Daire - Tripoli",
+    "slug": "satilik-daire-tripoli-P04917",
+    "description": "Tripoli, Libya bölgesinde daire. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 9216381,
+    "location": {
+      "country": "LY",
+      "city": "Tripoli",
+      "district": "Tripoli Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 711",
+      "coordinates": {
+        "lat": 25.343621119822707,
+        "lng": 16.56995801250466
+      }
+    },
+    "specs": {
+      "netSize": 320,
+      "grossSize": 384,
+      "rooms": "5+0",
+      "bathrooms": 4,
+      "age": 6,
+      "floor": 14,
+      "totalFloors": 16,
+      "heating": "Kombi",
+      "furnishing": "Furnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500961795712?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500519374591?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500438764704?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500481262355?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500556691075?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500381552192?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500893966388?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500126717774?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500531929806?w=800&q=80&category=architecture"
+    ],
+    "agent": {
+      "id": "A16",
+      "name": "Agent 52",
+      "phone": "+60 882 938 5359",
+      "email": "agent64@iwrealty.com",
+      "photo": "/images/icons/png/sg-harbour-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-01-26T10:50:47.232Z",
+    "updatedAt": "2025-11-13T10:50:47.232Z",
+    "storeId": "store-011"
+  },
+  {
+    "id": "P04918",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Residence - Tripoli",
+    "slug": "kiralik-residence-tripoli-P04918",
+    "description": "Tripoli, Libya bölgesinde residence. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 11014631,
+    "location": {
+      "country": "LY",
+      "city": "Tripoli",
+      "district": "Tripoli Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 41",
+      "coordinates": {
+        "lat": 25.20692966202194,
+        "lng": 17.15439174295076
+      }
+    },
+    "specs": {
+      "netSize": 442,
+      "grossSize": 530,
+      "rooms": "1+1",
+      "bathrooms": 4,
+      "age": 15,
+      "floor": 14,
+      "totalFloors": 20,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Furnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500258833957?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500275556194?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500698195017?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500761527265?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500887919582?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500585586053?w=800&q=80&category=architecture"
+    ],
+    "agent": {
+      "id": "A98",
+      "name": "Agent 64",
+      "phone": "+87 293 216 2027",
+      "email": "agent52@iwrealty.com",
+      "photo": "/images/icons/png/berlin-urban-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-04-20T10:50:47.232Z",
+    "updatedAt": "2025-11-13T10:50:47.232Z",
+    "storeId": "store-009"
+  },
+  {
+    "id": "P04919",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Residence - Libya Central",
+    "slug": "satilik-residence-libya-central-P04919",
+    "description": "Libya Central, Libya bölgesinde residence. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 4185802,
+    "location": {
+      "country": "LY",
+      "city": "Libya Central",
+      "district": "Libya Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 345",
+      "coordinates": {
+        "lat": 24.987614470339604,
+        "lng": 16.647209495844955
+      }
+    },
+    "specs": {
+      "netSize": 330,
+      "grossSize": 396,
+      "rooms": "2+1",
+      "bathrooms": 4,
+      "age": 3,
+      "floor": 10,
+      "totalFloors": 15,
+      "heating": "Merkezi",
+      "furnishing": "Furnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500763297991?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500232192286?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500079332885?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500366269120?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500346611310?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500420917836?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500777762876?w=800&q=80&category=interior"
+    ],
+    "agent": {
+      "id": "A34",
+      "name": "Agent 97",
+      "phone": "+93 785 892 3962",
+      "email": "agent67@iwrealty.com",
+      "photo": "/images/icons/png/sydney-coastal-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-05-17T10:50:47.232Z",
+    "updatedAt": "2025-11-13T10:50:47.232Z",
+    "storeId": "store-012"
+  },
+  {
+    "id": "P04920",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Residence - New Libya",
+    "slug": "kiralik-residence-new-libya-P04920",
+    "description": "New Libya, Libya bölgesinde residence. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 13744679,
+    "location": {
+      "country": "LY",
+      "city": "New Libya",
+      "district": "New Libya Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 902",
+      "coordinates": {
+        "lat": 24.925653521255924,
+        "lng": 17.200651385864507
+      }
+    },
+    "specs": {
+      "netSize": 102,
+      "grossSize": 122,
+      "rooms": "4+2",
+      "bathrooms": 1,
+      "age": 5,
+      "floor": 1,
+      "totalFloors": 5,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Furnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500392023725?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500147761829?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500914020006?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500864969784?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500604119824?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500961364642?w=800&q=80&category=interior"
+    ],
+    "agent": {
+      "id": "A1",
+      "name": "Agent 92",
+      "phone": "+13 498 997 9665",
+      "email": "agent28@iwrealty.com",
+      "photo": "/images/icons/png/berlin-urban-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": true,
+      "hasPool": true,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-11-11T10:50:47.232Z",
+    "updatedAt": "2025-11-13T10:50:47.232Z",
+    "storeId": "store-009"
+  },
+  {
+    "id": "P04921",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Villa - Tripoli",
+    "slug": "satilik-villa-tripoli-P04921",
+    "description": "Tripoli, Libya bölgesinde villa. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 7598096,
+    "location": {
+      "country": "LY",
+      "city": "Tripoli",
+      "district": "Tripoli Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 458",
+      "coordinates": {
+        "lat": 24.858576591082887,
+        "lng": 16.842715069205457
+      }
+    },
+    "specs": {
+      "netSize": 217,
+      "grossSize": 260,
+      "rooms": "4+1",
+      "bathrooms": 3,
+      "age": 19,
+      "floor": 9,
+      "totalFloors": 16,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Unfurnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500302433918?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500251626245?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500192346708?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500499094196?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500870687579?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500141622244?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500029583686?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500828854006?w=800&q=80&category=house"
+    ],
+    "agent": {
+      "id": "A60",
+      "name": "Agent 82",
+      "phone": "+53 370 171 9669",
+      "email": "agent76@iwrealty.com",
+      "photo": "/images/icons/png/berlin-urban-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-10-13T10:50:47.232Z",
+    "updatedAt": "2025-11-13T10:50:47.233Z",
+    "storeId": "store-009"
+  },
+  {
+    "id": "P04922",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Villa - Libya Central",
+    "slug": "kiralik-villa-libya-central-P04922",
+    "description": "Libya Central, Libya bölgesinde villa. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 14910672,
+    "location": {
+      "country": "LY",
+      "city": "Libya Central",
+      "district": "Libya Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 286",
+      "coordinates": {
+        "lat": 24.954787068221695,
+        "lng": 17.26628938786685
+      }
+    },
+    "specs": {
+      "netSize": 491,
+      "grossSize": 589,
+      "rooms": "5+2",
+      "bathrooms": 3,
+      "age": 3,
+      "floor": 8,
+      "totalFloors": 8,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Unfurnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500886872412?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500822417919?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500769414905?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500980305476?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500206302474?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500643905401?w=800&q=80&category=building"
+    ],
+    "agent": {
+      "id": "A64",
+      "name": "Agent 65",
+      "phone": "+93 749 524 5212",
+      "email": "agent16@iwrealty.com",
+      "photo": "/images/icons/png/ankara-modern-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": true,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-09-20T10:50:47.233Z",
+    "updatedAt": "2025-11-13T10:50:47.233Z",
+    "storeId": "store-003"
+  },
+  {
+    "id": "P04923",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Daire - Libya City",
+    "slug": "satilik-daire-libya-city-P04923",
+    "description": "Libya City, Libya bölgesinde daire. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 6058205,
+    "location": {
+      "country": "LY",
+      "city": "Libya City",
+      "district": "Libya City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 906",
+      "coordinates": {
+        "lat": 24.923452231345347,
+        "lng": 17.2179697842378
+      }
+    },
+    "specs": {
+      "netSize": 410,
+      "grossSize": 492,
+      "rooms": "4+0",
+      "bathrooms": 1,
+      "age": 2,
+      "floor": 8,
+      "totalFloors": 19,
+      "heating": "Kombi",
+      "furnishing": "Furnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500593941749?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500850662060?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500194811608?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500936374690?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500539183527?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500631549448?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500390528353?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500221559771?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500834099255?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500292366303?w=800&q=80&category=architecture"
+    ],
+    "agent": {
+      "id": "A62",
+      "name": "Agent 14",
+      "phone": "+10 633 105 8383",
+      "email": "agent61@iwrealty.com",
+      "photo": "/images/icons/png/ny-skyline-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": false,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": true,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-10-06T10:50:47.233Z",
+    "updatedAt": "2025-11-13T10:50:47.233Z",
+    "storeId": "store-008"
+  },
+  {
+    "id": "P04924",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Daire - Libya City",
+    "slug": "kiralik-daire-libya-city-P04924",
+    "description": "Libya City, Libya bölgesinde daire. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 9341108,
+    "location": {
+      "country": "LY",
+      "city": "Libya City",
+      "district": "Libya City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 945",
+      "coordinates": {
+        "lat": 25.096213372358175,
+        "lng": 16.934254132632685
+      }
+    },
+    "specs": {
+      "netSize": 197,
+      "grossSize": 236,
+      "rooms": "1+1",
+      "bathrooms": 2,
+      "age": 19,
+      "floor": 12,
+      "totalFloors": 12,
+      "heating": "Klima",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500263650310?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500616109154?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500946075123?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500544791072?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500930312451?w=800&q=80&category=house"
+    ],
+    "agent": {
+      "id": "A44",
+      "name": "Agent 79",
+      "phone": "+14 528 439 4702",
+      "email": "agent82@iwrealty.com",
+      "photo": "/images/icons/png/izmir-sahil-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-09-22T10:50:47.233Z",
+    "updatedAt": "2025-11-13T10:50:47.233Z",
+    "storeId": "store-005"
+  },
+  {
+    "id": "P04925",
+    "type": "sale",
+    "category": {
+      "main": "commercial",
+      "sub": "hospital"
+    },
+    "title": "Satılık Hastane - Tripoli",
+    "slug": "satilik-hastane-tripoli-P04925",
+    "description": "Tripoli, Libya bölgesinde hastane. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 17761562,
+    "location": {
+      "country": "LY",
+      "city": "Tripoli",
+      "district": "Tripoli Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 990",
+      "coordinates": {
+        "lat": 24.5448363152233,
+        "lng": 16.876895570968685
+      }
+    },
+    "specs": {
+      "netSize": 8235,
+      "grossSize": 9882,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 2,
+      "floor": 8,
+      "totalFloors": 9,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Furnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500869476914?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500740855212?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500120626443?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500970254695?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500524604782?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500061358842?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500085366374?w=800&q=80&category=real-estate"
+    ],
+    "agent": {
+      "id": "A27",
+      "name": "Agent 30",
+      "phone": "+67 228 434 7725",
+      "email": "agent12@iwrealty.com",
+      "photo": "/images/icons/png/london-prime-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-10-18T10:50:47.233Z",
+    "updatedAt": "2025-11-13T10:50:47.233Z",
+    "storeId": "store-007"
+  },
+  {
+    "id": "P04926",
+    "type": "rent",
+    "category": {
+      "main": "commercial",
+      "sub": "hospital"
+    },
+    "title": "Kiralık Hastane - New Libya",
+    "slug": "kiralik-hastane-new-libya-P04926",
+    "description": "New Libya, Libya bölgesinde hastane. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 13168372,
+    "location": {
+      "country": "LY",
+      "city": "New Libya",
+      "district": "New Libya Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 150",
+      "coordinates": {
+        "lat": 25.464838910566705,
+        "lng": 17.408322516308363
+      }
+    },
+    "specs": {
+      "netSize": 12730,
+      "grossSize": 15276,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 3,
+      "floor": 13,
+      "totalFloors": 13,
+      "heating": "Merkezi",
+      "furnishing": "Furnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500408886727?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500734180648?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500154392132?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500332169552?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500132857276?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500148987274?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500307727328?w=800&q=80&category=architecture"
+    ],
+    "agent": {
+      "id": "A36",
+      "name": "Agent 90",
+      "phone": "+80 369 368 1153",
+      "email": "agent62@iwrealty.com",
+      "photo": "/images/icons/png/ankara-modern-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": true,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-03-29T10:50:47.233Z",
+    "updatedAt": "2025-11-13T10:50:47.233Z",
+    "storeId": "store-003"
+  },
+  {
+    "id": "P04927",
+    "type": "sale",
+    "category": {
+      "main": "commercial",
+      "sub": "clinic"
+    },
+    "title": "Satılık Klinik - Tripoli",
+    "slug": "satilik-klinik-tripoli-P04927",
+    "description": "Tripoli, Libya bölgesinde klinik. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 15395152,
+    "location": {
+      "country": "LY",
+      "city": "Tripoli",
+      "district": "Tripoli Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 960",
+      "coordinates": {
+        "lat": 25.050705356822142,
+        "lng": 17.011220569385817
+      }
+    },
+    "specs": {
+      "netSize": 979,
+      "grossSize": 1175,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 5,
+      "floor": 3,
+      "totalFloors": 13,
+      "heating": "Kombi",
+      "furnishing": "Furnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500722662525?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500352096938?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500553989410?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500154821376?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500844077532?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500524192334?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500940310837?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500600166088?w=800&q=80&category=interior"
+    ],
+    "agent": {
+      "id": "A58",
+      "name": "Agent 81",
+      "phone": "+76 863 330 5273",
+      "email": "agent67@iwrealty.com",
+      "photo": "/images/icons/png/paris-heritage-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-06-14T10:50:47.233Z",
+    "updatedAt": "2025-11-13T10:50:47.233Z",
+    "storeId": "store-010"
+  },
+  {
+    "id": "P04928",
+    "type": "rent",
+    "category": {
+      "main": "commercial",
+      "sub": "clinic"
+    },
+    "title": "Kiralık Klinik - New Libya",
+    "slug": "kiralik-klinik-new-libya-P04928",
+    "description": "New Libya, Libya bölgesinde klinik. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 18299002,
+    "location": {
+      "country": "LY",
+      "city": "New Libya",
+      "district": "New Libya Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 878",
+      "coordinates": {
+        "lat": 24.910603459359038,
+        "lng": 17.291388673532822
+      }
+    },
+    "specs": {
+      "netSize": 1945,
+      "grossSize": 2334,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 20,
+      "floor": 1,
+      "totalFloors": 6,
+      "heating": "Merkezi",
+      "furnishing": "Unfurnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500129123803?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500753772592?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500430340283?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500816351151?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500810056954?w=800&q=80&category=building"
+    ],
+    "agent": {
+      "id": "A2",
+      "name": "Agent 68",
+      "phone": "+19 603 282 7948",
+      "email": "agent35@iwrealty.com",
+      "photo": "/images/icons/png/sg-harbour-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": true,
+      "hasPool": true,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-02-10T10:50:47.233Z",
+    "updatedAt": "2025-11-13T10:50:47.233Z",
+    "storeId": "store-011"
+  },
+  {
+    "id": "P04929",
+    "type": "sale",
+    "category": {
+      "main": "commercial",
+      "sub": "shop"
+    },
+    "title": "Satılık Dükkan - Tripoli",
+    "slug": "satilik-dükkan-tripoli-P04929",
+    "description": "Tripoli, Libya bölgesinde dükkan. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 5276923,
+    "location": {
+      "country": "LY",
+      "city": "Tripoli",
+      "district": "Tripoli Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 912",
+      "coordinates": {
+        "lat": 25.479071710993104,
+        "lng": 16.722577623216484
+      }
+    },
+    "specs": {
+      "netSize": 353,
+      "grossSize": 424,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 1,
+      "floor": 9,
+      "totalFloors": 14,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500871410053?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500894892425?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500871017741?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500777118167?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500722910753?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500828046016?w=800&q=80&category=real-estate"
+    ],
+    "agent": {
+      "id": "A46",
+      "name": "Agent 70",
+      "phone": "+88 389 514 7686",
+      "email": "agent7@iwrealty.com",
+      "photo": "/images/icons/png/dubai-property-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2024-11-30T10:50:47.233Z",
+    "updatedAt": "2025-11-13T10:50:47.233Z",
+    "storeId": "store-004"
+  },
+  {
+    "id": "P04930",
+    "type": "rent",
+    "category": {
+      "main": "commercial",
+      "sub": "shop"
+    },
+    "title": "Kiralık Dükkan - Tripoli",
+    "slug": "kiralik-dükkan-tripoli-P04930",
+    "description": "Tripoli, Libya bölgesinde dükkan. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 5350253,
+    "location": {
+      "country": "LY",
+      "city": "Tripoli",
+      "district": "Tripoli Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 310",
+      "coordinates": {
+        "lat": 25.225800138577153,
+        "lng": 16.60283689332824
+      }
+    },
+    "specs": {
+      "netSize": 390,
+      "grossSize": 468,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 14,
+      "floor": 14,
+      "totalFloors": 12,
+      "heating": "Merkezi",
+      "furnishing": "Unfurnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500601103539?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500651018699?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500043144496?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500286465313?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500075542633?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500609397189?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500063352675?w=800&q=80&category=architecture"
+    ],
+    "agent": {
+      "id": "A99",
+      "name": "Agent 54",
+      "phone": "+22 350 770 5712",
+      "email": "agent85@iwrealty.com",
+      "photo": "/images/icons/png/luxury-homes-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-08-07T10:50:47.233Z",
+    "updatedAt": "2025-11-13T10:50:47.233Z",
+    "storeId": "store-002"
+  },
+  {
+    "id": "P04931",
+    "type": "sale",
+    "category": {
+      "main": "commercial",
+      "sub": "office"
+    },
+    "title": "Satılık Ofis - Libya City",
+    "slug": "satilik-ofis-libya-city-P04931",
+    "description": "Libya City, Libya bölgesinde ofis. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 4313439,
+    "location": {
+      "country": "LY",
+      "city": "Libya City",
+      "district": "Libya City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 541",
+      "coordinates": {
+        "lat": 25.122095178119103,
+        "lng": 16.95713637343938
+      }
+    },
+    "specs": {
+      "netSize": 313,
+      "grossSize": 376,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 16,
+      "floor": 10,
+      "totalFloors": 8,
+      "heating": "Klima",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500194402035?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500304344068?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500209445489?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500946315973?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500126901067?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500517337861?w=800&q=80&category=interior"
+    ],
+    "agent": {
+      "id": "A44",
+      "name": "Agent 41",
+      "phone": "+79 351 403 2204",
+      "email": "agent39@iwrealty.com",
+      "photo": "/images/icons/png/antalya-investment-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": false,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-07-10T10:50:47.233Z",
+    "updatedAt": "2025-11-13T10:50:47.233Z",
+    "storeId": "store-006"
+  },
+  {
+    "id": "P04932",
+    "type": "rent",
+    "category": {
+      "main": "commercial",
+      "sub": "office"
+    },
+    "title": "Kiralık Ofis - Tripoli",
+    "slug": "kiralik-ofis-tripoli-P04932",
+    "description": "Tripoli, Libya bölgesinde ofis. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 8316091,
+    "location": {
+      "country": "LY",
+      "city": "Tripoli",
+      "district": "Tripoli Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 285",
+      "coordinates": {
+        "lat": 25.45170114457076,
+        "lng": 16.620860491908353
+      }
+    },
+    "specs": {
+      "netSize": 689,
+      "grossSize": 827,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 14,
+      "floor": 15,
+      "totalFloors": 5,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Furnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500628478973?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500474555857?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500293328854?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500658942583?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500959190177?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500348183255?w=800&q=80&category=architecture"
+    ],
+    "agent": {
+      "id": "A66",
+      "name": "Agent 82",
+      "phone": "+79 834 923 3630",
+      "email": "agent45@iwrealty.com",
+      "photo": "/images/icons/png/ankara-modern-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": true,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-03-30T10:50:47.233Z",
+    "updatedAt": "2025-11-13T10:50:47.233Z",
+    "storeId": "store-003"
+  },
+  {
+    "id": "P04933",
+    "type": "sale",
+    "category": {
+      "main": "commercial",
+      "sub": "mall"
+    },
+    "title": "Satılık AVM - Libya Central",
+    "slug": "satilik-avm-libya-central-P04933",
+    "description": "Libya Central, Libya bölgesinde avm. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 295450329,
+    "location": {
+      "country": "LY",
+      "city": "Libya Central",
+      "district": "Libya Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 702",
+      "coordinates": {
+        "lat": 24.686756512165953,
+        "lng": 16.53097386671166
+      }
+    },
+    "specs": {
+      "netSize": 28976,
+      "grossSize": 34771,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 3,
+      "floor": 13,
+      "totalFloors": 5,
+      "heating": "Merkezi",
+      "furnishing": "Unfurnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500432558549?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500467811921?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500004319328?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500888269775?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500467638678?w=800&q=80&category=house"
+    ],
+    "agent": {
+      "id": "A38",
+      "name": "Agent 45",
+      "phone": "+98 526 334 5373",
+      "email": "agent75@iwrealty.com",
+      "photo": "/images/icons/png/antalya-investment-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": true,
+      "hasSecurity": true
+    },
+    "createdAt": "2024-12-18T10:50:47.233Z",
+    "updatedAt": "2025-11-13T10:50:47.233Z",
+    "storeId": "store-006"
+  },
+  {
+    "id": "P04934",
+    "type": "rent",
+    "category": {
+      "main": "commercial",
+      "sub": "mall"
+    },
+    "title": "Kiralık AVM - Libya City",
+    "slug": "kiralik-avm-libya-city-P04934",
+    "description": "Libya City, Libya bölgesinde avm. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 344996649,
+    "location": {
+      "country": "LY",
+      "city": "Libya City",
+      "district": "Libya City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 875",
+      "coordinates": {
+        "lat": 24.706636033154805,
+        "lng": 17.0691817515439
+      }
+    },
+    "specs": {
+      "netSize": 15809,
+      "grossSize": 18971,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 14,
+      "floor": 12,
+      "totalFloors": 7,
+      "heating": "Klima",
+      "furnishing": "Unfurnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500969168370?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500861706328?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500163091452?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500153546277?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500332270552?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500402894134?w=800&q=80&category=house"
+    ],
+    "agent": {
+      "id": "A89",
+      "name": "Agent 59",
+      "phone": "+15 633 204 1228",
+      "email": "agent2@iwrealty.com",
+      "photo": "/images/icons/png/sydney-coastal-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": true,
+      "hasPool": true,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-01-12T10:50:47.233Z",
+    "updatedAt": "2025-11-13T10:50:47.233Z",
+    "storeId": "store-012"
+  },
+  {
+    "id": "P04935",
+    "type": "sale",
+    "category": {
+      "main": "commercial",
+      "sub": "hotel"
+    },
+    "title": "Satılık Otel - Libya Central",
+    "slug": "satilik-otel-libya-central-P04935",
+    "description": "Libya Central, Libya bölgesinde otel. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 115404642,
+    "location": {
+      "country": "LY",
+      "city": "Libya Central",
+      "district": "Libya Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 107",
+      "coordinates": {
+        "lat": 24.651217316410683,
+        "lng": 17.425697520892346
+      }
+    },
+    "specs": {
+      "netSize": 14318,
+      "grossSize": 17182,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 13,
+      "floor": 7,
+      "totalFloors": 16,
+      "heating": "Klima",
+      "furnishing": "Unfurnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500847709152?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500738431770?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500449778270?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500729304600?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500798546455?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500483583908?w=800&q=80&category=interior"
+    ],
+    "agent": {
+      "id": "A62",
+      "name": "Agent 94",
+      "phone": "+10 625 855 3559",
+      "email": "agent5@iwrealty.com",
+      "photo": "/images/icons/png/sg-harbour-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": true,
+      "hasSecurity": true
+    },
+    "createdAt": "2024-12-12T10:50:47.233Z",
+    "updatedAt": "2025-11-13T10:50:47.233Z",
+    "storeId": "store-011"
+  },
+  {
+    "id": "P04936",
+    "type": "rent",
+    "category": {
+      "main": "commercial",
+      "sub": "hotel"
+    },
+    "title": "Kiralık Otel - New Libya",
+    "slug": "kiralik-otel-new-libya-P04936",
+    "description": "New Libya, Libya bölgesinde otel. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 85343247,
+    "location": {
+      "country": "LY",
+      "city": "New Libya",
+      "district": "New Libya Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 682",
+      "coordinates": {
+        "lat": 24.774980364363124,
+        "lng": 16.758540558273697
+      }
+    },
+    "specs": {
+      "netSize": 13279,
+      "grossSize": 15935,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 3,
+      "floor": 11,
+      "totalFloors": 20,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Furnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500818023631?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500569639920?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500914945076?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500215808227?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500465377414?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500888295844?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500613886500?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500191492065?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500451179249?w=800&q=80&category=real-estate"
+    ],
+    "agent": {
+      "id": "A2",
+      "name": "Agent 98",
+      "phone": "+38 987 560 6085",
+      "email": "agent15@iwrealty.com",
+      "photo": "/images/icons/png/london-prime-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-09-13T10:50:47.233Z",
+    "updatedAt": "2025-11-13T10:50:47.233Z",
+    "storeId": "store-007"
+  },
+  {
+    "id": "P04937",
+    "type": "sale",
+    "category": {
+      "main": "commercial",
+      "sub": "restaurant"
+    },
+    "title": "Satılık Restoran - Tripoli",
+    "slug": "satilik-restoran-tripoli-P04937",
+    "description": "Tripoli, Libya bölgesinde restoran. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 3914861,
+    "location": {
+      "country": "LY",
+      "city": "Tripoli",
+      "district": "Tripoli Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 491",
+      "coordinates": {
+        "lat": 25.32262343287533,
+        "lng": 17.12725596919598
+      }
+    },
+    "specs": {
+      "netSize": 165,
+      "grossSize": 198,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 18,
+      "floor": 1,
+      "totalFloors": 14,
+      "heating": "Merkezi",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500648275029?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500282869533?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500329011903?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500587227887?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500754520442?w=800&q=80&category=interior"
+    ],
+    "agent": {
+      "id": "A94",
+      "name": "Agent 65",
+      "phone": "+70 591 765 6887",
+      "email": "agent97@iwrealty.com",
+      "photo": "/images/icons/png/sg-harbour-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": true,
+      "hasSecurity": true
+    },
+    "createdAt": "2024-12-09T10:50:47.233Z",
+    "updatedAt": "2025-11-13T10:50:47.233Z",
+    "storeId": "store-011"
+  },
+  {
+    "id": "P04938",
+    "type": "rent",
+    "category": {
+      "main": "commercial",
+      "sub": "restaurant"
+    },
+    "title": "Kiralık Restoran - Tripoli",
+    "slug": "kiralik-restoran-tripoli-P04938",
+    "description": "Tripoli, Libya bölgesinde restoran. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 4266420,
+    "location": {
+      "country": "LY",
+      "city": "Tripoli",
+      "district": "Tripoli Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 88",
+      "coordinates": {
+        "lat": 25.15122751129903,
+        "lng": 16.51038695215158
+      }
+    },
+    "specs": {
+      "netSize": 1110,
+      "grossSize": 1332,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 15,
+      "floor": 4,
+      "totalFloors": 8,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Furnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500402750482?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500243333624?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500147700561?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500699404711?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500747709025?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500465428232?w=800&q=80&category=architecture"
+    ],
+    "agent": {
+      "id": "A55",
+      "name": "Agent 50",
+      "phone": "+43 347 670 1324",
+      "email": "agent60@iwrealty.com",
+      "photo": "/images/icons/png/london-prime-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-07-13T10:50:47.233Z",
+    "updatedAt": "2025-11-13T10:50:47.233Z",
+    "storeId": "store-007"
+  },
+  {
+    "id": "P04939",
+    "type": "sale",
+    "category": {
+      "main": "commercial",
+      "sub": "warehouse"
+    },
+    "title": "Satılık Depo - Libya Central",
+    "slug": "satilik-depo-libya-central-P04939",
+    "description": "Libya Central, Libya bölgesinde depo. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 5753280,
+    "location": {
+      "country": "LY",
+      "city": "Libya Central",
+      "district": "Libya Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 766",
+      "coordinates": {
+        "lat": 24.830306279295957,
+        "lng": 16.978386702925363
+      }
+    },
+    "specs": {
+      "netSize": 6847,
+      "grossSize": 8216,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 20,
+      "floor": 11,
+      "totalFloors": 7,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500538565930?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500728918850?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500658468113?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500114738106?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500844640389?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500022966734?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500813648808?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500041324621?w=800&q=80&category=house"
+    ],
+    "agent": {
+      "id": "A75",
+      "name": "Agent 95",
+      "phone": "+87 411 874 2773",
+      "email": "agent29@iwrealty.com",
+      "photo": "/images/icons/png/berlin-urban-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": true,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-09-27T10:50:47.233Z",
+    "updatedAt": "2025-11-13T10:50:47.233Z",
+    "storeId": "store-009"
+  },
+  {
+    "id": "P04940",
+    "type": "rent",
+    "category": {
+      "main": "commercial",
+      "sub": "warehouse"
+    },
+    "title": "Kiralık Depo - New Libya",
+    "slug": "kiralik-depo-new-libya-P04940",
+    "description": "New Libya, Libya bölgesinde depo. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 14342007,
+    "location": {
+      "country": "LY",
+      "city": "New Libya",
+      "district": "New Libya Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 176",
+      "coordinates": {
+        "lat": 24.879062786785376,
+        "lng": 16.943856147130067
+      }
+    },
+    "specs": {
+      "netSize": 2083,
+      "grossSize": 2500,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 19,
+      "floor": 8,
+      "totalFloors": 12,
+      "heating": "Klima",
+      "furnishing": "Unfurnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500325232058?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500439130779?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500289466089?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500718979282?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500100031619?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500776638387?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500354868664?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500466963369?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500381060659?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500633194042?w=800&q=80&category=building"
+    ],
+    "agent": {
+      "id": "A40",
+      "name": "Agent 84",
+      "phone": "+15 397 660 1874",
+      "email": "agent44@iwrealty.com",
+      "photo": "/images/icons/png/sydney-coastal-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": false,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-09-27T10:50:47.233Z",
+    "updatedAt": "2025-11-13T10:50:47.233Z",
+    "storeId": "store-012"
+  }
+]

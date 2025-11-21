@@ -1,0 +1,2353 @@
+[
+  {
+    "id": "P07259",
+    "type": "sale",
+    "category": {
+      "main": "government"
+    },
+    "title": "Satılık Hastane - New Russia",
+    "slug": "satilik-hastane-new-russia-P07259",
+    "description": "New Russia, Russia bölgesinde hastane. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 19920053,
+    "location": {
+      "country": "RU",
+      "city": "New Russia",
+      "district": "New Russia Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 927",
+      "coordinates": {
+        "lat": 59.89674872530675,
+        "lng": 100.39999654397405
+      }
+    },
+    "specs": {
+      "netSize": 3709,
+      "grossSize": 4451,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 9,
+      "floor": 10,
+      "totalFloors": 13,
+      "heating": "Kombi",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500613372152?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500718975938?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500759026805?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500768588084?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500520242773?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500121341759?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500800750714?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500156285013?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500594528309?w=800&q=80&category=building"
+    ],
+    "agent": {
+      "id": "A20",
+      "name": "Agent 39",
+      "phone": "+25 118 725 1164",
+      "email": "agent51@iwrealty.com",
+      "photo": "/images/icons/png/sg-harbour-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": true,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-09-15T10:50:47.255Z",
+    "updatedAt": "2025-11-13T10:50:47.255Z",
+    "storeId": "store-011"
+  },
+  {
+    "id": "P07260",
+    "type": "rent",
+    "category": {
+      "main": "government"
+    },
+    "title": "Kiralık Okul - Russia Central",
+    "slug": "kiralik-okul-russia-central-P07260",
+    "description": "Russia Central, Russia bölgesinde okul. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 31727151,
+    "location": {
+      "country": "RU",
+      "city": "Russia Central",
+      "district": "Russia Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 449",
+      "coordinates": {
+        "lat": 60.01901754376418,
+        "lng": 99.75646738797118
+      }
+    },
+    "specs": {
+      "netSize": 3393,
+      "grossSize": 4072,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 15,
+      "floor": 7,
+      "totalFloors": 20,
+      "heating": "Merkezi",
+      "furnishing": "Unfurnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500222477614?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500597248702?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500066273471?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500958321979?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500701702406?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500411047436?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500347045638?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500024117565?w=800&q=80&category=building"
+    ],
+    "agent": {
+      "id": "A26",
+      "name": "Agent 100",
+      "phone": "+73 600 387 2030",
+      "email": "agent39@iwrealty.com",
+      "photo": "/images/icons/png/berlin-urban-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": false,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-06-15T10:50:47.255Z",
+    "updatedAt": "2025-11-13T10:50:47.255Z",
+    "storeId": "store-009"
+  },
+  {
+    "id": "P07261",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Müstakil Ev - Russia Central",
+    "slug": "satilik-müstakil-ev-russia-central-P07261",
+    "description": "Russia Central, Russia bölgesinde müstakil ev. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 10447600,
+    "location": {
+      "country": "RU",
+      "city": "Russia Central",
+      "district": "Russia Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 394",
+      "coordinates": {
+        "lat": 60.00317563317273,
+        "lng": 100.2134774016622
+      }
+    },
+    "specs": {
+      "netSize": 98,
+      "grossSize": 118,
+      "rooms": "5+0",
+      "bathrooms": 2,
+      "age": 3,
+      "floor": 1,
+      "totalFloors": 6,
+      "heating": "Merkezi",
+      "furnishing": "Unfurnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500957574016?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500741708250?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500790235411?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500807729619?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500616353699?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500286974273?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500997882740?w=800&q=80&category=interior"
+    ],
+    "agent": {
+      "id": "A25",
+      "name": "Agent 45",
+      "phone": "+75 824 859 8925",
+      "email": "agent24@iwrealty.com",
+      "photo": "/images/icons/png/ny-skyline-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": false,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": true,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-09-16T10:50:47.255Z",
+    "updatedAt": "2025-11-13T10:50:47.255Z",
+    "storeId": "store-008"
+  },
+  {
+    "id": "P07262",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Villa - Moscow",
+    "slug": "kiralik-villa-moscow-P07262",
+    "description": "Moscow, Russia bölgesinde villa. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 10597424,
+    "location": {
+      "country": "RU",
+      "city": "Moscow",
+      "district": "Moscow Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 880",
+      "coordinates": {
+        "lat": 60.17988478651817,
+        "lng": 99.5957404177474
+      }
+    },
+    "specs": {
+      "netSize": 464,
+      "grossSize": 557,
+      "rooms": "4+0",
+      "bathrooms": 3,
+      "age": 16,
+      "floor": 5,
+      "totalFloors": 6,
+      "heating": "Merkezi",
+      "furnishing": "Unfurnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500912254674?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500542872203?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500374983725?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500843756401?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500409491698?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500651977995?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500799965190?w=800&q=80&category=architecture"
+    ],
+    "agent": {
+      "id": "A42",
+      "name": "Agent 2",
+      "phone": "+58 278 744 7792",
+      "email": "agent49@iwrealty.com",
+      "photo": "/images/icons/png/sydney-coastal-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": true,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-05-02T10:50:47.255Z",
+    "updatedAt": "2025-11-13T10:50:47.255Z",
+    "storeId": "store-012"
+  },
+  {
+    "id": "P07263",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Müstakil Ev - Russia Central",
+    "slug": "satilik-müstakil-ev-russia-central-P07263",
+    "description": "Russia Central, Russia bölgesinde müstakil ev. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 13554291,
+    "location": {
+      "country": "RU",
+      "city": "Russia Central",
+      "district": "Russia Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 856",
+      "coordinates": {
+        "lat": 60.458436963298254,
+        "lng": 100.0126952673679
+      }
+    },
+    "specs": {
+      "netSize": 463,
+      "grossSize": 556,
+      "rooms": "5+0",
+      "bathrooms": 3,
+      "age": 15,
+      "floor": 4,
+      "totalFloors": 15,
+      "heating": "Merkezi",
+      "furnishing": "Unfurnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500436488179?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500465606209?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500887461693?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500668145596?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500282590105?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500838088239?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500964962355?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500262180963?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500933550237?w=800&q=80&category=house"
+    ],
+    "agent": {
+      "id": "A24",
+      "name": "Agent 45",
+      "phone": "+52 861 358 5487",
+      "email": "agent88@iwrealty.com",
+      "photo": "/images/icons/png/antalya-investment-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": false,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-11-13T10:50:47.255Z",
+    "updatedAt": "2025-11-13T10:50:47.255Z",
+    "storeId": "store-006"
+  },
+  {
+    "id": "P07264",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Villa - Russia City",
+    "slug": "kiralik-villa-russia-city-P07264",
+    "description": "Russia City, Russia bölgesinde villa. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 5686317,
+    "location": {
+      "country": "RU",
+      "city": "Russia City",
+      "district": "Russia City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 49",
+      "coordinates": {
+        "lat": 60.01524277498106,
+        "lng": 100.26787259663621
+      }
+    },
+    "specs": {
+      "netSize": 268,
+      "grossSize": 322,
+      "rooms": "4+0",
+      "bathrooms": 2,
+      "age": 11,
+      "floor": 9,
+      "totalFloors": 7,
+      "heating": "Klima",
+      "furnishing": "Unfurnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500684051011?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500055699842?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500347397223?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500432469263?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500106825689?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500434503225?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500049590602?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500279797245?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500901293702?w=800&q=80&category=building"
+    ],
+    "agent": {
+      "id": "A56",
+      "name": "Agent 86",
+      "phone": "+61 425 781 2834",
+      "email": "agent61@iwrealty.com",
+      "photo": "/images/icons/png/sydney-coastal-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-03-28T10:50:47.255Z",
+    "updatedAt": "2025-11-13T10:50:47.255Z",
+    "storeId": "store-012"
+  },
+  {
+    "id": "P07265",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Villa - New Russia",
+    "slug": "satilik-villa-new-russia-P07265",
+    "description": "New Russia, Russia bölgesinde villa. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 5703291,
+    "location": {
+      "country": "RU",
+      "city": "New Russia",
+      "district": "New Russia Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 375",
+      "coordinates": {
+        "lat": 60.26291534964309,
+        "lng": 99.77603147335762
+      }
+    },
+    "specs": {
+      "netSize": 222,
+      "grossSize": 266,
+      "rooms": "3+2",
+      "bathrooms": 2,
+      "age": 20,
+      "floor": 6,
+      "totalFloors": 12,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Unfurnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500282242669?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500172775576?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500588966023?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500990011865?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500337947314?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500884648709?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500992363818?w=800&q=80&category=real-estate"
+    ],
+    "agent": {
+      "id": "A93",
+      "name": "Agent 85",
+      "phone": "+17 618 248 2447",
+      "email": "agent6@iwrealty.com",
+      "photo": "/images/icons/png/dubai-property-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-02-19T10:50:47.255Z",
+    "updatedAt": "2025-11-13T10:50:47.255Z",
+    "storeId": "store-004"
+  },
+  {
+    "id": "P07266",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Müstakil Ev - Moscow",
+    "slug": "kiralik-müstakil-ev-moscow-P07266",
+    "description": "Moscow, Russia bölgesinde müstakil ev. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 2837173,
+    "location": {
+      "country": "RU",
+      "city": "Moscow",
+      "district": "Moscow Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 396",
+      "coordinates": {
+        "lat": 59.536790388118355,
+        "lng": 99.82949082272843
+      }
+    },
+    "specs": {
+      "netSize": 87,
+      "grossSize": 104,
+      "rooms": "4+1",
+      "bathrooms": 3,
+      "age": 6,
+      "floor": 1,
+      "totalFloors": 13,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Unfurnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500859525260?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500852485006?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500787733465?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500260993119?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500212820553?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500080891930?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500626618153?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500980838455?w=800&q=80&category=house"
+    ],
+    "agent": {
+      "id": "A7",
+      "name": "Agent 71",
+      "phone": "+39 318 625 5153",
+      "email": "agent73@iwrealty.com",
+      "photo": "/images/icons/png/paris-heritage-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": true,
+      "hasSecurity": true
+    },
+    "createdAt": "2024-12-21T10:50:47.255Z",
+    "updatedAt": "2025-11-13T10:50:47.255Z",
+    "storeId": "store-010"
+  },
+  {
+    "id": "P07267",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Daire - New Russia",
+    "slug": "satilik-daire-new-russia-P07267",
+    "description": "New Russia, Russia bölgesinde daire. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 6857352,
+    "location": {
+      "country": "RU",
+      "city": "New Russia",
+      "district": "New Russia Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 676",
+      "coordinates": {
+        "lat": 60.2127537029485,
+        "lng": 100.07773071991882
+      }
+    },
+    "specs": {
+      "netSize": 363,
+      "grossSize": 436,
+      "rooms": "2+1",
+      "bathrooms": 4,
+      "age": 8,
+      "floor": 2,
+      "totalFloors": 13,
+      "heating": "Merkezi",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500368063508?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500083975991?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500002853958?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500445616959?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500472115761?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500003611271?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500212812483?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500969388267?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500450282011?w=800&q=80&category=architecture"
+    ],
+    "agent": {
+      "id": "A16",
+      "name": "Agent 26",
+      "phone": "+10 112 728 9966",
+      "email": "agent48@iwrealty.com",
+      "photo": "/images/icons/png/dubai-property-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-09-20T10:50:47.255Z",
+    "updatedAt": "2025-11-13T10:50:47.255Z",
+    "storeId": "store-004"
+  },
+  {
+    "id": "P07268",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Daire - Russia Central",
+    "slug": "kiralik-daire-russia-central-P07268",
+    "description": "Russia Central, Russia bölgesinde daire. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 7623211,
+    "location": {
+      "country": "RU",
+      "city": "Russia Central",
+      "district": "Russia Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 433",
+      "coordinates": {
+        "lat": 59.79856277889733,
+        "lng": 99.70418886284834
+      }
+    },
+    "specs": {
+      "netSize": 152,
+      "grossSize": 182,
+      "rooms": "1+1",
+      "bathrooms": 4,
+      "age": 18,
+      "floor": 9,
+      "totalFloors": 16,
+      "heating": "Klima",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500743116505?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500600039226?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500232397882?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500952921442?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500917915235?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500634335988?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500598781694?w=800&q=80&category=building"
+    ],
+    "agent": {
+      "id": "A67",
+      "name": "Agent 40",
+      "phone": "+46 294 388 4668",
+      "email": "agent2@iwrealty.com",
+      "photo": "/images/icons/png/sydney-coastal-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": false,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-11-08T10:50:47.255Z",
+    "updatedAt": "2025-11-13T10:50:47.255Z",
+    "storeId": "store-012"
+  },
+  {
+    "id": "P07269",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Müstakil Ev - New Russia",
+    "slug": "satilik-müstakil-ev-new-russia-P07269",
+    "description": "New Russia, Russia bölgesinde müstakil ev. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 9722655,
+    "location": {
+      "country": "RU",
+      "city": "New Russia",
+      "district": "New Russia Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 364",
+      "coordinates": {
+        "lat": 59.54771250684527,
+        "lng": 99.97231499780072
+      }
+    },
+    "specs": {
+      "netSize": 150,
+      "grossSize": 180,
+      "rooms": "4+0",
+      "bathrooms": 4,
+      "age": 3,
+      "floor": 2,
+      "totalFloors": 18,
+      "heating": "Klima",
+      "furnishing": "Furnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500027565277?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500503384035?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500265068586?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500210800192?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500441867226?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500095435248?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500747086419?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500221900341?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500376696319?w=800&q=80&category=interior"
+    ],
+    "agent": {
+      "id": "A97",
+      "name": "Agent 26",
+      "phone": "+56 634 573 2281",
+      "email": "agent51@iwrealty.com",
+      "photo": "/images/icons/png/paris-heritage-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2024-12-19T10:50:47.255Z",
+    "updatedAt": "2025-11-13T10:50:47.255Z",
+    "storeId": "store-010"
+  },
+  {
+    "id": "P07270",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Villa - Moscow",
+    "slug": "kiralik-villa-moscow-P07270",
+    "description": "Moscow, Russia bölgesinde villa. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 10519254,
+    "location": {
+      "country": "RU",
+      "city": "Moscow",
+      "district": "Moscow Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 749",
+      "coordinates": {
+        "lat": 60.24193667789317,
+        "lng": 100.10825918286378
+      }
+    },
+    "specs": {
+      "netSize": 498,
+      "grossSize": 598,
+      "rooms": "3+0",
+      "bathrooms": 4,
+      "age": 5,
+      "floor": 14,
+      "totalFloors": 8,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500612046443?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500890085387?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500037907547?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500915718729?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500671450904?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500706659055?w=800&q=80&category=interior"
+    ],
+    "agent": {
+      "id": "A53",
+      "name": "Agent 42",
+      "phone": "+32 959 265 5389",
+      "email": "agent96@iwrealty.com",
+      "photo": "/images/icons/png/sg-harbour-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-10-08T10:50:47.255Z",
+    "updatedAt": "2025-11-13T10:50:47.255Z",
+    "storeId": "store-011"
+  },
+  {
+    "id": "P07271",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Residence - Russia Central",
+    "slug": "satilik-residence-russia-central-P07271",
+    "description": "Russia Central, Russia bölgesinde residence. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 13402276,
+    "location": {
+      "country": "RU",
+      "city": "Russia Central",
+      "district": "Russia Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 140",
+      "coordinates": {
+        "lat": 60.311437172955564,
+        "lng": 99.90113328081348
+      }
+    },
+    "specs": {
+      "netSize": 264,
+      "grossSize": 317,
+      "rooms": "5+2",
+      "bathrooms": 1,
+      "age": 20,
+      "floor": 10,
+      "totalFloors": 12,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Unfurnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500504914486?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500328591863?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500083773829?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500115587180?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500179900682?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500990089809?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500097138659?w=800&q=80&category=house"
+    ],
+    "agent": {
+      "id": "A89",
+      "name": "Agent 76",
+      "phone": "+35 887 581 5104",
+      "email": "agent11@iwrealty.com",
+      "photo": "/images/icons/png/ny-skyline-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": false,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-04-20T10:50:47.255Z",
+    "updatedAt": "2025-11-13T10:50:47.255Z",
+    "storeId": "store-008"
+  },
+  {
+    "id": "P07272",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Villa - New Russia",
+    "slug": "kiralik-villa-new-russia-P07272",
+    "description": "New Russia, Russia bölgesinde villa. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 2106371,
+    "location": {
+      "country": "RU",
+      "city": "New Russia",
+      "district": "New Russia Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 579",
+      "coordinates": {
+        "lat": 59.51536473768611,
+        "lng": 99.64540672094658
+      }
+    },
+    "specs": {
+      "netSize": 444,
+      "grossSize": 533,
+      "rooms": "5+2",
+      "bathrooms": 2,
+      "age": 12,
+      "floor": 5,
+      "totalFloors": 13,
+      "heating": "Merkezi",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500258239063?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500378610149?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500563599875?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500924802725?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500221984445?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500918739394?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500897176388?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500890517433?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500555569365?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500770100719?w=800&q=80&category=real-estate"
+    ],
+    "agent": {
+      "id": "A89",
+      "name": "Agent 14",
+      "phone": "+79 476 549 3152",
+      "email": "agent9@iwrealty.com",
+      "photo": "/images/icons/png/dubai-property-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": true,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-08-09T10:50:47.255Z",
+    "updatedAt": "2025-11-13T10:50:47.255Z",
+    "storeId": "store-004"
+  },
+  {
+    "id": "P07273",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Villa - Russia City",
+    "slug": "satilik-villa-russia-city-P07273",
+    "description": "Russia City, Russia bölgesinde villa. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 11941992,
+    "location": {
+      "country": "RU",
+      "city": "Russia City",
+      "district": "Russia City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 878",
+      "coordinates": {
+        "lat": 60.373903214197,
+        "lng": 99.73302800198348
+      }
+    },
+    "specs": {
+      "netSize": 257,
+      "grossSize": 308,
+      "rooms": "5+2",
+      "bathrooms": 4,
+      "age": 6,
+      "floor": 3,
+      "totalFloors": 7,
+      "heating": "Klima",
+      "furnishing": "Unfurnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500364498321?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500225779435?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500720010601?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500323257367?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500139068236?w=800&q=80&category=house"
+    ],
+    "agent": {
+      "id": "A100",
+      "name": "Agent 41",
+      "phone": "+88 927 567 3349",
+      "email": "agent33@iwrealty.com",
+      "photo": "/images/icons/png/london-prime-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": true,
+      "hasSecurity": true
+    },
+    "createdAt": "2024-12-15T10:50:47.255Z",
+    "updatedAt": "2025-11-13T10:50:47.255Z",
+    "storeId": "store-007"
+  },
+  {
+    "id": "P07274",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Müstakil Ev - Russia City",
+    "slug": "kiralik-müstakil-ev-russia-city-P07274",
+    "description": "Russia City, Russia bölgesinde müstakil ev. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 13750772,
+    "location": {
+      "country": "RU",
+      "city": "Russia City",
+      "district": "Russia City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 147",
+      "coordinates": {
+        "lat": 60.49448996356636,
+        "lng": 100.15867796154112
+      }
+    },
+    "specs": {
+      "netSize": 240,
+      "grossSize": 288,
+      "rooms": "1+1",
+      "bathrooms": 2,
+      "age": 11,
+      "floor": 5,
+      "totalFloors": 11,
+      "heating": "Klima",
+      "furnishing": "Furnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500694184352?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500945819100?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500711225546?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500260837500?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500962760013?w=800&q=80&category=building"
+    ],
+    "agent": {
+      "id": "A66",
+      "name": "Agent 61",
+      "phone": "+52 141 309 3046",
+      "email": "agent26@iwrealty.com",
+      "photo": "/images/icons/png/antalya-investment-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-02-20T10:50:47.255Z",
+    "updatedAt": "2025-11-13T10:50:47.255Z",
+    "storeId": "store-006"
+  },
+  {
+    "id": "P07275",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Daire - New Russia",
+    "slug": "satilik-daire-new-russia-P07275",
+    "description": "New Russia, Russia bölgesinde daire. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 9692375,
+    "location": {
+      "country": "RU",
+      "city": "New Russia",
+      "district": "New Russia Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 846",
+      "coordinates": {
+        "lat": 59.9823752789438,
+        "lng": 99.60714479098813
+      }
+    },
+    "specs": {
+      "netSize": 406,
+      "grossSize": 487,
+      "rooms": "5+1",
+      "bathrooms": 3,
+      "age": 13,
+      "floor": 3,
+      "totalFloors": 19,
+      "heating": "Merkezi",
+      "furnishing": "Unfurnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500928782395?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500617952327?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500404749154?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500558297717?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500918212612?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500392426776?w=800&q=80&category=house"
+    ],
+    "agent": {
+      "id": "A7",
+      "name": "Agent 31",
+      "phone": "+96 481 479 2929",
+      "email": "agent62@iwrealty.com",
+      "photo": "/images/icons/png/luxury-homes-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-05-24T10:50:47.255Z",
+    "updatedAt": "2025-11-13T10:50:47.255Z",
+    "storeId": "store-002"
+  },
+  {
+    "id": "P07276",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Müstakil Ev - Russia Central",
+    "slug": "kiralik-müstakil-ev-russia-central-P07276",
+    "description": "Russia Central, Russia bölgesinde müstakil ev. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 10717655,
+    "location": {
+      "country": "RU",
+      "city": "Russia Central",
+      "district": "Russia Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 509",
+      "coordinates": {
+        "lat": 60.10414519629443,
+        "lng": 99.77605920978968
+      }
+    },
+    "specs": {
+      "netSize": 347,
+      "grossSize": 416,
+      "rooms": "5+2",
+      "bathrooms": 3,
+      "age": 19,
+      "floor": 1,
+      "totalFloors": 7,
+      "heating": "Kombi",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500280243911?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500039183510?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500611902579?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500701863695?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500258788891?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500933647200?w=800&q=80&category=real-estate"
+    ],
+    "agent": {
+      "id": "A72",
+      "name": "Agent 64",
+      "phone": "+15 437 964 5728",
+      "email": "agent97@iwrealty.com",
+      "photo": "/images/icons/png/sg-harbour-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": false,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-08-31T10:50:47.255Z",
+    "updatedAt": "2025-11-13T10:50:47.255Z",
+    "storeId": "store-011"
+  },
+  {
+    "id": "P07277",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Villa - Moscow",
+    "slug": "satilik-villa-moscow-P07277",
+    "description": "Moscow, Russia bölgesinde villa. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 8876237,
+    "location": {
+      "country": "RU",
+      "city": "Moscow",
+      "district": "Moscow Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 672",
+      "coordinates": {
+        "lat": 60.3504103054345,
+        "lng": 99.91842893231416
+      }
+    },
+    "specs": {
+      "netSize": 493,
+      "grossSize": 592,
+      "rooms": "4+0",
+      "bathrooms": 4,
+      "age": 17,
+      "floor": 10,
+      "totalFloors": 10,
+      "heating": "Kombi",
+      "furnishing": "Furnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500345953576?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500861626289?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500094151409?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500483600238?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500559669772?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500446566042?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500984297687?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500783449285?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500806440844?w=800&q=80&category=architecture"
+    ],
+    "agent": {
+      "id": "A85",
+      "name": "Agent 17",
+      "phone": "+34 430 230 2235",
+      "email": "agent85@iwrealty.com",
+      "photo": "/images/icons/png/london-prime-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": false,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-06-11T10:50:47.255Z",
+    "updatedAt": "2025-11-13T10:50:47.255Z",
+    "storeId": "store-007"
+  },
+  {
+    "id": "P07278",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Daire - Russia Central",
+    "slug": "kiralik-daire-russia-central-P07278",
+    "description": "Russia Central, Russia bölgesinde daire. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 1938581,
+    "location": {
+      "country": "RU",
+      "city": "Russia Central",
+      "district": "Russia Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 216",
+      "coordinates": {
+        "lat": 59.50261004792216,
+        "lng": 100.09777142636041
+      }
+    },
+    "specs": {
+      "netSize": 374,
+      "grossSize": 449,
+      "rooms": "3+1",
+      "bathrooms": 2,
+      "age": 12,
+      "floor": 9,
+      "totalFloors": 16,
+      "heating": "Klima",
+      "furnishing": "Unfurnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500215220065?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500929026350?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500058482513?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500386250217?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500946653261?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500926066467?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500969526802?w=800&q=80&category=building"
+    ],
+    "agent": {
+      "id": "A66",
+      "name": "Agent 69",
+      "phone": "+94 519 262 8152",
+      "email": "agent72@iwrealty.com",
+      "photo": "/images/icons/png/paris-heritage-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-03-29T10:50:47.255Z",
+    "updatedAt": "2025-11-13T10:50:47.255Z",
+    "storeId": "store-010"
+  },
+  {
+    "id": "P07279",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Daire - New Russia",
+    "slug": "satilik-daire-new-russia-P07279",
+    "description": "New Russia, Russia bölgesinde daire. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 14745200,
+    "location": {
+      "country": "RU",
+      "city": "New Russia",
+      "district": "New Russia Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 747",
+      "coordinates": {
+        "lat": 60.210151373647875,
+        "lng": 99.96985053890079
+      }
+    },
+    "specs": {
+      "netSize": 160,
+      "grossSize": 192,
+      "rooms": "3+0",
+      "bathrooms": 1,
+      "age": 6,
+      "floor": 12,
+      "totalFloors": 13,
+      "heating": "Klima",
+      "furnishing": "Furnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500079995114?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500879098069?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500279142034?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500945125374?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500642537237?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500447260880?w=800&q=80&category=interior"
+    ],
+    "agent": {
+      "id": "A39",
+      "name": "Agent 58",
+      "phone": "+67 627 110 1180",
+      "email": "agent93@iwrealty.com",
+      "photo": "/images/icons/png/ankara-modern-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-08-16T10:50:47.255Z",
+    "updatedAt": "2025-11-13T10:50:47.255Z",
+    "storeId": "store-003"
+  },
+  {
+    "id": "P07280",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Daire - Russia Central",
+    "slug": "kiralik-daire-russia-central-P07280",
+    "description": "Russia Central, Russia bölgesinde daire. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 961200,
+    "location": {
+      "country": "RU",
+      "city": "Russia Central",
+      "district": "Russia Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 276",
+      "coordinates": {
+        "lat": 60.267600651787305,
+        "lng": 99.78379138904505
+      }
+    },
+    "specs": {
+      "netSize": 177,
+      "grossSize": 212,
+      "rooms": "2+1",
+      "bathrooms": 4,
+      "age": 8,
+      "floor": 12,
+      "totalFloors": 10,
+      "heating": "Merkezi",
+      "furnishing": "Furnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500135425257?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500947318320?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500967828814?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500727140027?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500017744209?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500145607497?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500609294348?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500924772569?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500760052239?w=800&q=80&category=architecture"
+    ],
+    "agent": {
+      "id": "A73",
+      "name": "Agent 7",
+      "phone": "+91 923 601 8619",
+      "email": "agent19@iwrealty.com",
+      "photo": "/images/icons/png/paris-heritage-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": false,
+      "hasBalcony": false,
+      "hasGarden": true,
+      "hasPool": true,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-01-18T10:50:47.255Z",
+    "updatedAt": "2025-11-13T10:50:47.255Z",
+    "storeId": "store-010"
+  },
+  {
+    "id": "P07281",
+    "type": "sale",
+    "category": {
+      "main": "commercial",
+      "sub": "hospital"
+    },
+    "title": "Satılık Hastane - Moscow",
+    "slug": "satilik-hastane-moscow-P07281",
+    "description": "Moscow, Russia bölgesinde hastane. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 72282152,
+    "location": {
+      "country": "RU",
+      "city": "Moscow",
+      "district": "Moscow Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 896",
+      "coordinates": {
+        "lat": 59.83028781966024,
+        "lng": 99.94097516409451
+      }
+    },
+    "specs": {
+      "netSize": 18770,
+      "grossSize": 22524,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 2,
+      "floor": 3,
+      "totalFloors": 10,
+      "heating": "Merkezi",
+      "furnishing": "Furnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500405877198?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500338839420?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500398955965?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500846683782?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500128608535?w=800&q=80&category=real-estate"
+    ],
+    "agent": {
+      "id": "A20",
+      "name": "Agent 89",
+      "phone": "+81 831 377 1468",
+      "email": "agent27@iwrealty.com",
+      "photo": "/images/icons/png/sg-harbour-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": true,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-10-17T10:50:47.255Z",
+    "updatedAt": "2025-11-13T10:50:47.255Z",
+    "storeId": "store-011"
+  },
+  {
+    "id": "P07282",
+    "type": "rent",
+    "category": {
+      "main": "commercial",
+      "sub": "hospital"
+    },
+    "title": "Kiralık Hastane - Russia City",
+    "slug": "kiralik-hastane-russia-city-P07282",
+    "description": "Russia City, Russia bölgesinde hastane. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 47576944,
+    "location": {
+      "country": "RU",
+      "city": "Russia City",
+      "district": "Russia City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 19",
+      "coordinates": {
+        "lat": 59.758253002223235,
+        "lng": 99.83846474396209
+      }
+    },
+    "specs": {
+      "netSize": 3945,
+      "grossSize": 4734,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 0,
+      "floor": 3,
+      "totalFloors": 13,
+      "heating": "Merkezi",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500220555595?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500009345267?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500479670856?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500550270568?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500171907924?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500346439981?w=800&q=80&category=house"
+    ],
+    "agent": {
+      "id": "A80",
+      "name": "Agent 82",
+      "phone": "+93 671 668 8675",
+      "email": "agent47@iwrealty.com",
+      "photo": "/images/icons/png/berlin-urban-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-01-14T10:50:47.255Z",
+    "updatedAt": "2025-11-13T10:50:47.255Z",
+    "storeId": "store-009"
+  },
+  {
+    "id": "P07283",
+    "type": "sale",
+    "category": {
+      "main": "commercial",
+      "sub": "clinic"
+    },
+    "title": "Satılık Klinik - New Russia",
+    "slug": "satilik-klinik-new-russia-P07283",
+    "description": "New Russia, Russia bölgesinde klinik. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 2351033,
+    "location": {
+      "country": "RU",
+      "city": "New Russia",
+      "district": "New Russia Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 483",
+      "coordinates": {
+        "lat": 59.981366247564,
+        "lng": 99.98898157128868
+      }
+    },
+    "specs": {
+      "netSize": 1540,
+      "grossSize": 1848,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 3,
+      "floor": 8,
+      "totalFloors": 6,
+      "heating": "Kombi",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500569040919?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500357396998?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500506162890?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500621782177?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500249972448?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500806026858?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500671107329?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500079673541?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500592596926?w=800&q=80&category=real-estate"
+    ],
+    "agent": {
+      "id": "A83",
+      "name": "Agent 99",
+      "phone": "+36 273 280 9433",
+      "email": "agent74@iwrealty.com",
+      "photo": "/images/icons/png/berlin-urban-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-07-22T10:50:47.255Z",
+    "updatedAt": "2025-11-13T10:50:47.255Z",
+    "storeId": "store-009"
+  },
+  {
+    "id": "P07284",
+    "type": "rent",
+    "category": {
+      "main": "commercial",
+      "sub": "clinic"
+    },
+    "title": "Kiralık Klinik - Moscow",
+    "slug": "kiralik-klinik-moscow-P07284",
+    "description": "Moscow, Russia bölgesinde klinik. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 15063179,
+    "location": {
+      "country": "RU",
+      "city": "Moscow",
+      "district": "Moscow Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 502",
+      "coordinates": {
+        "lat": 59.86307654975795,
+        "lng": 100.10061621368334
+      }
+    },
+    "specs": {
+      "netSize": 626,
+      "grossSize": 751,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 12,
+      "floor": 8,
+      "totalFloors": 19,
+      "heating": "Klima",
+      "furnishing": "Furnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500539752953?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500757394536?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500476702297?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500622113398?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500392727176?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500760480753?w=800&q=80&category=real-estate"
+    ],
+    "agent": {
+      "id": "A58",
+      "name": "Agent 14",
+      "phone": "+59 910 550 7718",
+      "email": "agent44@iwrealty.com",
+      "photo": "/images/icons/png/sydney-coastal-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-08-08T10:50:47.255Z",
+    "updatedAt": "2025-11-13T10:50:47.255Z",
+    "storeId": "store-012"
+  },
+  {
+    "id": "P07285",
+    "type": "sale",
+    "category": {
+      "main": "commercial",
+      "sub": "shop"
+    },
+    "title": "Satılık Dükkan - New Russia",
+    "slug": "satilik-dükkan-new-russia-P07285",
+    "description": "New Russia, Russia bölgesinde dükkan. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 2290746,
+    "location": {
+      "country": "RU",
+      "city": "New Russia",
+      "district": "New Russia Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 933",
+      "coordinates": {
+        "lat": 59.58259962686938,
+        "lng": 99.83843738197665
+      }
+    },
+    "specs": {
+      "netSize": 395,
+      "grossSize": 474,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 18,
+      "floor": 10,
+      "totalFloors": 17,
+      "heating": "Kombi",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500564072766?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500104287213?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500314286560?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500969353961?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500343829051?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500141092991?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500952813413?w=800&q=80&category=building"
+    ],
+    "agent": {
+      "id": "A18",
+      "name": "Agent 36",
+      "phone": "+81 390 311 1432",
+      "email": "agent99@iwrealty.com",
+      "photo": "/images/icons/png/berlin-urban-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": true,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-08-05T10:50:47.255Z",
+    "updatedAt": "2025-11-13T10:50:47.255Z",
+    "storeId": "store-009"
+  },
+  {
+    "id": "P07286",
+    "type": "rent",
+    "category": {
+      "main": "commercial",
+      "sub": "shop"
+    },
+    "title": "Kiralık Dükkan - Moscow",
+    "slug": "kiralik-dükkan-moscow-P07286",
+    "description": "Moscow, Russia bölgesinde dükkan. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 1639801,
+    "location": {
+      "country": "RU",
+      "city": "Moscow",
+      "district": "Moscow Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 220",
+      "coordinates": {
+        "lat": 59.95065201997562,
+        "lng": 100.37963770290331
+      }
+    },
+    "specs": {
+      "netSize": 186,
+      "grossSize": 223,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 5,
+      "floor": 1,
+      "totalFloors": 18,
+      "heating": "Kombi",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500133612324?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500252806564?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500723975229?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500506043185?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500722719961?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500123079879?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500227472792?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500899275967?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500868455354?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500514360941?w=800&q=80&category=house"
+    ],
+    "agent": {
+      "id": "A88",
+      "name": "Agent 5",
+      "phone": "+43 161 788 9042",
+      "email": "agent34@iwrealty.com",
+      "photo": "/images/icons/png/ankara-modern-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": true,
+      "hasSecurity": true
+    },
+    "createdAt": "2024-12-11T10:50:47.255Z",
+    "updatedAt": "2025-11-13T10:50:47.255Z",
+    "storeId": "store-003"
+  },
+  {
+    "id": "P07287",
+    "type": "sale",
+    "category": {
+      "main": "commercial",
+      "sub": "office"
+    },
+    "title": "Satılık Ofis - Moscow",
+    "slug": "satilik-ofis-moscow-P07287",
+    "description": "Moscow, Russia bölgesinde ofis. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 8770703,
+    "location": {
+      "country": "RU",
+      "city": "Moscow",
+      "district": "Moscow Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 427",
+      "coordinates": {
+        "lat": 60.324508757642775,
+        "lng": 100.38756628719383
+      }
+    },
+    "specs": {
+      "netSize": 636,
+      "grossSize": 763,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 6,
+      "floor": 6,
+      "totalFloors": 6,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Unfurnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500362567554?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500496313132?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500974326177?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500627700376?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500305334887?w=800&q=80&category=real-estate"
+    ],
+    "agent": {
+      "id": "A8",
+      "name": "Agent 12",
+      "phone": "+32 212 942 1411",
+      "email": "agent64@iwrealty.com",
+      "photo": "/images/icons/png/luxury-homes-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-08-12T10:50:47.255Z",
+    "updatedAt": "2025-11-13T10:50:47.255Z",
+    "storeId": "store-002"
+  },
+  {
+    "id": "P07288",
+    "type": "rent",
+    "category": {
+      "main": "commercial",
+      "sub": "office"
+    },
+    "title": "Kiralık Ofis - Russia City",
+    "slug": "kiralik-ofis-russia-city-P07288",
+    "description": "Russia City, Russia bölgesinde ofis. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 8788165,
+    "location": {
+      "country": "RU",
+      "city": "Russia City",
+      "district": "Russia City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 682",
+      "coordinates": {
+        "lat": 59.60053504396204,
+        "lng": 100.335518515272
+      }
+    },
+    "specs": {
+      "netSize": 555,
+      "grossSize": 666,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 12,
+      "floor": 12,
+      "totalFloors": 11,
+      "heating": "Klima",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500360327298?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500223192653?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500660422941?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500225345025?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500246077977?w=800&q=80&category=interior"
+    ],
+    "agent": {
+      "id": "A37",
+      "name": "Agent 5",
+      "phone": "+22 765 526 3856",
+      "email": "agent56@iwrealty.com",
+      "photo": "/images/icons/png/sg-harbour-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": false,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2024-11-29T10:50:47.255Z",
+    "updatedAt": "2025-11-13T10:50:47.255Z",
+    "storeId": "store-011"
+  },
+  {
+    "id": "P07289",
+    "type": "sale",
+    "category": {
+      "main": "commercial",
+      "sub": "mall"
+    },
+    "title": "Satılık AVM - New Russia",
+    "slug": "satilik-avm-new-russia-P07289",
+    "description": "New Russia, Russia bölgesinde avm. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 232428461,
+    "location": {
+      "country": "RU",
+      "city": "New Russia",
+      "district": "New Russia Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 683",
+      "coordinates": {
+        "lat": 59.799059445559415,
+        "lng": 100.41299962784292
+      }
+    },
+    "specs": {
+      "netSize": 21585,
+      "grossSize": 25902,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 8,
+      "floor": 3,
+      "totalFloors": 7,
+      "heating": "Klima",
+      "furnishing": "Furnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500258038611?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500869137010?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500904580341?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500222986885?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500043590289?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500052031578?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500877969996?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500324663659?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500349528422?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500651402118?w=800&q=80&category=interior"
+    ],
+    "agent": {
+      "id": "A5",
+      "name": "Agent 26",
+      "phone": "+19 423 753 5053",
+      "email": "agent74@iwrealty.com",
+      "photo": "/images/icons/png/london-prime-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": true,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-09-12T10:50:47.255Z",
+    "updatedAt": "2025-11-13T10:50:47.255Z",
+    "storeId": "store-007"
+  },
+  {
+    "id": "P07290",
+    "type": "rent",
+    "category": {
+      "main": "commercial",
+      "sub": "mall"
+    },
+    "title": "Kiralık AVM - New Russia",
+    "slug": "kiralik-avm-new-russia-P07290",
+    "description": "New Russia, Russia bölgesinde avm. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 93007165,
+    "location": {
+      "country": "RU",
+      "city": "New Russia",
+      "district": "New Russia Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 689",
+      "coordinates": {
+        "lat": 59.61259981738987,
+        "lng": 100.15242219247504
+      }
+    },
+    "specs": {
+      "netSize": 38438,
+      "grossSize": 46126,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 11,
+      "floor": 3,
+      "totalFloors": 12,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Unfurnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500850304850?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500649335219?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500728263953?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500969197120?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500408558148?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500648989779?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500064437700?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500483714126?w=800&q=80&category=real-estate"
+    ],
+    "agent": {
+      "id": "A36",
+      "name": "Agent 40",
+      "phone": "+34 864 621 7767",
+      "email": "agent46@iwrealty.com",
+      "photo": "/images/icons/png/london-prime-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": true,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-08-09T10:50:47.255Z",
+    "updatedAt": "2025-11-13T10:50:47.255Z",
+    "storeId": "store-007"
+  },
+  {
+    "id": "P07291",
+    "type": "sale",
+    "category": {
+      "main": "commercial",
+      "sub": "hotel"
+    },
+    "title": "Satılık Otel - Russia City",
+    "slug": "satilik-otel-russia-city-P07291",
+    "description": "Russia City, Russia bölgesinde otel. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 29045700,
+    "location": {
+      "country": "RU",
+      "city": "Russia City",
+      "district": "Russia City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 615",
+      "coordinates": {
+        "lat": 59.55279594774214,
+        "lng": 100.2589910925417
+      }
+    },
+    "specs": {
+      "netSize": 4687,
+      "grossSize": 5624,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 17,
+      "floor": 3,
+      "totalFloors": 14,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Unfurnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500887750655?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500320476184?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500135489296?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500143002370?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500035201147?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500955535357?w=800&q=80&category=interior"
+    ],
+    "agent": {
+      "id": "A38",
+      "name": "Agent 43",
+      "phone": "+69 975 818 7606",
+      "email": "agent25@iwrealty.com",
+      "photo": "/images/icons/png/dubai-property-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": false,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2024-11-21T10:50:47.255Z",
+    "updatedAt": "2025-11-13T10:50:47.255Z",
+    "storeId": "store-004"
+  },
+  {
+    "id": "P07292",
+    "type": "rent",
+    "category": {
+      "main": "commercial",
+      "sub": "hotel"
+    },
+    "title": "Kiralık Otel - Russia Central",
+    "slug": "kiralik-otel-russia-central-P07292",
+    "description": "Russia Central, Russia bölgesinde otel. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 171479275,
+    "location": {
+      "country": "RU",
+      "city": "Russia Central",
+      "district": "Russia Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 798",
+      "coordinates": {
+        "lat": 60.02503004653066,
+        "lng": 99.60220276698996
+      }
+    },
+    "specs": {
+      "netSize": 14670,
+      "grossSize": 17604,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 8,
+      "floor": 11,
+      "totalFloors": 9,
+      "heating": "Kombi",
+      "furnishing": "Unfurnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500450600150?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500517865238?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500036104190?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500093574398?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500649401504?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500909757332?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500281876594?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500059779292?w=800&q=80&category=building"
+    ],
+    "agent": {
+      "id": "A27",
+      "name": "Agent 42",
+      "phone": "+30 392 923 5473",
+      "email": "agent98@iwrealty.com",
+      "photo": "/images/icons/png/ankara-modern-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-09-03T10:50:47.255Z",
+    "updatedAt": "2025-11-13T10:50:47.255Z",
+    "storeId": "store-003"
+  },
+  {
+    "id": "P07293",
+    "type": "sale",
+    "category": {
+      "main": "commercial",
+      "sub": "restaurant"
+    },
+    "title": "Satılık Restoran - Russia Central",
+    "slug": "satilik-restoran-russia-central-P07293",
+    "description": "Russia Central, Russia bölgesinde restoran. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 5328553,
+    "location": {
+      "country": "RU",
+      "city": "Russia Central",
+      "district": "Russia Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 472",
+      "coordinates": {
+        "lat": 59.84384615042418,
+        "lng": 99.87797648211243
+      }
+    },
+    "specs": {
+      "netSize": 1091,
+      "grossSize": 1309,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 3,
+      "floor": 14,
+      "totalFloors": 15,
+      "heating": "Kombi",
+      "furnishing": "Furnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500535200220?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500190738839?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500538511936?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500994121283?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500032203534?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500401637516?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500507928947?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500876696059?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500953105488?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500574417678?w=800&q=80&category=real-estate"
+    ],
+    "agent": {
+      "id": "A58",
+      "name": "Agent 8",
+      "phone": "+15 936 636 5884",
+      "email": "agent22@iwrealty.com",
+      "photo": "/images/icons/png/london-prime-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-05-01T10:50:47.255Z",
+    "updatedAt": "2025-11-13T10:50:47.255Z",
+    "storeId": "store-007"
+  },
+  {
+    "id": "P07294",
+    "type": "rent",
+    "category": {
+      "main": "commercial",
+      "sub": "restaurant"
+    },
+    "title": "Kiralık Restoran - New Russia",
+    "slug": "kiralik-restoran-new-russia-P07294",
+    "description": "New Russia, Russia bölgesinde restoran. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 7015228,
+    "location": {
+      "country": "RU",
+      "city": "New Russia",
+      "district": "New Russia Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 38",
+      "coordinates": {
+        "lat": 59.5410452471162,
+        "lng": 99.64614629160963
+      }
+    },
+    "specs": {
+      "netSize": 1314,
+      "grossSize": 1577,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 14,
+      "floor": 10,
+      "totalFloors": 10,
+      "heating": "Kombi",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500715188469?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500936921036?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500416619875?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500614193941?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500811155920?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500591691141?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500337435214?w=800&q=80&category=architecture"
+    ],
+    "agent": {
+      "id": "A67",
+      "name": "Agent 30",
+      "phone": "+38 257 979 4581",
+      "email": "agent38@iwrealty.com",
+      "photo": "/images/icons/png/dubai-property-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-09-21T10:50:47.255Z",
+    "updatedAt": "2025-11-13T10:50:47.255Z",
+    "storeId": "store-004"
+  },
+  {
+    "id": "P07295",
+    "type": "sale",
+    "category": {
+      "main": "commercial",
+      "sub": "warehouse"
+    },
+    "title": "Satılık Depo - Moscow",
+    "slug": "satilik-depo-moscow-P07295",
+    "description": "Moscow, Russia bölgesinde depo. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 14357892,
+    "location": {
+      "country": "RU",
+      "city": "Moscow",
+      "district": "Moscow Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 758",
+      "coordinates": {
+        "lat": 59.59260895615064,
+        "lng": 99.94695724693624
+      }
+    },
+    "specs": {
+      "netSize": 3133,
+      "grossSize": 3760,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 3,
+      "floor": 14,
+      "totalFloors": 10,
+      "heating": "Klima",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500399026844?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500856089205?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500800618028?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500103783278?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500919942709?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500985148422?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500537066614?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500509730013?w=800&q=80&category=architecture"
+    ],
+    "agent": {
+      "id": "A82",
+      "name": "Agent 99",
+      "phone": "+52 187 184 3430",
+      "email": "agent52@iwrealty.com",
+      "photo": "/images/icons/png/sg-harbour-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": true,
+      "hasPool": true,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-06-16T10:50:47.255Z",
+    "updatedAt": "2025-11-13T10:50:47.255Z",
+    "storeId": "store-011"
+  },
+  {
+    "id": "P07296",
+    "type": "rent",
+    "category": {
+      "main": "commercial",
+      "sub": "warehouse"
+    },
+    "title": "Kiralık Depo - Russia Central",
+    "slug": "kiralik-depo-russia-central-P07296",
+    "description": "Russia Central, Russia bölgesinde depo. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 9756534,
+    "location": {
+      "country": "RU",
+      "city": "Russia Central",
+      "district": "Russia Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 837",
+      "coordinates": {
+        "lat": 59.75630640611763,
+        "lng": 100.36838679307161
+      }
+    },
+    "specs": {
+      "netSize": 9762,
+      "grossSize": 11714,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 2,
+      "floor": 7,
+      "totalFloors": 17,
+      "heating": "Klima",
+      "furnishing": "Furnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500100860190?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500825443270?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500342863776?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500622161266?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500781223316?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500998193926?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500657871815?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500724727734?w=800&q=80&category=building"
+    ],
+    "agent": {
+      "id": "A94",
+      "name": "Agent 23",
+      "phone": "+24 774 229 5088",
+      "email": "agent83@iwrealty.com",
+      "photo": "/images/icons/png/luxury-homes-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-10-07T10:50:47.255Z",
+    "updatedAt": "2025-11-13T10:50:47.255Z",
+    "storeId": "store-002"
+  }
+]

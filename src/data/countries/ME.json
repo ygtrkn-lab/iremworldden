@@ -1,0 +1,2357 @@
+[
+  {
+    "id": "P05701",
+    "type": "sale",
+    "category": {
+      "main": "government"
+    },
+    "title": "Satılık Devlet Binası - Montenegro City",
+    "slug": "satilik-devlet-binası-montenegro-city-P05701",
+    "description": "Montenegro City, Montenegro bölgesinde devlet binası. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 48885573,
+    "location": {
+      "country": "ME",
+      "city": "Montenegro City",
+      "district": "Montenegro City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 832",
+      "coordinates": {
+        "lat": 42.01519790517201,
+        "lng": 19.142869748699678
+      }
+    },
+    "specs": {
+      "netSize": 3851,
+      "grossSize": 4621,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 13,
+      "floor": 4,
+      "totalFloors": 12,
+      "heating": "Klima",
+      "furnishing": "Furnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500638457161?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500461884693?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500683710255?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500040996559?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500743636081?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500037372467?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500890418793?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500763551921?w=800&q=80&category=real-estate"
+    ],
+    "agent": {
+      "id": "A36",
+      "name": "Agent 77",
+      "phone": "+39 826 853 3274",
+      "email": "agent10@iwrealty.com",
+      "photo": "/images/icons/png/sg-harbour-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2024-12-25T10:50:47.239Z",
+    "updatedAt": "2025-11-13T10:50:47.239Z",
+    "storeId": "store-011"
+  },
+  {
+    "id": "P05702",
+    "type": "rent",
+    "category": {
+      "main": "government"
+    },
+    "title": "Kiralık Hastane - Montenegro City",
+    "slug": "kiralik-hastane-montenegro-city-P05702",
+    "description": "Montenegro City, Montenegro bölgesinde hastane. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 49291351,
+    "location": {
+      "country": "ME",
+      "city": "Montenegro City",
+      "district": "Montenegro City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 405",
+      "coordinates": {
+        "lat": 42.53918658431854,
+        "lng": 19.2663860097523
+      }
+    },
+    "specs": {
+      "netSize": 3118,
+      "grossSize": 3742,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 1,
+      "floor": 1,
+      "totalFloors": 10,
+      "heating": "Merkezi",
+      "furnishing": "Furnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500990505905?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500224616643?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500975161820?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500020040665?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500705829424?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500802487814?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500372631214?w=800&q=80&category=interior"
+    ],
+    "agent": {
+      "id": "A94",
+      "name": "Agent 46",
+      "phone": "+76 501 475 4968",
+      "email": "agent62@iwrealty.com",
+      "photo": "/images/icons/png/sg-harbour-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-09-18T10:50:47.239Z",
+    "updatedAt": "2025-11-13T10:50:47.239Z",
+    "storeId": "store-011"
+  },
+  {
+    "id": "P05703",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Daire - New Montenegro",
+    "slug": "satilik-daire-new-montenegro-P05703",
+    "description": "New Montenegro, Montenegro bölgesinde daire. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 5369393,
+    "location": {
+      "country": "ME",
+      "city": "New Montenegro",
+      "district": "New Montenegro Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 531",
+      "coordinates": {
+        "lat": 42.51961362971041,
+        "lng": 19.697714106940943
+      }
+    },
+    "specs": {
+      "netSize": 444,
+      "grossSize": 533,
+      "rooms": "4+0",
+      "bathrooms": 4,
+      "age": 19,
+      "floor": 12,
+      "totalFloors": 10,
+      "heating": "Kombi",
+      "furnishing": "Unfurnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500919475665?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500876498221?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500427029861?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500708386628?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500021073518?w=800&q=80&category=interior"
+    ],
+    "agent": {
+      "id": "A64",
+      "name": "Agent 32",
+      "phone": "+20 121 662 9251",
+      "email": "agent21@iwrealty.com",
+      "photo": "/images/icons/png/dubai-property-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": true,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-07-19T10:50:47.239Z",
+    "updatedAt": "2025-11-13T10:50:47.239Z",
+    "storeId": "store-004"
+  },
+  {
+    "id": "P05704",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Müstakil Ev - Montenegro Central",
+    "slug": "kiralik-müstakil-ev-montenegro-central-P05704",
+    "description": "Montenegro Central, Montenegro bölgesinde müstakil ev. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 5507790,
+    "location": {
+      "country": "ME",
+      "city": "Montenegro Central",
+      "district": "Montenegro Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 631",
+      "coordinates": {
+        "lat": 42.37403598275067,
+        "lng": 19.09564001387685
+      }
+    },
+    "specs": {
+      "netSize": 177,
+      "grossSize": 212,
+      "rooms": "4+2",
+      "bathrooms": 3,
+      "age": 11,
+      "floor": 8,
+      "totalFloors": 17,
+      "heating": "Kombi",
+      "furnishing": "Unfurnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500004580478?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500890446645?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500797088477?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500913787380?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500493641434?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500770181031?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500498857698?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500513179846?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500009240841?w=800&q=80&category=real-estate"
+    ],
+    "agent": {
+      "id": "A30",
+      "name": "Agent 80",
+      "phone": "+47 993 670 7292",
+      "email": "agent11@iwrealty.com",
+      "photo": "/images/icons/png/izmir-sahil-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": false,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": true,
+      "hasSecurity": false
+    },
+    "createdAt": "2024-11-29T10:50:47.239Z",
+    "updatedAt": "2025-11-13T10:50:47.239Z",
+    "storeId": "store-005"
+  },
+  {
+    "id": "P05705",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Müstakil Ev - Podgorica",
+    "slug": "satilik-müstakil-ev-podgorica-P05705",
+    "description": "Podgorica, Montenegro bölgesinde müstakil ev. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 2275690,
+    "location": {
+      "country": "ME",
+      "city": "Podgorica",
+      "district": "Podgorica Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 139",
+      "coordinates": {
+        "lat": 42.894355104773325,
+        "lng": 19.778732767904916
+      }
+    },
+    "specs": {
+      "netSize": 331,
+      "grossSize": 397,
+      "rooms": "2+1",
+      "bathrooms": 4,
+      "age": 12,
+      "floor": 8,
+      "totalFloors": 16,
+      "heating": "Kombi",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500706849177?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500081144093?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500149242804?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500046597792?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500793814511?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500261394797?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500357134037?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500597576408?w=800&q=80&category=interior"
+    ],
+    "agent": {
+      "id": "A97",
+      "name": "Agent 56",
+      "phone": "+51 347 109 1135",
+      "email": "agent27@iwrealty.com",
+      "photo": "/images/icons/png/antalya-investment-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": true,
+      "hasPool": true,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-08-05T10:50:47.239Z",
+    "updatedAt": "2025-11-13T10:50:47.239Z",
+    "storeId": "store-006"
+  },
+  {
+    "id": "P05706",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Müstakil Ev - Podgorica",
+    "slug": "kiralik-müstakil-ev-podgorica-P05706",
+    "description": "Podgorica, Montenegro bölgesinde müstakil ev. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 5623779,
+    "location": {
+      "country": "ME",
+      "city": "Podgorica",
+      "district": "Podgorica Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 755",
+      "coordinates": {
+        "lat": 42.575744934334764,
+        "lng": 19.233491843307597
+      }
+    },
+    "specs": {
+      "netSize": 196,
+      "grossSize": 235,
+      "rooms": "4+0",
+      "bathrooms": 1,
+      "age": 7,
+      "floor": 12,
+      "totalFloors": 19,
+      "heating": "Merkezi",
+      "furnishing": "Unfurnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500319786182?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500844089009?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500044283715?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500974569783?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500591556511?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500623308044?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500131792132?w=800&q=80&category=house"
+    ],
+    "agent": {
+      "id": "A11",
+      "name": "Agent 72",
+      "phone": "+78 203 881 7503",
+      "email": "agent7@iwrealty.com",
+      "photo": "/images/icons/png/luxury-homes-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": true,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-04-05T10:50:47.239Z",
+    "updatedAt": "2025-11-13T10:50:47.239Z",
+    "storeId": "store-002"
+  },
+  {
+    "id": "P05707",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Müstakil Ev - Montenegro City",
+    "slug": "satilik-müstakil-ev-montenegro-city-P05707",
+    "description": "Montenegro City, Montenegro bölgesinde müstakil ev. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 9915604,
+    "location": {
+      "country": "ME",
+      "city": "Montenegro City",
+      "district": "Montenegro City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 615",
+      "coordinates": {
+        "lat": 42.588182535343165,
+        "lng": 19.77785435843814
+      }
+    },
+    "specs": {
+      "netSize": 303,
+      "grossSize": 364,
+      "rooms": "4+1",
+      "bathrooms": 3,
+      "age": 0,
+      "floor": 4,
+      "totalFloors": 8,
+      "heating": "Merkezi",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500982155671?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500307958176?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500520460313?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500129172394?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500883207977?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500773977197?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500979566425?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500013500433?w=800&q=80&category=building"
+    ],
+    "agent": {
+      "id": "A83",
+      "name": "Agent 81",
+      "phone": "+57 620 164 1187",
+      "email": "agent64@iwrealty.com",
+      "photo": "/images/icons/png/izmir-sahil-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2024-12-10T10:50:47.239Z",
+    "updatedAt": "2025-11-13T10:50:47.239Z",
+    "storeId": "store-005"
+  },
+  {
+    "id": "P05708",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Daire - Montenegro Central",
+    "slug": "kiralik-daire-montenegro-central-P05708",
+    "description": "Montenegro Central, Montenegro bölgesinde daire. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 6614559,
+    "location": {
+      "country": "ME",
+      "city": "Montenegro Central",
+      "district": "Montenegro Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 675",
+      "coordinates": {
+        "lat": 42.75147099179239,
+        "lng": 19.32134674615942
+      }
+    },
+    "specs": {
+      "netSize": 174,
+      "grossSize": 209,
+      "rooms": "4+2",
+      "bathrooms": 3,
+      "age": 0,
+      "floor": 7,
+      "totalFloors": 16,
+      "heating": "Merkezi",
+      "furnishing": "Unfurnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500081126279?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500646965975?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500552650425?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500533178025?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500050665885?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500922201790?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500744530891?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500061554808?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500769479085?w=800&q=80&category=house"
+    ],
+    "agent": {
+      "id": "A21",
+      "name": "Agent 88",
+      "phone": "+79 378 487 2322",
+      "email": "agent58@iwrealty.com",
+      "photo": "/images/icons/png/london-prime-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-05-10T10:50:47.239Z",
+    "updatedAt": "2025-11-13T10:50:47.239Z",
+    "storeId": "store-007"
+  },
+  {
+    "id": "P05709",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Müstakil Ev - Podgorica",
+    "slug": "satilik-müstakil-ev-podgorica-P05709",
+    "description": "Podgorica, Montenegro bölgesinde müstakil ev. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 3158897,
+    "location": {
+      "country": "ME",
+      "city": "Podgorica",
+      "district": "Podgorica Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 560",
+      "coordinates": {
+        "lat": 42.28455648760991,
+        "lng": 19.49604877048198
+      }
+    },
+    "specs": {
+      "netSize": 373,
+      "grossSize": 448,
+      "rooms": "2+2",
+      "bathrooms": 4,
+      "age": 9,
+      "floor": 13,
+      "totalFloors": 15,
+      "heating": "Kombi",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500698414241?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500382351172?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500235685858?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500047623535?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500773247511?w=800&q=80&category=interior"
+    ],
+    "agent": {
+      "id": "A31",
+      "name": "Agent 76",
+      "phone": "+60 545 435 6078",
+      "email": "agent67@iwrealty.com",
+      "photo": "/images/icons/png/paris-heritage-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2024-12-03T10:50:47.239Z",
+    "updatedAt": "2025-11-13T10:50:47.239Z",
+    "storeId": "store-010"
+  },
+  {
+    "id": "P05710",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Müstakil Ev - Montenegro Central",
+    "slug": "kiralik-müstakil-ev-montenegro-central-P05710",
+    "description": "Montenegro Central, Montenegro bölgesinde müstakil ev. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 12469859,
+    "location": {
+      "country": "ME",
+      "city": "Montenegro Central",
+      "district": "Montenegro Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 206",
+      "coordinates": {
+        "lat": 42.13782709992324,
+        "lng": 19.56084906736864
+      }
+    },
+    "specs": {
+      "netSize": 269,
+      "grossSize": 323,
+      "rooms": "5+1",
+      "bathrooms": 2,
+      "age": 18,
+      "floor": 3,
+      "totalFloors": 10,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500598690498?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500313524687?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500480300376?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500598577789?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500098893900?w=800&q=80&category=building"
+    ],
+    "agent": {
+      "id": "A5",
+      "name": "Agent 76",
+      "phone": "+48 186 719 9437",
+      "email": "agent34@iwrealty.com",
+      "photo": "/images/icons/png/izmir-sahil-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-10-17T10:50:47.239Z",
+    "updatedAt": "2025-11-13T10:50:47.239Z",
+    "storeId": "store-005"
+  },
+  {
+    "id": "P05711",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Villa - New Montenegro",
+    "slug": "satilik-villa-new-montenegro-P05711",
+    "description": "New Montenegro, Montenegro bölgesinde villa. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 7733801,
+    "location": {
+      "country": "ME",
+      "city": "New Montenegro",
+      "district": "New Montenegro Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 444",
+      "coordinates": {
+        "lat": 42.88924873274203,
+        "lng": 19.530027413819493
+      }
+    },
+    "specs": {
+      "netSize": 324,
+      "grossSize": 389,
+      "rooms": "5+0",
+      "bathrooms": 1,
+      "age": 16,
+      "floor": 7,
+      "totalFloors": 5,
+      "heating": "Kombi",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500222228131?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500198303215?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500335952407?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500072214408?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500706650821?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500166867521?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500826901052?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500038464603?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500871916256?w=800&q=80&category=building"
+    ],
+    "agent": {
+      "id": "A72",
+      "name": "Agent 100",
+      "phone": "+75 348 939 5137",
+      "email": "agent82@iwrealty.com",
+      "photo": "/images/icons/png/antalya-investment-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": true,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-11-03T10:50:47.239Z",
+    "updatedAt": "2025-11-13T10:50:47.239Z",
+    "storeId": "store-006"
+  },
+  {
+    "id": "P05712",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Residence - Podgorica",
+    "slug": "kiralik-residence-podgorica-P05712",
+    "description": "Podgorica, Montenegro bölgesinde residence. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 6034809,
+    "location": {
+      "country": "ME",
+      "city": "Podgorica",
+      "district": "Podgorica Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 97",
+      "coordinates": {
+        "lat": 42.63056797217385,
+        "lng": 19.62162311431677
+      }
+    },
+    "specs": {
+      "netSize": 201,
+      "grossSize": 241,
+      "rooms": "5+0",
+      "bathrooms": 3,
+      "age": 10,
+      "floor": 6,
+      "totalFloors": 16,
+      "heating": "Merkezi",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500505494981?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500774144546?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500526941463?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500981430199?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500764516891?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500405994795?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500607575066?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500661117302?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500554709383?w=800&q=80&category=interior"
+    ],
+    "agent": {
+      "id": "A35",
+      "name": "Agent 96",
+      "phone": "+26 788 855 6973",
+      "email": "agent32@iwrealty.com",
+      "photo": "/images/icons/png/luxury-homes-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": true,
+      "hasPool": true,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-03-26T10:50:47.239Z",
+    "updatedAt": "2025-11-13T10:50:47.239Z",
+    "storeId": "store-002"
+  },
+  {
+    "id": "P05713",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Daire - New Montenegro",
+    "slug": "satilik-daire-new-montenegro-P05713",
+    "description": "New Montenegro, Montenegro bölgesinde daire. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 10727813,
+    "location": {
+      "country": "ME",
+      "city": "New Montenegro",
+      "district": "New Montenegro Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 113",
+      "coordinates": {
+        "lat": 42.62505819057329,
+        "lng": 18.89642788098388
+      }
+    },
+    "specs": {
+      "netSize": 210,
+      "grossSize": 252,
+      "rooms": "2+0",
+      "bathrooms": 1,
+      "age": 11,
+      "floor": 4,
+      "totalFloors": 16,
+      "heating": "Klima",
+      "furnishing": "Unfurnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500194720937?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500271261939?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500222436207?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500904380055?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500764600799?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500395179957?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500474815770?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500833680195?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500823214771?w=800&q=80&category=house"
+    ],
+    "agent": {
+      "id": "A82",
+      "name": "Agent 38",
+      "phone": "+52 147 305 2890",
+      "email": "agent100@iwrealty.com",
+      "photo": "/images/icons/png/luxury-homes-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": false,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2024-12-26T10:50:47.239Z",
+    "updatedAt": "2025-11-13T10:50:47.239Z",
+    "storeId": "store-002"
+  },
+  {
+    "id": "P05714",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Villa - Montenegro City",
+    "slug": "kiralik-villa-montenegro-city-P05714",
+    "description": "Montenegro City, Montenegro bölgesinde villa. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 5206297,
+    "location": {
+      "country": "ME",
+      "city": "Montenegro City",
+      "district": "Montenegro City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 482",
+      "coordinates": {
+        "lat": 42.36017700156357,
+        "lng": 18.86105791848679
+      }
+    },
+    "specs": {
+      "netSize": 346,
+      "grossSize": 415,
+      "rooms": "1+1",
+      "bathrooms": 1,
+      "age": 17,
+      "floor": 5,
+      "totalFloors": 18,
+      "heating": "Merkezi",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500422749457?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500081286207?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500536826625?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500480409402?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500756218198?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500159905564?w=800&q=80&category=architecture"
+    ],
+    "agent": {
+      "id": "A41",
+      "name": "Agent 94",
+      "phone": "+86 419 582 8053",
+      "email": "agent8@iwrealty.com",
+      "photo": "/images/icons/png/antalya-investment-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": false,
+      "hasBalcony": false,
+      "hasGarden": true,
+      "hasPool": true,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-02-03T10:50:47.239Z",
+    "updatedAt": "2025-11-13T10:50:47.239Z",
+    "storeId": "store-006"
+  },
+  {
+    "id": "P05715",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Residence - Montenegro Central",
+    "slug": "satilik-residence-montenegro-central-P05715",
+    "description": "Montenegro Central, Montenegro bölgesinde residence. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 8536953,
+    "location": {
+      "country": "ME",
+      "city": "Montenegro Central",
+      "district": "Montenegro Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 331",
+      "coordinates": {
+        "lat": 42.73861611476806,
+        "lng": 19.132967976233136
+      }
+    },
+    "specs": {
+      "netSize": 179,
+      "grossSize": 215,
+      "rooms": "4+2",
+      "bathrooms": 2,
+      "age": 5,
+      "floor": 2,
+      "totalFloors": 10,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Unfurnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500339293526?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500268640101?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500216677732?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500340973055?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500341534684?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500469038821?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500059993057?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500104310638?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500460452498?w=800&q=80&category=real-estate"
+    ],
+    "agent": {
+      "id": "A27",
+      "name": "Agent 49",
+      "phone": "+64 586 132 7934",
+      "email": "agent62@iwrealty.com",
+      "photo": "/images/icons/png/ny-skyline-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": false,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-11-11T10:50:47.239Z",
+    "updatedAt": "2025-11-13T10:50:47.239Z",
+    "storeId": "store-008"
+  },
+  {
+    "id": "P05716",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Daire - Podgorica",
+    "slug": "kiralik-daire-podgorica-P05716",
+    "description": "Podgorica, Montenegro bölgesinde daire. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 5578708,
+    "location": {
+      "country": "ME",
+      "city": "Podgorica",
+      "district": "Podgorica Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 406",
+      "coordinates": {
+        "lat": 42.00882502432307,
+        "lng": 19.442983953638986
+      }
+    },
+    "specs": {
+      "netSize": 475,
+      "grossSize": 570,
+      "rooms": "5+1",
+      "bathrooms": 4,
+      "age": 11,
+      "floor": 2,
+      "totalFloors": 6,
+      "heating": "Kombi",
+      "furnishing": "Unfurnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500765514182?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500126626485?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500994791635?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500101755567?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500662488327?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500104759153?w=800&q=80&category=house"
+    ],
+    "agent": {
+      "id": "A73",
+      "name": "Agent 50",
+      "phone": "+42 263 922 8081",
+      "email": "agent80@iwrealty.com",
+      "photo": "/images/icons/png/luxury-homes-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": true,
+      "hasSecurity": false
+    },
+    "createdAt": "2024-12-15T10:50:47.239Z",
+    "updatedAt": "2025-11-13T10:50:47.239Z",
+    "storeId": "store-002"
+  },
+  {
+    "id": "P05717",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Daire - Montenegro City",
+    "slug": "satilik-daire-montenegro-city-P05717",
+    "description": "Montenegro City, Montenegro bölgesinde daire. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 989497,
+    "location": {
+      "country": "ME",
+      "city": "Montenegro City",
+      "district": "Montenegro City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 247",
+      "coordinates": {
+        "lat": 42.784513958670544,
+        "lng": 18.896915126639954
+      }
+    },
+    "specs": {
+      "netSize": 424,
+      "grossSize": 509,
+      "rooms": "2+0",
+      "bathrooms": 2,
+      "age": 9,
+      "floor": 8,
+      "totalFloors": 20,
+      "heating": "Merkezi",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500806855552?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500805192332?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500597469173?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500253454645?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500945703221?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500897752347?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500925226814?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500749486532?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500493588480?w=800&q=80&category=interior"
+    ],
+    "agent": {
+      "id": "A92",
+      "name": "Agent 3",
+      "phone": "+33 656 848 2129",
+      "email": "agent26@iwrealty.com",
+      "photo": "/images/icons/png/sg-harbour-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": false,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-02-20T10:50:47.239Z",
+    "updatedAt": "2025-11-13T10:50:47.239Z",
+    "storeId": "store-011"
+  },
+  {
+    "id": "P05718",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Residence - Podgorica",
+    "slug": "kiralik-residence-podgorica-P05718",
+    "description": "Podgorica, Montenegro bölgesinde residence. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 11945875,
+    "location": {
+      "country": "ME",
+      "city": "Podgorica",
+      "district": "Podgorica Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 872",
+      "coordinates": {
+        "lat": 42.63546878196751,
+        "lng": 19.541557235749963
+      }
+    },
+    "specs": {
+      "netSize": 465,
+      "grossSize": 558,
+      "rooms": "2+0",
+      "bathrooms": 4,
+      "age": 9,
+      "floor": 9,
+      "totalFloors": 8,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500072228389?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500405090071?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500266199106?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500939730053?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500974941309?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500261551855?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500452283940?w=800&q=80&category=house"
+    ],
+    "agent": {
+      "id": "A6",
+      "name": "Agent 25",
+      "phone": "+38 122 148 1589",
+      "email": "agent74@iwrealty.com",
+      "photo": "/images/icons/png/london-prime-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2024-12-22T10:50:47.239Z",
+    "updatedAt": "2025-11-13T10:50:47.239Z",
+    "storeId": "store-007"
+  },
+  {
+    "id": "P05719",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Daire - Montenegro Central",
+    "slug": "satilik-daire-montenegro-central-P05719",
+    "description": "Montenegro Central, Montenegro bölgesinde daire. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 10358726,
+    "location": {
+      "country": "ME",
+      "city": "Montenegro Central",
+      "district": "Montenegro Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 701",
+      "coordinates": {
+        "lat": 42.6564802882765,
+        "lng": 18.838715055054802
+      }
+    },
+    "specs": {
+      "netSize": 412,
+      "grossSize": 494,
+      "rooms": "1+2",
+      "bathrooms": 2,
+      "age": 5,
+      "floor": 11,
+      "totalFloors": 14,
+      "heating": "Klima",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500003579242?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500987221283?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500400623561?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500722209864?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500114324145?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500314993777?w=800&q=80&category=building"
+    ],
+    "agent": {
+      "id": "A55",
+      "name": "Agent 73",
+      "phone": "+44 882 701 7425",
+      "email": "agent56@iwrealty.com",
+      "photo": "/images/icons/png/dubai-property-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2024-11-26T10:50:47.239Z",
+    "updatedAt": "2025-11-13T10:50:47.239Z",
+    "storeId": "store-004"
+  },
+  {
+    "id": "P05720",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Müstakil Ev - New Montenegro",
+    "slug": "kiralik-müstakil-ev-new-montenegro-P05720",
+    "description": "New Montenegro, Montenegro bölgesinde müstakil ev. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 2166468,
+    "location": {
+      "country": "ME",
+      "city": "New Montenegro",
+      "district": "New Montenegro Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 48",
+      "coordinates": {
+        "lat": 42.20465400568192,
+        "lng": 18.98937673945089
+      }
+    },
+    "specs": {
+      "netSize": 184,
+      "grossSize": 221,
+      "rooms": "5+2",
+      "bathrooms": 1,
+      "age": 11,
+      "floor": 1,
+      "totalFloors": 13,
+      "heating": "Kombi",
+      "furnishing": "Unfurnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500871463290?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500976026479?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500899905624?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500214797034?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500979163324?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500184835158?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500237856267?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500579749421?w=800&q=80&category=house"
+    ],
+    "agent": {
+      "id": "A72",
+      "name": "Agent 92",
+      "phone": "+60 783 985 2512",
+      "email": "agent23@iwrealty.com",
+      "photo": "/images/icons/png/sg-harbour-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-10-28T10:50:47.239Z",
+    "updatedAt": "2025-11-13T10:50:47.239Z",
+    "storeId": "store-011"
+  },
+  {
+    "id": "P05721",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Müstakil Ev - New Montenegro",
+    "slug": "satilik-müstakil-ev-new-montenegro-P05721",
+    "description": "New Montenegro, Montenegro bölgesinde müstakil ev. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 13248089,
+    "location": {
+      "country": "ME",
+      "city": "New Montenegro",
+      "district": "New Montenegro Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 915",
+      "coordinates": {
+        "lat": 42.6792144711454,
+        "lng": 18.91572993498072
+      }
+    },
+    "specs": {
+      "netSize": 393,
+      "grossSize": 472,
+      "rooms": "4+2",
+      "bathrooms": 3,
+      "age": 8,
+      "floor": 4,
+      "totalFloors": 13,
+      "heating": "Merkezi",
+      "furnishing": "Furnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500614980313?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500784019010?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500493892538?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500786044143?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500791778103?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500518136559?w=800&q=80&category=house"
+    ],
+    "agent": {
+      "id": "A9",
+      "name": "Agent 20",
+      "phone": "+62 677 837 1343",
+      "email": "agent30@iwrealty.com",
+      "photo": "/images/icons/png/antalya-investment-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2024-12-13T10:50:47.239Z",
+    "updatedAt": "2025-11-13T10:50:47.239Z",
+    "storeId": "store-006"
+  },
+  {
+    "id": "P05722",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Residence - New Montenegro",
+    "slug": "kiralik-residence-new-montenegro-P05722",
+    "description": "New Montenegro, Montenegro bölgesinde residence. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 14838873,
+    "location": {
+      "country": "ME",
+      "city": "New Montenegro",
+      "district": "New Montenegro Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 243",
+      "coordinates": {
+        "lat": 42.422926454862115,
+        "lng": 19.382079569917597
+      }
+    },
+    "specs": {
+      "netSize": 368,
+      "grossSize": 442,
+      "rooms": "4+0",
+      "bathrooms": 3,
+      "age": 14,
+      "floor": 15,
+      "totalFloors": 20,
+      "heating": "Kombi",
+      "furnishing": "Unfurnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500868831153?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500362561216?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500995171138?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500318514660?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500680605702?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500850091793?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500202013415?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500259236442?w=800&q=80&category=architecture"
+    ],
+    "agent": {
+      "id": "A40",
+      "name": "Agent 67",
+      "phone": "+21 501 459 6463",
+      "email": "agent9@iwrealty.com",
+      "photo": "/images/icons/png/antalya-investment-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": true,
+      "hasPool": true,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-11-05T10:50:47.239Z",
+    "updatedAt": "2025-11-13T10:50:47.239Z",
+    "storeId": "store-006"
+  },
+  {
+    "id": "P05723",
+    "type": "sale",
+    "category": {
+      "main": "commercial",
+      "sub": "hospital"
+    },
+    "title": "Satılık Hastane - New Montenegro",
+    "slug": "satilik-hastane-new-montenegro-P05723",
+    "description": "New Montenegro, Montenegro bölgesinde hastane. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 20162253,
+    "location": {
+      "country": "ME",
+      "city": "New Montenegro",
+      "district": "New Montenegro Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 863",
+      "coordinates": {
+        "lat": 42.70450101007108,
+        "lng": 19.75685352720359
+      }
+    },
+    "specs": {
+      "netSize": 9285,
+      "grossSize": 11142,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 8,
+      "floor": 11,
+      "totalFloors": 16,
+      "heating": "Klima",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500027938559?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500834942256?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500468988905?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500013812123?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500882429231?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500242899492?w=800&q=80&category=interior"
+    ],
+    "agent": {
+      "id": "A20",
+      "name": "Agent 94",
+      "phone": "+84 907 361 5805",
+      "email": "agent88@iwrealty.com",
+      "photo": "/images/icons/png/sg-harbour-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-01-30T10:50:47.239Z",
+    "updatedAt": "2025-11-13T10:50:47.239Z",
+    "storeId": "store-011"
+  },
+  {
+    "id": "P05724",
+    "type": "rent",
+    "category": {
+      "main": "commercial",
+      "sub": "hospital"
+    },
+    "title": "Kiralık Hastane - Podgorica",
+    "slug": "kiralik-hastane-podgorica-P05724",
+    "description": "Podgorica, Montenegro bölgesinde hastane. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 84049806,
+    "location": {
+      "country": "ME",
+      "city": "Podgorica",
+      "district": "Podgorica Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 334",
+      "coordinates": {
+        "lat": 42.543871316409266,
+        "lng": 18.995090967133766
+      }
+    },
+    "specs": {
+      "netSize": 4180,
+      "grossSize": 5016,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 13,
+      "floor": 11,
+      "totalFloors": 18,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500401292642?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500718701737?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500174430635?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500982340061?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500668939640?w=800&q=80&category=house"
+    ],
+    "agent": {
+      "id": "A12",
+      "name": "Agent 100",
+      "phone": "+31 671 837 7523",
+      "email": "agent45@iwrealty.com",
+      "photo": "/images/icons/png/antalya-investment-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-10-08T10:50:47.239Z",
+    "updatedAt": "2025-11-13T10:50:47.239Z",
+    "storeId": "store-006"
+  },
+  {
+    "id": "P05725",
+    "type": "sale",
+    "category": {
+      "main": "commercial",
+      "sub": "clinic"
+    },
+    "title": "Satılık Klinik - Montenegro Central",
+    "slug": "satilik-klinik-montenegro-central-P05725",
+    "description": "Montenegro Central, Montenegro bölgesinde klinik. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 2978707,
+    "location": {
+      "country": "ME",
+      "city": "Montenegro Central",
+      "district": "Montenegro Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 620",
+      "coordinates": {
+        "lat": 42.481114192048345,
+        "lng": 19.124356557271966
+      }
+    },
+    "specs": {
+      "netSize": 502,
+      "grossSize": 602,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 19,
+      "floor": 12,
+      "totalFloors": 13,
+      "heating": "Kombi",
+      "furnishing": "Unfurnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500880707243?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500044328396?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500159706189?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500610045432?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500078211563?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500973632235?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500551156659?w=800&q=80&category=interior"
+    ],
+    "agent": {
+      "id": "A61",
+      "name": "Agent 92",
+      "phone": "+63 740 576 9567",
+      "email": "agent10@iwrealty.com",
+      "photo": "/images/icons/png/antalya-investment-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": true,
+      "hasPool": true,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-10-22T10:50:47.239Z",
+    "updatedAt": "2025-11-13T10:50:47.239Z",
+    "storeId": "store-006"
+  },
+  {
+    "id": "P05726",
+    "type": "rent",
+    "category": {
+      "main": "commercial",
+      "sub": "clinic"
+    },
+    "title": "Kiralık Klinik - Podgorica",
+    "slug": "kiralik-klinik-podgorica-P05726",
+    "description": "Podgorica, Montenegro bölgesinde klinik. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 9273231,
+    "location": {
+      "country": "ME",
+      "city": "Podgorica",
+      "district": "Podgorica Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 398",
+      "coordinates": {
+        "lat": 42.75011520618039,
+        "lng": 18.82870905925256
+      }
+    },
+    "specs": {
+      "netSize": 1635,
+      "grossSize": 1962,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 4,
+      "floor": 14,
+      "totalFloors": 5,
+      "heating": "Klima",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500649253636?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500231156543?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500328954118?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500395493993?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500077403883?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500698543859?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500902495457?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500824942079?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500554096339?w=800&q=80&category=real-estate"
+    ],
+    "agent": {
+      "id": "A69",
+      "name": "Agent 37",
+      "phone": "+76 195 551 4416",
+      "email": "agent90@iwrealty.com",
+      "photo": "/images/icons/png/izmir-sahil-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-02-07T10:50:47.239Z",
+    "updatedAt": "2025-11-13T10:50:47.239Z",
+    "storeId": "store-005"
+  },
+  {
+    "id": "P05727",
+    "type": "sale",
+    "category": {
+      "main": "commercial",
+      "sub": "shop"
+    },
+    "title": "Satılık Dükkan - Podgorica",
+    "slug": "satilik-dükkan-podgorica-P05727",
+    "description": "Podgorica, Montenegro bölgesinde dükkan. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 2506417,
+    "location": {
+      "country": "ME",
+      "city": "Podgorica",
+      "district": "Podgorica Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 317",
+      "coordinates": {
+        "lat": 42.419181842385576,
+        "lng": 19.410445086331123
+      }
+    },
+    "specs": {
+      "netSize": 275,
+      "grossSize": 330,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 10,
+      "floor": 4,
+      "totalFloors": 12,
+      "heating": "Kombi",
+      "furnishing": "Furnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500432537848?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500217372324?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500880392984?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500047504170?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500358827383?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500000923046?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500255770558?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500827615017?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500638717806?w=800&q=80&category=building"
+    ],
+    "agent": {
+      "id": "A11",
+      "name": "Agent 65",
+      "phone": "+65 111 326 4831",
+      "email": "agent48@iwrealty.com",
+      "photo": "/images/icons/png/luxury-homes-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": false,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-07-21T10:50:47.239Z",
+    "updatedAt": "2025-11-13T10:50:47.239Z",
+    "storeId": "store-002"
+  },
+  {
+    "id": "P05728",
+    "type": "rent",
+    "category": {
+      "main": "commercial",
+      "sub": "shop"
+    },
+    "title": "Kiralık Dükkan - New Montenegro",
+    "slug": "kiralik-dükkan-new-montenegro-P05728",
+    "description": "New Montenegro, Montenegro bölgesinde dükkan. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 6407809,
+    "location": {
+      "country": "ME",
+      "city": "New Montenegro",
+      "district": "New Montenegro Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 391",
+      "coordinates": {
+        "lat": 42.19088841203274,
+        "lng": 19.745747521738025
+      }
+    },
+    "specs": {
+      "netSize": 488,
+      "grossSize": 586,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 0,
+      "floor": 7,
+      "totalFloors": 7,
+      "heating": "Kombi",
+      "furnishing": "Unfurnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500910699048?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500457539963?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500602312522?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500257867344?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500320311208?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500883413989?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500598831945?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500887747396?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500183549443?w=800&q=80&category=architecture"
+    ],
+    "agent": {
+      "id": "A5",
+      "name": "Agent 99",
+      "phone": "+59 147 918 7159",
+      "email": "agent16@iwrealty.com",
+      "photo": "/images/icons/png/luxury-homes-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": false,
+      "hasBalcony": false,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-08-31T10:50:47.239Z",
+    "updatedAt": "2025-11-13T10:50:47.239Z",
+    "storeId": "store-002"
+  },
+  {
+    "id": "P05729",
+    "type": "sale",
+    "category": {
+      "main": "commercial",
+      "sub": "office"
+    },
+    "title": "Satılık Ofis - Podgorica",
+    "slug": "satilik-ofis-podgorica-P05729",
+    "description": "Podgorica, Montenegro bölgesinde ofis. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 5567178,
+    "location": {
+      "country": "ME",
+      "city": "Podgorica",
+      "district": "Podgorica Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 707",
+      "coordinates": {
+        "lat": 42.53993336061947,
+        "lng": 19.714586176140127
+      }
+    },
+    "specs": {
+      "netSize": 585,
+      "grossSize": 702,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 17,
+      "floor": 6,
+      "totalFloors": 10,
+      "heating": "Merkezi",
+      "furnishing": "Unfurnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500155255735?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500840467085?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500927197790?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500962951251?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500577751302?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500944530375?w=800&q=80&category=architecture"
+    ],
+    "agent": {
+      "id": "A34",
+      "name": "Agent 43",
+      "phone": "+75 449 802 5865",
+      "email": "agent17@iwrealty.com",
+      "photo": "/images/icons/png/ny-skyline-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-04-06T10:50:47.239Z",
+    "updatedAt": "2025-11-13T10:50:47.239Z",
+    "storeId": "store-008"
+  },
+  {
+    "id": "P05730",
+    "type": "rent",
+    "category": {
+      "main": "commercial",
+      "sub": "office"
+    },
+    "title": "Kiralık Ofis - Podgorica",
+    "slug": "kiralik-ofis-podgorica-P05730",
+    "description": "Podgorica, Montenegro bölgesinde ofis. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 4400066,
+    "location": {
+      "country": "ME",
+      "city": "Podgorica",
+      "district": "Podgorica Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 666",
+      "coordinates": {
+        "lat": 42.31904994395336,
+        "lng": 19.270966298088783
+      }
+    },
+    "specs": {
+      "netSize": 602,
+      "grossSize": 722,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 3,
+      "floor": 9,
+      "totalFloors": 12,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500581675520?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500553662898?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500839030166?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500242609266?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500441735613?w=800&q=80&category=house"
+    ],
+    "agent": {
+      "id": "A19",
+      "name": "Agent 11",
+      "phone": "+81 196 706 4181",
+      "email": "agent33@iwrealty.com",
+      "photo": "/images/icons/png/sydney-coastal-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-04-18T10:50:47.239Z",
+    "updatedAt": "2025-11-13T10:50:47.239Z",
+    "storeId": "store-012"
+  },
+  {
+    "id": "P05731",
+    "type": "sale",
+    "category": {
+      "main": "commercial",
+      "sub": "mall"
+    },
+    "title": "Satılık AVM - Montenegro Central",
+    "slug": "satilik-avm-montenegro-central-P05731",
+    "description": "Montenegro Central, Montenegro bölgesinde avm. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 338873102,
+    "location": {
+      "country": "ME",
+      "city": "Montenegro Central",
+      "district": "Montenegro Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 694",
+      "coordinates": {
+        "lat": 42.67664317057776,
+        "lng": 18.943586255982197
+      }
+    },
+    "specs": {
+      "netSize": 20682,
+      "grossSize": 24818,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 2,
+      "floor": 9,
+      "totalFloors": 13,
+      "heating": "Kombi",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500796502841?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500514116046?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500553279911?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500819054452?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500163431038?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500953579083?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500378401247?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500406837816?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500489674757?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500147466536?w=800&q=80&category=interior"
+    ],
+    "agent": {
+      "id": "A100",
+      "name": "Agent 12",
+      "phone": "+12 292 375 1641",
+      "email": "agent79@iwrealty.com",
+      "photo": "/images/icons/png/antalya-investment-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": true,
+      "hasSecurity": true
+    },
+    "createdAt": "2024-11-17T10:50:47.239Z",
+    "updatedAt": "2025-11-13T10:50:47.239Z",
+    "storeId": "store-006"
+  },
+  {
+    "id": "P05732",
+    "type": "rent",
+    "category": {
+      "main": "commercial",
+      "sub": "mall"
+    },
+    "title": "Kiralık AVM - Montenegro Central",
+    "slug": "kiralik-avm-montenegro-central-P05732",
+    "description": "Montenegro Central, Montenegro bölgesinde avm. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 320309572,
+    "location": {
+      "country": "ME",
+      "city": "Montenegro Central",
+      "district": "Montenegro Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 748",
+      "coordinates": {
+        "lat": 42.313525029235976,
+        "lng": 19.058034015955975
+      }
+    },
+    "specs": {
+      "netSize": 31125,
+      "grossSize": 37350,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 0,
+      "floor": 3,
+      "totalFloors": 11,
+      "heating": "Klima",
+      "furnishing": "Furnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500511741117?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500934619521?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500119748410?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500946435000?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500528531432?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500138004773?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500294815648?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500683702005?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500405937425?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500134216133?w=800&q=80&category=architecture"
+    ],
+    "agent": {
+      "id": "A11",
+      "name": "Agent 27",
+      "phone": "+92 589 785 3140",
+      "email": "agent6@iwrealty.com",
+      "photo": "/images/icons/png/paris-heritage-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-05-27T10:50:47.239Z",
+    "updatedAt": "2025-11-13T10:50:47.239Z",
+    "storeId": "store-010"
+  },
+  {
+    "id": "P05733",
+    "type": "sale",
+    "category": {
+      "main": "commercial",
+      "sub": "hotel"
+    },
+    "title": "Satılık Otel - Montenegro City",
+    "slug": "satilik-otel-montenegro-city-P05733",
+    "description": "Montenegro City, Montenegro bölgesinde otel. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 188201905,
+    "location": {
+      "country": "ME",
+      "city": "Montenegro City",
+      "district": "Montenegro City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 853",
+      "coordinates": {
+        "lat": 42.83581128601882,
+        "lng": 19.330632416437403
+      }
+    },
+    "specs": {
+      "netSize": 3767,
+      "grossSize": 4520,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 20,
+      "floor": 7,
+      "totalFloors": 11,
+      "heating": "Kombi",
+      "furnishing": "Unfurnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500693011615?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500174291936?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500375282154?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500686191994?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500404067641?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500388522413?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500221233793?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500061704828?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500171454613?w=800&q=80&category=house"
+    ],
+    "agent": {
+      "id": "A20",
+      "name": "Agent 22",
+      "phone": "+24 565 420 6011",
+      "email": "agent12@iwrealty.com",
+      "photo": "/images/icons/png/ankara-modern-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2024-12-20T10:50:47.239Z",
+    "updatedAt": "2025-11-13T10:50:47.239Z",
+    "storeId": "store-003"
+  },
+  {
+    "id": "P05734",
+    "type": "rent",
+    "category": {
+      "main": "commercial",
+      "sub": "hotel"
+    },
+    "title": "Kiralık Otel - Montenegro Central",
+    "slug": "kiralik-otel-montenegro-central-P05734",
+    "description": "Montenegro Central, Montenegro bölgesinde otel. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 171588902,
+    "location": {
+      "country": "ME",
+      "city": "Montenegro Central",
+      "district": "Montenegro Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 269",
+      "coordinates": {
+        "lat": 42.74457404998733,
+        "lng": 19.728732625798376
+      }
+    },
+    "specs": {
+      "netSize": 22839,
+      "grossSize": 27407,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 11,
+      "floor": 3,
+      "totalFloors": 6,
+      "heating": "Kombi",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500060156975?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500256250457?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500108277295?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500121177795?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500372538965?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500012321890?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500437258743?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500227893875?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500939358346?w=800&q=80&category=house"
+    ],
+    "agent": {
+      "id": "A2",
+      "name": "Agent 27",
+      "phone": "+89 937 980 7007",
+      "email": "agent91@iwrealty.com",
+      "photo": "/images/icons/png/ny-skyline-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": true,
+      "hasSecurity": false
+    },
+    "createdAt": "2024-11-18T10:50:47.239Z",
+    "updatedAt": "2025-11-13T10:50:47.239Z",
+    "storeId": "store-008"
+  },
+  {
+    "id": "P05735",
+    "type": "sale",
+    "category": {
+      "main": "commercial",
+      "sub": "restaurant"
+    },
+    "title": "Satılık Restoran - Montenegro City",
+    "slug": "satilik-restoran-montenegro-city-P05735",
+    "description": "Montenegro City, Montenegro bölgesinde restoran. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 2139220,
+    "location": {
+      "country": "ME",
+      "city": "Montenegro City",
+      "district": "Montenegro City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 745",
+      "coordinates": {
+        "lat": 42.64237263746939,
+        "lng": 19.492254982748733
+      }
+    },
+    "specs": {
+      "netSize": 1136,
+      "grossSize": 1363,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 1,
+      "floor": 1,
+      "totalFloors": 8,
+      "heating": "Klima",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500193491643?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500538111044?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500907685152?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500149586247?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500754404788?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500161002381?w=800&q=80&category=building"
+    ],
+    "agent": {
+      "id": "A80",
+      "name": "Agent 94",
+      "phone": "+56 233 432 1586",
+      "email": "agent55@iwrealty.com",
+      "photo": "/images/icons/png/london-prime-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-08-04T10:50:47.239Z",
+    "updatedAt": "2025-11-13T10:50:47.239Z",
+    "storeId": "store-007"
+  },
+  {
+    "id": "P05736",
+    "type": "rent",
+    "category": {
+      "main": "commercial",
+      "sub": "restaurant"
+    },
+    "title": "Kiralık Restoran - Montenegro Central",
+    "slug": "kiralik-restoran-montenegro-central-P05736",
+    "description": "Montenegro Central, Montenegro bölgesinde restoran. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 7141599,
+    "location": {
+      "country": "ME",
+      "city": "Montenegro Central",
+      "district": "Montenegro Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 350",
+      "coordinates": {
+        "lat": 42.34009215574617,
+        "lng": 19.057985135536327
+      }
+    },
+    "specs": {
+      "netSize": 481,
+      "grossSize": 577,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 11,
+      "floor": 8,
+      "totalFloors": 11,
+      "heating": "Merkezi",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500531730288?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500582466683?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500945334941?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500028905411?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500849248622?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500526558340?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500389948764?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500670085810?w=800&q=80&category=interior"
+    ],
+    "agent": {
+      "id": "A36",
+      "name": "Agent 68",
+      "phone": "+83 385 936 2053",
+      "email": "agent72@iwrealty.com",
+      "photo": "/images/icons/png/ny-skyline-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": false,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2024-12-14T10:50:47.239Z",
+    "updatedAt": "2025-11-13T10:50:47.239Z",
+    "storeId": "store-008"
+  },
+  {
+    "id": "P05737",
+    "type": "sale",
+    "category": {
+      "main": "commercial",
+      "sub": "warehouse"
+    },
+    "title": "Satılık Depo - Podgorica",
+    "slug": "satilik-depo-podgorica-P05737",
+    "description": "Podgorica, Montenegro bölgesinde depo. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 27175207,
+    "location": {
+      "country": "ME",
+      "city": "Podgorica",
+      "district": "Podgorica Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 374",
+      "coordinates": {
+        "lat": 42.92322383680556,
+        "lng": 19.563991830099905
+      }
+    },
+    "specs": {
+      "netSize": 8426,
+      "grossSize": 10111,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 6,
+      "floor": 7,
+      "totalFloors": 20,
+      "heating": "Merkezi",
+      "furnishing": "Unfurnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500286245306?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500418845494?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500310133117?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500125666084?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500116183333?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500599639931?w=800&q=80&category=house"
+    ],
+    "agent": {
+      "id": "A85",
+      "name": "Agent 92",
+      "phone": "+10 884 889 4175",
+      "email": "agent82@iwrealty.com",
+      "photo": "/images/icons/png/ankara-modern-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-09-23T10:50:47.239Z",
+    "updatedAt": "2025-11-13T10:50:47.239Z",
+    "storeId": "store-003"
+  },
+  {
+    "id": "P05738",
+    "type": "rent",
+    "category": {
+      "main": "commercial",
+      "sub": "warehouse"
+    },
+    "title": "Kiralık Depo - Montenegro City",
+    "slug": "kiralik-depo-montenegro-city-P05738",
+    "description": "Montenegro City, Montenegro bölgesinde depo. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 9003075,
+    "location": {
+      "country": "ME",
+      "city": "Montenegro City",
+      "district": "Montenegro City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 692",
+      "coordinates": {
+        "lat": 42.75048944458511,
+        "lng": 19.172452812990255
+      }
+    },
+    "specs": {
+      "netSize": 2688,
+      "grossSize": 3226,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 19,
+      "floor": 12,
+      "totalFloors": 8,
+      "heating": "Klima",
+      "furnishing": "Furnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500824187489?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500414972343?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500402642896?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500058608842?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500465124407?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500224097214?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500608413818?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500910209938?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500790625531?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500814510370?w=800&q=80&category=house"
+    ],
+    "agent": {
+      "id": "A59",
+      "name": "Agent 77",
+      "phone": "+51 771 432 9166",
+      "email": "agent82@iwrealty.com",
+      "photo": "/images/icons/png/antalya-investment-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": true,
+      "hasPool": true,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-03-09T10:50:47.239Z",
+    "updatedAt": "2025-11-13T10:50:47.239Z",
+    "storeId": "store-006"
+  }
+]

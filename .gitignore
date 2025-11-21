@@ -1,0 +1,144 @@
+# Node.js
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+package-lock.json
+
+# Next.js
+.next/
+out/
+.vercel/
+build/
+dist/
+
+# Note: Property and project images are included in repo for deployment
+# Only exclude temporary upload folders if needed
+# public/uploads/
+
+# Old irem folder (deprecated)
+irem/
+
+# Sistem dosyaları
+.DS_Store
+Thumbs.db
+*.zip
+*.rar
+*.tar.gz
+
+# Test
+coverage/
+
+# Environment variables
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+.env.production
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Logs
+logs
+*.log
+
+# Runtime data - Large JSON files
+converted_tr_properties.json
+activities.json
+enhanced-sale.json
+scraped_*.json
+merged_*.json
+pids
+*.pid
+*.seed
+*.pid.lock
+
+# Runtime generated JSON files (user data, sessions, activities)
+src/data/ai_sessions.json
+src/data/activities.json
+
+# Dependency directories
+jspm_packages/
+
+# Optional npm cache directory
+.npm
+
+# Optional eslint cache
+.eslintcache
+
+# TypeScript
+*.tsbuildinfo
+
+# Deployment ve backup dosyaları
+*.sql
+*.backup
+*.bak
+*.md.backup
+deployment-guide.md
+DEPLOYMENT_STEPS.md
+CPANEL*.md
+NODEJS_MEMORY_SETTINGS.md
+SQL_IMPORT_GUIDE.md
+PHPMYADMIN_UTF_GUIDE.md
+README_CLOUDINARY.md
+MEMORY_PROBLEM_SOLUTION.md
+COPY_PASTE_COMMANDS.md
+*.sh
+scripts/deployment/
+database-config.md
+create-tables.js
+create_mysql_tables.sql
+update_passwords.sql
+export-database.sh
+exports/
+iremworld_backup.sql
+iremworld_db/
+
+# Microbundle cache
+.rpt2_cache/
+.rts2_cache_cjs/
+.rts2_cache_es/
+.rts2_cache_umd/
+
+# Optional REPL history
+.node_repl_history
+
+# Output of 'npm pack'
+*.tgz
+
+# Yarn Integrity file
+.yarn-integrity
+
+# parcel-bundler cache (https://parceljs.org/)
+.cache
+.parcel-cache
+
+# next.js build output
+.next
+
+# nuxt.js build output
+.nuxt
+
+# vuepress build output
+.vuepress/dist
+
+# Serverless directories
+.serverless/
+
+# FuseBox cache
+.fusebox/
+
+# DynamoDB Local files
+.dynamodb/
+
+# TernJS port file
+.tern-port
+
+.vercel
+
+.vercel

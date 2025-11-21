@@ -1,0 +1,2365 @@
+[
+  {
+    "id": "P04181",
+    "type": "sale",
+    "category": {
+      "main": "government"
+    },
+    "title": "Satılık Hastane - Iceland City",
+    "slug": "satilik-hastane-iceland-city-P04181",
+    "description": "Iceland City, Iceland bölgesinde hastane. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 33067329,
+    "location": {
+      "country": "IS",
+      "city": "Iceland City",
+      "district": "Iceland City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 635",
+      "coordinates": {
+        "lat": 65.38290669370309,
+        "lng": -18.027101426479554
+      }
+    },
+    "specs": {
+      "netSize": 2095,
+      "grossSize": 2514,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 11,
+      "floor": 6,
+      "totalFloors": 10,
+      "heating": "Kombi",
+      "furnishing": "Furnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500075638623?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500690305866?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500387981611?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500949607302?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500358909407?w=800&q=80&category=building"
+    ],
+    "agent": {
+      "id": "A48",
+      "name": "Agent 74",
+      "phone": "+78 893 122 1765",
+      "email": "agent58@iwrealty.com",
+      "photo": "/images/icons/png/ny-skyline-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": true,
+      "hasPool": true,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-04-11T10:50:47.222Z",
+    "updatedAt": "2025-11-13T10:50:47.222Z",
+    "storeId": "store-008"
+  },
+  {
+    "id": "P04182",
+    "type": "rent",
+    "category": {
+      "main": "government"
+    },
+    "title": "Kiralık Okul - Reykjavik",
+    "slug": "kiralik-okul-reykjavik-P04182",
+    "description": "Reykjavik, Iceland bölgesinde okul. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 33100291,
+    "location": {
+      "country": "IS",
+      "city": "Reykjavik",
+      "district": "Reykjavik Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 22",
+      "coordinates": {
+        "lat": 65.12496285645422,
+        "lng": -17.74400744377002
+      }
+    },
+    "specs": {
+      "netSize": 2380,
+      "grossSize": 2856,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 5,
+      "floor": 11,
+      "totalFloors": 19,
+      "heating": "Merkezi",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500974214535?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500329879020?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500798963080?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500652047832?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500392563242?w=800&q=80&category=architecture"
+    ],
+    "agent": {
+      "id": "A96",
+      "name": "Agent 55",
+      "phone": "+64 263 758 6502",
+      "email": "agent61@iwrealty.com",
+      "photo": "/images/icons/png/paris-heritage-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": false,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2024-12-27T10:50:47.222Z",
+    "updatedAt": "2025-11-13T10:50:47.222Z",
+    "storeId": "store-010"
+  },
+  {
+    "id": "P04183",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Müstakil Ev - Iceland City",
+    "slug": "satilik-müstakil-ev-iceland-city-P04183",
+    "description": "Iceland City, Iceland bölgesinde müstakil ev. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 2718975,
+    "location": {
+      "country": "IS",
+      "city": "Iceland City",
+      "district": "Iceland City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 831",
+      "coordinates": {
+        "lat": 65.45178773697428,
+        "lng": -17.807812370544394
+      }
+    },
+    "specs": {
+      "netSize": 469,
+      "grossSize": 563,
+      "rooms": "4+1",
+      "bathrooms": 4,
+      "age": 11,
+      "floor": 2,
+      "totalFloors": 6,
+      "heating": "Merkezi",
+      "furnishing": "Unfurnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500285024694?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500722312696?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500712217657?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500128758523?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500790963805?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500259224344?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500996500040?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500233008819?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500127846041?w=800&q=80&category=architecture"
+    ],
+    "agent": {
+      "id": "A3",
+      "name": "Agent 30",
+      "phone": "+32 937 808 5905",
+      "email": "agent30@iwrealty.com",
+      "photo": "/images/icons/png/paris-heritage-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-01-13T10:50:47.222Z",
+    "updatedAt": "2025-11-13T10:50:47.222Z",
+    "storeId": "store-010"
+  },
+  {
+    "id": "P04184",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Residence - Reykjavik",
+    "slug": "kiralik-residence-reykjavik-P04184",
+    "description": "Reykjavik, Iceland bölgesinde residence. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 11391802,
+    "location": {
+      "country": "IS",
+      "city": "Reykjavik",
+      "district": "Reykjavik Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 229",
+      "coordinates": {
+        "lat": 65.39938680474954,
+        "lng": -17.673411810891373
+      }
+    },
+    "specs": {
+      "netSize": 287,
+      "grossSize": 344,
+      "rooms": "2+2",
+      "bathrooms": 1,
+      "age": 4,
+      "floor": 13,
+      "totalFloors": 18,
+      "heating": "Merkezi",
+      "furnishing": "Unfurnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500460119778?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500785814867?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500187002656?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500367834275?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500935579970?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500396492071?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500964182721?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500341677089?w=800&q=80&category=interior"
+    ],
+    "agent": {
+      "id": "A83",
+      "name": "Agent 14",
+      "phone": "+18 857 763 1681",
+      "email": "agent83@iwrealty.com",
+      "photo": "/images/icons/png/izmir-sahil-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-06-03T10:50:47.222Z",
+    "updatedAt": "2025-11-13T10:50:47.222Z",
+    "storeId": "store-005"
+  },
+  {
+    "id": "P04185",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Villa - Reykjavik",
+    "slug": "satilik-villa-reykjavik-P04185",
+    "description": "Reykjavik, Iceland bölgesinde villa. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 9367011,
+    "location": {
+      "country": "IS",
+      "city": "Reykjavik",
+      "district": "Reykjavik Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 408",
+      "coordinates": {
+        "lat": 65.18967120188945,
+        "lng": -18.132748172608366
+      }
+    },
+    "specs": {
+      "netSize": 265,
+      "grossSize": 318,
+      "rooms": "2+0",
+      "bathrooms": 1,
+      "age": 15,
+      "floor": 8,
+      "totalFloors": 19,
+      "heating": "Klima",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500859670073?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500961367260?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500948609773?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500510149295?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500142082179?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500983184296?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500735324881?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500424571193?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500169062408?w=800&q=80&category=house"
+    ],
+    "agent": {
+      "id": "A94",
+      "name": "Agent 54",
+      "phone": "+12 995 723 3828",
+      "email": "agent44@iwrealty.com",
+      "photo": "/images/icons/png/paris-heritage-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": false,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2024-12-07T10:50:47.222Z",
+    "updatedAt": "2025-11-13T10:50:47.222Z",
+    "storeId": "store-010"
+  },
+  {
+    "id": "P04186",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Müstakil Ev - New Iceland",
+    "slug": "kiralik-müstakil-ev-new-iceland-P04186",
+    "description": "New Iceland, Iceland bölgesinde müstakil ev. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 7312005,
+    "location": {
+      "country": "IS",
+      "city": "New Iceland",
+      "district": "New Iceland Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 37",
+      "coordinates": {
+        "lat": 65.16934879810263,
+        "lng": -18.41263046831218
+      }
+    },
+    "specs": {
+      "netSize": 286,
+      "grossSize": 343,
+      "rooms": "3+0",
+      "bathrooms": 1,
+      "age": 2,
+      "floor": 2,
+      "totalFloors": 19,
+      "heating": "Kombi",
+      "furnishing": "Furnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500477001239?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500239168465?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500010540006?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500896378985?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500772329571?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500355218611?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500128296185?w=800&q=80&category=interior"
+    ],
+    "agent": {
+      "id": "A58",
+      "name": "Agent 80",
+      "phone": "+32 464 186 9053",
+      "email": "agent16@iwrealty.com",
+      "photo": "/images/icons/png/sydney-coastal-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": false,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": true,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-08-09T10:50:47.222Z",
+    "updatedAt": "2025-11-13T10:50:47.222Z",
+    "storeId": "store-012"
+  },
+  {
+    "id": "P04187",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Villa - Iceland City",
+    "slug": "satilik-villa-iceland-city-P04187",
+    "description": "Iceland City, Iceland bölgesinde villa. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 4989294,
+    "location": {
+      "country": "IS",
+      "city": "Iceland City",
+      "district": "Iceland City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 681",
+      "coordinates": {
+        "lat": 65.14767654035494,
+        "lng": -18.0619861311398
+      }
+    },
+    "specs": {
+      "netSize": 265,
+      "grossSize": 318,
+      "rooms": "4+0",
+      "bathrooms": 2,
+      "age": 14,
+      "floor": 7,
+      "totalFloors": 17,
+      "heating": "Klima",
+      "furnishing": "Unfurnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500566215092?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500733879755?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500704373503?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500324220088?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500852534135?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500904441399?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500606218689?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500154627175?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500292116328?w=800&q=80&category=interior"
+    ],
+    "agent": {
+      "id": "A30",
+      "name": "Agent 81",
+      "phone": "+65 535 978 9137",
+      "email": "agent13@iwrealty.com",
+      "photo": "/images/icons/png/antalya-investment-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-04-21T10:50:47.222Z",
+    "updatedAt": "2025-11-13T10:50:47.222Z",
+    "storeId": "store-006"
+  },
+  {
+    "id": "P04188",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Daire - Iceland Central",
+    "slug": "kiralik-daire-iceland-central-P04188",
+    "description": "Iceland Central, Iceland bölgesinde daire. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 8030118,
+    "location": {
+      "country": "IS",
+      "city": "Iceland Central",
+      "district": "Iceland Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 891",
+      "coordinates": {
+        "lat": 65.42931373052218,
+        "lng": -17.662343169253145
+      }
+    },
+    "specs": {
+      "netSize": 476,
+      "grossSize": 571,
+      "rooms": "4+2",
+      "bathrooms": 3,
+      "age": 12,
+      "floor": 2,
+      "totalFloors": 14,
+      "heating": "Merkezi",
+      "furnishing": "Unfurnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500849072874?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500280988561?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500076086655?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500350079270?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500960475599?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500666376111?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500549119121?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500058272402?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500605603957?w=800&q=80&category=interior"
+    ],
+    "agent": {
+      "id": "A14",
+      "name": "Agent 10",
+      "phone": "+91 708 599 9065",
+      "email": "agent46@iwrealty.com",
+      "photo": "/images/icons/png/luxury-homes-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-03-20T10:50:47.222Z",
+    "updatedAt": "2025-11-13T10:50:47.222Z",
+    "storeId": "store-002"
+  },
+  {
+    "id": "P04189",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Müstakil Ev - Iceland Central",
+    "slug": "satilik-müstakil-ev-iceland-central-P04189",
+    "description": "Iceland Central, Iceland bölgesinde müstakil ev. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 11250661,
+    "location": {
+      "country": "IS",
+      "city": "Iceland Central",
+      "district": "Iceland Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 300",
+      "coordinates": {
+        "lat": 65.43953736453744,
+        "lng": -18.197746712872434
+      }
+    },
+    "specs": {
+      "netSize": 465,
+      "grossSize": 558,
+      "rooms": "3+0",
+      "bathrooms": 2,
+      "age": 6,
+      "floor": 7,
+      "totalFloors": 8,
+      "heating": "Klima",
+      "furnishing": "Furnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500761087242?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500278718675?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500216548287?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500615008799?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500575651886?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500414978112?w=800&q=80&category=real-estate"
+    ],
+    "agent": {
+      "id": "A47",
+      "name": "Agent 23",
+      "phone": "+55 816 549 4390",
+      "email": "agent18@iwrealty.com",
+      "photo": "/images/icons/png/berlin-urban-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2024-11-26T10:50:47.222Z",
+    "updatedAt": "2025-11-13T10:50:47.222Z",
+    "storeId": "store-009"
+  },
+  {
+    "id": "P04190",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Residence - Iceland Central",
+    "slug": "kiralik-residence-iceland-central-P04190",
+    "description": "Iceland Central, Iceland bölgesinde residence. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 4883425,
+    "location": {
+      "country": "IS",
+      "city": "Iceland Central",
+      "district": "Iceland Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 778",
+      "coordinates": {
+        "lat": 65.30371556562658,
+        "lng": -18.26609293915369
+      }
+    },
+    "specs": {
+      "netSize": 215,
+      "grossSize": 258,
+      "rooms": "3+1",
+      "bathrooms": 1,
+      "age": 5,
+      "floor": 10,
+      "totalFloors": 19,
+      "heating": "Kombi",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500339259024?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500896474343?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500067490351?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500466036439?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500390477304?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500199160799?w=800&q=80&category=interior"
+    ],
+    "agent": {
+      "id": "A38",
+      "name": "Agent 12",
+      "phone": "+22 350 505 1451",
+      "email": "agent43@iwrealty.com",
+      "photo": "/images/icons/png/izmir-sahil-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": true,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-03-28T10:50:47.222Z",
+    "updatedAt": "2025-11-13T10:50:47.222Z",
+    "storeId": "store-005"
+  },
+  {
+    "id": "P04191",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Müstakil Ev - Iceland Central",
+    "slug": "satilik-müstakil-ev-iceland-central-P04191",
+    "description": "Iceland Central, Iceland bölgesinde müstakil ev. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 3351930,
+    "location": {
+      "country": "IS",
+      "city": "Iceland Central",
+      "district": "Iceland Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 663",
+      "coordinates": {
+        "lat": 64.6210103372656,
+        "lng": -17.538147979928276
+      }
+    },
+    "specs": {
+      "netSize": 244,
+      "grossSize": 293,
+      "rooms": "3+1",
+      "bathrooms": 4,
+      "age": 19,
+      "floor": 8,
+      "totalFloors": 10,
+      "heating": "Kombi",
+      "furnishing": "Furnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500978920833?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500405214809?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500755559949?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500646556785?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500588444399?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500937361405?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500725986702?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500834635725?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500211205060?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500351347041?w=800&q=80&category=interior"
+    ],
+    "agent": {
+      "id": "A32",
+      "name": "Agent 34",
+      "phone": "+71 298 830 1100",
+      "email": "agent64@iwrealty.com",
+      "photo": "/images/icons/png/dubai-property-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": false,
+      "hasBalcony": false,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-04-19T10:50:47.222Z",
+    "updatedAt": "2025-11-13T10:50:47.222Z",
+    "storeId": "store-004"
+  },
+  {
+    "id": "P04192",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Villa - Reykjavik",
+    "slug": "kiralik-villa-reykjavik-P04192",
+    "description": "Reykjavik, Iceland bölgesinde villa. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 6268732,
+    "location": {
+      "country": "IS",
+      "city": "Reykjavik",
+      "district": "Reykjavik Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 643",
+      "coordinates": {
+        "lat": 65.13810934105007,
+        "lng": -18.23464569740879
+      }
+    },
+    "specs": {
+      "netSize": 436,
+      "grossSize": 523,
+      "rooms": "5+0",
+      "bathrooms": 1,
+      "age": 16,
+      "floor": 10,
+      "totalFloors": 16,
+      "heating": "Klima",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500446348876?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500811594440?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500119609702?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500702435823?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500161395555?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500649099207?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500803624969?w=800&q=80&category=architecture"
+    ],
+    "agent": {
+      "id": "A5",
+      "name": "Agent 15",
+      "phone": "+46 709 232 8777",
+      "email": "agent27@iwrealty.com",
+      "photo": "/images/icons/png/sydney-coastal-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-07-16T10:50:47.222Z",
+    "updatedAt": "2025-11-13T10:50:47.222Z",
+    "storeId": "store-012"
+  },
+  {
+    "id": "P04193",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Müstakil Ev - New Iceland",
+    "slug": "satilik-müstakil-ev-new-iceland-P04193",
+    "description": "New Iceland, Iceland bölgesinde müstakil ev. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 9388312,
+    "location": {
+      "country": "IS",
+      "city": "New Iceland",
+      "district": "New Iceland Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 156",
+      "coordinates": {
+        "lat": 65.46718101501554,
+        "lng": -18.431991467304385
+      }
+    },
+    "specs": {
+      "netSize": 101,
+      "grossSize": 121,
+      "rooms": "2+2",
+      "bathrooms": 4,
+      "age": 2,
+      "floor": 11,
+      "totalFloors": 7,
+      "heating": "Merkezi",
+      "furnishing": "Unfurnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500731501973?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500715191222?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500201754554?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500691725003?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500013809195?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500355795267?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500149458779?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500745043364?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500144192991?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500333743887?w=800&q=80&category=real-estate"
+    ],
+    "agent": {
+      "id": "A24",
+      "name": "Agent 13",
+      "phone": "+47 903 519 8845",
+      "email": "agent54@iwrealty.com",
+      "photo": "/images/icons/png/izmir-sahil-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-07-25T10:50:47.222Z",
+    "updatedAt": "2025-11-13T10:50:47.222Z",
+    "storeId": "store-005"
+  },
+  {
+    "id": "P04194",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Villa - Reykjavik",
+    "slug": "kiralik-villa-reykjavik-P04194",
+    "description": "Reykjavik, Iceland bölgesinde villa. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 4524898,
+    "location": {
+      "country": "IS",
+      "city": "Reykjavik",
+      "district": "Reykjavik Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 865",
+      "coordinates": {
+        "lat": 65.36551221358738,
+        "lng": -17.81333181025385
+      }
+    },
+    "specs": {
+      "netSize": 170,
+      "grossSize": 204,
+      "rooms": "5+2",
+      "bathrooms": 3,
+      "age": 13,
+      "floor": 3,
+      "totalFloors": 20,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Furnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500311388699?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500496783481?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500100317603?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500391333462?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500861586717?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500097883870?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500281699117?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500523663641?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500849691275?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500884505480?w=800&q=80&category=real-estate"
+    ],
+    "agent": {
+      "id": "A70",
+      "name": "Agent 56",
+      "phone": "+76 367 811 9611",
+      "email": "agent7@iwrealty.com",
+      "photo": "/images/icons/png/london-prime-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-08-19T10:50:47.222Z",
+    "updatedAt": "2025-11-13T10:50:47.222Z",
+    "storeId": "store-007"
+  },
+  {
+    "id": "P04195",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Residence - Iceland Central",
+    "slug": "satilik-residence-iceland-central-P04195",
+    "description": "Iceland Central, Iceland bölgesinde residence. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 7994081,
+    "location": {
+      "country": "IS",
+      "city": "Iceland Central",
+      "district": "Iceland Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 470",
+      "coordinates": {
+        "lat": 64.62308319473591,
+        "lng": -17.609463596839017
+      }
+    },
+    "specs": {
+      "netSize": 171,
+      "grossSize": 205,
+      "rooms": "2+2",
+      "bathrooms": 3,
+      "age": 5,
+      "floor": 6,
+      "totalFloors": 18,
+      "heating": "Klima",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500250595514?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500532242854?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500468557506?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500714664429?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500741732590?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500659038667?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500245601783?w=800&q=80&category=interior"
+    ],
+    "agent": {
+      "id": "A97",
+      "name": "Agent 62",
+      "phone": "+31 834 750 9575",
+      "email": "agent36@iwrealty.com",
+      "photo": "/images/icons/png/berlin-urban-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": false,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": true,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-04-03T10:50:47.222Z",
+    "updatedAt": "2025-11-13T10:50:47.222Z",
+    "storeId": "store-009"
+  },
+  {
+    "id": "P04196",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Müstakil Ev - New Iceland",
+    "slug": "kiralik-müstakil-ev-new-iceland-P04196",
+    "description": "New Iceland, Iceland bölgesinde müstakil ev. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 9449199,
+    "location": {
+      "country": "IS",
+      "city": "New Iceland",
+      "district": "New Iceland Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 742",
+      "coordinates": {
+        "lat": 65.47654497162607,
+        "lng": -18.15794083641153
+      }
+    },
+    "specs": {
+      "netSize": 320,
+      "grossSize": 384,
+      "rooms": "2+1",
+      "bathrooms": 1,
+      "age": 18,
+      "floor": 13,
+      "totalFloors": 8,
+      "heating": "Merkezi",
+      "furnishing": "Furnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500987232714?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500538585994?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500011209151?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500502758090?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500985864696?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500534036649?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500454396239?w=800&q=80&category=house"
+    ],
+    "agent": {
+      "id": "A45",
+      "name": "Agent 43",
+      "phone": "+14 954 141 8592",
+      "email": "agent37@iwrealty.com",
+      "photo": "/images/icons/png/sydney-coastal-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-10-26T10:50:47.222Z",
+    "updatedAt": "2025-11-13T10:50:47.222Z",
+    "storeId": "store-012"
+  },
+  {
+    "id": "P04197",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Müstakil Ev - Iceland Central",
+    "slug": "satilik-müstakil-ev-iceland-central-P04197",
+    "description": "Iceland Central, Iceland bölgesinde müstakil ev. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 7315565,
+    "location": {
+      "country": "IS",
+      "city": "Iceland Central",
+      "district": "Iceland Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 250",
+      "coordinates": {
+        "lat": 64.96902221494067,
+        "lng": -18.331616542103653
+      }
+    },
+    "specs": {
+      "netSize": 292,
+      "grossSize": 350,
+      "rooms": "3+2",
+      "bathrooms": 2,
+      "age": 12,
+      "floor": 9,
+      "totalFloors": 7,
+      "heating": "Kombi",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500106289149?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500446136715?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500702474545?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500488781205?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500005864554?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500958844415?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500087790075?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500474948900?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500541552513?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500883854575?w=800&q=80&category=building"
+    ],
+    "agent": {
+      "id": "A64",
+      "name": "Agent 12",
+      "phone": "+33 583 566 8690",
+      "email": "agent53@iwrealty.com",
+      "photo": "/images/icons/png/berlin-urban-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-09-09T10:50:47.222Z",
+    "updatedAt": "2025-11-13T10:50:47.222Z",
+    "storeId": "store-009"
+  },
+  {
+    "id": "P04198",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Daire - Reykjavik",
+    "slug": "kiralik-daire-reykjavik-P04198",
+    "description": "Reykjavik, Iceland bölgesinde daire. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 7027601,
+    "location": {
+      "country": "IS",
+      "city": "Reykjavik",
+      "district": "Reykjavik Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 111",
+      "coordinates": {
+        "lat": 64.87528634862295,
+        "lng": -18.07915508351511
+      }
+    },
+    "specs": {
+      "netSize": 86,
+      "grossSize": 103,
+      "rooms": "4+2",
+      "bathrooms": 4,
+      "age": 3,
+      "floor": 11,
+      "totalFloors": 14,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Unfurnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500074274860?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500001442468?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500160684017?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500442090487?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500907853819?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500830065777?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500548676269?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500695934800?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500960209706?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500313899678?w=800&q=80&category=interior"
+    ],
+    "agent": {
+      "id": "A97",
+      "name": "Agent 80",
+      "phone": "+50 829 657 8402",
+      "email": "agent47@iwrealty.com",
+      "photo": "/images/icons/png/paris-heritage-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-03-29T10:50:47.222Z",
+    "updatedAt": "2025-11-13T10:50:47.222Z",
+    "storeId": "store-010"
+  },
+  {
+    "id": "P04199",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Villa - Reykjavik",
+    "slug": "satilik-villa-reykjavik-P04199",
+    "description": "Reykjavik, Iceland bölgesinde villa. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 13000229,
+    "location": {
+      "country": "IS",
+      "city": "Reykjavik",
+      "district": "Reykjavik Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 474",
+      "coordinates": {
+        "lat": 64.51076271279332,
+        "lng": -18.074684188737912
+      }
+    },
+    "specs": {
+      "netSize": 480,
+      "grossSize": 576,
+      "rooms": "4+0",
+      "bathrooms": 2,
+      "age": 11,
+      "floor": 6,
+      "totalFloors": 13,
+      "heating": "Kombi",
+      "furnishing": "Furnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500902926550?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500104576178?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500703642850?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500979820110?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500253278542?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500464953258?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500471603472?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500233822752?w=800&q=80&category=interior"
+    ],
+    "agent": {
+      "id": "A20",
+      "name": "Agent 80",
+      "phone": "+58 854 269 5709",
+      "email": "agent52@iwrealty.com",
+      "photo": "/images/icons/png/luxury-homes-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": true,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-06-24T10:50:47.222Z",
+    "updatedAt": "2025-11-13T10:50:47.222Z",
+    "storeId": "store-002"
+  },
+  {
+    "id": "P04200",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Daire - Iceland City",
+    "slug": "kiralik-daire-iceland-city-P04200",
+    "description": "Iceland City, Iceland bölgesinde daire. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 8490558,
+    "location": {
+      "country": "IS",
+      "city": "Iceland City",
+      "district": "Iceland City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 717",
+      "coordinates": {
+        "lat": 65.4279691487039,
+        "lng": -18.328027510248116
+      }
+    },
+    "specs": {
+      "netSize": 100,
+      "grossSize": 120,
+      "rooms": "1+1",
+      "bathrooms": 4,
+      "age": 8,
+      "floor": 3,
+      "totalFloors": 14,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Unfurnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500594064048?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500487051211?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500151714379?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500725284232?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500373799303?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500072726234?w=800&q=80&category=building"
+    ],
+    "agent": {
+      "id": "A37",
+      "name": "Agent 27",
+      "phone": "+73 172 317 3152",
+      "email": "agent37@iwrealty.com",
+      "photo": "/images/icons/png/antalya-investment-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-02-27T10:50:47.222Z",
+    "updatedAt": "2025-11-13T10:50:47.222Z",
+    "storeId": "store-006"
+  },
+  {
+    "id": "P04201",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Müstakil Ev - New Iceland",
+    "slug": "satilik-müstakil-ev-new-iceland-P04201",
+    "description": "New Iceland, Iceland bölgesinde müstakil ev. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 10658603,
+    "location": {
+      "country": "IS",
+      "city": "New Iceland",
+      "district": "New Iceland Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 204",
+      "coordinates": {
+        "lat": 64.86249256841272,
+        "lng": -17.788527603127534
+      }
+    },
+    "specs": {
+      "netSize": 449,
+      "grossSize": 539,
+      "rooms": "2+0",
+      "bathrooms": 2,
+      "age": 16,
+      "floor": 5,
+      "totalFloors": 15,
+      "heating": "Klima",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500570444019?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500277804322?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500469553413?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500292467516?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500568273637?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500414327878?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500468352046?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500626102025?w=800&q=80&category=interior"
+    ],
+    "agent": {
+      "id": "A72",
+      "name": "Agent 70",
+      "phone": "+50 209 804 9072",
+      "email": "agent82@iwrealty.com",
+      "photo": "/images/icons/png/izmir-sahil-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2024-11-19T10:50:47.222Z",
+    "updatedAt": "2025-11-13T10:50:47.222Z",
+    "storeId": "store-005"
+  },
+  {
+    "id": "P04202",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Daire - New Iceland",
+    "slug": "kiralik-daire-new-iceland-P04202",
+    "description": "New Iceland, Iceland bölgesinde daire. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 14142014,
+    "location": {
+      "country": "IS",
+      "city": "New Iceland",
+      "district": "New Iceland Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 956",
+      "coordinates": {
+        "lat": 65.48714644908067,
+        "lng": -18.23266337195135
+      }
+    },
+    "specs": {
+      "netSize": 326,
+      "grossSize": 391,
+      "rooms": "1+2",
+      "bathrooms": 1,
+      "age": 20,
+      "floor": 11,
+      "totalFloors": 11,
+      "heating": "Kombi",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500257772950?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500338596947?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500014916725?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500503597766?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500817963924?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500988986545?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500360780657?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500328981220?w=800&q=80&category=building"
+    ],
+    "agent": {
+      "id": "A98",
+      "name": "Agent 54",
+      "phone": "+77 211 610 6701",
+      "email": "agent65@iwrealty.com",
+      "photo": "/images/icons/png/ny-skyline-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-05-24T10:50:47.222Z",
+    "updatedAt": "2025-11-13T10:50:47.222Z",
+    "storeId": "store-008"
+  },
+  {
+    "id": "P04203",
+    "type": "sale",
+    "category": {
+      "main": "commercial",
+      "sub": "hospital"
+    },
+    "title": "Satılık Hastane - Reykjavik",
+    "slug": "satilik-hastane-reykjavik-P04203",
+    "description": "Reykjavik, Iceland bölgesinde hastane. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 42124796,
+    "location": {
+      "country": "IS",
+      "city": "Reykjavik",
+      "district": "Reykjavik Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 278",
+      "coordinates": {
+        "lat": 65.22971645375839,
+        "lng": -17.874129807913846
+      }
+    },
+    "specs": {
+      "netSize": 13932,
+      "grossSize": 16718,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 10,
+      "floor": 4,
+      "totalFloors": 11,
+      "heating": "Klima",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500291211731?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500380569009?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500865879472?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500217449812?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500688062235?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500142953435?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500313665004?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500292009367?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500586868215?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500813785474?w=800&q=80&category=architecture"
+    ],
+    "agent": {
+      "id": "A52",
+      "name": "Agent 62",
+      "phone": "+42 498 817 5943",
+      "email": "agent13@iwrealty.com",
+      "photo": "/images/icons/png/antalya-investment-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-03-17T10:50:47.222Z",
+    "updatedAt": "2025-11-13T10:50:47.222Z",
+    "storeId": "store-006"
+  },
+  {
+    "id": "P04204",
+    "type": "rent",
+    "category": {
+      "main": "commercial",
+      "sub": "hospital"
+    },
+    "title": "Kiralık Hastane - Iceland City",
+    "slug": "kiralik-hastane-iceland-city-P04204",
+    "description": "Iceland City, Iceland bölgesinde hastane. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 11921330,
+    "location": {
+      "country": "IS",
+      "city": "Iceland City",
+      "district": "Iceland City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 567",
+      "coordinates": {
+        "lat": 64.7501320433985,
+        "lng": -17.776196708338617
+      }
+    },
+    "specs": {
+      "netSize": 18627,
+      "grossSize": 22352,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 1,
+      "floor": 13,
+      "totalFloors": 10,
+      "heating": "Kombi",
+      "furnishing": "Unfurnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500365897391?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500594643116?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500812646921?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500729451493?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500851999497?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500750206604?w=800&q=80&category=architecture"
+    ],
+    "agent": {
+      "id": "A80",
+      "name": "Agent 55",
+      "phone": "+36 684 946 8856",
+      "email": "agent48@iwrealty.com",
+      "photo": "/images/icons/png/ny-skyline-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-08-08T10:50:47.222Z",
+    "updatedAt": "2025-11-13T10:50:47.222Z",
+    "storeId": "store-008"
+  },
+  {
+    "id": "P04205",
+    "type": "sale",
+    "category": {
+      "main": "commercial",
+      "sub": "clinic"
+    },
+    "title": "Satılık Klinik - Iceland City",
+    "slug": "satilik-klinik-iceland-city-P04205",
+    "description": "Iceland City, Iceland bölgesinde klinik. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 8204246,
+    "location": {
+      "country": "IS",
+      "city": "Iceland City",
+      "district": "Iceland City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 628",
+      "coordinates": {
+        "lat": 65.29272173911842,
+        "lng": -17.96143230899019
+      }
+    },
+    "specs": {
+      "netSize": 1093,
+      "grossSize": 1312,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 2,
+      "floor": 9,
+      "totalFloors": 7,
+      "heating": "Merkezi",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500035072977?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500419852037?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500257778157?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500057157737?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500883283990?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500301458624?w=800&q=80&category=house"
+    ],
+    "agent": {
+      "id": "A89",
+      "name": "Agent 31",
+      "phone": "+49 584 879 7541",
+      "email": "agent73@iwrealty.com",
+      "photo": "/images/icons/png/london-prime-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": true,
+      "hasPool": true,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-03-23T10:50:47.222Z",
+    "updatedAt": "2025-11-13T10:50:47.222Z",
+    "storeId": "store-007"
+  },
+  {
+    "id": "P04206",
+    "type": "rent",
+    "category": {
+      "main": "commercial",
+      "sub": "clinic"
+    },
+    "title": "Kiralık Klinik - Reykjavik",
+    "slug": "kiralik-klinik-reykjavik-P04206",
+    "description": "Reykjavik, Iceland bölgesinde klinik. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 18306017,
+    "location": {
+      "country": "IS",
+      "city": "Reykjavik",
+      "district": "Reykjavik Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 847",
+      "coordinates": {
+        "lat": 64.93242006659544,
+        "lng": -18.3195819073236
+      }
+    },
+    "specs": {
+      "netSize": 1827,
+      "grossSize": 2192,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 19,
+      "floor": 9,
+      "totalFloors": 19,
+      "heating": "Merkezi",
+      "furnishing": "Furnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500501666720?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500909131137?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500419871773?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500601764621?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500136065397?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500000967150?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500694154690?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500642313315?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500720989572?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500378444966?w=800&q=80&category=interior"
+    ],
+    "agent": {
+      "id": "A34",
+      "name": "Agent 80",
+      "phone": "+31 174 642 4765",
+      "email": "agent56@iwrealty.com",
+      "photo": "/images/icons/png/luxury-homes-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-10-28T10:50:47.222Z",
+    "updatedAt": "2025-11-13T10:50:47.222Z",
+    "storeId": "store-002"
+  },
+  {
+    "id": "P04207",
+    "type": "sale",
+    "category": {
+      "main": "commercial",
+      "sub": "shop"
+    },
+    "title": "Satılık Dükkan - Iceland City",
+    "slug": "satilik-dükkan-iceland-city-P04207",
+    "description": "Iceland City, Iceland bölgesinde dükkan. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 4239976,
+    "location": {
+      "country": "IS",
+      "city": "Iceland City",
+      "district": "Iceland City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 487",
+      "coordinates": {
+        "lat": 64.6041998128056,
+        "lng": -17.843734539896662
+      }
+    },
+    "specs": {
+      "netSize": 55,
+      "grossSize": 66,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 7,
+      "floor": 8,
+      "totalFloors": 14,
+      "heating": "Klima",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500856280524?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500963970699?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500931812716?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500929810679?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500301173267?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500597398173?w=800&q=80&category=building"
+    ],
+    "agent": {
+      "id": "A42",
+      "name": "Agent 49",
+      "phone": "+50 607 239 6352",
+      "email": "agent87@iwrealty.com",
+      "photo": "/images/icons/png/antalya-investment-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": true,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-11-13T10:50:47.222Z",
+    "updatedAt": "2025-11-13T10:50:47.222Z",
+    "storeId": "store-006"
+  },
+  {
+    "id": "P04208",
+    "type": "rent",
+    "category": {
+      "main": "commercial",
+      "sub": "shop"
+    },
+    "title": "Kiralık Dükkan - Iceland Central",
+    "slug": "kiralik-dükkan-iceland-central-P04208",
+    "description": "Iceland Central, Iceland bölgesinde dükkan. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 5152273,
+    "location": {
+      "country": "IS",
+      "city": "Iceland Central",
+      "district": "Iceland Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 721",
+      "coordinates": {
+        "lat": 64.6252534259422,
+        "lng": -17.9036020161519
+      }
+    },
+    "specs": {
+      "netSize": 216,
+      "grossSize": 259,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 17,
+      "floor": 5,
+      "totalFloors": 8,
+      "heating": "Merkezi",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500948962383?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500137513071?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500684090090?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500438842423?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500548645327?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500857172042?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500820628030?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500864169600?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500777167881?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500760605201?w=800&q=80&category=architecture"
+    ],
+    "agent": {
+      "id": "A87",
+      "name": "Agent 82",
+      "phone": "+29 900 745 8060",
+      "email": "agent64@iwrealty.com",
+      "photo": "/images/icons/png/luxury-homes-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": false,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-09-06T10:50:47.222Z",
+    "updatedAt": "2025-11-13T10:50:47.222Z",
+    "storeId": "store-002"
+  },
+  {
+    "id": "P04209",
+    "type": "sale",
+    "category": {
+      "main": "commercial",
+      "sub": "office"
+    },
+    "title": "Satılık Ofis - Iceland Central",
+    "slug": "satilik-ofis-iceland-central-P04209",
+    "description": "Iceland Central, Iceland bölgesinde ofis. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 9714056,
+    "location": {
+      "country": "IS",
+      "city": "Iceland Central",
+      "district": "Iceland Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 744",
+      "coordinates": {
+        "lat": 65.23646486525378,
+        "lng": -18.03864122802542
+      }
+    },
+    "specs": {
+      "netSize": 241,
+      "grossSize": 289,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 9,
+      "floor": 14,
+      "totalFloors": 13,
+      "heating": "Kombi",
+      "furnishing": "Furnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500486322519?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500202898322?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500604572895?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500569395738?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500771420058?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500004252458?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500824813742?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500764364608?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500059794149?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500181630206?w=800&q=80&category=house"
+    ],
+    "agent": {
+      "id": "A23",
+      "name": "Agent 41",
+      "phone": "+67 621 362 1024",
+      "email": "agent21@iwrealty.com",
+      "photo": "/images/icons/png/luxury-homes-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-04-03T10:50:47.222Z",
+    "updatedAt": "2025-11-13T10:50:47.222Z",
+    "storeId": "store-002"
+  },
+  {
+    "id": "P04210",
+    "type": "rent",
+    "category": {
+      "main": "commercial",
+      "sub": "office"
+    },
+    "title": "Kiralık Ofis - Iceland Central",
+    "slug": "kiralik-ofis-iceland-central-P04210",
+    "description": "Iceland Central, Iceland bölgesinde ofis. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 8676606,
+    "location": {
+      "country": "IS",
+      "city": "Iceland Central",
+      "district": "Iceland Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 497",
+      "coordinates": {
+        "lat": 64.94173696749725,
+        "lng": -17.813622069643085
+      }
+    },
+    "specs": {
+      "netSize": 759,
+      "grossSize": 911,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 18,
+      "floor": 7,
+      "totalFloors": 15,
+      "heating": "Merkezi",
+      "furnishing": "Unfurnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500948840170?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500233054042?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500448512425?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500236975922?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500016740211?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500177184695?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500580237221?w=800&q=80&category=real-estate"
+    ],
+    "agent": {
+      "id": "A7",
+      "name": "Agent 91",
+      "phone": "+89 614 613 2096",
+      "email": "agent97@iwrealty.com",
+      "photo": "/images/icons/png/berlin-urban-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2024-11-19T10:50:47.222Z",
+    "updatedAt": "2025-11-13T10:50:47.222Z",
+    "storeId": "store-009"
+  },
+  {
+    "id": "P04211",
+    "type": "sale",
+    "category": {
+      "main": "commercial",
+      "sub": "mall"
+    },
+    "title": "Satılık AVM - Reykjavik",
+    "slug": "satilik-avm-reykjavik-P04211",
+    "description": "Reykjavik, Iceland bölgesinde avm. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 221452948,
+    "location": {
+      "country": "IS",
+      "city": "Reykjavik",
+      "district": "Reykjavik Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 168",
+      "coordinates": {
+        "lat": 65.44722149951616,
+        "lng": -18.23825919827838
+      }
+    },
+    "specs": {
+      "netSize": 18146,
+      "grossSize": 21775,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 17,
+      "floor": 15,
+      "totalFloors": 7,
+      "heating": "Merkezi",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500479232494?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500963225783?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500846482934?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500752293918?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500588820649?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500464345323?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500891188710?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500241903708?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500639118381?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500319257190?w=800&q=80&category=real-estate"
+    ],
+    "agent": {
+      "id": "A4",
+      "name": "Agent 75",
+      "phone": "+75 448 141 6937",
+      "email": "agent40@iwrealty.com",
+      "photo": "/images/icons/png/izmir-sahil-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-02-16T10:50:47.222Z",
+    "updatedAt": "2025-11-13T10:50:47.222Z",
+    "storeId": "store-005"
+  },
+  {
+    "id": "P04212",
+    "type": "rent",
+    "category": {
+      "main": "commercial",
+      "sub": "mall"
+    },
+    "title": "Kiralık AVM - Iceland Central",
+    "slug": "kiralik-avm-iceland-central-P04212",
+    "description": "Iceland Central, Iceland bölgesinde avm. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 403288911,
+    "location": {
+      "country": "IS",
+      "city": "Iceland Central",
+      "district": "Iceland Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 532",
+      "coordinates": {
+        "lat": 64.65783575495985,
+        "lng": -18.298931987325435
+      }
+    },
+    "specs": {
+      "netSize": 34227,
+      "grossSize": 41072,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 2,
+      "floor": 15,
+      "totalFloors": 8,
+      "heating": "Kombi",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500195298447?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500372211759?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500042529897?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500781902882?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500188639068?w=800&q=80&category=interior"
+    ],
+    "agent": {
+      "id": "A40",
+      "name": "Agent 22",
+      "phone": "+41 983 423 2476",
+      "email": "agent46@iwrealty.com",
+      "photo": "/images/icons/png/paris-heritage-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": false,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-09-08T10:50:47.222Z",
+    "updatedAt": "2025-11-13T10:50:47.222Z",
+    "storeId": "store-010"
+  },
+  {
+    "id": "P04213",
+    "type": "sale",
+    "category": {
+      "main": "commercial",
+      "sub": "hotel"
+    },
+    "title": "Satılık Otel - Iceland City",
+    "slug": "satilik-otel-iceland-city-P04213",
+    "description": "Iceland City, Iceland bölgesinde otel. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 38472121,
+    "location": {
+      "country": "IS",
+      "city": "Iceland City",
+      "district": "Iceland City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 313",
+      "coordinates": {
+        "lat": 64.921734105491,
+        "lng": -18.002649611648703
+      }
+    },
+    "specs": {
+      "netSize": 13855,
+      "grossSize": 16626,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 0,
+      "floor": 15,
+      "totalFloors": 11,
+      "heating": "Klima",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500220337469?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500254680293?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500014252589?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500596111269?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500721873595?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500328063133?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500078743699?w=800&q=80&category=interior"
+    ],
+    "agent": {
+      "id": "A91",
+      "name": "Agent 100",
+      "phone": "+56 188 686 9665",
+      "email": "agent14@iwrealty.com",
+      "photo": "/images/icons/png/antalya-investment-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": false,
+      "hasBalcony": false,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2024-11-18T10:50:47.222Z",
+    "updatedAt": "2025-11-13T10:50:47.222Z",
+    "storeId": "store-006"
+  },
+  {
+    "id": "P04214",
+    "type": "rent",
+    "category": {
+      "main": "commercial",
+      "sub": "hotel"
+    },
+    "title": "Kiralık Otel - Reykjavik",
+    "slug": "kiralik-otel-reykjavik-P04214",
+    "description": "Reykjavik, Iceland bölgesinde otel. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 60755114,
+    "location": {
+      "country": "IS",
+      "city": "Reykjavik",
+      "district": "Reykjavik Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 937",
+      "coordinates": {
+        "lat": 64.66350874727904,
+        "lng": -17.77263792845016
+      }
+    },
+    "specs": {
+      "netSize": 25912,
+      "grossSize": 31094,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 12,
+      "floor": 2,
+      "totalFloors": 10,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500868092357?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500275006193?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500982620589?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500272962696?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500777323589?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500357946896?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500369118900?w=800&q=80&category=house"
+    ],
+    "agent": {
+      "id": "A87",
+      "name": "Agent 10",
+      "phone": "+14 797 361 8412",
+      "email": "agent66@iwrealty.com",
+      "photo": "/images/icons/png/sydney-coastal-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": false,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": true,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-02-01T10:50:47.222Z",
+    "updatedAt": "2025-11-13T10:50:47.222Z",
+    "storeId": "store-012"
+  },
+  {
+    "id": "P04215",
+    "type": "sale",
+    "category": {
+      "main": "commercial",
+      "sub": "restaurant"
+    },
+    "title": "Satılık Restoran - Iceland Central",
+    "slug": "satilik-restoran-iceland-central-P04215",
+    "description": "Iceland Central, Iceland bölgesinde restoran. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 1685770,
+    "location": {
+      "country": "IS",
+      "city": "Iceland Central",
+      "district": "Iceland Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 607",
+      "coordinates": {
+        "lat": 65.0899658891649,
+        "lng": -18.204107308813953
+      }
+    },
+    "specs": {
+      "netSize": 273,
+      "grossSize": 328,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 19,
+      "floor": 12,
+      "totalFloors": 14,
+      "heating": "Kombi",
+      "furnishing": "Furnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500830117243?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500996107799?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500748393303?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500677432228?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500424774553?w=800&q=80&category=house"
+    ],
+    "agent": {
+      "id": "A30",
+      "name": "Agent 69",
+      "phone": "+76 677 726 6686",
+      "email": "agent84@iwrealty.com",
+      "photo": "/images/icons/png/sg-harbour-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": false,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": true,
+      "hasSecurity": false
+    },
+    "createdAt": "2024-12-18T10:50:47.222Z",
+    "updatedAt": "2025-11-13T10:50:47.222Z",
+    "storeId": "store-011"
+  },
+  {
+    "id": "P04216",
+    "type": "rent",
+    "category": {
+      "main": "commercial",
+      "sub": "restaurant"
+    },
+    "title": "Kiralık Restoran - Iceland City",
+    "slug": "kiralik-restoran-iceland-city-P04216",
+    "description": "Iceland City, Iceland bölgesinde restoran. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 3738161,
+    "location": {
+      "country": "IS",
+      "city": "Iceland City",
+      "district": "Iceland City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 937",
+      "coordinates": {
+        "lat": 65.36149865054368,
+        "lng": -17.814909028671618
+      }
+    },
+    "specs": {
+      "netSize": 1383,
+      "grossSize": 1660,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 2,
+      "floor": 5,
+      "totalFloors": 7,
+      "heating": "Klima",
+      "furnishing": "Furnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500899642437?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500295588354?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500034167193?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500889514631?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500946930492?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500300207101?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500598800832?w=800&q=80&category=house"
+    ],
+    "agent": {
+      "id": "A10",
+      "name": "Agent 61",
+      "phone": "+64 896 381 7440",
+      "email": "agent58@iwrealty.com",
+      "photo": "/images/icons/png/ankara-modern-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": false,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-04-09T10:50:47.222Z",
+    "updatedAt": "2025-11-13T10:50:47.222Z",
+    "storeId": "store-003"
+  },
+  {
+    "id": "P04217",
+    "type": "sale",
+    "category": {
+      "main": "commercial",
+      "sub": "warehouse"
+    },
+    "title": "Satılık Depo - New Iceland",
+    "slug": "satilik-depo-new-iceland-P04217",
+    "description": "New Iceland, Iceland bölgesinde depo. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 19452136,
+    "location": {
+      "country": "IS",
+      "city": "New Iceland",
+      "district": "New Iceland Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 325",
+      "coordinates": {
+        "lat": 64.63375507118748,
+        "lng": -17.771127821243162
+      }
+    },
+    "specs": {
+      "netSize": 4284,
+      "grossSize": 5141,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 7,
+      "floor": 3,
+      "totalFloors": 9,
+      "heating": "Merkezi",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500541398034?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500183346557?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500335082755?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500051448643?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500961609802?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500177074118?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500847763190?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500720743200?w=800&q=80&category=architecture"
+    ],
+    "agent": {
+      "id": "A37",
+      "name": "Agent 96",
+      "phone": "+98 172 777 1035",
+      "email": "agent21@iwrealty.com",
+      "photo": "/images/icons/png/izmir-sahil-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": true,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-08-08T10:50:47.222Z",
+    "updatedAt": "2025-11-13T10:50:47.222Z",
+    "storeId": "store-005"
+  },
+  {
+    "id": "P04218",
+    "type": "rent",
+    "category": {
+      "main": "commercial",
+      "sub": "warehouse"
+    },
+    "title": "Kiralık Depo - Reykjavik",
+    "slug": "kiralik-depo-reykjavik-P04218",
+    "description": "Reykjavik, Iceland bölgesinde depo. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 18123358,
+    "location": {
+      "country": "IS",
+      "city": "Reykjavik",
+      "district": "Reykjavik Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 967",
+      "coordinates": {
+        "lat": 64.99836679056239,
+        "lng": -18.38432643211741
+      }
+    },
+    "specs": {
+      "netSize": 3673,
+      "grossSize": 4408,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 6,
+      "floor": 13,
+      "totalFloors": 6,
+      "heating": "Klima",
+      "furnishing": "Furnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500930418075?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500582235557?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500097470803?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500459200518?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500882452313?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500447926935?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500282171701?w=800&q=80&category=architecture"
+    ],
+    "agent": {
+      "id": "A94",
+      "name": "Agent 50",
+      "phone": "+20 919 755 2646",
+      "email": "agent97@iwrealty.com",
+      "photo": "/images/icons/png/dubai-property-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": false,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-11-13T10:50:47.222Z",
+    "updatedAt": "2025-11-13T10:50:47.222Z",
+    "storeId": "store-004"
+  }
+]

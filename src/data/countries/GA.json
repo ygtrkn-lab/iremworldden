@@ -1,0 +1,2353 @@
+[
+  {
+    "id": "P03003",
+    "type": "sale",
+    "category": {
+      "main": "government"
+    },
+    "title": "Satılık Hastane - Gabon Central",
+    "slug": "satilik-hastane-gabon-central-P03003",
+    "description": "Gabon Central, Gabon bölgesinde hastane. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 44490993,
+    "location": {
+      "country": "GA",
+      "city": "Gabon Central",
+      "district": "Gabon Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 909",
+      "coordinates": {
+        "lat": -1.2157663542579826,
+        "lng": 11.878168092150016
+      }
+    },
+    "specs": {
+      "netSize": 677,
+      "grossSize": 812,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 13,
+      "floor": 5,
+      "totalFloors": 15,
+      "heating": "Klima",
+      "furnishing": "Furnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500212267976?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500006108688?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500118513967?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500024711324?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500502157249?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500673052733?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500106482900?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500837260936?w=800&q=80&category=building"
+    ],
+    "agent": {
+      "id": "A11",
+      "name": "Agent 1",
+      "phone": "+42 782 545 6996",
+      "email": "agent92@iwrealty.com",
+      "photo": "/images/icons/png/ny-skyline-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-04-01T10:50:47.209Z",
+    "updatedAt": "2025-11-13T10:50:47.209Z",
+    "storeId": "store-008"
+  },
+  {
+    "id": "P03004",
+    "type": "rent",
+    "category": {
+      "main": "government"
+    },
+    "title": "Kiralık Hastane - Gabon City",
+    "slug": "kiralik-hastane-gabon-city-P03004",
+    "description": "Gabon City, Gabon bölgesinde hastane. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 19490556,
+    "location": {
+      "country": "GA",
+      "city": "Gabon City",
+      "district": "Gabon City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 896",
+      "coordinates": {
+        "lat": -1.4910354419364766,
+        "lng": 12.075345237267864
+      }
+    },
+    "specs": {
+      "netSize": 2644,
+      "grossSize": 3173,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 9,
+      "floor": 4,
+      "totalFloors": 20,
+      "heating": "Klima",
+      "furnishing": "Unfurnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500448569449?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500184257707?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500964199167?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500687690084?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500860796526?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500391391906?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500574108536?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500141685626?w=800&q=80&category=house"
+    ],
+    "agent": {
+      "id": "A45",
+      "name": "Agent 19",
+      "phone": "+93 440 543 1580",
+      "email": "agent15@iwrealty.com",
+      "photo": "/images/icons/png/izmir-sahil-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": false,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-06-08T10:50:47.209Z",
+    "updatedAt": "2025-11-13T10:50:47.209Z",
+    "storeId": "store-005"
+  },
+  {
+    "id": "P03005",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Residence - Libreville",
+    "slug": "satilik-residence-libreville-P03005",
+    "description": "Libreville, Gabon bölgesinde residence. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 8241935,
+    "location": {
+      "country": "GA",
+      "city": "Libreville",
+      "district": "Libreville Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 207",
+      "coordinates": {
+        "lat": -1.2260494199592675,
+        "lng": 11.837198268627265
+      }
+    },
+    "specs": {
+      "netSize": 409,
+      "grossSize": 491,
+      "rooms": "3+2",
+      "bathrooms": 4,
+      "age": 2,
+      "floor": 13,
+      "totalFloors": 5,
+      "heating": "Kombi",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500711428620?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500585274492?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500550325445?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500588787104?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500753188922?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500155674704?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500956318689?w=800&q=80&category=real-estate"
+    ],
+    "agent": {
+      "id": "A69",
+      "name": "Agent 28",
+      "phone": "+77 886 985 8750",
+      "email": "agent63@iwrealty.com",
+      "photo": "/images/icons/png/dubai-property-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-07-09T10:50:47.209Z",
+    "updatedAt": "2025-11-13T10:50:47.209Z",
+    "storeId": "store-004"
+  },
+  {
+    "id": "P03006",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Müstakil Ev - New Gabon",
+    "slug": "kiralik-müstakil-ev-new-gabon-P03006",
+    "description": "New Gabon, Gabon bölgesinde müstakil ev. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 5648356,
+    "location": {
+      "country": "GA",
+      "city": "New Gabon",
+      "district": "New Gabon Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 563",
+      "coordinates": {
+        "lat": -1.3381796678395852,
+        "lng": 12.058811277531554
+      }
+    },
+    "specs": {
+      "netSize": 143,
+      "grossSize": 172,
+      "rooms": "3+1",
+      "bathrooms": 3,
+      "age": 2,
+      "floor": 4,
+      "totalFloors": 9,
+      "heating": "Merkezi",
+      "furnishing": "Furnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500626339264?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500759075973?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500011933066?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500904983771?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500077424854?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500540470582?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500162727048?w=800&q=80&category=architecture"
+    ],
+    "agent": {
+      "id": "A55",
+      "name": "Agent 68",
+      "phone": "+74 446 255 5287",
+      "email": "agent96@iwrealty.com",
+      "photo": "/images/icons/png/dubai-property-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": false,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-04-13T10:50:47.209Z",
+    "updatedAt": "2025-11-13T10:50:47.209Z",
+    "storeId": "store-004"
+  },
+  {
+    "id": "P03007",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Daire - Libreville",
+    "slug": "satilik-daire-libreville-P03007",
+    "description": "Libreville, Gabon bölgesinde daire. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 6552535,
+    "location": {
+      "country": "GA",
+      "city": "Libreville",
+      "district": "Libreville Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 874",
+      "coordinates": {
+        "lat": -1.0780741296437677,
+        "lng": 11.368612624597032
+      }
+    },
+    "specs": {
+      "netSize": 391,
+      "grossSize": 469,
+      "rooms": "3+1",
+      "bathrooms": 2,
+      "age": 12,
+      "floor": 1,
+      "totalFloors": 6,
+      "heating": "Merkezi",
+      "furnishing": "Unfurnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500853054241?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500912357543?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500299254026?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500310880423?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500070532512?w=800&q=80&category=interior"
+    ],
+    "agent": {
+      "id": "A54",
+      "name": "Agent 12",
+      "phone": "+39 358 432 3522",
+      "email": "agent3@iwrealty.com",
+      "photo": "/images/icons/png/izmir-sahil-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-05-12T10:50:47.209Z",
+    "updatedAt": "2025-11-13T10:50:47.209Z",
+    "storeId": "store-005"
+  },
+  {
+    "id": "P03008",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Daire - Gabon City",
+    "slug": "kiralik-daire-gabon-city-P03008",
+    "description": "Gabon City, Gabon bölgesinde daire. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 3909941,
+    "location": {
+      "country": "GA",
+      "city": "Gabon City",
+      "district": "Gabon City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 98",
+      "coordinates": {
+        "lat": -1.3746304782116707,
+        "lng": 11.557658399946815
+      }
+    },
+    "specs": {
+      "netSize": 438,
+      "grossSize": 526,
+      "rooms": "4+0",
+      "bathrooms": 1,
+      "age": 7,
+      "floor": 4,
+      "totalFloors": 14,
+      "heating": "Merkezi",
+      "furnishing": "Furnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500735040264?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500639342909?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500866629340?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500595184127?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500553431835?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500722031455?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500002480445?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500209371968?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500063362664?w=800&q=80&category=real-estate"
+    ],
+    "agent": {
+      "id": "A96",
+      "name": "Agent 97",
+      "phone": "+58 233 507 2095",
+      "email": "agent50@iwrealty.com",
+      "photo": "/images/icons/png/berlin-urban-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-10-31T10:50:47.209Z",
+    "updatedAt": "2025-11-13T10:50:47.209Z",
+    "storeId": "store-009"
+  },
+  {
+    "id": "P03009",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Villa - Gabon Central",
+    "slug": "satilik-villa-gabon-central-P03009",
+    "description": "Gabon Central, Gabon bölgesinde villa. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 9476927,
+    "location": {
+      "country": "GA",
+      "city": "Gabon Central",
+      "district": "Gabon Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 836",
+      "coordinates": {
+        "lat": -1.4982567312627695,
+        "lng": 12.02560266941851
+      }
+    },
+    "specs": {
+      "netSize": 91,
+      "grossSize": 109,
+      "rooms": "2+2",
+      "bathrooms": 4,
+      "age": 1,
+      "floor": 1,
+      "totalFloors": 17,
+      "heating": "Klima",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500736561829?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500444821932?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500643356667?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500795247556?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500691802720?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500310275870?w=800&q=80&category=building"
+    ],
+    "agent": {
+      "id": "A46",
+      "name": "Agent 65",
+      "phone": "+71 327 252 9882",
+      "email": "agent22@iwrealty.com",
+      "photo": "/images/icons/png/luxury-homes-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-07-16T10:50:47.209Z",
+    "updatedAt": "2025-11-13T10:50:47.209Z",
+    "storeId": "store-002"
+  },
+  {
+    "id": "P03010",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Villa - Gabon City",
+    "slug": "kiralik-villa-gabon-city-P03010",
+    "description": "Gabon City, Gabon bölgesinde villa. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 4182569,
+    "location": {
+      "country": "GA",
+      "city": "Gabon City",
+      "district": "Gabon City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 866",
+      "coordinates": {
+        "lat": -1.4412564565861532,
+        "lng": 12.199238686323035
+      }
+    },
+    "specs": {
+      "netSize": 397,
+      "grossSize": 476,
+      "rooms": "2+1",
+      "bathrooms": 3,
+      "age": 15,
+      "floor": 2,
+      "totalFloors": 16,
+      "heating": "Klima",
+      "furnishing": "Furnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500154827264?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500658591220?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500631213599?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500212996743?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500271887826?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500671335532?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500275158821?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500117087436?w=800&q=80&category=real-estate"
+    ],
+    "agent": {
+      "id": "A23",
+      "name": "Agent 52",
+      "phone": "+26 142 608 7150",
+      "email": "agent69@iwrealty.com",
+      "photo": "/images/icons/png/ankara-modern-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2024-11-21T10:50:47.209Z",
+    "updatedAt": "2025-11-13T10:50:47.209Z",
+    "storeId": "store-003"
+  },
+  {
+    "id": "P03011",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Residence - New Gabon",
+    "slug": "satilik-residence-new-gabon-P03011",
+    "description": "New Gabon, Gabon bölgesinde residence. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 8400645,
+    "location": {
+      "country": "GA",
+      "city": "New Gabon",
+      "district": "New Gabon Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 579",
+      "coordinates": {
+        "lat": -0.5192355079445812,
+        "lng": 11.785230621350344
+      }
+    },
+    "specs": {
+      "netSize": 365,
+      "grossSize": 438,
+      "rooms": "3+1",
+      "bathrooms": 4,
+      "age": 1,
+      "floor": 12,
+      "totalFloors": 6,
+      "heating": "Kombi",
+      "furnishing": "Furnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500272566979?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500753284312?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500495586333?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500232915134?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500372887317?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500112005914?w=800&q=80&category=interior"
+    ],
+    "agent": {
+      "id": "A89",
+      "name": "Agent 29",
+      "phone": "+66 943 325 5897",
+      "email": "agent60@iwrealty.com",
+      "photo": "/images/icons/png/luxury-homes-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": true,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-03-24T10:50:47.209Z",
+    "updatedAt": "2025-11-13T10:50:47.209Z",
+    "storeId": "store-002"
+  },
+  {
+    "id": "P03012",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Daire - Gabon Central",
+    "slug": "kiralik-daire-gabon-central-P03012",
+    "description": "Gabon Central, Gabon bölgesinde daire. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 12138477,
+    "location": {
+      "country": "GA",
+      "city": "Gabon Central",
+      "district": "Gabon Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 972",
+      "coordinates": {
+        "lat": -1.394623055219343,
+        "lng": 12.229725222335116
+      }
+    },
+    "specs": {
+      "netSize": 169,
+      "grossSize": 203,
+      "rooms": "3+0",
+      "bathrooms": 3,
+      "age": 9,
+      "floor": 9,
+      "totalFloors": 12,
+      "heating": "Kombi",
+      "furnishing": "Unfurnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500316452753?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500049609578?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500364531359?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500754331211?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500765023777?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500309423791?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500088444244?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500740066429?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500958671488?w=800&q=80&category=house"
+    ],
+    "agent": {
+      "id": "A22",
+      "name": "Agent 31",
+      "phone": "+73 313 559 5411",
+      "email": "agent98@iwrealty.com",
+      "photo": "/images/icons/png/luxury-homes-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-06-26T10:50:47.209Z",
+    "updatedAt": "2025-11-13T10:50:47.209Z",
+    "storeId": "store-002"
+  },
+  {
+    "id": "P03013",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Villa - Gabon Central",
+    "slug": "satilik-villa-gabon-central-P03013",
+    "description": "Gabon Central, Gabon bölgesinde villa. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 1191880,
+    "location": {
+      "country": "GA",
+      "city": "Gabon Central",
+      "district": "Gabon Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 168",
+      "coordinates": {
+        "lat": -1.396588270118614,
+        "lng": 12.185022542959265
+      }
+    },
+    "specs": {
+      "netSize": 238,
+      "grossSize": 286,
+      "rooms": "5+1",
+      "bathrooms": 1,
+      "age": 13,
+      "floor": 3,
+      "totalFloors": 11,
+      "heating": "Merkezi",
+      "furnishing": "Unfurnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500261202345?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500794646532?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500255117025?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500519967051?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500103182777?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500524895074?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500610864608?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500086166451?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500507702872?w=800&q=80&category=architecture"
+    ],
+    "agent": {
+      "id": "A83",
+      "name": "Agent 41",
+      "phone": "+55 898 169 1896",
+      "email": "agent78@iwrealty.com",
+      "photo": "/images/icons/png/sydney-coastal-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-03-08T10:50:47.209Z",
+    "updatedAt": "2025-11-13T10:50:47.209Z",
+    "storeId": "store-012"
+  },
+  {
+    "id": "P03014",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Residence - Gabon Central",
+    "slug": "kiralik-residence-gabon-central-P03014",
+    "description": "Gabon Central, Gabon bölgesinde residence. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 1173966,
+    "location": {
+      "country": "GA",
+      "city": "Gabon Central",
+      "district": "Gabon Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 371",
+      "coordinates": {
+        "lat": -1.2471344779054054,
+        "lng": 11.889636288190378
+      }
+    },
+    "specs": {
+      "netSize": 485,
+      "grossSize": 582,
+      "rooms": "5+1",
+      "bathrooms": 2,
+      "age": 12,
+      "floor": 15,
+      "totalFloors": 19,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500296966232?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500778699832?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500386046143?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500487865550?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500328752202?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500694256306?w=800&q=80&category=architecture"
+    ],
+    "agent": {
+      "id": "A37",
+      "name": "Agent 35",
+      "phone": "+20 693 970 8235",
+      "email": "agent28@iwrealty.com",
+      "photo": "/images/icons/png/london-prime-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": false,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-11-05T10:50:47.209Z",
+    "updatedAt": "2025-11-13T10:50:47.209Z",
+    "storeId": "store-007"
+  },
+  {
+    "id": "P03015",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Daire - Libreville",
+    "slug": "satilik-daire-libreville-P03015",
+    "description": "Libreville, Gabon bölgesinde daire. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 9766562,
+    "location": {
+      "country": "GA",
+      "city": "Libreville",
+      "district": "Libreville Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 88",
+      "coordinates": {
+        "lat": -0.5958467593647561,
+        "lng": 11.623592961443592
+      }
+    },
+    "specs": {
+      "netSize": 236,
+      "grossSize": 283,
+      "rooms": "3+2",
+      "bathrooms": 2,
+      "age": 20,
+      "floor": 13,
+      "totalFloors": 13,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Unfurnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500497393678?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500670997303?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500227407732?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500184373174?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500965660072?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500853653219?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500785812586?w=800&q=80&category=real-estate"
+    ],
+    "agent": {
+      "id": "A38",
+      "name": "Agent 97",
+      "phone": "+34 258 595 3696",
+      "email": "agent17@iwrealty.com",
+      "photo": "/images/icons/png/ny-skyline-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-02-05T10:50:47.209Z",
+    "updatedAt": "2025-11-13T10:50:47.209Z",
+    "storeId": "store-008"
+  },
+  {
+    "id": "P03016",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Residence - Gabon Central",
+    "slug": "kiralik-residence-gabon-central-P03016",
+    "description": "Gabon Central, Gabon bölgesinde residence. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 2625112,
+    "location": {
+      "country": "GA",
+      "city": "Gabon Central",
+      "district": "Gabon Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 218",
+      "coordinates": {
+        "lat": -1.3430435387815063,
+        "lng": 11.748299883675552
+      }
+    },
+    "specs": {
+      "netSize": 165,
+      "grossSize": 198,
+      "rooms": "4+0",
+      "bathrooms": 3,
+      "age": 15,
+      "floor": 11,
+      "totalFloors": 5,
+      "heating": "Merkezi",
+      "furnishing": "Furnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500428173974?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500981620563?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500177134645?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500049220936?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500562989338?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500450623997?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500776995324?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500940265024?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500795732911?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500776207991?w=800&q=80&category=house"
+    ],
+    "agent": {
+      "id": "A44",
+      "name": "Agent 33",
+      "phone": "+55 615 398 9659",
+      "email": "agent43@iwrealty.com",
+      "photo": "/images/icons/png/dubai-property-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": true,
+      "hasPool": true,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-06-29T10:50:47.209Z",
+    "updatedAt": "2025-11-13T10:50:47.209Z",
+    "storeId": "store-004"
+  },
+  {
+    "id": "P03017",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Villa - New Gabon",
+    "slug": "satilik-villa-new-gabon-P03017",
+    "description": "New Gabon, Gabon bölgesinde villa. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 14122840,
+    "location": {
+      "country": "GA",
+      "city": "New Gabon",
+      "district": "New Gabon Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 608",
+      "coordinates": {
+        "lat": -0.6963083700055591,
+        "lng": 11.512298313355236
+      }
+    },
+    "specs": {
+      "netSize": 166,
+      "grossSize": 199,
+      "rooms": "3+2",
+      "bathrooms": 3,
+      "age": 16,
+      "floor": 6,
+      "totalFloors": 17,
+      "heating": "Kombi",
+      "furnishing": "Unfurnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500212629726?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500738537050?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500864861282?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500043333411?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500661173883?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500785150809?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500727371042?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500082989372?w=800&q=80&category=house"
+    ],
+    "agent": {
+      "id": "A54",
+      "name": "Agent 11",
+      "phone": "+58 623 194 3400",
+      "email": "agent23@iwrealty.com",
+      "photo": "/images/icons/png/luxury-homes-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": true,
+      "hasPool": true,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-08-31T10:50:47.209Z",
+    "updatedAt": "2025-11-13T10:50:47.209Z",
+    "storeId": "store-002"
+  },
+  {
+    "id": "P03018",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Müstakil Ev - Libreville",
+    "slug": "kiralik-müstakil-ev-libreville-P03018",
+    "description": "Libreville, Gabon bölgesinde müstakil ev. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 12284471,
+    "location": {
+      "country": "GA",
+      "city": "Libreville",
+      "district": "Libreville Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 768",
+      "coordinates": {
+        "lat": -1.4688598452147184,
+        "lng": 12.147208895801743
+      }
+    },
+    "specs": {
+      "netSize": 229,
+      "grossSize": 275,
+      "rooms": "5+1",
+      "bathrooms": 4,
+      "age": 1,
+      "floor": 11,
+      "totalFloors": 18,
+      "heating": "Klima",
+      "furnishing": "Furnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500098771348?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500360457630?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500921125266?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500886187567?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500525478877?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500147498076?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500504887976?w=800&q=80&category=house"
+    ],
+    "agent": {
+      "id": "A13",
+      "name": "Agent 5",
+      "phone": "+50 817 816 8797",
+      "email": "agent8@iwrealty.com",
+      "photo": "/images/icons/png/izmir-sahil-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2024-12-15T10:50:47.209Z",
+    "updatedAt": "2025-11-13T10:50:47.209Z",
+    "storeId": "store-005"
+  },
+  {
+    "id": "P03019",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Villa - Gabon Central",
+    "slug": "satilik-villa-gabon-central-P03019",
+    "description": "Gabon Central, Gabon bölgesinde villa. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 3583605,
+    "location": {
+      "country": "GA",
+      "city": "Gabon Central",
+      "district": "Gabon Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 630",
+      "coordinates": {
+        "lat": -1.342301341589983,
+        "lng": 11.768262450064666
+      }
+    },
+    "specs": {
+      "netSize": 139,
+      "grossSize": 167,
+      "rooms": "4+0",
+      "bathrooms": 2,
+      "age": 14,
+      "floor": 14,
+      "totalFloors": 5,
+      "heating": "Merkezi",
+      "furnishing": "Furnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500445694517?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500011260520?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500221556906?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500794453974?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500059970265?w=800&q=80&category=interior"
+    ],
+    "agent": {
+      "id": "A74",
+      "name": "Agent 6",
+      "phone": "+26 181 426 2226",
+      "email": "agent97@iwrealty.com",
+      "photo": "/images/icons/png/london-prime-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": false,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-08-24T10:50:47.209Z",
+    "updatedAt": "2025-11-13T10:50:47.209Z",
+    "storeId": "store-007"
+  },
+  {
+    "id": "P03020",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Residence - New Gabon",
+    "slug": "kiralik-residence-new-gabon-P03020",
+    "description": "New Gabon, Gabon bölgesinde residence. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 11392911,
+    "location": {
+      "country": "GA",
+      "city": "New Gabon",
+      "district": "New Gabon Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 605",
+      "coordinates": {
+        "lat": -0.5637005159114972,
+        "lng": 11.868038658901822
+      }
+    },
+    "specs": {
+      "netSize": 277,
+      "grossSize": 332,
+      "rooms": "1+0",
+      "bathrooms": 3,
+      "age": 3,
+      "floor": 11,
+      "totalFloors": 6,
+      "heating": "Klima",
+      "furnishing": "Furnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500023696850?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500035519855?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500064291773?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500864897344?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500205223580?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500883386790?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500007442168?w=800&q=80&category=building"
+    ],
+    "agent": {
+      "id": "A11",
+      "name": "Agent 32",
+      "phone": "+84 332 879 3269",
+      "email": "agent45@iwrealty.com",
+      "photo": "/images/icons/png/paris-heritage-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": true,
+      "hasPool": true,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-02-11T10:50:47.209Z",
+    "updatedAt": "2025-11-13T10:50:47.209Z",
+    "storeId": "store-010"
+  },
+  {
+    "id": "P03021",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Müstakil Ev - Libreville",
+    "slug": "satilik-müstakil-ev-libreville-P03021",
+    "description": "Libreville, Gabon bölgesinde müstakil ev. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 10482950,
+    "location": {
+      "country": "GA",
+      "city": "Libreville",
+      "district": "Libreville Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 34",
+      "coordinates": {
+        "lat": -0.7727541183600115,
+        "lng": 12.226508360053975
+      }
+    },
+    "specs": {
+      "netSize": 324,
+      "grossSize": 389,
+      "rooms": "3+0",
+      "bathrooms": 1,
+      "age": 3,
+      "floor": 8,
+      "totalFloors": 12,
+      "heating": "Kombi",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500998929245?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500818674149?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500541852577?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500730320528?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500652937003?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500569968857?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500198820394?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500641039881?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500419294903?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500761189014?w=800&q=80&category=house"
+    ],
+    "agent": {
+      "id": "A59",
+      "name": "Agent 52",
+      "phone": "+73 705 657 2388",
+      "email": "agent31@iwrealty.com",
+      "photo": "/images/icons/png/dubai-property-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": true,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-03-12T10:50:47.209Z",
+    "updatedAt": "2025-11-13T10:50:47.209Z",
+    "storeId": "store-004"
+  },
+  {
+    "id": "P03022",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Residence - New Gabon",
+    "slug": "kiralik-residence-new-gabon-P03022",
+    "description": "New Gabon, Gabon bölgesinde residence. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 12756898,
+    "location": {
+      "country": "GA",
+      "city": "New Gabon",
+      "district": "New Gabon Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 257",
+      "coordinates": {
+        "lat": -0.7900552782855711,
+        "lng": 11.932469314921331
+      }
+    },
+    "specs": {
+      "netSize": 325,
+      "grossSize": 390,
+      "rooms": "4+1",
+      "bathrooms": 3,
+      "age": 6,
+      "floor": 3,
+      "totalFloors": 12,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Furnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500548785582?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500087763835?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500222812554?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500061308344?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500653603933?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500756381339?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500810998800?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500592031638?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500116666139?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500603695169?w=800&q=80&category=architecture"
+    ],
+    "agent": {
+      "id": "A16",
+      "name": "Agent 52",
+      "phone": "+61 656 220 8234",
+      "email": "agent79@iwrealty.com",
+      "photo": "/images/icons/png/ny-skyline-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-02-24T10:50:47.209Z",
+    "updatedAt": "2025-11-13T10:50:47.209Z",
+    "storeId": "store-008"
+  },
+  {
+    "id": "P03023",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Müstakil Ev - Gabon Central",
+    "slug": "satilik-müstakil-ev-gabon-central-P03023",
+    "description": "Gabon Central, Gabon bölgesinde müstakil ev. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 848128,
+    "location": {
+      "country": "GA",
+      "city": "Gabon Central",
+      "district": "Gabon Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 786",
+      "coordinates": {
+        "lat": -1.095356122954942,
+        "lng": 11.89437574143676
+      }
+    },
+    "specs": {
+      "netSize": 390,
+      "grossSize": 468,
+      "rooms": "3+1",
+      "bathrooms": 4,
+      "age": 0,
+      "floor": 4,
+      "totalFloors": 12,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500600640299?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500599348448?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500768720793?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500114318747?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500701449411?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500691317468?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500108845038?w=800&q=80&category=house"
+    ],
+    "agent": {
+      "id": "A92",
+      "name": "Agent 52",
+      "phone": "+79 877 366 5046",
+      "email": "agent71@iwrealty.com",
+      "photo": "/images/icons/png/sydney-coastal-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": true,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-05-14T10:50:47.209Z",
+    "updatedAt": "2025-11-13T10:50:47.209Z",
+    "storeId": "store-012"
+  },
+  {
+    "id": "P03024",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Daire - Libreville",
+    "slug": "kiralik-daire-libreville-P03024",
+    "description": "Libreville, Gabon bölgesinde daire. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 3719951,
+    "location": {
+      "country": "GA",
+      "city": "Libreville",
+      "district": "Libreville Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 840",
+      "coordinates": {
+        "lat": -0.5529568222529522,
+        "lng": 11.609218787877664
+      }
+    },
+    "specs": {
+      "netSize": 159,
+      "grossSize": 191,
+      "rooms": "4+1",
+      "bathrooms": 2,
+      "age": 11,
+      "floor": 4,
+      "totalFloors": 7,
+      "heating": "Kombi",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500910887077?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500106994586?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500597659372?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500375013161?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500039362105?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500278480276?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500825435373?w=800&q=80&category=real-estate"
+    ],
+    "agent": {
+      "id": "A75",
+      "name": "Agent 48",
+      "phone": "+89 675 861 1811",
+      "email": "agent66@iwrealty.com",
+      "photo": "/images/icons/png/ankara-modern-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2024-12-30T10:50:47.209Z",
+    "updatedAt": "2025-11-13T10:50:47.209Z",
+    "storeId": "store-003"
+  },
+  {
+    "id": "P03025",
+    "type": "sale",
+    "category": {
+      "main": "commercial",
+      "sub": "hospital"
+    },
+    "title": "Satılık Hastane - Libreville",
+    "slug": "satilik-hastane-libreville-P03025",
+    "description": "Libreville, Gabon bölgesinde hastane. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 82435974,
+    "location": {
+      "country": "GA",
+      "city": "Libreville",
+      "district": "Libreville Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 442",
+      "coordinates": {
+        "lat": -1.270049761948108,
+        "lng": 11.281377873419231
+      }
+    },
+    "specs": {
+      "netSize": 13023,
+      "grossSize": 15628,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 20,
+      "floor": 9,
+      "totalFloors": 13,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Unfurnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500612810364?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500187357973?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500055806344?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500370381077?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500542582318?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500080769753?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500638454995?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500743706992?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500702173106?w=800&q=80&category=building"
+    ],
+    "agent": {
+      "id": "A23",
+      "name": "Agent 9",
+      "phone": "+37 150 896 2073",
+      "email": "agent3@iwrealty.com",
+      "photo": "/images/icons/png/ny-skyline-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": false,
+      "hasBalcony": false,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-07-17T10:50:47.209Z",
+    "updatedAt": "2025-11-13T10:50:47.209Z",
+    "storeId": "store-008"
+  },
+  {
+    "id": "P03026",
+    "type": "rent",
+    "category": {
+      "main": "commercial",
+      "sub": "hospital"
+    },
+    "title": "Kiralık Hastane - New Gabon",
+    "slug": "kiralik-hastane-new-gabon-P03026",
+    "description": "New Gabon, Gabon bölgesinde hastane. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 12372831,
+    "location": {
+      "country": "GA",
+      "city": "New Gabon",
+      "district": "New Gabon Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 655",
+      "coordinates": {
+        "lat": -0.9473977361425793,
+        "lng": 12.135780945897423
+      }
+    },
+    "specs": {
+      "netSize": 7534,
+      "grossSize": 9041,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 17,
+      "floor": 11,
+      "totalFloors": 12,
+      "heating": "Merkezi",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500147708843?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500972473556?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500251716403?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500163097044?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500489557286?w=800&q=80&category=real-estate"
+    ],
+    "agent": {
+      "id": "A31",
+      "name": "Agent 27",
+      "phone": "+85 169 648 2930",
+      "email": "agent81@iwrealty.com",
+      "photo": "/images/icons/png/paris-heritage-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-05-27T10:50:47.209Z",
+    "updatedAt": "2025-11-13T10:50:47.209Z",
+    "storeId": "store-010"
+  },
+  {
+    "id": "P03027",
+    "type": "sale",
+    "category": {
+      "main": "commercial",
+      "sub": "clinic"
+    },
+    "title": "Satılık Klinik - Gabon City",
+    "slug": "satilik-klinik-gabon-city-P03027",
+    "description": "Gabon City, Gabon bölgesinde klinik. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 14056175,
+    "location": {
+      "country": "GA",
+      "city": "Gabon City",
+      "district": "Gabon City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 849",
+      "coordinates": {
+        "lat": -1.43916041163734,
+        "lng": 12.073516255503774
+      }
+    },
+    "specs": {
+      "netSize": 1675,
+      "grossSize": 2010,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 11,
+      "floor": 14,
+      "totalFloors": 20,
+      "heating": "Kombi",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500803495300?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500580568272?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500316018475?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500139689483?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500729478900?w=800&q=80&category=real-estate"
+    ],
+    "agent": {
+      "id": "A3",
+      "name": "Agent 90",
+      "phone": "+22 973 354 1207",
+      "email": "agent77@iwrealty.com",
+      "photo": "/images/icons/png/antalya-investment-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": false,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-03-20T10:50:47.209Z",
+    "updatedAt": "2025-11-13T10:50:47.209Z",
+    "storeId": "store-006"
+  },
+  {
+    "id": "P03028",
+    "type": "rent",
+    "category": {
+      "main": "commercial",
+      "sub": "clinic"
+    },
+    "title": "Kiralık Klinik - Libreville",
+    "slug": "kiralik-klinik-libreville-P03028",
+    "description": "Libreville, Gabon bölgesinde klinik. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 14945575,
+    "location": {
+      "country": "GA",
+      "city": "Libreville",
+      "district": "Libreville Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 972",
+      "coordinates": {
+        "lat": -1.0731179747730253,
+        "lng": 11.751012176543618
+      }
+    },
+    "specs": {
+      "netSize": 520,
+      "grossSize": 624,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 11,
+      "floor": 8,
+      "totalFloors": 10,
+      "heating": "Kombi",
+      "furnishing": "Unfurnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500063200959?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500060040012?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500384858406?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500942785477?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500396948247?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500057535551?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500535667729?w=800&q=80&category=building"
+    ],
+    "agent": {
+      "id": "A74",
+      "name": "Agent 67",
+      "phone": "+46 608 823 1181",
+      "email": "agent94@iwrealty.com",
+      "photo": "/images/icons/png/sg-harbour-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": true,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-09-20T10:50:47.209Z",
+    "updatedAt": "2025-11-13T10:50:47.209Z",
+    "storeId": "store-011"
+  },
+  {
+    "id": "P03029",
+    "type": "sale",
+    "category": {
+      "main": "commercial",
+      "sub": "shop"
+    },
+    "title": "Satılık Dükkan - New Gabon",
+    "slug": "satilik-dükkan-new-gabon-P03029",
+    "description": "New Gabon, Gabon bölgesinde dükkan. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 5124766,
+    "location": {
+      "country": "GA",
+      "city": "New Gabon",
+      "district": "New Gabon Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 165",
+      "coordinates": {
+        "lat": -1.2304281441430804,
+        "lng": 11.686759154490671
+      }
+    },
+    "specs": {
+      "netSize": 269,
+      "grossSize": 323,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 0,
+      "floor": 10,
+      "totalFloors": 14,
+      "heating": "Kombi",
+      "furnishing": "Unfurnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500458246292?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500772359034?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500536345638?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500847558391?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500915043669?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500473847407?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500375677406?w=800&q=80&category=interior"
+    ],
+    "agent": {
+      "id": "A24",
+      "name": "Agent 10",
+      "phone": "+72 746 667 1971",
+      "email": "agent8@iwrealty.com",
+      "photo": "/images/icons/png/berlin-urban-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": false,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": true,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-03-26T10:50:47.209Z",
+    "updatedAt": "2025-11-13T10:50:47.209Z",
+    "storeId": "store-009"
+  },
+  {
+    "id": "P03030",
+    "type": "rent",
+    "category": {
+      "main": "commercial",
+      "sub": "shop"
+    },
+    "title": "Kiralık Dükkan - New Gabon",
+    "slug": "kiralik-dükkan-new-gabon-P03030",
+    "description": "New Gabon, Gabon bölgesinde dükkan. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 6097629,
+    "location": {
+      "country": "GA",
+      "city": "New Gabon",
+      "district": "New Gabon Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 944",
+      "coordinates": {
+        "lat": -0.5281059856954745,
+        "lng": 11.676856781510105
+      }
+    },
+    "specs": {
+      "netSize": 338,
+      "grossSize": 406,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 19,
+      "floor": 11,
+      "totalFloors": 7,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Unfurnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500170950175?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500379000967?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500382498057?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500136374999?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500927427334?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500136677273?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500579647072?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500875856577?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500701972361?w=800&q=80&category=architecture"
+    ],
+    "agent": {
+      "id": "A82",
+      "name": "Agent 28",
+      "phone": "+73 696 557 9226",
+      "email": "agent53@iwrealty.com",
+      "photo": "/images/icons/png/dubai-property-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-09-11T10:50:47.209Z",
+    "updatedAt": "2025-11-13T10:50:47.209Z",
+    "storeId": "store-004"
+  },
+  {
+    "id": "P03031",
+    "type": "sale",
+    "category": {
+      "main": "commercial",
+      "sub": "office"
+    },
+    "title": "Satılık Ofis - Gabon City",
+    "slug": "satilik-ofis-gabon-city-P03031",
+    "description": "Gabon City, Gabon bölgesinde ofis. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 3772307,
+    "location": {
+      "country": "GA",
+      "city": "Gabon City",
+      "district": "Gabon City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 576",
+      "coordinates": {
+        "lat": -0.7579306688147605,
+        "lng": 11.637684696497464
+      }
+    },
+    "specs": {
+      "netSize": 256,
+      "grossSize": 307,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 4,
+      "floor": 3,
+      "totalFloors": 9,
+      "heating": "Klima",
+      "furnishing": "Furnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500936226512?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500472591337?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500047215568?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500893282134?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500524610701?w=800&q=80&category=building"
+    ],
+    "agent": {
+      "id": "A10",
+      "name": "Agent 17",
+      "phone": "+30 886 274 7936",
+      "email": "agent48@iwrealty.com",
+      "photo": "/images/icons/png/london-prime-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-03-16T10:50:47.209Z",
+    "updatedAt": "2025-11-13T10:50:47.209Z",
+    "storeId": "store-007"
+  },
+  {
+    "id": "P03032",
+    "type": "rent",
+    "category": {
+      "main": "commercial",
+      "sub": "office"
+    },
+    "title": "Kiralık Ofis - Gabon Central",
+    "slug": "kiralik-ofis-gabon-central-P03032",
+    "description": "Gabon Central, Gabon bölgesinde ofis. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 7287475,
+    "location": {
+      "country": "GA",
+      "city": "Gabon Central",
+      "district": "Gabon Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 53",
+      "coordinates": {
+        "lat": -0.8769371789352892,
+        "lng": 11.715967279450469
+      }
+    },
+    "specs": {
+      "netSize": 275,
+      "grossSize": 330,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 16,
+      "floor": 8,
+      "totalFloors": 19,
+      "heating": "Kombi",
+      "furnishing": "Furnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500035908214?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500410312781?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500046290580?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500135855848?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500296035526?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500743652418?w=800&q=80&category=house"
+    ],
+    "agent": {
+      "id": "A93",
+      "name": "Agent 82",
+      "phone": "+88 643 206 7951",
+      "email": "agent31@iwrealty.com",
+      "photo": "/images/icons/png/luxury-homes-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": false,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-09-10T10:50:47.209Z",
+    "updatedAt": "2025-11-13T10:50:47.209Z",
+    "storeId": "store-002"
+  },
+  {
+    "id": "P03033",
+    "type": "sale",
+    "category": {
+      "main": "commercial",
+      "sub": "mall"
+    },
+    "title": "Satılık AVM - New Gabon",
+    "slug": "satilik-avm-new-gabon-P03033",
+    "description": "New Gabon, Gabon bölgesinde avm. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 113025781,
+    "location": {
+      "country": "GA",
+      "city": "New Gabon",
+      "district": "New Gabon Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 35",
+      "coordinates": {
+        "lat": -0.8291759810056963,
+        "lng": 11.95067765376875
+      }
+    },
+    "specs": {
+      "netSize": 13981,
+      "grossSize": 16777,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 7,
+      "floor": 7,
+      "totalFloors": 17,
+      "heating": "Klima",
+      "furnishing": "Furnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500330625246?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500646458631?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500288917063?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500826326079?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500072244457?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500838008875?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500064357095?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500046133324?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500778140430?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500452810991?w=800&q=80&category=real-estate"
+    ],
+    "agent": {
+      "id": "A50",
+      "name": "Agent 50",
+      "phone": "+41 218 183 4908",
+      "email": "agent44@iwrealty.com",
+      "photo": "/images/icons/png/ny-skyline-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": false,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-07-16T10:50:47.209Z",
+    "updatedAt": "2025-11-13T10:50:47.209Z",
+    "storeId": "store-008"
+  },
+  {
+    "id": "P03034",
+    "type": "rent",
+    "category": {
+      "main": "commercial",
+      "sub": "mall"
+    },
+    "title": "Kiralık AVM - Gabon City",
+    "slug": "kiralik-avm-gabon-city-P03034",
+    "description": "Gabon City, Gabon bölgesinde avm. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 338409764,
+    "location": {
+      "country": "GA",
+      "city": "Gabon City",
+      "district": "Gabon City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 242",
+      "coordinates": {
+        "lat": -1.4254081506990701,
+        "lng": 11.53562177981387
+      }
+    },
+    "specs": {
+      "netSize": 27445,
+      "grossSize": 32934,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 4,
+      "floor": 9,
+      "totalFloors": 15,
+      "heating": "Klima",
+      "furnishing": "Unfurnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500143960656?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500402712928?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500868574054?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500778774243?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500185027276?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500658851958?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500624059268?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500600569982?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500603061105?w=800&q=80&category=house"
+    ],
+    "agent": {
+      "id": "A62",
+      "name": "Agent 66",
+      "phone": "+47 638 126 6128",
+      "email": "agent36@iwrealty.com",
+      "photo": "/images/icons/png/ankara-modern-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-05-21T10:50:47.209Z",
+    "updatedAt": "2025-11-13T10:50:47.209Z",
+    "storeId": "store-003"
+  },
+  {
+    "id": "P03035",
+    "type": "sale",
+    "category": {
+      "main": "commercial",
+      "sub": "hotel"
+    },
+    "title": "Satılık Otel - Gabon Central",
+    "slug": "satilik-otel-gabon-central-P03035",
+    "description": "Gabon Central, Gabon bölgesinde otel. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 99309462,
+    "location": {
+      "country": "GA",
+      "city": "Gabon Central",
+      "district": "Gabon Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 736",
+      "coordinates": {
+        "lat": -1.3002404482403689,
+        "lng": 11.85638338007246
+      }
+    },
+    "specs": {
+      "netSize": 25046,
+      "grossSize": 30055,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 2,
+      "floor": 4,
+      "totalFloors": 19,
+      "heating": "Merkezi",
+      "furnishing": "Furnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500293200813?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500602996566?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500765169326?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500319009322?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500150788179?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500431179981?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500008754061?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500434737387?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500420952679?w=800&q=80&category=building"
+    ],
+    "agent": {
+      "id": "A54",
+      "name": "Agent 33",
+      "phone": "+21 113 270 5682",
+      "email": "agent96@iwrealty.com",
+      "photo": "/images/icons/png/paris-heritage-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2024-11-13T10:50:47.209Z",
+    "updatedAt": "2025-11-13T10:50:47.209Z",
+    "storeId": "store-010"
+  },
+  {
+    "id": "P03036",
+    "type": "rent",
+    "category": {
+      "main": "commercial",
+      "sub": "hotel"
+    },
+    "title": "Kiralık Otel - New Gabon",
+    "slug": "kiralik-otel-new-gabon-P03036",
+    "description": "New Gabon, Gabon bölgesinde otel. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 57662533,
+    "location": {
+      "country": "GA",
+      "city": "New Gabon",
+      "district": "New Gabon Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 60",
+      "coordinates": {
+        "lat": -0.8489420591813011,
+        "lng": 11.350093598361978
+      }
+    },
+    "specs": {
+      "netSize": 10905,
+      "grossSize": 13086,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 2,
+      "floor": 10,
+      "totalFloors": 7,
+      "heating": "Merkezi",
+      "furnishing": "Furnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500345539043?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500074029508?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500512056890?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500324837571?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500515382438?w=800&q=80&category=house"
+    ],
+    "agent": {
+      "id": "A79",
+      "name": "Agent 7",
+      "phone": "+50 680 563 5277",
+      "email": "agent98@iwrealty.com",
+      "photo": "/images/icons/png/izmir-sahil-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-10-06T10:50:47.209Z",
+    "updatedAt": "2025-11-13T10:50:47.209Z",
+    "storeId": "store-005"
+  },
+  {
+    "id": "P03037",
+    "type": "sale",
+    "category": {
+      "main": "commercial",
+      "sub": "restaurant"
+    },
+    "title": "Satılık Restoran - Gabon Central",
+    "slug": "satilik-restoran-gabon-central-P03037",
+    "description": "Gabon Central, Gabon bölgesinde restoran. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 8049257,
+    "location": {
+      "country": "GA",
+      "city": "Gabon Central",
+      "district": "Gabon Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 373",
+      "coordinates": {
+        "lat": -1.2327698475371967,
+        "lng": 11.677051825206082
+      }
+    },
+    "specs": {
+      "netSize": 752,
+      "grossSize": 902,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 2,
+      "floor": 2,
+      "totalFloors": 10,
+      "heating": "Kombi",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500155456491?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500108918911?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500656385138?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500501199055?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500185768328?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500764776975?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500429528945?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500781894457?w=800&q=80&category=house"
+    ],
+    "agent": {
+      "id": "A60",
+      "name": "Agent 35",
+      "phone": "+29 409 222 7894",
+      "email": "agent47@iwrealty.com",
+      "photo": "/images/icons/png/ankara-modern-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-07-12T10:50:47.209Z",
+    "updatedAt": "2025-11-13T10:50:47.209Z",
+    "storeId": "store-003"
+  },
+  {
+    "id": "P03038",
+    "type": "rent",
+    "category": {
+      "main": "commercial",
+      "sub": "restaurant"
+    },
+    "title": "Kiralık Restoran - Gabon City",
+    "slug": "kiralik-restoran-gabon-city-P03038",
+    "description": "Gabon City, Gabon bölgesinde restoran. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 8748471,
+    "location": {
+      "country": "GA",
+      "city": "Gabon City",
+      "district": "Gabon City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 987",
+      "coordinates": {
+        "lat": -1.2993690384574537,
+        "lng": 11.682232715163861
+      }
+    },
+    "specs": {
+      "netSize": 920,
+      "grossSize": 1104,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 2,
+      "floor": 5,
+      "totalFloors": 18,
+      "heating": "Kombi",
+      "furnishing": "Unfurnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500082309369?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500523353239?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500820927652?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500893390203?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500306292860?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500556297779?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500676117653?w=800&q=80&category=architecture"
+    ],
+    "agent": {
+      "id": "A48",
+      "name": "Agent 51",
+      "phone": "+99 609 529 1394",
+      "email": "agent100@iwrealty.com",
+      "photo": "/images/icons/png/izmir-sahil-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-08-05T10:50:47.209Z",
+    "updatedAt": "2025-11-13T10:50:47.209Z",
+    "storeId": "store-005"
+  },
+  {
+    "id": "P03039",
+    "type": "sale",
+    "category": {
+      "main": "commercial",
+      "sub": "warehouse"
+    },
+    "title": "Satılık Depo - Gabon Central",
+    "slug": "satilik-depo-gabon-central-P03039",
+    "description": "Gabon Central, Gabon bölgesinde depo. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 5650740,
+    "location": {
+      "country": "GA",
+      "city": "Gabon Central",
+      "district": "Gabon Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 38",
+      "coordinates": {
+        "lat": -0.7222303555222703,
+        "lng": 11.523880000378353
+      }
+    },
+    "specs": {
+      "netSize": 4928,
+      "grossSize": 5914,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 20,
+      "floor": 5,
+      "totalFloors": 8,
+      "heating": "Kombi",
+      "furnishing": "Unfurnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500381577494?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500846864542?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500147906252?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500852729210?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500489830789?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500103489689?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500041806233?w=800&q=80&category=building"
+    ],
+    "agent": {
+      "id": "A68",
+      "name": "Agent 16",
+      "phone": "+83 747 539 3134",
+      "email": "agent76@iwrealty.com",
+      "photo": "/images/icons/png/ankara-modern-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-06-06T10:50:47.209Z",
+    "updatedAt": "2025-11-13T10:50:47.209Z",
+    "storeId": "store-003"
+  },
+  {
+    "id": "P03040",
+    "type": "rent",
+    "category": {
+      "main": "commercial",
+      "sub": "warehouse"
+    },
+    "title": "Kiralık Depo - Gabon City",
+    "slug": "kiralik-depo-gabon-city-P03040",
+    "description": "Gabon City, Gabon bölgesinde depo. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 29363287,
+    "location": {
+      "country": "GA",
+      "city": "Gabon City",
+      "district": "Gabon City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 84",
+      "coordinates": {
+        "lat": -1.4544055241213605,
+        "lng": 11.321606608459238
+      }
+    },
+    "specs": {
+      "netSize": 8710,
+      "grossSize": 10452,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 8,
+      "floor": 8,
+      "totalFloors": 16,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Unfurnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500961472415?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500474333344?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500435643553?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500815216377?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500447596109?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500420146865?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500398057234?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500582109532?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500866538770?w=800&q=80&category=building"
+    ],
+    "agent": {
+      "id": "A5",
+      "name": "Agent 26",
+      "phone": "+60 775 703 3641",
+      "email": "agent20@iwrealty.com",
+      "photo": "/images/icons/png/sydney-coastal-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-09-25T10:50:47.209Z",
+    "updatedAt": "2025-11-13T10:50:47.209Z",
+    "storeId": "store-012"
+  }
+]

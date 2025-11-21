@@ -1,0 +1,2347 @@
+[
+  {
+    "id": "P05169",
+    "type": "sale",
+    "category": {
+      "main": "government"
+    },
+    "title": "Satılık Devlet Binası - Latvia City",
+    "slug": "satilik-devlet-binası-latvia-city-P05169",
+    "description": "Latvia City, Latvia bölgesinde devlet binası. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 21752617,
+    "location": {
+      "country": "LV",
+      "city": "Latvia City",
+      "district": "Latvia City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 520",
+      "coordinates": {
+        "lat": 56.597198168935655,
+        "lng": 24.582113279115468
+      }
+    },
+    "specs": {
+      "netSize": 812,
+      "grossSize": 974,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 12,
+      "floor": 3,
+      "totalFloors": 17,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500384391599?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500709930920?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500043500746?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500330305797?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500786323814?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500990847254?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500246596630?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500396331358?w=800&q=80&category=house"
+    ],
+    "agent": {
+      "id": "A41",
+      "name": "Agent 65",
+      "phone": "+42 497 579 4858",
+      "email": "agent65@iwrealty.com",
+      "photo": "/images/icons/png/izmir-sahil-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": false,
+      "hasBalcony": false,
+      "hasGarden": true,
+      "hasPool": true,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-11-02T10:50:47.234Z",
+    "updatedAt": "2025-11-13T10:50:47.234Z",
+    "storeId": "store-005"
+  },
+  {
+    "id": "P05170",
+    "type": "rent",
+    "category": {
+      "main": "government"
+    },
+    "title": "Kiralık Belediye Binası - Riga",
+    "slug": "kiralik-belediye-binası-riga-P05170",
+    "description": "Riga, Latvia bölgesinde belediye binası. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 23817003,
+    "location": {
+      "country": "LV",
+      "city": "Riga",
+      "district": "Riga Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 951",
+      "coordinates": {
+        "lat": 57.36376298988226,
+        "lng": 25.448483434168615
+      }
+    },
+    "specs": {
+      "netSize": 3147,
+      "grossSize": 3776,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 19,
+      "floor": 4,
+      "totalFloors": 14,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Unfurnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500687016010?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500133489371?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500895006938?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500932843118?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500711403191?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500752798305?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500052194948?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500605850950?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500347018206?w=800&q=80&category=interior"
+    ],
+    "agent": {
+      "id": "A84",
+      "name": "Agent 4",
+      "phone": "+64 738 107 6634",
+      "email": "agent48@iwrealty.com",
+      "photo": "/images/icons/png/ankara-modern-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-10-28T10:50:47.234Z",
+    "updatedAt": "2025-11-13T10:50:47.234Z",
+    "storeId": "store-003"
+  },
+  {
+    "id": "P05171",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Residence - New Latvia",
+    "slug": "satilik-residence-new-latvia-P05171",
+    "description": "New Latvia, Latvia bölgesinde residence. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 1083892,
+    "location": {
+      "country": "LV",
+      "city": "New Latvia",
+      "district": "New Latvia Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 927",
+      "coordinates": {
+        "lat": 57.30156054412104,
+        "lng": 25.424778084999943
+      }
+    },
+    "specs": {
+      "netSize": 484,
+      "grossSize": 581,
+      "rooms": "1+1",
+      "bathrooms": 2,
+      "age": 16,
+      "floor": 2,
+      "totalFloors": 8,
+      "heating": "Klima",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500023282581?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500239547992?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500477982553?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500792946907?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500048430634?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500121473742?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500565318790?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500242443622?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500936345262?w=800&q=80&category=real-estate"
+    ],
+    "agent": {
+      "id": "A48",
+      "name": "Agent 92",
+      "phone": "+73 702 739 2336",
+      "email": "agent84@iwrealty.com",
+      "photo": "/images/icons/png/izmir-sahil-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": false,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": true,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-05-30T10:50:47.234Z",
+    "updatedAt": "2025-11-13T10:50:47.234Z",
+    "storeId": "store-005"
+  },
+  {
+    "id": "P05172",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Residence - Latvia Central",
+    "slug": "kiralik-residence-latvia-central-P05172",
+    "description": "Latvia Central, Latvia bölgesinde residence. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 7603492,
+    "location": {
+      "country": "LV",
+      "city": "Latvia Central",
+      "district": "Latvia Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 854",
+      "coordinates": {
+        "lat": 57.15636314299668,
+        "lng": 25.284007628159507
+      }
+    },
+    "specs": {
+      "netSize": 411,
+      "grossSize": 493,
+      "rooms": "5+2",
+      "bathrooms": 2,
+      "age": 8,
+      "floor": 6,
+      "totalFloors": 20,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500256274257?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500550699486?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500082741835?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500623742587?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500298552578?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500076867761?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500397147454?w=800&q=80&category=house"
+    ],
+    "agent": {
+      "id": "A54",
+      "name": "Agent 30",
+      "phone": "+89 834 214 5206",
+      "email": "agent24@iwrealty.com",
+      "photo": "/images/icons/png/sydney-coastal-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": true,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-07-09T10:50:47.234Z",
+    "updatedAt": "2025-11-13T10:50:47.234Z",
+    "storeId": "store-012"
+  },
+  {
+    "id": "P05173",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Daire - Latvia Central",
+    "slug": "satilik-daire-latvia-central-P05173",
+    "description": "Latvia Central, Latvia bölgesinde daire. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 6351430,
+    "location": {
+      "country": "LV",
+      "city": "Latvia Central",
+      "district": "Latvia Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 261",
+      "coordinates": {
+        "lat": 57.0588210093709,
+        "lng": 24.72535243500617
+      }
+    },
+    "specs": {
+      "netSize": 309,
+      "grossSize": 371,
+      "rooms": "3+0",
+      "bathrooms": 2,
+      "age": 14,
+      "floor": 11,
+      "totalFloors": 11,
+      "heating": "Klima",
+      "furnishing": "Furnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500220309515?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500295712114?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500429214123?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500664240029?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500760595049?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500537593602?w=800&q=80&category=building"
+    ],
+    "agent": {
+      "id": "A26",
+      "name": "Agent 96",
+      "phone": "+96 733 796 9090",
+      "email": "agent43@iwrealty.com",
+      "photo": "/images/icons/png/antalya-investment-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": true,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-09-19T10:50:47.234Z",
+    "updatedAt": "2025-11-13T10:50:47.234Z",
+    "storeId": "store-006"
+  },
+  {
+    "id": "P05174",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Residence - Latvia Central",
+    "slug": "kiralik-residence-latvia-central-P05174",
+    "description": "Latvia Central, Latvia bölgesinde residence. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 1093619,
+    "location": {
+      "country": "LV",
+      "city": "Latvia Central",
+      "district": "Latvia Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 326",
+      "coordinates": {
+        "lat": 56.57866866084266,
+        "lng": 25.11125661095987
+      }
+    },
+    "specs": {
+      "netSize": 317,
+      "grossSize": 380,
+      "rooms": "1+1",
+      "bathrooms": 4,
+      "age": 15,
+      "floor": 2,
+      "totalFloors": 10,
+      "heating": "Klima",
+      "furnishing": "Furnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500896691490?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500327970838?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500111230229?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500908751616?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500105199351?w=800&q=80&category=building"
+    ],
+    "agent": {
+      "id": "A94",
+      "name": "Agent 67",
+      "phone": "+59 136 583 4647",
+      "email": "agent50@iwrealty.com",
+      "photo": "/images/icons/png/berlin-urban-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": false,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2024-11-15T10:50:47.234Z",
+    "updatedAt": "2025-11-13T10:50:47.234Z",
+    "storeId": "store-009"
+  },
+  {
+    "id": "P05175",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Residence - Riga",
+    "slug": "satilik-residence-riga-P05175",
+    "description": "Riga, Latvia bölgesinde residence. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 5519814,
+    "location": {
+      "country": "LV",
+      "city": "Riga",
+      "district": "Riga Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 897",
+      "coordinates": {
+        "lat": 57.13333236083785,
+        "lng": 24.814461574203687
+      }
+    },
+    "specs": {
+      "netSize": 109,
+      "grossSize": 131,
+      "rooms": "2+0",
+      "bathrooms": 1,
+      "age": 10,
+      "floor": 2,
+      "totalFloors": 8,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Unfurnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500530929416?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500757858765?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500029078655?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500501398274?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500785142474?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500218367782?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500203349887?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500484927265?w=800&q=80&category=interior"
+    ],
+    "agent": {
+      "id": "A81",
+      "name": "Agent 20",
+      "phone": "+49 802 920 1542",
+      "email": "agent81@iwrealty.com",
+      "photo": "/images/icons/png/antalya-investment-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-05-12T10:50:47.234Z",
+    "updatedAt": "2025-11-13T10:50:47.234Z",
+    "storeId": "store-006"
+  },
+  {
+    "id": "P05176",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Residence - Latvia Central",
+    "slug": "kiralik-residence-latvia-central-P05176",
+    "description": "Latvia Central, Latvia bölgesinde residence. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 4739528,
+    "location": {
+      "country": "LV",
+      "city": "Latvia Central",
+      "district": "Latvia Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 246",
+      "coordinates": {
+        "lat": 56.77754391896819,
+        "lng": 24.951534641369534
+      }
+    },
+    "specs": {
+      "netSize": 156,
+      "grossSize": 187,
+      "rooms": "4+2",
+      "bathrooms": 3,
+      "age": 10,
+      "floor": 9,
+      "totalFloors": 9,
+      "heating": "Kombi",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500164262322?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500425311876?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500606358240?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500621003139?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500149518546?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500802079369?w=800&q=80&category=real-estate"
+    ],
+    "agent": {
+      "id": "A52",
+      "name": "Agent 43",
+      "phone": "+68 998 668 3629",
+      "email": "agent8@iwrealty.com",
+      "photo": "/images/icons/png/ny-skyline-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": true,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-03-11T10:50:47.234Z",
+    "updatedAt": "2025-11-13T10:50:47.234Z",
+    "storeId": "store-008"
+  },
+  {
+    "id": "P05177",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Villa - Latvia City",
+    "slug": "satilik-villa-latvia-city-P05177",
+    "description": "Latvia City, Latvia bölgesinde villa. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 7232891,
+    "location": {
+      "country": "LV",
+      "city": "Latvia City",
+      "district": "Latvia City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 492",
+      "coordinates": {
+        "lat": 57.149782240772524,
+        "lng": 25.325353878210286
+      }
+    },
+    "specs": {
+      "netSize": 212,
+      "grossSize": 254,
+      "rooms": "1+0",
+      "bathrooms": 1,
+      "age": 4,
+      "floor": 3,
+      "totalFloors": 7,
+      "heating": "Kombi",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500115866885?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500189326919?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500573438136?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500404163798?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500822591745?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500690927470?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500872906167?w=800&q=80&category=interior"
+    ],
+    "agent": {
+      "id": "A32",
+      "name": "Agent 70",
+      "phone": "+53 941 740 7360",
+      "email": "agent5@iwrealty.com",
+      "photo": "/images/icons/png/london-prime-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2024-12-12T10:50:47.234Z",
+    "updatedAt": "2025-11-13T10:50:47.234Z",
+    "storeId": "store-007"
+  },
+  {
+    "id": "P05178",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Daire - New Latvia",
+    "slug": "kiralik-daire-new-latvia-P05178",
+    "description": "New Latvia, Latvia bölgesinde daire. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 2312684,
+    "location": {
+      "country": "LV",
+      "city": "New Latvia",
+      "district": "New Latvia Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 78",
+      "coordinates": {
+        "lat": 57.056030285974316,
+        "lng": 24.792665891350374
+      }
+    },
+    "specs": {
+      "netSize": 377,
+      "grossSize": 452,
+      "rooms": "3+1",
+      "bathrooms": 4,
+      "age": 3,
+      "floor": 13,
+      "totalFloors": 13,
+      "heating": "Klima",
+      "furnishing": "Furnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500492881563?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500780349534?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500320008854?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500640963505?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500037174001?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500779101901?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500350371369?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500195457746?w=800&q=80&category=building"
+    ],
+    "agent": {
+      "id": "A10",
+      "name": "Agent 21",
+      "phone": "+96 605 159 6502",
+      "email": "agent82@iwrealty.com",
+      "photo": "/images/icons/png/sg-harbour-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-04-01T10:50:47.234Z",
+    "updatedAt": "2025-11-13T10:50:47.234Z",
+    "storeId": "store-011"
+  },
+  {
+    "id": "P05179",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Müstakil Ev - Latvia City",
+    "slug": "satilik-müstakil-ev-latvia-city-P05179",
+    "description": "Latvia City, Latvia bölgesinde müstakil ev. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 4904831,
+    "location": {
+      "country": "LV",
+      "city": "Latvia City",
+      "district": "Latvia City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 697",
+      "coordinates": {
+        "lat": 57.37117774218221,
+        "lng": 25.0374749114369
+      }
+    },
+    "specs": {
+      "netSize": 81,
+      "grossSize": 97,
+      "rooms": "3+1",
+      "bathrooms": 2,
+      "age": 14,
+      "floor": 1,
+      "totalFloors": 19,
+      "heating": "Klima",
+      "furnishing": "Furnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500747366169?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500541056064?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500336618684?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500428875687?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500112775814?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500957992504?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500017041210?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500888070505?w=800&q=80&category=interior"
+    ],
+    "agent": {
+      "id": "A44",
+      "name": "Agent 84",
+      "phone": "+48 363 448 3865",
+      "email": "agent27@iwrealty.com",
+      "photo": "/images/icons/png/antalya-investment-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-03-27T10:50:47.234Z",
+    "updatedAt": "2025-11-13T10:50:47.234Z",
+    "storeId": "store-006"
+  },
+  {
+    "id": "P05180",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Residence - Riga",
+    "slug": "kiralik-residence-riga-P05180",
+    "description": "Riga, Latvia bölgesinde residence. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 6447768,
+    "location": {
+      "country": "LV",
+      "city": "Riga",
+      "district": "Riga Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 71",
+      "coordinates": {
+        "lat": 57.13566217890727,
+        "lng": 25.263009844603005
+      }
+    },
+    "specs": {
+      "netSize": 128,
+      "grossSize": 154,
+      "rooms": "5+2",
+      "bathrooms": 3,
+      "age": 8,
+      "floor": 4,
+      "totalFloors": 20,
+      "heating": "Klima",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500317317175?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500850595335?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500330907417?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500139533206?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500342042955?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500495547708?w=800&q=80&category=real-estate"
+    ],
+    "agent": {
+      "id": "A18",
+      "name": "Agent 16",
+      "phone": "+10 186 299 5712",
+      "email": "agent77@iwrealty.com",
+      "photo": "/images/icons/png/sg-harbour-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-04-28T10:50:47.234Z",
+    "updatedAt": "2025-11-13T10:50:47.234Z",
+    "storeId": "store-011"
+  },
+  {
+    "id": "P05181",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Villa - Latvia Central",
+    "slug": "satilik-villa-latvia-central-P05181",
+    "description": "Latvia Central, Latvia bölgesinde villa. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 3939358,
+    "location": {
+      "country": "LV",
+      "city": "Latvia Central",
+      "district": "Latvia Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 995",
+      "coordinates": {
+        "lat": 56.84407260193602,
+        "lng": 24.687048106096466
+      }
+    },
+    "specs": {
+      "netSize": 203,
+      "grossSize": 244,
+      "rooms": "4+0",
+      "bathrooms": 3,
+      "age": 14,
+      "floor": 5,
+      "totalFloors": 14,
+      "heating": "Klima",
+      "furnishing": "Furnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500873511494?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500187776277?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500532668112?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500072162295?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500828293420?w=800&q=80&category=building"
+    ],
+    "agent": {
+      "id": "A27",
+      "name": "Agent 1",
+      "phone": "+27 760 941 4364",
+      "email": "agent98@iwrealty.com",
+      "photo": "/images/icons/png/paris-heritage-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": false,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-02-26T10:50:47.234Z",
+    "updatedAt": "2025-11-13T10:50:47.234Z",
+    "storeId": "store-010"
+  },
+  {
+    "id": "P05182",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Residence - Riga",
+    "slug": "kiralik-residence-riga-P05182",
+    "description": "Riga, Latvia bölgesinde residence. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 14995301,
+    "location": {
+      "country": "LV",
+      "city": "Riga",
+      "district": "Riga Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 321",
+      "coordinates": {
+        "lat": 56.79449372431252,
+        "lng": 24.774239804441965
+      }
+    },
+    "specs": {
+      "netSize": 177,
+      "grossSize": 212,
+      "rooms": "4+2",
+      "bathrooms": 3,
+      "age": 5,
+      "floor": 4,
+      "totalFloors": 11,
+      "heating": "Kombi",
+      "furnishing": "Unfurnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500623751481?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500836701585?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500111364933?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500949395385?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500349070170?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500957254349?w=800&q=80&category=real-estate"
+    ],
+    "agent": {
+      "id": "A15",
+      "name": "Agent 42",
+      "phone": "+46 915 841 7151",
+      "email": "agent45@iwrealty.com",
+      "photo": "/images/icons/png/ny-skyline-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": false,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-10-12T10:50:47.234Z",
+    "updatedAt": "2025-11-13T10:50:47.234Z",
+    "storeId": "store-008"
+  },
+  {
+    "id": "P05183",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Residence - Latvia City",
+    "slug": "satilik-residence-latvia-city-P05183",
+    "description": "Latvia City, Latvia bölgesinde residence. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 13351869,
+    "location": {
+      "country": "LV",
+      "city": "Latvia City",
+      "district": "Latvia City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 888",
+      "coordinates": {
+        "lat": 56.7113880212334,
+        "lng": 25.07514432777216
+      }
+    },
+    "specs": {
+      "netSize": 464,
+      "grossSize": 557,
+      "rooms": "4+2",
+      "bathrooms": 3,
+      "age": 16,
+      "floor": 5,
+      "totalFloors": 9,
+      "heating": "Kombi",
+      "furnishing": "Unfurnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500507291174?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500552410717?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500504336181?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500884815691?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500809313223?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500541918717?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500806949435?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500262935771?w=800&q=80&category=architecture"
+    ],
+    "agent": {
+      "id": "A35",
+      "name": "Agent 10",
+      "phone": "+97 801 408 8797",
+      "email": "agent93@iwrealty.com",
+      "photo": "/images/icons/png/paris-heritage-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-04-13T10:50:47.234Z",
+    "updatedAt": "2025-11-13T10:50:47.234Z",
+    "storeId": "store-010"
+  },
+  {
+    "id": "P05184",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Daire - New Latvia",
+    "slug": "kiralik-daire-new-latvia-P05184",
+    "description": "New Latvia, Latvia bölgesinde daire. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 6485853,
+    "location": {
+      "country": "LV",
+      "city": "New Latvia",
+      "district": "New Latvia Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 596",
+      "coordinates": {
+        "lat": 56.937199966731676,
+        "lng": 25.222582929831706
+      }
+    },
+    "specs": {
+      "netSize": 141,
+      "grossSize": 169,
+      "rooms": "2+1",
+      "bathrooms": 3,
+      "age": 12,
+      "floor": 3,
+      "totalFloors": 19,
+      "heating": "Merkezi",
+      "furnishing": "Furnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500500716660?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500864728149?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500437633283?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500657653659?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500334584324?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500034387794?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500320263819?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500938063947?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500486485190?w=800&q=80&category=architecture"
+    ],
+    "agent": {
+      "id": "A88",
+      "name": "Agent 3",
+      "phone": "+69 190 270 1878",
+      "email": "agent20@iwrealty.com",
+      "photo": "/images/icons/png/paris-heritage-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-10-06T10:50:47.234Z",
+    "updatedAt": "2025-11-13T10:50:47.234Z",
+    "storeId": "store-010"
+  },
+  {
+    "id": "P05185",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Müstakil Ev - Latvia Central",
+    "slug": "satilik-müstakil-ev-latvia-central-P05185",
+    "description": "Latvia Central, Latvia bölgesinde müstakil ev. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 9830478,
+    "location": {
+      "country": "LV",
+      "city": "Latvia Central",
+      "district": "Latvia Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 420",
+      "coordinates": {
+        "lat": 57.26660925788077,
+        "lng": 24.826221642339167
+      }
+    },
+    "specs": {
+      "netSize": 470,
+      "grossSize": 564,
+      "rooms": "3+2",
+      "bathrooms": 3,
+      "age": 6,
+      "floor": 5,
+      "totalFloors": 15,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Unfurnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500912191810?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500292526371?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500185595947?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500038411709?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500457999699?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500044511093?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500690506582?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500744719120?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500931017226?w=800&q=80&category=house"
+    ],
+    "agent": {
+      "id": "A88",
+      "name": "Agent 53",
+      "phone": "+37 499 190 3910",
+      "email": "agent33@iwrealty.com",
+      "photo": "/images/icons/png/sydney-coastal-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-03-12T10:50:47.234Z",
+    "updatedAt": "2025-11-13T10:50:47.235Z",
+    "storeId": "store-012"
+  },
+  {
+    "id": "P05186",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Müstakil Ev - Latvia City",
+    "slug": "kiralik-müstakil-ev-latvia-city-P05186",
+    "description": "Latvia City, Latvia bölgesinde müstakil ev. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 9960677,
+    "location": {
+      "country": "LV",
+      "city": "Latvia City",
+      "district": "Latvia City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 300",
+      "coordinates": {
+        "lat": 56.86365771475714,
+        "lng": 25.32323961999095
+      }
+    },
+    "specs": {
+      "netSize": 491,
+      "grossSize": 589,
+      "rooms": "2+1",
+      "bathrooms": 4,
+      "age": 18,
+      "floor": 1,
+      "totalFloors": 14,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Unfurnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500923134480?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500087161309?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500743758690?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500255373239?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500733437404?w=800&q=80&category=house"
+    ],
+    "agent": {
+      "id": "A93",
+      "name": "Agent 12",
+      "phone": "+65 252 122 4191",
+      "email": "agent30@iwrealty.com",
+      "photo": "/images/icons/png/dubai-property-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": false,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": true,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-09-17T10:50:47.235Z",
+    "updatedAt": "2025-11-13T10:50:47.235Z",
+    "storeId": "store-004"
+  },
+  {
+    "id": "P05187",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Müstakil Ev - Latvia City",
+    "slug": "satilik-müstakil-ev-latvia-city-P05187",
+    "description": "Latvia City, Latvia bölgesinde müstakil ev. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 2492079,
+    "location": {
+      "country": "LV",
+      "city": "Latvia City",
+      "district": "Latvia City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 648",
+      "coordinates": {
+        "lat": 56.8930274398664,
+        "lng": 25.36590526943544
+      }
+    },
+    "specs": {
+      "netSize": 250,
+      "grossSize": 300,
+      "rooms": "3+0",
+      "bathrooms": 4,
+      "age": 20,
+      "floor": 2,
+      "totalFloors": 8,
+      "heating": "Kombi",
+      "furnishing": "Unfurnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500333243106?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500529953862?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500264558066?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500725608147?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500776355789?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500627576641?w=800&q=80&category=building"
+    ],
+    "agent": {
+      "id": "A74",
+      "name": "Agent 91",
+      "phone": "+71 609 476 2083",
+      "email": "agent30@iwrealty.com",
+      "photo": "/images/icons/png/ny-skyline-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": true,
+      "hasPool": true,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-02-01T10:50:47.235Z",
+    "updatedAt": "2025-11-13T10:50:47.235Z",
+    "storeId": "store-008"
+  },
+  {
+    "id": "P05188",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Daire - New Latvia",
+    "slug": "kiralik-daire-new-latvia-P05188",
+    "description": "New Latvia, Latvia bölgesinde daire. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 1714589,
+    "location": {
+      "country": "LV",
+      "city": "New Latvia",
+      "district": "New Latvia Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 839",
+      "coordinates": {
+        "lat": 56.61781443004987,
+        "lng": 25.183656174897525
+      }
+    },
+    "specs": {
+      "netSize": 121,
+      "grossSize": 145,
+      "rooms": "1+1",
+      "bathrooms": 1,
+      "age": 14,
+      "floor": 9,
+      "totalFloors": 20,
+      "heating": "Merkezi",
+      "furnishing": "Furnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500331830264?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500894226396?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500163191496?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500611947334?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500775603285?w=800&q=80&category=real-estate"
+    ],
+    "agent": {
+      "id": "A90",
+      "name": "Agent 88",
+      "phone": "+75 914 338 4941",
+      "email": "agent14@iwrealty.com",
+      "photo": "/images/icons/png/ny-skyline-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-05-19T10:50:47.235Z",
+    "updatedAt": "2025-11-13T10:50:47.235Z",
+    "storeId": "store-008"
+  },
+  {
+    "id": "P05189",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Müstakil Ev - Latvia Central",
+    "slug": "satilik-müstakil-ev-latvia-central-P05189",
+    "description": "Latvia Central, Latvia bölgesinde müstakil ev. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 4059281,
+    "location": {
+      "country": "LV",
+      "city": "Latvia Central",
+      "district": "Latvia Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 908",
+      "coordinates": {
+        "lat": 57.11049224293152,
+        "lng": 25.29839634073183
+      }
+    },
+    "specs": {
+      "netSize": 393,
+      "grossSize": 472,
+      "rooms": "2+0",
+      "bathrooms": 1,
+      "age": 15,
+      "floor": 7,
+      "totalFloors": 13,
+      "heating": "Klima",
+      "furnishing": "Furnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500175460786?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500008007099?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500675151495?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500307000872?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500478957502?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500504910749?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500663495820?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500822575109?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500614608734?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500493948029?w=800&q=80&category=building"
+    ],
+    "agent": {
+      "id": "A76",
+      "name": "Agent 41",
+      "phone": "+98 692 331 4422",
+      "email": "agent52@iwrealty.com",
+      "photo": "/images/icons/png/sg-harbour-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": true,
+      "hasPool": true,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-03-18T10:50:47.235Z",
+    "updatedAt": "2025-11-13T10:50:47.235Z",
+    "storeId": "store-011"
+  },
+  {
+    "id": "P05190",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Villa - New Latvia",
+    "slug": "kiralik-villa-new-latvia-P05190",
+    "description": "New Latvia, Latvia bölgesinde villa. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 13440931,
+    "location": {
+      "country": "LV",
+      "city": "New Latvia",
+      "district": "New Latvia Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 231",
+      "coordinates": {
+        "lat": 56.503501934377454,
+        "lng": 25.141665352019057
+      }
+    },
+    "specs": {
+      "netSize": 392,
+      "grossSize": 470,
+      "rooms": "1+2",
+      "bathrooms": 3,
+      "age": 16,
+      "floor": 13,
+      "totalFloors": 16,
+      "heating": "Merkezi",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500114993443?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500278352701?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500944464181?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500406440867?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500582555754?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500389894856?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500984758814?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500501956928?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500468511738?w=800&q=80&category=interior"
+    ],
+    "agent": {
+      "id": "A21",
+      "name": "Agent 53",
+      "phone": "+59 387 824 7734",
+      "email": "agent38@iwrealty.com",
+      "photo": "/images/icons/png/paris-heritage-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-09-19T10:50:47.235Z",
+    "updatedAt": "2025-11-13T10:50:47.235Z",
+    "storeId": "store-010"
+  },
+  {
+    "id": "P05191",
+    "type": "sale",
+    "category": {
+      "main": "commercial",
+      "sub": "hospital"
+    },
+    "title": "Satılık Hastane - Riga",
+    "slug": "satilik-hastane-riga-P05191",
+    "description": "Riga, Latvia bölgesinde hastane. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 69095552,
+    "location": {
+      "country": "LV",
+      "city": "Riga",
+      "district": "Riga Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 729",
+      "coordinates": {
+        "lat": 57.228490699146555,
+        "lng": 24.80103541033821
+      }
+    },
+    "specs": {
+      "netSize": 19598,
+      "grossSize": 23518,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 7,
+      "floor": 3,
+      "totalFloors": 11,
+      "heating": "Klima",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500669271438?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500890859277?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500099904706?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500736136331?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500581764317?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500519984949?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500621380711?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500256839766?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500321293151?w=800&q=80&category=house"
+    ],
+    "agent": {
+      "id": "A74",
+      "name": "Agent 28",
+      "phone": "+45 107 830 5071",
+      "email": "agent17@iwrealty.com",
+      "photo": "/images/icons/png/antalya-investment-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": true,
+      "hasSecurity": true
+    },
+    "createdAt": "2024-11-14T10:50:47.235Z",
+    "updatedAt": "2025-11-13T10:50:47.235Z",
+    "storeId": "store-006"
+  },
+  {
+    "id": "P05192",
+    "type": "rent",
+    "category": {
+      "main": "commercial",
+      "sub": "hospital"
+    },
+    "title": "Kiralık Hastane - Latvia Central",
+    "slug": "kiralik-hastane-latvia-central-P05192",
+    "description": "Latvia Central, Latvia bölgesinde hastane. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 62592492,
+    "location": {
+      "country": "LV",
+      "city": "Latvia Central",
+      "district": "Latvia Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 720",
+      "coordinates": {
+        "lat": 56.98467462482482,
+        "lng": 24.93563015268003
+      }
+    },
+    "specs": {
+      "netSize": 11484,
+      "grossSize": 13781,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 20,
+      "floor": 5,
+      "totalFloors": 16,
+      "heating": "Klima",
+      "furnishing": "Furnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500719640281?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500939631718?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500678605666?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500053282950?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500742374076?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500191770350?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500803594819?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500027174639?w=800&q=80&category=building"
+    ],
+    "agent": {
+      "id": "A14",
+      "name": "Agent 16",
+      "phone": "+56 699 713 5618",
+      "email": "agent72@iwrealty.com",
+      "photo": "/images/icons/png/paris-heritage-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-06-25T10:50:47.235Z",
+    "updatedAt": "2025-11-13T10:50:47.235Z",
+    "storeId": "store-010"
+  },
+  {
+    "id": "P05193",
+    "type": "sale",
+    "category": {
+      "main": "commercial",
+      "sub": "clinic"
+    },
+    "title": "Satılık Klinik - Latvia City",
+    "slug": "satilik-klinik-latvia-city-P05193",
+    "description": "Latvia City, Latvia bölgesinde klinik. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 3595788,
+    "location": {
+      "country": "LV",
+      "city": "Latvia City",
+      "district": "Latvia City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 995",
+      "coordinates": {
+        "lat": 56.54636323709265,
+        "lng": 25.168191161113686
+      }
+    },
+    "specs": {
+      "netSize": 375,
+      "grossSize": 450,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 11,
+      "floor": 8,
+      "totalFloors": 12,
+      "heating": "Klima",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500136960479?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500073041845?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500408100689?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500733049510?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500595525791?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500811869593?w=800&q=80&category=house"
+    ],
+    "agent": {
+      "id": "A5",
+      "name": "Agent 81",
+      "phone": "+93 123 591 7433",
+      "email": "agent92@iwrealty.com",
+      "photo": "/images/icons/png/sydney-coastal-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": false,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": true,
+      "hasSecurity": true
+    },
+    "createdAt": "2024-12-15T10:50:47.235Z",
+    "updatedAt": "2025-11-13T10:50:47.235Z",
+    "storeId": "store-012"
+  },
+  {
+    "id": "P05194",
+    "type": "rent",
+    "category": {
+      "main": "commercial",
+      "sub": "clinic"
+    },
+    "title": "Kiralık Klinik - Latvia City",
+    "slug": "kiralik-klinik-latvia-city-P05194",
+    "description": "Latvia City, Latvia bölgesinde klinik. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 19677097,
+    "location": {
+      "country": "LV",
+      "city": "Latvia City",
+      "district": "Latvia City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 193",
+      "coordinates": {
+        "lat": 56.71063318097679,
+        "lng": 25.10376731220451
+      }
+    },
+    "specs": {
+      "netSize": 1785,
+      "grossSize": 2142,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 16,
+      "floor": 14,
+      "totalFloors": 7,
+      "heating": "Klima",
+      "furnishing": "Unfurnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500896764325?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500863329735?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500819663417?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500053517354?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500333092096?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500017014784?w=800&q=80&category=building"
+    ],
+    "agent": {
+      "id": "A83",
+      "name": "Agent 22",
+      "phone": "+51 128 327 4470",
+      "email": "agent15@iwrealty.com",
+      "photo": "/images/icons/png/ny-skyline-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": false,
+      "hasBalcony": false,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-09-12T10:50:47.235Z",
+    "updatedAt": "2025-11-13T10:50:47.235Z",
+    "storeId": "store-008"
+  },
+  {
+    "id": "P05195",
+    "type": "sale",
+    "category": {
+      "main": "commercial",
+      "sub": "shop"
+    },
+    "title": "Satılık Dükkan - Latvia City",
+    "slug": "satilik-dükkan-latvia-city-P05195",
+    "description": "Latvia City, Latvia bölgesinde dükkan. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 7762907,
+    "location": {
+      "country": "LV",
+      "city": "Latvia City",
+      "district": "Latvia City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 10",
+      "coordinates": {
+        "lat": 57.16322724191414,
+        "lng": 24.69721551100934
+      }
+    },
+    "specs": {
+      "netSize": 61,
+      "grossSize": 73,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 11,
+      "floor": 14,
+      "totalFloors": 12,
+      "heating": "Kombi",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500346950644?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500916185816?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500238041812?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500653522644?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500716302975?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500919918483?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500771589515?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500756584764?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500823424764?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500503497120?w=800&q=80&category=building"
+    ],
+    "agent": {
+      "id": "A38",
+      "name": "Agent 13",
+      "phone": "+23 833 942 9477",
+      "email": "agent53@iwrealty.com",
+      "photo": "/images/icons/png/izmir-sahil-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-09-02T10:50:47.235Z",
+    "updatedAt": "2025-11-13T10:50:47.235Z",
+    "storeId": "store-005"
+  },
+  {
+    "id": "P05196",
+    "type": "rent",
+    "category": {
+      "main": "commercial",
+      "sub": "shop"
+    },
+    "title": "Kiralık Dükkan - Riga",
+    "slug": "kiralik-dükkan-riga-P05196",
+    "description": "Riga, Latvia bölgesinde dükkan. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 7338265,
+    "location": {
+      "country": "LV",
+      "city": "Riga",
+      "district": "Riga Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 359",
+      "coordinates": {
+        "lat": 56.59316123093386,
+        "lng": 25.016678735706755
+      }
+    },
+    "specs": {
+      "netSize": 479,
+      "grossSize": 575,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 10,
+      "floor": 6,
+      "totalFloors": 14,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Unfurnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500840573381?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500795545195?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500441899454?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500668799520?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500205465828?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500001929009?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500672738742?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500735159937?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500916861924?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500612535112?w=800&q=80&category=architecture"
+    ],
+    "agent": {
+      "id": "A98",
+      "name": "Agent 33",
+      "phone": "+39 407 873 8268",
+      "email": "agent30@iwrealty.com",
+      "photo": "/images/icons/png/sg-harbour-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2024-12-10T10:50:47.235Z",
+    "updatedAt": "2025-11-13T10:50:47.235Z",
+    "storeId": "store-011"
+  },
+  {
+    "id": "P05197",
+    "type": "sale",
+    "category": {
+      "main": "commercial",
+      "sub": "office"
+    },
+    "title": "Satılık Ofis - Latvia Central",
+    "slug": "satilik-ofis-latvia-central-P05197",
+    "description": "Latvia Central, Latvia bölgesinde ofis. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 10009657,
+    "location": {
+      "country": "LV",
+      "city": "Latvia Central",
+      "district": "Latvia Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 297",
+      "coordinates": {
+        "lat": 57.25441146901499,
+        "lng": 24.935161096818845
+      }
+    },
+    "specs": {
+      "netSize": 515,
+      "grossSize": 618,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 10,
+      "floor": 10,
+      "totalFloors": 15,
+      "heating": "Klima",
+      "furnishing": "Furnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500383217377?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500540374574?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500383514018?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500731351145?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500673913960?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500911915814?w=800&q=80&category=interior"
+    ],
+    "agent": {
+      "id": "A86",
+      "name": "Agent 33",
+      "phone": "+12 288 591 3155",
+      "email": "agent81@iwrealty.com",
+      "photo": "/images/icons/png/izmir-sahil-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-11-10T10:50:47.235Z",
+    "updatedAt": "2025-11-13T10:50:47.235Z",
+    "storeId": "store-005"
+  },
+  {
+    "id": "P05198",
+    "type": "rent",
+    "category": {
+      "main": "commercial",
+      "sub": "office"
+    },
+    "title": "Kiralık Ofis - New Latvia",
+    "slug": "kiralik-ofis-new-latvia-P05198",
+    "description": "New Latvia, Latvia bölgesinde ofis. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 6138130,
+    "location": {
+      "country": "LV",
+      "city": "New Latvia",
+      "district": "New Latvia Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 885",
+      "coordinates": {
+        "lat": 57.04922032347241,
+        "lng": 24.600815617455588
+      }
+    },
+    "specs": {
+      "netSize": 228,
+      "grossSize": 274,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 5,
+      "floor": 13,
+      "totalFloors": 17,
+      "heating": "Merkezi",
+      "furnishing": "Unfurnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500320085750?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500088631600?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500506681112?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500822988285?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500936330817?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500663438032?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500607087914?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500272774837?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500494635983?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500862171301?w=800&q=80&category=architecture"
+    ],
+    "agent": {
+      "id": "A91",
+      "name": "Agent 46",
+      "phone": "+16 562 590 4012",
+      "email": "agent53@iwrealty.com",
+      "photo": "/images/icons/png/berlin-urban-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": true,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-01-20T10:50:47.235Z",
+    "updatedAt": "2025-11-13T10:50:47.235Z",
+    "storeId": "store-009"
+  },
+  {
+    "id": "P05199",
+    "type": "sale",
+    "category": {
+      "main": "commercial",
+      "sub": "mall"
+    },
+    "title": "Satılık AVM - New Latvia",
+    "slug": "satilik-avm-new-latvia-P05199",
+    "description": "New Latvia, Latvia bölgesinde avm. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 415429234,
+    "location": {
+      "country": "LV",
+      "city": "New Latvia",
+      "district": "New Latvia Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 105",
+      "coordinates": {
+        "lat": 57.1167178262325,
+        "lng": 24.95634635372694
+      }
+    },
+    "specs": {
+      "netSize": 17174,
+      "grossSize": 20609,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 18,
+      "floor": 9,
+      "totalFloors": 18,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500110337443?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500856050738?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500589604267?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500606757185?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500382027407?w=800&q=80&category=house"
+    ],
+    "agent": {
+      "id": "A6",
+      "name": "Agent 41",
+      "phone": "+81 749 628 6828",
+      "email": "agent41@iwrealty.com",
+      "photo": "/images/icons/png/luxury-homes-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": false,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": true,
+      "hasSecurity": false
+    },
+    "createdAt": "2024-12-27T10:50:47.235Z",
+    "updatedAt": "2025-11-13T10:50:47.235Z",
+    "storeId": "store-002"
+  },
+  {
+    "id": "P05200",
+    "type": "rent",
+    "category": {
+      "main": "commercial",
+      "sub": "mall"
+    },
+    "title": "Kiralık AVM - New Latvia",
+    "slug": "kiralik-avm-new-latvia-P05200",
+    "description": "New Latvia, Latvia bölgesinde avm. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 476255514,
+    "location": {
+      "country": "LV",
+      "city": "New Latvia",
+      "district": "New Latvia Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 386",
+      "coordinates": {
+        "lat": 57.332468418934994,
+        "lng": 25.498340390996326
+      }
+    },
+    "specs": {
+      "netSize": 9616,
+      "grossSize": 11539,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 16,
+      "floor": 11,
+      "totalFloors": 6,
+      "heating": "Klima",
+      "furnishing": "Furnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500381357420?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500224960202?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500274873599?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500761865751?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500803594980?w=800&q=80&category=interior"
+    ],
+    "agent": {
+      "id": "A46",
+      "name": "Agent 10",
+      "phone": "+78 579 502 5032",
+      "email": "agent3@iwrealty.com",
+      "photo": "/images/icons/png/luxury-homes-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-01-14T10:50:47.235Z",
+    "updatedAt": "2025-11-13T10:50:47.235Z",
+    "storeId": "store-002"
+  },
+  {
+    "id": "P05201",
+    "type": "sale",
+    "category": {
+      "main": "commercial",
+      "sub": "hotel"
+    },
+    "title": "Satılık Otel - New Latvia",
+    "slug": "satilik-otel-new-latvia-P05201",
+    "description": "New Latvia, Latvia bölgesinde otel. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 99339121,
+    "location": {
+      "country": "LV",
+      "city": "New Latvia",
+      "district": "New Latvia Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 975",
+      "coordinates": {
+        "lat": 56.977577372357025,
+        "lng": 24.538407691807816
+      }
+    },
+    "specs": {
+      "netSize": 13288,
+      "grossSize": 15946,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 7,
+      "floor": 13,
+      "totalFloors": 18,
+      "heating": "Merkezi",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500973163767?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500846710873?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500991961988?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500043972979?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500491452028?w=800&q=80&category=architecture"
+    ],
+    "agent": {
+      "id": "A96",
+      "name": "Agent 24",
+      "phone": "+70 296 791 6204",
+      "email": "agent52@iwrealty.com",
+      "photo": "/images/icons/png/dubai-property-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": true,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-02-18T10:50:47.235Z",
+    "updatedAt": "2025-11-13T10:50:47.235Z",
+    "storeId": "store-004"
+  },
+  {
+    "id": "P05202",
+    "type": "rent",
+    "category": {
+      "main": "commercial",
+      "sub": "hotel"
+    },
+    "title": "Kiralık Otel - Latvia City",
+    "slug": "kiralik-otel-latvia-city-P05202",
+    "description": "Latvia City, Latvia bölgesinde otel. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 159383739,
+    "location": {
+      "country": "LV",
+      "city": "Latvia City",
+      "district": "Latvia City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 971",
+      "coordinates": {
+        "lat": 56.96868957099982,
+        "lng": 25.480615515494772
+      }
+    },
+    "specs": {
+      "netSize": 20346,
+      "grossSize": 24415,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 8,
+      "floor": 12,
+      "totalFloors": 11,
+      "heating": "Merkezi",
+      "furnishing": "Unfurnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500834078526?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500950009591?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500363743591?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500082991878?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500425969324?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500982862122?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500456103828?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500862338875?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500934847856?w=800&q=80&category=architecture"
+    ],
+    "agent": {
+      "id": "A48",
+      "name": "Agent 38",
+      "phone": "+28 350 296 3180",
+      "email": "agent31@iwrealty.com",
+      "photo": "/images/icons/png/sg-harbour-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-08-20T10:50:47.235Z",
+    "updatedAt": "2025-11-13T10:50:47.235Z",
+    "storeId": "store-011"
+  },
+  {
+    "id": "P05203",
+    "type": "sale",
+    "category": {
+      "main": "commercial",
+      "sub": "restaurant"
+    },
+    "title": "Satılık Restoran - Latvia Central",
+    "slug": "satilik-restoran-latvia-central-P05203",
+    "description": "Latvia Central, Latvia bölgesinde restoran. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 7235099,
+    "location": {
+      "country": "LV",
+      "city": "Latvia Central",
+      "district": "Latvia Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 968",
+      "coordinates": {
+        "lat": 56.908325918265845,
+        "lng": 24.621675341846917
+      }
+    },
+    "specs": {
+      "netSize": 1212,
+      "grossSize": 1454,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 8,
+      "floor": 4,
+      "totalFloors": 14,
+      "heating": "Klima",
+      "furnishing": "Unfurnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500476665658?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500013760411?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500437198835?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500087888174?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500189282831?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500182866949?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500370221711?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500812181149?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500492483472?w=800&q=80&category=architecture"
+    ],
+    "agent": {
+      "id": "A74",
+      "name": "Agent 59",
+      "phone": "+55 883 825 2184",
+      "email": "agent45@iwrealty.com",
+      "photo": "/images/icons/png/dubai-property-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-02-10T10:50:47.235Z",
+    "updatedAt": "2025-11-13T10:50:47.235Z",
+    "storeId": "store-004"
+  },
+  {
+    "id": "P05204",
+    "type": "rent",
+    "category": {
+      "main": "commercial",
+      "sub": "restaurant"
+    },
+    "title": "Kiralık Restoran - New Latvia",
+    "slug": "kiralik-restoran-new-latvia-P05204",
+    "description": "New Latvia, Latvia bölgesinde restoran. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 3515832,
+    "location": {
+      "country": "LV",
+      "city": "New Latvia",
+      "district": "New Latvia Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 557",
+      "coordinates": {
+        "lat": 56.67883176351056,
+        "lng": 24.767279884725163
+      }
+    },
+    "specs": {
+      "netSize": 519,
+      "grossSize": 623,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 17,
+      "floor": 15,
+      "totalFloors": 17,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Furnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500858542109?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500800792096?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500401283070?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500909919048?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500723352930?w=800&q=80&category=house"
+    ],
+    "agent": {
+      "id": "A9",
+      "name": "Agent 63",
+      "phone": "+83 824 268 2005",
+      "email": "agent45@iwrealty.com",
+      "photo": "/images/icons/png/ankara-modern-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2024-12-21T10:50:47.235Z",
+    "updatedAt": "2025-11-13T10:50:47.235Z",
+    "storeId": "store-003"
+  },
+  {
+    "id": "P05205",
+    "type": "sale",
+    "category": {
+      "main": "commercial",
+      "sub": "warehouse"
+    },
+    "title": "Satılık Depo - Latvia City",
+    "slug": "satilik-depo-latvia-city-P05205",
+    "description": "Latvia City, Latvia bölgesinde depo. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 17619048,
+    "location": {
+      "country": "LV",
+      "city": "Latvia City",
+      "district": "Latvia City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 814",
+      "coordinates": {
+        "lat": 57.20448579195395,
+        "lng": 25.419073019024534
+      }
+    },
+    "specs": {
+      "netSize": 1418,
+      "grossSize": 1702,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 12,
+      "floor": 2,
+      "totalFloors": 9,
+      "heating": "Klima",
+      "furnishing": "Furnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500442512725?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500542322639?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500191194568?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500291129632?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500867274555?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500263553952?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500953886709?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500491658660?w=800&q=80&category=architecture"
+    ],
+    "agent": {
+      "id": "A78",
+      "name": "Agent 49",
+      "phone": "+38 686 933 8111",
+      "email": "agent63@iwrealty.com",
+      "photo": "/images/icons/png/ankara-modern-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2024-12-28T10:50:47.235Z",
+    "updatedAt": "2025-11-13T10:50:47.235Z",
+    "storeId": "store-003"
+  },
+  {
+    "id": "P05206",
+    "type": "rent",
+    "category": {
+      "main": "commercial",
+      "sub": "warehouse"
+    },
+    "title": "Kiralık Depo - New Latvia",
+    "slug": "kiralik-depo-new-latvia-P05206",
+    "description": "New Latvia, Latvia bölgesinde depo. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 27619649,
+    "location": {
+      "country": "LV",
+      "city": "New Latvia",
+      "district": "New Latvia Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 125",
+      "coordinates": {
+        "lat": 56.57661482494048,
+        "lng": 25.17140984223569
+      }
+    },
+    "specs": {
+      "netSize": 2919,
+      "grossSize": 3503,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 19,
+      "floor": 4,
+      "totalFloors": 10,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500290205442?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500880388306?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500218362825?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500372456297?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500622895405?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500587240755?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500801505122?w=800&q=80&category=real-estate"
+    ],
+    "agent": {
+      "id": "A46",
+      "name": "Agent 34",
+      "phone": "+68 448 762 7449",
+      "email": "agent38@iwrealty.com",
+      "photo": "/images/icons/png/sg-harbour-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2024-12-06T10:50:47.235Z",
+    "updatedAt": "2025-11-13T10:50:47.235Z",
+    "storeId": "store-011"
+  }
+]

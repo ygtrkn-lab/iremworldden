@@ -1,0 +1,2374 @@
+[
+  {
+    "id": "P09007",
+    "type": "sale",
+    "category": {
+      "main": "government"
+    },
+    "title": "Satılık Devlet Binası - Vatican City",
+    "slug": "satilik-devlet-binası-vatican-city-P09007",
+    "description": "Vatican City, Vatican City bölgesinde devlet binası. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 13252749,
+    "location": {
+      "country": "VA",
+      "city": "Vatican City",
+      "district": "Vatican City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 747",
+      "coordinates": {
+        "lat": 42.06493852856079,
+        "lng": 12.797983881317716
+      }
+    },
+    "specs": {
+      "netSize": 1305,
+      "grossSize": 1566,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 12,
+      "floor": 4,
+      "totalFloors": 16,
+      "heating": "Merkezi",
+      "furnishing": "Furnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500526976863?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500330481979?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500845385532?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500264365014?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500831051487?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500269760553?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500792848043?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500396619604?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500109598204?w=800&q=80&category=building"
+    ],
+    "agent": {
+      "id": "A42",
+      "name": "Agent 57",
+      "phone": "+51 927 410 6087",
+      "email": "agent6@iwrealty.com",
+      "photo": "/images/icons/png/berlin-urban-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": true,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-02-27T10:50:47.276Z",
+    "updatedAt": "2025-11-13T10:50:47.276Z",
+    "storeId": "store-009"
+  },
+  {
+    "id": "P09008",
+    "type": "rent",
+    "category": {
+      "main": "government"
+    },
+    "title": "Kiralık Belediye Binası - Vatican City",
+    "slug": "kiralik-belediye-binası-vatican-city-P09008",
+    "description": "Vatican City, Vatican City bölgesinde belediye binası. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 37764194,
+    "location": {
+      "country": "VA",
+      "city": "Vatican City",
+      "district": "Vatican City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 605",
+      "coordinates": {
+        "lat": 42.27078516085572,
+        "lng": 12.494302395037115
+      }
+    },
+    "specs": {
+      "netSize": 1507,
+      "grossSize": 1808,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 12,
+      "floor": 4,
+      "totalFloors": 11,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Furnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500001317203?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500945186554?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500887294799?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500453995517?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500456988762?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500699954222?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500726095480?w=800&q=80&category=architecture"
+    ],
+    "agent": {
+      "id": "A12",
+      "name": "Agent 97",
+      "phone": "+19 990 355 7245",
+      "email": "agent52@iwrealty.com",
+      "photo": "/images/icons/png/ny-skyline-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": false,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": true,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-11-02T10:50:47.276Z",
+    "updatedAt": "2025-11-13T10:50:47.276Z",
+    "storeId": "store-008"
+  },
+  {
+    "id": "P09009",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Daire - Vatican City",
+    "slug": "satilik-daire-vatican-city-P09009",
+    "description": "Vatican City, Vatican City bölgesinde daire. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 934412,
+    "location": {
+      "country": "VA",
+      "city": "Vatican City",
+      "district": "Vatican City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 960",
+      "coordinates": {
+        "lat": 42.38960897550396,
+        "lng": 12.242316262466794
+      }
+    },
+    "specs": {
+      "netSize": 182,
+      "grossSize": 218,
+      "rooms": "1+2",
+      "bathrooms": 1,
+      "age": 3,
+      "floor": 14,
+      "totalFloors": 18,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500029943228?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500187461534?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500832543381?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500645770926?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500335746518?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500806828996?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500032211717?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500797399576?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500489450834?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500941263295?w=800&q=80&category=architecture"
+    ],
+    "agent": {
+      "id": "A62",
+      "name": "Agent 72",
+      "phone": "+71 264 940 3843",
+      "email": "agent87@iwrealty.com",
+      "photo": "/images/icons/png/ankara-modern-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-10-25T10:50:47.276Z",
+    "updatedAt": "2025-11-13T10:50:47.276Z",
+    "storeId": "store-003"
+  },
+  {
+    "id": "P09010",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Daire - Vatican City",
+    "slug": "kiralik-daire-vatican-city-P09010",
+    "description": "Vatican City, Vatican City bölgesinde daire. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 3733774,
+    "location": {
+      "country": "VA",
+      "city": "Vatican City",
+      "district": "Vatican City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 125",
+      "coordinates": {
+        "lat": 42.0415539508116,
+        "lng": 12.041666425020829
+      }
+    },
+    "specs": {
+      "netSize": 92,
+      "grossSize": 110,
+      "rooms": "5+0",
+      "bathrooms": 3,
+      "age": 6,
+      "floor": 2,
+      "totalFloors": 20,
+      "heating": "Merkezi",
+      "furnishing": "Unfurnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500730796869?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500035169549?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500142427740?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500744110695?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500395715373?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500533377525?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500633580036?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500775065248?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500629625534?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500866371618?w=800&q=80&category=house"
+    ],
+    "agent": {
+      "id": "A36",
+      "name": "Agent 88",
+      "phone": "+32 139 873 6156",
+      "email": "agent13@iwrealty.com",
+      "photo": "/images/icons/png/dubai-property-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": false,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-07-18T10:50:47.276Z",
+    "updatedAt": "2025-11-13T10:50:47.276Z",
+    "storeId": "store-004"
+  },
+  {
+    "id": "P09011",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Residence - Vatican City Central",
+    "slug": "satilik-residence-vatican-city-central-P09011",
+    "description": "Vatican City Central, Vatican City bölgesinde residence. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 7120202,
+    "location": {
+      "country": "VA",
+      "city": "Vatican City Central",
+      "district": "Vatican City Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 13",
+      "coordinates": {
+        "lat": 41.698510392054324,
+        "lng": 12.344961393627313
+      }
+    },
+    "specs": {
+      "netSize": 259,
+      "grossSize": 311,
+      "rooms": "4+2",
+      "bathrooms": 3,
+      "age": 6,
+      "floor": 7,
+      "totalFloors": 5,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Unfurnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500881294494?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500512085299?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500102553831?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500846555834?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500415268031?w=800&q=80&category=interior"
+    ],
+    "agent": {
+      "id": "A98",
+      "name": "Agent 39",
+      "phone": "+20 946 660 3568",
+      "email": "agent22@iwrealty.com",
+      "photo": "/images/icons/png/sg-harbour-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": false,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-02-11T10:50:47.276Z",
+    "updatedAt": "2025-11-13T10:50:47.276Z",
+    "storeId": "store-011"
+  },
+  {
+    "id": "P09012",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Daire - Vatican City City",
+    "slug": "kiralik-daire-vatican-city-city-P09012",
+    "description": "Vatican City City, Vatican City bölgesinde daire. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 1997855,
+    "location": {
+      "country": "VA",
+      "city": "Vatican City City",
+      "district": "Vatican City City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 730",
+      "coordinates": {
+        "lat": 42.122822152819516,
+        "lng": 12.250054061791252
+      }
+    },
+    "specs": {
+      "netSize": 111,
+      "grossSize": 133,
+      "rooms": "2+1",
+      "bathrooms": 2,
+      "age": 19,
+      "floor": 15,
+      "totalFloors": 17,
+      "heating": "Kombi",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500323042292?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500161275124?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500755322492?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500256073582?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500089867681?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500366028006?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500884254023?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500490835178?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500873058404?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500950912377?w=800&q=80&category=building"
+    ],
+    "agent": {
+      "id": "A97",
+      "name": "Agent 45",
+      "phone": "+56 575 616 5380",
+      "email": "agent92@iwrealty.com",
+      "photo": "/images/icons/png/ankara-modern-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-02-14T10:50:47.276Z",
+    "updatedAt": "2025-11-13T10:50:47.276Z",
+    "storeId": "store-003"
+  },
+  {
+    "id": "P09013",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Daire - Vatican City",
+    "slug": "satilik-daire-vatican-city-P09013",
+    "description": "Vatican City, Vatican City bölgesinde daire. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 7748324,
+    "location": {
+      "country": "VA",
+      "city": "Vatican City",
+      "district": "Vatican City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 986",
+      "coordinates": {
+        "lat": 41.91535712256268,
+        "lng": 12.538213209514565
+      }
+    },
+    "specs": {
+      "netSize": 128,
+      "grossSize": 154,
+      "rooms": "3+1",
+      "bathrooms": 4,
+      "age": 1,
+      "floor": 9,
+      "totalFloors": 16,
+      "heating": "Kombi",
+      "furnishing": "Furnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500260060898?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500754342222?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500968493963?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500089663484?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500394800304?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500994899040?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500511355237?w=800&q=80&category=house"
+    ],
+    "agent": {
+      "id": "A51",
+      "name": "Agent 78",
+      "phone": "+33 159 178 6744",
+      "email": "agent98@iwrealty.com",
+      "photo": "/images/icons/png/antalya-investment-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2024-11-19T10:50:47.276Z",
+    "updatedAt": "2025-11-13T10:50:47.276Z",
+    "storeId": "store-006"
+  },
+  {
+    "id": "P09014",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Müstakil Ev - Vatican City",
+    "slug": "kiralik-müstakil-ev-vatican-city-P09014",
+    "description": "Vatican City, Vatican City bölgesinde müstakil ev. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 8548177,
+    "location": {
+      "country": "VA",
+      "city": "Vatican City",
+      "district": "Vatican City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 430",
+      "coordinates": {
+        "lat": 41.700384987964085,
+        "lng": 12.354758572709898
+      }
+    },
+    "specs": {
+      "netSize": 151,
+      "grossSize": 181,
+      "rooms": "1+1",
+      "bathrooms": 1,
+      "age": 18,
+      "floor": 2,
+      "totalFloors": 20,
+      "heating": "Klima",
+      "furnishing": "Unfurnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500514220899?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500673598217?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500071757824?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500149681427?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500454752200?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500489285917?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500266500671?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500624720446?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500362044299?w=800&q=80&category=building"
+    ],
+    "agent": {
+      "id": "A33",
+      "name": "Agent 65",
+      "phone": "+35 306 839 6136",
+      "email": "agent69@iwrealty.com",
+      "photo": "/images/icons/png/izmir-sahil-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-05-20T10:50:47.276Z",
+    "updatedAt": "2025-11-13T10:50:47.276Z",
+    "storeId": "store-005"
+  },
+  {
+    "id": "P09015",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Müstakil Ev - Vatican City City",
+    "slug": "satilik-müstakil-ev-vatican-city-city-P09015",
+    "description": "Vatican City City, Vatican City bölgesinde müstakil ev. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 10178184,
+    "location": {
+      "country": "VA",
+      "city": "Vatican City City",
+      "district": "Vatican City City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 859",
+      "coordinates": {
+        "lat": 41.52221127436768,
+        "lng": 12.487258309358394
+      }
+    },
+    "specs": {
+      "netSize": 416,
+      "grossSize": 499,
+      "rooms": "3+0",
+      "bathrooms": 1,
+      "age": 20,
+      "floor": 1,
+      "totalFloors": 9,
+      "heating": "Kombi",
+      "furnishing": "Furnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500860236755?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500974099560?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500563838485?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500208833515?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500731731552?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500117235580?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500389012450?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500750369442?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500036706326?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500574412493?w=800&q=80&category=interior"
+    ],
+    "agent": {
+      "id": "A37",
+      "name": "Agent 75",
+      "phone": "+48 858 897 7508",
+      "email": "agent84@iwrealty.com",
+      "photo": "/images/icons/png/london-prime-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": true,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-07-14T10:50:47.276Z",
+    "updatedAt": "2025-11-13T10:50:47.276Z",
+    "storeId": "store-007"
+  },
+  {
+    "id": "P09016",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Residence - New Vatican City",
+    "slug": "kiralik-residence-new-vatican-city-P09016",
+    "description": "New Vatican City, Vatican City bölgesinde residence. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 10409924,
+    "location": {
+      "country": "VA",
+      "city": "New Vatican City",
+      "district": "New Vatican City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 117",
+      "coordinates": {
+        "lat": 42.388788965261845,
+        "lng": 12.841194856220739
+      }
+    },
+    "specs": {
+      "netSize": 221,
+      "grossSize": 265,
+      "rooms": "5+1",
+      "bathrooms": 2,
+      "age": 18,
+      "floor": 14,
+      "totalFloors": 5,
+      "heating": "Merkezi",
+      "furnishing": "Unfurnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500561471167?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500585755729?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500612122964?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500414437516?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500949207495?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500787357475?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500436221548?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500745504404?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500919946681?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500473299733?w=800&q=80&category=building"
+    ],
+    "agent": {
+      "id": "A58",
+      "name": "Agent 68",
+      "phone": "+12 897 717 8676",
+      "email": "agent9@iwrealty.com",
+      "photo": "/images/icons/png/ny-skyline-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-07-29T10:50:47.276Z",
+    "updatedAt": "2025-11-13T10:50:47.276Z",
+    "storeId": "store-008"
+  },
+  {
+    "id": "P09017",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Villa - Vatican City City",
+    "slug": "satilik-villa-vatican-city-city-P09017",
+    "description": "Vatican City City, Vatican City bölgesinde villa. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 11357771,
+    "location": {
+      "country": "VA",
+      "city": "Vatican City City",
+      "district": "Vatican City City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 918",
+      "coordinates": {
+        "lat": 42.28332491136699,
+        "lng": 12.655276534061494
+      }
+    },
+    "specs": {
+      "netSize": 169,
+      "grossSize": 203,
+      "rooms": "5+1",
+      "bathrooms": 2,
+      "age": 6,
+      "floor": 4,
+      "totalFloors": 9,
+      "heating": "Merkezi",
+      "furnishing": "Unfurnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500521284027?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500885824144?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500567835531?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500962928388?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500990244193?w=800&q=80&category=architecture"
+    ],
+    "agent": {
+      "id": "A30",
+      "name": "Agent 47",
+      "phone": "+86 348 503 2486",
+      "email": "agent82@iwrealty.com",
+      "photo": "/images/icons/png/berlin-urban-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": false,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2024-12-22T10:50:47.276Z",
+    "updatedAt": "2025-11-13T10:50:47.276Z",
+    "storeId": "store-009"
+  },
+  {
+    "id": "P09018",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Villa - Vatican City Central",
+    "slug": "kiralik-villa-vatican-city-central-P09018",
+    "description": "Vatican City Central, Vatican City bölgesinde villa. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 5738732,
+    "location": {
+      "country": "VA",
+      "city": "Vatican City Central",
+      "district": "Vatican City Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 114",
+      "coordinates": {
+        "lat": 42.352094991401636,
+        "lng": 12.053134147581885
+      }
+    },
+    "specs": {
+      "netSize": 90,
+      "grossSize": 108,
+      "rooms": "1+2",
+      "bathrooms": 2,
+      "age": 8,
+      "floor": 12,
+      "totalFloors": 10,
+      "heating": "Klima",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500686609974?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500575895668?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500418880632?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500052737251?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500873958953?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500977353045?w=800&q=80&category=house"
+    ],
+    "agent": {
+      "id": "A68",
+      "name": "Agent 67",
+      "phone": "+75 809 460 8171",
+      "email": "agent92@iwrealty.com",
+      "photo": "/images/icons/png/ankara-modern-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-01-16T10:50:47.276Z",
+    "updatedAt": "2025-11-13T10:50:47.276Z",
+    "storeId": "store-003"
+  },
+  {
+    "id": "P09019",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Müstakil Ev - Vatican City",
+    "slug": "satilik-müstakil-ev-vatican-city-P09019",
+    "description": "Vatican City, Vatican City bölgesinde müstakil ev. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 3372189,
+    "location": {
+      "country": "VA",
+      "city": "Vatican City",
+      "district": "Vatican City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 805",
+      "coordinates": {
+        "lat": 42.31745573516681,
+        "lng": 12.537318793826309
+      }
+    },
+    "specs": {
+      "netSize": 233,
+      "grossSize": 280,
+      "rooms": "5+1",
+      "bathrooms": 1,
+      "age": 9,
+      "floor": 7,
+      "totalFloors": 17,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Unfurnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500764280535?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500755531186?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500604890360?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500918385951?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500672051089?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500024186883?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500670999929?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500487137940?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500988234099?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500423355153?w=800&q=80&category=house"
+    ],
+    "agent": {
+      "id": "A63",
+      "name": "Agent 69",
+      "phone": "+24 469 112 7884",
+      "email": "agent20@iwrealty.com",
+      "photo": "/images/icons/png/sg-harbour-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-03-29T10:50:47.276Z",
+    "updatedAt": "2025-11-13T10:50:47.276Z",
+    "storeId": "store-011"
+  },
+  {
+    "id": "P09020",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Villa - Vatican City City",
+    "slug": "kiralik-villa-vatican-city-city-P09020",
+    "description": "Vatican City City, Vatican City bölgesinde villa. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 5388974,
+    "location": {
+      "country": "VA",
+      "city": "Vatican City City",
+      "district": "Vatican City City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 103",
+      "coordinates": {
+        "lat": 42.16620249477406,
+        "lng": 12.696643726657715
+      }
+    },
+    "specs": {
+      "netSize": 479,
+      "grossSize": 575,
+      "rooms": "3+0",
+      "bathrooms": 4,
+      "age": 8,
+      "floor": 14,
+      "totalFloors": 19,
+      "heating": "Klima",
+      "furnishing": "Unfurnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500284938364?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500761236908?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500117457226?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500921789935?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500401490895?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500275448644?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500330897562?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500445446468?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500149610973?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500990922194?w=800&q=80&category=architecture"
+    ],
+    "agent": {
+      "id": "A9",
+      "name": "Agent 45",
+      "phone": "+74 605 811 1273",
+      "email": "agent28@iwrealty.com",
+      "photo": "/images/icons/png/paris-heritage-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-10-09T10:50:47.276Z",
+    "updatedAt": "2025-11-13T10:50:47.276Z",
+    "storeId": "store-010"
+  },
+  {
+    "id": "P09021",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Müstakil Ev - Vatican City City",
+    "slug": "satilik-müstakil-ev-vatican-city-city-P09021",
+    "description": "Vatican City City, Vatican City bölgesinde müstakil ev. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 9201346,
+    "location": {
+      "country": "VA",
+      "city": "Vatican City City",
+      "district": "Vatican City City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 601",
+      "coordinates": {
+        "lat": 41.82409425444011,
+        "lng": 12.918763242013615
+      }
+    },
+    "specs": {
+      "netSize": 293,
+      "grossSize": 352,
+      "rooms": "2+1",
+      "bathrooms": 4,
+      "age": 8,
+      "floor": 14,
+      "totalFloors": 6,
+      "heating": "Kombi",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500094899501?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500069558414?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500992145689?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500526392086?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500847151908?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500826796331?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500072288684?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500300460174?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500829834143?w=800&q=80&category=interior"
+    ],
+    "agent": {
+      "id": "A79",
+      "name": "Agent 100",
+      "phone": "+27 968 345 6487",
+      "email": "agent91@iwrealty.com",
+      "photo": "/images/icons/png/paris-heritage-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": false,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": true,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-05-23T10:50:47.276Z",
+    "updatedAt": "2025-11-13T10:50:47.276Z",
+    "storeId": "store-010"
+  },
+  {
+    "id": "P09022",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Daire - Vatican City Central",
+    "slug": "kiralik-daire-vatican-city-central-P09022",
+    "description": "Vatican City Central, Vatican City bölgesinde daire. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 4436348,
+    "location": {
+      "country": "VA",
+      "city": "Vatican City Central",
+      "district": "Vatican City Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 304",
+      "coordinates": {
+        "lat": 41.80724194149565,
+        "lng": 12.340027301625561
+      }
+    },
+    "specs": {
+      "netSize": 157,
+      "grossSize": 188,
+      "rooms": "2+2",
+      "bathrooms": 4,
+      "age": 12,
+      "floor": 1,
+      "totalFloors": 19,
+      "heating": "Klima",
+      "furnishing": "Furnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500574447184?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500463025117?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500961004002?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500806254102?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500138250829?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500008598530?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500164525513?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500979985048?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500252793275?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500352109622?w=800&q=80&category=house"
+    ],
+    "agent": {
+      "id": "A53",
+      "name": "Agent 97",
+      "phone": "+79 336 974 6763",
+      "email": "agent32@iwrealty.com",
+      "photo": "/images/icons/png/antalya-investment-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-08-30T10:50:47.276Z",
+    "updatedAt": "2025-11-13T10:50:47.276Z",
+    "storeId": "store-006"
+  },
+  {
+    "id": "P09023",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Daire - Vatican City Central",
+    "slug": "satilik-daire-vatican-city-central-P09023",
+    "description": "Vatican City Central, Vatican City bölgesinde daire. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 11362616,
+    "location": {
+      "country": "VA",
+      "city": "Vatican City Central",
+      "district": "Vatican City Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 735",
+      "coordinates": {
+        "lat": 41.78059158298539,
+        "lng": 12.809021900759644
+      }
+    },
+    "specs": {
+      "netSize": 197,
+      "grossSize": 236,
+      "rooms": "1+2",
+      "bathrooms": 1,
+      "age": 20,
+      "floor": 12,
+      "totalFloors": 20,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Furnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500575698395?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500535808800?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500021007084?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500807206086?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500034525260?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500956476598?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500050891121?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500725254065?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500118524426?w=800&q=80&category=building"
+    ],
+    "agent": {
+      "id": "A68",
+      "name": "Agent 32",
+      "phone": "+57 927 219 7596",
+      "email": "agent71@iwrealty.com",
+      "photo": "/images/icons/png/luxury-homes-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": false,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-04-16T10:50:47.276Z",
+    "updatedAt": "2025-11-13T10:50:47.276Z",
+    "storeId": "store-002"
+  },
+  {
+    "id": "P09024",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Villa - Vatican City Central",
+    "slug": "kiralik-villa-vatican-city-central-P09024",
+    "description": "Vatican City Central, Vatican City bölgesinde villa. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 9497485,
+    "location": {
+      "country": "VA",
+      "city": "Vatican City Central",
+      "district": "Vatican City Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 821",
+      "coordinates": {
+        "lat": 42.151102438528895,
+        "lng": 12.02521037812014
+      }
+    },
+    "specs": {
+      "netSize": 372,
+      "grossSize": 446,
+      "rooms": "3+0",
+      "bathrooms": 3,
+      "age": 8,
+      "floor": 2,
+      "totalFloors": 13,
+      "heating": "Klima",
+      "furnishing": "Furnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500695316270?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500554440810?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500281161249?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500793486650?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500601442022?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500541005860?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500306139093?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500148182542?w=800&q=80&category=architecture"
+    ],
+    "agent": {
+      "id": "A62",
+      "name": "Agent 82",
+      "phone": "+41 273 456 2963",
+      "email": "agent61@iwrealty.com",
+      "photo": "/images/icons/png/izmir-sahil-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2024-12-31T10:50:47.276Z",
+    "updatedAt": "2025-11-13T10:50:47.276Z",
+    "storeId": "store-005"
+  },
+  {
+    "id": "P09025",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Residence - Vatican City Central",
+    "slug": "satilik-residence-vatican-city-central-P09025",
+    "description": "Vatican City Central, Vatican City bölgesinde residence. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 13684655,
+    "location": {
+      "country": "VA",
+      "city": "Vatican City Central",
+      "district": "Vatican City Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 692",
+      "coordinates": {
+        "lat": 42.249004151841554,
+        "lng": 12.236210375215915
+      }
+    },
+    "specs": {
+      "netSize": 166,
+      "grossSize": 199,
+      "rooms": "1+2",
+      "bathrooms": 1,
+      "age": 18,
+      "floor": 6,
+      "totalFloors": 5,
+      "heating": "Kombi",
+      "furnishing": "Furnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500889834891?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500230221829?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500919392065?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500820544683?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500967665717?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500323242610?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500790935826?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500995949486?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500110918535?w=800&q=80&category=house"
+    ],
+    "agent": {
+      "id": "A61",
+      "name": "Agent 36",
+      "phone": "+17 747 951 8385",
+      "email": "agent37@iwrealty.com",
+      "photo": "/images/icons/png/berlin-urban-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-04-09T10:50:47.276Z",
+    "updatedAt": "2025-11-13T10:50:47.276Z",
+    "storeId": "store-009"
+  },
+  {
+    "id": "P09026",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Daire - Vatican City",
+    "slug": "kiralik-daire-vatican-city-P09026",
+    "description": "Vatican City, Vatican City bölgesinde daire. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 12788746,
+    "location": {
+      "country": "VA",
+      "city": "Vatican City",
+      "district": "Vatican City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 616",
+      "coordinates": {
+        "lat": 42.178968607585794,
+        "lng": 12.654159993530866
+      }
+    },
+    "specs": {
+      "netSize": 219,
+      "grossSize": 263,
+      "rooms": "3+0",
+      "bathrooms": 4,
+      "age": 11,
+      "floor": 6,
+      "totalFloors": 15,
+      "heating": "Merkezi",
+      "furnishing": "Unfurnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500919216184?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500534674827?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500764482787?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500369030939?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500566631259?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500816081440?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500063984766?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500368846469?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500668343407?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500690395260?w=800&q=80&category=real-estate"
+    ],
+    "agent": {
+      "id": "A37",
+      "name": "Agent 30",
+      "phone": "+74 550 428 2717",
+      "email": "agent11@iwrealty.com",
+      "photo": "/images/icons/png/luxury-homes-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-05-20T10:50:47.276Z",
+    "updatedAt": "2025-11-13T10:50:47.276Z",
+    "storeId": "store-002"
+  },
+  {
+    "id": "P09027",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Daire - Vatican City",
+    "slug": "satilik-daire-vatican-city-P09027",
+    "description": "Vatican City, Vatican City bölgesinde daire. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 10441368,
+    "location": {
+      "country": "VA",
+      "city": "Vatican City",
+      "district": "Vatican City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 157",
+      "coordinates": {
+        "lat": 41.512434171119516,
+        "lng": 12.374986711112378
+      }
+    },
+    "specs": {
+      "netSize": 337,
+      "grossSize": 404,
+      "rooms": "3+1",
+      "bathrooms": 4,
+      "age": 5,
+      "floor": 8,
+      "totalFloors": 15,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Unfurnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500987809236?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500948394237?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500841022483?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500147299970?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500725471729?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500496435288?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500899145382?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500123532719?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500288184583?w=800&q=80&category=architecture"
+    ],
+    "agent": {
+      "id": "A89",
+      "name": "Agent 16",
+      "phone": "+62 446 506 3445",
+      "email": "agent73@iwrealty.com",
+      "photo": "/images/icons/png/berlin-urban-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": true,
+      "hasPool": true,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-03-06T10:50:47.276Z",
+    "updatedAt": "2025-11-13T10:50:47.276Z",
+    "storeId": "store-009"
+  },
+  {
+    "id": "P09028",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Daire - Vatican City",
+    "slug": "kiralik-daire-vatican-city-P09028",
+    "description": "Vatican City, Vatican City bölgesinde daire. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 1445926,
+    "location": {
+      "country": "VA",
+      "city": "Vatican City",
+      "district": "Vatican City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 847",
+      "coordinates": {
+        "lat": 42.03735136784074,
+        "lng": 11.96739726806547
+      }
+    },
+    "specs": {
+      "netSize": 283,
+      "grossSize": 340,
+      "rooms": "5+1",
+      "bathrooms": 3,
+      "age": 5,
+      "floor": 7,
+      "totalFloors": 20,
+      "heating": "Merkezi",
+      "furnishing": "Furnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500853059610?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500930201542?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500038021301?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500872179738?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500344531798?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500351787624?w=800&q=80&category=interior"
+    ],
+    "agent": {
+      "id": "A85",
+      "name": "Agent 61",
+      "phone": "+38 107 853 9217",
+      "email": "agent28@iwrealty.com",
+      "photo": "/images/icons/png/izmir-sahil-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-04-10T10:50:47.276Z",
+    "updatedAt": "2025-11-13T10:50:47.276Z",
+    "storeId": "store-005"
+  },
+  {
+    "id": "P09029",
+    "type": "sale",
+    "category": {
+      "main": "commercial",
+      "sub": "hospital"
+    },
+    "title": "Satılık Hastane - Vatican City",
+    "slug": "satilik-hastane-vatican-city-P09029",
+    "description": "Vatican City, Vatican City bölgesinde hastane. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 75049879,
+    "location": {
+      "country": "VA",
+      "city": "Vatican City",
+      "district": "Vatican City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 964",
+      "coordinates": {
+        "lat": 42.231936387450844,
+        "lng": 12.6952415507103
+      }
+    },
+    "specs": {
+      "netSize": 7749,
+      "grossSize": 9299,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 9,
+      "floor": 10,
+      "totalFloors": 5,
+      "heating": "Merkezi",
+      "furnishing": "Unfurnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500346609548?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500438765938?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500091799061?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500577888702?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500651531002?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500311597657?w=800&q=80&category=house"
+    ],
+    "agent": {
+      "id": "A10",
+      "name": "Agent 36",
+      "phone": "+20 725 703 8114",
+      "email": "agent89@iwrealty.com",
+      "photo": "/images/icons/png/ny-skyline-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-09-26T10:50:47.276Z",
+    "updatedAt": "2025-11-13T10:50:47.276Z",
+    "storeId": "store-008"
+  },
+  {
+    "id": "P09030",
+    "type": "rent",
+    "category": {
+      "main": "commercial",
+      "sub": "hospital"
+    },
+    "title": "Kiralık Hastane - New Vatican City",
+    "slug": "kiralik-hastane-new-vatican-city-P09030",
+    "description": "New Vatican City, Vatican City bölgesinde hastane. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 64453791,
+    "location": {
+      "country": "VA",
+      "city": "New Vatican City",
+      "district": "New Vatican City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 594",
+      "coordinates": {
+        "lat": 42.122174259194914,
+        "lng": 12.34962997661967
+      }
+    },
+    "specs": {
+      "netSize": 18218,
+      "grossSize": 21862,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 0,
+      "floor": 14,
+      "totalFloors": 9,
+      "heating": "Kombi",
+      "furnishing": "Furnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500737938184?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500365628255?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500673839123?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500156562174?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500216933024?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500891102805?w=800&q=80&category=interior"
+    ],
+    "agent": {
+      "id": "A81",
+      "name": "Agent 63",
+      "phone": "+82 207 517 9336",
+      "email": "agent38@iwrealty.com",
+      "photo": "/images/icons/png/paris-heritage-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2024-12-09T10:50:47.276Z",
+    "updatedAt": "2025-11-13T10:50:47.276Z",
+    "storeId": "store-010"
+  },
+  {
+    "id": "P09031",
+    "type": "sale",
+    "category": {
+      "main": "commercial",
+      "sub": "clinic"
+    },
+    "title": "Satılık Klinik - New Vatican City",
+    "slug": "satilik-klinik-new-vatican-city-P09031",
+    "description": "New Vatican City, Vatican City bölgesinde klinik. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 10800704,
+    "location": {
+      "country": "VA",
+      "city": "New Vatican City",
+      "district": "New Vatican City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 86",
+      "coordinates": {
+        "lat": 42.39841559164989,
+        "lng": 12.688359781373132
+      }
+    },
+    "specs": {
+      "netSize": 1144,
+      "grossSize": 1373,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 3,
+      "floor": 8,
+      "totalFloors": 5,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Unfurnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500605851246?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500248083580?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500837074298?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500321771318?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500643702317?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500391375163?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500277108496?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500549650811?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500379245209?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500531729826?w=800&q=80&category=real-estate"
+    ],
+    "agent": {
+      "id": "A8",
+      "name": "Agent 29",
+      "phone": "+98 621 312 6487",
+      "email": "agent16@iwrealty.com",
+      "photo": "/images/icons/png/london-prime-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": false,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-06-21T10:50:47.276Z",
+    "updatedAt": "2025-11-13T10:50:47.276Z",
+    "storeId": "store-007"
+  },
+  {
+    "id": "P09032",
+    "type": "rent",
+    "category": {
+      "main": "commercial",
+      "sub": "clinic"
+    },
+    "title": "Kiralık Klinik - Vatican City City",
+    "slug": "kiralik-klinik-vatican-city-city-P09032",
+    "description": "Vatican City City, Vatican City bölgesinde klinik. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 6707264,
+    "location": {
+      "country": "VA",
+      "city": "Vatican City City",
+      "district": "Vatican City City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 608",
+      "coordinates": {
+        "lat": 42.28907852432223,
+        "lng": 12.91155590383463
+      }
+    },
+    "specs": {
+      "netSize": 1281,
+      "grossSize": 1537,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 3,
+      "floor": 9,
+      "totalFloors": 13,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500379027005?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500402505026?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500807204145?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500955841671?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500667968881?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500825537730?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500188386610?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500962408207?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500084776663?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500970462599?w=800&q=80&category=interior"
+    ],
+    "agent": {
+      "id": "A69",
+      "name": "Agent 2",
+      "phone": "+96 661 240 1528",
+      "email": "agent91@iwrealty.com",
+      "photo": "/images/icons/png/paris-heritage-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": true,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-01-18T10:50:47.276Z",
+    "updatedAt": "2025-11-13T10:50:47.276Z",
+    "storeId": "store-010"
+  },
+  {
+    "id": "P09033",
+    "type": "sale",
+    "category": {
+      "main": "commercial",
+      "sub": "shop"
+    },
+    "title": "Satılık Dükkan - Vatican City Central",
+    "slug": "satilik-dükkan-vatican-city-central-P09033",
+    "description": "Vatican City Central, Vatican City bölgesinde dükkan. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 2355321,
+    "location": {
+      "country": "VA",
+      "city": "Vatican City Central",
+      "district": "Vatican City Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 178",
+      "coordinates": {
+        "lat": 41.451969253907826,
+        "lng": 12.918874751451177
+      }
+    },
+    "specs": {
+      "netSize": 291,
+      "grossSize": 349,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 18,
+      "floor": 1,
+      "totalFloors": 20,
+      "heating": "Kombi",
+      "furnishing": "Unfurnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500327006492?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500534954993?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500999309218?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500707690917?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500584351334?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500505074322?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500812445315?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500024796566?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500396778122?w=800&q=80&category=house"
+    ],
+    "agent": {
+      "id": "A75",
+      "name": "Agent 17",
+      "phone": "+68 108 776 4870",
+      "email": "agent11@iwrealty.com",
+      "photo": "/images/icons/png/izmir-sahil-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-09-18T10:50:47.276Z",
+    "updatedAt": "2025-11-13T10:50:47.276Z",
+    "storeId": "store-005"
+  },
+  {
+    "id": "P09034",
+    "type": "rent",
+    "category": {
+      "main": "commercial",
+      "sub": "shop"
+    },
+    "title": "Kiralık Dükkan - New Vatican City",
+    "slug": "kiralik-dükkan-new-vatican-city-P09034",
+    "description": "New Vatican City, Vatican City bölgesinde dükkan. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 3244532,
+    "location": {
+      "country": "VA",
+      "city": "New Vatican City",
+      "district": "New Vatican City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 11",
+      "coordinates": {
+        "lat": 42.293843348643335,
+        "lng": 12.70689481209865
+      }
+    },
+    "specs": {
+      "netSize": 397,
+      "grossSize": 476,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 18,
+      "floor": 11,
+      "totalFloors": 20,
+      "heating": "Kombi",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500383056642?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500012312353?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500318750883?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500173014920?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500264820412?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500657462231?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500611460362?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500289544789?w=800&q=80&category=building"
+    ],
+    "agent": {
+      "id": "A49",
+      "name": "Agent 44",
+      "phone": "+37 712 902 6394",
+      "email": "agent94@iwrealty.com",
+      "photo": "/images/icons/png/london-prime-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2024-11-28T10:50:47.276Z",
+    "updatedAt": "2025-11-13T10:50:47.276Z",
+    "storeId": "store-007"
+  },
+  {
+    "id": "P09035",
+    "type": "sale",
+    "category": {
+      "main": "commercial",
+      "sub": "office"
+    },
+    "title": "Satılık Ofis - New Vatican City",
+    "slug": "satilik-ofis-new-vatican-city-P09035",
+    "description": "New Vatican City, Vatican City bölgesinde ofis. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 14529737,
+    "location": {
+      "country": "VA",
+      "city": "New Vatican City",
+      "district": "New Vatican City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 157",
+      "coordinates": {
+        "lat": 41.603159801762224,
+        "lng": 12.035109957922458
+      }
+    },
+    "specs": {
+      "netSize": 279,
+      "grossSize": 335,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 7,
+      "floor": 11,
+      "totalFloors": 20,
+      "heating": "Kombi",
+      "furnishing": "Furnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500831680858?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500770044396?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500639788960?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500786928150?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500018119475?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500683943174?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500329545852?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500616137494?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500951570171?w=800&q=80&category=interior"
+    ],
+    "agent": {
+      "id": "A88",
+      "name": "Agent 22",
+      "phone": "+46 228 282 9113",
+      "email": "agent88@iwrealty.com",
+      "photo": "/images/icons/png/london-prime-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-01-08T10:50:47.276Z",
+    "updatedAt": "2025-11-13T10:50:47.276Z",
+    "storeId": "store-007"
+  },
+  {
+    "id": "P09036",
+    "type": "rent",
+    "category": {
+      "main": "commercial",
+      "sub": "office"
+    },
+    "title": "Kiralık Ofis - Vatican City City",
+    "slug": "kiralik-ofis-vatican-city-city-P09036",
+    "description": "Vatican City City, Vatican City bölgesinde ofis. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 6605290,
+    "location": {
+      "country": "VA",
+      "city": "Vatican City City",
+      "district": "Vatican City City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 187",
+      "coordinates": {
+        "lat": 41.4726495790701,
+        "lng": 12.40849833019367
+      }
+    },
+    "specs": {
+      "netSize": 681,
+      "grossSize": 817,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 2,
+      "floor": 11,
+      "totalFloors": 5,
+      "heating": "Klima",
+      "furnishing": "Furnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500262718381?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500572263895?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500659228132?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500429730512?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500368062315?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500716035750?w=800&q=80&category=architecture"
+    ],
+    "agent": {
+      "id": "A72",
+      "name": "Agent 91",
+      "phone": "+27 741 298 9686",
+      "email": "agent38@iwrealty.com",
+      "photo": "/images/icons/png/london-prime-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": true,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-05-10T10:50:47.276Z",
+    "updatedAt": "2025-11-13T10:50:47.276Z",
+    "storeId": "store-007"
+  },
+  {
+    "id": "P09037",
+    "type": "sale",
+    "category": {
+      "main": "commercial",
+      "sub": "mall"
+    },
+    "title": "Satılık AVM - New Vatican City",
+    "slug": "satilik-avm-new-vatican-city-P09037",
+    "description": "New Vatican City, Vatican City bölgesinde avm. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 153830621,
+    "location": {
+      "country": "VA",
+      "city": "New Vatican City",
+      "district": "New Vatican City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 152",
+      "coordinates": {
+        "lat": 41.56804862705699,
+        "lng": 12.339339963947062
+      }
+    },
+    "specs": {
+      "netSize": 10400,
+      "grossSize": 12480,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 8,
+      "floor": 2,
+      "totalFloors": 7,
+      "heating": "Klima",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500354297443?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500928867394?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500105267159?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500718328989?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500442350023?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500425480104?w=800&q=80&category=house"
+    ],
+    "agent": {
+      "id": "A70",
+      "name": "Agent 27",
+      "phone": "+99 435 153 8056",
+      "email": "agent11@iwrealty.com",
+      "photo": "/images/icons/png/antalya-investment-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-01-22T10:50:47.276Z",
+    "updatedAt": "2025-11-13T10:50:47.276Z",
+    "storeId": "store-006"
+  },
+  {
+    "id": "P09038",
+    "type": "rent",
+    "category": {
+      "main": "commercial",
+      "sub": "mall"
+    },
+    "title": "Kiralık AVM - New Vatican City",
+    "slug": "kiralik-avm-new-vatican-city-P09038",
+    "description": "New Vatican City, Vatican City bölgesinde avm. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 212261526,
+    "location": {
+      "country": "VA",
+      "city": "New Vatican City",
+      "district": "New Vatican City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 791",
+      "coordinates": {
+        "lat": 41.44303950918066,
+        "lng": 11.96423964545553
+      }
+    },
+    "specs": {
+      "netSize": 39699,
+      "grossSize": 47639,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 7,
+      "floor": 1,
+      "totalFloors": 5,
+      "heating": "Klima",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500007086514?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500644284956?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500784704477?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500525560311?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500774161918?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500979821097?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500136125560?w=800&q=80&category=architecture"
+    ],
+    "agent": {
+      "id": "A8",
+      "name": "Agent 71",
+      "phone": "+31 792 480 2637",
+      "email": "agent99@iwrealty.com",
+      "photo": "/images/icons/png/sydney-coastal-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-11-07T10:50:47.276Z",
+    "updatedAt": "2025-11-13T10:50:47.276Z",
+    "storeId": "store-012"
+  },
+  {
+    "id": "P09039",
+    "type": "sale",
+    "category": {
+      "main": "commercial",
+      "sub": "hotel"
+    },
+    "title": "Satılık Otel - New Vatican City",
+    "slug": "satilik-otel-new-vatican-city-P09039",
+    "description": "New Vatican City, Vatican City bölgesinde otel. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 115291186,
+    "location": {
+      "country": "VA",
+      "city": "New Vatican City",
+      "district": "New Vatican City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 358",
+      "coordinates": {
+        "lat": 42.277367910931694,
+        "lng": 12.907074288522338
+      }
+    },
+    "specs": {
+      "netSize": 6070,
+      "grossSize": 7284,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 8,
+      "floor": 6,
+      "totalFloors": 15,
+      "heating": "Klima",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500225400845?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500747875152?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500804164277?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500514098630?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500650825970?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500092010716?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500819466713?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500604009682?w=800&q=80&category=real-estate"
+    ],
+    "agent": {
+      "id": "A51",
+      "name": "Agent 83",
+      "phone": "+38 431 526 1696",
+      "email": "agent59@iwrealty.com",
+      "photo": "/images/icons/png/paris-heritage-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": false,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-06-07T10:50:47.276Z",
+    "updatedAt": "2025-11-13T10:50:47.276Z",
+    "storeId": "store-010"
+  },
+  {
+    "id": "P09040",
+    "type": "rent",
+    "category": {
+      "main": "commercial",
+      "sub": "hotel"
+    },
+    "title": "Kiralık Otel - Vatican City",
+    "slug": "kiralik-otel-vatican-city-P09040",
+    "description": "Vatican City, Vatican City bölgesinde otel. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 21199084,
+    "location": {
+      "country": "VA",
+      "city": "Vatican City",
+      "district": "Vatican City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 24",
+      "coordinates": {
+        "lat": 41.49105076902955,
+        "lng": 12.095841487337179
+      }
+    },
+    "specs": {
+      "netSize": 6729,
+      "grossSize": 8075,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 9,
+      "floor": 15,
+      "totalFloors": 11,
+      "heating": "Merkezi",
+      "furnishing": "Unfurnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500560003768?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500868917132?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500998360443?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500154724320?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500669384950?w=800&q=80&category=interior"
+    ],
+    "agent": {
+      "id": "A63",
+      "name": "Agent 44",
+      "phone": "+64 635 894 4124",
+      "email": "agent33@iwrealty.com",
+      "photo": "/images/icons/png/paris-heritage-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-04-25T10:50:47.276Z",
+    "updatedAt": "2025-11-13T10:50:47.276Z",
+    "storeId": "store-010"
+  },
+  {
+    "id": "P09041",
+    "type": "sale",
+    "category": {
+      "main": "commercial",
+      "sub": "restaurant"
+    },
+    "title": "Satılık Restoran - New Vatican City",
+    "slug": "satilik-restoran-new-vatican-city-P09041",
+    "description": "New Vatican City, Vatican City bölgesinde restoran. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 3040823,
+    "location": {
+      "country": "VA",
+      "city": "New Vatican City",
+      "district": "New Vatican City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 922",
+      "coordinates": {
+        "lat": 41.891031349117355,
+        "lng": 12.21560973798137
+      }
+    },
+    "specs": {
+      "netSize": 1202,
+      "grossSize": 1442,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 9,
+      "floor": 4,
+      "totalFloors": 14,
+      "heating": "Kombi",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500914280175?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500115632517?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500437670007?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500981550358?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500049231113?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500893971401?w=800&q=80&category=building"
+    ],
+    "agent": {
+      "id": "A14",
+      "name": "Agent 43",
+      "phone": "+89 443 517 3449",
+      "email": "agent51@iwrealty.com",
+      "photo": "/images/icons/png/luxury-homes-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": false,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": true,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-11-08T10:50:47.276Z",
+    "updatedAt": "2025-11-13T10:50:47.276Z",
+    "storeId": "store-002"
+  },
+  {
+    "id": "P09042",
+    "type": "rent",
+    "category": {
+      "main": "commercial",
+      "sub": "restaurant"
+    },
+    "title": "Kiralık Restoran - Vatican City City",
+    "slug": "kiralik-restoran-vatican-city-city-P09042",
+    "description": "Vatican City City, Vatican City bölgesinde restoran. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 6868606,
+    "location": {
+      "country": "VA",
+      "city": "Vatican City City",
+      "district": "Vatican City City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 575",
+      "coordinates": {
+        "lat": 41.89256923331076,
+        "lng": 12.223236135525976
+      }
+    },
+    "specs": {
+      "netSize": 1411,
+      "grossSize": 1693,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 4,
+      "floor": 14,
+      "totalFloors": 6,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Furnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500674731352?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500261174409?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500330125002?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500398973125?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500926530335?w=800&q=80&category=real-estate"
+    ],
+    "agent": {
+      "id": "A92",
+      "name": "Agent 80",
+      "phone": "+25 744 769 2347",
+      "email": "agent74@iwrealty.com",
+      "photo": "/images/icons/png/antalya-investment-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-10-18T10:50:47.276Z",
+    "updatedAt": "2025-11-13T10:50:47.276Z",
+    "storeId": "store-006"
+  },
+  {
+    "id": "P09043",
+    "type": "sale",
+    "category": {
+      "main": "commercial",
+      "sub": "warehouse"
+    },
+    "title": "Satılık Depo - Vatican City",
+    "slug": "satilik-depo-vatican-city-P09043",
+    "description": "Vatican City, Vatican City bölgesinde depo. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 9520311,
+    "location": {
+      "country": "VA",
+      "city": "Vatican City",
+      "district": "Vatican City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 190",
+      "coordinates": {
+        "lat": 42.186487929955035,
+        "lng": 12.363225012348662
+      }
+    },
+    "specs": {
+      "netSize": 663,
+      "grossSize": 796,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 14,
+      "floor": 13,
+      "totalFloors": 14,
+      "heating": "Merkezi",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500980595741?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500046033775?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500747860531?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500403504409?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500619551956?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500714747726?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500621586671?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500808907386?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500972735508?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500814085302?w=800&q=80&category=building"
+    ],
+    "agent": {
+      "id": "A2",
+      "name": "Agent 16",
+      "phone": "+74 936 131 7992",
+      "email": "agent55@iwrealty.com",
+      "photo": "/images/icons/png/sg-harbour-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": false,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2024-12-23T10:50:47.276Z",
+    "updatedAt": "2025-11-13T10:50:47.276Z",
+    "storeId": "store-011"
+  },
+  {
+    "id": "P09044",
+    "type": "rent",
+    "category": {
+      "main": "commercial",
+      "sub": "warehouse"
+    },
+    "title": "Kiralık Depo - Vatican City Central",
+    "slug": "kiralik-depo-vatican-city-central-P09044",
+    "description": "Vatican City Central, Vatican City bölgesinde depo. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 8567761,
+    "location": {
+      "country": "VA",
+      "city": "Vatican City Central",
+      "district": "Vatican City Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 848",
+      "coordinates": {
+        "lat": 41.79838765895722,
+        "lng": 12.128652047344449
+      }
+    },
+    "specs": {
+      "netSize": 7258,
+      "grossSize": 8710,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 19,
+      "floor": 13,
+      "totalFloors": 10,
+      "heating": "Merkezi",
+      "furnishing": "Furnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500700029468?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500571051800?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500236602399?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500439508709?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500632004992?w=800&q=80&category=house"
+    ],
+    "agent": {
+      "id": "A41",
+      "name": "Agent 73",
+      "phone": "+66 321 876 4458",
+      "email": "agent9@iwrealty.com",
+      "photo": "/images/icons/png/antalya-investment-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": false,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-06-30T10:50:47.276Z",
+    "updatedAt": "2025-11-13T10:50:47.276Z",
+    "storeId": "store-006"
+  }
+]

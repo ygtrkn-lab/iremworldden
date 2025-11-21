@@ -1,0 +1,2345 @@
+[
+  {
+    "id": "P08893",
+    "type": "sale",
+    "category": {
+      "main": "government"
+    },
+    "title": "Satılık Hastane - Montevideo",
+    "slug": "satilik-hastane-montevideo-P08893",
+    "description": "Montevideo, Uruguay bölgesinde hastane. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 47231711,
+    "location": {
+      "country": "UY",
+      "city": "Montevideo",
+      "district": "Montevideo Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 170",
+      "coordinates": {
+        "lat": -32.803439575569264,
+        "lng": -55.690989804417555
+      }
+    },
+    "specs": {
+      "netSize": 981,
+      "grossSize": 1177,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 1,
+      "floor": 14,
+      "totalFloors": 11,
+      "heating": "Klima",
+      "furnishing": "Furnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500537271153?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500546971113?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500187441289?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500585268217?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500653087057?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500979313294?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500790995466?w=800&q=80&category=interior"
+    ],
+    "agent": {
+      "id": "A71",
+      "name": "Agent 30",
+      "phone": "+73 704 102 5692",
+      "email": "agent71@iwrealty.com",
+      "photo": "/images/icons/png/sg-harbour-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": false,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2024-12-22T10:50:47.275Z",
+    "updatedAt": "2025-11-13T10:50:47.275Z",
+    "storeId": "store-011"
+  },
+  {
+    "id": "P08894",
+    "type": "rent",
+    "category": {
+      "main": "government"
+    },
+    "title": "Kiralık Okul - New Uruguay",
+    "slug": "kiralik-okul-new-uruguay-P08894",
+    "description": "New Uruguay, Uruguay bölgesinde okul. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 45831489,
+    "location": {
+      "country": "UY",
+      "city": "New Uruguay",
+      "district": "New Uruguay Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 269",
+      "coordinates": {
+        "lat": -33.193772580066444,
+        "lng": -55.79844646752441
+      }
+    },
+    "specs": {
+      "netSize": 2448,
+      "grossSize": 2938,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 14,
+      "floor": 7,
+      "totalFloors": 19,
+      "heating": "Klima",
+      "furnishing": "Unfurnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500123596715?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500763361781?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500882351158?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500501414042?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500899942145?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500147609532?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500127358618?w=800&q=80&category=building"
+    ],
+    "agent": {
+      "id": "A47",
+      "name": "Agent 82",
+      "phone": "+69 102 322 2555",
+      "email": "agent30@iwrealty.com",
+      "photo": "/images/icons/png/sg-harbour-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-01-31T10:50:47.275Z",
+    "updatedAt": "2025-11-13T10:50:47.275Z",
+    "storeId": "store-011"
+  },
+  {
+    "id": "P08895",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Residence - Uruguay Central",
+    "slug": "satilik-residence-uruguay-central-P08895",
+    "description": "Uruguay Central, Uruguay bölgesinde residence. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 2115540,
+    "location": {
+      "country": "UY",
+      "city": "Uruguay Central",
+      "district": "Uruguay Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 180",
+      "coordinates": {
+        "lat": -33.29000796563789,
+        "lng": -56.16930716290303
+      }
+    },
+    "specs": {
+      "netSize": 483,
+      "grossSize": 580,
+      "rooms": "4+1",
+      "bathrooms": 2,
+      "age": 4,
+      "floor": 15,
+      "totalFloors": 16,
+      "heating": "Kombi",
+      "furnishing": "Furnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500851717585?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500802092924?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500203010414?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500065293885?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500107079148?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500273354877?w=800&q=80&category=house"
+    ],
+    "agent": {
+      "id": "A89",
+      "name": "Agent 67",
+      "phone": "+58 126 503 2601",
+      "email": "agent60@iwrealty.com",
+      "photo": "/images/icons/png/luxury-homes-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2024-12-04T10:50:47.275Z",
+    "updatedAt": "2025-11-13T10:50:47.275Z",
+    "storeId": "store-002"
+  },
+  {
+    "id": "P08896",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Müstakil Ev - Uruguay City",
+    "slug": "kiralik-müstakil-ev-uruguay-city-P08896",
+    "description": "Uruguay City, Uruguay bölgesinde müstakil ev. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 7503334,
+    "location": {
+      "country": "UY",
+      "city": "Uruguay City",
+      "district": "Uruguay City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 575",
+      "coordinates": {
+        "lat": -32.784535660574875,
+        "lng": -56.100877286784204
+      }
+    },
+    "specs": {
+      "netSize": 154,
+      "grossSize": 185,
+      "rooms": "3+2",
+      "bathrooms": 3,
+      "age": 17,
+      "floor": 10,
+      "totalFloors": 11,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Furnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500278905947?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500019718709?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500630345249?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500687924128?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500484717767?w=800&q=80&category=interior"
+    ],
+    "agent": {
+      "id": "A30",
+      "name": "Agent 73",
+      "phone": "+74 488 441 3517",
+      "email": "agent25@iwrealty.com",
+      "photo": "/images/icons/png/dubai-property-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2024-12-26T10:50:47.275Z",
+    "updatedAt": "2025-11-13T10:50:47.275Z",
+    "storeId": "store-004"
+  },
+  {
+    "id": "P08897",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Villa - Uruguay Central",
+    "slug": "satilik-villa-uruguay-central-P08897",
+    "description": "Uruguay Central, Uruguay bölgesinde villa. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 10446850,
+    "location": {
+      "country": "UY",
+      "city": "Uruguay Central",
+      "district": "Uruguay Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 406",
+      "coordinates": {
+        "lat": -32.92474138629988,
+        "lng": -55.84528862950359
+      }
+    },
+    "specs": {
+      "netSize": 182,
+      "grossSize": 218,
+      "rooms": "3+2",
+      "bathrooms": 1,
+      "age": 5,
+      "floor": 14,
+      "totalFloors": 11,
+      "heating": "Kombi",
+      "furnishing": "Furnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500822615433?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500154308525?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500760372321?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500471092743?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500461675444?w=800&q=80&category=real-estate"
+    ],
+    "agent": {
+      "id": "A90",
+      "name": "Agent 2",
+      "phone": "+64 188 145 9386",
+      "email": "agent88@iwrealty.com",
+      "photo": "/images/icons/png/dubai-property-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-07-22T10:50:47.275Z",
+    "updatedAt": "2025-11-13T10:50:47.275Z",
+    "storeId": "store-004"
+  },
+  {
+    "id": "P08898",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Müstakil Ev - Montevideo",
+    "slug": "kiralik-müstakil-ev-montevideo-P08898",
+    "description": "Montevideo, Uruguay bölgesinde müstakil ev. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 4789815,
+    "location": {
+      "country": "UY",
+      "city": "Montevideo",
+      "district": "Montevideo Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 693",
+      "coordinates": {
+        "lat": -32.64858049590975,
+        "lng": -56.48291275208594
+      }
+    },
+    "specs": {
+      "netSize": 456,
+      "grossSize": 547,
+      "rooms": "1+1",
+      "bathrooms": 3,
+      "age": 15,
+      "floor": 5,
+      "totalFloors": 5,
+      "heating": "Kombi",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500216577862?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500105371223?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500759805780?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500948757769?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500252529268?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500589206443?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500473641054?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500269265733?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500429607689?w=800&q=80&category=building"
+    ],
+    "agent": {
+      "id": "A78",
+      "name": "Agent 34",
+      "phone": "+86 591 422 7014",
+      "email": "agent41@iwrealty.com",
+      "photo": "/images/icons/png/ny-skyline-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-01-18T10:50:47.275Z",
+    "updatedAt": "2025-11-13T10:50:47.275Z",
+    "storeId": "store-008"
+  },
+  {
+    "id": "P08899",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Residence - New Uruguay",
+    "slug": "satilik-residence-new-uruguay-P08899",
+    "description": "New Uruguay, Uruguay bölgesinde residence. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 9935748,
+    "location": {
+      "country": "UY",
+      "city": "New Uruguay",
+      "district": "New Uruguay Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 620",
+      "coordinates": {
+        "lat": -33.076259870438655,
+        "lng": -55.671436351858326
+      }
+    },
+    "specs": {
+      "netSize": 129,
+      "grossSize": 155,
+      "rooms": "3+2",
+      "bathrooms": 2,
+      "age": 18,
+      "floor": 5,
+      "totalFloors": 10,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500172692322?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500713363787?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500215863757?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500046882034?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500564397708?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500360938433?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500546003874?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500466604684?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500082786275?w=800&q=80&category=architecture"
+    ],
+    "agent": {
+      "id": "A94",
+      "name": "Agent 41",
+      "phone": "+88 745 455 9597",
+      "email": "agent84@iwrealty.com",
+      "photo": "/images/icons/png/luxury-homes-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2024-11-30T10:50:47.275Z",
+    "updatedAt": "2025-11-13T10:50:47.275Z",
+    "storeId": "store-002"
+  },
+  {
+    "id": "P08900",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Villa - Montevideo",
+    "slug": "kiralik-villa-montevideo-P08900",
+    "description": "Montevideo, Uruguay bölgesinde villa. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 8245782,
+    "location": {
+      "country": "UY",
+      "city": "Montevideo",
+      "district": "Montevideo Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 32",
+      "coordinates": {
+        "lat": -33.257336656499604,
+        "lng": -55.57149306923184
+      }
+    },
+    "specs": {
+      "netSize": 279,
+      "grossSize": 335,
+      "rooms": "2+1",
+      "bathrooms": 4,
+      "age": 17,
+      "floor": 14,
+      "totalFloors": 9,
+      "heating": "Kombi",
+      "furnishing": "Unfurnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500299088352?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500079120533?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500254091317?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500531132292?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500075201638?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500199007671?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500237656557?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500540039561?w=800&q=80&category=interior"
+    ],
+    "agent": {
+      "id": "A57",
+      "name": "Agent 18",
+      "phone": "+61 489 655 4321",
+      "email": "agent42@iwrealty.com",
+      "photo": "/images/icons/png/paris-heritage-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": false,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2024-12-11T10:50:47.275Z",
+    "updatedAt": "2025-11-13T10:50:47.275Z",
+    "storeId": "store-010"
+  },
+  {
+    "id": "P08901",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Residence - New Uruguay",
+    "slug": "satilik-residence-new-uruguay-P08901",
+    "description": "New Uruguay, Uruguay bölgesinde residence. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 14718121,
+    "location": {
+      "country": "UY",
+      "city": "New Uruguay",
+      "district": "New Uruguay Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 960",
+      "coordinates": {
+        "lat": -32.5276120369918,
+        "lng": -56.030448920493676
+      }
+    },
+    "specs": {
+      "netSize": 267,
+      "grossSize": 320,
+      "rooms": "2+0",
+      "bathrooms": 1,
+      "age": 8,
+      "floor": 15,
+      "totalFloors": 19,
+      "heating": "Merkezi",
+      "furnishing": "Furnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500935517401?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500555842697?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500072005497?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500796513180?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500067352281?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500968551122?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500248927848?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500559259725?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500586580345?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500818254101?w=800&q=80&category=house"
+    ],
+    "agent": {
+      "id": "A76",
+      "name": "Agent 21",
+      "phone": "+25 148 191 8209",
+      "email": "agent84@iwrealty.com",
+      "photo": "/images/icons/png/izmir-sahil-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-01-04T10:50:47.275Z",
+    "updatedAt": "2025-11-13T10:50:47.275Z",
+    "storeId": "store-005"
+  },
+  {
+    "id": "P08902",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Villa - Montevideo",
+    "slug": "kiralik-villa-montevideo-P08902",
+    "description": "Montevideo, Uruguay bölgesinde villa. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 5343093,
+    "location": {
+      "country": "UY",
+      "city": "Montevideo",
+      "district": "Montevideo Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 333",
+      "coordinates": {
+        "lat": -33.48965229369083,
+        "lng": -55.8517730038644
+      }
+    },
+    "specs": {
+      "netSize": 312,
+      "grossSize": 374,
+      "rooms": "4+1",
+      "bathrooms": 4,
+      "age": 15,
+      "floor": 2,
+      "totalFloors": 18,
+      "heating": "Klima",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500205374525?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500194205304?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500426893605?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500245568617?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500247962500?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500920783345?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500927895090?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500840413661?w=800&q=80&category=real-estate"
+    ],
+    "agent": {
+      "id": "A43",
+      "name": "Agent 9",
+      "phone": "+36 108 852 8919",
+      "email": "agent98@iwrealty.com",
+      "photo": "/images/icons/png/dubai-property-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": true,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-11-04T10:50:47.275Z",
+    "updatedAt": "2025-11-13T10:50:47.275Z",
+    "storeId": "store-004"
+  },
+  {
+    "id": "P08903",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Daire - Montevideo",
+    "slug": "satilik-daire-montevideo-P08903",
+    "description": "Montevideo, Uruguay bölgesinde daire. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 2781140,
+    "location": {
+      "country": "UY",
+      "city": "Montevideo",
+      "district": "Montevideo Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 876",
+      "coordinates": {
+        "lat": -32.51954941224515,
+        "lng": -55.97971832305616
+      }
+    },
+    "specs": {
+      "netSize": 274,
+      "grossSize": 329,
+      "rooms": "5+2",
+      "bathrooms": 4,
+      "age": 0,
+      "floor": 2,
+      "totalFloors": 13,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Furnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500518691451?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500676321552?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500025317661?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500721997913?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500773807146?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500073518743?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500562476405?w=800&q=80&category=architecture"
+    ],
+    "agent": {
+      "id": "A77",
+      "name": "Agent 21",
+      "phone": "+83 871 653 8166",
+      "email": "agent90@iwrealty.com",
+      "photo": "/images/icons/png/luxury-homes-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2024-11-28T10:50:47.275Z",
+    "updatedAt": "2025-11-13T10:50:47.275Z",
+    "storeId": "store-002"
+  },
+  {
+    "id": "P08904",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Villa - New Uruguay",
+    "slug": "kiralik-villa-new-uruguay-P08904",
+    "description": "New Uruguay, Uruguay bölgesinde villa. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 7411148,
+    "location": {
+      "country": "UY",
+      "city": "New Uruguay",
+      "district": "New Uruguay Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 50",
+      "coordinates": {
+        "lat": -32.96098388825674,
+        "lng": -56.41186152149251
+      }
+    },
+    "specs": {
+      "netSize": 155,
+      "grossSize": 186,
+      "rooms": "2+0",
+      "bathrooms": 1,
+      "age": 5,
+      "floor": 13,
+      "totalFloors": 11,
+      "heating": "Merkezi",
+      "furnishing": "Unfurnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500465517707?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500674290052?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500343049957?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500605649598?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500069183914?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500800605190?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500292089950?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500344063461?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500513231718?w=800&q=80&category=architecture"
+    ],
+    "agent": {
+      "id": "A81",
+      "name": "Agent 40",
+      "phone": "+66 775 127 4865",
+      "email": "agent41@iwrealty.com",
+      "photo": "/images/icons/png/london-prime-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-07-07T10:50:47.275Z",
+    "updatedAt": "2025-11-13T10:50:47.275Z",
+    "storeId": "store-007"
+  },
+  {
+    "id": "P08905",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Müstakil Ev - New Uruguay",
+    "slug": "satilik-müstakil-ev-new-uruguay-P08905",
+    "description": "New Uruguay, Uruguay bölgesinde müstakil ev. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 5489516,
+    "location": {
+      "country": "UY",
+      "city": "New Uruguay",
+      "district": "New Uruguay Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 37",
+      "coordinates": {
+        "lat": -33.06039220874765,
+        "lng": -55.514048839309766
+      }
+    },
+    "specs": {
+      "netSize": 197,
+      "grossSize": 236,
+      "rooms": "5+1",
+      "bathrooms": 3,
+      "age": 9,
+      "floor": 9,
+      "totalFloors": 11,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Unfurnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500625228657?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500045749740?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500767814471?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500798818830?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500561664256?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500167885583?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500728346869?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500968737341?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500172812729?w=800&q=80&category=building"
+    ],
+    "agent": {
+      "id": "A33",
+      "name": "Agent 37",
+      "phone": "+15 400 876 6641",
+      "email": "agent48@iwrealty.com",
+      "photo": "/images/icons/png/paris-heritage-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-03-07T10:50:47.275Z",
+    "updatedAt": "2025-11-13T10:50:47.275Z",
+    "storeId": "store-010"
+  },
+  {
+    "id": "P08906",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Daire - New Uruguay",
+    "slug": "kiralik-daire-new-uruguay-P08906",
+    "description": "New Uruguay, Uruguay bölgesinde daire. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 10074292,
+    "location": {
+      "country": "UY",
+      "city": "New Uruguay",
+      "district": "New Uruguay Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 185",
+      "coordinates": {
+        "lat": -32.924967288259666,
+        "lng": -55.67524939976846
+      }
+    },
+    "specs": {
+      "netSize": 178,
+      "grossSize": 214,
+      "rooms": "4+1",
+      "bathrooms": 4,
+      "age": 3,
+      "floor": 12,
+      "totalFloors": 9,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Unfurnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500975193493?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500111578445?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500671203699?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500426186416?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500188003311?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500918168078?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500175025644?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500581826992?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500735351487?w=800&q=80&category=building"
+    ],
+    "agent": {
+      "id": "A54",
+      "name": "Agent 69",
+      "phone": "+16 374 690 4088",
+      "email": "agent65@iwrealty.com",
+      "photo": "/images/icons/png/izmir-sahil-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-06-05T10:50:47.275Z",
+    "updatedAt": "2025-11-13T10:50:47.275Z",
+    "storeId": "store-005"
+  },
+  {
+    "id": "P08907",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Residence - Uruguay Central",
+    "slug": "satilik-residence-uruguay-central-P08907",
+    "description": "Uruguay Central, Uruguay bölgesinde residence. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 5149140,
+    "location": {
+      "country": "UY",
+      "city": "Uruguay Central",
+      "district": "Uruguay Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 195",
+      "coordinates": {
+        "lat": -32.60495633163428,
+        "lng": -55.700234783510794
+      }
+    },
+    "specs": {
+      "netSize": 417,
+      "grossSize": 500,
+      "rooms": "5+1",
+      "bathrooms": 2,
+      "age": 1,
+      "floor": 4,
+      "totalFloors": 18,
+      "heating": "Kombi",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500467345879?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500823915694?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500834049579?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500812573242?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500178015910?w=800&q=80&category=real-estate"
+    ],
+    "agent": {
+      "id": "A77",
+      "name": "Agent 29",
+      "phone": "+58 210 236 3808",
+      "email": "agent83@iwrealty.com",
+      "photo": "/images/icons/png/antalya-investment-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": true,
+      "hasSecurity": true
+    },
+    "createdAt": "2024-12-16T10:50:47.275Z",
+    "updatedAt": "2025-11-13T10:50:47.275Z",
+    "storeId": "store-006"
+  },
+  {
+    "id": "P08908",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Müstakil Ev - Uruguay Central",
+    "slug": "kiralik-müstakil-ev-uruguay-central-P08908",
+    "description": "Uruguay Central, Uruguay bölgesinde müstakil ev. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 5844263,
+    "location": {
+      "country": "UY",
+      "city": "Uruguay Central",
+      "district": "Uruguay Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 227",
+      "coordinates": {
+        "lat": -32.9628743329301,
+        "lng": -56.02754061838312
+      }
+    },
+    "specs": {
+      "netSize": 285,
+      "grossSize": 342,
+      "rooms": "4+0",
+      "bathrooms": 3,
+      "age": 2,
+      "floor": 11,
+      "totalFloors": 10,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500444241112?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500845841524?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500471098407?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500323793879?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500940043752?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500362755072?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500468087994?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500214499713?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500891568108?w=800&q=80&category=real-estate"
+    ],
+    "agent": {
+      "id": "A4",
+      "name": "Agent 50",
+      "phone": "+99 977 643 7443",
+      "email": "agent69@iwrealty.com",
+      "photo": "/images/icons/png/london-prime-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": true,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-09-17T10:50:47.275Z",
+    "updatedAt": "2025-11-13T10:50:47.275Z",
+    "storeId": "store-007"
+  },
+  {
+    "id": "P08909",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Daire - Uruguay Central",
+    "slug": "satilik-daire-uruguay-central-P08909",
+    "description": "Uruguay Central, Uruguay bölgesinde daire. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 8060620,
+    "location": {
+      "country": "UY",
+      "city": "Uruguay Central",
+      "district": "Uruguay Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 271",
+      "coordinates": {
+        "lat": -33.01907029551627,
+        "lng": -56.10163830001011
+      }
+    },
+    "specs": {
+      "netSize": 175,
+      "grossSize": 210,
+      "rooms": "3+2",
+      "bathrooms": 2,
+      "age": 0,
+      "floor": 6,
+      "totalFloors": 16,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Unfurnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500956999706?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500922132492?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500999290184?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500292018371?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500438761550?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500314993376?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500546011433?w=800&q=80&category=interior"
+    ],
+    "agent": {
+      "id": "A44",
+      "name": "Agent 42",
+      "phone": "+40 926 542 7428",
+      "email": "agent24@iwrealty.com",
+      "photo": "/images/icons/png/dubai-property-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": true,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-03-13T10:50:47.275Z",
+    "updatedAt": "2025-11-13T10:50:47.275Z",
+    "storeId": "store-004"
+  },
+  {
+    "id": "P08910",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Residence - Uruguay City",
+    "slug": "kiralik-residence-uruguay-city-P08910",
+    "description": "Uruguay City, Uruguay bölgesinde residence. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 11510307,
+    "location": {
+      "country": "UY",
+      "city": "Uruguay City",
+      "district": "Uruguay City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 288",
+      "coordinates": {
+        "lat": -33.246943887724484,
+        "lng": -55.70825272056502
+      }
+    },
+    "specs": {
+      "netSize": 89,
+      "grossSize": 107,
+      "rooms": "1+2",
+      "bathrooms": 2,
+      "age": 8,
+      "floor": 15,
+      "totalFloors": 16,
+      "heating": "Kombi",
+      "furnishing": "Unfurnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500911188670?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500887534321?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500697703000?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500603938847?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500223056403?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500138404193?w=800&q=80&category=interior"
+    ],
+    "agent": {
+      "id": "A74",
+      "name": "Agent 47",
+      "phone": "+43 462 319 4617",
+      "email": "agent11@iwrealty.com",
+      "photo": "/images/icons/png/antalya-investment-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-03-12T10:50:47.275Z",
+    "updatedAt": "2025-11-13T10:50:47.275Z",
+    "storeId": "store-006"
+  },
+  {
+    "id": "P08911",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Daire - Montevideo",
+    "slug": "satilik-daire-montevideo-P08911",
+    "description": "Montevideo, Uruguay bölgesinde daire. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 6301416,
+    "location": {
+      "country": "UY",
+      "city": "Montevideo",
+      "district": "Montevideo Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 283",
+      "coordinates": {
+        "lat": -32.802092957461326,
+        "lng": -56.09634344624706
+      }
+    },
+    "specs": {
+      "netSize": 207,
+      "grossSize": 248,
+      "rooms": "2+1",
+      "bathrooms": 3,
+      "age": 6,
+      "floor": 15,
+      "totalFloors": 18,
+      "heating": "Merkezi",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500953213841?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500052068614?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500738934145?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500482458995?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500505074413?w=800&q=80&category=architecture"
+    ],
+    "agent": {
+      "id": "A41",
+      "name": "Agent 14",
+      "phone": "+91 469 744 4132",
+      "email": "agent74@iwrealty.com",
+      "photo": "/images/icons/png/ankara-modern-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2024-11-24T10:50:47.275Z",
+    "updatedAt": "2025-11-13T10:50:47.275Z",
+    "storeId": "store-003"
+  },
+  {
+    "id": "P08912",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Daire - Uruguay City",
+    "slug": "kiralik-daire-uruguay-city-P08912",
+    "description": "Uruguay City, Uruguay bölgesinde daire. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 14922819,
+    "location": {
+      "country": "UY",
+      "city": "Uruguay City",
+      "district": "Uruguay City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 757",
+      "coordinates": {
+        "lat": -33.28435987230453,
+        "lng": -55.8909300689785
+      }
+    },
+    "specs": {
+      "netSize": 200,
+      "grossSize": 240,
+      "rooms": "4+2",
+      "bathrooms": 3,
+      "age": 16,
+      "floor": 13,
+      "totalFloors": 18,
+      "heating": "Merkezi",
+      "furnishing": "Furnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500145713341?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500718720197?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500286841011?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500576387115?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500520702471?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500195250843?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500782489244?w=800&q=80&category=building"
+    ],
+    "agent": {
+      "id": "A39",
+      "name": "Agent 91",
+      "phone": "+11 566 666 5309",
+      "email": "agent96@iwrealty.com",
+      "photo": "/images/icons/png/ankara-modern-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": false,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-05-28T10:50:47.275Z",
+    "updatedAt": "2025-11-13T10:50:47.275Z",
+    "storeId": "store-003"
+  },
+  {
+    "id": "P08913",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Villa - Uruguay Central",
+    "slug": "satilik-villa-uruguay-central-P08913",
+    "description": "Uruguay Central, Uruguay bölgesinde villa. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 2051172,
+    "location": {
+      "country": "UY",
+      "city": "Uruguay Central",
+      "district": "Uruguay Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 511",
+      "coordinates": {
+        "lat": -33.338517054269516,
+        "lng": -55.50647619164691
+      }
+    },
+    "specs": {
+      "netSize": 111,
+      "grossSize": 133,
+      "rooms": "2+0",
+      "bathrooms": 1,
+      "age": 15,
+      "floor": 9,
+      "totalFloors": 18,
+      "heating": "Kombi",
+      "furnishing": "Unfurnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500257349504?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500894344867?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500295226944?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500046186668?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500819581099?w=800&q=80&category=building"
+    ],
+    "agent": {
+      "id": "A9",
+      "name": "Agent 44",
+      "phone": "+91 910 344 5000",
+      "email": "agent88@iwrealty.com",
+      "photo": "/images/icons/png/luxury-homes-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": false,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-11-04T10:50:47.275Z",
+    "updatedAt": "2025-11-13T10:50:47.275Z",
+    "storeId": "store-002"
+  },
+  {
+    "id": "P08914",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Villa - New Uruguay",
+    "slug": "kiralik-villa-new-uruguay-P08914",
+    "description": "New Uruguay, Uruguay bölgesinde villa. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 11490652,
+    "location": {
+      "country": "UY",
+      "city": "New Uruguay",
+      "district": "New Uruguay Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 855",
+      "coordinates": {
+        "lat": -32.94606912714012,
+        "lng": -55.91687242460549
+      }
+    },
+    "specs": {
+      "netSize": 389,
+      "grossSize": 467,
+      "rooms": "2+0",
+      "bathrooms": 3,
+      "age": 18,
+      "floor": 3,
+      "totalFloors": 7,
+      "heating": "Klima",
+      "furnishing": "Unfurnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500481808210?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500396187149?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500454218619?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500080382531?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500353697298?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500780894871?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500252453812?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500404865629?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500996685480?w=800&q=80&category=interior"
+    ],
+    "agent": {
+      "id": "A90",
+      "name": "Agent 13",
+      "phone": "+33 528 520 6687",
+      "email": "agent92@iwrealty.com",
+      "photo": "/images/icons/png/sg-harbour-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-08-11T10:50:47.275Z",
+    "updatedAt": "2025-11-13T10:50:47.275Z",
+    "storeId": "store-011"
+  },
+  {
+    "id": "P08915",
+    "type": "sale",
+    "category": {
+      "main": "commercial",
+      "sub": "hospital"
+    },
+    "title": "Satılık Hastane - Uruguay Central",
+    "slug": "satilik-hastane-uruguay-central-P08915",
+    "description": "Uruguay Central, Uruguay bölgesinde hastane. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 73739844,
+    "location": {
+      "country": "UY",
+      "city": "Uruguay Central",
+      "district": "Uruguay Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 734",
+      "coordinates": {
+        "lat": -32.83416297874675,
+        "lng": -55.83226348604717
+      }
+    },
+    "specs": {
+      "netSize": 17497,
+      "grossSize": 20996,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 20,
+      "floor": 10,
+      "totalFloors": 16,
+      "heating": "Kombi",
+      "furnishing": "Unfurnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500940873975?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500458703509?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500234523308?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500271673164?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500232105334?w=800&q=80&category=interior"
+    ],
+    "agent": {
+      "id": "A63",
+      "name": "Agent 71",
+      "phone": "+95 556 474 1386",
+      "email": "agent95@iwrealty.com",
+      "photo": "/images/icons/png/sydney-coastal-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2024-11-28T10:50:47.275Z",
+    "updatedAt": "2025-11-13T10:50:47.275Z",
+    "storeId": "store-012"
+  },
+  {
+    "id": "P08916",
+    "type": "rent",
+    "category": {
+      "main": "commercial",
+      "sub": "hospital"
+    },
+    "title": "Kiralık Hastane - New Uruguay",
+    "slug": "kiralik-hastane-new-uruguay-P08916",
+    "description": "New Uruguay, Uruguay bölgesinde hastane. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 40248313,
+    "location": {
+      "country": "UY",
+      "city": "New Uruguay",
+      "district": "New Uruguay Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 29",
+      "coordinates": {
+        "lat": -32.52283577697304,
+        "lng": -56.34404469294041
+      }
+    },
+    "specs": {
+      "netSize": 5546,
+      "grossSize": 6655,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 18,
+      "floor": 1,
+      "totalFloors": 13,
+      "heating": "Klima",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500687778049?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500151614079?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500283635770?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500721391560?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500296297750?w=800&q=80&category=real-estate"
+    ],
+    "agent": {
+      "id": "A74",
+      "name": "Agent 89",
+      "phone": "+87 506 209 6561",
+      "email": "agent1@iwrealty.com",
+      "photo": "/images/icons/png/sydney-coastal-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": true,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-05-26T10:50:47.275Z",
+    "updatedAt": "2025-11-13T10:50:47.275Z",
+    "storeId": "store-012"
+  },
+  {
+    "id": "P08917",
+    "type": "sale",
+    "category": {
+      "main": "commercial",
+      "sub": "clinic"
+    },
+    "title": "Satılık Klinik - Uruguay Central",
+    "slug": "satilik-klinik-uruguay-central-P08917",
+    "description": "Uruguay Central, Uruguay bölgesinde klinik. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 12027001,
+    "location": {
+      "country": "UY",
+      "city": "Uruguay Central",
+      "district": "Uruguay Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 161",
+      "coordinates": {
+        "lat": -32.82988552605379,
+        "lng": -55.65345883870822
+      }
+    },
+    "specs": {
+      "netSize": 1142,
+      "grossSize": 1370,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 14,
+      "floor": 1,
+      "totalFloors": 12,
+      "heating": "Kombi",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500873950350?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500961371412?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500808378003?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500574644986?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500140178176?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500599351855?w=800&q=80&category=architecture"
+    ],
+    "agent": {
+      "id": "A66",
+      "name": "Agent 52",
+      "phone": "+20 269 529 5533",
+      "email": "agent39@iwrealty.com",
+      "photo": "/images/icons/png/antalya-investment-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-06-24T10:50:47.275Z",
+    "updatedAt": "2025-11-13T10:50:47.275Z",
+    "storeId": "store-006"
+  },
+  {
+    "id": "P08918",
+    "type": "rent",
+    "category": {
+      "main": "commercial",
+      "sub": "clinic"
+    },
+    "title": "Kiralık Klinik - Uruguay Central",
+    "slug": "kiralik-klinik-uruguay-central-P08918",
+    "description": "Uruguay Central, Uruguay bölgesinde klinik. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 15876019,
+    "location": {
+      "country": "UY",
+      "city": "Uruguay Central",
+      "district": "Uruguay Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 680",
+      "coordinates": {
+        "lat": -33.49112251380821,
+        "lng": -56.348049981603275
+      }
+    },
+    "specs": {
+      "netSize": 252,
+      "grossSize": 302,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 17,
+      "floor": 2,
+      "totalFloors": 19,
+      "heating": "Kombi",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500415967788?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500219122199?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500778706472?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500405557726?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500715468217?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500406630952?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500109740042?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500792889929?w=800&q=80&category=building"
+    ],
+    "agent": {
+      "id": "A38",
+      "name": "Agent 23",
+      "phone": "+89 893 209 1299",
+      "email": "agent17@iwrealty.com",
+      "photo": "/images/icons/png/sydney-coastal-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": true,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-07-19T10:50:47.275Z",
+    "updatedAt": "2025-11-13T10:50:47.275Z",
+    "storeId": "store-012"
+  },
+  {
+    "id": "P08919",
+    "type": "sale",
+    "category": {
+      "main": "commercial",
+      "sub": "shop"
+    },
+    "title": "Satılık Dükkan - New Uruguay",
+    "slug": "satilik-dükkan-new-uruguay-P08919",
+    "description": "New Uruguay, Uruguay bölgesinde dükkan. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 4142087,
+    "location": {
+      "country": "UY",
+      "city": "New Uruguay",
+      "district": "New Uruguay Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 256",
+      "coordinates": {
+        "lat": -33.44628598234344,
+        "lng": -56.47590093015796
+      }
+    },
+    "specs": {
+      "netSize": 355,
+      "grossSize": 426,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 2,
+      "floor": 10,
+      "totalFloors": 5,
+      "heating": "Klima",
+      "furnishing": "Furnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500853110325?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500347143803?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500532670118?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500267400344?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500948235300?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500980053690?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500111408899?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500741035419?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500236443132?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500474597649?w=800&q=80&category=real-estate"
+    ],
+    "agent": {
+      "id": "A36",
+      "name": "Agent 17",
+      "phone": "+25 581 756 7534",
+      "email": "agent99@iwrealty.com",
+      "photo": "/images/icons/png/paris-heritage-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-07-13T10:50:47.275Z",
+    "updatedAt": "2025-11-13T10:50:47.275Z",
+    "storeId": "store-010"
+  },
+  {
+    "id": "P08920",
+    "type": "rent",
+    "category": {
+      "main": "commercial",
+      "sub": "shop"
+    },
+    "title": "Kiralık Dükkan - New Uruguay",
+    "slug": "kiralik-dükkan-new-uruguay-P08920",
+    "description": "New Uruguay, Uruguay bölgesinde dükkan. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 3097899,
+    "location": {
+      "country": "UY",
+      "city": "New Uruguay",
+      "district": "New Uruguay Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 6",
+      "coordinates": {
+        "lat": -32.905418508964274,
+        "lng": -56.15635334924862
+      }
+    },
+    "specs": {
+      "netSize": 396,
+      "grossSize": 475,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 7,
+      "floor": 14,
+      "totalFloors": 7,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500136728070?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500553266135?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500027217136?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500728027414?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500603359624?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500454103479?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500004257186?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500897010572?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500464955169?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500692122592?w=800&q=80&category=house"
+    ],
+    "agent": {
+      "id": "A63",
+      "name": "Agent 60",
+      "phone": "+24 697 923 5470",
+      "email": "agent22@iwrealty.com",
+      "photo": "/images/icons/png/london-prime-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-04-07T10:50:47.275Z",
+    "updatedAt": "2025-11-13T10:50:47.275Z",
+    "storeId": "store-007"
+  },
+  {
+    "id": "P08921",
+    "type": "sale",
+    "category": {
+      "main": "commercial",
+      "sub": "office"
+    },
+    "title": "Satılık Ofis - Montevideo",
+    "slug": "satilik-ofis-montevideo-P08921",
+    "description": "Montevideo, Uruguay bölgesinde ofis. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 14245783,
+    "location": {
+      "country": "UY",
+      "city": "Montevideo",
+      "district": "Montevideo Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 695",
+      "coordinates": {
+        "lat": -33.07581810441799,
+        "lng": -56.024656513457
+      }
+    },
+    "specs": {
+      "netSize": 303,
+      "grossSize": 364,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 4,
+      "floor": 7,
+      "totalFloors": 16,
+      "heating": "Merkezi",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500714667077?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500958536183?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500536936828?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500503579606?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500654509977?w=800&q=80&category=house"
+    ],
+    "agent": {
+      "id": "A70",
+      "name": "Agent 29",
+      "phone": "+40 648 721 2024",
+      "email": "agent52@iwrealty.com",
+      "photo": "/images/icons/png/paris-heritage-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": false,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-09-13T10:50:47.275Z",
+    "updatedAt": "2025-11-13T10:50:47.275Z",
+    "storeId": "store-010"
+  },
+  {
+    "id": "P08922",
+    "type": "rent",
+    "category": {
+      "main": "commercial",
+      "sub": "office"
+    },
+    "title": "Kiralık Ofis - New Uruguay",
+    "slug": "kiralik-ofis-new-uruguay-P08922",
+    "description": "New Uruguay, Uruguay bölgesinde ofis. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 5326052,
+    "location": {
+      "country": "UY",
+      "city": "New Uruguay",
+      "district": "New Uruguay Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 538",
+      "coordinates": {
+        "lat": -32.76442287363751,
+        "lng": -56.1773971092497
+      }
+    },
+    "specs": {
+      "netSize": 882,
+      "grossSize": 1058,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 1,
+      "floor": 11,
+      "totalFloors": 7,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Unfurnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500145237626?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500310378019?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500451145921?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500612682954?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500207681550?w=800&q=80&category=house"
+    ],
+    "agent": {
+      "id": "A99",
+      "name": "Agent 51",
+      "phone": "+54 318 469 7012",
+      "email": "agent7@iwrealty.com",
+      "photo": "/images/icons/png/ny-skyline-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2024-12-09T10:50:47.275Z",
+    "updatedAt": "2025-11-13T10:50:47.275Z",
+    "storeId": "store-008"
+  },
+  {
+    "id": "P08923",
+    "type": "sale",
+    "category": {
+      "main": "commercial",
+      "sub": "mall"
+    },
+    "title": "Satılık AVM - Uruguay Central",
+    "slug": "satilik-avm-uruguay-central-P08923",
+    "description": "Uruguay Central, Uruguay bölgesinde avm. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 249038495,
+    "location": {
+      "country": "UY",
+      "city": "Uruguay Central",
+      "district": "Uruguay Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 990",
+      "coordinates": {
+        "lat": -33.11623260198004,
+        "lng": -55.89788500546083
+      }
+    },
+    "specs": {
+      "netSize": 19221,
+      "grossSize": 23065,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 2,
+      "floor": 14,
+      "totalFloors": 6,
+      "heating": "Klima",
+      "furnishing": "Furnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500590936083?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500117008359?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500672449982?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500263065639?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500903579030?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500462500853?w=800&q=80&category=architecture"
+    ],
+    "agent": {
+      "id": "A100",
+      "name": "Agent 60",
+      "phone": "+88 545 828 5320",
+      "email": "agent67@iwrealty.com",
+      "photo": "/images/icons/png/ny-skyline-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-08-10T10:50:47.275Z",
+    "updatedAt": "2025-11-13T10:50:47.275Z",
+    "storeId": "store-008"
+  },
+  {
+    "id": "P08924",
+    "type": "rent",
+    "category": {
+      "main": "commercial",
+      "sub": "mall"
+    },
+    "title": "Kiralık AVM - Uruguay Central",
+    "slug": "kiralik-avm-uruguay-central-P08924",
+    "description": "Uruguay Central, Uruguay bölgesinde avm. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 363970223,
+    "location": {
+      "country": "UY",
+      "city": "Uruguay Central",
+      "district": "Uruguay Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 470",
+      "coordinates": {
+        "lat": -32.96354165796233,
+        "lng": -55.8731201068768
+      }
+    },
+    "specs": {
+      "netSize": 28656,
+      "grossSize": 34387,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 5,
+      "floor": 14,
+      "totalFloors": 12,
+      "heating": "Merkezi",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500494585670?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500312581050?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500522683507?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500454422244?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500040917168?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500934264270?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500766635786?w=800&q=80&category=real-estate"
+    ],
+    "agent": {
+      "id": "A74",
+      "name": "Agent 18",
+      "phone": "+63 372 228 3064",
+      "email": "agent47@iwrealty.com",
+      "photo": "/images/icons/png/paris-heritage-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-07-14T10:50:47.275Z",
+    "updatedAt": "2025-11-13T10:50:47.275Z",
+    "storeId": "store-010"
+  },
+  {
+    "id": "P08925",
+    "type": "sale",
+    "category": {
+      "main": "commercial",
+      "sub": "hotel"
+    },
+    "title": "Satılık Otel - Uruguay Central",
+    "slug": "satilik-otel-uruguay-central-P08925",
+    "description": "Uruguay Central, Uruguay bölgesinde otel. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 71529908,
+    "location": {
+      "country": "UY",
+      "city": "Uruguay Central",
+      "district": "Uruguay Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 940",
+      "coordinates": {
+        "lat": -33.24526262847435,
+        "lng": -56.286400252942606
+      }
+    },
+    "specs": {
+      "netSize": 29538,
+      "grossSize": 35446,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 17,
+      "floor": 13,
+      "totalFloors": 12,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500366170652?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500317069966?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500244771968?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500013929206?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500959311034?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500238516206?w=800&q=80&category=real-estate"
+    ],
+    "agent": {
+      "id": "A63",
+      "name": "Agent 85",
+      "phone": "+53 135 905 3135",
+      "email": "agent40@iwrealty.com",
+      "photo": "/images/icons/png/izmir-sahil-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": false,
+      "hasBalcony": false,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-08-13T10:50:47.275Z",
+    "updatedAt": "2025-11-13T10:50:47.275Z",
+    "storeId": "store-005"
+  },
+  {
+    "id": "P08926",
+    "type": "rent",
+    "category": {
+      "main": "commercial",
+      "sub": "hotel"
+    },
+    "title": "Kiralık Otel - Uruguay City",
+    "slug": "kiralik-otel-uruguay-city-P08926",
+    "description": "Uruguay City, Uruguay bölgesinde otel. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 110955654,
+    "location": {
+      "country": "UY",
+      "city": "Uruguay City",
+      "district": "Uruguay City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 693",
+      "coordinates": {
+        "lat": -32.77058857913507,
+        "lng": -56.12025694801202
+      }
+    },
+    "specs": {
+      "netSize": 9866,
+      "grossSize": 11839,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 16,
+      "floor": 4,
+      "totalFloors": 15,
+      "heating": "Klima",
+      "furnishing": "Unfurnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500461637414?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500152584229?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500415307192?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500934997703?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500774932263?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500224439178?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500579136173?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500721788539?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500684192559?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500776661932?w=800&q=80&category=house"
+    ],
+    "agent": {
+      "id": "A75",
+      "name": "Agent 19",
+      "phone": "+82 190 226 2002",
+      "email": "agent72@iwrealty.com",
+      "photo": "/images/icons/png/izmir-sahil-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-08-27T10:50:47.275Z",
+    "updatedAt": "2025-11-13T10:50:47.275Z",
+    "storeId": "store-005"
+  },
+  {
+    "id": "P08927",
+    "type": "sale",
+    "category": {
+      "main": "commercial",
+      "sub": "restaurant"
+    },
+    "title": "Satılık Restoran - Montevideo",
+    "slug": "satilik-restoran-montevideo-P08927",
+    "description": "Montevideo, Uruguay bölgesinde restoran. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 9073495,
+    "location": {
+      "country": "UY",
+      "city": "Montevideo",
+      "district": "Montevideo Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 950",
+      "coordinates": {
+        "lat": -32.53387142026977,
+        "lng": -56.197505679907145
+      }
+    },
+    "specs": {
+      "netSize": 1480,
+      "grossSize": 1776,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 12,
+      "floor": 10,
+      "totalFloors": 7,
+      "heating": "Kombi",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500317668216?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500105555304?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500599244465?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500784536835?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500170661228?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500570735047?w=800&q=80&category=house"
+    ],
+    "agent": {
+      "id": "A23",
+      "name": "Agent 34",
+      "phone": "+50 951 970 1343",
+      "email": "agent80@iwrealty.com",
+      "photo": "/images/icons/png/paris-heritage-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": false,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-08-21T10:50:47.275Z",
+    "updatedAt": "2025-11-13T10:50:47.275Z",
+    "storeId": "store-010"
+  },
+  {
+    "id": "P08928",
+    "type": "rent",
+    "category": {
+      "main": "commercial",
+      "sub": "restaurant"
+    },
+    "title": "Kiralık Restoran - Montevideo",
+    "slug": "kiralik-restoran-montevideo-P08928",
+    "description": "Montevideo, Uruguay bölgesinde restoran. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 5173436,
+    "location": {
+      "country": "UY",
+      "city": "Montevideo",
+      "district": "Montevideo Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 832",
+      "coordinates": {
+        "lat": -33.36056139515174,
+        "lng": -56.00300171866065
+      }
+    },
+    "specs": {
+      "netSize": 988,
+      "grossSize": 1186,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 6,
+      "floor": 2,
+      "totalFloors": 9,
+      "heating": "Klima",
+      "furnishing": "Furnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500830449070?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500354323004?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500958381794?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500710176326?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500790113915?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500556144489?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500044985809?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500549899712?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500969646192?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500814487794?w=800&q=80&category=building"
+    ],
+    "agent": {
+      "id": "A55",
+      "name": "Agent 56",
+      "phone": "+77 872 495 5979",
+      "email": "agent64@iwrealty.com",
+      "photo": "/images/icons/png/ankara-modern-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2024-12-08T10:50:47.275Z",
+    "updatedAt": "2025-11-13T10:50:47.275Z",
+    "storeId": "store-003"
+  },
+  {
+    "id": "P08929",
+    "type": "sale",
+    "category": {
+      "main": "commercial",
+      "sub": "warehouse"
+    },
+    "title": "Satılık Depo - Uruguay City",
+    "slug": "satilik-depo-uruguay-city-P08929",
+    "description": "Uruguay City, Uruguay bölgesinde depo. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 24079412,
+    "location": {
+      "country": "UY",
+      "city": "Uruguay City",
+      "district": "Uruguay City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 372",
+      "coordinates": {
+        "lat": -33.30306239164858,
+        "lng": -56.35324293011043
+      }
+    },
+    "specs": {
+      "netSize": 5850,
+      "grossSize": 7020,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 1,
+      "floor": 13,
+      "totalFloors": 12,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500385583268?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500084888264?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500469752429?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500945583869?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500151315908?w=800&q=80&category=house"
+    ],
+    "agent": {
+      "id": "A84",
+      "name": "Agent 17",
+      "phone": "+25 550 460 9451",
+      "email": "agent44@iwrealty.com",
+      "photo": "/images/icons/png/sydney-coastal-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": false,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2024-12-20T10:50:47.275Z",
+    "updatedAt": "2025-11-13T10:50:47.275Z",
+    "storeId": "store-012"
+  },
+  {
+    "id": "P08930",
+    "type": "rent",
+    "category": {
+      "main": "commercial",
+      "sub": "warehouse"
+    },
+    "title": "Kiralık Depo - New Uruguay",
+    "slug": "kiralik-depo-new-uruguay-P08930",
+    "description": "New Uruguay, Uruguay bölgesinde depo. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 10886371,
+    "location": {
+      "country": "UY",
+      "city": "New Uruguay",
+      "district": "New Uruguay Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 202",
+      "coordinates": {
+        "lat": -33.12781735410481,
+        "lng": -56.243288713826566
+      }
+    },
+    "specs": {
+      "netSize": 3158,
+      "grossSize": 3790,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 6,
+      "floor": 15,
+      "totalFloors": 12,
+      "heating": "Kombi",
+      "furnishing": "Unfurnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500233209899?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500105023939?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500832485680?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500641273931?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500873403747?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500335988482?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500161504927?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500277175616?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500963011270?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500629218721?w=800&q=80&category=architecture"
+    ],
+    "agent": {
+      "id": "A86",
+      "name": "Agent 31",
+      "phone": "+52 377 268 3256",
+      "email": "agent17@iwrealty.com",
+      "photo": "/images/icons/png/dubai-property-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": true,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-08-03T10:50:47.275Z",
+    "updatedAt": "2025-11-13T10:50:47.275Z",
+    "storeId": "store-004"
+  }
+]

@@ -1,0 +1,2356 @@
+[
+  {
+    "id": "P06727",
+    "type": "sale",
+    "category": {
+      "main": "government"
+    },
+    "title": "Satılık Devlet Binası - Lima",
+    "slug": "satilik-devlet-binası-lima-P06727",
+    "description": "Lima, Peru bölgesinde devlet binası. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 39402119,
+    "location": {
+      "country": "PE",
+      "city": "Lima",
+      "district": "Lima Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 374",
+      "coordinates": {
+        "lat": -10.073072765755121,
+        "lng": -75.76094623984956
+      }
+    },
+    "specs": {
+      "netSize": 3182,
+      "grossSize": 3818,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 5,
+      "floor": 13,
+      "totalFloors": 19,
+      "heating": "Merkezi",
+      "furnishing": "Furnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500705305056?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500056326393?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500719729885?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500874462150?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500686004744?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500302955451?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500591973422?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500645955955?w=800&q=80&category=architecture"
+    ],
+    "agent": {
+      "id": "A26",
+      "name": "Agent 50",
+      "phone": "+85 895 299 4633",
+      "email": "agent78@iwrealty.com",
+      "photo": "/images/icons/png/luxury-homes-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-08-20T10:50:47.250Z",
+    "updatedAt": "2025-11-13T10:50:47.250Z",
+    "storeId": "store-002"
+  },
+  {
+    "id": "P06728",
+    "type": "rent",
+    "category": {
+      "main": "government"
+    },
+    "title": "Kiralık Belediye Binası - Peru Central",
+    "slug": "kiralik-belediye-binası-peru-central-P06728",
+    "description": "Peru Central, Peru bölgesinde belediye binası. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 39439043,
+    "location": {
+      "country": "PE",
+      "city": "Peru Central",
+      "district": "Peru Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 613",
+      "coordinates": {
+        "lat": -9.588162281986317,
+        "lng": -76.2870296423822
+      }
+    },
+    "specs": {
+      "netSize": 633,
+      "grossSize": 760,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 7,
+      "floor": 15,
+      "totalFloors": 8,
+      "heating": "Merkezi",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500349024071?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500152178376?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500759235421?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500870557330?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500955165225?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500210829833?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500735090226?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500366499606?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500315701471?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500641620513?w=800&q=80&category=building"
+    ],
+    "agent": {
+      "id": "A61",
+      "name": "Agent 84",
+      "phone": "+65 216 844 5662",
+      "email": "agent38@iwrealty.com",
+      "photo": "/images/icons/png/izmir-sahil-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-10-11T10:50:47.250Z",
+    "updatedAt": "2025-11-13T10:50:47.250Z",
+    "storeId": "store-005"
+  },
+  {
+    "id": "P06729",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Daire - Peru Central",
+    "slug": "satilik-daire-peru-central-P06729",
+    "description": "Peru Central, Peru bölgesinde daire. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 9834052,
+    "location": {
+      "country": "PE",
+      "city": "Peru Central",
+      "district": "Peru Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 15",
+      "coordinates": {
+        "lat": -9.873302935192093,
+        "lng": -76.25174312588541
+      }
+    },
+    "specs": {
+      "netSize": 90,
+      "grossSize": 108,
+      "rooms": "1+2",
+      "bathrooms": 3,
+      "age": 3,
+      "floor": 15,
+      "totalFloors": 12,
+      "heating": "Merkezi",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500462256260?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500876112788?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500111806403?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500604359522?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500629242970?w=800&q=80&category=building"
+    ],
+    "agent": {
+      "id": "A98",
+      "name": "Agent 62",
+      "phone": "+34 542 921 7181",
+      "email": "agent49@iwrealty.com",
+      "photo": "/images/icons/png/ny-skyline-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-11-01T10:50:47.250Z",
+    "updatedAt": "2025-11-13T10:50:47.250Z",
+    "storeId": "store-008"
+  },
+  {
+    "id": "P06730",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Villa - New Peru",
+    "slug": "kiralik-villa-new-peru-P06730",
+    "description": "New Peru, Peru bölgesinde villa. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 14471470,
+    "location": {
+      "country": "PE",
+      "city": "New Peru",
+      "district": "New Peru Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 841",
+      "coordinates": {
+        "lat": -9.849780797828469,
+        "lng": -76.0619555083979
+      }
+    },
+    "specs": {
+      "netSize": 212,
+      "grossSize": 254,
+      "rooms": "2+0",
+      "bathrooms": 1,
+      "age": 16,
+      "floor": 5,
+      "totalFloors": 6,
+      "heating": "Kombi",
+      "furnishing": "Unfurnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500447671569?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500986748001?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500500760735?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500935648171?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500871248817?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500814437390?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500086973829?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500611736581?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500908786365?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500714466020?w=800&q=80&category=house"
+    ],
+    "agent": {
+      "id": "A98",
+      "name": "Agent 56",
+      "phone": "+97 150 618 4445",
+      "email": "agent20@iwrealty.com",
+      "photo": "/images/icons/png/antalya-investment-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-10-22T10:50:47.250Z",
+    "updatedAt": "2025-11-13T10:50:47.250Z",
+    "storeId": "store-006"
+  },
+  {
+    "id": "P06731",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Daire - Lima",
+    "slug": "satilik-daire-lima-P06731",
+    "description": "Lima, Peru bölgesinde daire. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 13807237,
+    "location": {
+      "country": "PE",
+      "city": "Lima",
+      "district": "Lima Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 328",
+      "coordinates": {
+        "lat": -9.869260707873337,
+        "lng": -75.80893159569169
+      }
+    },
+    "specs": {
+      "netSize": 449,
+      "grossSize": 539,
+      "rooms": "3+0",
+      "bathrooms": 3,
+      "age": 10,
+      "floor": 6,
+      "totalFloors": 16,
+      "heating": "Klima",
+      "furnishing": "Furnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500715295181?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500695204043?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500150997391?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500288339396?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500119851724?w=800&q=80&category=architecture"
+    ],
+    "agent": {
+      "id": "A35",
+      "name": "Agent 54",
+      "phone": "+37 357 888 1393",
+      "email": "agent4@iwrealty.com",
+      "photo": "/images/icons/png/ny-skyline-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": false,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-05-26T10:50:47.250Z",
+    "updatedAt": "2025-11-13T10:50:47.250Z",
+    "storeId": "store-008"
+  },
+  {
+    "id": "P06732",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Daire - Lima",
+    "slug": "kiralik-daire-lima-P06732",
+    "description": "Lima, Peru bölgesinde daire. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 14009581,
+    "location": {
+      "country": "PE",
+      "city": "Lima",
+      "district": "Lima Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 224",
+      "coordinates": {
+        "lat": -9.695925571857758,
+        "lng": -76.02579906870344
+      }
+    },
+    "specs": {
+      "netSize": 102,
+      "grossSize": 122,
+      "rooms": "3+2",
+      "bathrooms": 3,
+      "age": 12,
+      "floor": 10,
+      "totalFloors": 5,
+      "heating": "Kombi",
+      "furnishing": "Furnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500069379585?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500872225666?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500662141112?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500560413986?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500450940765?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500027494845?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500596606387?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500461858087?w=800&q=80&category=architecture"
+    ],
+    "agent": {
+      "id": "A33",
+      "name": "Agent 30",
+      "phone": "+50 677 860 8360",
+      "email": "agent80@iwrealty.com",
+      "photo": "/images/icons/png/antalya-investment-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-02-06T10:50:47.250Z",
+    "updatedAt": "2025-11-13T10:50:47.250Z",
+    "storeId": "store-006"
+  },
+  {
+    "id": "P06733",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Residence - Peru Central",
+    "slug": "satilik-residence-peru-central-P06733",
+    "description": "Peru Central, Peru bölgesinde residence. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 13911647,
+    "location": {
+      "country": "PE",
+      "city": "Peru Central",
+      "district": "Peru Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 149",
+      "coordinates": {
+        "lat": -9.961456143675141,
+        "lng": -75.76627074453214
+      }
+    },
+    "specs": {
+      "netSize": 146,
+      "grossSize": 175,
+      "rooms": "5+1",
+      "bathrooms": 3,
+      "age": 3,
+      "floor": 12,
+      "totalFloors": 20,
+      "heating": "Merkezi",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500498468928?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500512961650?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500141980714?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500601931540?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500315895350?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500284312638?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500060264345?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500360657294?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500864929811?w=800&q=80&category=architecture"
+    ],
+    "agent": {
+      "id": "A92",
+      "name": "Agent 39",
+      "phone": "+75 680 459 6377",
+      "email": "agent92@iwrealty.com",
+      "photo": "/images/icons/png/ankara-modern-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": false,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-07-08T10:50:47.250Z",
+    "updatedAt": "2025-11-13T10:50:47.250Z",
+    "storeId": "store-003"
+  },
+  {
+    "id": "P06734",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Daire - Lima",
+    "slug": "kiralik-daire-lima-P06734",
+    "description": "Lima, Peru bölgesinde daire. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 6201789,
+    "location": {
+      "country": "PE",
+      "city": "Lima",
+      "district": "Lima Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 704",
+      "coordinates": {
+        "lat": -10.328783227850435,
+        "lng": -76.06852383507838
+      }
+    },
+    "specs": {
+      "netSize": 154,
+      "grossSize": 185,
+      "rooms": "3+0",
+      "bathrooms": 1,
+      "age": 18,
+      "floor": 13,
+      "totalFloors": 12,
+      "heating": "Kombi",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500148486905?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500680342143?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500909971686?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500861985568?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500772668794?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500375735904?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500565990807?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500379555877?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500831714458?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500327735201?w=800&q=80&category=real-estate"
+    ],
+    "agent": {
+      "id": "A25",
+      "name": "Agent 61",
+      "phone": "+13 929 617 4880",
+      "email": "agent94@iwrealty.com",
+      "photo": "/images/icons/png/ny-skyline-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": false,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-11-10T10:50:47.250Z",
+    "updatedAt": "2025-11-13T10:50:47.250Z",
+    "storeId": "store-008"
+  },
+  {
+    "id": "P06735",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Daire - Lima",
+    "slug": "satilik-daire-lima-P06735",
+    "description": "Lima, Peru bölgesinde daire. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 4183957,
+    "location": {
+      "country": "PE",
+      "city": "Lima",
+      "district": "Lima Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 137",
+      "coordinates": {
+        "lat": -10.408573186486004,
+        "lng": -75.75448950528329
+      }
+    },
+    "specs": {
+      "netSize": 457,
+      "grossSize": 548,
+      "rooms": "5+0",
+      "bathrooms": 2,
+      "age": 0,
+      "floor": 9,
+      "totalFloors": 13,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Furnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500959220027?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500761726131?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500794387661?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500953902381?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500139277219?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500318838089?w=800&q=80&category=building"
+    ],
+    "agent": {
+      "id": "A68",
+      "name": "Agent 54",
+      "phone": "+65 245 789 3224",
+      "email": "agent79@iwrealty.com",
+      "photo": "/images/icons/png/ny-skyline-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-09-16T10:50:47.250Z",
+    "updatedAt": "2025-11-13T10:50:47.250Z",
+    "storeId": "store-008"
+  },
+  {
+    "id": "P06736",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Daire - Peru Central",
+    "slug": "kiralik-daire-peru-central-P06736",
+    "description": "Peru Central, Peru bölgesinde daire. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 14769343,
+    "location": {
+      "country": "PE",
+      "city": "Peru Central",
+      "district": "Peru Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 799",
+      "coordinates": {
+        "lat": -10.450821431702481,
+        "lng": -75.68333881267324
+      }
+    },
+    "specs": {
+      "netSize": 205,
+      "grossSize": 246,
+      "rooms": "4+0",
+      "bathrooms": 2,
+      "age": 9,
+      "floor": 1,
+      "totalFloors": 13,
+      "heating": "Merkezi",
+      "furnishing": "Unfurnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500899297163?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500005184610?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500072000035?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500880418401?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500762695337?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500593019130?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500753679762?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500062899261?w=800&q=80&category=interior"
+    ],
+    "agent": {
+      "id": "A22",
+      "name": "Agent 46",
+      "phone": "+49 355 193 7590",
+      "email": "agent38@iwrealty.com",
+      "photo": "/images/icons/png/luxury-homes-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-03-23T10:50:47.250Z",
+    "updatedAt": "2025-11-13T10:50:47.250Z",
+    "storeId": "store-002"
+  },
+  {
+    "id": "P06737",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Daire - Lima",
+    "slug": "satilik-daire-lima-P06737",
+    "description": "Lima, Peru bölgesinde daire. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 8995105,
+    "location": {
+      "country": "PE",
+      "city": "Lima",
+      "district": "Lima Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 182",
+      "coordinates": {
+        "lat": -10.377969463087156,
+        "lng": -76.3059088053278
+      }
+    },
+    "specs": {
+      "netSize": 442,
+      "grossSize": 530,
+      "rooms": "2+2",
+      "bathrooms": 1,
+      "age": 11,
+      "floor": 15,
+      "totalFloors": 13,
+      "heating": "Kombi",
+      "furnishing": "Furnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500533895909?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500240656110?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500616470891?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500670569431?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500647092077?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500562655349?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500057542062?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500916479813?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500383220102?w=800&q=80&category=architecture"
+    ],
+    "agent": {
+      "id": "A84",
+      "name": "Agent 16",
+      "phone": "+93 510 244 2922",
+      "email": "agent4@iwrealty.com",
+      "photo": "/images/icons/png/paris-heritage-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-08-22T10:50:47.250Z",
+    "updatedAt": "2025-11-13T10:50:47.250Z",
+    "storeId": "store-010"
+  },
+  {
+    "id": "P06738",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Müstakil Ev - Peru City",
+    "slug": "kiralik-müstakil-ev-peru-city-P06738",
+    "description": "Peru City, Peru bölgesinde müstakil ev. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 4300876,
+    "location": {
+      "country": "PE",
+      "city": "Peru City",
+      "district": "Peru City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 375",
+      "coordinates": {
+        "lat": -9.872852351870215,
+        "lng": -76.3066442360417
+      }
+    },
+    "specs": {
+      "netSize": 140,
+      "grossSize": 168,
+      "rooms": "5+1",
+      "bathrooms": 2,
+      "age": 12,
+      "floor": 12,
+      "totalFloors": 18,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Unfurnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500281677605?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500004527122?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500095296019?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500829491178?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500072759586?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500778978684?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500144752019?w=800&q=80&category=house"
+    ],
+    "agent": {
+      "id": "A41",
+      "name": "Agent 40",
+      "phone": "+41 476 872 7337",
+      "email": "agent35@iwrealty.com",
+      "photo": "/images/icons/png/luxury-homes-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": true,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-10-08T10:50:47.250Z",
+    "updatedAt": "2025-11-13T10:50:47.250Z",
+    "storeId": "store-002"
+  },
+  {
+    "id": "P06739",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Villa - Peru Central",
+    "slug": "satilik-villa-peru-central-P06739",
+    "description": "Peru Central, Peru bölgesinde villa. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 5568800,
+    "location": {
+      "country": "PE",
+      "city": "Peru Central",
+      "district": "Peru Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 255",
+      "coordinates": {
+        "lat": -10.412782584061892,
+        "lng": -76.47830689955235
+      }
+    },
+    "specs": {
+      "netSize": 490,
+      "grossSize": 588,
+      "rooms": "1+2",
+      "bathrooms": 2,
+      "age": 6,
+      "floor": 13,
+      "totalFloors": 13,
+      "heating": "Merkezi",
+      "furnishing": "Furnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500729991588?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500391782273?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500915790096?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500852888344?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500508293974?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500361396919?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500683354419?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500347001666?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500039265762?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500497835644?w=800&q=80&category=real-estate"
+    ],
+    "agent": {
+      "id": "A38",
+      "name": "Agent 94",
+      "phone": "+98 525 613 2645",
+      "email": "agent53@iwrealty.com",
+      "photo": "/images/icons/png/ankara-modern-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": false,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-01-12T10:50:47.250Z",
+    "updatedAt": "2025-11-13T10:50:47.250Z",
+    "storeId": "store-003"
+  },
+  {
+    "id": "P06740",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Villa - Lima",
+    "slug": "kiralik-villa-lima-P06740",
+    "description": "Lima, Peru bölgesinde villa. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 10458208,
+    "location": {
+      "country": "PE",
+      "city": "Lima",
+      "district": "Lima Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 227",
+      "coordinates": {
+        "lat": -10.33137467110809,
+        "lng": -75.99040664462572
+      }
+    },
+    "specs": {
+      "netSize": 205,
+      "grossSize": 246,
+      "rooms": "5+0",
+      "bathrooms": 3,
+      "age": 4,
+      "floor": 9,
+      "totalFloors": 5,
+      "heating": "Klima",
+      "furnishing": "Furnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500063681590?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500361522073?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500261190353?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500418488024?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500375627836?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500005776193?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500041648594?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500729375662?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500421929311?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500877878387?w=800&q=80&category=architecture"
+    ],
+    "agent": {
+      "id": "A84",
+      "name": "Agent 17",
+      "phone": "+88 938 700 8778",
+      "email": "agent73@iwrealty.com",
+      "photo": "/images/icons/png/ny-skyline-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-09-16T10:50:47.250Z",
+    "updatedAt": "2025-11-13T10:50:47.250Z",
+    "storeId": "store-008"
+  },
+  {
+    "id": "P06741",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Daire - Peru City",
+    "slug": "satilik-daire-peru-city-P06741",
+    "description": "Peru City, Peru bölgesinde daire. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 2158816,
+    "location": {
+      "country": "PE",
+      "city": "Peru City",
+      "district": "Peru City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 730",
+      "coordinates": {
+        "lat": -10.20033947916144,
+        "lng": -76.32046847566517
+      }
+    },
+    "specs": {
+      "netSize": 483,
+      "grossSize": 580,
+      "rooms": "4+2",
+      "bathrooms": 2,
+      "age": 20,
+      "floor": 4,
+      "totalFloors": 16,
+      "heating": "Kombi",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500275398754?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500340926871?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500260675600?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500877973648?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500981862780?w=800&q=80&category=house"
+    ],
+    "agent": {
+      "id": "A65",
+      "name": "Agent 72",
+      "phone": "+42 194 895 3788",
+      "email": "agent97@iwrealty.com",
+      "photo": "/images/icons/png/paris-heritage-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2024-11-24T10:50:47.250Z",
+    "updatedAt": "2025-11-13T10:50:47.250Z",
+    "storeId": "store-010"
+  },
+  {
+    "id": "P06742",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Villa - Lima",
+    "slug": "kiralik-villa-lima-P06742",
+    "description": "Lima, Peru bölgesinde villa. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 9338748,
+    "location": {
+      "country": "PE",
+      "city": "Lima",
+      "district": "Lima Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 180",
+      "coordinates": {
+        "lat": -10.158883092150598,
+        "lng": -75.68217262208009
+      }
+    },
+    "specs": {
+      "netSize": 420,
+      "grossSize": 504,
+      "rooms": "3+2",
+      "bathrooms": 1,
+      "age": 10,
+      "floor": 15,
+      "totalFloors": 9,
+      "heating": "Klima",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500948356435?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500507740965?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500920691815?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500429397124?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500539970716?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500862667812?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500762410554?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500182530985?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500728037417?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500488061087?w=800&q=80&category=building"
+    ],
+    "agent": {
+      "id": "A84",
+      "name": "Agent 47",
+      "phone": "+25 541 175 1854",
+      "email": "agent69@iwrealty.com",
+      "photo": "/images/icons/png/london-prime-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-04-22T10:50:47.250Z",
+    "updatedAt": "2025-11-13T10:50:47.250Z",
+    "storeId": "store-007"
+  },
+  {
+    "id": "P06743",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Daire - Peru Central",
+    "slug": "satilik-daire-peru-central-P06743",
+    "description": "Peru Central, Peru bölgesinde daire. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 12647432,
+    "location": {
+      "country": "PE",
+      "city": "Peru Central",
+      "district": "Peru Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 431",
+      "coordinates": {
+        "lat": -9.807517801630516,
+        "lng": -75.9370931443227
+      }
+    },
+    "specs": {
+      "netSize": 426,
+      "grossSize": 511,
+      "rooms": "4+1",
+      "bathrooms": 1,
+      "age": 4,
+      "floor": 12,
+      "totalFloors": 9,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Furnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500393393560?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500125004557?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500954061739?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500445147148?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500125406556?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500538233009?w=800&q=80&category=real-estate"
+    ],
+    "agent": {
+      "id": "A85",
+      "name": "Agent 88",
+      "phone": "+34 205 443 2005",
+      "email": "agent45@iwrealty.com",
+      "photo": "/images/icons/png/berlin-urban-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": false,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": true,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-05-19T10:50:47.250Z",
+    "updatedAt": "2025-11-13T10:50:47.250Z",
+    "storeId": "store-009"
+  },
+  {
+    "id": "P06744",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Residence - New Peru",
+    "slug": "kiralik-residence-new-peru-P06744",
+    "description": "New Peru, Peru bölgesinde residence. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 2057977,
+    "location": {
+      "country": "PE",
+      "city": "New Peru",
+      "district": "New Peru Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 547",
+      "coordinates": {
+        "lat": -9.932488812321273,
+        "lng": -76.32024743123205
+      }
+    },
+    "specs": {
+      "netSize": 253,
+      "grossSize": 304,
+      "rooms": "5+1",
+      "bathrooms": 1,
+      "age": 11,
+      "floor": 11,
+      "totalFloors": 5,
+      "heating": "Kombi",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500699846431?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500766851029?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500107923728?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500254458810?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500168253001?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500101483833?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500971429354?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500232917644?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500315709583?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500343980251?w=800&q=80&category=real-estate"
+    ],
+    "agent": {
+      "id": "A66",
+      "name": "Agent 21",
+      "phone": "+42 373 157 7915",
+      "email": "agent43@iwrealty.com",
+      "photo": "/images/icons/png/sg-harbour-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": true,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-03-13T10:50:47.250Z",
+    "updatedAt": "2025-11-13T10:50:47.250Z",
+    "storeId": "store-011"
+  },
+  {
+    "id": "P06745",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Villa - Lima",
+    "slug": "satilik-villa-lima-P06745",
+    "description": "Lima, Peru bölgesinde villa. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 12979891,
+    "location": {
+      "country": "PE",
+      "city": "Lima",
+      "district": "Lima Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 83",
+      "coordinates": {
+        "lat": -10.223169856172676,
+        "lng": -76.04916022712975
+      }
+    },
+    "specs": {
+      "netSize": 115,
+      "grossSize": 138,
+      "rooms": "4+2",
+      "bathrooms": 3,
+      "age": 3,
+      "floor": 2,
+      "totalFloors": 8,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Furnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500025229588?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500856057953?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500494090982?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500392162076?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500783235901?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500677941794?w=800&q=80&category=architecture"
+    ],
+    "agent": {
+      "id": "A83",
+      "name": "Agent 72",
+      "phone": "+41 615 729 4391",
+      "email": "agent5@iwrealty.com",
+      "photo": "/images/icons/png/paris-heritage-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": false,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-09-26T10:50:47.250Z",
+    "updatedAt": "2025-11-13T10:50:47.250Z",
+    "storeId": "store-010"
+  },
+  {
+    "id": "P06746",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Villa - Peru Central",
+    "slug": "kiralik-villa-peru-central-P06746",
+    "description": "Peru Central, Peru bölgesinde villa. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 12101948,
+    "location": {
+      "country": "PE",
+      "city": "Peru Central",
+      "district": "Peru Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 761",
+      "coordinates": {
+        "lat": -10.368190233584615,
+        "lng": -75.78883945342862
+      }
+    },
+    "specs": {
+      "netSize": 335,
+      "grossSize": 402,
+      "rooms": "3+1",
+      "bathrooms": 3,
+      "age": 7,
+      "floor": 4,
+      "totalFloors": 7,
+      "heating": "Kombi",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500051865222?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500791489593?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500325100277?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500516895937?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500039046075?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500105617795?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500896919107?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500232667873?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500612682428?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500401522011?w=800&q=80&category=real-estate"
+    ],
+    "agent": {
+      "id": "A66",
+      "name": "Agent 6",
+      "phone": "+30 276 733 6631",
+      "email": "agent43@iwrealty.com",
+      "photo": "/images/icons/png/paris-heritage-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": false,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-09-22T10:50:47.250Z",
+    "updatedAt": "2025-11-13T10:50:47.250Z",
+    "storeId": "store-010"
+  },
+  {
+    "id": "P06747",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Villa - Peru Central",
+    "slug": "satilik-villa-peru-central-P06747",
+    "description": "Peru Central, Peru bölgesinde villa. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 14610619,
+    "location": {
+      "country": "PE",
+      "city": "Peru Central",
+      "district": "Peru Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 314",
+      "coordinates": {
+        "lat": -9.900479366822085,
+        "lng": -75.79485513559636
+      }
+    },
+    "specs": {
+      "netSize": 481,
+      "grossSize": 577,
+      "rooms": "2+0",
+      "bathrooms": 4,
+      "age": 15,
+      "floor": 15,
+      "totalFloors": 7,
+      "heating": "Klima",
+      "furnishing": "Unfurnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500201693275?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500523516571?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500145373232?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500759179451?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500442209191?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500573794782?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500825289212?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500001827185?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500103015762?w=800&q=80&category=architecture"
+    ],
+    "agent": {
+      "id": "A71",
+      "name": "Agent 22",
+      "phone": "+76 546 359 4403",
+      "email": "agent32@iwrealty.com",
+      "photo": "/images/icons/png/sg-harbour-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-02-20T10:50:47.250Z",
+    "updatedAt": "2025-11-13T10:50:47.250Z",
+    "storeId": "store-011"
+  },
+  {
+    "id": "P06748",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Residence - Peru Central",
+    "slug": "kiralik-residence-peru-central-P06748",
+    "description": "Peru Central, Peru bölgesinde residence. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 8401619,
+    "location": {
+      "country": "PE",
+      "city": "Peru Central",
+      "district": "Peru Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 915",
+      "coordinates": {
+        "lat": -10.436559939268175,
+        "lng": -76.2925716100293
+      }
+    },
+    "specs": {
+      "netSize": 222,
+      "grossSize": 266,
+      "rooms": "4+0",
+      "bathrooms": 1,
+      "age": 4,
+      "floor": 3,
+      "totalFloors": 8,
+      "heating": "Klima",
+      "furnishing": "Unfurnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500697508204?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500892980323?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500485722432?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500481190439?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500190001304?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500017511492?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500170955246?w=800&q=80&category=real-estate"
+    ],
+    "agent": {
+      "id": "A7",
+      "name": "Agent 87",
+      "phone": "+27 902 106 8284",
+      "email": "agent81@iwrealty.com",
+      "photo": "/images/icons/png/izmir-sahil-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-09-26T10:50:47.250Z",
+    "updatedAt": "2025-11-13T10:50:47.250Z",
+    "storeId": "store-005"
+  },
+  {
+    "id": "P06749",
+    "type": "sale",
+    "category": {
+      "main": "commercial",
+      "sub": "hospital"
+    },
+    "title": "Satılık Hastane - New Peru",
+    "slug": "satilik-hastane-new-peru-P06749",
+    "description": "New Peru, Peru bölgesinde hastane. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 21533547,
+    "location": {
+      "country": "PE",
+      "city": "New Peru",
+      "district": "New Peru Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 262",
+      "coordinates": {
+        "lat": -9.947421809173553,
+        "lng": -75.73256275723834
+      }
+    },
+    "specs": {
+      "netSize": 10486,
+      "grossSize": 12583,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 1,
+      "floor": 12,
+      "totalFloors": 16,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Furnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500665307421?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500207032961?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500492157528?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500913873353?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500785142537?w=800&q=80&category=house"
+    ],
+    "agent": {
+      "id": "A44",
+      "name": "Agent 23",
+      "phone": "+82 864 180 7257",
+      "email": "agent97@iwrealty.com",
+      "photo": "/images/icons/png/london-prime-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-09-02T10:50:47.250Z",
+    "updatedAt": "2025-11-13T10:50:47.250Z",
+    "storeId": "store-007"
+  },
+  {
+    "id": "P06750",
+    "type": "rent",
+    "category": {
+      "main": "commercial",
+      "sub": "hospital"
+    },
+    "title": "Kiralık Hastane - Peru Central",
+    "slug": "kiralik-hastane-peru-central-P06750",
+    "description": "Peru Central, Peru bölgesinde hastane. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 80077851,
+    "location": {
+      "country": "PE",
+      "city": "Peru Central",
+      "district": "Peru Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 117",
+      "coordinates": {
+        "lat": -10.49645872475471,
+        "lng": -75.97466312370744
+      }
+    },
+    "specs": {
+      "netSize": 12763,
+      "grossSize": 15316,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 20,
+      "floor": 14,
+      "totalFloors": 16,
+      "heating": "Kombi",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500947103678?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500863490871?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500105632711?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500851770591?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500687199872?w=800&q=80&category=house"
+    ],
+    "agent": {
+      "id": "A28",
+      "name": "Agent 82",
+      "phone": "+87 176 176 4254",
+      "email": "agent52@iwrealty.com",
+      "photo": "/images/icons/png/ny-skyline-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": false,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": true,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-08-29T10:50:47.250Z",
+    "updatedAt": "2025-11-13T10:50:47.250Z",
+    "storeId": "store-008"
+  },
+  {
+    "id": "P06751",
+    "type": "sale",
+    "category": {
+      "main": "commercial",
+      "sub": "clinic"
+    },
+    "title": "Satılık Klinik - New Peru",
+    "slug": "satilik-klinik-new-peru-P06751",
+    "description": "New Peru, Peru bölgesinde klinik. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 2642693,
+    "location": {
+      "country": "PE",
+      "city": "New Peru",
+      "district": "New Peru Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 471",
+      "coordinates": {
+        "lat": -9.911236006716917,
+        "lng": -75.73107628995635
+      }
+    },
+    "specs": {
+      "netSize": 1603,
+      "grossSize": 1924,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 12,
+      "floor": 5,
+      "totalFloors": 17,
+      "heating": "Klima",
+      "furnishing": "Unfurnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500153802392?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500308002280?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500532377808?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500359756749?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500180669810?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500861525617?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500094120435?w=800&q=80&category=architecture"
+    ],
+    "agent": {
+      "id": "A96",
+      "name": "Agent 62",
+      "phone": "+39 482 480 1349",
+      "email": "agent90@iwrealty.com",
+      "photo": "/images/icons/png/izmir-sahil-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-10-12T10:50:47.250Z",
+    "updatedAt": "2025-11-13T10:50:47.250Z",
+    "storeId": "store-005"
+  },
+  {
+    "id": "P06752",
+    "type": "rent",
+    "category": {
+      "main": "commercial",
+      "sub": "clinic"
+    },
+    "title": "Kiralık Klinik - Peru Central",
+    "slug": "kiralik-klinik-peru-central-P06752",
+    "description": "Peru Central, Peru bölgesinde klinik. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 8977036,
+    "location": {
+      "country": "PE",
+      "city": "Peru Central",
+      "district": "Peru Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 642",
+      "coordinates": {
+        "lat": -10.024635479619365,
+        "lng": -75.81961937840121
+      }
+    },
+    "specs": {
+      "netSize": 1134,
+      "grossSize": 1361,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 17,
+      "floor": 14,
+      "totalFloors": 14,
+      "heating": "Merkezi",
+      "furnishing": "Furnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500403898525?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500109819337?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500865717177?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500269855059?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500533149127?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500290374231?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500807084866?w=800&q=80&category=interior"
+    ],
+    "agent": {
+      "id": "A48",
+      "name": "Agent 8",
+      "phone": "+66 883 144 5950",
+      "email": "agent72@iwrealty.com",
+      "photo": "/images/icons/png/sydney-coastal-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": true,
+      "hasPool": true,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-07-30T10:50:47.250Z",
+    "updatedAt": "2025-11-13T10:50:47.250Z",
+    "storeId": "store-012"
+  },
+  {
+    "id": "P06753",
+    "type": "sale",
+    "category": {
+      "main": "commercial",
+      "sub": "shop"
+    },
+    "title": "Satılık Dükkan - Peru Central",
+    "slug": "satilik-dükkan-peru-central-P06753",
+    "description": "Peru Central, Peru bölgesinde dükkan. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 4985551,
+    "location": {
+      "country": "PE",
+      "city": "Peru Central",
+      "district": "Peru Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 972",
+      "coordinates": {
+        "lat": -10.242311894623388,
+        "lng": -76.09092146298559
+      }
+    },
+    "specs": {
+      "netSize": 200,
+      "grossSize": 240,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 11,
+      "floor": 9,
+      "totalFloors": 15,
+      "heating": "Kombi",
+      "furnishing": "Furnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500394322512?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500331476967?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500201315827?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500407630855?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500899307156?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500688263060?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500632869203?w=800&q=80&category=building"
+    ],
+    "agent": {
+      "id": "A17",
+      "name": "Agent 40",
+      "phone": "+58 570 524 4932",
+      "email": "agent10@iwrealty.com",
+      "photo": "/images/icons/png/sg-harbour-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": true,
+      "hasPool": true,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-03-18T10:50:47.250Z",
+    "updatedAt": "2025-11-13T10:50:47.250Z",
+    "storeId": "store-011"
+  },
+  {
+    "id": "P06754",
+    "type": "rent",
+    "category": {
+      "main": "commercial",
+      "sub": "shop"
+    },
+    "title": "Kiralık Dükkan - New Peru",
+    "slug": "kiralik-dükkan-new-peru-P06754",
+    "description": "New Peru, Peru bölgesinde dükkan. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 991992,
+    "location": {
+      "country": "PE",
+      "city": "New Peru",
+      "district": "New Peru Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 529",
+      "coordinates": {
+        "lat": -9.645170231158483,
+        "lng": -76.28068793908803
+      }
+    },
+    "specs": {
+      "netSize": 68,
+      "grossSize": 82,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 11,
+      "floor": 2,
+      "totalFloors": 12,
+      "heating": "Kombi",
+      "furnishing": "Furnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500274434256?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500978992663?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500324315529?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500112081141?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500369963163?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500179148274?w=800&q=80&category=interior"
+    ],
+    "agent": {
+      "id": "A13",
+      "name": "Agent 5",
+      "phone": "+92 913 450 7705",
+      "email": "agent82@iwrealty.com",
+      "photo": "/images/icons/png/luxury-homes-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-10-23T10:50:47.250Z",
+    "updatedAt": "2025-11-13T10:50:47.250Z",
+    "storeId": "store-002"
+  },
+  {
+    "id": "P06755",
+    "type": "sale",
+    "category": {
+      "main": "commercial",
+      "sub": "office"
+    },
+    "title": "Satılık Ofis - Peru City",
+    "slug": "satilik-ofis-peru-city-P06755",
+    "description": "Peru City, Peru bölgesinde ofis. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 5758188,
+    "location": {
+      "country": "PE",
+      "city": "Peru City",
+      "district": "Peru City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 717",
+      "coordinates": {
+        "lat": -9.701946410760943,
+        "lng": -76.05471973476868
+      }
+    },
+    "specs": {
+      "netSize": 233,
+      "grossSize": 280,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 5,
+      "floor": 15,
+      "totalFloors": 16,
+      "heating": "Klima",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500884663972?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500551225492?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500187697349?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500875324854?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500934187360?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500555609522?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500578568983?w=800&q=80&category=house"
+    ],
+    "agent": {
+      "id": "A62",
+      "name": "Agent 99",
+      "phone": "+29 340 117 9938",
+      "email": "agent31@iwrealty.com",
+      "photo": "/images/icons/png/sydney-coastal-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": false,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2024-12-16T10:50:47.250Z",
+    "updatedAt": "2025-11-13T10:50:47.250Z",
+    "storeId": "store-012"
+  },
+  {
+    "id": "P06756",
+    "type": "rent",
+    "category": {
+      "main": "commercial",
+      "sub": "office"
+    },
+    "title": "Kiralık Ofis - New Peru",
+    "slug": "kiralik-ofis-new-peru-P06756",
+    "description": "New Peru, Peru bölgesinde ofis. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 14357305,
+    "location": {
+      "country": "PE",
+      "city": "New Peru",
+      "district": "New Peru Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 48",
+      "coordinates": {
+        "lat": -10.261104071036112,
+        "lng": -75.76529669632882
+      }
+    },
+    "specs": {
+      "netSize": 564,
+      "grossSize": 677,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 9,
+      "floor": 10,
+      "totalFloors": 19,
+      "heating": "Klima",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500670551435?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500217355893?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500728734243?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500073567563?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500217569154?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500678918614?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500785321315?w=800&q=80&category=building"
+    ],
+    "agent": {
+      "id": "A33",
+      "name": "Agent 70",
+      "phone": "+63 965 604 5146",
+      "email": "agent65@iwrealty.com",
+      "photo": "/images/icons/png/berlin-urban-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-02-07T10:50:47.250Z",
+    "updatedAt": "2025-11-13T10:50:47.250Z",
+    "storeId": "store-009"
+  },
+  {
+    "id": "P06757",
+    "type": "sale",
+    "category": {
+      "main": "commercial",
+      "sub": "mall"
+    },
+    "title": "Satılık AVM - New Peru",
+    "slug": "satilik-avm-new-peru-P06757",
+    "description": "New Peru, Peru bölgesinde avm. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 440567803,
+    "location": {
+      "country": "PE",
+      "city": "New Peru",
+      "district": "New Peru Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 347",
+      "coordinates": {
+        "lat": -9.804948005604077,
+        "lng": -76.27734012935048
+      }
+    },
+    "specs": {
+      "netSize": 42909,
+      "grossSize": 51491,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 7,
+      "floor": 6,
+      "totalFloors": 14,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500905434347?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500992456208?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500054250893?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500427848480?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500489829254?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500796397729?w=800&q=80&category=interior"
+    ],
+    "agent": {
+      "id": "A33",
+      "name": "Agent 59",
+      "phone": "+31 481 462 1469",
+      "email": "agent75@iwrealty.com",
+      "photo": "/images/icons/png/ankara-modern-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": true,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-05-23T10:50:47.250Z",
+    "updatedAt": "2025-11-13T10:50:47.250Z",
+    "storeId": "store-003"
+  },
+  {
+    "id": "P06758",
+    "type": "rent",
+    "category": {
+      "main": "commercial",
+      "sub": "mall"
+    },
+    "title": "Kiralık AVM - Peru City",
+    "slug": "kiralik-avm-peru-city-P06758",
+    "description": "Peru City, Peru bölgesinde avm. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 146026471,
+    "location": {
+      "country": "PE",
+      "city": "Peru City",
+      "district": "Peru City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 472",
+      "coordinates": {
+        "lat": -9.882648399281909,
+        "lng": -75.91661331784499
+      }
+    },
+    "specs": {
+      "netSize": 15405,
+      "grossSize": 18486,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 14,
+      "floor": 1,
+      "totalFloors": 14,
+      "heating": "Kombi",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500029806688?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500931104368?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500622436168?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500109290578?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500824809341?w=800&q=80&category=architecture"
+    ],
+    "agent": {
+      "id": "A31",
+      "name": "Agent 42",
+      "phone": "+37 330 727 4369",
+      "email": "agent76@iwrealty.com",
+      "photo": "/images/icons/png/ny-skyline-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": true,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-03-13T10:50:47.250Z",
+    "updatedAt": "2025-11-13T10:50:47.250Z",
+    "storeId": "store-008"
+  },
+  {
+    "id": "P06759",
+    "type": "sale",
+    "category": {
+      "main": "commercial",
+      "sub": "hotel"
+    },
+    "title": "Satılık Otel - Peru City",
+    "slug": "satilik-otel-peru-city-P06759",
+    "description": "Peru City, Peru bölgesinde otel. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 132507366,
+    "location": {
+      "country": "PE",
+      "city": "Peru City",
+      "district": "Peru City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 823",
+      "coordinates": {
+        "lat": -9.971779516657875,
+        "lng": -75.96302345583904
+      }
+    },
+    "specs": {
+      "netSize": 22169,
+      "grossSize": 26603,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 17,
+      "floor": 5,
+      "totalFloors": 9,
+      "heating": "Merkezi",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500652937920?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500068429366?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500208579835?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500259168369?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500755881127?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500539594456?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500745089875?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500642038976?w=800&q=80&category=interior"
+    ],
+    "agent": {
+      "id": "A82",
+      "name": "Agent 54",
+      "phone": "+68 752 547 5822",
+      "email": "agent80@iwrealty.com",
+      "photo": "/images/icons/png/sg-harbour-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-04-12T10:50:47.250Z",
+    "updatedAt": "2025-11-13T10:50:47.250Z",
+    "storeId": "store-011"
+  },
+  {
+    "id": "P06760",
+    "type": "rent",
+    "category": {
+      "main": "commercial",
+      "sub": "hotel"
+    },
+    "title": "Kiralık Otel - Lima",
+    "slug": "kiralik-otel-lima-P06760",
+    "description": "Lima, Peru bölgesinde otel. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 91395979,
+    "location": {
+      "country": "PE",
+      "city": "Lima",
+      "district": "Lima Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 678",
+      "coordinates": {
+        "lat": -9.568716374381282,
+        "lng": -75.7819127328908
+      }
+    },
+    "specs": {
+      "netSize": 24757,
+      "grossSize": 29708,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 16,
+      "floor": 15,
+      "totalFloors": 8,
+      "heating": "Klima",
+      "furnishing": "Unfurnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500689896113?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500731481926?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500683137201?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500886014601?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500392315141?w=800&q=80&category=building"
+    ],
+    "agent": {
+      "id": "A31",
+      "name": "Agent 74",
+      "phone": "+49 753 430 1669",
+      "email": "agent89@iwrealty.com",
+      "photo": "/images/icons/png/paris-heritage-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2024-12-14T10:50:47.250Z",
+    "updatedAt": "2025-11-13T10:50:47.250Z",
+    "storeId": "store-010"
+  },
+  {
+    "id": "P06761",
+    "type": "sale",
+    "category": {
+      "main": "commercial",
+      "sub": "restaurant"
+    },
+    "title": "Satılık Restoran - Lima",
+    "slug": "satilik-restoran-lima-P06761",
+    "description": "Lima, Peru bölgesinde restoran. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 3653340,
+    "location": {
+      "country": "PE",
+      "city": "Lima",
+      "district": "Lima Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 205",
+      "coordinates": {
+        "lat": -9.792141101375334,
+        "lng": -76.46004646242301
+      }
+    },
+    "specs": {
+      "netSize": 401,
+      "grossSize": 481,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 3,
+      "floor": 4,
+      "totalFloors": 18,
+      "heating": "Merkezi",
+      "furnishing": "Furnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500303290843?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500563414421?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500197306249?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500180607513?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500951918061?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500441759086?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500630460702?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500444575140?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500383015466?w=800&q=80&category=interior"
+    ],
+    "agent": {
+      "id": "A44",
+      "name": "Agent 31",
+      "phone": "+12 271 866 3072",
+      "email": "agent82@iwrealty.com",
+      "photo": "/images/icons/png/ny-skyline-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": false,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": true,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-07-05T10:50:47.250Z",
+    "updatedAt": "2025-11-13T10:50:47.250Z",
+    "storeId": "store-008"
+  },
+  {
+    "id": "P06762",
+    "type": "rent",
+    "category": {
+      "main": "commercial",
+      "sub": "restaurant"
+    },
+    "title": "Kiralık Restoran - Peru City",
+    "slug": "kiralik-restoran-peru-city-P06762",
+    "description": "Peru City, Peru bölgesinde restoran. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 1613041,
+    "location": {
+      "country": "PE",
+      "city": "Peru City",
+      "district": "Peru City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 637",
+      "coordinates": {
+        "lat": -10.140052640495636,
+        "lng": -75.85842633532015
+      }
+    },
+    "specs": {
+      "netSize": 160,
+      "grossSize": 192,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 19,
+      "floor": 12,
+      "totalFloors": 7,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Unfurnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500475237243?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500612221366?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500704185426?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500333265675?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500235802123?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500678758281?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500170862893?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500043220831?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500645840855?w=800&q=80&category=interior"
+    ],
+    "agent": {
+      "id": "A74",
+      "name": "Agent 62",
+      "phone": "+64 718 447 4641",
+      "email": "agent79@iwrealty.com",
+      "photo": "/images/icons/png/luxury-homes-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": false,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-10-27T10:50:47.250Z",
+    "updatedAt": "2025-11-13T10:50:47.250Z",
+    "storeId": "store-002"
+  },
+  {
+    "id": "P06763",
+    "type": "sale",
+    "category": {
+      "main": "commercial",
+      "sub": "warehouse"
+    },
+    "title": "Satılık Depo - Peru Central",
+    "slug": "satilik-depo-peru-central-P06763",
+    "description": "Peru Central, Peru bölgesinde depo. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 18770379,
+    "location": {
+      "country": "PE",
+      "city": "Peru Central",
+      "district": "Peru Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 788",
+      "coordinates": {
+        "lat": -9.736558653006629,
+        "lng": -75.71308631632226
+      }
+    },
+    "specs": {
+      "netSize": 4288,
+      "grossSize": 5146,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 6,
+      "floor": 5,
+      "totalFloors": 20,
+      "heating": "Kombi",
+      "furnishing": "Furnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500275520652?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500796870793?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500053986153?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500473236592?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500104110628?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500176892543?w=800&q=80&category=building"
+    ],
+    "agent": {
+      "id": "A44",
+      "name": "Agent 70",
+      "phone": "+14 890 325 7742",
+      "email": "agent68@iwrealty.com",
+      "photo": "/images/icons/png/berlin-urban-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": true,
+      "hasSecurity": true
+    },
+    "createdAt": "2024-11-19T10:50:47.250Z",
+    "updatedAt": "2025-11-13T10:50:47.250Z",
+    "storeId": "store-009"
+  },
+  {
+    "id": "P06764",
+    "type": "rent",
+    "category": {
+      "main": "commercial",
+      "sub": "warehouse"
+    },
+    "title": "Kiralık Depo - Peru Central",
+    "slug": "kiralik-depo-peru-central-P06764",
+    "description": "Peru Central, Peru bölgesinde depo. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 7337560,
+    "location": {
+      "country": "PE",
+      "city": "Peru Central",
+      "district": "Peru Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 477",
+      "coordinates": {
+        "lat": -10.456603404496478,
+        "lng": -76.45537648840946
+      }
+    },
+    "specs": {
+      "netSize": 1873,
+      "grossSize": 2248,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 18,
+      "floor": 11,
+      "totalFloors": 12,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Furnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500604744778?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500165932013?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500890296576?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500792838330?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500508014376?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500000012352?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500297756660?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500982879735?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500749385428?w=800&q=80&category=architecture"
+    ],
+    "agent": {
+      "id": "A92",
+      "name": "Agent 37",
+      "phone": "+12 262 817 6040",
+      "email": "agent45@iwrealty.com",
+      "photo": "/images/icons/png/paris-heritage-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2024-11-17T10:50:47.250Z",
+    "updatedAt": "2025-11-13T10:50:47.250Z",
+    "storeId": "store-010"
+  }
+]

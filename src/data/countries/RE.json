@@ -1,0 +1,2365 @@
+[
+  {
+    "id": "P07183",
+    "type": "sale",
+    "category": {
+      "main": "government"
+    },
+    "title": "Satılık Okul - Saint-Denis",
+    "slug": "satilik-okul-saint-denis-P07183",
+    "description": "Saint-Denis, Réunion bölgesinde okul. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 34912273,
+    "location": {
+      "country": "RE",
+      "city": "Saint-Denis",
+      "district": "Saint-Denis Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 35",
+      "coordinates": {
+        "lat": -20.69058922676457,
+        "lng": 55.99416204895416
+      }
+    },
+    "specs": {
+      "netSize": 3815,
+      "grossSize": 4578,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 17,
+      "floor": 12,
+      "totalFloors": 17,
+      "heating": "Klima",
+      "furnishing": "Furnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500521652045?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500170231042?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500810203087?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500483865481?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500965760160?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500141529217?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500569181261?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500161220075?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500575773557?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500885335246?w=800&q=80&category=architecture"
+    ],
+    "agent": {
+      "id": "A56",
+      "name": "Agent 33",
+      "phone": "+67 572 848 6876",
+      "email": "agent4@iwrealty.com",
+      "photo": "/images/icons/png/sg-harbour-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-03-10T10:50:47.254Z",
+    "updatedAt": "2025-11-13T10:50:47.254Z",
+    "storeId": "store-011"
+  },
+  {
+    "id": "P07184",
+    "type": "rent",
+    "category": {
+      "main": "government"
+    },
+    "title": "Kiralık Hastane - Réunion City",
+    "slug": "kiralik-hastane-réunion-city-P07184",
+    "description": "Réunion City, Réunion bölgesinde hastane. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 15136180,
+    "location": {
+      "country": "RE",
+      "city": "Réunion City",
+      "district": "Réunion City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 468",
+      "coordinates": {
+        "lat": -21.14474194934446,
+        "lng": 55.39772556988001
+      }
+    },
+    "specs": {
+      "netSize": 521,
+      "grossSize": 625,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 3,
+      "floor": 1,
+      "totalFloors": 17,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Furnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500424427996?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500468029653?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500489623601?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500853432268?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500520641711?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500263974018?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500304259739?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500103061505?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500675477898?w=800&q=80&category=building"
+    ],
+    "agent": {
+      "id": "A41",
+      "name": "Agent 65",
+      "phone": "+74 324 656 3863",
+      "email": "agent98@iwrealty.com",
+      "photo": "/images/icons/png/sydney-coastal-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": true,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-01-31T10:50:47.254Z",
+    "updatedAt": "2025-11-13T10:50:47.254Z",
+    "storeId": "store-012"
+  },
+  {
+    "id": "P07185",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Daire - Réunion Central",
+    "slug": "satilik-daire-réunion-central-P07185",
+    "description": "Réunion Central, Réunion bölgesinde daire. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 3138993,
+    "location": {
+      "country": "RE",
+      "city": "Réunion Central",
+      "district": "Réunion Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 55",
+      "coordinates": {
+        "lat": -20.67131280456303,
+        "lng": 55.751887777051586
+      }
+    },
+    "specs": {
+      "netSize": 462,
+      "grossSize": 554,
+      "rooms": "5+1",
+      "bathrooms": 1,
+      "age": 2,
+      "floor": 3,
+      "totalFloors": 12,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Furnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500149466136?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500086754011?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500715611791?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500696785879?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500113678219?w=800&q=80&category=building"
+    ],
+    "agent": {
+      "id": "A65",
+      "name": "Agent 11",
+      "phone": "+81 994 731 3582",
+      "email": "agent24@iwrealty.com",
+      "photo": "/images/icons/png/sg-harbour-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2024-11-15T10:50:47.254Z",
+    "updatedAt": "2025-11-13T10:50:47.254Z",
+    "storeId": "store-011"
+  },
+  {
+    "id": "P07186",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Müstakil Ev - New Réunion",
+    "slug": "kiralik-müstakil-ev-new-réunion-P07186",
+    "description": "New Réunion, Réunion bölgesinde müstakil ev. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 13185075,
+    "location": {
+      "country": "RE",
+      "city": "New Réunion",
+      "district": "New Réunion Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 439",
+      "coordinates": {
+        "lat": -20.694410228820615,
+        "lng": 55.04071428362767
+      }
+    },
+    "specs": {
+      "netSize": 429,
+      "grossSize": 515,
+      "rooms": "2+2",
+      "bathrooms": 1,
+      "age": 16,
+      "floor": 4,
+      "totalFloors": 15,
+      "heating": "Klima",
+      "furnishing": "Unfurnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500166831236?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500118118729?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500348904194?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500200017574?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500013671070?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500912064305?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500040937856?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500175025227?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500407582428?w=800&q=80&category=real-estate"
+    ],
+    "agent": {
+      "id": "A23",
+      "name": "Agent 28",
+      "phone": "+60 123 441 5291",
+      "email": "agent6@iwrealty.com",
+      "photo": "/images/icons/png/sg-harbour-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-10-02T10:50:47.254Z",
+    "updatedAt": "2025-11-13T10:50:47.254Z",
+    "storeId": "store-011"
+  },
+  {
+    "id": "P07187",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Villa - Réunion City",
+    "slug": "satilik-villa-réunion-city-P07187",
+    "description": "Réunion City, Réunion bölgesinde villa. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 4894138,
+    "location": {
+      "country": "RE",
+      "city": "Réunion City",
+      "district": "Réunion City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 444",
+      "coordinates": {
+        "lat": -20.671610253726246,
+        "lng": 55.57116697117005
+      }
+    },
+    "specs": {
+      "netSize": 386,
+      "grossSize": 463,
+      "rooms": "2+0",
+      "bathrooms": 4,
+      "age": 1,
+      "floor": 11,
+      "totalFloors": 18,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Furnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500581496008?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500528523132?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500941938661?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500630640924?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500944144173?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500623320024?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500444319681?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500372974916?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500752475822?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500667763663?w=800&q=80&category=architecture"
+    ],
+    "agent": {
+      "id": "A82",
+      "name": "Agent 50",
+      "phone": "+42 592 212 8598",
+      "email": "agent65@iwrealty.com",
+      "photo": "/images/icons/png/sydney-coastal-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": false,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2024-11-26T10:50:47.254Z",
+    "updatedAt": "2025-11-13T10:50:47.254Z",
+    "storeId": "store-012"
+  },
+  {
+    "id": "P07188",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Villa - Saint-Denis",
+    "slug": "kiralik-villa-saint-denis-P07188",
+    "description": "Saint-Denis, Réunion bölgesinde villa. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 1275011,
+    "location": {
+      "country": "RE",
+      "city": "Saint-Denis",
+      "district": "Saint-Denis Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 926",
+      "coordinates": {
+        "lat": -21.152495972063377,
+        "lng": 55.70696437247472
+      }
+    },
+    "specs": {
+      "netSize": 169,
+      "grossSize": 203,
+      "rooms": "5+2",
+      "bathrooms": 1,
+      "age": 2,
+      "floor": 12,
+      "totalFloors": 15,
+      "heating": "Kombi",
+      "furnishing": "Furnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500192959685?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500543413371?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500762134765?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500753151032?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500899506952?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500223186577?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500769672689?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500983019918?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500592055577?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500992718387?w=800&q=80&category=architecture"
+    ],
+    "agent": {
+      "id": "A26",
+      "name": "Agent 94",
+      "phone": "+94 801 221 1798",
+      "email": "agent25@iwrealty.com",
+      "photo": "/images/icons/png/dubai-property-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": false,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2024-12-18T10:50:47.254Z",
+    "updatedAt": "2025-11-13T10:50:47.254Z",
+    "storeId": "store-004"
+  },
+  {
+    "id": "P07189",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Villa - New Réunion",
+    "slug": "satilik-villa-new-réunion-P07189",
+    "description": "New Réunion, Réunion bölgesinde villa. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 10596004,
+    "location": {
+      "country": "RE",
+      "city": "New Réunion",
+      "district": "New Réunion Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 906",
+      "coordinates": {
+        "lat": -21.34532708386392,
+        "lng": 55.8472159820239
+      }
+    },
+    "specs": {
+      "netSize": 222,
+      "grossSize": 266,
+      "rooms": "2+1",
+      "bathrooms": 3,
+      "age": 0,
+      "floor": 2,
+      "totalFloors": 13,
+      "heating": "Kombi",
+      "furnishing": "Furnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500539680966?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500166876603?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500524719293?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500288361371?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500607928374?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500762054341?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500288937390?w=800&q=80&category=architecture"
+    ],
+    "agent": {
+      "id": "A59",
+      "name": "Agent 55",
+      "phone": "+21 317 430 4732",
+      "email": "agent73@iwrealty.com",
+      "photo": "/images/icons/png/london-prime-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": true,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-10-18T10:50:47.254Z",
+    "updatedAt": "2025-11-13T10:50:47.254Z",
+    "storeId": "store-007"
+  },
+  {
+    "id": "P07190",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Residence - Réunion Central",
+    "slug": "kiralik-residence-réunion-central-P07190",
+    "description": "Réunion Central, Réunion bölgesinde residence. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 14795568,
+    "location": {
+      "country": "RE",
+      "city": "Réunion Central",
+      "district": "Réunion Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 663",
+      "coordinates": {
+        "lat": -21.307222111301535,
+        "lng": 55.10282679686264
+      }
+    },
+    "specs": {
+      "netSize": 496,
+      "grossSize": 595,
+      "rooms": "1+2",
+      "bathrooms": 4,
+      "age": 1,
+      "floor": 7,
+      "totalFloors": 15,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Unfurnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500676433067?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500339107298?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500171289881?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500452279481?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500411031329?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500830501043?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500177898986?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500612825602?w=800&q=80&category=house"
+    ],
+    "agent": {
+      "id": "A72",
+      "name": "Agent 1",
+      "phone": "+96 169 273 7315",
+      "email": "agent93@iwrealty.com",
+      "photo": "/images/icons/png/ny-skyline-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2024-12-03T10:50:47.254Z",
+    "updatedAt": "2025-11-13T10:50:47.254Z",
+    "storeId": "store-008"
+  },
+  {
+    "id": "P07191",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Residence - New Réunion",
+    "slug": "satilik-residence-new-réunion-P07191",
+    "description": "New Réunion, Réunion bölgesinde residence. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 2198757,
+    "location": {
+      "country": "RE",
+      "city": "New Réunion",
+      "district": "New Réunion Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 334",
+      "coordinates": {
+        "lat": -20.674140370746194,
+        "lng": 55.35572107252267
+      }
+    },
+    "specs": {
+      "netSize": 81,
+      "grossSize": 97,
+      "rooms": "4+2",
+      "bathrooms": 4,
+      "age": 7,
+      "floor": 14,
+      "totalFloors": 11,
+      "heating": "Merkezi",
+      "furnishing": "Unfurnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500520509003?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500791684595?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500018916006?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500326120563?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500788198529?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500898333559?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500337831615?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500361703586?w=800&q=80&category=building"
+    ],
+    "agent": {
+      "id": "A26",
+      "name": "Agent 25",
+      "phone": "+63 349 947 6091",
+      "email": "agent4@iwrealty.com",
+      "photo": "/images/icons/png/london-prime-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-09-07T10:50:47.254Z",
+    "updatedAt": "2025-11-13T10:50:47.254Z",
+    "storeId": "store-007"
+  },
+  {
+    "id": "P07192",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Villa - Réunion Central",
+    "slug": "kiralik-villa-réunion-central-P07192",
+    "description": "Réunion Central, Réunion bölgesinde villa. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 1010320,
+    "location": {
+      "country": "RE",
+      "city": "Réunion Central",
+      "district": "Réunion Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 566",
+      "coordinates": {
+        "lat": -21.495387041285703,
+        "lng": 55.24887224574761
+      }
+    },
+    "specs": {
+      "netSize": 366,
+      "grossSize": 439,
+      "rooms": "3+0",
+      "bathrooms": 4,
+      "age": 7,
+      "floor": 1,
+      "totalFloors": 19,
+      "heating": "Klima",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500944232586?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500370618238?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500363791192?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500167135575?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500757296808?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500627649827?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500903490719?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500679204730?w=800&q=80&category=interior"
+    ],
+    "agent": {
+      "id": "A57",
+      "name": "Agent 51",
+      "phone": "+19 620 202 7091",
+      "email": "agent11@iwrealty.com",
+      "photo": "/images/icons/png/ny-skyline-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": false,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-04-03T10:50:47.254Z",
+    "updatedAt": "2025-11-13T10:50:47.254Z",
+    "storeId": "store-008"
+  },
+  {
+    "id": "P07193",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Müstakil Ev - Réunion City",
+    "slug": "satilik-müstakil-ev-réunion-city-P07193",
+    "description": "Réunion City, Réunion bölgesinde müstakil ev. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 13303940,
+    "location": {
+      "country": "RE",
+      "city": "Réunion City",
+      "district": "Réunion City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 355",
+      "coordinates": {
+        "lat": -21.504749336326082,
+        "lng": 55.24974289395471
+      }
+    },
+    "specs": {
+      "netSize": 142,
+      "grossSize": 170,
+      "rooms": "1+2",
+      "bathrooms": 2,
+      "age": 3,
+      "floor": 15,
+      "totalFloors": 14,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500788858489?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500753400417?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500896809068?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500876766410?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500790816566?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500211321114?w=800&q=80&category=architecture"
+    ],
+    "agent": {
+      "id": "A61",
+      "name": "Agent 46",
+      "phone": "+36 959 960 5206",
+      "email": "agent98@iwrealty.com",
+      "photo": "/images/icons/png/sg-harbour-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": false,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": true,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-10-29T10:50:47.254Z",
+    "updatedAt": "2025-11-13T10:50:47.254Z",
+    "storeId": "store-011"
+  },
+  {
+    "id": "P07194",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Müstakil Ev - New Réunion",
+    "slug": "kiralik-müstakil-ev-new-réunion-P07194",
+    "description": "New Réunion, Réunion bölgesinde müstakil ev. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 7691555,
+    "location": {
+      "country": "RE",
+      "city": "New Réunion",
+      "district": "New Réunion Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 70",
+      "coordinates": {
+        "lat": -21.222506840147876,
+        "lng": 55.17090509802381
+      }
+    },
+    "specs": {
+      "netSize": 333,
+      "grossSize": 400,
+      "rooms": "4+0",
+      "bathrooms": 2,
+      "age": 10,
+      "floor": 6,
+      "totalFloors": 9,
+      "heating": "Merkezi",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500219959987?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500224276821?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500384888908?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500191492587?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500307525658?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500522727041?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500742397660?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500661172352?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500810472119?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500160947433?w=800&q=80&category=building"
+    ],
+    "agent": {
+      "id": "A44",
+      "name": "Agent 14",
+      "phone": "+19 788 923 4855",
+      "email": "agent73@iwrealty.com",
+      "photo": "/images/icons/png/dubai-property-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-02-18T10:50:47.254Z",
+    "updatedAt": "2025-11-13T10:50:47.254Z",
+    "storeId": "store-004"
+  },
+  {
+    "id": "P07195",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Villa - Réunion City",
+    "slug": "satilik-villa-réunion-city-P07195",
+    "description": "Réunion City, Réunion bölgesinde villa. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 12968901,
+    "location": {
+      "country": "RE",
+      "city": "Réunion City",
+      "district": "Réunion City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 220",
+      "coordinates": {
+        "lat": -21.097456418719766,
+        "lng": 55.600931139862986
+      }
+    },
+    "specs": {
+      "netSize": 423,
+      "grossSize": 508,
+      "rooms": "4+0",
+      "bathrooms": 1,
+      "age": 13,
+      "floor": 10,
+      "totalFloors": 16,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Unfurnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500432905239?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500319592346?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500204065396?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500345247941?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500222097471?w=800&q=80&category=real-estate"
+    ],
+    "agent": {
+      "id": "A21",
+      "name": "Agent 40",
+      "phone": "+73 229 895 6398",
+      "email": "agent29@iwrealty.com",
+      "photo": "/images/icons/png/antalya-investment-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": false,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-04-06T10:50:47.255Z",
+    "updatedAt": "2025-11-13T10:50:47.255Z",
+    "storeId": "store-006"
+  },
+  {
+    "id": "P07196",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Müstakil Ev - Réunion City",
+    "slug": "kiralik-müstakil-ev-réunion-city-P07196",
+    "description": "Réunion City, Réunion bölgesinde müstakil ev. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 1183151,
+    "location": {
+      "country": "RE",
+      "city": "Réunion City",
+      "district": "Réunion City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 259",
+      "coordinates": {
+        "lat": -20.99868092370294,
+        "lng": 55.17542590053857
+      }
+    },
+    "specs": {
+      "netSize": 401,
+      "grossSize": 481,
+      "rooms": "1+2",
+      "bathrooms": 4,
+      "age": 7,
+      "floor": 14,
+      "totalFloors": 6,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Unfurnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500432849195?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500326055136?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500009366214?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500156954226?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500138145614?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500832786423?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500432022905?w=800&q=80&category=real-estate"
+    ],
+    "agent": {
+      "id": "A33",
+      "name": "Agent 73",
+      "phone": "+58 809 742 1783",
+      "email": "agent17@iwrealty.com",
+      "photo": "/images/icons/png/sydney-coastal-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": true,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-01-28T10:50:47.255Z",
+    "updatedAt": "2025-11-13T10:50:47.255Z",
+    "storeId": "store-012"
+  },
+  {
+    "id": "P07197",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Residence - New Réunion",
+    "slug": "satilik-residence-new-réunion-P07197",
+    "description": "New Réunion, Réunion bölgesinde residence. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 13924837,
+    "location": {
+      "country": "RE",
+      "city": "New Réunion",
+      "district": "New Réunion Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 51",
+      "coordinates": {
+        "lat": -21.343858555949062,
+        "lng": 55.400501859637224
+      }
+    },
+    "specs": {
+      "netSize": 162,
+      "grossSize": 194,
+      "rooms": "3+2",
+      "bathrooms": 4,
+      "age": 7,
+      "floor": 11,
+      "totalFloors": 12,
+      "heating": "Klima",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500077458961?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500528225977?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500110204780?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500600242401?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500459383613?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500229453638?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500518126622?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500228251810?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500348807426?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500581343528?w=800&q=80&category=house"
+    ],
+    "agent": {
+      "id": "A42",
+      "name": "Agent 71",
+      "phone": "+41 793 875 6101",
+      "email": "agent67@iwrealty.com",
+      "photo": "/images/icons/png/sydney-coastal-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-07-05T10:50:47.255Z",
+    "updatedAt": "2025-11-13T10:50:47.255Z",
+    "storeId": "store-012"
+  },
+  {
+    "id": "P07198",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Villa - Réunion Central",
+    "slug": "kiralik-villa-réunion-central-P07198",
+    "description": "Réunion Central, Réunion bölgesinde villa. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 14611660,
+    "location": {
+      "country": "RE",
+      "city": "Réunion Central",
+      "district": "Réunion Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 969",
+      "coordinates": {
+        "lat": -20.75959250573779,
+        "lng": 55.97248118192577
+      }
+    },
+    "specs": {
+      "netSize": 275,
+      "grossSize": 330,
+      "rooms": "1+1",
+      "bathrooms": 2,
+      "age": 19,
+      "floor": 15,
+      "totalFloors": 14,
+      "heating": "Klima",
+      "furnishing": "Unfurnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500404677408?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500162359033?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500114407196?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500754719341?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500283994598?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500420509868?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500968650905?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500605466598?w=800&q=80&category=interior"
+    ],
+    "agent": {
+      "id": "A9",
+      "name": "Agent 95",
+      "phone": "+79 962 283 8452",
+      "email": "agent34@iwrealty.com",
+      "photo": "/images/icons/png/paris-heritage-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": false,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": true,
+      "hasSecurity": true
+    },
+    "createdAt": "2024-12-27T10:50:47.255Z",
+    "updatedAt": "2025-11-13T10:50:47.255Z",
+    "storeId": "store-010"
+  },
+  {
+    "id": "P07199",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Daire - Saint-Denis",
+    "slug": "satilik-daire-saint-denis-P07199",
+    "description": "Saint-Denis, Réunion bölgesinde daire. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 1601275,
+    "location": {
+      "country": "RE",
+      "city": "Saint-Denis",
+      "district": "Saint-Denis Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 761",
+      "coordinates": {
+        "lat": -21.140585195558742,
+        "lng": 55.08320773982649
+      }
+    },
+    "specs": {
+      "netSize": 309,
+      "grossSize": 371,
+      "rooms": "5+2",
+      "bathrooms": 3,
+      "age": 7,
+      "floor": 6,
+      "totalFloors": 19,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Unfurnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500528495582?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500019251476?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500154180153?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500675109093?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500439053230?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500510151561?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500741437802?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500511733875?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500551669701?w=800&q=80&category=architecture"
+    ],
+    "agent": {
+      "id": "A41",
+      "name": "Agent 63",
+      "phone": "+55 407 653 4624",
+      "email": "agent92@iwrealty.com",
+      "photo": "/images/icons/png/sg-harbour-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2024-12-10T10:50:47.255Z",
+    "updatedAt": "2025-11-13T10:50:47.255Z",
+    "storeId": "store-011"
+  },
+  {
+    "id": "P07200",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Residence - Saint-Denis",
+    "slug": "kiralik-residence-saint-denis-P07200",
+    "description": "Saint-Denis, Réunion bölgesinde residence. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 13384581,
+    "location": {
+      "country": "RE",
+      "city": "Saint-Denis",
+      "district": "Saint-Denis Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 483",
+      "coordinates": {
+        "lat": -20.932981809307208,
+        "lng": 55.71161319833703
+      }
+    },
+    "specs": {
+      "netSize": 427,
+      "grossSize": 512,
+      "rooms": "3+0",
+      "bathrooms": 3,
+      "age": 19,
+      "floor": 6,
+      "totalFloors": 17,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500742100697?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500478292422?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500499139345?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500412532255?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500556459962?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500900728578?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500480413702?w=800&q=80&category=real-estate"
+    ],
+    "agent": {
+      "id": "A49",
+      "name": "Agent 71",
+      "phone": "+18 402 364 2222",
+      "email": "agent3@iwrealty.com",
+      "photo": "/images/icons/png/paris-heritage-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": false,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": true,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-09-22T10:50:47.255Z",
+    "updatedAt": "2025-11-13T10:50:47.255Z",
+    "storeId": "store-010"
+  },
+  {
+    "id": "P07201",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Villa - Saint-Denis",
+    "slug": "satilik-villa-saint-denis-P07201",
+    "description": "Saint-Denis, Réunion bölgesinde villa. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 7547461,
+    "location": {
+      "country": "RE",
+      "city": "Saint-Denis",
+      "district": "Saint-Denis Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 175",
+      "coordinates": {
+        "lat": -21.04377403827035,
+        "lng": 55.951038657143876
+      }
+    },
+    "specs": {
+      "netSize": 113,
+      "grossSize": 136,
+      "rooms": "1+1",
+      "bathrooms": 1,
+      "age": 20,
+      "floor": 7,
+      "totalFloors": 18,
+      "heating": "Kombi",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500926398987?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500722744456?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500958360179?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500965399979?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500430590580?w=800&q=80&category=architecture"
+    ],
+    "agent": {
+      "id": "A76",
+      "name": "Agent 75",
+      "phone": "+40 995 904 9093",
+      "email": "agent25@iwrealty.com",
+      "photo": "/images/icons/png/antalya-investment-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-04-23T10:50:47.255Z",
+    "updatedAt": "2025-11-13T10:50:47.255Z",
+    "storeId": "store-006"
+  },
+  {
+    "id": "P07202",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Daire - Réunion City",
+    "slug": "kiralik-daire-réunion-city-P07202",
+    "description": "Réunion City, Réunion bölgesinde daire. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 7263916,
+    "location": {
+      "country": "RE",
+      "city": "Réunion City",
+      "district": "Réunion City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 258",
+      "coordinates": {
+        "lat": -21.41164724941049,
+        "lng": 55.63308741111893
+      }
+    },
+    "specs": {
+      "netSize": 290,
+      "grossSize": 348,
+      "rooms": "1+2",
+      "bathrooms": 3,
+      "age": 4,
+      "floor": 15,
+      "totalFloors": 13,
+      "heating": "Merkezi",
+      "furnishing": "Furnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500887769435?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500206986966?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500248458651?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500475042138?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500472947352?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500937286160?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500356195565?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500457350550?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500753882823?w=800&q=80&category=interior"
+    ],
+    "agent": {
+      "id": "A94",
+      "name": "Agent 76",
+      "phone": "+54 649 483 8187",
+      "email": "agent80@iwrealty.com",
+      "photo": "/images/icons/png/ankara-modern-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-03-13T10:50:47.255Z",
+    "updatedAt": "2025-11-13T10:50:47.255Z",
+    "storeId": "store-003"
+  },
+  {
+    "id": "P07203",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Daire - Réunion City",
+    "slug": "satilik-daire-réunion-city-P07203",
+    "description": "Réunion City, Réunion bölgesinde daire. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 11550577,
+    "location": {
+      "country": "RE",
+      "city": "Réunion City",
+      "district": "Réunion City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 832",
+      "coordinates": {
+        "lat": -21.246727279305635,
+        "lng": 55.81881497422761
+      }
+    },
+    "specs": {
+      "netSize": 239,
+      "grossSize": 287,
+      "rooms": "1+1",
+      "bathrooms": 1,
+      "age": 1,
+      "floor": 15,
+      "totalFloors": 9,
+      "heating": "Kombi",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500328253163?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500018779730?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500828915132?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500571098173?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500612684698?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500650443444?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500970650137?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500671765827?w=800&q=80&category=building"
+    ],
+    "agent": {
+      "id": "A59",
+      "name": "Agent 97",
+      "phone": "+59 816 570 2716",
+      "email": "agent99@iwrealty.com",
+      "photo": "/images/icons/png/sg-harbour-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": true,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-02-18T10:50:47.255Z",
+    "updatedAt": "2025-11-13T10:50:47.255Z",
+    "storeId": "store-011"
+  },
+  {
+    "id": "P07204",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Müstakil Ev - Réunion Central",
+    "slug": "kiralik-müstakil-ev-réunion-central-P07204",
+    "description": "Réunion Central, Réunion bölgesinde müstakil ev. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 13221742,
+    "location": {
+      "country": "RE",
+      "city": "Réunion Central",
+      "district": "Réunion Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 224",
+      "coordinates": {
+        "lat": -21.362810547901496,
+        "lng": 55.91029557111643
+      }
+    },
+    "specs": {
+      "netSize": 115,
+      "grossSize": 138,
+      "rooms": "4+0",
+      "bathrooms": 4,
+      "age": 12,
+      "floor": 7,
+      "totalFloors": 15,
+      "heating": "Kombi",
+      "furnishing": "Unfurnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500420052622?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500575936898?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500202624617?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500191139219?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500977241855?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500474013293?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500663880459?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500647994269?w=800&q=80&category=architecture"
+    ],
+    "agent": {
+      "id": "A62",
+      "name": "Agent 87",
+      "phone": "+89 239 974 6948",
+      "email": "agent99@iwrealty.com",
+      "photo": "/images/icons/png/paris-heritage-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": true,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-06-21T10:50:47.255Z",
+    "updatedAt": "2025-11-13T10:50:47.255Z",
+    "storeId": "store-010"
+  },
+  {
+    "id": "P07205",
+    "type": "sale",
+    "category": {
+      "main": "commercial",
+      "sub": "hospital"
+    },
+    "title": "Satılık Hastane - Saint-Denis",
+    "slug": "satilik-hastane-saint-denis-P07205",
+    "description": "Saint-Denis, Réunion bölgesinde hastane. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 23405898,
+    "location": {
+      "country": "RE",
+      "city": "Saint-Denis",
+      "district": "Saint-Denis Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 908",
+      "coordinates": {
+        "lat": -21.14814797179063,
+        "lng": 55.114707445360764
+      }
+    },
+    "specs": {
+      "netSize": 8052,
+      "grossSize": 9662,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 4,
+      "floor": 12,
+      "totalFloors": 15,
+      "heating": "Merkezi",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500951920144?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500331371640?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500737338751?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500924205210?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500974109201?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500519373591?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500431613750?w=800&q=80&category=house"
+    ],
+    "agent": {
+      "id": "A26",
+      "name": "Agent 1",
+      "phone": "+48 593 889 5950",
+      "email": "agent64@iwrealty.com",
+      "photo": "/images/icons/png/paris-heritage-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": false,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2024-12-31T10:50:47.255Z",
+    "updatedAt": "2025-11-13T10:50:47.255Z",
+    "storeId": "store-010"
+  },
+  {
+    "id": "P07206",
+    "type": "rent",
+    "category": {
+      "main": "commercial",
+      "sub": "hospital"
+    },
+    "title": "Kiralık Hastane - Réunion Central",
+    "slug": "kiralik-hastane-réunion-central-P07206",
+    "description": "Réunion Central, Réunion bölgesinde hastane. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 85062423,
+    "location": {
+      "country": "RE",
+      "city": "Réunion Central",
+      "district": "Réunion Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 347",
+      "coordinates": {
+        "lat": -21.543090534678292,
+        "lng": 55.841056180342264
+      }
+    },
+    "specs": {
+      "netSize": 8066,
+      "grossSize": 9679,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 7,
+      "floor": 12,
+      "totalFloors": 10,
+      "heating": "Merkezi",
+      "furnishing": "Furnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500086077216?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500730039493?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500654565024?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500351396440?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500242247541?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500826835017?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500888829399?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500933059271?w=800&q=80&category=building"
+    ],
+    "agent": {
+      "id": "A15",
+      "name": "Agent 57",
+      "phone": "+55 914 229 4989",
+      "email": "agent82@iwrealty.com",
+      "photo": "/images/icons/png/london-prime-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": true,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-03-09T10:50:47.255Z",
+    "updatedAt": "2025-11-13T10:50:47.255Z",
+    "storeId": "store-007"
+  },
+  {
+    "id": "P07207",
+    "type": "sale",
+    "category": {
+      "main": "commercial",
+      "sub": "clinic"
+    },
+    "title": "Satılık Klinik - Saint-Denis",
+    "slug": "satilik-klinik-saint-denis-P07207",
+    "description": "Saint-Denis, Réunion bölgesinde klinik. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 16548109,
+    "location": {
+      "country": "RE",
+      "city": "Saint-Denis",
+      "district": "Saint-Denis Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 828",
+      "coordinates": {
+        "lat": -21.63261995110555,
+        "lng": 55.05760892229316
+      }
+    },
+    "specs": {
+      "netSize": 1327,
+      "grossSize": 1592,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 2,
+      "floor": 4,
+      "totalFloors": 14,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Unfurnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500636694712?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500853341484?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500943597561?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500997871333?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500671333573?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500293267334?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500839542257?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500261543747?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500848853808?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500371988015?w=800&q=80&category=real-estate"
+    ],
+    "agent": {
+      "id": "A45",
+      "name": "Agent 41",
+      "phone": "+43 140 244 2796",
+      "email": "agent38@iwrealty.com",
+      "photo": "/images/icons/png/ny-skyline-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": true,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-08-04T10:50:47.255Z",
+    "updatedAt": "2025-11-13T10:50:47.255Z",
+    "storeId": "store-008"
+  },
+  {
+    "id": "P07208",
+    "type": "rent",
+    "category": {
+      "main": "commercial",
+      "sub": "clinic"
+    },
+    "title": "Kiralık Klinik - Saint-Denis",
+    "slug": "kiralik-klinik-saint-denis-P07208",
+    "description": "Saint-Denis, Réunion bölgesinde klinik. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 9985767,
+    "location": {
+      "country": "RE",
+      "city": "Saint-Denis",
+      "district": "Saint-Denis Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 943",
+      "coordinates": {
+        "lat": -21.38431205087374,
+        "lng": 55.515255091851394
+      }
+    },
+    "specs": {
+      "netSize": 619,
+      "grossSize": 743,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 14,
+      "floor": 5,
+      "totalFloors": 5,
+      "heating": "Kombi",
+      "furnishing": "Furnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500103773887?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500881620013?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500462182989?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500771083253?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500436845442?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500888080637?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500802049687?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500799261199?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500014992382?w=800&q=80&category=real-estate"
+    ],
+    "agent": {
+      "id": "A83",
+      "name": "Agent 51",
+      "phone": "+91 334 664 8712",
+      "email": "agent6@iwrealty.com",
+      "photo": "/images/icons/png/luxury-homes-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-03-25T10:50:47.255Z",
+    "updatedAt": "2025-11-13T10:50:47.255Z",
+    "storeId": "store-002"
+  },
+  {
+    "id": "P07209",
+    "type": "sale",
+    "category": {
+      "main": "commercial",
+      "sub": "shop"
+    },
+    "title": "Satılık Dükkan - Saint-Denis",
+    "slug": "satilik-dükkan-saint-denis-P07209",
+    "description": "Saint-Denis, Réunion bölgesinde dükkan. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 7554502,
+    "location": {
+      "country": "RE",
+      "city": "Saint-Denis",
+      "district": "Saint-Denis Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 912",
+      "coordinates": {
+        "lat": -21.17621292249327,
+        "lng": 55.20036933709264
+      }
+    },
+    "specs": {
+      "netSize": 319,
+      "grossSize": 383,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 4,
+      "floor": 12,
+      "totalFloors": 11,
+      "heating": "Merkezi",
+      "furnishing": "Unfurnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500204795938?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500186538563?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500036982305?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500140397539?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500033898683?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500258247570?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500827214407?w=800&q=80&category=interior"
+    ],
+    "agent": {
+      "id": "A29",
+      "name": "Agent 25",
+      "phone": "+81 502 130 2373",
+      "email": "agent1@iwrealty.com",
+      "photo": "/images/icons/png/ankara-modern-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-07-02T10:50:47.255Z",
+    "updatedAt": "2025-11-13T10:50:47.255Z",
+    "storeId": "store-003"
+  },
+  {
+    "id": "P07210",
+    "type": "rent",
+    "category": {
+      "main": "commercial",
+      "sub": "shop"
+    },
+    "title": "Kiralık Dükkan - Saint-Denis",
+    "slug": "kiralik-dükkan-saint-denis-P07210",
+    "description": "Saint-Denis, Réunion bölgesinde dükkan. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 5870045,
+    "location": {
+      "country": "RE",
+      "city": "Saint-Denis",
+      "district": "Saint-Denis Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 520",
+      "coordinates": {
+        "lat": -20.96827188830637,
+        "lng": 55.05015687489828
+      }
+    },
+    "specs": {
+      "netSize": 499,
+      "grossSize": 599,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 0,
+      "floor": 4,
+      "totalFloors": 15,
+      "heating": "Merkezi",
+      "furnishing": "Unfurnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500099721501?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500239821891?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500501149795?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500209068964?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500165376296?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500468313736?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500361868424?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500071985223?w=800&q=80&category=architecture"
+    ],
+    "agent": {
+      "id": "A88",
+      "name": "Agent 83",
+      "phone": "+84 984 625 1206",
+      "email": "agent94@iwrealty.com",
+      "photo": "/images/icons/png/london-prime-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": false,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-09-23T10:50:47.255Z",
+    "updatedAt": "2025-11-13T10:50:47.255Z",
+    "storeId": "store-007"
+  },
+  {
+    "id": "P07211",
+    "type": "sale",
+    "category": {
+      "main": "commercial",
+      "sub": "office"
+    },
+    "title": "Satılık Ofis - Saint-Denis",
+    "slug": "satilik-ofis-saint-denis-P07211",
+    "description": "Saint-Denis, Réunion bölgesinde ofis. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 8695668,
+    "location": {
+      "country": "RE",
+      "city": "Saint-Denis",
+      "district": "Saint-Denis Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 655",
+      "coordinates": {
+        "lat": -20.904122889578193,
+        "lng": 55.79140781653126
+      }
+    },
+    "specs": {
+      "netSize": 566,
+      "grossSize": 679,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 18,
+      "floor": 5,
+      "totalFloors": 6,
+      "heating": "Kombi",
+      "furnishing": "Furnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500375979473?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500106198923?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500785217094?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500531914506?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500745707977?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500977307992?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500625753230?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500005419801?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500274314771?w=800&q=80&category=interior"
+    ],
+    "agent": {
+      "id": "A98",
+      "name": "Agent 35",
+      "phone": "+18 211 978 9737",
+      "email": "agent57@iwrealty.com",
+      "photo": "/images/icons/png/sg-harbour-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-07-08T10:50:47.255Z",
+    "updatedAt": "2025-11-13T10:50:47.255Z",
+    "storeId": "store-011"
+  },
+  {
+    "id": "P07212",
+    "type": "rent",
+    "category": {
+      "main": "commercial",
+      "sub": "office"
+    },
+    "title": "Kiralık Ofis - Réunion City",
+    "slug": "kiralik-ofis-réunion-city-P07212",
+    "description": "Réunion City, Réunion bölgesinde ofis. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 3041716,
+    "location": {
+      "country": "RE",
+      "city": "Réunion City",
+      "district": "Réunion City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 683",
+      "coordinates": {
+        "lat": -21.41459549353833,
+        "lng": 55.89713368977468
+      }
+    },
+    "specs": {
+      "netSize": 104,
+      "grossSize": 125,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 13,
+      "floor": 8,
+      "totalFloors": 10,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Unfurnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500839345619?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500691012512?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500856526034?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500033273506?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500179807650?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500480810733?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500455031497?w=800&q=80&category=building"
+    ],
+    "agent": {
+      "id": "A96",
+      "name": "Agent 56",
+      "phone": "+34 671 158 4733",
+      "email": "agent42@iwrealty.com",
+      "photo": "/images/icons/png/paris-heritage-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": false,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-02-11T10:50:47.255Z",
+    "updatedAt": "2025-11-13T10:50:47.255Z",
+    "storeId": "store-010"
+  },
+  {
+    "id": "P07213",
+    "type": "sale",
+    "category": {
+      "main": "commercial",
+      "sub": "mall"
+    },
+    "title": "Satılık AVM - Réunion Central",
+    "slug": "satilik-avm-réunion-central-P07213",
+    "description": "Réunion Central, Réunion bölgesinde avm. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 174663139,
+    "location": {
+      "country": "RE",
+      "city": "Réunion Central",
+      "district": "Réunion Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 353",
+      "coordinates": {
+        "lat": -21.47811370313534,
+        "lng": 55.92021792320378
+      }
+    },
+    "specs": {
+      "netSize": 34750,
+      "grossSize": 41700,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 8,
+      "floor": 7,
+      "totalFloors": 5,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Unfurnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500595303098?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500176671170?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500884368885?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500475529240?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500952234546?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500215085830?w=800&q=80&category=building"
+    ],
+    "agent": {
+      "id": "A33",
+      "name": "Agent 40",
+      "phone": "+18 824 111 4752",
+      "email": "agent79@iwrealty.com",
+      "photo": "/images/icons/png/ankara-modern-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-10-03T10:50:47.255Z",
+    "updatedAt": "2025-11-13T10:50:47.255Z",
+    "storeId": "store-003"
+  },
+  {
+    "id": "P07214",
+    "type": "rent",
+    "category": {
+      "main": "commercial",
+      "sub": "mall"
+    },
+    "title": "Kiralık AVM - Réunion City",
+    "slug": "kiralik-avm-réunion-city-P07214",
+    "description": "Réunion City, Réunion bölgesinde avm. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 296558733,
+    "location": {
+      "country": "RE",
+      "city": "Réunion City",
+      "district": "Réunion City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 145",
+      "coordinates": {
+        "lat": -21.301328600647377,
+        "lng": 55.43499342525859
+      }
+    },
+    "specs": {
+      "netSize": 22866,
+      "grossSize": 27439,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 11,
+      "floor": 1,
+      "totalFloors": 20,
+      "heating": "Klima",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500870723256?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500857810118?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500548408004?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500187096269?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500598655926?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500159872564?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500398936099?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500379437964?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500493311911?w=800&q=80&category=real-estate"
+    ],
+    "agent": {
+      "id": "A7",
+      "name": "Agent 65",
+      "phone": "+20 793 408 8463",
+      "email": "agent5@iwrealty.com",
+      "photo": "/images/icons/png/berlin-urban-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-05-24T10:50:47.255Z",
+    "updatedAt": "2025-11-13T10:50:47.255Z",
+    "storeId": "store-009"
+  },
+  {
+    "id": "P07215",
+    "type": "sale",
+    "category": {
+      "main": "commercial",
+      "sub": "hotel"
+    },
+    "title": "Satılık Otel - Saint-Denis",
+    "slug": "satilik-otel-saint-denis-P07215",
+    "description": "Saint-Denis, Réunion bölgesinde otel. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 122605649,
+    "location": {
+      "country": "RE",
+      "city": "Saint-Denis",
+      "district": "Saint-Denis Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 55",
+      "coordinates": {
+        "lat": -20.968457236828506,
+        "lng": 55.41733526085072
+      }
+    },
+    "specs": {
+      "netSize": 7722,
+      "grossSize": 9266,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 19,
+      "floor": 6,
+      "totalFloors": 6,
+      "heating": "Kombi",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500662795266?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500383809051?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500435906869?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500569704686?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500385523719?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500555562606?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500037171846?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500988789327?w=800&q=80&category=building"
+    ],
+    "agent": {
+      "id": "A41",
+      "name": "Agent 39",
+      "phone": "+37 373 422 4202",
+      "email": "agent89@iwrealty.com",
+      "photo": "/images/icons/png/london-prime-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": true,
+      "hasPool": true,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-05-25T10:50:47.255Z",
+    "updatedAt": "2025-11-13T10:50:47.255Z",
+    "storeId": "store-007"
+  },
+  {
+    "id": "P07216",
+    "type": "rent",
+    "category": {
+      "main": "commercial",
+      "sub": "hotel"
+    },
+    "title": "Kiralık Otel - Réunion Central",
+    "slug": "kiralik-otel-réunion-central-P07216",
+    "description": "Réunion Central, Réunion bölgesinde otel. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 181296749,
+    "location": {
+      "country": "RE",
+      "city": "Réunion Central",
+      "district": "Réunion Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 198",
+      "coordinates": {
+        "lat": -20.933003724756652,
+        "lng": 55.782752110519276
+      }
+    },
+    "specs": {
+      "netSize": 26853,
+      "grossSize": 32224,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 11,
+      "floor": 13,
+      "totalFloors": 16,
+      "heating": "Kombi",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500378189323?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500675729866?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500656130507?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500400718275?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500235660186?w=800&q=80&category=real-estate"
+    ],
+    "agent": {
+      "id": "A8",
+      "name": "Agent 11",
+      "phone": "+82 998 149 8032",
+      "email": "agent12@iwrealty.com",
+      "photo": "/images/icons/png/berlin-urban-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-07-26T10:50:47.255Z",
+    "updatedAt": "2025-11-13T10:50:47.255Z",
+    "storeId": "store-009"
+  },
+  {
+    "id": "P07217",
+    "type": "sale",
+    "category": {
+      "main": "commercial",
+      "sub": "restaurant"
+    },
+    "title": "Satılık Restoran - New Réunion",
+    "slug": "satilik-restoran-new-réunion-P07217",
+    "description": "New Réunion, Réunion bölgesinde restoran. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 8212417,
+    "location": {
+      "country": "RE",
+      "city": "New Réunion",
+      "district": "New Réunion Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 927",
+      "coordinates": {
+        "lat": -21.525407808369998,
+        "lng": 55.232052918729416
+      }
+    },
+    "specs": {
+      "netSize": 1316,
+      "grossSize": 1579,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 16,
+      "floor": 15,
+      "totalFloors": 18,
+      "heating": "Kombi",
+      "furnishing": "Furnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500037389679?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500201799207?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500751713843?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500509600456?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500329907666?w=800&q=80&category=interior"
+    ],
+    "agent": {
+      "id": "A65",
+      "name": "Agent 65",
+      "phone": "+10 945 153 4248",
+      "email": "agent18@iwrealty.com",
+      "photo": "/images/icons/png/ankara-modern-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": true,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-04-04T10:50:47.255Z",
+    "updatedAt": "2025-11-13T10:50:47.255Z",
+    "storeId": "store-003"
+  },
+  {
+    "id": "P07218",
+    "type": "rent",
+    "category": {
+      "main": "commercial",
+      "sub": "restaurant"
+    },
+    "title": "Kiralık Restoran - Réunion City",
+    "slug": "kiralik-restoran-réunion-city-P07218",
+    "description": "Réunion City, Réunion bölgesinde restoran. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 5822789,
+    "location": {
+      "country": "RE",
+      "city": "Réunion City",
+      "district": "Réunion City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 279",
+      "coordinates": {
+        "lat": -20.80102859118164,
+        "lng": 55.068186969649936
+      }
+    },
+    "specs": {
+      "netSize": 205,
+      "grossSize": 246,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 8,
+      "floor": 5,
+      "totalFloors": 6,
+      "heating": "Klima",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500287558934?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500239646559?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500922957328?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500407846225?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500932917307?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500592889907?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500804273213?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500154498464?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500131728474?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500258447305?w=800&q=80&category=interior"
+    ],
+    "agent": {
+      "id": "A71",
+      "name": "Agent 27",
+      "phone": "+94 991 258 4748",
+      "email": "agent43@iwrealty.com",
+      "photo": "/images/icons/png/ny-skyline-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": false,
+      "hasBalcony": false,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-09-11T10:50:47.255Z",
+    "updatedAt": "2025-11-13T10:50:47.255Z",
+    "storeId": "store-008"
+  },
+  {
+    "id": "P07219",
+    "type": "sale",
+    "category": {
+      "main": "commercial",
+      "sub": "warehouse"
+    },
+    "title": "Satılık Depo - Réunion City",
+    "slug": "satilik-depo-réunion-city-P07219",
+    "description": "Réunion City, Réunion bölgesinde depo. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 19592402,
+    "location": {
+      "country": "RE",
+      "city": "Réunion City",
+      "district": "Réunion City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 187",
+      "coordinates": {
+        "lat": -21.315172086025747,
+        "lng": 55.684725305180265
+      }
+    },
+    "specs": {
+      "netSize": 8470,
+      "grossSize": 10164,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 1,
+      "floor": 13,
+      "totalFloors": 7,
+      "heating": "Kombi",
+      "furnishing": "Unfurnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500122416770?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500987937680?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500116379598?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500846459568?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500278729010?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500651168485?w=800&q=80&category=architecture"
+    ],
+    "agent": {
+      "id": "A2",
+      "name": "Agent 35",
+      "phone": "+81 260 909 4694",
+      "email": "agent49@iwrealty.com",
+      "photo": "/images/icons/png/dubai-property-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": false,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2024-11-21T10:50:47.255Z",
+    "updatedAt": "2025-11-13T10:50:47.255Z",
+    "storeId": "store-004"
+  },
+  {
+    "id": "P07220",
+    "type": "rent",
+    "category": {
+      "main": "commercial",
+      "sub": "warehouse"
+    },
+    "title": "Kiralık Depo - New Réunion",
+    "slug": "kiralik-depo-new-réunion-P07220",
+    "description": "New Réunion, Réunion bölgesinde depo. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 14818590,
+    "location": {
+      "country": "RE",
+      "city": "New Réunion",
+      "district": "New Réunion Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 861",
+      "coordinates": {
+        "lat": -21.083158918198745,
+        "lng": 55.50222174203725
+      }
+    },
+    "specs": {
+      "netSize": 2995,
+      "grossSize": 3594,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 12,
+      "floor": 11,
+      "totalFloors": 17,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Unfurnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500224818682?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500221122452?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500717992437?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500777505981?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500944939953?w=800&q=80&category=building"
+    ],
+    "agent": {
+      "id": "A20",
+      "name": "Agent 17",
+      "phone": "+84 391 756 1937",
+      "email": "agent26@iwrealty.com",
+      "photo": "/images/icons/png/london-prime-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-04-30T10:50:47.255Z",
+    "updatedAt": "2025-11-13T10:50:47.255Z",
+    "storeId": "store-007"
+  }
+]

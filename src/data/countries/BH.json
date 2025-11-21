@@ -1,0 +1,2357 @@
+[
+  {
+    "id": "P00875",
+    "type": "sale",
+    "category": {
+      "main": "government"
+    },
+    "title": "Satılık Hastane - Manama",
+    "slug": "satilik-hastane-manama-P00875",
+    "description": "Manama, Bahrain bölgesinde hastane. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 14594382,
+    "location": {
+      "country": "BH",
+      "city": "Manama",
+      "district": "Manama Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 961",
+      "coordinates": {
+        "lat": 25.748588136615542,
+        "lng": 50.15240808261052
+      }
+    },
+    "specs": {
+      "netSize": 2315,
+      "grossSize": 2778,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 6,
+      "floor": 13,
+      "totalFloors": 18,
+      "heating": "Klima",
+      "furnishing": "Unfurnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500839927576?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500783105310?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500548666789?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500243724067?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500065882833?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500547634724?w=800&q=80&category=architecture"
+    ],
+    "agent": {
+      "id": "A36",
+      "name": "Agent 19",
+      "phone": "+34 979 892 1443",
+      "email": "agent20@iwrealty.com",
+      "photo": "/images/icons/png/paris-heritage-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": true,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-06-14T10:50:47.185Z",
+    "updatedAt": "2025-11-13T10:50:47.185Z",
+    "storeId": "store-010"
+  },
+  {
+    "id": "P00876",
+    "type": "rent",
+    "category": {
+      "main": "government"
+    },
+    "title": "Kiralık Hastane - Manama",
+    "slug": "kiralik-hastane-manama-P00876",
+    "description": "Manama, Bahrain bölgesinde hastane. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 20590763,
+    "location": {
+      "country": "BH",
+      "city": "Manama",
+      "district": "Manama Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 598",
+      "coordinates": {
+        "lat": 26.106140254631885,
+        "lng": 50.11400057202866
+      }
+    },
+    "specs": {
+      "netSize": 1601,
+      "grossSize": 1921,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 7,
+      "floor": 2,
+      "totalFloors": 15,
+      "heating": "Kombi",
+      "furnishing": "Unfurnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500699485160?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500137801375?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500201654577?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500733751158?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500068590214?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500849012933?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500334875652?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500295130536?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500771987979?w=800&q=80&category=house"
+    ],
+    "agent": {
+      "id": "A82",
+      "name": "Agent 23",
+      "phone": "+22 830 480 7423",
+      "email": "agent2@iwrealty.com",
+      "photo": "/images/icons/png/dubai-property-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-02-20T10:50:47.185Z",
+    "updatedAt": "2025-11-13T10:50:47.185Z",
+    "storeId": "store-004"
+  },
+  {
+    "id": "P00877",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Residence - Bahrain City",
+    "slug": "satilik-residence-bahrain-city-P00877",
+    "description": "Bahrain City, Bahrain bölgesinde residence. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 3148125,
+    "location": {
+      "country": "BH",
+      "city": "Bahrain City",
+      "district": "Bahrain City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 401",
+      "coordinates": {
+        "lat": 25.9142142507773,
+        "lng": 50.484642521584966
+      }
+    },
+    "specs": {
+      "netSize": 393,
+      "grossSize": 472,
+      "rooms": "1+1",
+      "bathrooms": 3,
+      "age": 20,
+      "floor": 3,
+      "totalFloors": 19,
+      "heating": "Kombi",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500887907876?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500288065795?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500574901467?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500659399959?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500152036314?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500901074888?w=800&q=80&category=building"
+    ],
+    "agent": {
+      "id": "A32",
+      "name": "Agent 61",
+      "phone": "+79 828 175 7392",
+      "email": "agent93@iwrealty.com",
+      "photo": "/images/icons/png/antalya-investment-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": false,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": true,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-08-23T10:50:47.185Z",
+    "updatedAt": "2025-11-13T10:50:47.185Z",
+    "storeId": "store-006"
+  },
+  {
+    "id": "P00878",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Müstakil Ev - Bahrain City",
+    "slug": "kiralik-müstakil-ev-bahrain-city-P00878",
+    "description": "Bahrain City, Bahrain bölgesinde müstakil ev. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 11506964,
+    "location": {
+      "country": "BH",
+      "city": "Bahrain City",
+      "district": "Bahrain City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 154",
+      "coordinates": {
+        "lat": 26.0757102847917,
+        "lng": 50.14468677499244
+      }
+    },
+    "specs": {
+      "netSize": 382,
+      "grossSize": 458,
+      "rooms": "5+1",
+      "bathrooms": 4,
+      "age": 8,
+      "floor": 8,
+      "totalFloors": 10,
+      "heating": "Merkezi",
+      "furnishing": "Unfurnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500385711041?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500499778030?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500863410256?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500269931556?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500039813805?w=800&q=80&category=real-estate"
+    ],
+    "agent": {
+      "id": "A45",
+      "name": "Agent 45",
+      "phone": "+39 470 900 2582",
+      "email": "agent91@iwrealty.com",
+      "photo": "/images/icons/png/ankara-modern-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2024-12-25T10:50:47.185Z",
+    "updatedAt": "2025-11-13T10:50:47.185Z",
+    "storeId": "store-003"
+  },
+  {
+    "id": "P00879",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Daire - Bahrain Central",
+    "slug": "satilik-daire-bahrain-central-P00879",
+    "description": "Bahrain Central, Bahrain bölgesinde daire. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 13246094,
+    "location": {
+      "country": "BH",
+      "city": "Bahrain Central",
+      "district": "Bahrain Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 413",
+      "coordinates": {
+        "lat": 26.181414835181755,
+        "lng": 50.32612714083445
+      }
+    },
+    "specs": {
+      "netSize": 394,
+      "grossSize": 473,
+      "rooms": "1+0",
+      "bathrooms": 3,
+      "age": 9,
+      "floor": 7,
+      "totalFloors": 13,
+      "heating": "Klima",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500089288117?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500074810889?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500727700973?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500642033841?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500390486008?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500301493126?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500258164748?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500102494197?w=800&q=80&category=interior"
+    ],
+    "agent": {
+      "id": "A12",
+      "name": "Agent 89",
+      "phone": "+41 677 732 3336",
+      "email": "agent80@iwrealty.com",
+      "photo": "/images/icons/png/sydney-coastal-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": false,
+      "hasBalcony": false,
+      "hasGarden": true,
+      "hasPool": true,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-10-15T10:50:47.185Z",
+    "updatedAt": "2025-11-13T10:50:47.185Z",
+    "storeId": "store-012"
+  },
+  {
+    "id": "P00880",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Residence - Bahrain Central",
+    "slug": "kiralik-residence-bahrain-central-P00880",
+    "description": "Bahrain Central, Bahrain bölgesinde residence. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 6362616,
+    "location": {
+      "country": "BH",
+      "city": "Bahrain Central",
+      "district": "Bahrain Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 819",
+      "coordinates": {
+        "lat": 25.509550986953062,
+        "lng": 50.58355736441833
+      }
+    },
+    "specs": {
+      "netSize": 122,
+      "grossSize": 146,
+      "rooms": "3+1",
+      "bathrooms": 1,
+      "age": 10,
+      "floor": 10,
+      "totalFloors": 5,
+      "heating": "Kombi",
+      "furnishing": "Unfurnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500483431784?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500228829362?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500798437869?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500648848094?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500913536120?w=800&q=80&category=building"
+    ],
+    "agent": {
+      "id": "A77",
+      "name": "Agent 84",
+      "phone": "+44 791 635 5181",
+      "email": "agent76@iwrealty.com",
+      "photo": "/images/icons/png/luxury-homes-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-05-07T10:50:47.185Z",
+    "updatedAt": "2025-11-13T10:50:47.185Z",
+    "storeId": "store-002"
+  },
+  {
+    "id": "P00881",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Villa - New Bahrain",
+    "slug": "satilik-villa-new-bahrain-P00881",
+    "description": "New Bahrain, Bahrain bölgesinde villa. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 9025110,
+    "location": {
+      "country": "BH",
+      "city": "New Bahrain",
+      "district": "New Bahrain Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 806",
+      "coordinates": {
+        "lat": 26.27369008418831,
+        "lng": 50.14886614775725
+      }
+    },
+    "specs": {
+      "netSize": 298,
+      "grossSize": 358,
+      "rooms": "3+1",
+      "bathrooms": 2,
+      "age": 17,
+      "floor": 9,
+      "totalFloors": 12,
+      "heating": "Kombi",
+      "furnishing": "Unfurnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500233039803?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500223473869?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500230422555?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500694679937?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500859823446?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500660791012?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500718234973?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500537078367?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500846455923?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500199866276?w=800&q=80&category=architecture"
+    ],
+    "agent": {
+      "id": "A31",
+      "name": "Agent 75",
+      "phone": "+48 140 948 7540",
+      "email": "agent32@iwrealty.com",
+      "photo": "/images/icons/png/ankara-modern-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": false,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-04-25T10:50:47.185Z",
+    "updatedAt": "2025-11-13T10:50:47.185Z",
+    "storeId": "store-003"
+  },
+  {
+    "id": "P00882",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Residence - Bahrain City",
+    "slug": "kiralik-residence-bahrain-city-P00882",
+    "description": "Bahrain City, Bahrain bölgesinde residence. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 11511668,
+    "location": {
+      "country": "BH",
+      "city": "Bahrain City",
+      "district": "Bahrain City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 969",
+      "coordinates": {
+        "lat": 26.230759279730297,
+        "lng": 50.956843070681174
+      }
+    },
+    "specs": {
+      "netSize": 229,
+      "grossSize": 275,
+      "rooms": "2+0",
+      "bathrooms": 2,
+      "age": 12,
+      "floor": 7,
+      "totalFloors": 5,
+      "heating": "Klima",
+      "furnishing": "Furnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500313558658?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500269507675?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500970800524?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500029506920?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500887370437?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500023541805?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500856338283?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500486188170?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500721130005?w=800&q=80&category=house"
+    ],
+    "agent": {
+      "id": "A43",
+      "name": "Agent 59",
+      "phone": "+70 302 618 3271",
+      "email": "agent17@iwrealty.com",
+      "photo": "/images/icons/png/dubai-property-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": false,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-05-20T10:50:47.185Z",
+    "updatedAt": "2025-11-13T10:50:47.185Z",
+    "storeId": "store-004"
+  },
+  {
+    "id": "P00883",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Müstakil Ev - Bahrain City",
+    "slug": "satilik-müstakil-ev-bahrain-city-P00883",
+    "description": "Bahrain City, Bahrain bölgesinde müstakil ev. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 2964805,
+    "location": {
+      "country": "BH",
+      "city": "Bahrain City",
+      "district": "Bahrain City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 771",
+      "coordinates": {
+        "lat": 25.78128490533882,
+        "lng": 50.72159048412149
+      }
+    },
+    "specs": {
+      "netSize": 364,
+      "grossSize": 437,
+      "rooms": "3+1",
+      "bathrooms": 2,
+      "age": 3,
+      "floor": 15,
+      "totalFloors": 11,
+      "heating": "Merkezi",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500391342019?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500450648277?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500192560761?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500281587016?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500482002056?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500807962737?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500213946417?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500649507687?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500971395388?w=800&q=80&category=real-estate"
+    ],
+    "agent": {
+      "id": "A75",
+      "name": "Agent 61",
+      "phone": "+92 683 311 9694",
+      "email": "agent92@iwrealty.com",
+      "photo": "/images/icons/png/ankara-modern-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-04-15T10:50:47.185Z",
+    "updatedAt": "2025-11-13T10:50:47.185Z",
+    "storeId": "store-003"
+  },
+  {
+    "id": "P00884",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Müstakil Ev - Manama",
+    "slug": "kiralik-müstakil-ev-manama-P00884",
+    "description": "Manama, Bahrain bölgesinde müstakil ev. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 4070565,
+    "location": {
+      "country": "BH",
+      "city": "Manama",
+      "district": "Manama Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 3",
+      "coordinates": {
+        "lat": 25.819407021909953,
+        "lng": 50.61001591533886
+      }
+    },
+    "specs": {
+      "netSize": 136,
+      "grossSize": 163,
+      "rooms": "5+0",
+      "bathrooms": 1,
+      "age": 12,
+      "floor": 9,
+      "totalFloors": 5,
+      "heating": "Klima",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500914190471?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500679029045?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500524393673?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500286592890?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500167061330?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500156484888?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500655111112?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500932069936?w=800&q=80&category=real-estate"
+    ],
+    "agent": {
+      "id": "A69",
+      "name": "Agent 48",
+      "phone": "+47 835 286 8101",
+      "email": "agent29@iwrealty.com",
+      "photo": "/images/icons/png/izmir-sahil-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2024-11-23T10:50:47.185Z",
+    "updatedAt": "2025-11-13T10:50:47.185Z",
+    "storeId": "store-005"
+  },
+  {
+    "id": "P00885",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Müstakil Ev - New Bahrain",
+    "slug": "satilik-müstakil-ev-new-bahrain-P00885",
+    "description": "New Bahrain, Bahrain bölgesinde müstakil ev. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 6719227,
+    "location": {
+      "country": "BH",
+      "city": "New Bahrain",
+      "district": "New Bahrain Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 853",
+      "coordinates": {
+        "lat": 26.00503620074246,
+        "lng": 50.437673106186175
+      }
+    },
+    "specs": {
+      "netSize": 228,
+      "grossSize": 274,
+      "rooms": "5+1",
+      "bathrooms": 1,
+      "age": 7,
+      "floor": 12,
+      "totalFloors": 17,
+      "heating": "Kombi",
+      "furnishing": "Unfurnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500384300937?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500029047722?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500489694758?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500419744121?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500818261551?w=800&q=80&category=building"
+    ],
+    "agent": {
+      "id": "A9",
+      "name": "Agent 66",
+      "phone": "+20 799 311 6125",
+      "email": "agent3@iwrealty.com",
+      "photo": "/images/icons/png/ny-skyline-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-03-11T10:50:47.185Z",
+    "updatedAt": "2025-11-13T10:50:47.185Z",
+    "storeId": "store-008"
+  },
+  {
+    "id": "P00886",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Daire - Bahrain Central",
+    "slug": "kiralik-daire-bahrain-central-P00886",
+    "description": "Bahrain Central, Bahrain bölgesinde daire. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 9503549,
+    "location": {
+      "country": "BH",
+      "city": "Bahrain Central",
+      "district": "Bahrain Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 946",
+      "coordinates": {
+        "lat": 25.529591758516247,
+        "lng": 50.94712176605006
+      }
+    },
+    "specs": {
+      "netSize": 160,
+      "grossSize": 192,
+      "rooms": "1+2",
+      "bathrooms": 4,
+      "age": 12,
+      "floor": 9,
+      "totalFloors": 15,
+      "heating": "Merkezi",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500951091910?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500168470281?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500234360824?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500245464983?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500385910925?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500740811987?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500440329281?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500217807579?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500216971639?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500606907989?w=800&q=80&category=house"
+    ],
+    "agent": {
+      "id": "A34",
+      "name": "Agent 57",
+      "phone": "+17 877 157 7712",
+      "email": "agent54@iwrealty.com",
+      "photo": "/images/icons/png/dubai-property-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2024-11-27T10:50:47.185Z",
+    "updatedAt": "2025-11-13T10:50:47.185Z",
+    "storeId": "store-004"
+  },
+  {
+    "id": "P00887",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Villa - Manama",
+    "slug": "satilik-villa-manama-P00887",
+    "description": "Manama, Bahrain bölgesinde villa. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 9837828,
+    "location": {
+      "country": "BH",
+      "city": "Manama",
+      "district": "Manama Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 811",
+      "coordinates": {
+        "lat": 25.933473765629564,
+        "lng": 50.853516398608775
+      }
+    },
+    "specs": {
+      "netSize": 378,
+      "grossSize": 454,
+      "rooms": "4+0",
+      "bathrooms": 4,
+      "age": 14,
+      "floor": 5,
+      "totalFloors": 13,
+      "heating": "Kombi",
+      "furnishing": "Furnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500752353911?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500194389036?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500013750386?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500961640343?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500205899287?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500503275840?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500358941637?w=800&q=80&category=house"
+    ],
+    "agent": {
+      "id": "A91",
+      "name": "Agent 96",
+      "phone": "+61 780 949 1588",
+      "email": "agent32@iwrealty.com",
+      "photo": "/images/icons/png/sydney-coastal-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": false,
+      "hasBalcony": false,
+      "hasGarden": true,
+      "hasPool": true,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-05-25T10:50:47.185Z",
+    "updatedAt": "2025-11-13T10:50:47.185Z",
+    "storeId": "store-012"
+  },
+  {
+    "id": "P00888",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Müstakil Ev - Bahrain Central",
+    "slug": "kiralik-müstakil-ev-bahrain-central-P00888",
+    "description": "Bahrain Central, Bahrain bölgesinde müstakil ev. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 4799694,
+    "location": {
+      "country": "BH",
+      "city": "Bahrain Central",
+      "district": "Bahrain Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 762",
+      "coordinates": {
+        "lat": 25.785980735611144,
+        "lng": 50.15206450177015
+      }
+    },
+    "specs": {
+      "netSize": 204,
+      "grossSize": 245,
+      "rooms": "2+1",
+      "bathrooms": 1,
+      "age": 16,
+      "floor": 1,
+      "totalFloors": 6,
+      "heating": "Kombi",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500702137219?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500675382608?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500781092643?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500979111679?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500354805399?w=800&q=80&category=real-estate"
+    ],
+    "agent": {
+      "id": "A23",
+      "name": "Agent 61",
+      "phone": "+39 864 299 1099",
+      "email": "agent2@iwrealty.com",
+      "photo": "/images/icons/png/luxury-homes-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": false,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": true,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-07-20T10:50:47.185Z",
+    "updatedAt": "2025-11-13T10:50:47.185Z",
+    "storeId": "store-002"
+  },
+  {
+    "id": "P00889",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Villa - Manama",
+    "slug": "satilik-villa-manama-P00889",
+    "description": "Manama, Bahrain bölgesinde villa. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 1433665,
+    "location": {
+      "country": "BH",
+      "city": "Manama",
+      "district": "Manama Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 874",
+      "coordinates": {
+        "lat": 25.946240204067305,
+        "lng": 50.84367768672316
+      }
+    },
+    "specs": {
+      "netSize": 196,
+      "grossSize": 235,
+      "rooms": "2+1",
+      "bathrooms": 2,
+      "age": 6,
+      "floor": 2,
+      "totalFloors": 12,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Furnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500233061125?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500662905965?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500863791134?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500647724254?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500887584470?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500123696514?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500289445270?w=800&q=80&category=architecture"
+    ],
+    "agent": {
+      "id": "A65",
+      "name": "Agent 29",
+      "phone": "+36 163 555 6045",
+      "email": "agent99@iwrealty.com",
+      "photo": "/images/icons/png/sydney-coastal-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": false,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-01-25T10:50:47.185Z",
+    "updatedAt": "2025-11-13T10:50:47.185Z",
+    "storeId": "store-012"
+  },
+  {
+    "id": "P00890",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Villa - Bahrain Central",
+    "slug": "kiralik-villa-bahrain-central-P00890",
+    "description": "Bahrain Central, Bahrain bölgesinde villa. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 13281239,
+    "location": {
+      "country": "BH",
+      "city": "Bahrain Central",
+      "district": "Bahrain Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 25",
+      "coordinates": {
+        "lat": 26.131893389878417,
+        "lng": 50.60926807061896
+      }
+    },
+    "specs": {
+      "netSize": 373,
+      "grossSize": 448,
+      "rooms": "5+0",
+      "bathrooms": 2,
+      "age": 19,
+      "floor": 9,
+      "totalFloors": 12,
+      "heating": "Kombi",
+      "furnishing": "Furnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500328127244?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500315184797?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500782692110?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500810542000?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500707951451?w=800&q=80&category=real-estate"
+    ],
+    "agent": {
+      "id": "A6",
+      "name": "Agent 92",
+      "phone": "+29 331 928 1347",
+      "email": "agent7@iwrealty.com",
+      "photo": "/images/icons/png/london-prime-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": true,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-08-27T10:50:47.185Z",
+    "updatedAt": "2025-11-13T10:50:47.185Z",
+    "storeId": "store-007"
+  },
+  {
+    "id": "P00891",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Villa - Bahrain City",
+    "slug": "satilik-villa-bahrain-city-P00891",
+    "description": "Bahrain City, Bahrain bölgesinde villa. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 3793078,
+    "location": {
+      "country": "BH",
+      "city": "Bahrain City",
+      "district": "Bahrain City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 987",
+      "coordinates": {
+        "lat": 25.614930587408015,
+        "lng": 50.1181150622281
+      }
+    },
+    "specs": {
+      "netSize": 294,
+      "grossSize": 353,
+      "rooms": "4+0",
+      "bathrooms": 1,
+      "age": 20,
+      "floor": 13,
+      "totalFloors": 14,
+      "heating": "Merkezi",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500202823189?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500704906532?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500473403528?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500555527585?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500482458365?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500457647215?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500274476197?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500425600022?w=800&q=80&category=house"
+    ],
+    "agent": {
+      "id": "A59",
+      "name": "Agent 59",
+      "phone": "+56 554 562 2720",
+      "email": "agent31@iwrealty.com",
+      "photo": "/images/icons/png/luxury-homes-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-02-27T10:50:47.185Z",
+    "updatedAt": "2025-11-13T10:50:47.185Z",
+    "storeId": "store-002"
+  },
+  {
+    "id": "P00892",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Müstakil Ev - Bahrain Central",
+    "slug": "kiralik-müstakil-ev-bahrain-central-P00892",
+    "description": "Bahrain Central, Bahrain bölgesinde müstakil ev. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 9391598,
+    "location": {
+      "country": "BH",
+      "city": "Bahrain Central",
+      "district": "Bahrain Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 693",
+      "coordinates": {
+        "lat": 26.21701220249622,
+        "lng": 50.950517608135755
+      }
+    },
+    "specs": {
+      "netSize": 249,
+      "grossSize": 299,
+      "rooms": "3+0",
+      "bathrooms": 4,
+      "age": 15,
+      "floor": 6,
+      "totalFloors": 18,
+      "heating": "Klima",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500024256336?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500008398991?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500725845348?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500389976559?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500489402692?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500234755768?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500525814674?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500383505633?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500858325268?w=800&q=80&category=interior"
+    ],
+    "agent": {
+      "id": "A90",
+      "name": "Agent 61",
+      "phone": "+22 609 187 9705",
+      "email": "agent70@iwrealty.com",
+      "photo": "/images/icons/png/berlin-urban-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-04-08T10:50:47.185Z",
+    "updatedAt": "2025-11-13T10:50:47.185Z",
+    "storeId": "store-009"
+  },
+  {
+    "id": "P00893",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Residence - New Bahrain",
+    "slug": "satilik-residence-new-bahrain-P00893",
+    "description": "New Bahrain, Bahrain bölgesinde residence. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 4979857,
+    "location": {
+      "country": "BH",
+      "city": "New Bahrain",
+      "district": "New Bahrain Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 118",
+      "coordinates": {
+        "lat": 26.18493286289814,
+        "lng": 50.19336158366067
+      }
+    },
+    "specs": {
+      "netSize": 361,
+      "grossSize": 433,
+      "rooms": "2+0",
+      "bathrooms": 1,
+      "age": 7,
+      "floor": 10,
+      "totalFloors": 17,
+      "heating": "Kombi",
+      "furnishing": "Furnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500518850563?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500126085434?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500346493139?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500217696244?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500379852214?w=800&q=80&category=real-estate"
+    ],
+    "agent": {
+      "id": "A52",
+      "name": "Agent 17",
+      "phone": "+29 550 840 5269",
+      "email": "agent55@iwrealty.com",
+      "photo": "/images/icons/png/ny-skyline-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": false,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": true,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-11-01T10:50:47.185Z",
+    "updatedAt": "2025-11-13T10:50:47.185Z",
+    "storeId": "store-008"
+  },
+  {
+    "id": "P00894",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Residence - New Bahrain",
+    "slug": "kiralik-residence-new-bahrain-P00894",
+    "description": "New Bahrain, Bahrain bölgesinde residence. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 6260148,
+    "location": {
+      "country": "BH",
+      "city": "New Bahrain",
+      "district": "New Bahrain Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 762",
+      "coordinates": {
+        "lat": 25.53927306631202,
+        "lng": 50.993687297202264
+      }
+    },
+    "specs": {
+      "netSize": 165,
+      "grossSize": 198,
+      "rooms": "1+1",
+      "bathrooms": 2,
+      "age": 15,
+      "floor": 11,
+      "totalFloors": 7,
+      "heating": "Merkezi",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500504306508?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500998493446?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500069623572?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500565446480?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500058357716?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500603566954?w=800&q=80&category=interior"
+    ],
+    "agent": {
+      "id": "A56",
+      "name": "Agent 17",
+      "phone": "+42 448 990 6932",
+      "email": "agent76@iwrealty.com",
+      "photo": "/images/icons/png/sydney-coastal-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": true,
+      "hasSecurity": false
+    },
+    "createdAt": "2024-12-22T10:50:47.185Z",
+    "updatedAt": "2025-11-13T10:50:47.185Z",
+    "storeId": "store-012"
+  },
+  {
+    "id": "P00895",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Villa - New Bahrain",
+    "slug": "satilik-villa-new-bahrain-P00895",
+    "description": "New Bahrain, Bahrain bölgesinde villa. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 539664,
+    "location": {
+      "country": "BH",
+      "city": "New Bahrain",
+      "district": "New Bahrain Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 62",
+      "coordinates": {
+        "lat": 26.012838798528133,
+        "lng": 50.91091905515077
+      }
+    },
+    "specs": {
+      "netSize": 142,
+      "grossSize": 170,
+      "rooms": "3+2",
+      "bathrooms": 4,
+      "age": 8,
+      "floor": 4,
+      "totalFloors": 15,
+      "heating": "Kombi",
+      "furnishing": "Furnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500278584241?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500800051521?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500435686341?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500182078859?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500915247962?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500107586614?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500740810490?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500798515814?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500133973313?w=800&q=80&category=building"
+    ],
+    "agent": {
+      "id": "A86",
+      "name": "Agent 97",
+      "phone": "+44 263 646 2214",
+      "email": "agent90@iwrealty.com",
+      "photo": "/images/icons/png/ankara-modern-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": true,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-08-03T10:50:47.185Z",
+    "updatedAt": "2025-11-13T10:50:47.185Z",
+    "storeId": "store-003"
+  },
+  {
+    "id": "P00896",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Daire - Bahrain City",
+    "slug": "kiralik-daire-bahrain-city-P00896",
+    "description": "Bahrain City, Bahrain bölgesinde daire. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 8927143,
+    "location": {
+      "country": "BH",
+      "city": "Bahrain City",
+      "district": "Bahrain City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 147",
+      "coordinates": {
+        "lat": 25.893791561763397,
+        "lng": 50.78510445816756
+      }
+    },
+    "specs": {
+      "netSize": 493,
+      "grossSize": 592,
+      "rooms": "1+1",
+      "bathrooms": 1,
+      "age": 12,
+      "floor": 7,
+      "totalFloors": 5,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500513654956?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500687257808?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500761260778?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500670984982?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500468676905?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500072904800?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500982719132?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500380747259?w=800&q=80&category=architecture"
+    ],
+    "agent": {
+      "id": "A16",
+      "name": "Agent 43",
+      "phone": "+40 165 204 5868",
+      "email": "agent86@iwrealty.com",
+      "photo": "/images/icons/png/berlin-urban-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": true,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-11-03T10:50:47.185Z",
+    "updatedAt": "2025-11-13T10:50:47.185Z",
+    "storeId": "store-009"
+  },
+  {
+    "id": "P00897",
+    "type": "sale",
+    "category": {
+      "main": "commercial",
+      "sub": "hospital"
+    },
+    "title": "Satılık Hastane - Bahrain City",
+    "slug": "satilik-hastane-bahrain-city-P00897",
+    "description": "Bahrain City, Bahrain bölgesinde hastane. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 19884556,
+    "location": {
+      "country": "BH",
+      "city": "Bahrain City",
+      "district": "Bahrain City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 486",
+      "coordinates": {
+        "lat": 25.781896005370175,
+        "lng": 50.75179113480304
+      }
+    },
+    "specs": {
+      "netSize": 6627,
+      "grossSize": 7952,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 20,
+      "floor": 5,
+      "totalFloors": 5,
+      "heating": "Klima",
+      "furnishing": "Unfurnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500598283662?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500479862478?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500905079397?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500159499320?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500879092305?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500327513672?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500387617617?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500152261596?w=800&q=80&category=house"
+    ],
+    "agent": {
+      "id": "A11",
+      "name": "Agent 83",
+      "phone": "+29 661 296 8593",
+      "email": "agent83@iwrealty.com",
+      "photo": "/images/icons/png/berlin-urban-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-01-09T10:50:47.185Z",
+    "updatedAt": "2025-11-13T10:50:47.185Z",
+    "storeId": "store-009"
+  },
+  {
+    "id": "P00898",
+    "type": "rent",
+    "category": {
+      "main": "commercial",
+      "sub": "hospital"
+    },
+    "title": "Kiralık Hastane - Bahrain City",
+    "slug": "kiralik-hastane-bahrain-city-P00898",
+    "description": "Bahrain City, Bahrain bölgesinde hastane. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 96101200,
+    "location": {
+      "country": "BH",
+      "city": "Bahrain City",
+      "district": "Bahrain City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 463",
+      "coordinates": {
+        "lat": 25.743692159318545,
+        "lng": 50.84064568959998
+      }
+    },
+    "specs": {
+      "netSize": 5780,
+      "grossSize": 6936,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 14,
+      "floor": 15,
+      "totalFloors": 14,
+      "heating": "Klima",
+      "furnishing": "Furnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500894153604?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500466446923?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500696647240?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500943632090?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500179993714?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500209516344?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500899846269?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500679769268?w=800&q=80&category=building"
+    ],
+    "agent": {
+      "id": "A67",
+      "name": "Agent 79",
+      "phone": "+43 630 460 3926",
+      "email": "agent12@iwrealty.com",
+      "photo": "/images/icons/png/izmir-sahil-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-08-21T10:50:47.185Z",
+    "updatedAt": "2025-11-13T10:50:47.185Z",
+    "storeId": "store-005"
+  },
+  {
+    "id": "P00899",
+    "type": "sale",
+    "category": {
+      "main": "commercial",
+      "sub": "clinic"
+    },
+    "title": "Satılık Klinik - Manama",
+    "slug": "satilik-klinik-manama-P00899",
+    "description": "Manama, Bahrain bölgesinde klinik. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 6289153,
+    "location": {
+      "country": "BH",
+      "city": "Manama",
+      "district": "Manama Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 732",
+      "coordinates": {
+        "lat": 25.884465927890357,
+        "lng": 50.746344313256216
+      }
+    },
+    "specs": {
+      "netSize": 1397,
+      "grossSize": 1676,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 0,
+      "floor": 15,
+      "totalFloors": 12,
+      "heating": "Kombi",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500449043922?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500677259612?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500674759853?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500103610275?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500104011610?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500636154247?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500362410189?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500492301302?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500297545886?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500191000574?w=800&q=80&category=interior"
+    ],
+    "agent": {
+      "id": "A42",
+      "name": "Agent 59",
+      "phone": "+60 616 608 7147",
+      "email": "agent53@iwrealty.com",
+      "photo": "/images/icons/png/ny-skyline-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": true,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-08-13T10:50:47.185Z",
+    "updatedAt": "2025-11-13T10:50:47.185Z",
+    "storeId": "store-008"
+  },
+  {
+    "id": "P00900",
+    "type": "rent",
+    "category": {
+      "main": "commercial",
+      "sub": "clinic"
+    },
+    "title": "Kiralık Klinik - Bahrain Central",
+    "slug": "kiralik-klinik-bahrain-central-P00900",
+    "description": "Bahrain Central, Bahrain bölgesinde klinik. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 5304092,
+    "location": {
+      "country": "BH",
+      "city": "Bahrain Central",
+      "district": "Bahrain Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 420",
+      "coordinates": {
+        "lat": 25.584164033956565,
+        "lng": 50.7078884796423
+      }
+    },
+    "specs": {
+      "netSize": 522,
+      "grossSize": 626,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 7,
+      "floor": 10,
+      "totalFloors": 11,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Furnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500403866271?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500052006422?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500026876669?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500222731648?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500123315272?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500107842315?w=800&q=80&category=real-estate"
+    ],
+    "agent": {
+      "id": "A86",
+      "name": "Agent 84",
+      "phone": "+62 986 786 2844",
+      "email": "agent16@iwrealty.com",
+      "photo": "/images/icons/png/sydney-coastal-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-10-26T10:50:47.185Z",
+    "updatedAt": "2025-11-13T10:50:47.185Z",
+    "storeId": "store-012"
+  },
+  {
+    "id": "P00901",
+    "type": "sale",
+    "category": {
+      "main": "commercial",
+      "sub": "shop"
+    },
+    "title": "Satılık Dükkan - Bahrain City",
+    "slug": "satilik-dükkan-bahrain-city-P00901",
+    "description": "Bahrain City, Bahrain bölgesinde dükkan. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 2621896,
+    "location": {
+      "country": "BH",
+      "city": "Bahrain City",
+      "district": "Bahrain City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 197",
+      "coordinates": {
+        "lat": 25.60458102067372,
+        "lng": 50.798408653121136
+      }
+    },
+    "specs": {
+      "netSize": 257,
+      "grossSize": 308,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 17,
+      "floor": 1,
+      "totalFloors": 5,
+      "heating": "Kombi",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500891130654?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500195232588?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500826071152?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500786441186?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500556930050?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500896323194?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500316193203?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500113059558?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500346910489?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500521561903?w=800&q=80&category=real-estate"
+    ],
+    "agent": {
+      "id": "A55",
+      "name": "Agent 50",
+      "phone": "+15 418 674 1312",
+      "email": "agent86@iwrealty.com",
+      "photo": "/images/icons/png/ankara-modern-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": false,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": true,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-03-18T10:50:47.185Z",
+    "updatedAt": "2025-11-13T10:50:47.185Z",
+    "storeId": "store-003"
+  },
+  {
+    "id": "P00902",
+    "type": "rent",
+    "category": {
+      "main": "commercial",
+      "sub": "shop"
+    },
+    "title": "Kiralık Dükkan - Bahrain City",
+    "slug": "kiralik-dükkan-bahrain-city-P00902",
+    "description": "Bahrain City, Bahrain bölgesinde dükkan. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 5231260,
+    "location": {
+      "country": "BH",
+      "city": "Bahrain City",
+      "district": "Bahrain City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 124",
+      "coordinates": {
+        "lat": 26.23837927327827,
+        "lng": 50.60279950397603
+      }
+    },
+    "specs": {
+      "netSize": 233,
+      "grossSize": 280,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 17,
+      "floor": 7,
+      "totalFloors": 5,
+      "heating": "Merkezi",
+      "furnishing": "Unfurnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500323689417?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500131524717?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500454556669?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500867500150?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500667348147?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500684130049?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500764974764?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500135360103?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500068919039?w=800&q=80&category=architecture"
+    ],
+    "agent": {
+      "id": "A69",
+      "name": "Agent 95",
+      "phone": "+21 801 105 4548",
+      "email": "agent89@iwrealty.com",
+      "photo": "/images/icons/png/antalya-investment-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": true,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-10-13T10:50:47.185Z",
+    "updatedAt": "2025-11-13T10:50:47.185Z",
+    "storeId": "store-006"
+  },
+  {
+    "id": "P00903",
+    "type": "sale",
+    "category": {
+      "main": "commercial",
+      "sub": "office"
+    },
+    "title": "Satılık Ofis - Bahrain City",
+    "slug": "satilik-ofis-bahrain-city-P00903",
+    "description": "Bahrain City, Bahrain bölgesinde ofis. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 13784608,
+    "location": {
+      "country": "BH",
+      "city": "Bahrain City",
+      "district": "Bahrain City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 230",
+      "coordinates": {
+        "lat": 26.396474995412987,
+        "lng": 50.06893564934773
+      }
+    },
+    "specs": {
+      "netSize": 427,
+      "grossSize": 512,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 18,
+      "floor": 5,
+      "totalFloors": 16,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Unfurnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500462627774?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500406339354?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500372177891?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500694664425?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500619474699?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500308158641?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500876494730?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500343218840?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500380420805?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500493247281?w=800&q=80&category=real-estate"
+    ],
+    "agent": {
+      "id": "A66",
+      "name": "Agent 39",
+      "phone": "+19 603 168 6903",
+      "email": "agent43@iwrealty.com",
+      "photo": "/images/icons/png/ankara-modern-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": false,
+      "hasBalcony": false,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-02-18T10:50:47.185Z",
+    "updatedAt": "2025-11-13T10:50:47.185Z",
+    "storeId": "store-003"
+  },
+  {
+    "id": "P00904",
+    "type": "rent",
+    "category": {
+      "main": "commercial",
+      "sub": "office"
+    },
+    "title": "Kiralık Ofis - Bahrain City",
+    "slug": "kiralik-ofis-bahrain-city-P00904",
+    "description": "Bahrain City, Bahrain bölgesinde ofis. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 5102547,
+    "location": {
+      "country": "BH",
+      "city": "Bahrain City",
+      "district": "Bahrain City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 642",
+      "coordinates": {
+        "lat": 25.792304191532082,
+        "lng": 50.06476776604593
+      }
+    },
+    "specs": {
+      "netSize": 357,
+      "grossSize": 428,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 14,
+      "floor": 7,
+      "totalFloors": 10,
+      "heating": "Kombi",
+      "furnishing": "Unfurnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500466748398?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500053226564?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500788493382?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500967708220?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500136913996?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500419552407?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500046900940?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500112968132?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500842407621?w=800&q=80&category=architecture"
+    ],
+    "agent": {
+      "id": "A43",
+      "name": "Agent 30",
+      "phone": "+97 467 207 6907",
+      "email": "agent84@iwrealty.com",
+      "photo": "/images/icons/png/izmir-sahil-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2024-12-16T10:50:47.185Z",
+    "updatedAt": "2025-11-13T10:50:47.185Z",
+    "storeId": "store-005"
+  },
+  {
+    "id": "P00905",
+    "type": "sale",
+    "category": {
+      "main": "commercial",
+      "sub": "mall"
+    },
+    "title": "Satılık AVM - Bahrain Central",
+    "slug": "satilik-avm-bahrain-central-P00905",
+    "description": "Bahrain Central, Bahrain bölgesinde avm. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 356891526,
+    "location": {
+      "country": "BH",
+      "city": "Bahrain Central",
+      "district": "Bahrain Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 113",
+      "coordinates": {
+        "lat": 25.90190321025201,
+        "lng": 51.02109617762859
+      }
+    },
+    "specs": {
+      "netSize": 36716,
+      "grossSize": 44059,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 0,
+      "floor": 11,
+      "totalFloors": 17,
+      "heating": "Merkezi",
+      "furnishing": "Furnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500373670532?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500621558599?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500639490654?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500130138320?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500653291236?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500598860577?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500166377931?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500018115853?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500426959058?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500695752152?w=800&q=80&category=building"
+    ],
+    "agent": {
+      "id": "A80",
+      "name": "Agent 57",
+      "phone": "+83 139 501 9610",
+      "email": "agent28@iwrealty.com",
+      "photo": "/images/icons/png/ny-skyline-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": false,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2024-12-21T10:50:47.185Z",
+    "updatedAt": "2025-11-13T10:50:47.185Z",
+    "storeId": "store-008"
+  },
+  {
+    "id": "P00906",
+    "type": "rent",
+    "category": {
+      "main": "commercial",
+      "sub": "mall"
+    },
+    "title": "Kiralık AVM - New Bahrain",
+    "slug": "kiralik-avm-new-bahrain-P00906",
+    "description": "New Bahrain, Bahrain bölgesinde avm. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 217686086,
+    "location": {
+      "country": "BH",
+      "city": "New Bahrain",
+      "district": "New Bahrain Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 699",
+      "coordinates": {
+        "lat": 26.22566697191376,
+        "lng": 50.21303261500055
+      }
+    },
+    "specs": {
+      "netSize": 11100,
+      "grossSize": 13320,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 0,
+      "floor": 5,
+      "totalFloors": 14,
+      "heating": "Klima",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500316953419?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500707182215?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500558167662?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500749525331?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500696781345?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500141501601?w=800&q=80&category=house"
+    ],
+    "agent": {
+      "id": "A22",
+      "name": "Agent 45",
+      "phone": "+76 487 848 9855",
+      "email": "agent98@iwrealty.com",
+      "photo": "/images/icons/png/dubai-property-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-03-18T10:50:47.185Z",
+    "updatedAt": "2025-11-13T10:50:47.185Z",
+    "storeId": "store-004"
+  },
+  {
+    "id": "P00907",
+    "type": "sale",
+    "category": {
+      "main": "commercial",
+      "sub": "hotel"
+    },
+    "title": "Satılık Otel - Bahrain City",
+    "slug": "satilik-otel-bahrain-city-P00907",
+    "description": "Bahrain City, Bahrain bölgesinde otel. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 151103038,
+    "location": {
+      "country": "BH",
+      "city": "Bahrain City",
+      "district": "Bahrain City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 548",
+      "coordinates": {
+        "lat": 25.685418430017524,
+        "lng": 50.28376334045786
+      }
+    },
+    "specs": {
+      "netSize": 5057,
+      "grossSize": 6068,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 6,
+      "floor": 9,
+      "totalFloors": 6,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Furnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500063514204?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500471034464?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500156601593?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500622993663?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500777095317?w=800&q=80&category=house"
+    ],
+    "agent": {
+      "id": "A63",
+      "name": "Agent 3",
+      "phone": "+27 562 145 9895",
+      "email": "agent84@iwrealty.com",
+      "photo": "/images/icons/png/ankara-modern-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": false,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2024-11-28T10:50:47.185Z",
+    "updatedAt": "2025-11-13T10:50:47.185Z",
+    "storeId": "store-003"
+  },
+  {
+    "id": "P00908",
+    "type": "rent",
+    "category": {
+      "main": "commercial",
+      "sub": "hotel"
+    },
+    "title": "Kiralık Otel - Bahrain Central",
+    "slug": "kiralik-otel-bahrain-central-P00908",
+    "description": "Bahrain Central, Bahrain bölgesinde otel. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 159720130,
+    "location": {
+      "country": "BH",
+      "city": "Bahrain Central",
+      "district": "Bahrain Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 168",
+      "coordinates": {
+        "lat": 26.449593537004038,
+        "lng": 50.384418700943556
+      }
+    },
+    "specs": {
+      "netSize": 23814,
+      "grossSize": 28577,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 13,
+      "floor": 13,
+      "totalFloors": 18,
+      "heating": "Kombi",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500171916674?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500117230306?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500424906843?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500288316772?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500751335919?w=800&q=80&category=architecture"
+    ],
+    "agent": {
+      "id": "A97",
+      "name": "Agent 40",
+      "phone": "+27 429 652 6210",
+      "email": "agent96@iwrealty.com",
+      "photo": "/images/icons/png/ny-skyline-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-03-14T10:50:47.185Z",
+    "updatedAt": "2025-11-13T10:50:47.186Z",
+    "storeId": "store-008"
+  },
+  {
+    "id": "P00909",
+    "type": "sale",
+    "category": {
+      "main": "commercial",
+      "sub": "restaurant"
+    },
+    "title": "Satılık Restoran - Bahrain City",
+    "slug": "satilik-restoran-bahrain-city-P00909",
+    "description": "Bahrain City, Bahrain bölgesinde restoran. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 3986989,
+    "location": {
+      "country": "BH",
+      "city": "Bahrain City",
+      "district": "Bahrain City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 98",
+      "coordinates": {
+        "lat": 25.62285178891609,
+        "lng": 50.162217452202135
+      }
+    },
+    "specs": {
+      "netSize": 426,
+      "grossSize": 511,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 11,
+      "floor": 3,
+      "totalFloors": 15,
+      "heating": "Klima",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500119139190?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500670222263?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500976933082?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500946976545?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500167870507?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500411217755?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500649889360?w=800&q=80&category=house"
+    ],
+    "agent": {
+      "id": "A93",
+      "name": "Agent 75",
+      "phone": "+23 316 718 5255",
+      "email": "agent39@iwrealty.com",
+      "photo": "/images/icons/png/london-prime-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-02-27T10:50:47.186Z",
+    "updatedAt": "2025-11-13T10:50:47.186Z",
+    "storeId": "store-007"
+  },
+  {
+    "id": "P00910",
+    "type": "rent",
+    "category": {
+      "main": "commercial",
+      "sub": "restaurant"
+    },
+    "title": "Kiralık Restoran - Bahrain Central",
+    "slug": "kiralik-restoran-bahrain-central-P00910",
+    "description": "Bahrain Central, Bahrain bölgesinde restoran. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 6416655,
+    "location": {
+      "country": "BH",
+      "city": "Bahrain Central",
+      "district": "Bahrain Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 748",
+      "coordinates": {
+        "lat": 26.395596572818636,
+        "lng": 50.05625873024906
+      }
+    },
+    "specs": {
+      "netSize": 1395,
+      "grossSize": 1674,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 9,
+      "floor": 12,
+      "totalFloors": 5,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Furnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500111707022?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500305510185?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500802583574?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500080483320?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500583825632?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500591082018?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500146954752?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500382776113?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500448116437?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500969421374?w=800&q=80&category=house"
+    ],
+    "agent": {
+      "id": "A1",
+      "name": "Agent 60",
+      "phone": "+89 150 880 4059",
+      "email": "agent56@iwrealty.com",
+      "photo": "/images/icons/png/ankara-modern-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": true,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-05-03T10:50:47.186Z",
+    "updatedAt": "2025-11-13T10:50:47.186Z",
+    "storeId": "store-003"
+  },
+  {
+    "id": "P00911",
+    "type": "sale",
+    "category": {
+      "main": "commercial",
+      "sub": "warehouse"
+    },
+    "title": "Satılık Depo - Manama",
+    "slug": "satilik-depo-manama-P00911",
+    "description": "Manama, Bahrain bölgesinde depo. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 11485618,
+    "location": {
+      "country": "BH",
+      "city": "Manama",
+      "district": "Manama Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 693",
+      "coordinates": {
+        "lat": 25.642906037018573,
+        "lng": 50.72314473054534
+      }
+    },
+    "specs": {
+      "netSize": 8120,
+      "grossSize": 9744,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 15,
+      "floor": 1,
+      "totalFloors": 7,
+      "heating": "Kombi",
+      "furnishing": "Unfurnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500586079898?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500890473756?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500728178431?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500773911218?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500058402221?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500567359439?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500403965814?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500492994284?w=800&q=80&category=real-estate"
+    ],
+    "agent": {
+      "id": "A53",
+      "name": "Agent 28",
+      "phone": "+99 309 298 8475",
+      "email": "agent55@iwrealty.com",
+      "photo": "/images/icons/png/antalya-investment-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": false,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-06-14T10:50:47.186Z",
+    "updatedAt": "2025-11-13T10:50:47.186Z",
+    "storeId": "store-006"
+  },
+  {
+    "id": "P00912",
+    "type": "rent",
+    "category": {
+      "main": "commercial",
+      "sub": "warehouse"
+    },
+    "title": "Kiralık Depo - New Bahrain",
+    "slug": "kiralik-depo-new-bahrain-P00912",
+    "description": "New Bahrain, Bahrain bölgesinde depo. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 14993773,
+    "location": {
+      "country": "BH",
+      "city": "New Bahrain",
+      "district": "New Bahrain Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 707",
+      "coordinates": {
+        "lat": 25.602953949342865,
+        "lng": 50.1315197489506
+      }
+    },
+    "specs": {
+      "netSize": 2628,
+      "grossSize": 3154,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 13,
+      "floor": 13,
+      "totalFloors": 14,
+      "heating": "Kombi",
+      "furnishing": "Unfurnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500608784702?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500397507161?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500650767417?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500971757354?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500098964772?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500748218988?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500593652874?w=800&q=80&category=building"
+    ],
+    "agent": {
+      "id": "A69",
+      "name": "Agent 55",
+      "phone": "+60 411 931 2555",
+      "email": "agent88@iwrealty.com",
+      "photo": "/images/icons/png/paris-heritage-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": true,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-10-07T10:50:47.186Z",
+    "updatedAt": "2025-11-13T10:50:47.186Z",
+    "storeId": "store-010"
+  }
+]

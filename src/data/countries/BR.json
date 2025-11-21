@@ -1,0 +1,2372 @@
+[
+  {
+    "id": "P01255",
+    "type": "sale",
+    "category": {
+      "main": "government"
+    },
+    "title": "Satılık Hastane - Brasília",
+    "slug": "satilik-hastane-brasília-P01255",
+    "description": "Brasília, Brazil bölgesinde hastane. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 36617512,
+    "location": {
+      "country": "BR",
+      "city": "Brasília",
+      "district": "Brasília Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 188",
+      "coordinates": {
+        "lat": -10.29551066921158,
+        "lng": -54.950010071921106
+      }
+    },
+    "specs": {
+      "netSize": 1933,
+      "grossSize": 2320,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 9,
+      "floor": 5,
+      "totalFloors": 20,
+      "heating": "Kombi",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500888521657?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500652544388?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500289104182?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500418359715?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500897246532?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500218645492?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500258926225?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500977452291?w=800&q=80&category=architecture"
+    ],
+    "agent": {
+      "id": "A27",
+      "name": "Agent 82",
+      "phone": "+52 140 900 3047",
+      "email": "agent74@iwrealty.com",
+      "photo": "/images/icons/png/dubai-property-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2024-12-02T10:50:47.191Z",
+    "updatedAt": "2025-11-13T10:50:47.191Z",
+    "storeId": "store-004"
+  },
+  {
+    "id": "P01256",
+    "type": "rent",
+    "category": {
+      "main": "government"
+    },
+    "title": "Kiralık Devlet Binası - New Brazil",
+    "slug": "kiralik-devlet-binası-new-brazil-P01256",
+    "description": "New Brazil, Brazil bölgesinde devlet binası. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 16029713,
+    "location": {
+      "country": "BR",
+      "city": "New Brazil",
+      "district": "New Brazil Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 496",
+      "coordinates": {
+        "lat": -10.27479485996382,
+        "lng": -55.307664552616956
+      }
+    },
+    "specs": {
+      "netSize": 3395,
+      "grossSize": 4074,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 4,
+      "floor": 3,
+      "totalFloors": 16,
+      "heating": "Merkezi",
+      "furnishing": "Unfurnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500500358427?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500307205182?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500304733626?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500011937730?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500565246135?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500563210380?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500631537673?w=800&q=80&category=real-estate"
+    ],
+    "agent": {
+      "id": "A15",
+      "name": "Agent 97",
+      "phone": "+43 677 428 2209",
+      "email": "agent92@iwrealty.com",
+      "photo": "/images/icons/png/ny-skyline-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": false,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-01-28T10:50:47.191Z",
+    "updatedAt": "2025-11-13T10:50:47.191Z",
+    "storeId": "store-008"
+  },
+  {
+    "id": "P01257",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Residence - Brazil City",
+    "slug": "satilik-residence-brazil-city-P01257",
+    "description": "Brazil City, Brazil bölgesinde residence. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 4992373,
+    "location": {
+      "country": "BR",
+      "city": "Brazil City",
+      "district": "Brazil City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 520",
+      "coordinates": {
+        "lat": -9.522315640508882,
+        "lng": -55.35025528076923
+      }
+    },
+    "specs": {
+      "netSize": 244,
+      "grossSize": 293,
+      "rooms": "1+0",
+      "bathrooms": 3,
+      "age": 1,
+      "floor": 2,
+      "totalFloors": 6,
+      "heating": "Klima",
+      "furnishing": "Unfurnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500641208440?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500771110979?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500674939825?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500961284842?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500560189561?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500608739461?w=800&q=80&category=house"
+    ],
+    "agent": {
+      "id": "A89",
+      "name": "Agent 65",
+      "phone": "+45 788 949 1673",
+      "email": "agent86@iwrealty.com",
+      "photo": "/images/icons/png/antalya-investment-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": false,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-10-19T10:50:47.191Z",
+    "updatedAt": "2025-11-13T10:50:47.191Z",
+    "storeId": "store-006"
+  },
+  {
+    "id": "P01258",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Daire - Brazil Central",
+    "slug": "kiralik-daire-brazil-central-P01258",
+    "description": "Brazil Central, Brazil bölgesinde daire. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 1349625,
+    "location": {
+      "country": "BR",
+      "city": "Brazil Central",
+      "district": "Brazil Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 639",
+      "coordinates": {
+        "lat": -10.203750262022554,
+        "lng": -55.43792701657396
+      }
+    },
+    "specs": {
+      "netSize": 357,
+      "grossSize": 428,
+      "rooms": "2+0",
+      "bathrooms": 2,
+      "age": 0,
+      "floor": 13,
+      "totalFloors": 11,
+      "heating": "Klima",
+      "furnishing": "Unfurnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500492821823?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500299384670?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500677421241?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500990421504?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500080115058?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500727656909?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500845916977?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500112013977?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500604776797?w=800&q=80&category=interior"
+    ],
+    "agent": {
+      "id": "A20",
+      "name": "Agent 9",
+      "phone": "+28 184 477 1647",
+      "email": "agent11@iwrealty.com",
+      "photo": "/images/icons/png/izmir-sahil-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": false,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": true,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-10-04T10:50:47.191Z",
+    "updatedAt": "2025-11-13T10:50:47.191Z",
+    "storeId": "store-005"
+  },
+  {
+    "id": "P01259",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Residence - Brazil City",
+    "slug": "satilik-residence-brazil-city-P01259",
+    "description": "Brazil City, Brazil bölgesinde residence. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 7675239,
+    "location": {
+      "country": "BR",
+      "city": "Brazil City",
+      "district": "Brazil City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 969",
+      "coordinates": {
+        "lat": -9.514794622916998,
+        "lng": -55.42197300848271
+      }
+    },
+    "specs": {
+      "netSize": 171,
+      "grossSize": 205,
+      "rooms": "4+0",
+      "bathrooms": 3,
+      "age": 10,
+      "floor": 12,
+      "totalFloors": 5,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500639276496?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500260808589?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500375824819?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500031471903?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500440439983?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500495706661?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500158250975?w=800&q=80&category=architecture"
+    ],
+    "agent": {
+      "id": "A75",
+      "name": "Agent 7",
+      "phone": "+65 642 310 3501",
+      "email": "agent50@iwrealty.com",
+      "photo": "/images/icons/png/antalya-investment-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-02-19T10:50:47.191Z",
+    "updatedAt": "2025-11-13T10:50:47.191Z",
+    "storeId": "store-006"
+  },
+  {
+    "id": "P01260",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Müstakil Ev - New Brazil",
+    "slug": "kiralik-müstakil-ev-new-brazil-P01260",
+    "description": "New Brazil, Brazil bölgesinde müstakil ev. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 3960838,
+    "location": {
+      "country": "BR",
+      "city": "New Brazil",
+      "district": "New Brazil Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 651",
+      "coordinates": {
+        "lat": -10.267958281765193,
+        "lng": -55.362981067225505
+      }
+    },
+    "specs": {
+      "netSize": 89,
+      "grossSize": 107,
+      "rooms": "5+0",
+      "bathrooms": 3,
+      "age": 16,
+      "floor": 3,
+      "totalFloors": 18,
+      "heating": "Kombi",
+      "furnishing": "Unfurnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500112498128?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500599452911?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500338520148?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500602204346?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500648613156?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500430724821?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500784075651?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500325580715?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500424645762?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500775511083?w=800&q=80&category=house"
+    ],
+    "agent": {
+      "id": "A9",
+      "name": "Agent 63",
+      "phone": "+96 434 844 5051",
+      "email": "agent37@iwrealty.com",
+      "photo": "/images/icons/png/paris-heritage-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-10-13T10:50:47.191Z",
+    "updatedAt": "2025-11-13T10:50:47.191Z",
+    "storeId": "store-010"
+  },
+  {
+    "id": "P01261",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Villa - Brazil City",
+    "slug": "satilik-villa-brazil-city-P01261",
+    "description": "Brazil City, Brazil bölgesinde villa. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 3287055,
+    "location": {
+      "country": "BR",
+      "city": "Brazil City",
+      "district": "Brazil City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 950",
+      "coordinates": {
+        "lat": -10.09674679757375,
+        "lng": -54.89354376482711
+      }
+    },
+    "specs": {
+      "netSize": 231,
+      "grossSize": 277,
+      "rooms": "2+2",
+      "bathrooms": 4,
+      "age": 15,
+      "floor": 15,
+      "totalFloors": 19,
+      "heating": "Klima",
+      "furnishing": "Unfurnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500879500501?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500703535648?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500785337846?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500624028224?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500501683174?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500275512554?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500646563914?w=800&q=80&category=house"
+    ],
+    "agent": {
+      "id": "A16",
+      "name": "Agent 76",
+      "phone": "+37 227 246 1557",
+      "email": "agent88@iwrealty.com",
+      "photo": "/images/icons/png/dubai-property-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-05-13T10:50:47.191Z",
+    "updatedAt": "2025-11-13T10:50:47.191Z",
+    "storeId": "store-004"
+  },
+  {
+    "id": "P01262",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Daire - Brazil City",
+    "slug": "kiralik-daire-brazil-city-P01262",
+    "description": "Brazil City, Brazil bölgesinde daire. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 4121242,
+    "location": {
+      "country": "BR",
+      "city": "Brazil City",
+      "district": "Brazil City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 642",
+      "coordinates": {
+        "lat": -9.82892982775297,
+        "lng": -55.131955452362675
+      }
+    },
+    "specs": {
+      "netSize": 333,
+      "grossSize": 400,
+      "rooms": "3+2",
+      "bathrooms": 4,
+      "age": 17,
+      "floor": 6,
+      "totalFloors": 16,
+      "heating": "Klima",
+      "furnishing": "Furnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500787976032?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500358845311?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500824376313?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500250731539?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500167547243?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500396478375?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500295396061?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500689171660?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500350490400?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500398084012?w=800&q=80&category=building"
+    ],
+    "agent": {
+      "id": "A1",
+      "name": "Agent 76",
+      "phone": "+26 666 619 3621",
+      "email": "agent31@iwrealty.com",
+      "photo": "/images/icons/png/london-prime-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": false,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": true,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-03-25T10:50:47.191Z",
+    "updatedAt": "2025-11-13T10:50:47.191Z",
+    "storeId": "store-007"
+  },
+  {
+    "id": "P01263",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Daire - New Brazil",
+    "slug": "satilik-daire-new-brazil-P01263",
+    "description": "New Brazil, Brazil bölgesinde daire. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 8781021,
+    "location": {
+      "country": "BR",
+      "city": "New Brazil",
+      "district": "New Brazil Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 998",
+      "coordinates": {
+        "lat": -9.596483389759362,
+        "lng": -54.96445361473446
+      }
+    },
+    "specs": {
+      "netSize": 447,
+      "grossSize": 536,
+      "rooms": "1+2",
+      "bathrooms": 4,
+      "age": 0,
+      "floor": 10,
+      "totalFloors": 17,
+      "heating": "Merkezi",
+      "furnishing": "Unfurnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500309043750?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500365508521?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500243223135?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500677749653?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500110036765?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500673754838?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500131593493?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500413105003?w=800&q=80&category=interior"
+    ],
+    "agent": {
+      "id": "A3",
+      "name": "Agent 21",
+      "phone": "+57 909 205 9586",
+      "email": "agent81@iwrealty.com",
+      "photo": "/images/icons/png/ny-skyline-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": false,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": true,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-08-01T10:50:47.191Z",
+    "updatedAt": "2025-11-13T10:50:47.191Z",
+    "storeId": "store-008"
+  },
+  {
+    "id": "P01264",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Residence - Brasília",
+    "slug": "kiralik-residence-brasília-P01264",
+    "description": "Brasília, Brazil bölgesinde residence. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 1613788,
+    "location": {
+      "country": "BR",
+      "city": "Brasília",
+      "district": "Brasília Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 606",
+      "coordinates": {
+        "lat": -9.53369891164595,
+        "lng": -55.29726551006586
+      }
+    },
+    "specs": {
+      "netSize": 472,
+      "grossSize": 566,
+      "rooms": "3+2",
+      "bathrooms": 1,
+      "age": 13,
+      "floor": 3,
+      "totalFloors": 9,
+      "heating": "Klima",
+      "furnishing": "Furnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500295203201?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500009116857?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500732463091?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500441930524?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500153827439?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500957879739?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500544860305?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500596872514?w=800&q=80&category=interior"
+    ],
+    "agent": {
+      "id": "A63",
+      "name": "Agent 30",
+      "phone": "+15 906 208 9324",
+      "email": "agent98@iwrealty.com",
+      "photo": "/images/icons/png/luxury-homes-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-04-30T10:50:47.191Z",
+    "updatedAt": "2025-11-13T10:50:47.191Z",
+    "storeId": "store-002"
+  },
+  {
+    "id": "P01265",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Müstakil Ev - Brazil Central",
+    "slug": "satilik-müstakil-ev-brazil-central-P01265",
+    "description": "Brazil Central, Brazil bölgesinde müstakil ev. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 12920358,
+    "location": {
+      "country": "BR",
+      "city": "Brazil Central",
+      "district": "Brazil Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 613",
+      "coordinates": {
+        "lat": -9.771802441095137,
+        "lng": -55.26272508795167
+      }
+    },
+    "specs": {
+      "netSize": 394,
+      "grossSize": 473,
+      "rooms": "1+1",
+      "bathrooms": 4,
+      "age": 12,
+      "floor": 13,
+      "totalFloors": 16,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500072724235?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500656723086?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500720494872?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500435525791?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500419596716?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500958028065?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500669430646?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500079761582?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500911169974?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500019288862?w=800&q=80&category=house"
+    ],
+    "agent": {
+      "id": "A79",
+      "name": "Agent 58",
+      "phone": "+95 317 321 5130",
+      "email": "agent40@iwrealty.com",
+      "photo": "/images/icons/png/london-prime-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-02-09T10:50:47.191Z",
+    "updatedAt": "2025-11-13T10:50:47.191Z",
+    "storeId": "store-007"
+  },
+  {
+    "id": "P01266",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Villa - Brazil City",
+    "slug": "kiralik-villa-brazil-city-P01266",
+    "description": "Brazil City, Brazil bölgesinde villa. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 4993655,
+    "location": {
+      "country": "BR",
+      "city": "Brazil City",
+      "district": "Brazil City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 751",
+      "coordinates": {
+        "lat": -10.214012064734522,
+        "lng": -54.9458766672486
+      }
+    },
+    "specs": {
+      "netSize": 357,
+      "grossSize": 428,
+      "rooms": "5+1",
+      "bathrooms": 3,
+      "age": 14,
+      "floor": 10,
+      "totalFloors": 17,
+      "heating": "Kombi",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500251130720?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500881674388?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500456994826?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500172170156?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500515810914?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500938128506?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500395915576?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500154964503?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500789898931?w=800&q=80&category=real-estate"
+    ],
+    "agent": {
+      "id": "A82",
+      "name": "Agent 29",
+      "phone": "+36 250 599 5505",
+      "email": "agent4@iwrealty.com",
+      "photo": "/images/icons/png/sg-harbour-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-06-04T10:50:47.191Z",
+    "updatedAt": "2025-11-13T10:50:47.191Z",
+    "storeId": "store-011"
+  },
+  {
+    "id": "P01267",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Residence - Brasília",
+    "slug": "satilik-residence-brasília-P01267",
+    "description": "Brasília, Brazil bölgesinde residence. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 6542613,
+    "location": {
+      "country": "BR",
+      "city": "Brasília",
+      "district": "Brasília Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 305",
+      "coordinates": {
+        "lat": -10.267047440144612,
+        "lng": -54.92803975297702
+      }
+    },
+    "specs": {
+      "netSize": 454,
+      "grossSize": 545,
+      "rooms": "3+0",
+      "bathrooms": 1,
+      "age": 13,
+      "floor": 15,
+      "totalFloors": 18,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500151031004?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500887328120?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500277917460?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500987536235?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500758874670?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500802065093?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500735083286?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500447582620?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500471245627?w=800&q=80&category=house"
+    ],
+    "agent": {
+      "id": "A37",
+      "name": "Agent 69",
+      "phone": "+32 212 278 5041",
+      "email": "agent35@iwrealty.com",
+      "photo": "/images/icons/png/berlin-urban-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": false,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-03-21T10:50:47.191Z",
+    "updatedAt": "2025-11-13T10:50:47.191Z",
+    "storeId": "store-009"
+  },
+  {
+    "id": "P01268",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Müstakil Ev - Brazil Central",
+    "slug": "kiralik-müstakil-ev-brazil-central-P01268",
+    "description": "Brazil Central, Brazil bölgesinde müstakil ev. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 9201354,
+    "location": {
+      "country": "BR",
+      "city": "Brazil Central",
+      "district": "Brazil Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 902",
+      "coordinates": {
+        "lat": -9.613999018004478,
+        "lng": -54.79785921852009
+      }
+    },
+    "specs": {
+      "netSize": 329,
+      "grossSize": 395,
+      "rooms": "5+0",
+      "bathrooms": 2,
+      "age": 3,
+      "floor": 1,
+      "totalFloors": 16,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Furnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500724857655?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500147300398?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500535365273?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500950904870?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500440705003?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500546454210?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500611128998?w=800&q=80&category=house"
+    ],
+    "agent": {
+      "id": "A57",
+      "name": "Agent 99",
+      "phone": "+45 476 297 8592",
+      "email": "agent78@iwrealty.com",
+      "photo": "/images/icons/png/sydney-coastal-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": false,
+      "hasBalcony": false,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-04-10T10:50:47.191Z",
+    "updatedAt": "2025-11-13T10:50:47.191Z",
+    "storeId": "store-012"
+  },
+  {
+    "id": "P01269",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Daire - New Brazil",
+    "slug": "satilik-daire-new-brazil-P01269",
+    "description": "New Brazil, Brazil bölgesinde daire. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 6417377,
+    "location": {
+      "country": "BR",
+      "city": "New Brazil",
+      "district": "New Brazil Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 372",
+      "coordinates": {
+        "lat": -10.32060128634193,
+        "lng": -55.228112301819856
+      }
+    },
+    "specs": {
+      "netSize": 174,
+      "grossSize": 209,
+      "rooms": "4+1",
+      "bathrooms": 2,
+      "age": 2,
+      "floor": 2,
+      "totalFloors": 9,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Furnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500057265965?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500090924286?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500092297417?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500931843139?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500781097766?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500195881463?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500619870045?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500466077986?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500058566052?w=800&q=80&category=house"
+    ],
+    "agent": {
+      "id": "A2",
+      "name": "Agent 19",
+      "phone": "+92 121 459 1177",
+      "email": "agent70@iwrealty.com",
+      "photo": "/images/icons/png/dubai-property-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": true,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-11-05T10:50:47.191Z",
+    "updatedAt": "2025-11-13T10:50:47.191Z",
+    "storeId": "store-004"
+  },
+  {
+    "id": "P01270",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Residence - Brasília",
+    "slug": "kiralik-residence-brasília-P01270",
+    "description": "Brasília, Brazil bölgesinde residence. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 3276368,
+    "location": {
+      "country": "BR",
+      "city": "Brasília",
+      "district": "Brasília Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 832",
+      "coordinates": {
+        "lat": -9.61868477675803,
+        "lng": -55.356739880957406
+      }
+    },
+    "specs": {
+      "netSize": 182,
+      "grossSize": 218,
+      "rooms": "1+0",
+      "bathrooms": 3,
+      "age": 13,
+      "floor": 10,
+      "totalFloors": 18,
+      "heating": "Merkezi",
+      "furnishing": "Unfurnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500076115070?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500095550253?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500463665948?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500291745100?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500689883251?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500696743166?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500531922068?w=800&q=80&category=building"
+    ],
+    "agent": {
+      "id": "A90",
+      "name": "Agent 43",
+      "phone": "+64 287 823 2493",
+      "email": "agent25@iwrealty.com",
+      "photo": "/images/icons/png/luxury-homes-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": true,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-07-07T10:50:47.191Z",
+    "updatedAt": "2025-11-13T10:50:47.191Z",
+    "storeId": "store-002"
+  },
+  {
+    "id": "P01271",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Villa - New Brazil",
+    "slug": "satilik-villa-new-brazil-P01271",
+    "description": "New Brazil, Brazil bölgesinde villa. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 9607693,
+    "location": {
+      "country": "BR",
+      "city": "New Brazil",
+      "district": "New Brazil Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 942",
+      "coordinates": {
+        "lat": -10.080345466549437,
+        "lng": -55.07556990717476
+      }
+    },
+    "specs": {
+      "netSize": 362,
+      "grossSize": 434,
+      "rooms": "4+1",
+      "bathrooms": 2,
+      "age": 1,
+      "floor": 5,
+      "totalFloors": 13,
+      "heating": "Klima",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500972134705?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500821619345?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500377835860?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500363029875?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500231383680?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500955844318?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500981385864?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500608767871?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500878020660?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500022203668?w=800&q=80&category=architecture"
+    ],
+    "agent": {
+      "id": "A60",
+      "name": "Agent 51",
+      "phone": "+19 320 863 3601",
+      "email": "agent53@iwrealty.com",
+      "photo": "/images/icons/png/london-prime-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": false,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2024-12-21T10:50:47.191Z",
+    "updatedAt": "2025-11-13T10:50:47.191Z",
+    "storeId": "store-007"
+  },
+  {
+    "id": "P01272",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Villa - New Brazil",
+    "slug": "kiralik-villa-new-brazil-P01272",
+    "description": "New Brazil, Brazil bölgesinde villa. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 12038198,
+    "location": {
+      "country": "BR",
+      "city": "New Brazil",
+      "district": "New Brazil Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 704",
+      "coordinates": {
+        "lat": -9.815814319970315,
+        "lng": -55.144785414760676
+      }
+    },
+    "specs": {
+      "netSize": 127,
+      "grossSize": 152,
+      "rooms": "5+0",
+      "bathrooms": 4,
+      "age": 20,
+      "floor": 15,
+      "totalFloors": 18,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Unfurnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500546621082?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500987927890?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500329025079?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500804556211?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500784271471?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500168954102?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500076514080?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500214895227?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500340319272?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500086613414?w=800&q=80&category=architecture"
+    ],
+    "agent": {
+      "id": "A73",
+      "name": "Agent 67",
+      "phone": "+17 909 192 2593",
+      "email": "agent52@iwrealty.com",
+      "photo": "/images/icons/png/izmir-sahil-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": false,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2024-12-11T10:50:47.191Z",
+    "updatedAt": "2025-11-13T10:50:47.191Z",
+    "storeId": "store-005"
+  },
+  {
+    "id": "P01273",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Residence - New Brazil",
+    "slug": "satilik-residence-new-brazil-P01273",
+    "description": "New Brazil, Brazil bölgesinde residence. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 5318341,
+    "location": {
+      "country": "BR",
+      "city": "New Brazil",
+      "district": "New Brazil Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 718",
+      "coordinates": {
+        "lat": -9.529228155834568,
+        "lng": -54.79399328450808
+      }
+    },
+    "specs": {
+      "netSize": 436,
+      "grossSize": 523,
+      "rooms": "1+0",
+      "bathrooms": 3,
+      "age": 12,
+      "floor": 10,
+      "totalFloors": 15,
+      "heating": "Merkezi",
+      "furnishing": "Unfurnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500343590959?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500167727204?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500495556933?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500390485331?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500161010583?w=800&q=80&category=architecture"
+    ],
+    "agent": {
+      "id": "A57",
+      "name": "Agent 19",
+      "phone": "+10 736 783 6048",
+      "email": "agent54@iwrealty.com",
+      "photo": "/images/icons/png/sg-harbour-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-04-25T10:50:47.191Z",
+    "updatedAt": "2025-11-13T10:50:47.191Z",
+    "storeId": "store-011"
+  },
+  {
+    "id": "P01274",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Villa - Brazil City",
+    "slug": "kiralik-villa-brazil-city-P01274",
+    "description": "Brazil City, Brazil bölgesinde villa. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 9349727,
+    "location": {
+      "country": "BR",
+      "city": "Brazil City",
+      "district": "Brazil City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 791",
+      "coordinates": {
+        "lat": -9.698664733033704,
+        "lng": -54.941431163739715
+      }
+    },
+    "specs": {
+      "netSize": 188,
+      "grossSize": 226,
+      "rooms": "4+2",
+      "bathrooms": 3,
+      "age": 3,
+      "floor": 10,
+      "totalFloors": 15,
+      "heating": "Merkezi",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500672694313?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500312047453?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500669626937?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500377667186?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500848128309?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500521284761?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500917280178?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500815483362?w=800&q=80&category=house"
+    ],
+    "agent": {
+      "id": "A15",
+      "name": "Agent 32",
+      "phone": "+39 291 540 4398",
+      "email": "agent73@iwrealty.com",
+      "photo": "/images/icons/png/dubai-property-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": false,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2024-11-27T10:50:47.191Z",
+    "updatedAt": "2025-11-13T10:50:47.191Z",
+    "storeId": "store-004"
+  },
+  {
+    "id": "P01275",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Villa - New Brazil",
+    "slug": "satilik-villa-new-brazil-P01275",
+    "description": "New Brazil, Brazil bölgesinde villa. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 8173910,
+    "location": {
+      "country": "BR",
+      "city": "New Brazil",
+      "district": "New Brazil Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 659",
+      "coordinates": {
+        "lat": -10.091987254084891,
+        "lng": -55.17322276120271
+      }
+    },
+    "specs": {
+      "netSize": 111,
+      "grossSize": 133,
+      "rooms": "1+0",
+      "bathrooms": 4,
+      "age": 14,
+      "floor": 2,
+      "totalFloors": 16,
+      "heating": "Kombi",
+      "furnishing": "Unfurnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500705945602?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500697210231?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500214951537?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500408828759?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500171760699?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500498854931?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500502810346?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500389790035?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500843454609?w=800&q=80&category=house"
+    ],
+    "agent": {
+      "id": "A26",
+      "name": "Agent 77",
+      "phone": "+15 286 680 2548",
+      "email": "agent82@iwrealty.com",
+      "photo": "/images/icons/png/dubai-property-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-08-18T10:50:47.191Z",
+    "updatedAt": "2025-11-13T10:50:47.191Z",
+    "storeId": "store-004"
+  },
+  {
+    "id": "P01276",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Residence - Brazil Central",
+    "slug": "kiralik-residence-brazil-central-P01276",
+    "description": "Brazil Central, Brazil bölgesinde residence. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 4928486,
+    "location": {
+      "country": "BR",
+      "city": "Brazil Central",
+      "district": "Brazil Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 397",
+      "coordinates": {
+        "lat": -9.622964654765427,
+        "lng": -55.46022070077947
+      }
+    },
+    "specs": {
+      "netSize": 119,
+      "grossSize": 143,
+      "rooms": "4+1",
+      "bathrooms": 4,
+      "age": 8,
+      "floor": 6,
+      "totalFloors": 20,
+      "heating": "Kombi",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500739340758?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500394191619?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500135718433?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500696881816?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500435171597?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500521255525?w=800&q=80&category=building"
+    ],
+    "agent": {
+      "id": "A52",
+      "name": "Agent 83",
+      "phone": "+11 675 615 8970",
+      "email": "agent65@iwrealty.com",
+      "photo": "/images/icons/png/paris-heritage-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-02-23T10:50:47.191Z",
+    "updatedAt": "2025-11-13T10:50:47.191Z",
+    "storeId": "store-010"
+  },
+  {
+    "id": "P01277",
+    "type": "sale",
+    "category": {
+      "main": "commercial",
+      "sub": "hospital"
+    },
+    "title": "Satılık Hastane - New Brazil",
+    "slug": "satilik-hastane-new-brazil-P01277",
+    "description": "New Brazil, Brazil bölgesinde hastane. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 39123751,
+    "location": {
+      "country": "BR",
+      "city": "New Brazil",
+      "district": "New Brazil Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 834",
+      "coordinates": {
+        "lat": -9.801580821236547,
+        "lng": -54.77948923432945
+      }
+    },
+    "specs": {
+      "netSize": 8030,
+      "grossSize": 9636,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 13,
+      "floor": 3,
+      "totalFloors": 11,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500844540392?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500686704303?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500639659316?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500944585740?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500164496410?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500658799967?w=800&q=80&category=interior"
+    ],
+    "agent": {
+      "id": "A93",
+      "name": "Agent 70",
+      "phone": "+86 267 669 5916",
+      "email": "agent68@iwrealty.com",
+      "photo": "/images/icons/png/ankara-modern-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": true,
+      "hasPool": true,
+      "hasSecurity": true
+    },
+    "createdAt": "2024-11-19T10:50:47.191Z",
+    "updatedAt": "2025-11-13T10:50:47.191Z",
+    "storeId": "store-003"
+  },
+  {
+    "id": "P01278",
+    "type": "rent",
+    "category": {
+      "main": "commercial",
+      "sub": "hospital"
+    },
+    "title": "Kiralık Hastane - Brasília",
+    "slug": "kiralik-hastane-brasília-P01278",
+    "description": "Brasília, Brazil bölgesinde hastane. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 70746287,
+    "location": {
+      "country": "BR",
+      "city": "Brasília",
+      "district": "Brasília Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 314",
+      "coordinates": {
+        "lat": -10.322111943321172,
+        "lng": -55.00060582162678
+      }
+    },
+    "specs": {
+      "netSize": 14209,
+      "grossSize": 17051,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 19,
+      "floor": 15,
+      "totalFloors": 14,
+      "heating": "Merkezi",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500730085485?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500504291131?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500994474743?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500250757888?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500365635473?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500786428854?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500798258944?w=800&q=80&category=building"
+    ],
+    "agent": {
+      "id": "A53",
+      "name": "Agent 80",
+      "phone": "+59 285 553 8077",
+      "email": "agent90@iwrealty.com",
+      "photo": "/images/icons/png/sg-harbour-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-07-21T10:50:47.191Z",
+    "updatedAt": "2025-11-13T10:50:47.191Z",
+    "storeId": "store-011"
+  },
+  {
+    "id": "P01279",
+    "type": "sale",
+    "category": {
+      "main": "commercial",
+      "sub": "clinic"
+    },
+    "title": "Satılık Klinik - Brazil Central",
+    "slug": "satilik-klinik-brazil-central-P01279",
+    "description": "Brazil Central, Brazil bölgesinde klinik. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 12895897,
+    "location": {
+      "country": "BR",
+      "city": "Brazil Central",
+      "district": "Brazil Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 943",
+      "coordinates": {
+        "lat": -10.018947328009675,
+        "lng": -55.39518907162827
+      }
+    },
+    "specs": {
+      "netSize": 1404,
+      "grossSize": 1685,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 15,
+      "floor": 12,
+      "totalFloors": 18,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Furnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500828929863?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500925398718?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500679989911?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500315569881?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500425743977?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500534178231?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500641271865?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500175950317?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500609598731?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500756112735?w=800&q=80&category=architecture"
+    ],
+    "agent": {
+      "id": "A88",
+      "name": "Agent 49",
+      "phone": "+33 722 549 6203",
+      "email": "agent42@iwrealty.com",
+      "photo": "/images/icons/png/paris-heritage-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-05-19T10:50:47.191Z",
+    "updatedAt": "2025-11-13T10:50:47.191Z",
+    "storeId": "store-010"
+  },
+  {
+    "id": "P01280",
+    "type": "rent",
+    "category": {
+      "main": "commercial",
+      "sub": "clinic"
+    },
+    "title": "Kiralık Klinik - Brazil Central",
+    "slug": "kiralik-klinik-brazil-central-P01280",
+    "description": "Brazil Central, Brazil bölgesinde klinik. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 5922599,
+    "location": {
+      "country": "BR",
+      "city": "Brazil Central",
+      "district": "Brazil Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 770",
+      "coordinates": {
+        "lat": -9.556666262971456,
+        "lng": -55.023243947352384
+      }
+    },
+    "specs": {
+      "netSize": 483,
+      "grossSize": 580,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 18,
+      "floor": 4,
+      "totalFloors": 17,
+      "heating": "Kombi",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500906944296?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500831784083?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500464544283?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500979084671?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500606145868?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500950982282?w=800&q=80&category=real-estate"
+    ],
+    "agent": {
+      "id": "A49",
+      "name": "Agent 44",
+      "phone": "+29 678 793 5829",
+      "email": "agent50@iwrealty.com",
+      "photo": "/images/icons/png/dubai-property-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-05-26T10:50:47.191Z",
+    "updatedAt": "2025-11-13T10:50:47.191Z",
+    "storeId": "store-004"
+  },
+  {
+    "id": "P01281",
+    "type": "sale",
+    "category": {
+      "main": "commercial",
+      "sub": "shop"
+    },
+    "title": "Satılık Dükkan - Brasília",
+    "slug": "satilik-dükkan-brasília-P01281",
+    "description": "Brasília, Brazil bölgesinde dükkan. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 4100859,
+    "location": {
+      "country": "BR",
+      "city": "Brasília",
+      "district": "Brasília Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 324",
+      "coordinates": {
+        "lat": -10.093234850974229,
+        "lng": -55.368584488106116
+      }
+    },
+    "specs": {
+      "netSize": 274,
+      "grossSize": 329,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 14,
+      "floor": 3,
+      "totalFloors": 20,
+      "heating": "Klima",
+      "furnishing": "Unfurnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500700366309?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500600959250?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500853255710?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500033161596?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500276641127?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500498289133?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500197616354?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500864815723?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500326403467?w=800&q=80&category=real-estate"
+    ],
+    "agent": {
+      "id": "A74",
+      "name": "Agent 56",
+      "phone": "+98 739 263 7833",
+      "email": "agent84@iwrealty.com",
+      "photo": "/images/icons/png/london-prime-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-08-21T10:50:47.191Z",
+    "updatedAt": "2025-11-13T10:50:47.191Z",
+    "storeId": "store-007"
+  },
+  {
+    "id": "P01282",
+    "type": "rent",
+    "category": {
+      "main": "commercial",
+      "sub": "shop"
+    },
+    "title": "Kiralık Dükkan - Brasília",
+    "slug": "kiralik-dükkan-brasília-P01282",
+    "description": "Brasília, Brazil bölgesinde dükkan. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 1394349,
+    "location": {
+      "country": "BR",
+      "city": "Brasília",
+      "district": "Brasília Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 330",
+      "coordinates": {
+        "lat": -10.106612130786553,
+        "lng": -55.179151308039025
+      }
+    },
+    "specs": {
+      "netSize": 419,
+      "grossSize": 503,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 13,
+      "floor": 10,
+      "totalFloors": 7,
+      "heating": "Kombi",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500832613732?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500902248734?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500858622147?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500801821951?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500136754102?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500263534941?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500359413960?w=800&q=80&category=house"
+    ],
+    "agent": {
+      "id": "A75",
+      "name": "Agent 52",
+      "phone": "+78 999 356 4218",
+      "email": "agent30@iwrealty.com",
+      "photo": "/images/icons/png/sydney-coastal-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": false,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-07-21T10:50:47.191Z",
+    "updatedAt": "2025-11-13T10:50:47.191Z",
+    "storeId": "store-012"
+  },
+  {
+    "id": "P01283",
+    "type": "sale",
+    "category": {
+      "main": "commercial",
+      "sub": "office"
+    },
+    "title": "Satılık Ofis - New Brazil",
+    "slug": "satilik-ofis-new-brazil-P01283",
+    "description": "New Brazil, Brazil bölgesinde ofis. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 6769744,
+    "location": {
+      "country": "BR",
+      "city": "New Brazil",
+      "district": "New Brazil Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 909",
+      "coordinates": {
+        "lat": -9.6795633708206,
+        "lng": -55.13277167428367
+      }
+    },
+    "specs": {
+      "netSize": 960,
+      "grossSize": 1152,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 11,
+      "floor": 7,
+      "totalFloors": 19,
+      "heating": "Klima",
+      "furnishing": "Furnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500294331496?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500944379354?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500269638009?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500231788190?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500090861531?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500832792455?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500804701837?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500001527239?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500221234412?w=800&q=80&category=building"
+    ],
+    "agent": {
+      "id": "A18",
+      "name": "Agent 12",
+      "phone": "+72 807 475 6443",
+      "email": "agent39@iwrealty.com",
+      "photo": "/images/icons/png/london-prime-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-02-28T10:50:47.191Z",
+    "updatedAt": "2025-11-13T10:50:47.191Z",
+    "storeId": "store-007"
+  },
+  {
+    "id": "P01284",
+    "type": "rent",
+    "category": {
+      "main": "commercial",
+      "sub": "office"
+    },
+    "title": "Kiralık Ofis - Brazil City",
+    "slug": "kiralik-ofis-brazil-city-P01284",
+    "description": "Brazil City, Brazil bölgesinde ofis. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 10155041,
+    "location": {
+      "country": "BR",
+      "city": "Brazil City",
+      "district": "Brazil City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 756",
+      "coordinates": {
+        "lat": -9.731735808217227,
+        "lng": -55.42136078085782
+      }
+    },
+    "specs": {
+      "netSize": 345,
+      "grossSize": 414,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 2,
+      "floor": 15,
+      "totalFloors": 8,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500520186502?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500350043489?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500992002523?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500499709080?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500384402794?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500391265948?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500860540916?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500311772037?w=800&q=80&category=architecture"
+    ],
+    "agent": {
+      "id": "A55",
+      "name": "Agent 8",
+      "phone": "+49 863 339 2845",
+      "email": "agent25@iwrealty.com",
+      "photo": "/images/icons/png/antalya-investment-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": false,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-06-08T10:50:47.191Z",
+    "updatedAt": "2025-11-13T10:50:47.191Z",
+    "storeId": "store-006"
+  },
+  {
+    "id": "P01285",
+    "type": "sale",
+    "category": {
+      "main": "commercial",
+      "sub": "mall"
+    },
+    "title": "Satılık AVM - Brazil Central",
+    "slug": "satilik-avm-brazil-central-P01285",
+    "description": "Brazil Central, Brazil bölgesinde avm. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 394824763,
+    "location": {
+      "country": "BR",
+      "city": "Brazil Central",
+      "district": "Brazil Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 647",
+      "coordinates": {
+        "lat": -10.065783874111283,
+        "lng": -55.302762370381984
+      }
+    },
+    "specs": {
+      "netSize": 25573,
+      "grossSize": 30688,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 19,
+      "floor": 10,
+      "totalFloors": 15,
+      "heating": "Merkezi",
+      "furnishing": "Furnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500402664569?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500674378334?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500453635275?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500758154834?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500700430314?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500172690298?w=800&q=80&category=interior"
+    ],
+    "agent": {
+      "id": "A66",
+      "name": "Agent 17",
+      "phone": "+90 215 870 9520",
+      "email": "agent27@iwrealty.com",
+      "photo": "/images/icons/png/ny-skyline-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-10-31T10:50:47.191Z",
+    "updatedAt": "2025-11-13T10:50:47.191Z",
+    "storeId": "store-008"
+  },
+  {
+    "id": "P01286",
+    "type": "rent",
+    "category": {
+      "main": "commercial",
+      "sub": "mall"
+    },
+    "title": "Kiralık AVM - Brasília",
+    "slug": "kiralik-avm-brasília-P01286",
+    "description": "Brasília, Brazil bölgesinde avm. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 398573445,
+    "location": {
+      "country": "BR",
+      "city": "Brasília",
+      "district": "Brasília Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 375",
+      "coordinates": {
+        "lat": -10.172756598522923,
+        "lng": -55.23448859521357
+      }
+    },
+    "specs": {
+      "netSize": 6425,
+      "grossSize": 7710,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 16,
+      "floor": 4,
+      "totalFloors": 20,
+      "heating": "Kombi",
+      "furnishing": "Furnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500753131002?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500718277783?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500193508243?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500167806144?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500609412624?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500426858937?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500288298018?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500768333976?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500706707317?w=800&q=80&category=building"
+    ],
+    "agent": {
+      "id": "A41",
+      "name": "Agent 83",
+      "phone": "+41 699 605 7677",
+      "email": "agent7@iwrealty.com",
+      "photo": "/images/icons/png/london-prime-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": true,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-06-12T10:50:47.191Z",
+    "updatedAt": "2025-11-13T10:50:47.191Z",
+    "storeId": "store-007"
+  },
+  {
+    "id": "P01287",
+    "type": "sale",
+    "category": {
+      "main": "commercial",
+      "sub": "hotel"
+    },
+    "title": "Satılık Otel - Brazil Central",
+    "slug": "satilik-otel-brazil-central-P01287",
+    "description": "Brazil Central, Brazil bölgesinde otel. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 33594411,
+    "location": {
+      "country": "BR",
+      "city": "Brazil Central",
+      "district": "Brazil Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 545",
+      "coordinates": {
+        "lat": -10.178634243766679,
+        "lng": -54.541370780809736
+      }
+    },
+    "specs": {
+      "netSize": 5910,
+      "grossSize": 7092,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 15,
+      "floor": 5,
+      "totalFloors": 7,
+      "heating": "Kombi",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500778935171?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500245710137?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500911657586?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500686614890?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500809413381?w=800&q=80&category=architecture"
+    ],
+    "agent": {
+      "id": "A51",
+      "name": "Agent 70",
+      "phone": "+96 147 282 3757",
+      "email": "agent73@iwrealty.com",
+      "photo": "/images/icons/png/sydney-coastal-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": true,
+      "hasPool": true,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-07-30T10:50:47.191Z",
+    "updatedAt": "2025-11-13T10:50:47.191Z",
+    "storeId": "store-012"
+  },
+  {
+    "id": "P01288",
+    "type": "rent",
+    "category": {
+      "main": "commercial",
+      "sub": "hotel"
+    },
+    "title": "Kiralık Otel - New Brazil",
+    "slug": "kiralik-otel-new-brazil-P01288",
+    "description": "New Brazil, Brazil bölgesinde otel. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 30187389,
+    "location": {
+      "country": "BR",
+      "city": "New Brazil",
+      "district": "New Brazil Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 798",
+      "coordinates": {
+        "lat": -10.329413889280312,
+        "lng": -54.8506031431691
+      }
+    },
+    "specs": {
+      "netSize": 7066,
+      "grossSize": 8479,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 18,
+      "floor": 14,
+      "totalFloors": 7,
+      "heating": "Kombi",
+      "furnishing": "Unfurnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500894979419?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500567539491?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500435677704?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500619263694?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500542304328?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500129815941?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500891241491?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500053445194?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500055378358?w=800&q=80&category=architecture"
+    ],
+    "agent": {
+      "id": "A45",
+      "name": "Agent 83",
+      "phone": "+17 246 571 7019",
+      "email": "agent78@iwrealty.com",
+      "photo": "/images/icons/png/london-prime-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-07-19T10:50:47.191Z",
+    "updatedAt": "2025-11-13T10:50:47.191Z",
+    "storeId": "store-007"
+  },
+  {
+    "id": "P01289",
+    "type": "sale",
+    "category": {
+      "main": "commercial",
+      "sub": "restaurant"
+    },
+    "title": "Satılık Restoran - New Brazil",
+    "slug": "satilik-restoran-new-brazil-P01289",
+    "description": "New Brazil, Brazil bölgesinde restoran. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 2705798,
+    "location": {
+      "country": "BR",
+      "city": "New Brazil",
+      "district": "New Brazil Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 597",
+      "coordinates": {
+        "lat": -10.243376186363427,
+        "lng": -55.012647405617884
+      }
+    },
+    "specs": {
+      "netSize": 1344,
+      "grossSize": 1613,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 2,
+      "floor": 13,
+      "totalFloors": 14,
+      "heating": "Klima",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500331819752?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500562209747?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500527109766?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500253847170?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500468373876?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500479058248?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500314023707?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500402913614?w=800&q=80&category=real-estate"
+    ],
+    "agent": {
+      "id": "A71",
+      "name": "Agent 44",
+      "phone": "+74 890 792 9567",
+      "email": "agent23@iwrealty.com",
+      "photo": "/images/icons/png/luxury-homes-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": false,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": true,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-09-25T10:50:47.191Z",
+    "updatedAt": "2025-11-13T10:50:47.191Z",
+    "storeId": "store-002"
+  },
+  {
+    "id": "P01290",
+    "type": "rent",
+    "category": {
+      "main": "commercial",
+      "sub": "restaurant"
+    },
+    "title": "Kiralık Restoran - Brazil City",
+    "slug": "kiralik-restoran-brazil-city-P01290",
+    "description": "Brazil City, Brazil bölgesinde restoran. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 5136151,
+    "location": {
+      "country": "BR",
+      "city": "Brazil City",
+      "district": "Brazil City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 945",
+      "coordinates": {
+        "lat": -9.620618870868721,
+        "lng": -55.054263045738004
+      }
+    },
+    "specs": {
+      "netSize": 189,
+      "grossSize": 227,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 2,
+      "floor": 3,
+      "totalFloors": 5,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Furnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500577502984?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500884707869?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500946731715?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500985990144?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500353305487?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500013751063?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500912165022?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500071478607?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500361760783?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500785271169?w=800&q=80&category=architecture"
+    ],
+    "agent": {
+      "id": "A3",
+      "name": "Agent 44",
+      "phone": "+69 578 173 8835",
+      "email": "agent21@iwrealty.com",
+      "photo": "/images/icons/png/luxury-homes-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": false,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": true,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-10-23T10:50:47.191Z",
+    "updatedAt": "2025-11-13T10:50:47.191Z",
+    "storeId": "store-002"
+  },
+  {
+    "id": "P01291",
+    "type": "sale",
+    "category": {
+      "main": "commercial",
+      "sub": "warehouse"
+    },
+    "title": "Satılık Depo - New Brazil",
+    "slug": "satilik-depo-new-brazil-P01291",
+    "description": "New Brazil, Brazil bölgesinde depo. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 7118423,
+    "location": {
+      "country": "BR",
+      "city": "New Brazil",
+      "district": "New Brazil Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 850",
+      "coordinates": {
+        "lat": -10.412057853717174,
+        "lng": -54.576431157766535
+      }
+    },
+    "specs": {
+      "netSize": 521,
+      "grossSize": 625,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 9,
+      "floor": 5,
+      "totalFloors": 13,
+      "heating": "Merkezi",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500079174895?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500166623075?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500121645162?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500224471331?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500999708082?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500997703744?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500823290792?w=800&q=80&category=real-estate"
+    ],
+    "agent": {
+      "id": "A92",
+      "name": "Agent 61",
+      "phone": "+90 969 479 3170",
+      "email": "agent32@iwrealty.com",
+      "photo": "/images/icons/png/berlin-urban-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-09-01T10:50:47.191Z",
+    "updatedAt": "2025-11-13T10:50:47.191Z",
+    "storeId": "store-009"
+  },
+  {
+    "id": "P01292",
+    "type": "rent",
+    "category": {
+      "main": "commercial",
+      "sub": "warehouse"
+    },
+    "title": "Kiralık Depo - Brazil City",
+    "slug": "kiralik-depo-brazil-city-P01292",
+    "description": "Brazil City, Brazil bölgesinde depo. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 16639000,
+    "location": {
+      "country": "BR",
+      "city": "Brazil City",
+      "district": "Brazil City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 306",
+      "coordinates": {
+        "lat": -9.82912327698564,
+        "lng": -54.81606042840466
+      }
+    },
+    "specs": {
+      "netSize": 9502,
+      "grossSize": 11402,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 1,
+      "floor": 15,
+      "totalFloors": 15,
+      "heating": "Merkezi",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500809343867?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500170136576?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500926816096?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500105121571?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500638749349?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500956327232?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500227172488?w=800&q=80&category=real-estate"
+    ],
+    "agent": {
+      "id": "A25",
+      "name": "Agent 21",
+      "phone": "+44 266 936 2597",
+      "email": "agent61@iwrealty.com",
+      "photo": "/images/icons/png/antalya-investment-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-10-14T10:50:47.191Z",
+    "updatedAt": "2025-11-13T10:50:47.191Z",
+    "storeId": "store-006"
+  }
+]

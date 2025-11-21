@@ -1,0 +1,2359 @@
+[
+  {
+    "id": "P08513",
+    "type": "sale",
+    "category": {
+      "main": "government"
+    },
+    "title": "Satılık Devlet Binası - Tonga Central",
+    "slug": "satilik-devlet-binası-tonga-central-P08513",
+    "description": "Tonga Central, Tonga bölgesinde devlet binası. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 20326355,
+    "location": {
+      "country": "TO",
+      "city": "Tonga Central",
+      "district": "Tonga Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 502",
+      "coordinates": {
+        "lat": -19.62877880988804,
+        "lng": -175.35076958194745
+      }
+    },
+    "specs": {
+      "netSize": 2815,
+      "grossSize": 3378,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 2,
+      "floor": 3,
+      "totalFloors": 10,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Furnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500135988796?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500460969535?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500426963860?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500753134047?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500030454193?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500173923694?w=800&q=80&category=interior"
+    ],
+    "agent": {
+      "id": "A72",
+      "name": "Agent 23",
+      "phone": "+32 199 133 2417",
+      "email": "agent66@iwrealty.com",
+      "photo": "/images/icons/png/ankara-modern-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": false,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2024-11-18T10:50:47.271Z",
+    "updatedAt": "2025-11-13T10:50:47.271Z",
+    "storeId": "store-003"
+  },
+  {
+    "id": "P08514",
+    "type": "rent",
+    "category": {
+      "main": "government"
+    },
+    "title": "Kiralık Belediye Binası - Tonga Central",
+    "slug": "kiralik-belediye-binası-tonga-central-P08514",
+    "description": "Tonga Central, Tonga bölgesinde belediye binası. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 13514861,
+    "location": {
+      "country": "TO",
+      "city": "Tonga Central",
+      "district": "Tonga Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 901",
+      "coordinates": {
+        "lat": -20.279392815436726,
+        "lng": -175.46259963112126
+      }
+    },
+    "specs": {
+      "netSize": 1510,
+      "grossSize": 1812,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 10,
+      "floor": 11,
+      "totalFloors": 19,
+      "heating": "Klima",
+      "furnishing": "Unfurnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500273257739?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500662083104?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500017673651?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500311701838?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500808775565?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500669050646?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500855952989?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500683631891?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500782282200?w=800&q=80&category=real-estate"
+    ],
+    "agent": {
+      "id": "A82",
+      "name": "Agent 99",
+      "phone": "+66 424 381 9676",
+      "email": "agent32@iwrealty.com",
+      "photo": "/images/icons/png/paris-heritage-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2024-12-07T10:50:47.271Z",
+    "updatedAt": "2025-11-13T10:50:47.271Z",
+    "storeId": "store-010"
+  },
+  {
+    "id": "P08515",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Daire - Tonga Central",
+    "slug": "satilik-daire-tonga-central-P08515",
+    "description": "Tonga Central, Tonga bölgesinde daire. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 13925735,
+    "location": {
+      "country": "TO",
+      "city": "Tonga Central",
+      "district": "Tonga Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 719",
+      "coordinates": {
+        "lat": -19.56611325055333,
+        "lng": -174.80204742954652
+      }
+    },
+    "specs": {
+      "netSize": 437,
+      "grossSize": 524,
+      "rooms": "3+2",
+      "bathrooms": 1,
+      "age": 16,
+      "floor": 10,
+      "totalFloors": 16,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500732881917?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500809875475?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500227996223?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500123953464?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500191240457?w=800&q=80&category=building"
+    ],
+    "agent": {
+      "id": "A32",
+      "name": "Agent 57",
+      "phone": "+25 809 472 4363",
+      "email": "agent80@iwrealty.com",
+      "photo": "/images/icons/png/ankara-modern-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-08-23T10:50:47.271Z",
+    "updatedAt": "2025-11-13T10:50:47.271Z",
+    "storeId": "store-003"
+  },
+  {
+    "id": "P08516",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Müstakil Ev - Tonga City",
+    "slug": "kiralik-müstakil-ev-tonga-city-P08516",
+    "description": "Tonga City, Tonga bölgesinde müstakil ev. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 14280858,
+    "location": {
+      "country": "TO",
+      "city": "Tonga City",
+      "district": "Tonga City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 185",
+      "coordinates": {
+        "lat": -19.66738135855889,
+        "lng": -174.73937555194755
+      }
+    },
+    "specs": {
+      "netSize": 191,
+      "grossSize": 229,
+      "rooms": "5+0",
+      "bathrooms": 1,
+      "age": 15,
+      "floor": 12,
+      "totalFloors": 17,
+      "heating": "Klima",
+      "furnishing": "Furnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500486978456?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500577036845?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500996362478?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500686415710?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500073720871?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500265459222?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500767986885?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500554778501?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500761766003?w=800&q=80&category=architecture"
+    ],
+    "agent": {
+      "id": "A70",
+      "name": "Agent 37",
+      "phone": "+40 275 635 8259",
+      "email": "agent19@iwrealty.com",
+      "photo": "/images/icons/png/ankara-modern-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-07-27T10:50:47.271Z",
+    "updatedAt": "2025-11-13T10:50:47.271Z",
+    "storeId": "store-003"
+  },
+  {
+    "id": "P08517",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Residence - Nuku'alofa",
+    "slug": "satilik-residence-nuku'alofa-P08517",
+    "description": "Nuku'alofa, Tonga bölgesinde residence. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 10518265,
+    "location": {
+      "country": "TO",
+      "city": "Nuku'alofa",
+      "district": "Nuku'alofa Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 74",
+      "coordinates": {
+        "lat": -20.147455973775326,
+        "lng": -174.70708276626942
+      }
+    },
+    "specs": {
+      "netSize": 200,
+      "grossSize": 240,
+      "rooms": "3+2",
+      "bathrooms": 3,
+      "age": 11,
+      "floor": 11,
+      "totalFloors": 8,
+      "heating": "Klima",
+      "furnishing": "Unfurnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500408734144?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500671105980?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500249557094?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500410553085?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500989660873?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500678098173?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500615684393?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500864847800?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500082967406?w=800&q=80&category=house"
+    ],
+    "agent": {
+      "id": "A54",
+      "name": "Agent 43",
+      "phone": "+20 340 699 8854",
+      "email": "agent69@iwrealty.com",
+      "photo": "/images/icons/png/sg-harbour-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-01-30T10:50:47.271Z",
+    "updatedAt": "2025-11-13T10:50:47.271Z",
+    "storeId": "store-011"
+  },
+  {
+    "id": "P08518",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Müstakil Ev - Tonga Central",
+    "slug": "kiralik-müstakil-ev-tonga-central-P08518",
+    "description": "Tonga Central, Tonga bölgesinde müstakil ev. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 10645373,
+    "location": {
+      "country": "TO",
+      "city": "Tonga Central",
+      "district": "Tonga Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 403",
+      "coordinates": {
+        "lat": -19.777100802973884,
+        "lng": -174.58204333244535
+      }
+    },
+    "specs": {
+      "netSize": 485,
+      "grossSize": 582,
+      "rooms": "1+0",
+      "bathrooms": 2,
+      "age": 14,
+      "floor": 9,
+      "totalFloors": 15,
+      "heating": "Klima",
+      "furnishing": "Furnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500675041880?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500797224944?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500054515614?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500740170086?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500647351055?w=800&q=80&category=architecture"
+    ],
+    "agent": {
+      "id": "A83",
+      "name": "Agent 13",
+      "phone": "+31 506 533 9130",
+      "email": "agent32@iwrealty.com",
+      "photo": "/images/icons/png/ny-skyline-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-01-29T10:50:47.271Z",
+    "updatedAt": "2025-11-13T10:50:47.271Z",
+    "storeId": "store-008"
+  },
+  {
+    "id": "P08519",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Müstakil Ev - Nuku'alofa",
+    "slug": "satilik-müstakil-ev-nuku'alofa-P08519",
+    "description": "Nuku'alofa, Tonga bölgesinde müstakil ev. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 9691173,
+    "location": {
+      "country": "TO",
+      "city": "Nuku'alofa",
+      "district": "Nuku'alofa Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 622",
+      "coordinates": {
+        "lat": -20.162440271414525,
+        "lng": -175.25098197131936
+      }
+    },
+    "specs": {
+      "netSize": 411,
+      "grossSize": 493,
+      "rooms": "5+2",
+      "bathrooms": 2,
+      "age": 12,
+      "floor": 1,
+      "totalFloors": 13,
+      "heating": "Merkezi",
+      "furnishing": "Unfurnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500398516981?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500492439812?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500607672406?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500949591385?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500976920142?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500243810172?w=800&q=80&category=house"
+    ],
+    "agent": {
+      "id": "A55",
+      "name": "Agent 90",
+      "phone": "+39 697 734 3524",
+      "email": "agent87@iwrealty.com",
+      "photo": "/images/icons/png/berlin-urban-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-07-14T10:50:47.271Z",
+    "updatedAt": "2025-11-13T10:50:47.271Z",
+    "storeId": "store-009"
+  },
+  {
+    "id": "P08520",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Daire - New Tonga",
+    "slug": "kiralik-daire-new-tonga-P08520",
+    "description": "New Tonga, Tonga bölgesinde daire. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 9497583,
+    "location": {
+      "country": "TO",
+      "city": "New Tonga",
+      "district": "New Tonga Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 571",
+      "coordinates": {
+        "lat": -19.87851571341203,
+        "lng": -174.5470383894861
+      }
+    },
+    "specs": {
+      "netSize": 104,
+      "grossSize": 125,
+      "rooms": "5+0",
+      "bathrooms": 3,
+      "age": 9,
+      "floor": 1,
+      "totalFloors": 12,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Furnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500147381760?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500406567875?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500993929061?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500198145974?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500280960476?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500840923535?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500577622177?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500075558993?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500608173900?w=800&q=80&category=building"
+    ],
+    "agent": {
+      "id": "A71",
+      "name": "Agent 61",
+      "phone": "+45 862 468 1622",
+      "email": "agent15@iwrealty.com",
+      "photo": "/images/icons/png/sg-harbour-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": false,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-08-27T10:50:47.271Z",
+    "updatedAt": "2025-11-13T10:50:47.271Z",
+    "storeId": "store-011"
+  },
+  {
+    "id": "P08521",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Daire - New Tonga",
+    "slug": "satilik-daire-new-tonga-P08521",
+    "description": "New Tonga, Tonga bölgesinde daire. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 6926353,
+    "location": {
+      "country": "TO",
+      "city": "New Tonga",
+      "district": "New Tonga Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 952",
+      "coordinates": {
+        "lat": -19.77387846507343,
+        "lng": -175.41537254377863
+      }
+    },
+    "specs": {
+      "netSize": 136,
+      "grossSize": 163,
+      "rooms": "5+1",
+      "bathrooms": 3,
+      "age": 16,
+      "floor": 10,
+      "totalFloors": 16,
+      "heating": "Klima",
+      "furnishing": "Unfurnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500917900464?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500375141681?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500687143725?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500498762398?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500172440441?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500676117718?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500723980384?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500076302406?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500657731731?w=800&q=80&category=interior"
+    ],
+    "agent": {
+      "id": "A100",
+      "name": "Agent 8",
+      "phone": "+78 633 383 9308",
+      "email": "agent94@iwrealty.com",
+      "photo": "/images/icons/png/dubai-property-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": true,
+      "hasSecurity": false
+    },
+    "createdAt": "2024-11-22T10:50:47.271Z",
+    "updatedAt": "2025-11-13T10:50:47.271Z",
+    "storeId": "store-004"
+  },
+  {
+    "id": "P08522",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Müstakil Ev - Tonga City",
+    "slug": "kiralik-müstakil-ev-tonga-city-P08522",
+    "description": "Tonga City, Tonga bölgesinde müstakil ev. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 14543524,
+    "location": {
+      "country": "TO",
+      "city": "Tonga City",
+      "district": "Tonga City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 638",
+      "coordinates": {
+        "lat": -19.570616333284583,
+        "lng": -175.11603047359975
+      }
+    },
+    "specs": {
+      "netSize": 226,
+      "grossSize": 271,
+      "rooms": "5+0",
+      "bathrooms": 4,
+      "age": 4,
+      "floor": 3,
+      "totalFloors": 13,
+      "heating": "Klima",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500497883500?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500535550658?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500375061743?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500060930271?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500036683617?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500774127798?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500699993593?w=800&q=80&category=real-estate"
+    ],
+    "agent": {
+      "id": "A77",
+      "name": "Agent 24",
+      "phone": "+12 785 908 5941",
+      "email": "agent19@iwrealty.com",
+      "photo": "/images/icons/png/sydney-coastal-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-11-07T10:50:47.271Z",
+    "updatedAt": "2025-11-13T10:50:47.271Z",
+    "storeId": "store-012"
+  },
+  {
+    "id": "P08523",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Residence - Nuku'alofa",
+    "slug": "satilik-residence-nuku'alofa-P08523",
+    "description": "Nuku'alofa, Tonga bölgesinde residence. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 12448095,
+    "location": {
+      "country": "TO",
+      "city": "Nuku'alofa",
+      "district": "Nuku'alofa Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 669",
+      "coordinates": {
+        "lat": -20.496031766755966,
+        "lng": -175.28369676243696
+      }
+    },
+    "specs": {
+      "netSize": 145,
+      "grossSize": 174,
+      "rooms": "3+2",
+      "bathrooms": 2,
+      "age": 3,
+      "floor": 1,
+      "totalFloors": 19,
+      "heating": "Kombi",
+      "furnishing": "Unfurnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500195540153?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500413601508?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500251694611?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500693291608?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500770213259?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500287570176?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500288338285?w=800&q=80&category=interior"
+    ],
+    "agent": {
+      "id": "A19",
+      "name": "Agent 59",
+      "phone": "+13 855 345 4810",
+      "email": "agent91@iwrealty.com",
+      "photo": "/images/icons/png/antalya-investment-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2024-12-25T10:50:47.271Z",
+    "updatedAt": "2025-11-13T10:50:47.271Z",
+    "storeId": "store-006"
+  },
+  {
+    "id": "P08524",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Residence - Nuku'alofa",
+    "slug": "kiralik-residence-nuku'alofa-P08524",
+    "description": "Nuku'alofa, Tonga bölgesinde residence. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 9300776,
+    "location": {
+      "country": "TO",
+      "city": "Nuku'alofa",
+      "district": "Nuku'alofa Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 312",
+      "coordinates": {
+        "lat": -19.525607491664296,
+        "lng": -174.730002215078
+      }
+    },
+    "specs": {
+      "netSize": 357,
+      "grossSize": 428,
+      "rooms": "5+0",
+      "bathrooms": 2,
+      "age": 4,
+      "floor": 7,
+      "totalFloors": 9,
+      "heating": "Merkezi",
+      "furnishing": "Unfurnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500309922300?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500236654146?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500744406046?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500540163112?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500460263214?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500991969915?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500561110263?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500022607455?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500545770972?w=800&q=80&category=building"
+    ],
+    "agent": {
+      "id": "A43",
+      "name": "Agent 20",
+      "phone": "+85 547 234 4510",
+      "email": "agent73@iwrealty.com",
+      "photo": "/images/icons/png/sg-harbour-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-02-25T10:50:47.271Z",
+    "updatedAt": "2025-11-13T10:50:47.271Z",
+    "storeId": "store-011"
+  },
+  {
+    "id": "P08525",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Residence - Tonga City",
+    "slug": "satilik-residence-tonga-city-P08525",
+    "description": "Tonga City, Tonga bölgesinde residence. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 5554688,
+    "location": {
+      "country": "TO",
+      "city": "Tonga City",
+      "district": "Tonga City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 292",
+      "coordinates": {
+        "lat": -19.872755466947424,
+        "lng": -175.2779407632143
+      }
+    },
+    "specs": {
+      "netSize": 283,
+      "grossSize": 340,
+      "rooms": "1+2",
+      "bathrooms": 1,
+      "age": 14,
+      "floor": 2,
+      "totalFloors": 6,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Furnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500831449392?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500700055890?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500870090868?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500833097637?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500300829953?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500639324934?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500183921670?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500234847139?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500542323034?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500744963063?w=800&q=80&category=architecture"
+    ],
+    "agent": {
+      "id": "A60",
+      "name": "Agent 60",
+      "phone": "+39 257 777 4210",
+      "email": "agent4@iwrealty.com",
+      "photo": "/images/icons/png/sg-harbour-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": false,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": true,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-02-17T10:50:47.271Z",
+    "updatedAt": "2025-11-13T10:50:47.271Z",
+    "storeId": "store-011"
+  },
+  {
+    "id": "P08526",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Residence - New Tonga",
+    "slug": "kiralik-residence-new-tonga-P08526",
+    "description": "New Tonga, Tonga bölgesinde residence. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 6701967,
+    "location": {
+      "country": "TO",
+      "city": "New Tonga",
+      "district": "New Tonga Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 217",
+      "coordinates": {
+        "lat": -20.231173036806762,
+        "lng": -174.60380047022187
+      }
+    },
+    "specs": {
+      "netSize": 149,
+      "grossSize": 179,
+      "rooms": "3+0",
+      "bathrooms": 3,
+      "age": 11,
+      "floor": 11,
+      "totalFloors": 13,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500913222917?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500661925737?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500271494742?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500840448643?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500854286507?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500337152137?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500907492877?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500511744824?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500052781094?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500042468883?w=800&q=80&category=real-estate"
+    ],
+    "agent": {
+      "id": "A53",
+      "name": "Agent 17",
+      "phone": "+58 396 877 8063",
+      "email": "agent88@iwrealty.com",
+      "photo": "/images/icons/png/dubai-property-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": true,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-06-22T10:50:47.271Z",
+    "updatedAt": "2025-11-13T10:50:47.271Z",
+    "storeId": "store-004"
+  },
+  {
+    "id": "P08527",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Daire - Tonga City",
+    "slug": "satilik-daire-tonga-city-P08527",
+    "description": "Tonga City, Tonga bölgesinde daire. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 3943262,
+    "location": {
+      "country": "TO",
+      "city": "Tonga City",
+      "district": "Tonga City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 833",
+      "coordinates": {
+        "lat": -19.57793761563176,
+        "lng": -174.79103989274648
+      }
+    },
+    "specs": {
+      "netSize": 165,
+      "grossSize": 198,
+      "rooms": "4+1",
+      "bathrooms": 3,
+      "age": 19,
+      "floor": 1,
+      "totalFloors": 10,
+      "heating": "Klima",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500401431871?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500569051631?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500373012593?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500619648763?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500274113892?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500372652437?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500556933700?w=800&q=80&category=real-estate"
+    ],
+    "agent": {
+      "id": "A44",
+      "name": "Agent 63",
+      "phone": "+28 756 407 3958",
+      "email": "agent35@iwrealty.com",
+      "photo": "/images/icons/png/dubai-property-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": false,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-01-23T10:50:47.271Z",
+    "updatedAt": "2025-11-13T10:50:47.271Z",
+    "storeId": "store-004"
+  },
+  {
+    "id": "P08528",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Müstakil Ev - Tonga Central",
+    "slug": "kiralik-müstakil-ev-tonga-central-P08528",
+    "description": "Tonga Central, Tonga bölgesinde müstakil ev. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 12386054,
+    "location": {
+      "country": "TO",
+      "city": "Tonga Central",
+      "district": "Tonga Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 953",
+      "coordinates": {
+        "lat": -20.407743247606316,
+        "lng": -175.291903689644
+      }
+    },
+    "specs": {
+      "netSize": 286,
+      "grossSize": 343,
+      "rooms": "3+1",
+      "bathrooms": 1,
+      "age": 2,
+      "floor": 14,
+      "totalFloors": 5,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Furnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500370152708?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500366593642?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500285771046?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500759649082?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500572244428?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500287959891?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500592729892?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500577945914?w=800&q=80&category=real-estate"
+    ],
+    "agent": {
+      "id": "A33",
+      "name": "Agent 16",
+      "phone": "+90 430 278 2704",
+      "email": "agent70@iwrealty.com",
+      "photo": "/images/icons/png/antalya-investment-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": false,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-03-01T10:50:47.271Z",
+    "updatedAt": "2025-11-13T10:50:47.271Z",
+    "storeId": "store-006"
+  },
+  {
+    "id": "P08529",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Residence - New Tonga",
+    "slug": "satilik-residence-new-tonga-P08529",
+    "description": "New Tonga, Tonga bölgesinde residence. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 5904865,
+    "location": {
+      "country": "TO",
+      "city": "New Tonga",
+      "district": "New Tonga Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 450",
+      "coordinates": {
+        "lat": -20.02289772016269,
+        "lng": -174.74180846048048
+      }
+    },
+    "specs": {
+      "netSize": 140,
+      "grossSize": 168,
+      "rooms": "2+2",
+      "bathrooms": 2,
+      "age": 2,
+      "floor": 1,
+      "totalFloors": 16,
+      "heating": "Merkezi",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500501784534?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500405368402?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500276103798?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500639893803?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500348474175?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500562513419?w=800&q=80&category=real-estate"
+    ],
+    "agent": {
+      "id": "A77",
+      "name": "Agent 25",
+      "phone": "+68 211 643 5583",
+      "email": "agent6@iwrealty.com",
+      "photo": "/images/icons/png/izmir-sahil-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-09-19T10:50:47.271Z",
+    "updatedAt": "2025-11-13T10:50:47.271Z",
+    "storeId": "store-005"
+  },
+  {
+    "id": "P08530",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Villa - Tonga City",
+    "slug": "kiralik-villa-tonga-city-P08530",
+    "description": "Tonga City, Tonga bölgesinde villa. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 12037810,
+    "location": {
+      "country": "TO",
+      "city": "Tonga City",
+      "district": "Tonga City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 716",
+      "coordinates": {
+        "lat": -19.541117797195497,
+        "lng": -175.04905846085242
+      }
+    },
+    "specs": {
+      "netSize": 204,
+      "grossSize": 245,
+      "rooms": "5+1",
+      "bathrooms": 2,
+      "age": 19,
+      "floor": 5,
+      "totalFloors": 16,
+      "heating": "Klima",
+      "furnishing": "Furnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500969063871?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500329196535?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500223528733?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500872377875?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500451741062?w=800&q=80&category=interior"
+    ],
+    "agent": {
+      "id": "A73",
+      "name": "Agent 64",
+      "phone": "+91 813 363 1502",
+      "email": "agent33@iwrealty.com",
+      "photo": "/images/icons/png/ny-skyline-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": false,
+      "hasBalcony": false,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-10-17T10:50:47.271Z",
+    "updatedAt": "2025-11-13T10:50:47.271Z",
+    "storeId": "store-008"
+  },
+  {
+    "id": "P08531",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Villa - Tonga Central",
+    "slug": "satilik-villa-tonga-central-P08531",
+    "description": "Tonga Central, Tonga bölgesinde villa. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 7695434,
+    "location": {
+      "country": "TO",
+      "city": "Tonga Central",
+      "district": "Tonga Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 126",
+      "coordinates": {
+        "lat": -19.86185233393468,
+        "lng": -174.55399178677385
+      }
+    },
+    "specs": {
+      "netSize": 188,
+      "grossSize": 226,
+      "rooms": "2+2",
+      "bathrooms": 4,
+      "age": 18,
+      "floor": 15,
+      "totalFloors": 15,
+      "heating": "Kombi",
+      "furnishing": "Furnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500443600697?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500426244313?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500683777330?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500543814093?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500884521683?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500575574199?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500453365113?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500725286487?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500609991216?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500735069961?w=800&q=80&category=real-estate"
+    ],
+    "agent": {
+      "id": "A9",
+      "name": "Agent 69",
+      "phone": "+76 618 400 9840",
+      "email": "agent27@iwrealty.com",
+      "photo": "/images/icons/png/luxury-homes-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-05-14T10:50:47.271Z",
+    "updatedAt": "2025-11-13T10:50:47.271Z",
+    "storeId": "store-002"
+  },
+  {
+    "id": "P08532",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Müstakil Ev - New Tonga",
+    "slug": "kiralik-müstakil-ev-new-tonga-P08532",
+    "description": "New Tonga, Tonga bölgesinde müstakil ev. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 13705609,
+    "location": {
+      "country": "TO",
+      "city": "New Tonga",
+      "district": "New Tonga Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 990",
+      "coordinates": {
+        "lat": -19.984267286965515,
+        "lng": -175.08036755877677
+      }
+    },
+    "specs": {
+      "netSize": 453,
+      "grossSize": 544,
+      "rooms": "2+2",
+      "bathrooms": 2,
+      "age": 3,
+      "floor": 5,
+      "totalFloors": 8,
+      "heating": "Klima",
+      "furnishing": "Unfurnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500810489922?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500988646643?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500621386459?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500737910703?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500266449201?w=800&q=80&category=architecture"
+    ],
+    "agent": {
+      "id": "A85",
+      "name": "Agent 64",
+      "phone": "+36 390 437 3176",
+      "email": "agent11@iwrealty.com",
+      "photo": "/images/icons/png/izmir-sahil-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": false,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-09-08T10:50:47.271Z",
+    "updatedAt": "2025-11-13T10:50:47.271Z",
+    "storeId": "store-005"
+  },
+  {
+    "id": "P08533",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Villa - Nuku'alofa",
+    "slug": "satilik-villa-nuku'alofa-P08533",
+    "description": "Nuku'alofa, Tonga bölgesinde villa. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 6915177,
+    "location": {
+      "country": "TO",
+      "city": "Nuku'alofa",
+      "district": "Nuku'alofa Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 817",
+      "coordinates": {
+        "lat": -19.964044072831005,
+        "lng": -175.04409919291425
+      }
+    },
+    "specs": {
+      "netSize": 431,
+      "grossSize": 517,
+      "rooms": "2+0",
+      "bathrooms": 4,
+      "age": 4,
+      "floor": 8,
+      "totalFloors": 12,
+      "heating": "Kombi",
+      "furnishing": "Furnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500523048099?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500633915792?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500557321794?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500268109412?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500903819558?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500107466301?w=800&q=80&category=house"
+    ],
+    "agent": {
+      "id": "A37",
+      "name": "Agent 52",
+      "phone": "+63 611 226 8210",
+      "email": "agent42@iwrealty.com",
+      "photo": "/images/icons/png/dubai-property-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": true,
+      "hasPool": true,
+      "hasSecurity": true
+    },
+    "createdAt": "2024-11-24T10:50:47.271Z",
+    "updatedAt": "2025-11-13T10:50:47.271Z",
+    "storeId": "store-004"
+  },
+  {
+    "id": "P08534",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Villa - Tonga City",
+    "slug": "kiralik-villa-tonga-city-P08534",
+    "description": "Tonga City, Tonga bölgesinde villa. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 7681203,
+    "location": {
+      "country": "TO",
+      "city": "Tonga City",
+      "district": "Tonga City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 780",
+      "coordinates": {
+        "lat": -20.30257264362688,
+        "lng": -174.62945746471746
+      }
+    },
+    "specs": {
+      "netSize": 499,
+      "grossSize": 599,
+      "rooms": "4+2",
+      "bathrooms": 3,
+      "age": 2,
+      "floor": 9,
+      "totalFloors": 15,
+      "heating": "Klima",
+      "furnishing": "Unfurnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500491884676?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500985711912?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500985456168?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500428117517?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500250966965?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500425964431?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500437820951?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500425671401?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500520476416?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500453829915?w=800&q=80&category=architecture"
+    ],
+    "agent": {
+      "id": "A55",
+      "name": "Agent 81",
+      "phone": "+39 849 439 2070",
+      "email": "agent69@iwrealty.com",
+      "photo": "/images/icons/png/paris-heritage-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-07-22T10:50:47.271Z",
+    "updatedAt": "2025-11-13T10:50:47.271Z",
+    "storeId": "store-010"
+  },
+  {
+    "id": "P08535",
+    "type": "sale",
+    "category": {
+      "main": "commercial",
+      "sub": "hospital"
+    },
+    "title": "Satılık Hastane - New Tonga",
+    "slug": "satilik-hastane-new-tonga-P08535",
+    "description": "New Tonga, Tonga bölgesinde hastane. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 45138845,
+    "location": {
+      "country": "TO",
+      "city": "New Tonga",
+      "district": "New Tonga Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 611",
+      "coordinates": {
+        "lat": -19.682745128791186,
+        "lng": -175.3271101044468
+      }
+    },
+    "specs": {
+      "netSize": 10081,
+      "grossSize": 12097,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 12,
+      "floor": 4,
+      "totalFloors": 12,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Furnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500811625728?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500611227828?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500815360496?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500362431358?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500866858215?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500388981641?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500161109467?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500029000156?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500801237188?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500164639635?w=800&q=80&category=building"
+    ],
+    "agent": {
+      "id": "A63",
+      "name": "Agent 33",
+      "phone": "+98 215 489 4706",
+      "email": "agent8@iwrealty.com",
+      "photo": "/images/icons/png/sg-harbour-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2024-12-05T10:50:47.271Z",
+    "updatedAt": "2025-11-13T10:50:47.271Z",
+    "storeId": "store-011"
+  },
+  {
+    "id": "P08536",
+    "type": "rent",
+    "category": {
+      "main": "commercial",
+      "sub": "hospital"
+    },
+    "title": "Kiralık Hastane - Tonga Central",
+    "slug": "kiralik-hastane-tonga-central-P08536",
+    "description": "Tonga Central, Tonga bölgesinde hastane. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 42700337,
+    "location": {
+      "country": "TO",
+      "city": "Tonga Central",
+      "district": "Tonga Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 187",
+      "coordinates": {
+        "lat": -20.441417149439168,
+        "lng": -175.388821981461
+      }
+    },
+    "specs": {
+      "netSize": 15667,
+      "grossSize": 18800,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 17,
+      "floor": 12,
+      "totalFloors": 10,
+      "heating": "Kombi",
+      "furnishing": "Furnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500947775912?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500378107929?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500483208701?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500311509384?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500986197529?w=800&q=80&category=interior"
+    ],
+    "agent": {
+      "id": "A41",
+      "name": "Agent 93",
+      "phone": "+77 537 840 6747",
+      "email": "agent57@iwrealty.com",
+      "photo": "/images/icons/png/ny-skyline-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": true,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-05-11T10:50:47.271Z",
+    "updatedAt": "2025-11-13T10:50:47.271Z",
+    "storeId": "store-008"
+  },
+  {
+    "id": "P08537",
+    "type": "sale",
+    "category": {
+      "main": "commercial",
+      "sub": "clinic"
+    },
+    "title": "Satılık Klinik - Nuku'alofa",
+    "slug": "satilik-klinik-nuku'alofa-P08537",
+    "description": "Nuku'alofa, Tonga bölgesinde klinik. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 7399329,
+    "location": {
+      "country": "TO",
+      "city": "Nuku'alofa",
+      "district": "Nuku'alofa Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 862",
+      "coordinates": {
+        "lat": -19.5914614301768,
+        "lng": -174.92147371797626
+      }
+    },
+    "specs": {
+      "netSize": 749,
+      "grossSize": 899,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 15,
+      "floor": 4,
+      "totalFloors": 16,
+      "heating": "Kombi",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500299581278?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500903010464?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500463476894?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500170570407?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500735441600?w=800&q=80&category=house"
+    ],
+    "agent": {
+      "id": "A25",
+      "name": "Agent 60",
+      "phone": "+68 989 638 8926",
+      "email": "agent92@iwrealty.com",
+      "photo": "/images/icons/png/antalya-investment-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-09-10T10:50:47.271Z",
+    "updatedAt": "2025-11-13T10:50:47.271Z",
+    "storeId": "store-006"
+  },
+  {
+    "id": "P08538",
+    "type": "rent",
+    "category": {
+      "main": "commercial",
+      "sub": "clinic"
+    },
+    "title": "Kiralık Klinik - Nuku'alofa",
+    "slug": "kiralik-klinik-nuku'alofa-P08538",
+    "description": "Nuku'alofa, Tonga bölgesinde klinik. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 6538899,
+    "location": {
+      "country": "TO",
+      "city": "Nuku'alofa",
+      "district": "Nuku'alofa Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 226",
+      "coordinates": {
+        "lat": -19.776907055125914,
+        "lng": -174.91009037729168
+      }
+    },
+    "specs": {
+      "netSize": 1512,
+      "grossSize": 1814,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 7,
+      "floor": 9,
+      "totalFloors": 9,
+      "heating": "Merkezi",
+      "furnishing": "Furnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500233837304?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500495436066?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500426424386?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500615442129?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500795857261?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500856916349?w=800&q=80&category=building"
+    ],
+    "agent": {
+      "id": "A75",
+      "name": "Agent 82",
+      "phone": "+23 636 546 2091",
+      "email": "agent7@iwrealty.com",
+      "photo": "/images/icons/png/ankara-modern-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": false,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": true,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-09-14T10:50:47.271Z",
+    "updatedAt": "2025-11-13T10:50:47.271Z",
+    "storeId": "store-003"
+  },
+  {
+    "id": "P08539",
+    "type": "sale",
+    "category": {
+      "main": "commercial",
+      "sub": "shop"
+    },
+    "title": "Satılık Dükkan - Nuku'alofa",
+    "slug": "satilik-dükkan-nuku'alofa-P08539",
+    "description": "Nuku'alofa, Tonga bölgesinde dükkan. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 2889167,
+    "location": {
+      "country": "TO",
+      "city": "Nuku'alofa",
+      "district": "Nuku'alofa Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 250",
+      "coordinates": {
+        "lat": -20.463332707189892,
+        "lng": -174.57810840851604
+      }
+    },
+    "specs": {
+      "netSize": 403,
+      "grossSize": 484,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 9,
+      "floor": 5,
+      "totalFloors": 17,
+      "heating": "Merkezi",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500565984123?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500779705003?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500130334098?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500774492631?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500739250173?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500826067048?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500346172681?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500990125596?w=800&q=80&category=interior"
+    ],
+    "agent": {
+      "id": "A15",
+      "name": "Agent 77",
+      "phone": "+14 405 880 3384",
+      "email": "agent9@iwrealty.com",
+      "photo": "/images/icons/png/london-prime-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-05-29T10:50:47.271Z",
+    "updatedAt": "2025-11-13T10:50:47.271Z",
+    "storeId": "store-007"
+  },
+  {
+    "id": "P08540",
+    "type": "rent",
+    "category": {
+      "main": "commercial",
+      "sub": "shop"
+    },
+    "title": "Kiralık Dükkan - Nuku'alofa",
+    "slug": "kiralik-dükkan-nuku'alofa-P08540",
+    "description": "Nuku'alofa, Tonga bölgesinde dükkan. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 6241206,
+    "location": {
+      "country": "TO",
+      "city": "Nuku'alofa",
+      "district": "Nuku'alofa Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 707",
+      "coordinates": {
+        "lat": -20.16640432779854,
+        "lng": -175.0561241042776
+      }
+    },
+    "specs": {
+      "netSize": 400,
+      "grossSize": 480,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 1,
+      "floor": 3,
+      "totalFloors": 5,
+      "heating": "Klima",
+      "furnishing": "Unfurnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500907472728?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500216245147?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500504011863?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500351986230?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500885217022?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500789580099?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500476809265?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500935867567?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500357682618?w=800&q=80&category=interior"
+    ],
+    "agent": {
+      "id": "A85",
+      "name": "Agent 10",
+      "phone": "+39 458 624 5246",
+      "email": "agent12@iwrealty.com",
+      "photo": "/images/icons/png/dubai-property-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": false,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-01-09T10:50:47.271Z",
+    "updatedAt": "2025-11-13T10:50:47.271Z",
+    "storeId": "store-004"
+  },
+  {
+    "id": "P08541",
+    "type": "sale",
+    "category": {
+      "main": "commercial",
+      "sub": "office"
+    },
+    "title": "Satılık Ofis - Tonga City",
+    "slug": "satilik-ofis-tonga-city-P08541",
+    "description": "Tonga City, Tonga bölgesinde ofis. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 6587736,
+    "location": {
+      "country": "TO",
+      "city": "Tonga City",
+      "district": "Tonga City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 500",
+      "coordinates": {
+        "lat": -20.002460445950998,
+        "lng": -175.01585396238102
+      }
+    },
+    "specs": {
+      "netSize": 408,
+      "grossSize": 490,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 14,
+      "floor": 13,
+      "totalFloors": 17,
+      "heating": "Klima",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500283783192?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500331420293?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500292949572?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500819983709?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500828059023?w=800&q=80&category=house"
+    ],
+    "agent": {
+      "id": "A39",
+      "name": "Agent 77",
+      "phone": "+26 846 872 6549",
+      "email": "agent11@iwrealty.com",
+      "photo": "/images/icons/png/sg-harbour-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": true,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-05-05T10:50:47.271Z",
+    "updatedAt": "2025-11-13T10:50:47.271Z",
+    "storeId": "store-011"
+  },
+  {
+    "id": "P08542",
+    "type": "rent",
+    "category": {
+      "main": "commercial",
+      "sub": "office"
+    },
+    "title": "Kiralık Ofis - Tonga Central",
+    "slug": "kiralik-ofis-tonga-central-P08542",
+    "description": "Tonga Central, Tonga bölgesinde ofis. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 9368117,
+    "location": {
+      "country": "TO",
+      "city": "Tonga Central",
+      "district": "Tonga Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 545",
+      "coordinates": {
+        "lat": -19.82716541622078,
+        "lng": -175.28879865489031
+      }
+    },
+    "specs": {
+      "netSize": 142,
+      "grossSize": 170,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 13,
+      "floor": 5,
+      "totalFloors": 15,
+      "heating": "Kombi",
+      "furnishing": "Unfurnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500374013972?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500824900598?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500185138063?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500251907433?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500004255901?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500651518577?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500099337587?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500816196866?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500504775279?w=800&q=80&category=architecture"
+    ],
+    "agent": {
+      "id": "A29",
+      "name": "Agent 51",
+      "phone": "+55 134 239 7477",
+      "email": "agent54@iwrealty.com",
+      "photo": "/images/icons/png/paris-heritage-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": false,
+      "hasBalcony": false,
+      "hasGarden": true,
+      "hasPool": true,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-08-11T10:50:47.271Z",
+    "updatedAt": "2025-11-13T10:50:47.271Z",
+    "storeId": "store-010"
+  },
+  {
+    "id": "P08543",
+    "type": "sale",
+    "category": {
+      "main": "commercial",
+      "sub": "mall"
+    },
+    "title": "Satılık AVM - Tonga Central",
+    "slug": "satilik-avm-tonga-central-P08543",
+    "description": "Tonga Central, Tonga bölgesinde avm. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 87297219,
+    "location": {
+      "country": "TO",
+      "city": "Tonga Central",
+      "district": "Tonga Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 693",
+      "coordinates": {
+        "lat": -20.07813019088674,
+        "lng": -174.89331293344742
+      }
+    },
+    "specs": {
+      "netSize": 6834,
+      "grossSize": 8201,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 4,
+      "floor": 10,
+      "totalFloors": 15,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Unfurnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500708398537?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500869641157?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500002706516?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500078873735?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500205844574?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500660124024?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500598106108?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500366991359?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500962329575?w=800&q=80&category=house"
+    ],
+    "agent": {
+      "id": "A63",
+      "name": "Agent 38",
+      "phone": "+97 142 630 6774",
+      "email": "agent78@iwrealty.com",
+      "photo": "/images/icons/png/paris-heritage-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-03-18T10:50:47.271Z",
+    "updatedAt": "2025-11-13T10:50:47.271Z",
+    "storeId": "store-010"
+  },
+  {
+    "id": "P08544",
+    "type": "rent",
+    "category": {
+      "main": "commercial",
+      "sub": "mall"
+    },
+    "title": "Kiralık AVM - New Tonga",
+    "slug": "kiralik-avm-new-tonga-P08544",
+    "description": "New Tonga, Tonga bölgesinde avm. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 104471277,
+    "location": {
+      "country": "TO",
+      "city": "New Tonga",
+      "district": "New Tonga Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 636",
+      "coordinates": {
+        "lat": -19.782499024654072,
+        "lng": -175.11277507704074
+      }
+    },
+    "specs": {
+      "netSize": 39217,
+      "grossSize": 47060,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 13,
+      "floor": 6,
+      "totalFloors": 9,
+      "heating": "Merkezi",
+      "furnishing": "Unfurnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500713923501?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500320682688?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500516685782?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500120436375?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500473256011?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500395204108?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500804838539?w=800&q=80&category=interior"
+    ],
+    "agent": {
+      "id": "A80",
+      "name": "Agent 36",
+      "phone": "+87 666 753 2595",
+      "email": "agent2@iwrealty.com",
+      "photo": "/images/icons/png/paris-heritage-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-01-19T10:50:47.271Z",
+    "updatedAt": "2025-11-13T10:50:47.271Z",
+    "storeId": "store-010"
+  },
+  {
+    "id": "P08545",
+    "type": "sale",
+    "category": {
+      "main": "commercial",
+      "sub": "hotel"
+    },
+    "title": "Satılık Otel - Nuku'alofa",
+    "slug": "satilik-otel-nuku'alofa-P08545",
+    "description": "Nuku'alofa, Tonga bölgesinde otel. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 119730564,
+    "location": {
+      "country": "TO",
+      "city": "Nuku'alofa",
+      "district": "Nuku'alofa Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 966",
+      "coordinates": {
+        "lat": -20.195166706803253,
+        "lng": -175.15402831613258
+      }
+    },
+    "specs": {
+      "netSize": 23606,
+      "grossSize": 28327,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 16,
+      "floor": 9,
+      "totalFloors": 15,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Furnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500189245854?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500842368047?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500598258270?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500319223453?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500301931447?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500378049133?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500706423257?w=800&q=80&category=architecture"
+    ],
+    "agent": {
+      "id": "A2",
+      "name": "Agent 4",
+      "phone": "+79 292 614 1178",
+      "email": "agent78@iwrealty.com",
+      "photo": "/images/icons/png/izmir-sahil-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-09-08T10:50:47.271Z",
+    "updatedAt": "2025-11-13T10:50:47.271Z",
+    "storeId": "store-005"
+  },
+  {
+    "id": "P08546",
+    "type": "rent",
+    "category": {
+      "main": "commercial",
+      "sub": "hotel"
+    },
+    "title": "Kiralık Otel - Tonga Central",
+    "slug": "kiralik-otel-tonga-central-P08546",
+    "description": "Tonga Central, Tonga bölgesinde otel. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 144687560,
+    "location": {
+      "country": "TO",
+      "city": "Tonga Central",
+      "district": "Tonga Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 935",
+      "coordinates": {
+        "lat": -19.89020371907825,
+        "lng": -175.40655775957094
+      }
+    },
+    "specs": {
+      "netSize": 25852,
+      "grossSize": 31022,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 1,
+      "floor": 3,
+      "totalFloors": 15,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Unfurnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500695498547?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500608494832?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500341146280?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500919289697?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500103320161?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500418249966?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500687672298?w=800&q=80&category=real-estate"
+    ],
+    "agent": {
+      "id": "A9",
+      "name": "Agent 61",
+      "phone": "+65 264 864 9113",
+      "email": "agent78@iwrealty.com",
+      "photo": "/images/icons/png/berlin-urban-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": false,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2024-11-30T10:50:47.271Z",
+    "updatedAt": "2025-11-13T10:50:47.271Z",
+    "storeId": "store-009"
+  },
+  {
+    "id": "P08547",
+    "type": "sale",
+    "category": {
+      "main": "commercial",
+      "sub": "restaurant"
+    },
+    "title": "Satılık Restoran - Nuku'alofa",
+    "slug": "satilik-restoran-nuku'alofa-P08547",
+    "description": "Nuku'alofa, Tonga bölgesinde restoran. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 6761454,
+    "location": {
+      "country": "TO",
+      "city": "Nuku'alofa",
+      "district": "Nuku'alofa Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 493",
+      "coordinates": {
+        "lat": -20.409507150729056,
+        "lng": -174.85505616063335
+      }
+    },
+    "specs": {
+      "netSize": 1157,
+      "grossSize": 1388,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 8,
+      "floor": 3,
+      "totalFloors": 7,
+      "heating": "Kombi",
+      "furnishing": "Unfurnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500822742019?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500323471675?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500084662076?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500124126878?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500685598487?w=800&q=80&category=architecture"
+    ],
+    "agent": {
+      "id": "A99",
+      "name": "Agent 4",
+      "phone": "+48 771 844 3562",
+      "email": "agent79@iwrealty.com",
+      "photo": "/images/icons/png/izmir-sahil-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-03-21T10:50:47.271Z",
+    "updatedAt": "2025-11-13T10:50:47.271Z",
+    "storeId": "store-005"
+  },
+  {
+    "id": "P08548",
+    "type": "rent",
+    "category": {
+      "main": "commercial",
+      "sub": "restaurant"
+    },
+    "title": "Kiralık Restoran - Tonga Central",
+    "slug": "kiralik-restoran-tonga-central-P08548",
+    "description": "Tonga Central, Tonga bölgesinde restoran. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 7893482,
+    "location": {
+      "country": "TO",
+      "city": "Tonga Central",
+      "district": "Tonga Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 61",
+      "coordinates": {
+        "lat": -19.558776095713622,
+        "lng": -175.25325850923872
+      }
+    },
+    "specs": {
+      "netSize": 716,
+      "grossSize": 859,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 8,
+      "floor": 13,
+      "totalFloors": 15,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500961013321?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500479758120?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500230278139?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500389257445?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500287758758?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500270533610?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500180855165?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500169199317?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500606973747?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500279713947?w=800&q=80&category=real-estate"
+    ],
+    "agent": {
+      "id": "A68",
+      "name": "Agent 90",
+      "phone": "+28 689 847 3136",
+      "email": "agent96@iwrealty.com",
+      "photo": "/images/icons/png/ankara-modern-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": true,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-05-29T10:50:47.271Z",
+    "updatedAt": "2025-11-13T10:50:47.271Z",
+    "storeId": "store-003"
+  },
+  {
+    "id": "P08549",
+    "type": "sale",
+    "category": {
+      "main": "commercial",
+      "sub": "warehouse"
+    },
+    "title": "Satılık Depo - Tonga City",
+    "slug": "satilik-depo-tonga-city-P08549",
+    "description": "Tonga City, Tonga bölgesinde depo. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 8635594,
+    "location": {
+      "country": "TO",
+      "city": "Tonga City",
+      "district": "Tonga City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 220",
+      "coordinates": {
+        "lat": -20.114479328421865,
+        "lng": -174.92038388032137
+      }
+    },
+    "specs": {
+      "netSize": 6361,
+      "grossSize": 7633,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 13,
+      "floor": 14,
+      "totalFloors": 9,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Furnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500868104393?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500620959647?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500227219496?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500176802982?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500761798533?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500645554204?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500798177099?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500009435314?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500340047552?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500259350492?w=800&q=80&category=architecture"
+    ],
+    "agent": {
+      "id": "A18",
+      "name": "Agent 67",
+      "phone": "+96 715 928 8407",
+      "email": "agent34@iwrealty.com",
+      "photo": "/images/icons/png/sydney-coastal-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-10-16T10:50:47.271Z",
+    "updatedAt": "2025-11-13T10:50:47.271Z",
+    "storeId": "store-012"
+  },
+  {
+    "id": "P08550",
+    "type": "rent",
+    "category": {
+      "main": "commercial",
+      "sub": "warehouse"
+    },
+    "title": "Kiralık Depo - Tonga Central",
+    "slug": "kiralik-depo-tonga-central-P08550",
+    "description": "Tonga Central, Tonga bölgesinde depo. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 3128546,
+    "location": {
+      "country": "TO",
+      "city": "Tonga Central",
+      "district": "Tonga Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 487",
+      "coordinates": {
+        "lat": -20.26096539570394,
+        "lng": -174.91972565011216
+      }
+    },
+    "specs": {
+      "netSize": 6586,
+      "grossSize": 7903,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 4,
+      "floor": 13,
+      "totalFloors": 18,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Furnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500388038278?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500993692575?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500036036830?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500805767021?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500965736050?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500327904158?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500275580082?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500602408891?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500611475237?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500146989635?w=800&q=80&category=house"
+    ],
+    "agent": {
+      "id": "A29",
+      "name": "Agent 2",
+      "phone": "+62 859 826 1135",
+      "email": "agent41@iwrealty.com",
+      "photo": "/images/icons/png/london-prime-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-10-20T10:50:47.271Z",
+    "updatedAt": "2025-11-13T10:50:47.271Z",
+    "storeId": "store-007"
+  }
+]

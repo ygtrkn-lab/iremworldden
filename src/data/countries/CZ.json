@@ -1,0 +1,2360 @@
+[
+  {
+    "id": "P02243",
+    "type": "sale",
+    "category": {
+      "main": "government"
+    },
+    "title": "Satılık Hastane - Czechia Central",
+    "slug": "satilik-hastane-czechia-central-P02243",
+    "description": "Czechia Central, Czechia bölgesinde hastane. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 11336763,
+    "location": {
+      "country": "CZ",
+      "city": "Czechia Central",
+      "district": "Czechia Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 306",
+      "coordinates": {
+        "lat": 49.43258145762785,
+        "lng": 15.807353934297021
+      }
+    },
+    "specs": {
+      "netSize": 1838,
+      "grossSize": 2206,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 8,
+      "floor": 9,
+      "totalFloors": 12,
+      "heating": "Merkezi",
+      "furnishing": "Furnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500634338583?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500103812606?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500181618277?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500726167952?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500789227945?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500465065147?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500402028414?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500218602992?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500690081435?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500845818695?w=800&q=80&category=building"
+    ],
+    "agent": {
+      "id": "A56",
+      "name": "Agent 30",
+      "phone": "+98 881 820 1571",
+      "email": "agent64@iwrealty.com",
+      "photo": "/images/icons/png/sg-harbour-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": false,
+      "hasBalcony": false,
+      "hasGarden": true,
+      "hasPool": true,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-03-19T10:50:47.202Z",
+    "updatedAt": "2025-11-13T10:50:47.202Z",
+    "storeId": "store-011"
+  },
+  {
+    "id": "P02244",
+    "type": "rent",
+    "category": {
+      "main": "government"
+    },
+    "title": "Kiralık Hastane - Prague",
+    "slug": "kiralik-hastane-prague-P02244",
+    "description": "Prague, Czechia bölgesinde hastane. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 40772598,
+    "location": {
+      "country": "CZ",
+      "city": "Prague",
+      "district": "Prague Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 914",
+      "coordinates": {
+        "lat": 49.892362587987066,
+        "lng": 15.57265790217585
+      }
+    },
+    "specs": {
+      "netSize": 3281,
+      "grossSize": 3937,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 3,
+      "floor": 3,
+      "totalFloors": 9,
+      "heating": "Kombi",
+      "furnishing": "Unfurnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500166175408?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500927683844?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500915849919?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500475127575?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500364783657?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500173418562?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500452206709?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500869988459?w=800&q=80&category=architecture"
+    ],
+    "agent": {
+      "id": "A52",
+      "name": "Agent 32",
+      "phone": "+51 232 321 8886",
+      "email": "agent72@iwrealty.com",
+      "photo": "/images/icons/png/sg-harbour-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": false,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-06-22T10:50:47.202Z",
+    "updatedAt": "2025-11-13T10:50:47.202Z",
+    "storeId": "store-011"
+  },
+  {
+    "id": "P02245",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Villa - Prague",
+    "slug": "satilik-villa-prague-P02245",
+    "description": "Prague, Czechia bölgesinde villa. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 1059568,
+    "location": {
+      "country": "CZ",
+      "city": "Prague",
+      "district": "Prague Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 558",
+      "coordinates": {
+        "lat": 50.07633703246607,
+        "lng": 15.262419966154425
+      }
+    },
+    "specs": {
+      "netSize": 360,
+      "grossSize": 432,
+      "rooms": "3+0",
+      "bathrooms": 2,
+      "age": 17,
+      "floor": 7,
+      "totalFloors": 6,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500813302511?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500457828256?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500054612209?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500754610120?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500090290721?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500724118312?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500168125259?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500497191713?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500454461491?w=800&q=80&category=interior"
+    ],
+    "agent": {
+      "id": "A50",
+      "name": "Agent 83",
+      "phone": "+74 284 873 5088",
+      "email": "agent7@iwrealty.com",
+      "photo": "/images/icons/png/paris-heritage-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": false,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-09-01T10:50:47.202Z",
+    "updatedAt": "2025-11-13T10:50:47.202Z",
+    "storeId": "store-010"
+  },
+  {
+    "id": "P02246",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Daire - Czechia Central",
+    "slug": "kiralik-daire-czechia-central-P02246",
+    "description": "Czechia Central, Czechia bölgesinde daire. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 6709401,
+    "location": {
+      "country": "CZ",
+      "city": "Czechia Central",
+      "district": "Czechia Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 932",
+      "coordinates": {
+        "lat": 49.281092068156816,
+        "lng": 15.173024823120068
+      }
+    },
+    "specs": {
+      "netSize": 188,
+      "grossSize": 226,
+      "rooms": "2+0",
+      "bathrooms": 2,
+      "age": 9,
+      "floor": 9,
+      "totalFloors": 16,
+      "heating": "Merkezi",
+      "furnishing": "Furnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500848436443?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500524083640?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500578957629?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500958677753?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500213046965?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500907295868?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500104473586?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500546299842?w=800&q=80&category=building"
+    ],
+    "agent": {
+      "id": "A21",
+      "name": "Agent 31",
+      "phone": "+31 470 371 2776",
+      "email": "agent57@iwrealty.com",
+      "photo": "/images/icons/png/izmir-sahil-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": true,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-01-04T10:50:47.202Z",
+    "updatedAt": "2025-11-13T10:50:47.202Z",
+    "storeId": "store-005"
+  },
+  {
+    "id": "P02247",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Villa - Czechia City",
+    "slug": "satilik-villa-czechia-city-P02247",
+    "description": "Czechia City, Czechia bölgesinde villa. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 9103610,
+    "location": {
+      "country": "CZ",
+      "city": "Czechia City",
+      "district": "Czechia City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 31",
+      "coordinates": {
+        "lat": 49.69959888011275,
+        "lng": 15.179404315181207
+      }
+    },
+    "specs": {
+      "netSize": 145,
+      "grossSize": 174,
+      "rooms": "5+0",
+      "bathrooms": 3,
+      "age": 7,
+      "floor": 2,
+      "totalFloors": 17,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Unfurnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500047198189?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500303421339?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500642900984?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500940613633?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500394940830?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500808813572?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500447009634?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500682589052?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500357949275?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500000557970?w=800&q=80&category=house"
+    ],
+    "agent": {
+      "id": "A25",
+      "name": "Agent 10",
+      "phone": "+18 793 879 7525",
+      "email": "agent100@iwrealty.com",
+      "photo": "/images/icons/png/berlin-urban-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": true,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-09-04T10:50:47.202Z",
+    "updatedAt": "2025-11-13T10:50:47.202Z",
+    "storeId": "store-009"
+  },
+  {
+    "id": "P02248",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Residence - Czechia City",
+    "slug": "kiralik-residence-czechia-city-P02248",
+    "description": "Czechia City, Czechia bölgesinde residence. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 8885962,
+    "location": {
+      "country": "CZ",
+      "city": "Czechia City",
+      "district": "Czechia City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 586",
+      "coordinates": {
+        "lat": 49.50812563507499,
+        "lng": 15.473054189875718
+      }
+    },
+    "specs": {
+      "netSize": 110,
+      "grossSize": 132,
+      "rooms": "4+0",
+      "bathrooms": 3,
+      "age": 18,
+      "floor": 11,
+      "totalFloors": 11,
+      "heating": "Merkezi",
+      "furnishing": "Unfurnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500809550235?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500099259537?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500700274723?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500785173703?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500368283489?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500131593270?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500886990153?w=800&q=80&category=real-estate"
+    ],
+    "agent": {
+      "id": "A46",
+      "name": "Agent 43",
+      "phone": "+67 613 896 1769",
+      "email": "agent95@iwrealty.com",
+      "photo": "/images/icons/png/london-prime-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": false,
+      "hasBalcony": false,
+      "hasGarden": true,
+      "hasPool": true,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-10-05T10:50:47.202Z",
+    "updatedAt": "2025-11-13T10:50:47.202Z",
+    "storeId": "store-007"
+  },
+  {
+    "id": "P02249",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Müstakil Ev - Prague",
+    "slug": "satilik-müstakil-ev-prague-P02249",
+    "description": "Prague, Czechia bölgesinde müstakil ev. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 7594454,
+    "location": {
+      "country": "CZ",
+      "city": "Prague",
+      "district": "Prague Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 769",
+      "coordinates": {
+        "lat": 49.656781172772895,
+        "lng": 15.106486757683003
+      }
+    },
+    "specs": {
+      "netSize": 438,
+      "grossSize": 526,
+      "rooms": "3+0",
+      "bathrooms": 1,
+      "age": 12,
+      "floor": 3,
+      "totalFloors": 8,
+      "heating": "Merkezi",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500534890764?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500669928365?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500246436751?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500217166467?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500623361797?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500294097522?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500789276082?w=800&q=80&category=building"
+    ],
+    "agent": {
+      "id": "A34",
+      "name": "Agent 76",
+      "phone": "+72 194 451 7076",
+      "email": "agent9@iwrealty.com",
+      "photo": "/images/icons/png/izmir-sahil-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-03-01T10:50:47.202Z",
+    "updatedAt": "2025-11-13T10:50:47.202Z",
+    "storeId": "store-005"
+  },
+  {
+    "id": "P02250",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Müstakil Ev - New Czechia",
+    "slug": "kiralik-müstakil-ev-new-czechia-P02250",
+    "description": "New Czechia, Czechia bölgesinde müstakil ev. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 11599492,
+    "location": {
+      "country": "CZ",
+      "city": "New Czechia",
+      "district": "New Czechia Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 505",
+      "coordinates": {
+        "lat": 49.67057614278267,
+        "lng": 15.285285346042425
+      }
+    },
+    "specs": {
+      "netSize": 417,
+      "grossSize": 500,
+      "rooms": "3+1",
+      "bathrooms": 2,
+      "age": 13,
+      "floor": 8,
+      "totalFloors": 10,
+      "heating": "Kombi",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500279078701?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500205679772?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500303423203?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500187258350?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500147381431?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500235122922?w=800&q=80&category=architecture"
+    ],
+    "agent": {
+      "id": "A65",
+      "name": "Agent 46",
+      "phone": "+54 606 838 4345",
+      "email": "agent87@iwrealty.com",
+      "photo": "/images/icons/png/london-prime-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": false,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-09-13T10:50:47.202Z",
+    "updatedAt": "2025-11-13T10:50:47.202Z",
+    "storeId": "store-007"
+  },
+  {
+    "id": "P02251",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Müstakil Ev - Prague",
+    "slug": "satilik-müstakil-ev-prague-P02251",
+    "description": "Prague, Czechia bölgesinde müstakil ev. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 2778994,
+    "location": {
+      "country": "CZ",
+      "city": "Prague",
+      "district": "Prague Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 756",
+      "coordinates": {
+        "lat": 50.19324424437745,
+        "lng": 15.007713928402932
+      }
+    },
+    "specs": {
+      "netSize": 474,
+      "grossSize": 569,
+      "rooms": "4+2",
+      "bathrooms": 1,
+      "age": 3,
+      "floor": 3,
+      "totalFloors": 13,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500720035336?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500974587442?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500070156491?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500074315083?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500091791852?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500092708636?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500295364875?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500602918655?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500227246855?w=800&q=80&category=building"
+    ],
+    "agent": {
+      "id": "A67",
+      "name": "Agent 24",
+      "phone": "+25 718 355 5772",
+      "email": "agent2@iwrealty.com",
+      "photo": "/images/icons/png/sydney-coastal-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": false,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-06-17T10:50:47.202Z",
+    "updatedAt": "2025-11-13T10:50:47.202Z",
+    "storeId": "store-012"
+  },
+  {
+    "id": "P02252",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Daire - Czechia City",
+    "slug": "kiralik-daire-czechia-city-P02252",
+    "description": "Czechia City, Czechia bölgesinde daire. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 3830762,
+    "location": {
+      "country": "CZ",
+      "city": "Czechia City",
+      "district": "Czechia City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 212",
+      "coordinates": {
+        "lat": 49.8862670289782,
+        "lng": 15.781079209068826
+      }
+    },
+    "specs": {
+      "netSize": 146,
+      "grossSize": 175,
+      "rooms": "5+1",
+      "bathrooms": 3,
+      "age": 14,
+      "floor": 1,
+      "totalFloors": 18,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500381416707?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500149748990?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500184760634?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500173559969?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500842807127?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500516726611?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500447228826?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500671525435?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500231537065?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500669706045?w=800&q=80&category=house"
+    ],
+    "agent": {
+      "id": "A75",
+      "name": "Agent 10",
+      "phone": "+53 409 644 1870",
+      "email": "agent25@iwrealty.com",
+      "photo": "/images/icons/png/izmir-sahil-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-06-08T10:50:47.202Z",
+    "updatedAt": "2025-11-13T10:50:47.202Z",
+    "storeId": "store-005"
+  },
+  {
+    "id": "P02253",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Villa - Prague",
+    "slug": "satilik-villa-prague-P02253",
+    "description": "Prague, Czechia bölgesinde villa. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 14924316,
+    "location": {
+      "country": "CZ",
+      "city": "Prague",
+      "district": "Prague Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 965",
+      "coordinates": {
+        "lat": 50.17508093432939,
+        "lng": 15.863776974389319
+      }
+    },
+    "specs": {
+      "netSize": 188,
+      "grossSize": 226,
+      "rooms": "5+0",
+      "bathrooms": 3,
+      "age": 2,
+      "floor": 7,
+      "totalFloors": 10,
+      "heating": "Klima",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500466010745?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500172907752?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500006061516?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500481235334?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500659826265?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500349603814?w=800&q=80&category=house"
+    ],
+    "agent": {
+      "id": "A98",
+      "name": "Agent 57",
+      "phone": "+25 455 158 4731",
+      "email": "agent38@iwrealty.com",
+      "photo": "/images/icons/png/antalya-investment-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": true,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-07-28T10:50:47.202Z",
+    "updatedAt": "2025-11-13T10:50:47.202Z",
+    "storeId": "store-006"
+  },
+  {
+    "id": "P02254",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Residence - Prague",
+    "slug": "kiralik-residence-prague-P02254",
+    "description": "Prague, Czechia bölgesinde residence. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 11893483,
+    "location": {
+      "country": "CZ",
+      "city": "Prague",
+      "district": "Prague Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 915",
+      "coordinates": {
+        "lat": 49.865948864201336,
+        "lng": 15.579499936017239
+      }
+    },
+    "specs": {
+      "netSize": 404,
+      "grossSize": 485,
+      "rooms": "2+2",
+      "bathrooms": 2,
+      "age": 20,
+      "floor": 3,
+      "totalFloors": 16,
+      "heating": "Kombi",
+      "furnishing": "Unfurnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500587967883?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500349823254?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500940092266?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500840194607?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500844605472?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500168604698?w=800&q=80&category=house"
+    ],
+    "agent": {
+      "id": "A80",
+      "name": "Agent 32",
+      "phone": "+53 395 909 9777",
+      "email": "agent22@iwrealty.com",
+      "photo": "/images/icons/png/paris-heritage-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": true,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-01-20T10:50:47.202Z",
+    "updatedAt": "2025-11-13T10:50:47.202Z",
+    "storeId": "store-010"
+  },
+  {
+    "id": "P02255",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Residence - Czechia City",
+    "slug": "satilik-residence-czechia-city-P02255",
+    "description": "Czechia City, Czechia bölgesinde residence. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 3325464,
+    "location": {
+      "country": "CZ",
+      "city": "Czechia City",
+      "district": "Czechia City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 763",
+      "coordinates": {
+        "lat": 49.54559702164132,
+        "lng": 15.609190955901502
+      }
+    },
+    "specs": {
+      "netSize": 474,
+      "grossSize": 569,
+      "rooms": "2+1",
+      "bathrooms": 4,
+      "age": 5,
+      "floor": 12,
+      "totalFloors": 9,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500162779353?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500075991118?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500469145215?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500794881516?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500840443302?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500792108716?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500429610300?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500834424403?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500213967502?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500637106269?w=800&q=80&category=interior"
+    ],
+    "agent": {
+      "id": "A11",
+      "name": "Agent 4",
+      "phone": "+67 817 265 1590",
+      "email": "agent28@iwrealty.com",
+      "photo": "/images/icons/png/berlin-urban-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": true,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-10-04T10:50:47.202Z",
+    "updatedAt": "2025-11-13T10:50:47.202Z",
+    "storeId": "store-009"
+  },
+  {
+    "id": "P02256",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Daire - Czechia City",
+    "slug": "kiralik-daire-czechia-city-P02256",
+    "description": "Czechia City, Czechia bölgesinde daire. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 12214108,
+    "location": {
+      "country": "CZ",
+      "city": "Czechia City",
+      "district": "Czechia City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 352",
+      "coordinates": {
+        "lat": 50.03516263992473,
+        "lng": 15.512727837923975
+      }
+    },
+    "specs": {
+      "netSize": 339,
+      "grossSize": 407,
+      "rooms": "2+2",
+      "bathrooms": 3,
+      "age": 10,
+      "floor": 5,
+      "totalFloors": 17,
+      "heating": "Klima",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500432390511?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500083066123?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500724533251?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500869602620?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500358540192?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500662166030?w=800&q=80&category=real-estate"
+    ],
+    "agent": {
+      "id": "A82",
+      "name": "Agent 16",
+      "phone": "+38 498 725 9206",
+      "email": "agent22@iwrealty.com",
+      "photo": "/images/icons/png/dubai-property-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-11-02T10:50:47.202Z",
+    "updatedAt": "2025-11-13T10:50:47.202Z",
+    "storeId": "store-004"
+  },
+  {
+    "id": "P02257",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Daire - Prague",
+    "slug": "satilik-daire-prague-P02257",
+    "description": "Prague, Czechia bölgesinde daire. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 1738683,
+    "location": {
+      "country": "CZ",
+      "city": "Prague",
+      "district": "Prague Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 821",
+      "coordinates": {
+        "lat": 49.9766505156806,
+        "lng": 15.036570844425649
+      }
+    },
+    "specs": {
+      "netSize": 261,
+      "grossSize": 313,
+      "rooms": "4+2",
+      "bathrooms": 3,
+      "age": 6,
+      "floor": 11,
+      "totalFloors": 7,
+      "heating": "Merkezi",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500722811259?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500349206163?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500378428533?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500113310522?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500460058931?w=800&q=80&category=interior"
+    ],
+    "agent": {
+      "id": "A37",
+      "name": "Agent 55",
+      "phone": "+80 630 178 4317",
+      "email": "agent72@iwrealty.com",
+      "photo": "/images/icons/png/sg-harbour-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": true,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-03-30T10:50:47.202Z",
+    "updatedAt": "2025-11-13T10:50:47.202Z",
+    "storeId": "store-011"
+  },
+  {
+    "id": "P02258",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Villa - Czechia Central",
+    "slug": "kiralik-villa-czechia-central-P02258",
+    "description": "Czechia Central, Czechia bölgesinde villa. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 7602692,
+    "location": {
+      "country": "CZ",
+      "city": "Czechia Central",
+      "district": "Czechia Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 79",
+      "coordinates": {
+        "lat": 49.933198694556786,
+        "lng": 15.040138304127296
+      }
+    },
+    "specs": {
+      "netSize": 440,
+      "grossSize": 528,
+      "rooms": "1+0",
+      "bathrooms": 1,
+      "age": 10,
+      "floor": 15,
+      "totalFloors": 19,
+      "heating": "Merkezi",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500357897378?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500399662461?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500735814538?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500906476449?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500842464759?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500682105241?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500910597807?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500813911231?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500425762868?w=800&q=80&category=real-estate"
+    ],
+    "agent": {
+      "id": "A90",
+      "name": "Agent 63",
+      "phone": "+38 123 159 7366",
+      "email": "agent21@iwrealty.com",
+      "photo": "/images/icons/png/luxury-homes-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-05-12T10:50:47.202Z",
+    "updatedAt": "2025-11-13T10:50:47.202Z",
+    "storeId": "store-002"
+  },
+  {
+    "id": "P02259",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Residence - Prague",
+    "slug": "satilik-residence-prague-P02259",
+    "description": "Prague, Czechia bölgesinde residence. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 9656684,
+    "location": {
+      "country": "CZ",
+      "city": "Prague",
+      "district": "Prague Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 415",
+      "coordinates": {
+        "lat": 49.33615697780523,
+        "lng": 15.949936307256406
+      }
+    },
+    "specs": {
+      "netSize": 361,
+      "grossSize": 433,
+      "rooms": "1+0",
+      "bathrooms": 4,
+      "age": 3,
+      "floor": 10,
+      "totalFloors": 11,
+      "heating": "Kombi",
+      "furnishing": "Unfurnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500810157887?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500644040281?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500516452209?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500130474006?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500507082572?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500194683231?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500767039756?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500791924330?w=800&q=80&category=interior"
+    ],
+    "agent": {
+      "id": "A23",
+      "name": "Agent 85",
+      "phone": "+87 652 619 1007",
+      "email": "agent54@iwrealty.com",
+      "photo": "/images/icons/png/izmir-sahil-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-09-03T10:50:47.202Z",
+    "updatedAt": "2025-11-13T10:50:47.202Z",
+    "storeId": "store-005"
+  },
+  {
+    "id": "P02260",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Residence - New Czechia",
+    "slug": "kiralik-residence-new-czechia-P02260",
+    "description": "New Czechia, Czechia bölgesinde residence. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 7185526,
+    "location": {
+      "country": "CZ",
+      "city": "New Czechia",
+      "district": "New Czechia Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 424",
+      "coordinates": {
+        "lat": 49.618251393493416,
+        "lng": 15.394914809121186
+      }
+    },
+    "specs": {
+      "netSize": 391,
+      "grossSize": 469,
+      "rooms": "5+0",
+      "bathrooms": 2,
+      "age": 1,
+      "floor": 11,
+      "totalFloors": 5,
+      "heating": "Klima",
+      "furnishing": "Furnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500129615761?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500938031051?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500767714697?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500720998764?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500881294517?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500709399323?w=800&q=80&category=interior"
+    ],
+    "agent": {
+      "id": "A91",
+      "name": "Agent 28",
+      "phone": "+36 797 746 3451",
+      "email": "agent48@iwrealty.com",
+      "photo": "/images/icons/png/berlin-urban-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-03-07T10:50:47.202Z",
+    "updatedAt": "2025-11-13T10:50:47.202Z",
+    "storeId": "store-009"
+  },
+  {
+    "id": "P02261",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Villa - Prague",
+    "slug": "satilik-villa-prague-P02261",
+    "description": "Prague, Czechia bölgesinde villa. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 13847057,
+    "location": {
+      "country": "CZ",
+      "city": "Prague",
+      "district": "Prague Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 939",
+      "coordinates": {
+        "lat": 49.76039339871546,
+        "lng": 15.44134661488489
+      }
+    },
+    "specs": {
+      "netSize": 206,
+      "grossSize": 247,
+      "rooms": "4+1",
+      "bathrooms": 2,
+      "age": 13,
+      "floor": 3,
+      "totalFloors": 20,
+      "heating": "Klima",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500053948508?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500754309223?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500968293656?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500941698235?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500318518505?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500836500336?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500172781069?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500873714903?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500232618726?w=800&q=80&category=real-estate"
+    ],
+    "agent": {
+      "id": "A45",
+      "name": "Agent 71",
+      "phone": "+79 524 463 4904",
+      "email": "agent18@iwrealty.com",
+      "photo": "/images/icons/png/dubai-property-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": false,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": true,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-04-06T10:50:47.202Z",
+    "updatedAt": "2025-11-13T10:50:47.202Z",
+    "storeId": "store-004"
+  },
+  {
+    "id": "P02262",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Residence - Prague",
+    "slug": "kiralik-residence-prague-P02262",
+    "description": "Prague, Czechia bölgesinde residence. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 13884430,
+    "location": {
+      "country": "CZ",
+      "city": "Prague",
+      "district": "Prague Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 883",
+      "coordinates": {
+        "lat": 49.47759365262794,
+        "lng": 15.82086668210448
+      }
+    },
+    "specs": {
+      "netSize": 174,
+      "grossSize": 209,
+      "rooms": "5+2",
+      "bathrooms": 4,
+      "age": 8,
+      "floor": 11,
+      "totalFloors": 20,
+      "heating": "Klima",
+      "furnishing": "Unfurnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500734518662?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500992771376?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500300298798?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500753500041?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500708353460?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500386705756?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500622456515?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500287858204?w=800&q=80&category=building"
+    ],
+    "agent": {
+      "id": "A7",
+      "name": "Agent 46",
+      "phone": "+95 601 455 8195",
+      "email": "agent21@iwrealty.com",
+      "photo": "/images/icons/png/sg-harbour-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2024-12-06T10:50:47.202Z",
+    "updatedAt": "2025-11-13T10:50:47.202Z",
+    "storeId": "store-011"
+  },
+  {
+    "id": "P02263",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Müstakil Ev - New Czechia",
+    "slug": "satilik-müstakil-ev-new-czechia-P02263",
+    "description": "New Czechia, Czechia bölgesinde müstakil ev. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 10475116,
+    "location": {
+      "country": "CZ",
+      "city": "New Czechia",
+      "district": "New Czechia Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 205",
+      "coordinates": {
+        "lat": 49.254234260408914,
+        "lng": 15.111841812846986
+      }
+    },
+    "specs": {
+      "netSize": 181,
+      "grossSize": 217,
+      "rooms": "1+2",
+      "bathrooms": 3,
+      "age": 7,
+      "floor": 10,
+      "totalFloors": 9,
+      "heating": "Kombi",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500796544452?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500781213717?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500879990423?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500158763288?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500439896870?w=800&q=80&category=interior"
+    ],
+    "agent": {
+      "id": "A18",
+      "name": "Agent 70",
+      "phone": "+66 512 785 4671",
+      "email": "agent67@iwrealty.com",
+      "photo": "/images/icons/png/sydney-coastal-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": false,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": true,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-07-14T10:50:47.202Z",
+    "updatedAt": "2025-11-13T10:50:47.202Z",
+    "storeId": "store-012"
+  },
+  {
+    "id": "P02264",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Müstakil Ev - Czechia Central",
+    "slug": "kiralik-müstakil-ev-czechia-central-P02264",
+    "description": "Czechia Central, Czechia bölgesinde müstakil ev. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 9694201,
+    "location": {
+      "country": "CZ",
+      "city": "Czechia Central",
+      "district": "Czechia Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 140",
+      "coordinates": {
+        "lat": 49.328778372575385,
+        "lng": 15.172160080012373
+      }
+    },
+    "specs": {
+      "netSize": 219,
+      "grossSize": 263,
+      "rooms": "4+1",
+      "bathrooms": 2,
+      "age": 8,
+      "floor": 14,
+      "totalFloors": 19,
+      "heating": "Klima",
+      "furnishing": "Furnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500397044295?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500181658430?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500042184767?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500467889489?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500987601991?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500875029793?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500111778243?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500452620549?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500402820331?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500340523338?w=800&q=80&category=interior"
+    ],
+    "agent": {
+      "id": "A66",
+      "name": "Agent 51",
+      "phone": "+66 522 927 2980",
+      "email": "agent94@iwrealty.com",
+      "photo": "/images/icons/png/paris-heritage-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": true,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-07-22T10:50:47.202Z",
+    "updatedAt": "2025-11-13T10:50:47.202Z",
+    "storeId": "store-010"
+  },
+  {
+    "id": "P02265",
+    "type": "sale",
+    "category": {
+      "main": "commercial",
+      "sub": "hospital"
+    },
+    "title": "Satılık Hastane - Czechia Central",
+    "slug": "satilik-hastane-czechia-central-P02265",
+    "description": "Czechia Central, Czechia bölgesinde hastane. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 85660883,
+    "location": {
+      "country": "CZ",
+      "city": "Czechia Central",
+      "district": "Czechia Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 950",
+      "coordinates": {
+        "lat": 49.604739004838954,
+        "lng": 15.592375541397292
+      }
+    },
+    "specs": {
+      "netSize": 19567,
+      "grossSize": 23480,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 12,
+      "floor": 4,
+      "totalFloors": 11,
+      "heating": "Klima",
+      "furnishing": "Unfurnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500140348419?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500587800299?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500926123522?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500044785383?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500629599155?w=800&q=80&category=house"
+    ],
+    "agent": {
+      "id": "A76",
+      "name": "Agent 66",
+      "phone": "+11 225 692 9150",
+      "email": "agent33@iwrealty.com",
+      "photo": "/images/icons/png/ny-skyline-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-04-26T10:50:47.202Z",
+    "updatedAt": "2025-11-13T10:50:47.202Z",
+    "storeId": "store-008"
+  },
+  {
+    "id": "P02266",
+    "type": "rent",
+    "category": {
+      "main": "commercial",
+      "sub": "hospital"
+    },
+    "title": "Kiralık Hastane - New Czechia",
+    "slug": "kiralik-hastane-new-czechia-P02266",
+    "description": "New Czechia, Czechia bölgesinde hastane. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 13903881,
+    "location": {
+      "country": "CZ",
+      "city": "New Czechia",
+      "district": "New Czechia Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 314",
+      "coordinates": {
+        "lat": 50.0619749341908,
+        "lng": 15.32718553631642
+      }
+    },
+    "specs": {
+      "netSize": 13885,
+      "grossSize": 16662,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 13,
+      "floor": 6,
+      "totalFloors": 15,
+      "heating": "Merkezi",
+      "furnishing": "Unfurnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500131170754?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500051551123?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500770392323?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500973332444?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500429608796?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500692145004?w=800&q=80&category=real-estate"
+    ],
+    "agent": {
+      "id": "A61",
+      "name": "Agent 99",
+      "phone": "+75 164 461 7935",
+      "email": "agent52@iwrealty.com",
+      "photo": "/images/icons/png/paris-heritage-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-07-27T10:50:47.202Z",
+    "updatedAt": "2025-11-13T10:50:47.202Z",
+    "storeId": "store-010"
+  },
+  {
+    "id": "P02267",
+    "type": "sale",
+    "category": {
+      "main": "commercial",
+      "sub": "clinic"
+    },
+    "title": "Satılık Klinik - Prague",
+    "slug": "satilik-klinik-prague-P02267",
+    "description": "Prague, Czechia bölgesinde klinik. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 4641878,
+    "location": {
+      "country": "CZ",
+      "city": "Prague",
+      "district": "Prague Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 246",
+      "coordinates": {
+        "lat": 49.953965182752775,
+        "lng": 15.136304014273726
+      }
+    },
+    "specs": {
+      "netSize": 925,
+      "grossSize": 1110,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 14,
+      "floor": 10,
+      "totalFloors": 12,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500525283290?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500436761081?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500783057842?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500399844710?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500096531585?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500617771423?w=800&q=80&category=building"
+    ],
+    "agent": {
+      "id": "A36",
+      "name": "Agent 62",
+      "phone": "+57 152 249 1799",
+      "email": "agent39@iwrealty.com",
+      "photo": "/images/icons/png/ankara-modern-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": false,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-03-26T10:50:47.202Z",
+    "updatedAt": "2025-11-13T10:50:47.202Z",
+    "storeId": "store-003"
+  },
+  {
+    "id": "P02268",
+    "type": "rent",
+    "category": {
+      "main": "commercial",
+      "sub": "clinic"
+    },
+    "title": "Kiralık Klinik - Czechia City",
+    "slug": "kiralik-klinik-czechia-city-P02268",
+    "description": "Czechia City, Czechia bölgesinde klinik. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 12089065,
+    "location": {
+      "country": "CZ",
+      "city": "Czechia City",
+      "district": "Czechia City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 181",
+      "coordinates": {
+        "lat": 50.196264042230595,
+        "lng": 15.960259485902347
+      }
+    },
+    "specs": {
+      "netSize": 876,
+      "grossSize": 1051,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 0,
+      "floor": 13,
+      "totalFloors": 15,
+      "heating": "Merkezi",
+      "furnishing": "Furnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500570354501?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500028690732?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500925044261?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500226810839?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500896059985?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500071094581?w=800&q=80&category=house"
+    ],
+    "agent": {
+      "id": "A98",
+      "name": "Agent 11",
+      "phone": "+41 405 379 8688",
+      "email": "agent72@iwrealty.com",
+      "photo": "/images/icons/png/paris-heritage-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-11-11T10:50:47.202Z",
+    "updatedAt": "2025-11-13T10:50:47.202Z",
+    "storeId": "store-010"
+  },
+  {
+    "id": "P02269",
+    "type": "sale",
+    "category": {
+      "main": "commercial",
+      "sub": "shop"
+    },
+    "title": "Satılık Dükkan - Prague",
+    "slug": "satilik-dükkan-prague-P02269",
+    "description": "Prague, Czechia bölgesinde dükkan. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 2522363,
+    "location": {
+      "country": "CZ",
+      "city": "Prague",
+      "district": "Prague Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 702",
+      "coordinates": {
+        "lat": 50.1107734256306,
+        "lng": 15.39562231317916
+      }
+    },
+    "specs": {
+      "netSize": 150,
+      "grossSize": 180,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 19,
+      "floor": 11,
+      "totalFloors": 6,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Unfurnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500962918921?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500861491891?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500608878733?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500226330096?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500998759598?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500173657030?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500446023127?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500605796238?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500109405004?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500512794390?w=800&q=80&category=real-estate"
+    ],
+    "agent": {
+      "id": "A65",
+      "name": "Agent 83",
+      "phone": "+82 544 332 5123",
+      "email": "agent83@iwrealty.com",
+      "photo": "/images/icons/png/luxury-homes-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": false,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": true,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-06-06T10:50:47.202Z",
+    "updatedAt": "2025-11-13T10:50:47.202Z",
+    "storeId": "store-002"
+  },
+  {
+    "id": "P02270",
+    "type": "rent",
+    "category": {
+      "main": "commercial",
+      "sub": "shop"
+    },
+    "title": "Kiralık Dükkan - New Czechia",
+    "slug": "kiralik-dükkan-new-czechia-P02270",
+    "description": "New Czechia, Czechia bölgesinde dükkan. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 5910065,
+    "location": {
+      "country": "CZ",
+      "city": "New Czechia",
+      "district": "New Czechia Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 422",
+      "coordinates": {
+        "lat": 49.26529259733339,
+        "lng": 15.169063689307357
+      }
+    },
+    "specs": {
+      "netSize": 129,
+      "grossSize": 155,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 9,
+      "floor": 12,
+      "totalFloors": 20,
+      "heating": "Merkezi",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500488400486?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500963866127?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500120066724?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500780415157?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500718629813?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500225399256?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500132267641?w=800&q=80&category=architecture"
+    ],
+    "agent": {
+      "id": "A82",
+      "name": "Agent 88",
+      "phone": "+91 234 393 8687",
+      "email": "agent33@iwrealty.com",
+      "photo": "/images/icons/png/paris-heritage-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-11-09T10:50:47.202Z",
+    "updatedAt": "2025-11-13T10:50:47.202Z",
+    "storeId": "store-010"
+  },
+  {
+    "id": "P02271",
+    "type": "sale",
+    "category": {
+      "main": "commercial",
+      "sub": "office"
+    },
+    "title": "Satılık Ofis - Czechia Central",
+    "slug": "satilik-ofis-czechia-central-P02271",
+    "description": "Czechia Central, Czechia bölgesinde ofis. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 11051057,
+    "location": {
+      "country": "CZ",
+      "city": "Czechia Central",
+      "district": "Czechia Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 100",
+      "coordinates": {
+        "lat": 49.4186055895792,
+        "lng": 15.494264480193518
+      }
+    },
+    "specs": {
+      "netSize": 707,
+      "grossSize": 848,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 3,
+      "floor": 1,
+      "totalFloors": 8,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Furnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500652384101?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500646748154?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500501147051?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500824776703?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500642738668?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500199631640?w=800&q=80&category=house"
+    ],
+    "agent": {
+      "id": "A38",
+      "name": "Agent 74",
+      "phone": "+96 134 599 7696",
+      "email": "agent10@iwrealty.com",
+      "photo": "/images/icons/png/antalya-investment-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": false,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-06-25T10:50:47.202Z",
+    "updatedAt": "2025-11-13T10:50:47.202Z",
+    "storeId": "store-006"
+  },
+  {
+    "id": "P02272",
+    "type": "rent",
+    "category": {
+      "main": "commercial",
+      "sub": "office"
+    },
+    "title": "Kiralık Ofis - Prague",
+    "slug": "kiralik-ofis-prague-P02272",
+    "description": "Prague, Czechia bölgesinde ofis. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 4348188,
+    "location": {
+      "country": "CZ",
+      "city": "Prague",
+      "district": "Prague Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 316",
+      "coordinates": {
+        "lat": 49.9512408998693,
+        "lng": 15.748008197509218
+      }
+    },
+    "specs": {
+      "netSize": 551,
+      "grossSize": 661,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 4,
+      "floor": 6,
+      "totalFloors": 14,
+      "heating": "Kombi",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500437306845?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500205521476?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500949597308?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500270623764?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500955898392?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500336733382?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500474433258?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500513647152?w=800&q=80&category=interior"
+    ],
+    "agent": {
+      "id": "A94",
+      "name": "Agent 74",
+      "phone": "+58 535 449 2153",
+      "email": "agent14@iwrealty.com",
+      "photo": "/images/icons/png/luxury-homes-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": false,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-06-20T10:50:47.202Z",
+    "updatedAt": "2025-11-13T10:50:47.202Z",
+    "storeId": "store-002"
+  },
+  {
+    "id": "P02273",
+    "type": "sale",
+    "category": {
+      "main": "commercial",
+      "sub": "mall"
+    },
+    "title": "Satılık AVM - Czechia City",
+    "slug": "satilik-avm-czechia-city-P02273",
+    "description": "Czechia City, Czechia bölgesinde avm. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 115421281,
+    "location": {
+      "country": "CZ",
+      "city": "Czechia City",
+      "district": "Czechia City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 946",
+      "coordinates": {
+        "lat": 50.15677867134808,
+        "lng": 15.763742830430312
+      }
+    },
+    "specs": {
+      "netSize": 9926,
+      "grossSize": 11911,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 20,
+      "floor": 4,
+      "totalFloors": 13,
+      "heating": "Kombi",
+      "furnishing": "Furnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500855381470?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500784959184?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500536270476?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500048972278?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500090147402?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500716236484?w=800&q=80&category=building"
+    ],
+    "agent": {
+      "id": "A25",
+      "name": "Agent 28",
+      "phone": "+17 310 591 9836",
+      "email": "agent79@iwrealty.com",
+      "photo": "/images/icons/png/dubai-property-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-01-02T10:50:47.202Z",
+    "updatedAt": "2025-11-13T10:50:47.202Z",
+    "storeId": "store-004"
+  },
+  {
+    "id": "P02274",
+    "type": "rent",
+    "category": {
+      "main": "commercial",
+      "sub": "mall"
+    },
+    "title": "Kiralık AVM - Prague",
+    "slug": "kiralik-avm-prague-P02274",
+    "description": "Prague, Czechia bölgesinde avm. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 300830175,
+    "location": {
+      "country": "CZ",
+      "city": "Prague",
+      "district": "Prague Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 741",
+      "coordinates": {
+        "lat": 50.184497011846325,
+        "lng": 15.22599883907526
+      }
+    },
+    "specs": {
+      "netSize": 27062,
+      "grossSize": 32474,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 0,
+      "floor": 13,
+      "totalFloors": 17,
+      "heating": "Klima",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500670263958?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500904621441?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500476600913?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500034034982?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500385428141?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500712661114?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500066242015?w=800&q=80&category=house"
+    ],
+    "agent": {
+      "id": "A48",
+      "name": "Agent 3",
+      "phone": "+18 147 959 3900",
+      "email": "agent87@iwrealty.com",
+      "photo": "/images/icons/png/sg-harbour-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-03-14T10:50:47.202Z",
+    "updatedAt": "2025-11-13T10:50:47.202Z",
+    "storeId": "store-011"
+  },
+  {
+    "id": "P02275",
+    "type": "sale",
+    "category": {
+      "main": "commercial",
+      "sub": "hotel"
+    },
+    "title": "Satılık Otel - New Czechia",
+    "slug": "satilik-otel-new-czechia-P02275",
+    "description": "New Czechia, Czechia bölgesinde otel. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 165512474,
+    "location": {
+      "country": "CZ",
+      "city": "New Czechia",
+      "district": "New Czechia Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 553",
+      "coordinates": {
+        "lat": 49.86472067578588,
+        "lng": 15.775798536487123
+      }
+    },
+    "specs": {
+      "netSize": 18713,
+      "grossSize": 22456,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 10,
+      "floor": 12,
+      "totalFloors": 17,
+      "heating": "Kombi",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500321542152?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500852521526?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500412259926?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500385812493?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500005350193?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500016512688?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500149759189?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500496099743?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500904472990?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500262532270?w=800&q=80&category=house"
+    ],
+    "agent": {
+      "id": "A17",
+      "name": "Agent 24",
+      "phone": "+76 298 265 6271",
+      "email": "agent2@iwrealty.com",
+      "photo": "/images/icons/png/ny-skyline-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-04-22T10:50:47.202Z",
+    "updatedAt": "2025-11-13T10:50:47.202Z",
+    "storeId": "store-008"
+  },
+  {
+    "id": "P02276",
+    "type": "rent",
+    "category": {
+      "main": "commercial",
+      "sub": "hotel"
+    },
+    "title": "Kiralık Otel - Czechia Central",
+    "slug": "kiralik-otel-czechia-central-P02276",
+    "description": "Czechia Central, Czechia bölgesinde otel. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 155392925,
+    "location": {
+      "country": "CZ",
+      "city": "Czechia Central",
+      "district": "Czechia Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 624",
+      "coordinates": {
+        "lat": 49.51636216707575,
+        "lng": 15.387062719856578
+      }
+    },
+    "specs": {
+      "netSize": 10858,
+      "grossSize": 13030,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 13,
+      "floor": 7,
+      "totalFloors": 17,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Furnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500972279988?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500317390974?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500922868293?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500695214220?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500874033659?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500388555574?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500003046740?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500146717033?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500530828174?w=800&q=80&category=building"
+    ],
+    "agent": {
+      "id": "A8",
+      "name": "Agent 58",
+      "phone": "+58 753 903 3999",
+      "email": "agent38@iwrealty.com",
+      "photo": "/images/icons/png/sydney-coastal-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-05-16T10:50:47.202Z",
+    "updatedAt": "2025-11-13T10:50:47.202Z",
+    "storeId": "store-012"
+  },
+  {
+    "id": "P02277",
+    "type": "sale",
+    "category": {
+      "main": "commercial",
+      "sub": "restaurant"
+    },
+    "title": "Satılık Restoran - Prague",
+    "slug": "satilik-restoran-prague-P02277",
+    "description": "Prague, Czechia bölgesinde restoran. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 1725417,
+    "location": {
+      "country": "CZ",
+      "city": "Prague",
+      "district": "Prague Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 51",
+      "coordinates": {
+        "lat": 50.00931200193361,
+        "lng": 15.223276565978207
+      }
+    },
+    "specs": {
+      "netSize": 725,
+      "grossSize": 870,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 8,
+      "floor": 15,
+      "totalFloors": 7,
+      "heating": "Kombi",
+      "furnishing": "Furnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500484679914?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500359422718?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500373486067?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500867471300?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500793926088?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500193633276?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500373411116?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500697630349?w=800&q=80&category=real-estate"
+    ],
+    "agent": {
+      "id": "A26",
+      "name": "Agent 85",
+      "phone": "+67 386 461 7772",
+      "email": "agent68@iwrealty.com",
+      "photo": "/images/icons/png/dubai-property-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-04-30T10:50:47.202Z",
+    "updatedAt": "2025-11-13T10:50:47.202Z",
+    "storeId": "store-004"
+  },
+  {
+    "id": "P02278",
+    "type": "rent",
+    "category": {
+      "main": "commercial",
+      "sub": "restaurant"
+    },
+    "title": "Kiralık Restoran - Czechia City",
+    "slug": "kiralik-restoran-czechia-city-P02278",
+    "description": "Czechia City, Czechia bölgesinde restoran. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 1165491,
+    "location": {
+      "country": "CZ",
+      "city": "Czechia City",
+      "district": "Czechia City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 772",
+      "coordinates": {
+        "lat": 49.76880977597042,
+        "lng": 15.217351543368999
+      }
+    },
+    "specs": {
+      "netSize": 604,
+      "grossSize": 725,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 3,
+      "floor": 4,
+      "totalFloors": 5,
+      "heating": "Merkezi",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500962042386?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500666395771?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500232536639?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500015634682?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500565042472?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500481456223?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500521698988?w=800&q=80&category=architecture"
+    ],
+    "agent": {
+      "id": "A29",
+      "name": "Agent 17",
+      "phone": "+77 452 967 8685",
+      "email": "agent56@iwrealty.com",
+      "photo": "/images/icons/png/ankara-modern-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-03-17T10:50:47.202Z",
+    "updatedAt": "2025-11-13T10:50:47.202Z",
+    "storeId": "store-003"
+  },
+  {
+    "id": "P02279",
+    "type": "sale",
+    "category": {
+      "main": "commercial",
+      "sub": "warehouse"
+    },
+    "title": "Satılık Depo - Prague",
+    "slug": "satilik-depo-prague-P02279",
+    "description": "Prague, Czechia bölgesinde depo. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 23640099,
+    "location": {
+      "country": "CZ",
+      "city": "Prague",
+      "district": "Prague Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 434",
+      "coordinates": {
+        "lat": 49.705589738401606,
+        "lng": 15.336046478180604
+      }
+    },
+    "specs": {
+      "netSize": 1037,
+      "grossSize": 1244,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 0,
+      "floor": 7,
+      "totalFloors": 19,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Unfurnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500233973968?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500548392362?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500234877548?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500205055815?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500956959821?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500196869323?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500219787935?w=800&q=80&category=interior"
+    ],
+    "agent": {
+      "id": "A64",
+      "name": "Agent 13",
+      "phone": "+43 339 648 6220",
+      "email": "agent70@iwrealty.com",
+      "photo": "/images/icons/png/ny-skyline-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-06-29T10:50:47.202Z",
+    "updatedAt": "2025-11-13T10:50:47.202Z",
+    "storeId": "store-008"
+  },
+  {
+    "id": "P02280",
+    "type": "rent",
+    "category": {
+      "main": "commercial",
+      "sub": "warehouse"
+    },
+    "title": "Kiralık Depo - Czechia Central",
+    "slug": "kiralik-depo-czechia-central-P02280",
+    "description": "Czechia Central, Czechia bölgesinde depo. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 21446925,
+    "location": {
+      "country": "CZ",
+      "city": "Czechia Central",
+      "district": "Czechia Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 893",
+      "coordinates": {
+        "lat": 49.74192879873287,
+        "lng": 15.877461741220163
+      }
+    },
+    "specs": {
+      "netSize": 807,
+      "grossSize": 968,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 20,
+      "floor": 14,
+      "totalFloors": 20,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Furnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500867756497?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500235857684?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500276318912?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500958242095?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500674351251?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500896695821?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500441900426?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500539154942?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500334680876?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500416000108?w=800&q=80&category=real-estate"
+    ],
+    "agent": {
+      "id": "A46",
+      "name": "Agent 83",
+      "phone": "+16 523 249 9834",
+      "email": "agent26@iwrealty.com",
+      "photo": "/images/icons/png/dubai-property-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": false,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-05-10T10:50:47.202Z",
+    "updatedAt": "2025-11-13T10:50:47.202Z",
+    "storeId": "store-004"
+  }
+]

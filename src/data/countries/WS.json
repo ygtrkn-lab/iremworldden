@@ -1,0 +1,2354 @@
+[
+  {
+    "id": "P09311",
+    "type": "sale",
+    "category": {
+      "main": "government"
+    },
+    "title": "Satılık Belediye Binası - Apia",
+    "slug": "satilik-belediye-binası-apia-P09311",
+    "description": "Apia, Samoa bölgesinde belediye binası. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 49663196,
+    "location": {
+      "country": "WS",
+      "city": "Apia",
+      "district": "Apia Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 264",
+      "coordinates": {
+        "lat": -13.620735173432946,
+        "lng": -172.27314397405084
+      }
+    },
+    "specs": {
+      "netSize": 793,
+      "grossSize": 952,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 19,
+      "floor": 14,
+      "totalFloors": 18,
+      "heating": "Klima",
+      "furnishing": "Unfurnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500660874308?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500347685047?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500162931201?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500907075178?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500736473013?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500729434797?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500786358383?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500889108888?w=800&q=80&category=real-estate"
+    ],
+    "agent": {
+      "id": "A81",
+      "name": "Agent 55",
+      "phone": "+47 734 905 8240",
+      "email": "agent13@iwrealty.com",
+      "photo": "/images/icons/png/berlin-urban-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-09-25T10:50:47.279Z",
+    "updatedAt": "2025-11-13T10:50:47.279Z",
+    "storeId": "store-009"
+  },
+  {
+    "id": "P09312",
+    "type": "rent",
+    "category": {
+      "main": "government"
+    },
+    "title": "Kiralık Devlet Binası - Samoa City",
+    "slug": "kiralik-devlet-binası-samoa-city-P09312",
+    "description": "Samoa City, Samoa bölgesinde devlet binası. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 36648773,
+    "location": {
+      "country": "WS",
+      "city": "Samoa City",
+      "district": "Samoa City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 677",
+      "coordinates": {
+        "lat": -13.368344489478908,
+        "lng": -172.71733438282877
+      }
+    },
+    "specs": {
+      "netSize": 931,
+      "grossSize": 1117,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 19,
+      "floor": 9,
+      "totalFloors": 5,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Unfurnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500176121432?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500096402597?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500602255749?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500597436413?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500916588143?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500767515402?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500433437754?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500935351651?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500061844831?w=800&q=80&category=house"
+    ],
+    "agent": {
+      "id": "A59",
+      "name": "Agent 3",
+      "phone": "+95 927 341 9405",
+      "email": "agent97@iwrealty.com",
+      "photo": "/images/icons/png/ankara-modern-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": true,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-06-14T10:50:47.279Z",
+    "updatedAt": "2025-11-13T10:50:47.279Z",
+    "storeId": "store-003"
+  },
+  {
+    "id": "P09313",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Residence - New Samoa",
+    "slug": "satilik-residence-new-samoa-P09313",
+    "description": "New Samoa, Samoa bölgesinde residence. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 3153640,
+    "location": {
+      "country": "WS",
+      "city": "New Samoa",
+      "district": "New Samoa Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 435",
+      "coordinates": {
+        "lat": -13.451387556095161,
+        "lng": -171.92348444913316
+      }
+    },
+    "specs": {
+      "netSize": 423,
+      "grossSize": 508,
+      "rooms": "3+2",
+      "bathrooms": 1,
+      "age": 19,
+      "floor": 11,
+      "totalFloors": 5,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Unfurnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500162526767?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500046420293?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500646668982?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500729829934?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500293299455?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500991472591?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500147533893?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500885944091?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500257247981?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500238250414?w=800&q=80&category=house"
+    ],
+    "agent": {
+      "id": "A29",
+      "name": "Agent 80",
+      "phone": "+88 301 473 7269",
+      "email": "agent80@iwrealty.com",
+      "photo": "/images/icons/png/ankara-modern-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": false,
+      "hasBalcony": false,
+      "hasGarden": true,
+      "hasPool": true,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-09-24T10:50:47.279Z",
+    "updatedAt": "2025-11-13T10:50:47.279Z",
+    "storeId": "store-003"
+  },
+  {
+    "id": "P09314",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Daire - New Samoa",
+    "slug": "kiralik-daire-new-samoa-P09314",
+    "description": "New Samoa, Samoa bölgesinde daire. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 2375269,
+    "location": {
+      "country": "WS",
+      "city": "New Samoa",
+      "district": "New Samoa Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 625",
+      "coordinates": {
+        "lat": -13.386070287991414,
+        "lng": -172.45386344861558
+      }
+    },
+    "specs": {
+      "netSize": 406,
+      "grossSize": 487,
+      "rooms": "1+2",
+      "bathrooms": 4,
+      "age": 4,
+      "floor": 6,
+      "totalFloors": 5,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Unfurnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500861982134?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500747949133?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500334043909?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500119738470?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500490532659?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500686582010?w=800&q=80&category=architecture"
+    ],
+    "agent": {
+      "id": "A12",
+      "name": "Agent 73",
+      "phone": "+59 991 298 7174",
+      "email": "agent83@iwrealty.com",
+      "photo": "/images/icons/png/sydney-coastal-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-04-26T10:50:47.279Z",
+    "updatedAt": "2025-11-13T10:50:47.279Z",
+    "storeId": "store-012"
+  },
+  {
+    "id": "P09315",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Villa - Samoa Central",
+    "slug": "satilik-villa-samoa-central-P09315",
+    "description": "Samoa Central, Samoa bölgesinde villa. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 12139032,
+    "location": {
+      "country": "WS",
+      "city": "Samoa Central",
+      "district": "Samoa Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 26",
+      "coordinates": {
+        "lat": -13.3378282926844,
+        "lng": -172.30459246993377
+      }
+    },
+    "specs": {
+      "netSize": 485,
+      "grossSize": 582,
+      "rooms": "2+2",
+      "bathrooms": 1,
+      "age": 7,
+      "floor": 4,
+      "totalFloors": 17,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Furnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500904459108?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500393288219?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500645235789?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500667030674?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500375878638?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500959282760?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500546812179?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500399941393?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500905150247?w=800&q=80&category=architecture"
+    ],
+    "agent": {
+      "id": "A58",
+      "name": "Agent 62",
+      "phone": "+95 272 167 9529",
+      "email": "agent61@iwrealty.com",
+      "photo": "/images/icons/png/ny-skyline-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-06-14T10:50:47.279Z",
+    "updatedAt": "2025-11-13T10:50:47.279Z",
+    "storeId": "store-008"
+  },
+  {
+    "id": "P09316",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Villa - Samoa City",
+    "slug": "kiralik-villa-samoa-city-P09316",
+    "description": "Samoa City, Samoa bölgesinde villa. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 12047601,
+    "location": {
+      "country": "WS",
+      "city": "Samoa City",
+      "district": "Samoa City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 41",
+      "coordinates": {
+        "lat": -14.078830732588164,
+        "lng": -172.3443650542173
+      }
+    },
+    "specs": {
+      "netSize": 206,
+      "grossSize": 247,
+      "rooms": "3+2",
+      "bathrooms": 1,
+      "age": 14,
+      "floor": 12,
+      "totalFloors": 15,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Furnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500652175150?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500022045364?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500461166222?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500892845415?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500191115952?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500884933373?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500371806428?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500172523791?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500589706261?w=800&q=80&category=architecture"
+    ],
+    "agent": {
+      "id": "A30",
+      "name": "Agent 27",
+      "phone": "+27 615 662 9194",
+      "email": "agent35@iwrealty.com",
+      "photo": "/images/icons/png/izmir-sahil-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": false,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-11-11T10:50:47.279Z",
+    "updatedAt": "2025-11-13T10:50:47.279Z",
+    "storeId": "store-005"
+  },
+  {
+    "id": "P09317",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Müstakil Ev - Samoa Central",
+    "slug": "satilik-müstakil-ev-samoa-central-P09317",
+    "description": "Samoa Central, Samoa bölgesinde müstakil ev. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 12075400,
+    "location": {
+      "country": "WS",
+      "city": "Samoa Central",
+      "district": "Samoa Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 703",
+      "coordinates": {
+        "lat": -13.517476905197674,
+        "lng": -172.1049867673873
+      }
+    },
+    "specs": {
+      "netSize": 461,
+      "grossSize": 553,
+      "rooms": "3+0",
+      "bathrooms": 1,
+      "age": 6,
+      "floor": 6,
+      "totalFloors": 18,
+      "heating": "Merkezi",
+      "furnishing": "Furnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500156706954?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500897075892?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500238594267?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500934879173?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500621474039?w=800&q=80&category=interior"
+    ],
+    "agent": {
+      "id": "A6",
+      "name": "Agent 60",
+      "phone": "+54 369 440 1712",
+      "email": "agent32@iwrealty.com",
+      "photo": "/images/icons/png/antalya-investment-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2024-12-01T10:50:47.279Z",
+    "updatedAt": "2025-11-13T10:50:47.279Z",
+    "storeId": "store-006"
+  },
+  {
+    "id": "P09318",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Daire - Samoa City",
+    "slug": "kiralik-daire-samoa-city-P09318",
+    "description": "Samoa City, Samoa bölgesinde daire. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 3416301,
+    "location": {
+      "country": "WS",
+      "city": "Samoa City",
+      "district": "Samoa City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 607",
+      "coordinates": {
+        "lat": -14.016517073540417,
+        "lng": -172.16768522947706
+      }
+    },
+    "specs": {
+      "netSize": 185,
+      "grossSize": 222,
+      "rooms": "3+2",
+      "bathrooms": 2,
+      "age": 19,
+      "floor": 7,
+      "totalFloors": 17,
+      "heating": "Kombi",
+      "furnishing": "Furnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500256151666?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500363280972?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500933377330?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500836315826?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500598157311?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500604033723?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500012060908?w=800&q=80&category=house"
+    ],
+    "agent": {
+      "id": "A79",
+      "name": "Agent 33",
+      "phone": "+88 492 119 8746",
+      "email": "agent81@iwrealty.com",
+      "photo": "/images/icons/png/sydney-coastal-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-06-04T10:50:47.279Z",
+    "updatedAt": "2025-11-13T10:50:47.279Z",
+    "storeId": "store-012"
+  },
+  {
+    "id": "P09319",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Müstakil Ev - Apia",
+    "slug": "satilik-müstakil-ev-apia-P09319",
+    "description": "Apia, Samoa bölgesinde müstakil ev. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 10351307,
+    "location": {
+      "country": "WS",
+      "city": "Apia",
+      "district": "Apia Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 189",
+      "coordinates": {
+        "lat": -13.384840896020426,
+        "lng": -171.88352277714722
+      }
+    },
+    "specs": {
+      "netSize": 144,
+      "grossSize": 173,
+      "rooms": "5+0",
+      "bathrooms": 1,
+      "age": 12,
+      "floor": 4,
+      "totalFloors": 8,
+      "heating": "Merkezi",
+      "furnishing": "Furnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500382582809?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500142372686?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500947254550?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500811877603?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500104344188?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500209329330?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500673888022?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500817536661?w=800&q=80&category=house"
+    ],
+    "agent": {
+      "id": "A84",
+      "name": "Agent 94",
+      "phone": "+46 145 719 5552",
+      "email": "agent35@iwrealty.com",
+      "photo": "/images/icons/png/luxury-homes-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": false,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": true,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-08-17T10:50:47.279Z",
+    "updatedAt": "2025-11-13T10:50:47.279Z",
+    "storeId": "store-002"
+  },
+  {
+    "id": "P09320",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Müstakil Ev - Samoa City",
+    "slug": "kiralik-müstakil-ev-samoa-city-P09320",
+    "description": "Samoa City, Samoa bölgesinde müstakil ev. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 2147998,
+    "location": {
+      "country": "WS",
+      "city": "Samoa City",
+      "district": "Samoa City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 771",
+      "coordinates": {
+        "lat": -13.550523416654158,
+        "lng": -171.84226444490304
+      }
+    },
+    "specs": {
+      "netSize": 114,
+      "grossSize": 137,
+      "rooms": "3+2",
+      "bathrooms": 2,
+      "age": 9,
+      "floor": 4,
+      "totalFloors": 8,
+      "heating": "Kombi",
+      "furnishing": "Furnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500392188680?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500906911254?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500251840318?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500293580693?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500474501877?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500926808295?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500517728640?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500671730474?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500432103865?w=800&q=80&category=interior"
+    ],
+    "agent": {
+      "id": "A88",
+      "name": "Agent 10",
+      "phone": "+81 672 546 5396",
+      "email": "agent27@iwrealty.com",
+      "photo": "/images/icons/png/sydney-coastal-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": true,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-01-11T10:50:47.279Z",
+    "updatedAt": "2025-11-13T10:50:47.279Z",
+    "storeId": "store-012"
+  },
+  {
+    "id": "P09321",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Villa - Apia",
+    "slug": "satilik-villa-apia-P09321",
+    "description": "Apia, Samoa bölgesinde villa. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 11658566,
+    "location": {
+      "country": "WS",
+      "city": "Apia",
+      "district": "Apia Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 784",
+      "coordinates": {
+        "lat": -14.044391060995293,
+        "lng": -171.84054187534116
+      }
+    },
+    "specs": {
+      "netSize": 344,
+      "grossSize": 413,
+      "rooms": "5+0",
+      "bathrooms": 4,
+      "age": 20,
+      "floor": 7,
+      "totalFloors": 15,
+      "heating": "Merkezi",
+      "furnishing": "Furnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500761081256?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500659248499?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500263640700?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500809061658?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500949176722?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500142197797?w=800&q=80&category=house"
+    ],
+    "agent": {
+      "id": "A48",
+      "name": "Agent 59",
+      "phone": "+91 933 631 4701",
+      "email": "agent49@iwrealty.com",
+      "photo": "/images/icons/png/paris-heritage-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": false,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": true,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-08-26T10:50:47.279Z",
+    "updatedAt": "2025-11-13T10:50:47.279Z",
+    "storeId": "store-010"
+  },
+  {
+    "id": "P09322",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Villa - Samoa Central",
+    "slug": "kiralik-villa-samoa-central-P09322",
+    "description": "Samoa Central, Samoa bölgesinde villa. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 1670359,
+    "location": {
+      "country": "WS",
+      "city": "Samoa Central",
+      "district": "Samoa Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 404",
+      "coordinates": {
+        "lat": -14.008129729779462,
+        "lng": -172.30228096834244
+      }
+    },
+    "specs": {
+      "netSize": 294,
+      "grossSize": 353,
+      "rooms": "4+2",
+      "bathrooms": 3,
+      "age": 10,
+      "floor": 2,
+      "totalFloors": 5,
+      "heating": "Merkezi",
+      "furnishing": "Furnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500113846439?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500886369844?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500200263667?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500118861905?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500860909144?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500778908922?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500017013618?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500311702280?w=800&q=80&category=interior"
+    ],
+    "agent": {
+      "id": "A37",
+      "name": "Agent 73",
+      "phone": "+57 383 768 3836",
+      "email": "agent75@iwrealty.com",
+      "photo": "/images/icons/png/berlin-urban-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-03-10T10:50:47.279Z",
+    "updatedAt": "2025-11-13T10:50:47.279Z",
+    "storeId": "store-009"
+  },
+  {
+    "id": "P09323",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Daire - New Samoa",
+    "slug": "satilik-daire-new-samoa-P09323",
+    "description": "New Samoa, Samoa bölgesinde daire. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 12342683,
+    "location": {
+      "country": "WS",
+      "city": "New Samoa",
+      "district": "New Samoa Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 955",
+      "coordinates": {
+        "lat": -13.945726796070831,
+        "lng": -172.04256013286954
+      }
+    },
+    "specs": {
+      "netSize": 381,
+      "grossSize": 457,
+      "rooms": "2+2",
+      "bathrooms": 3,
+      "age": 14,
+      "floor": 8,
+      "totalFloors": 9,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Unfurnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500427446579?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500920399623?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500888414770?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500404107405?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500131309390?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500327883571?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500347374052?w=800&q=80&category=architecture"
+    ],
+    "agent": {
+      "id": "A21",
+      "name": "Agent 59",
+      "phone": "+60 915 153 4610",
+      "email": "agent18@iwrealty.com",
+      "photo": "/images/icons/png/ny-skyline-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": false,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-09-05T10:50:47.279Z",
+    "updatedAt": "2025-11-13T10:50:47.279Z",
+    "storeId": "store-008"
+  },
+  {
+    "id": "P09324",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Müstakil Ev - Apia",
+    "slug": "kiralik-müstakil-ev-apia-P09324",
+    "description": "Apia, Samoa bölgesinde müstakil ev. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 9149648,
+    "location": {
+      "country": "WS",
+      "city": "Apia",
+      "district": "Apia Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 457",
+      "coordinates": {
+        "lat": -13.765245073267382,
+        "lng": -171.96479555052022
+      }
+    },
+    "specs": {
+      "netSize": 277,
+      "grossSize": 332,
+      "rooms": "3+0",
+      "bathrooms": 2,
+      "age": 1,
+      "floor": 8,
+      "totalFloors": 12,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500622630292?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500742718248?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500106607177?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500243960708?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500152433972?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500247920163?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500975980013?w=800&q=80&category=building"
+    ],
+    "agent": {
+      "id": "A69",
+      "name": "Agent 41",
+      "phone": "+71 993 216 6152",
+      "email": "agent19@iwrealty.com",
+      "photo": "/images/icons/png/london-prime-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": true,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-10-15T10:50:47.279Z",
+    "updatedAt": "2025-11-13T10:50:47.279Z",
+    "storeId": "store-007"
+  },
+  {
+    "id": "P09325",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Residence - New Samoa",
+    "slug": "satilik-residence-new-samoa-P09325",
+    "description": "New Samoa, Samoa bölgesinde residence. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 10135006,
+    "location": {
+      "country": "WS",
+      "city": "New Samoa",
+      "district": "New Samoa Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 281",
+      "coordinates": {
+        "lat": -13.62667822632277,
+        "lng": -172.72606927761748
+      }
+    },
+    "specs": {
+      "netSize": 279,
+      "grossSize": 335,
+      "rooms": "4+0",
+      "bathrooms": 4,
+      "age": 3,
+      "floor": 5,
+      "totalFloors": 5,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500287721164?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500035501405?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500006499913?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500743575545?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500103929270?w=800&q=80&category=architecture"
+    ],
+    "agent": {
+      "id": "A74",
+      "name": "Agent 11",
+      "phone": "+73 119 862 4831",
+      "email": "agent57@iwrealty.com",
+      "photo": "/images/icons/png/berlin-urban-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": true,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-09-07T10:50:47.279Z",
+    "updatedAt": "2025-11-13T10:50:47.279Z",
+    "storeId": "store-009"
+  },
+  {
+    "id": "P09326",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Residence - Apia",
+    "slug": "kiralik-residence-apia-P09326",
+    "description": "Apia, Samoa bölgesinde residence. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 12718148,
+    "location": {
+      "country": "WS",
+      "city": "Apia",
+      "district": "Apia Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 922",
+      "coordinates": {
+        "lat": -13.790957585475004,
+        "lng": -172.26288424232143
+      }
+    },
+    "specs": {
+      "netSize": 131,
+      "grossSize": 157,
+      "rooms": "1+2",
+      "bathrooms": 3,
+      "age": 11,
+      "floor": 15,
+      "totalFloors": 13,
+      "heating": "Klima",
+      "furnishing": "Furnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500541166004?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500640051219?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500783216841?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500323635902?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500027698766?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500043052397?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500818738484?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500869215356?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500373489922?w=800&q=80&category=real-estate"
+    ],
+    "agent": {
+      "id": "A64",
+      "name": "Agent 73",
+      "phone": "+33 215 474 1605",
+      "email": "agent87@iwrealty.com",
+      "photo": "/images/icons/png/berlin-urban-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": false,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-04-13T10:50:47.279Z",
+    "updatedAt": "2025-11-13T10:50:47.279Z",
+    "storeId": "store-009"
+  },
+  {
+    "id": "P09327",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Daire - Apia",
+    "slug": "satilik-daire-apia-P09327",
+    "description": "Apia, Samoa bölgesinde daire. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 9854409,
+    "location": {
+      "country": "WS",
+      "city": "Apia",
+      "district": "Apia Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 421",
+      "coordinates": {
+        "lat": -14.051468739349225,
+        "lng": -172.27739441364204
+      }
+    },
+    "specs": {
+      "netSize": 136,
+      "grossSize": 163,
+      "rooms": "1+1",
+      "bathrooms": 4,
+      "age": 7,
+      "floor": 7,
+      "totalFloors": 11,
+      "heating": "Merkezi",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500576909292?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500926362269?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500794911074?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500986103775?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500580634382?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500031658455?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500274515450?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500466410159?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500251464042?w=800&q=80&category=architecture"
+    ],
+    "agent": {
+      "id": "A25",
+      "name": "Agent 98",
+      "phone": "+84 830 670 1550",
+      "email": "agent75@iwrealty.com",
+      "photo": "/images/icons/png/paris-heritage-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-08-29T10:50:47.279Z",
+    "updatedAt": "2025-11-13T10:50:47.279Z",
+    "storeId": "store-010"
+  },
+  {
+    "id": "P09328",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Residence - Samoa Central",
+    "slug": "kiralik-residence-samoa-central-P09328",
+    "description": "Samoa Central, Samoa bölgesinde residence. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 13344857,
+    "location": {
+      "country": "WS",
+      "city": "Samoa Central",
+      "district": "Samoa Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 338",
+      "coordinates": {
+        "lat": -13.723903929976917,
+        "lng": -172.39658448536792
+      }
+    },
+    "specs": {
+      "netSize": 464,
+      "grossSize": 557,
+      "rooms": "5+2",
+      "bathrooms": 3,
+      "age": 12,
+      "floor": 14,
+      "totalFloors": 15,
+      "heating": "Kombi",
+      "furnishing": "Unfurnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500532520832?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500024416124?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500423627503?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500448777659?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500581128219?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500028937767?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500843084531?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500006395662?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500177642566?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500154021863?w=800&q=80&category=real-estate"
+    ],
+    "agent": {
+      "id": "A93",
+      "name": "Agent 50",
+      "phone": "+96 390 726 6342",
+      "email": "agent45@iwrealty.com",
+      "photo": "/images/icons/png/berlin-urban-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-01-30T10:50:47.279Z",
+    "updatedAt": "2025-11-13T10:50:47.279Z",
+    "storeId": "store-009"
+  },
+  {
+    "id": "P09329",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Residence - Samoa City",
+    "slug": "satilik-residence-samoa-city-P09329",
+    "description": "Samoa City, Samoa bölgesinde residence. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 6159668,
+    "location": {
+      "country": "WS",
+      "city": "Samoa City",
+      "district": "Samoa City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 109",
+      "coordinates": {
+        "lat": -13.395188919200564,
+        "lng": -171.9828874559699
+      }
+    },
+    "specs": {
+      "netSize": 248,
+      "grossSize": 298,
+      "rooms": "5+1",
+      "bathrooms": 3,
+      "age": 1,
+      "floor": 15,
+      "totalFloors": 15,
+      "heating": "Kombi",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500771005450?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500948455461?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500784184578?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500881833422?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500377807788?w=800&q=80&category=building"
+    ],
+    "agent": {
+      "id": "A44",
+      "name": "Agent 46",
+      "phone": "+27 752 477 2503",
+      "email": "agent59@iwrealty.com",
+      "photo": "/images/icons/png/paris-heritage-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-01-14T10:50:47.279Z",
+    "updatedAt": "2025-11-13T10:50:47.279Z",
+    "storeId": "store-010"
+  },
+  {
+    "id": "P09330",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Villa - Apia",
+    "slug": "kiralik-villa-apia-P09330",
+    "description": "Apia, Samoa bölgesinde villa. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 11602862,
+    "location": {
+      "country": "WS",
+      "city": "Apia",
+      "district": "Apia Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 201",
+      "coordinates": {
+        "lat": -13.389050628964128,
+        "lng": -172.3559579615852
+      }
+    },
+    "specs": {
+      "netSize": 129,
+      "grossSize": 155,
+      "rooms": "4+1",
+      "bathrooms": 4,
+      "age": 9,
+      "floor": 4,
+      "totalFloors": 14,
+      "heating": "Merkezi",
+      "furnishing": "Unfurnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500733630972?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500720336399?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500583564524?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500244182541?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500284872859?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500666573346?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500141272379?w=800&q=80&category=real-estate"
+    ],
+    "agent": {
+      "id": "A90",
+      "name": "Agent 42",
+      "phone": "+37 617 233 1904",
+      "email": "agent91@iwrealty.com",
+      "photo": "/images/icons/png/ankara-modern-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-03-06T10:50:47.279Z",
+    "updatedAt": "2025-11-13T10:50:47.279Z",
+    "storeId": "store-003"
+  },
+  {
+    "id": "P09331",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Residence - New Samoa",
+    "slug": "satilik-residence-new-samoa-P09331",
+    "description": "New Samoa, Samoa bölgesinde residence. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 12901716,
+    "location": {
+      "country": "WS",
+      "city": "New Samoa",
+      "district": "New Samoa Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 201",
+      "coordinates": {
+        "lat": -13.47430628638157,
+        "lng": -172.7933663958369
+      }
+    },
+    "specs": {
+      "netSize": 238,
+      "grossSize": 286,
+      "rooms": "3+1",
+      "bathrooms": 1,
+      "age": 1,
+      "floor": 11,
+      "totalFloors": 8,
+      "heating": "Merkezi",
+      "furnishing": "Unfurnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500662356950?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500722318061?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500765016623?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500736202094?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500296932340?w=800&q=80&category=architecture"
+    ],
+    "agent": {
+      "id": "A2",
+      "name": "Agent 97",
+      "phone": "+56 853 798 5041",
+      "email": "agent46@iwrealty.com",
+      "photo": "/images/icons/png/london-prime-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": true,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-01-19T10:50:47.279Z",
+    "updatedAt": "2025-11-13T10:50:47.279Z",
+    "storeId": "store-007"
+  },
+  {
+    "id": "P09332",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Villa - Samoa Central",
+    "slug": "kiralik-villa-samoa-central-P09332",
+    "description": "Samoa Central, Samoa bölgesinde villa. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 6253782,
+    "location": {
+      "country": "WS",
+      "city": "Samoa Central",
+      "district": "Samoa Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 832",
+      "coordinates": {
+        "lat": -13.694566348361137,
+        "lng": -172.0635819677734
+      }
+    },
+    "specs": {
+      "netSize": 411,
+      "grossSize": 493,
+      "rooms": "3+2",
+      "bathrooms": 4,
+      "age": 20,
+      "floor": 4,
+      "totalFloors": 8,
+      "heating": "Merkezi",
+      "furnishing": "Unfurnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500837887363?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500477784417?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500672367751?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500436262282?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500518177500?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500304944808?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500016849495?w=800&q=80&category=building"
+    ],
+    "agent": {
+      "id": "A42",
+      "name": "Agent 66",
+      "phone": "+60 236 992 7173",
+      "email": "agent10@iwrealty.com",
+      "photo": "/images/icons/png/ny-skyline-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2024-12-09T10:50:47.280Z",
+    "updatedAt": "2025-11-13T10:50:47.280Z",
+    "storeId": "store-008"
+  },
+  {
+    "id": "P09333",
+    "type": "sale",
+    "category": {
+      "main": "commercial",
+      "sub": "hospital"
+    },
+    "title": "Satılık Hastane - New Samoa",
+    "slug": "satilik-hastane-new-samoa-P09333",
+    "description": "New Samoa, Samoa bölgesinde hastane. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 20487323,
+    "location": {
+      "country": "WS",
+      "city": "New Samoa",
+      "district": "New Samoa Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 480",
+      "coordinates": {
+        "lat": -13.325413646606334,
+        "lng": -172.66789048649431
+      }
+    },
+    "specs": {
+      "netSize": 15590,
+      "grossSize": 18708,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 20,
+      "floor": 2,
+      "totalFloors": 6,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500498245707?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500547008010?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500012875044?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500280679744?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500259556106?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500593176766?w=800&q=80&category=building"
+    ],
+    "agent": {
+      "id": "A18",
+      "name": "Agent 12",
+      "phone": "+40 849 106 6174",
+      "email": "agent6@iwrealty.com",
+      "photo": "/images/icons/png/sydney-coastal-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-02-28T10:50:47.280Z",
+    "updatedAt": "2025-11-13T10:50:47.280Z",
+    "storeId": "store-012"
+  },
+  {
+    "id": "P09334",
+    "type": "rent",
+    "category": {
+      "main": "commercial",
+      "sub": "hospital"
+    },
+    "title": "Kiralık Hastane - Samoa Central",
+    "slug": "kiralik-hastane-samoa-central-P09334",
+    "description": "Samoa Central, Samoa bölgesinde hastane. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 27759143,
+    "location": {
+      "country": "WS",
+      "city": "Samoa Central",
+      "district": "Samoa Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 780",
+      "coordinates": {
+        "lat": -13.663703636625886,
+        "lng": -172.50760153035938
+      }
+    },
+    "specs": {
+      "netSize": 8281,
+      "grossSize": 9937,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 19,
+      "floor": 10,
+      "totalFloors": 17,
+      "heating": "Merkezi",
+      "furnishing": "Unfurnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500488880061?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500033770975?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500187844516?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500697066074?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500510240347?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500212405059?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500463644049?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500604119073?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500018121024?w=800&q=80&category=house"
+    ],
+    "agent": {
+      "id": "A19",
+      "name": "Agent 47",
+      "phone": "+61 374 949 5029",
+      "email": "agent65@iwrealty.com",
+      "photo": "/images/icons/png/berlin-urban-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-11-11T10:50:47.280Z",
+    "updatedAt": "2025-11-13T10:50:47.280Z",
+    "storeId": "store-009"
+  },
+  {
+    "id": "P09335",
+    "type": "sale",
+    "category": {
+      "main": "commercial",
+      "sub": "clinic"
+    },
+    "title": "Satılık Klinik - Apia",
+    "slug": "satilik-klinik-apia-P09335",
+    "description": "Apia, Samoa bölgesinde klinik. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 14671847,
+    "location": {
+      "country": "WS",
+      "city": "Apia",
+      "district": "Apia Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 11",
+      "coordinates": {
+        "lat": -14.049375109744883,
+        "lng": -171.84516360286847
+      }
+    },
+    "specs": {
+      "netSize": 1200,
+      "grossSize": 1440,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 16,
+      "floor": 1,
+      "totalFloors": 5,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500998941494?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500919221594?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500310642667?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500631189658?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500642167275?w=800&q=80&category=architecture"
+    ],
+    "agent": {
+      "id": "A78",
+      "name": "Agent 9",
+      "phone": "+12 489 658 1947",
+      "email": "agent86@iwrealty.com",
+      "photo": "/images/icons/png/dubai-property-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-01-31T10:50:47.280Z",
+    "updatedAt": "2025-11-13T10:50:47.280Z",
+    "storeId": "store-004"
+  },
+  {
+    "id": "P09336",
+    "type": "rent",
+    "category": {
+      "main": "commercial",
+      "sub": "clinic"
+    },
+    "title": "Kiralık Klinik - Samoa City",
+    "slug": "kiralik-klinik-samoa-city-P09336",
+    "description": "Samoa City, Samoa bölgesinde klinik. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 10882056,
+    "location": {
+      "country": "WS",
+      "city": "Samoa City",
+      "district": "Samoa City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 732",
+      "coordinates": {
+        "lat": -13.969013959263332,
+        "lng": -172.81860369660845
+      }
+    },
+    "specs": {
+      "netSize": 202,
+      "grossSize": 242,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 20,
+      "floor": 11,
+      "totalFloors": 16,
+      "heating": "Kombi",
+      "furnishing": "Furnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500095985451?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500468271341?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500348213689?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500859543238?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500133788570?w=800&q=80&category=real-estate"
+    ],
+    "agent": {
+      "id": "A44",
+      "name": "Agent 26",
+      "phone": "+40 432 195 1362",
+      "email": "agent50@iwrealty.com",
+      "photo": "/images/icons/png/ankara-modern-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-06-04T10:50:47.280Z",
+    "updatedAt": "2025-11-13T10:50:47.280Z",
+    "storeId": "store-003"
+  },
+  {
+    "id": "P09337",
+    "type": "sale",
+    "category": {
+      "main": "commercial",
+      "sub": "shop"
+    },
+    "title": "Satılık Dükkan - Apia",
+    "slug": "satilik-dükkan-apia-P09337",
+    "description": "Apia, Samoa bölgesinde dükkan. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 4160858,
+    "location": {
+      "country": "WS",
+      "city": "Apia",
+      "district": "Apia Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 276",
+      "coordinates": {
+        "lat": -13.502312612738889,
+        "lng": -172.41970664802324
+      }
+    },
+    "specs": {
+      "netSize": 463,
+      "grossSize": 556,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 9,
+      "floor": 1,
+      "totalFloors": 5,
+      "heating": "Merkezi",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500705014691?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500207231643?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500610235907?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500834709745?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500368689750?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500040841122?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500130113942?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500289692078?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500730793882?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500071603812?w=800&q=80&category=house"
+    ],
+    "agent": {
+      "id": "A89",
+      "name": "Agent 44",
+      "phone": "+35 409 710 9774",
+      "email": "agent26@iwrealty.com",
+      "photo": "/images/icons/png/ankara-modern-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-09-17T10:50:47.280Z",
+    "updatedAt": "2025-11-13T10:50:47.280Z",
+    "storeId": "store-003"
+  },
+  {
+    "id": "P09338",
+    "type": "rent",
+    "category": {
+      "main": "commercial",
+      "sub": "shop"
+    },
+    "title": "Kiralık Dükkan - New Samoa",
+    "slug": "kiralik-dükkan-new-samoa-P09338",
+    "description": "New Samoa, Samoa bölgesinde dükkan. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 7444553,
+    "location": {
+      "country": "WS",
+      "city": "New Samoa",
+      "district": "New Samoa Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 875",
+      "coordinates": {
+        "lat": -13.210888790976018,
+        "lng": -172.64643021146654
+      }
+    },
+    "specs": {
+      "netSize": 75,
+      "grossSize": 90,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 6,
+      "floor": 3,
+      "totalFloors": 7,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500155054902?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500667348256?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500238495786?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500297886028?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500144270433?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500524134217?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500289680552?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500223224941?w=800&q=80&category=house"
+    ],
+    "agent": {
+      "id": "A4",
+      "name": "Agent 1",
+      "phone": "+60 599 606 4498",
+      "email": "agent72@iwrealty.com",
+      "photo": "/images/icons/png/ny-skyline-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": false,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-06-10T10:50:47.280Z",
+    "updatedAt": "2025-11-13T10:50:47.280Z",
+    "storeId": "store-008"
+  },
+  {
+    "id": "P09339",
+    "type": "sale",
+    "category": {
+      "main": "commercial",
+      "sub": "office"
+    },
+    "title": "Satılık Ofis - New Samoa",
+    "slug": "satilik-ofis-new-samoa-P09339",
+    "description": "New Samoa, Samoa bölgesinde ofis. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 8767564,
+    "location": {
+      "country": "WS",
+      "city": "New Samoa",
+      "district": "New Samoa Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 751",
+      "coordinates": {
+        "lat": -13.456878286679238,
+        "lng": -171.8761696732198
+      }
+    },
+    "specs": {
+      "netSize": 889,
+      "grossSize": 1067,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 4,
+      "floor": 13,
+      "totalFloors": 14,
+      "heating": "Klima",
+      "furnishing": "Furnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500085699762?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500423050554?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500296812465?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500742007690?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500702329556?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500089370777?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500928156040?w=800&q=80&category=building"
+    ],
+    "agent": {
+      "id": "A1",
+      "name": "Agent 98",
+      "phone": "+55 776 497 4506",
+      "email": "agent38@iwrealty.com",
+      "photo": "/images/icons/png/ny-skyline-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": true,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-01-05T10:50:47.280Z",
+    "updatedAt": "2025-11-13T10:50:47.280Z",
+    "storeId": "store-008"
+  },
+  {
+    "id": "P09340",
+    "type": "rent",
+    "category": {
+      "main": "commercial",
+      "sub": "office"
+    },
+    "title": "Kiralık Ofis - Samoa City",
+    "slug": "kiralik-ofis-samoa-city-P09340",
+    "description": "Samoa City, Samoa bölgesinde ofis. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 2655245,
+    "location": {
+      "country": "WS",
+      "city": "Samoa City",
+      "district": "Samoa City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 644",
+      "coordinates": {
+        "lat": -13.136118641122943,
+        "lng": -172.11471409252533
+      }
+    },
+    "specs": {
+      "netSize": 381,
+      "grossSize": 457,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 11,
+      "floor": 2,
+      "totalFloors": 17,
+      "heating": "Merkezi",
+      "furnishing": "Unfurnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500143741693?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500102394594?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500477105562?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500704009872?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500654464150?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500222994122?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500508592386?w=800&q=80&category=interior"
+    ],
+    "agent": {
+      "id": "A34",
+      "name": "Agent 54",
+      "phone": "+66 775 184 8679",
+      "email": "agent83@iwrealty.com",
+      "photo": "/images/icons/png/paris-heritage-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-01-15T10:50:47.280Z",
+    "updatedAt": "2025-11-13T10:50:47.280Z",
+    "storeId": "store-010"
+  },
+  {
+    "id": "P09341",
+    "type": "sale",
+    "category": {
+      "main": "commercial",
+      "sub": "mall"
+    },
+    "title": "Satılık AVM - Samoa City",
+    "slug": "satilik-avm-samoa-city-P09341",
+    "description": "Samoa City, Samoa bölgesinde avm. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 425980327,
+    "location": {
+      "country": "WS",
+      "city": "Samoa City",
+      "district": "Samoa City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 922",
+      "coordinates": {
+        "lat": -13.938728727877631,
+        "lng": -172.52927063089976
+      }
+    },
+    "specs": {
+      "netSize": 33583,
+      "grossSize": 40300,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 12,
+      "floor": 11,
+      "totalFloors": 10,
+      "heating": "Klima",
+      "furnishing": "Furnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500121524545?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500581189947?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500233277988?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500505395134?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500918190176?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500606783582?w=800&q=80&category=architecture"
+    ],
+    "agent": {
+      "id": "A62",
+      "name": "Agent 13",
+      "phone": "+96 720 154 7330",
+      "email": "agent73@iwrealty.com",
+      "photo": "/images/icons/png/luxury-homes-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": false,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-05-27T10:50:47.280Z",
+    "updatedAt": "2025-11-13T10:50:47.280Z",
+    "storeId": "store-002"
+  },
+  {
+    "id": "P09342",
+    "type": "rent",
+    "category": {
+      "main": "commercial",
+      "sub": "mall"
+    },
+    "title": "Kiralık AVM - Apia",
+    "slug": "kiralik-avm-apia-P09342",
+    "description": "Apia, Samoa bölgesinde avm. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 160595648,
+    "location": {
+      "country": "WS",
+      "city": "Apia",
+      "district": "Apia Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 132",
+      "coordinates": {
+        "lat": -13.849198885707562,
+        "lng": -172.82432049016813
+      }
+    },
+    "specs": {
+      "netSize": 9147,
+      "grossSize": 10976,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 19,
+      "floor": 9,
+      "totalFloors": 16,
+      "heating": "Kombi",
+      "furnishing": "Unfurnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500297908376?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500622986879?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500837807062?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500883456280?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500485596145?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500752491846?w=800&q=80&category=real-estate"
+    ],
+    "agent": {
+      "id": "A18",
+      "name": "Agent 54",
+      "phone": "+71 206 560 1222",
+      "email": "agent43@iwrealty.com",
+      "photo": "/images/icons/png/paris-heritage-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-03-20T10:50:47.280Z",
+    "updatedAt": "2025-11-13T10:50:47.280Z",
+    "storeId": "store-010"
+  },
+  {
+    "id": "P09343",
+    "type": "sale",
+    "category": {
+      "main": "commercial",
+      "sub": "hotel"
+    },
+    "title": "Satılık Otel - Apia",
+    "slug": "satilik-otel-apia-P09343",
+    "description": "Apia, Samoa bölgesinde otel. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 189040414,
+    "location": {
+      "country": "WS",
+      "city": "Apia",
+      "district": "Apia Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 530",
+      "coordinates": {
+        "lat": -13.524328215275803,
+        "lng": -171.93095908457582
+      }
+    },
+    "specs": {
+      "netSize": 22456,
+      "grossSize": 26947,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 7,
+      "floor": 8,
+      "totalFloors": 9,
+      "heating": "Kombi",
+      "furnishing": "Furnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500061392981?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500764766486?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500810833506?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500362550390?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500908306382?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500691443559?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500768794258?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500488289009?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500337102107?w=800&q=80&category=architecture"
+    ],
+    "agent": {
+      "id": "A70",
+      "name": "Agent 62",
+      "phone": "+76 564 479 3743",
+      "email": "agent75@iwrealty.com",
+      "photo": "/images/icons/png/dubai-property-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2024-11-13T10:50:47.280Z",
+    "updatedAt": "2025-11-13T10:50:47.280Z",
+    "storeId": "store-004"
+  },
+  {
+    "id": "P09344",
+    "type": "rent",
+    "category": {
+      "main": "commercial",
+      "sub": "hotel"
+    },
+    "title": "Kiralık Otel - Apia",
+    "slug": "kiralik-otel-apia-P09344",
+    "description": "Apia, Samoa bölgesinde otel. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 55753713,
+    "location": {
+      "country": "WS",
+      "city": "Apia",
+      "district": "Apia Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 973",
+      "coordinates": {
+        "lat": -13.975045660981822,
+        "lng": -172.15683750155185
+      }
+    },
+    "specs": {
+      "netSize": 27376,
+      "grossSize": 32851,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 15,
+      "floor": 2,
+      "totalFloors": 19,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Furnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500155184605?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500857735037?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500539470644?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500547408333?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500707708882?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500089205180?w=800&q=80&category=real-estate"
+    ],
+    "agent": {
+      "id": "A81",
+      "name": "Agent 90",
+      "phone": "+59 420 327 5500",
+      "email": "agent93@iwrealty.com",
+      "photo": "/images/icons/png/antalya-investment-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": false,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-03-28T10:50:47.280Z",
+    "updatedAt": "2025-11-13T10:50:47.280Z",
+    "storeId": "store-006"
+  },
+  {
+    "id": "P09345",
+    "type": "sale",
+    "category": {
+      "main": "commercial",
+      "sub": "restaurant"
+    },
+    "title": "Satılık Restoran - Samoa Central",
+    "slug": "satilik-restoran-samoa-central-P09345",
+    "description": "Samoa Central, Samoa bölgesinde restoran. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 3328921,
+    "location": {
+      "country": "WS",
+      "city": "Samoa Central",
+      "district": "Samoa Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 633",
+      "coordinates": {
+        "lat": -13.13235865359428,
+        "lng": -171.8442043267623
+      }
+    },
+    "specs": {
+      "netSize": 775,
+      "grossSize": 930,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 1,
+      "floor": 6,
+      "totalFloors": 5,
+      "heating": "Merkezi",
+      "furnishing": "Furnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500872754534?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500771011773?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500958788757?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500911486502?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500043571921?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500672962984?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500769239066?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500772871267?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500385182006?w=800&q=80&category=real-estate"
+    ],
+    "agent": {
+      "id": "A7",
+      "name": "Agent 1",
+      "phone": "+30 410 859 4401",
+      "email": "agent80@iwrealty.com",
+      "photo": "/images/icons/png/dubai-property-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": true,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-08-22T10:50:47.280Z",
+    "updatedAt": "2025-11-13T10:50:47.280Z",
+    "storeId": "store-004"
+  },
+  {
+    "id": "P09346",
+    "type": "rent",
+    "category": {
+      "main": "commercial",
+      "sub": "restaurant"
+    },
+    "title": "Kiralık Restoran - Apia",
+    "slug": "kiralik-restoran-apia-P09346",
+    "description": "Apia, Samoa bölgesinde restoran. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 8721430,
+    "location": {
+      "country": "WS",
+      "city": "Apia",
+      "district": "Apia Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 17",
+      "coordinates": {
+        "lat": -13.528124651332995,
+        "lng": -172.26559292112762
+      }
+    },
+    "specs": {
+      "netSize": 1011,
+      "grossSize": 1213,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 7,
+      "floor": 13,
+      "totalFloors": 9,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Furnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500433023975?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500324062200?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500936273832?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500826730708?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500787987787?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500413007624?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500424459256?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500688075960?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500548251144?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500691925217?w=800&q=80&category=house"
+    ],
+    "agent": {
+      "id": "A65",
+      "name": "Agent 91",
+      "phone": "+87 729 204 6581",
+      "email": "agent23@iwrealty.com",
+      "photo": "/images/icons/png/london-prime-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2024-12-14T10:50:47.280Z",
+    "updatedAt": "2025-11-13T10:50:47.280Z",
+    "storeId": "store-007"
+  },
+  {
+    "id": "P09347",
+    "type": "sale",
+    "category": {
+      "main": "commercial",
+      "sub": "warehouse"
+    },
+    "title": "Satılık Depo - Samoa Central",
+    "slug": "satilik-depo-samoa-central-P09347",
+    "description": "Samoa Central, Samoa bölgesinde depo. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 12599801,
+    "location": {
+      "country": "WS",
+      "city": "Samoa Central",
+      "district": "Samoa Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 905",
+      "coordinates": {
+        "lat": -13.113381202815937,
+        "lng": -172.06485223012706
+      }
+    },
+    "specs": {
+      "netSize": 5814,
+      "grossSize": 6977,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 7,
+      "floor": 14,
+      "totalFloors": 17,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500727065136?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500013566231?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500192239039?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500091879144?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500917216210?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500976533669?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500765304745?w=800&q=80&category=building"
+    ],
+    "agent": {
+      "id": "A70",
+      "name": "Agent 74",
+      "phone": "+95 645 231 5727",
+      "email": "agent30@iwrealty.com",
+      "photo": "/images/icons/png/berlin-urban-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": false,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-02-26T10:50:47.280Z",
+    "updatedAt": "2025-11-13T10:50:47.280Z",
+    "storeId": "store-009"
+  },
+  {
+    "id": "P09348",
+    "type": "rent",
+    "category": {
+      "main": "commercial",
+      "sub": "warehouse"
+    },
+    "title": "Kiralık Depo - Samoa Central",
+    "slug": "kiralik-depo-samoa-central-P09348",
+    "description": "Samoa Central, Samoa bölgesinde depo. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 17208572,
+    "location": {
+      "country": "WS",
+      "city": "Samoa Central",
+      "district": "Samoa Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 666",
+      "coordinates": {
+        "lat": -13.41159185843503,
+        "lng": -172.08941481002353
+      }
+    },
+    "specs": {
+      "netSize": 8094,
+      "grossSize": 9713,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 8,
+      "floor": 3,
+      "totalFloors": 17,
+      "heating": "Kombi",
+      "furnishing": "Furnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500272545012?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500772930507?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500091153454?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500799444100?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500943297754?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500053603423?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500919308808?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500643008032?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500226574672?w=800&q=80&category=house"
+    ],
+    "agent": {
+      "id": "A43",
+      "name": "Agent 67",
+      "phone": "+91 160 585 8966",
+      "email": "agent19@iwrealty.com",
+      "photo": "/images/icons/png/dubai-property-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": false,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2024-11-25T10:50:47.280Z",
+    "updatedAt": "2025-11-13T10:50:47.280Z",
+    "storeId": "store-004"
+  }
+]

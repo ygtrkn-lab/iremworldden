@@ -1,0 +1,2358 @@
+[
+  {
+    "id": "P02509",
+    "type": "sale",
+    "category": {
+      "main": "government"
+    },
+    "title": "Satılık Devlet Binası - Ecuador Central",
+    "slug": "satilik-devlet-binası-ecuador-central-P02509",
+    "description": "Ecuador Central, Ecuador bölgesinde devlet binası. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 35358923,
+    "location": {
+      "country": "EC",
+      "city": "Ecuador Central",
+      "district": "Ecuador Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 613",
+      "coordinates": {
+        "lat": -1.6764392344947878,
+        "lng": -77.91154767986319
+      }
+    },
+    "specs": {
+      "netSize": 841,
+      "grossSize": 1009,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 2,
+      "floor": 5,
+      "totalFloors": 19,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Furnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500041895395?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500430927456?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500997139826?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500576925015?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500239838851?w=800&q=80&category=interior"
+    ],
+    "agent": {
+      "id": "A9",
+      "name": "Agent 16",
+      "phone": "+17 483 941 6550",
+      "email": "agent89@iwrealty.com",
+      "photo": "/images/icons/png/izmir-sahil-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-03-11T10:50:47.204Z",
+    "updatedAt": "2025-11-13T10:50:47.204Z",
+    "storeId": "store-005"
+  },
+  {
+    "id": "P02510",
+    "type": "rent",
+    "category": {
+      "main": "government"
+    },
+    "title": "Kiralık Hastane - Quito",
+    "slug": "kiralik-hastane-quito-P02510",
+    "description": "Quito, Ecuador bölgesinde hastane. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 7639871,
+    "location": {
+      "country": "EC",
+      "city": "Quito",
+      "district": "Quito Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 861",
+      "coordinates": {
+        "lat": -2.060379514957845,
+        "lng": -77.78999616941604
+      }
+    },
+    "specs": {
+      "netSize": 3128,
+      "grossSize": 3754,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 19,
+      "floor": 3,
+      "totalFloors": 10,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Unfurnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500433523331?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500647587830?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500418428461?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500634697206?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500208874075?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500181567595?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500235195283?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500276325381?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500284070395?w=800&q=80&category=building"
+    ],
+    "agent": {
+      "id": "A47",
+      "name": "Agent 15",
+      "phone": "+34 772 707 3068",
+      "email": "agent55@iwrealty.com",
+      "photo": "/images/icons/png/sg-harbour-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": false,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-06-08T10:50:47.204Z",
+    "updatedAt": "2025-11-13T10:50:47.204Z",
+    "storeId": "store-011"
+  },
+  {
+    "id": "P02511",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Müstakil Ev - Quito",
+    "slug": "satilik-müstakil-ev-quito-P02511",
+    "description": "Quito, Ecuador bölgesinde müstakil ev. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 7269289,
+    "location": {
+      "country": "EC",
+      "city": "Quito",
+      "district": "Quito Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 70",
+      "coordinates": {
+        "lat": -2.449275007858182,
+        "lng": -77.1000103341399
+      }
+    },
+    "specs": {
+      "netSize": 251,
+      "grossSize": 301,
+      "rooms": "2+1",
+      "bathrooms": 2,
+      "age": 1,
+      "floor": 4,
+      "totalFloors": 10,
+      "heating": "Kombi",
+      "furnishing": "Furnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500352282111?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500202869802?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500896743975?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500084032513?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500221451151?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500269135006?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500030681937?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500267856033?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500183645866?w=800&q=80&category=real-estate"
+    ],
+    "agent": {
+      "id": "A1",
+      "name": "Agent 13",
+      "phone": "+87 392 622 1408",
+      "email": "agent48@iwrealty.com",
+      "photo": "/images/icons/png/luxury-homes-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": false,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-09-15T10:50:47.204Z",
+    "updatedAt": "2025-11-13T10:50:47.204Z",
+    "storeId": "store-002"
+  },
+  {
+    "id": "P02512",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Residence - Quito",
+    "slug": "kiralik-residence-quito-P02512",
+    "description": "Quito, Ecuador bölgesinde residence. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 6628360,
+    "location": {
+      "country": "EC",
+      "city": "Quito",
+      "district": "Quito Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 837",
+      "coordinates": {
+        "lat": -1.776514190101143,
+        "lng": -77.2000326650092
+      }
+    },
+    "specs": {
+      "netSize": 118,
+      "grossSize": 142,
+      "rooms": "4+0",
+      "bathrooms": 4,
+      "age": 5,
+      "floor": 3,
+      "totalFloors": 18,
+      "heating": "Kombi",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500079620089?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500876984451?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500480971323?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500600705403?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500874120955?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500248544717?w=800&q=80&category=house"
+    ],
+    "agent": {
+      "id": "A85",
+      "name": "Agent 2",
+      "phone": "+91 963 427 3869",
+      "email": "agent73@iwrealty.com",
+      "photo": "/images/icons/png/izmir-sahil-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-07-25T10:50:47.204Z",
+    "updatedAt": "2025-11-13T10:50:47.204Z",
+    "storeId": "store-005"
+  },
+  {
+    "id": "P02513",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Villa - Quito",
+    "slug": "satilik-villa-quito-P02513",
+    "description": "Quito, Ecuador bölgesinde villa. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 3271683,
+    "location": {
+      "country": "EC",
+      "city": "Quito",
+      "district": "Quito Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 992",
+      "coordinates": {
+        "lat": -1.5555459736872468,
+        "lng": -77.41887018183309
+      }
+    },
+    "specs": {
+      "netSize": 226,
+      "grossSize": 271,
+      "rooms": "3+0",
+      "bathrooms": 3,
+      "age": 1,
+      "floor": 11,
+      "totalFloors": 15,
+      "heating": "Klima",
+      "furnishing": "Unfurnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500500605920?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500308530766?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500878330083?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500026249775?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500384760802?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500041015251?w=800&q=80&category=interior"
+    ],
+    "agent": {
+      "id": "A49",
+      "name": "Agent 80",
+      "phone": "+70 788 645 2735",
+      "email": "agent87@iwrealty.com",
+      "photo": "/images/icons/png/ny-skyline-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2024-12-14T10:50:47.204Z",
+    "updatedAt": "2025-11-13T10:50:47.204Z",
+    "storeId": "store-008"
+  },
+  {
+    "id": "P02514",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Residence - Ecuador City",
+    "slug": "kiralik-residence-ecuador-city-P02514",
+    "description": "Ecuador City, Ecuador bölgesinde residence. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 3975113,
+    "location": {
+      "country": "EC",
+      "city": "Ecuador City",
+      "district": "Ecuador City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 213",
+      "coordinates": {
+        "lat": -1.837592868970927,
+        "lng": -77.27642604414181
+      }
+    },
+    "specs": {
+      "netSize": 223,
+      "grossSize": 268,
+      "rooms": "4+1",
+      "bathrooms": 3,
+      "age": 11,
+      "floor": 10,
+      "totalFloors": 7,
+      "heating": "Kombi",
+      "furnishing": "Unfurnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500531588364?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500015810629?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500056359593?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500532311439?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500671604513?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500828571761?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500015250283?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500659323217?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500392848494?w=800&q=80&category=house"
+    ],
+    "agent": {
+      "id": "A25",
+      "name": "Agent 63",
+      "phone": "+66 345 744 2971",
+      "email": "agent21@iwrealty.com",
+      "photo": "/images/icons/png/ny-skyline-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": true,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-01-20T10:50:47.204Z",
+    "updatedAt": "2025-11-13T10:50:47.204Z",
+    "storeId": "store-008"
+  },
+  {
+    "id": "P02515",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Müstakil Ev - Ecuador City",
+    "slug": "satilik-müstakil-ev-ecuador-city-P02515",
+    "description": "Ecuador City, Ecuador bölgesinde müstakil ev. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 4476358,
+    "location": {
+      "country": "EC",
+      "city": "Ecuador City",
+      "district": "Ecuador City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 239",
+      "coordinates": {
+        "lat": -1.9600961865486588,
+        "lng": -77.60942395442991
+      }
+    },
+    "specs": {
+      "netSize": 393,
+      "grossSize": 472,
+      "rooms": "4+0",
+      "bathrooms": 3,
+      "age": 13,
+      "floor": 4,
+      "totalFloors": 20,
+      "heating": "Klima",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500878519353?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500639690854?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500719564904?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500558764789?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500802897827?w=800&q=80&category=real-estate"
+    ],
+    "agent": {
+      "id": "A80",
+      "name": "Agent 72",
+      "phone": "+28 158 497 1199",
+      "email": "agent22@iwrealty.com",
+      "photo": "/images/icons/png/london-prime-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": true,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-07-29T10:50:47.204Z",
+    "updatedAt": "2025-11-13T10:50:47.204Z",
+    "storeId": "store-007"
+  },
+  {
+    "id": "P02516",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Müstakil Ev - Ecuador City",
+    "slug": "kiralik-müstakil-ev-ecuador-city-P02516",
+    "description": "Ecuador City, Ecuador bölgesinde müstakil ev. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 5369845,
+    "location": {
+      "country": "EC",
+      "city": "Ecuador City",
+      "district": "Ecuador City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 873",
+      "coordinates": {
+        "lat": -2.4169011275816787,
+        "lng": -77.15080388579904
+      }
+    },
+    "specs": {
+      "netSize": 338,
+      "grossSize": 406,
+      "rooms": "5+0",
+      "bathrooms": 4,
+      "age": 2,
+      "floor": 9,
+      "totalFloors": 17,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Unfurnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500976804499?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500832157185?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500341394028?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500359050507?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500368548093?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500263937978?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500574812496?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500560271369?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500924301309?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500576147492?w=800&q=80&category=interior"
+    ],
+    "agent": {
+      "id": "A54",
+      "name": "Agent 24",
+      "phone": "+88 478 612 5743",
+      "email": "agent77@iwrealty.com",
+      "photo": "/images/icons/png/ny-skyline-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-05-11T10:50:47.204Z",
+    "updatedAt": "2025-11-13T10:50:47.204Z",
+    "storeId": "store-008"
+  },
+  {
+    "id": "P02517",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Müstakil Ev - Quito",
+    "slug": "satilik-müstakil-ev-quito-P02517",
+    "description": "Quito, Ecuador bölgesinde müstakil ev. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 11398974,
+    "location": {
+      "country": "EC",
+      "city": "Quito",
+      "district": "Quito Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 961",
+      "coordinates": {
+        "lat": -1.6865645337817103,
+        "lng": -77.41393815537543
+      }
+    },
+    "specs": {
+      "netSize": 215,
+      "grossSize": 258,
+      "rooms": "1+0",
+      "bathrooms": 2,
+      "age": 3,
+      "floor": 6,
+      "totalFloors": 14,
+      "heating": "Merkezi",
+      "furnishing": "Furnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500496671092?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500433734132?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500658428857?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500251034209?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500708216152?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500827510889?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500401114102?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500925163193?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500415979121?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500079305721?w=800&q=80&category=interior"
+    ],
+    "agent": {
+      "id": "A55",
+      "name": "Agent 54",
+      "phone": "+98 221 657 9907",
+      "email": "agent79@iwrealty.com",
+      "photo": "/images/icons/png/dubai-property-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2024-12-15T10:50:47.204Z",
+    "updatedAt": "2025-11-13T10:50:47.204Z",
+    "storeId": "store-004"
+  },
+  {
+    "id": "P02518",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Daire - Ecuador Central",
+    "slug": "kiralik-daire-ecuador-central-P02518",
+    "description": "Ecuador Central, Ecuador bölgesinde daire. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 10532202,
+    "location": {
+      "country": "EC",
+      "city": "Ecuador Central",
+      "district": "Ecuador Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 850",
+      "coordinates": {
+        "lat": -1.5659091029106147,
+        "lng": -77.56055526511196
+      }
+    },
+    "specs": {
+      "netSize": 81,
+      "grossSize": 97,
+      "rooms": "3+0",
+      "bathrooms": 3,
+      "age": 12,
+      "floor": 2,
+      "totalFloors": 15,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Unfurnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500302763550?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500520256708?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500825331784?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500423038088?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500904415860?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500843756181?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500037256782?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500852221376?w=800&q=80&category=architecture"
+    ],
+    "agent": {
+      "id": "A54",
+      "name": "Agent 69",
+      "phone": "+52 663 429 8834",
+      "email": "agent24@iwrealty.com",
+      "photo": "/images/icons/png/luxury-homes-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": true,
+      "hasSecurity": false
+    },
+    "createdAt": "2024-11-30T10:50:47.204Z",
+    "updatedAt": "2025-11-13T10:50:47.204Z",
+    "storeId": "store-002"
+  },
+  {
+    "id": "P02519",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Müstakil Ev - Ecuador Central",
+    "slug": "satilik-müstakil-ev-ecuador-central-P02519",
+    "description": "Ecuador Central, Ecuador bölgesinde müstakil ev. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 6042382,
+    "location": {
+      "country": "EC",
+      "city": "Ecuador Central",
+      "district": "Ecuador Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 308",
+      "coordinates": {
+        "lat": -1.9046666314778844,
+        "lng": -77.22372556972356
+      }
+    },
+    "specs": {
+      "netSize": 388,
+      "grossSize": 466,
+      "rooms": "2+1",
+      "bathrooms": 1,
+      "age": 16,
+      "floor": 6,
+      "totalFloors": 16,
+      "heating": "Klima",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500498833831?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500794975533?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500858903122?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500282957910?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500801504733?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500463845597?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500075388060?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500561875514?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500334295286?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500601243662?w=800&q=80&category=house"
+    ],
+    "agent": {
+      "id": "A81",
+      "name": "Agent 66",
+      "phone": "+31 235 970 9131",
+      "email": "agent4@iwrealty.com",
+      "photo": "/images/icons/png/sydney-coastal-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-11-12T10:50:47.204Z",
+    "updatedAt": "2025-11-13T10:50:47.204Z",
+    "storeId": "store-012"
+  },
+  {
+    "id": "P02520",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Daire - Quito",
+    "slug": "kiralik-daire-quito-P02520",
+    "description": "Quito, Ecuador bölgesinde daire. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 6756316,
+    "location": {
+      "country": "EC",
+      "city": "Quito",
+      "district": "Quito Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 333",
+      "coordinates": {
+        "lat": -2.3958255219913713,
+        "lng": -77.02468904301543
+      }
+    },
+    "specs": {
+      "netSize": 357,
+      "grossSize": 428,
+      "rooms": "4+0",
+      "bathrooms": 4,
+      "age": 10,
+      "floor": 11,
+      "totalFloors": 14,
+      "heating": "Merkezi",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500368321702?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500379859736?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500648904422?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500495742051?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500784162749?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500592958497?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500822925404?w=800&q=80&category=architecture"
+    ],
+    "agent": {
+      "id": "A44",
+      "name": "Agent 83",
+      "phone": "+20 710 762 8084",
+      "email": "agent7@iwrealty.com",
+      "photo": "/images/icons/png/dubai-property-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": false,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": true,
+      "hasSecurity": false
+    },
+    "createdAt": "2024-11-22T10:50:47.204Z",
+    "updatedAt": "2025-11-13T10:50:47.204Z",
+    "storeId": "store-004"
+  },
+  {
+    "id": "P02521",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Daire - New Ecuador",
+    "slug": "satilik-daire-new-ecuador-P02521",
+    "description": "New Ecuador, Ecuador bölgesinde daire. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 3168936,
+    "location": {
+      "country": "EC",
+      "city": "New Ecuador",
+      "district": "New Ecuador Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 830",
+      "coordinates": {
+        "lat": -2.411899267121956,
+        "lng": -77.08198770547573
+      }
+    },
+    "specs": {
+      "netSize": 386,
+      "grossSize": 463,
+      "rooms": "3+0",
+      "bathrooms": 3,
+      "age": 17,
+      "floor": 1,
+      "totalFloors": 10,
+      "heating": "Kombi",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500887618569?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500622038984?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500993605850?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500806578110?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500612069557?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500649258387?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500187816110?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500128466382?w=800&q=80&category=house"
+    ],
+    "agent": {
+      "id": "A75",
+      "name": "Agent 33",
+      "phone": "+89 670 593 8767",
+      "email": "agent48@iwrealty.com",
+      "photo": "/images/icons/png/paris-heritage-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-05-24T10:50:47.204Z",
+    "updatedAt": "2025-11-13T10:50:47.204Z",
+    "storeId": "store-010"
+  },
+  {
+    "id": "P02522",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Müstakil Ev - Ecuador Central",
+    "slug": "kiralik-müstakil-ev-ecuador-central-P02522",
+    "description": "Ecuador Central, Ecuador bölgesinde müstakil ev. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 2924117,
+    "location": {
+      "country": "EC",
+      "city": "Ecuador Central",
+      "district": "Ecuador Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 105",
+      "coordinates": {
+        "lat": -1.8049817238932242,
+        "lng": -77.84666361540977
+      }
+    },
+    "specs": {
+      "netSize": 192,
+      "grossSize": 230,
+      "rooms": "5+1",
+      "bathrooms": 2,
+      "age": 12,
+      "floor": 1,
+      "totalFloors": 12,
+      "heating": "Klima",
+      "furnishing": "Furnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500369568716?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500164951921?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500325359263?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500273411735?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500364351926?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500607830213?w=800&q=80&category=house"
+    ],
+    "agent": {
+      "id": "A62",
+      "name": "Agent 8",
+      "phone": "+15 299 715 7856",
+      "email": "agent47@iwrealty.com",
+      "photo": "/images/icons/png/berlin-urban-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": false,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-01-23T10:50:47.204Z",
+    "updatedAt": "2025-11-13T10:50:47.204Z",
+    "storeId": "store-009"
+  },
+  {
+    "id": "P02523",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Villa - Ecuador City",
+    "slug": "satilik-villa-ecuador-city-P02523",
+    "description": "Ecuador City, Ecuador bölgesinde villa. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 12353935,
+    "location": {
+      "country": "EC",
+      "city": "Ecuador City",
+      "district": "Ecuador City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 454",
+      "coordinates": {
+        "lat": -2.3996866915204302,
+        "lng": -77.09286645777502
+      }
+    },
+    "specs": {
+      "netSize": 409,
+      "grossSize": 491,
+      "rooms": "3+0",
+      "bathrooms": 1,
+      "age": 0,
+      "floor": 1,
+      "totalFloors": 6,
+      "heating": "Merkezi",
+      "furnishing": "Furnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500243138493?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500029420773?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500174712380?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500238642640?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500487463089?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500775220469?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500094584828?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500799276934?w=800&q=80&category=architecture"
+    ],
+    "agent": {
+      "id": "A95",
+      "name": "Agent 57",
+      "phone": "+46 888 926 4213",
+      "email": "agent30@iwrealty.com",
+      "photo": "/images/icons/png/luxury-homes-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-03-18T10:50:47.204Z",
+    "updatedAt": "2025-11-13T10:50:47.204Z",
+    "storeId": "store-002"
+  },
+  {
+    "id": "P02524",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Müstakil Ev - Quito",
+    "slug": "kiralik-müstakil-ev-quito-P02524",
+    "description": "Quito, Ecuador bölgesinde müstakil ev. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 5514598,
+    "location": {
+      "country": "EC",
+      "city": "Quito",
+      "district": "Quito Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 426",
+      "coordinates": {
+        "lat": -1.6711288617705211,
+        "lng": -77.8384602673033
+      }
+    },
+    "specs": {
+      "netSize": 295,
+      "grossSize": 354,
+      "rooms": "5+1",
+      "bathrooms": 1,
+      "age": 10,
+      "floor": 7,
+      "totalFloors": 16,
+      "heating": "Merkezi",
+      "furnishing": "Unfurnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500837064956?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500567006799?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500563270502?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500865336489?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500744278845?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500888972287?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500098592536?w=800&q=80&category=interior"
+    ],
+    "agent": {
+      "id": "A86",
+      "name": "Agent 1",
+      "phone": "+24 262 811 8030",
+      "email": "agent67@iwrealty.com",
+      "photo": "/images/icons/png/paris-heritage-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": true,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-02-04T10:50:47.204Z",
+    "updatedAt": "2025-11-13T10:50:47.204Z",
+    "storeId": "store-010"
+  },
+  {
+    "id": "P02525",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Residence - Quito",
+    "slug": "satilik-residence-quito-P02525",
+    "description": "Quito, Ecuador bölgesinde residence. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 13625689,
+    "location": {
+      "country": "EC",
+      "city": "Quito",
+      "district": "Quito Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 694",
+      "coordinates": {
+        "lat": -1.5015372455472646,
+        "lng": -77.07068292236215
+      }
+    },
+    "specs": {
+      "netSize": 393,
+      "grossSize": 472,
+      "rooms": "4+0",
+      "bathrooms": 3,
+      "age": 16,
+      "floor": 10,
+      "totalFloors": 15,
+      "heating": "Klima",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500699539851?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500915279718?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500705842744?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500275827293?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500854857604?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500669788839?w=800&q=80&category=house"
+    ],
+    "agent": {
+      "id": "A34",
+      "name": "Agent 84",
+      "phone": "+40 884 825 1479",
+      "email": "agent80@iwrealty.com",
+      "photo": "/images/icons/png/luxury-homes-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": false,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": true,
+      "hasSecurity": false
+    },
+    "createdAt": "2024-12-15T10:50:47.204Z",
+    "updatedAt": "2025-11-13T10:50:47.204Z",
+    "storeId": "store-002"
+  },
+  {
+    "id": "P02526",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Villa - New Ecuador",
+    "slug": "kiralik-villa-new-ecuador-P02526",
+    "description": "New Ecuador, Ecuador bölgesinde villa. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 11892520,
+    "location": {
+      "country": "EC",
+      "city": "New Ecuador",
+      "district": "New Ecuador Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 539",
+      "coordinates": {
+        "lat": -1.5418384469052855,
+        "lng": -77.59519564829755
+      }
+    },
+    "specs": {
+      "netSize": 328,
+      "grossSize": 394,
+      "rooms": "4+0",
+      "bathrooms": 3,
+      "age": 8,
+      "floor": 5,
+      "totalFloors": 11,
+      "heating": "Merkezi",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500892842511?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500291421087?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500423251734?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500311731806?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500118655055?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500593066018?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500741344630?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500234537881?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500344902341?w=800&q=80&category=building"
+    ],
+    "agent": {
+      "id": "A9",
+      "name": "Agent 66",
+      "phone": "+64 193 296 7166",
+      "email": "agent96@iwrealty.com",
+      "photo": "/images/icons/png/ny-skyline-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-06-17T10:50:47.204Z",
+    "updatedAt": "2025-11-13T10:50:47.204Z",
+    "storeId": "store-008"
+  },
+  {
+    "id": "P02527",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Residence - New Ecuador",
+    "slug": "satilik-residence-new-ecuador-P02527",
+    "description": "New Ecuador, Ecuador bölgesinde residence. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 6799527,
+    "location": {
+      "country": "EC",
+      "city": "New Ecuador",
+      "district": "New Ecuador Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 547",
+      "coordinates": {
+        "lat": -1.5501292790259003,
+        "lng": -77.05271855149459
+      }
+    },
+    "specs": {
+      "netSize": 390,
+      "grossSize": 468,
+      "rooms": "2+1",
+      "bathrooms": 2,
+      "age": 17,
+      "floor": 3,
+      "totalFloors": 15,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Unfurnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500780557967?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500872945947?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500056551258?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500069259617?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500643349894?w=800&q=80&category=house"
+    ],
+    "agent": {
+      "id": "A56",
+      "name": "Agent 22",
+      "phone": "+20 285 505 4972",
+      "email": "agent72@iwrealty.com",
+      "photo": "/images/icons/png/london-prime-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": false,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-09-17T10:50:47.204Z",
+    "updatedAt": "2025-11-13T10:50:47.204Z",
+    "storeId": "store-007"
+  },
+  {
+    "id": "P02528",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Villa - New Ecuador",
+    "slug": "kiralik-villa-new-ecuador-P02528",
+    "description": "New Ecuador, Ecuador bölgesinde villa. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 12357733,
+    "location": {
+      "country": "EC",
+      "city": "New Ecuador",
+      "district": "New Ecuador Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 963",
+      "coordinates": {
+        "lat": -2.3063248152769504,
+        "lng": -77.96524942780545
+      }
+    },
+    "specs": {
+      "netSize": 430,
+      "grossSize": 516,
+      "rooms": "2+1",
+      "bathrooms": 2,
+      "age": 19,
+      "floor": 5,
+      "totalFloors": 5,
+      "heating": "Merkezi",
+      "furnishing": "Unfurnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500926029659?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500389996251?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500275229920?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500372098545?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500705852250?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500279673824?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500798372496?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500246768435?w=800&q=80&category=interior"
+    ],
+    "agent": {
+      "id": "A43",
+      "name": "Agent 77",
+      "phone": "+80 728 191 7320",
+      "email": "agent79@iwrealty.com",
+      "photo": "/images/icons/png/berlin-urban-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": true,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-01-12T10:50:47.204Z",
+    "updatedAt": "2025-11-13T10:50:47.204Z",
+    "storeId": "store-009"
+  },
+  {
+    "id": "P02529",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Residence - Ecuador Central",
+    "slug": "satilik-residence-ecuador-central-P02529",
+    "description": "Ecuador Central, Ecuador bölgesinde residence. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 5205979,
+    "location": {
+      "country": "EC",
+      "city": "Ecuador Central",
+      "district": "Ecuador Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 654",
+      "coordinates": {
+        "lat": -1.6338862687675575,
+        "lng": -77.8852756184457
+      }
+    },
+    "specs": {
+      "netSize": 128,
+      "grossSize": 154,
+      "rooms": "1+2",
+      "bathrooms": 1,
+      "age": 2,
+      "floor": 5,
+      "totalFloors": 14,
+      "heating": "Klima",
+      "furnishing": "Furnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500242121280?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500131187382?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500387004893?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500326459248?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500029623071?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500048986333?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500855917412?w=800&q=80&category=interior"
+    ],
+    "agent": {
+      "id": "A86",
+      "name": "Agent 32",
+      "phone": "+60 563 502 2916",
+      "email": "agent52@iwrealty.com",
+      "photo": "/images/icons/png/izmir-sahil-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": true,
+      "hasPool": true,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-04-03T10:50:47.204Z",
+    "updatedAt": "2025-11-13T10:50:47.204Z",
+    "storeId": "store-005"
+  },
+  {
+    "id": "P02530",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Daire - Ecuador Central",
+    "slug": "kiralik-daire-ecuador-central-P02530",
+    "description": "Ecuador Central, Ecuador bölgesinde daire. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 6327069,
+    "location": {
+      "country": "EC",
+      "city": "Ecuador Central",
+      "district": "Ecuador Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 305",
+      "coordinates": {
+        "lat": -1.7388907353993974,
+        "lng": -77.87139117619088
+      }
+    },
+    "specs": {
+      "netSize": 448,
+      "grossSize": 538,
+      "rooms": "1+0",
+      "bathrooms": 3,
+      "age": 5,
+      "floor": 6,
+      "totalFloors": 8,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500616427171?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500515515676?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500408852543?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500378787230?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500443597123?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500802597674?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500519354551?w=800&q=80&category=architecture"
+    ],
+    "agent": {
+      "id": "A89",
+      "name": "Agent 26",
+      "phone": "+45 665 563 7884",
+      "email": "agent17@iwrealty.com",
+      "photo": "/images/icons/png/luxury-homes-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": false,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-03-29T10:50:47.204Z",
+    "updatedAt": "2025-11-13T10:50:47.204Z",
+    "storeId": "store-002"
+  },
+  {
+    "id": "P02531",
+    "type": "sale",
+    "category": {
+      "main": "commercial",
+      "sub": "hospital"
+    },
+    "title": "Satılık Hastane - Ecuador City",
+    "slug": "satilik-hastane-ecuador-city-P02531",
+    "description": "Ecuador City, Ecuador bölgesinde hastane. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 58863737,
+    "location": {
+      "country": "EC",
+      "city": "Ecuador City",
+      "district": "Ecuador City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 325",
+      "coordinates": {
+        "lat": -1.8502681020570648,
+        "lng": -77.88755921815917
+      }
+    },
+    "specs": {
+      "netSize": 4163,
+      "grossSize": 4996,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 17,
+      "floor": 9,
+      "totalFloors": 5,
+      "heating": "Merkezi",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500138788116?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500815937470?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500967751494?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500084291221?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500825155008?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500670792651?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500837934397?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500199793677?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500476902807?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500312926749?w=800&q=80&category=real-estate"
+    ],
+    "agent": {
+      "id": "A28",
+      "name": "Agent 33",
+      "phone": "+81 974 786 8145",
+      "email": "agent32@iwrealty.com",
+      "photo": "/images/icons/png/luxury-homes-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-02-26T10:50:47.204Z",
+    "updatedAt": "2025-11-13T10:50:47.204Z",
+    "storeId": "store-002"
+  },
+  {
+    "id": "P02532",
+    "type": "rent",
+    "category": {
+      "main": "commercial",
+      "sub": "hospital"
+    },
+    "title": "Kiralık Hastane - New Ecuador",
+    "slug": "kiralik-hastane-new-ecuador-P02532",
+    "description": "New Ecuador, Ecuador bölgesinde hastane. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 90217952,
+    "location": {
+      "country": "EC",
+      "city": "New Ecuador",
+      "district": "New Ecuador Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 550",
+      "coordinates": {
+        "lat": -1.9141272942175447,
+        "lng": -77.60996640447438
+      }
+    },
+    "specs": {
+      "netSize": 2469,
+      "grossSize": 2963,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 9,
+      "floor": 1,
+      "totalFloors": 12,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500497603337?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500913479603?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500636237879?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500067073591?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500991230080?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500106216517?w=800&q=80&category=house"
+    ],
+    "agent": {
+      "id": "A15",
+      "name": "Agent 62",
+      "phone": "+53 620 168 8756",
+      "email": "agent94@iwrealty.com",
+      "photo": "/images/icons/png/sydney-coastal-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": true,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-05-06T10:50:47.204Z",
+    "updatedAt": "2025-11-13T10:50:47.204Z",
+    "storeId": "store-012"
+  },
+  {
+    "id": "P02533",
+    "type": "sale",
+    "category": {
+      "main": "commercial",
+      "sub": "clinic"
+    },
+    "title": "Satılık Klinik - New Ecuador",
+    "slug": "satilik-klinik-new-ecuador-P02533",
+    "description": "New Ecuador, Ecuador bölgesinde klinik. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 3402338,
+    "location": {
+      "country": "EC",
+      "city": "New Ecuador",
+      "district": "New Ecuador Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 901",
+      "coordinates": {
+        "lat": -1.844284000869569,
+        "lng": -77.35162491728298
+      }
+    },
+    "specs": {
+      "netSize": 1648,
+      "grossSize": 1978,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 7,
+      "floor": 4,
+      "totalFloors": 5,
+      "heating": "Merkezi",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500188516442?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500115739536?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500799374699?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500684339133?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500399520128?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500609784335?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500097030443?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500012246688?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500479837724?w=800&q=80&category=architecture"
+    ],
+    "agent": {
+      "id": "A26",
+      "name": "Agent 83",
+      "phone": "+24 123 730 7769",
+      "email": "agent83@iwrealty.com",
+      "photo": "/images/icons/png/london-prime-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-01-26T10:50:47.205Z",
+    "updatedAt": "2025-11-13T10:50:47.205Z",
+    "storeId": "store-007"
+  },
+  {
+    "id": "P02534",
+    "type": "rent",
+    "category": {
+      "main": "commercial",
+      "sub": "clinic"
+    },
+    "title": "Kiralık Klinik - New Ecuador",
+    "slug": "kiralik-klinik-new-ecuador-P02534",
+    "description": "New Ecuador, Ecuador bölgesinde klinik. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 16462155,
+    "location": {
+      "country": "EC",
+      "city": "New Ecuador",
+      "district": "New Ecuador Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 447",
+      "coordinates": {
+        "lat": -1.865046698890199,
+        "lng": -77.8939406266838
+      }
+    },
+    "specs": {
+      "netSize": 595,
+      "grossSize": 714,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 17,
+      "floor": 5,
+      "totalFloors": 6,
+      "heating": "Klima",
+      "furnishing": "Furnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500723804618?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500383325907?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500002013507?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500905281027?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500338224697?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500246423756?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500649120299?w=800&q=80&category=building"
+    ],
+    "agent": {
+      "id": "A100",
+      "name": "Agent 78",
+      "phone": "+41 971 548 1728",
+      "email": "agent97@iwrealty.com",
+      "photo": "/images/icons/png/dubai-property-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": false,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-09-02T10:50:47.205Z",
+    "updatedAt": "2025-11-13T10:50:47.205Z",
+    "storeId": "store-004"
+  },
+  {
+    "id": "P02535",
+    "type": "sale",
+    "category": {
+      "main": "commercial",
+      "sub": "shop"
+    },
+    "title": "Satılık Dükkan - Quito",
+    "slug": "satilik-dükkan-quito-P02535",
+    "description": "Quito, Ecuador bölgesinde dükkan. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 6711034,
+    "location": {
+      "country": "EC",
+      "city": "Quito",
+      "district": "Quito Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 330",
+      "coordinates": {
+        "lat": -1.9053137919670224,
+        "lng": -77.94876472452725
+      }
+    },
+    "specs": {
+      "netSize": 137,
+      "grossSize": 164,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 18,
+      "floor": 2,
+      "totalFloors": 8,
+      "heating": "Merkezi",
+      "furnishing": "Furnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500701385674?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500114178878?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500990640617?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500709796778?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500859929199?w=800&q=80&category=building"
+    ],
+    "agent": {
+      "id": "A36",
+      "name": "Agent 72",
+      "phone": "+58 630 798 3452",
+      "email": "agent50@iwrealty.com",
+      "photo": "/images/icons/png/ny-skyline-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-06-25T10:50:47.205Z",
+    "updatedAt": "2025-11-13T10:50:47.205Z",
+    "storeId": "store-008"
+  },
+  {
+    "id": "P02536",
+    "type": "rent",
+    "category": {
+      "main": "commercial",
+      "sub": "shop"
+    },
+    "title": "Kiralık Dükkan - New Ecuador",
+    "slug": "kiralik-dükkan-new-ecuador-P02536",
+    "description": "New Ecuador, Ecuador bölgesinde dükkan. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 5162010,
+    "location": {
+      "country": "EC",
+      "city": "New Ecuador",
+      "district": "New Ecuador Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 886",
+      "coordinates": {
+        "lat": -1.655981037446594,
+        "lng": -77.9158474550574
+      }
+    },
+    "specs": {
+      "netSize": 267,
+      "grossSize": 320,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 7,
+      "floor": 9,
+      "totalFloors": 9,
+      "heating": "Klima",
+      "furnishing": "Unfurnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500380553907?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500796969011?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500120400754?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500567092122?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500443440776?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500224127082?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500645058544?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500527856758?w=800&q=80&category=real-estate"
+    ],
+    "agent": {
+      "id": "A6",
+      "name": "Agent 8",
+      "phone": "+24 145 405 9969",
+      "email": "agent20@iwrealty.com",
+      "photo": "/images/icons/png/berlin-urban-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": false,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": true,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-05-13T10:50:47.205Z",
+    "updatedAt": "2025-11-13T10:50:47.205Z",
+    "storeId": "store-009"
+  },
+  {
+    "id": "P02537",
+    "type": "sale",
+    "category": {
+      "main": "commercial",
+      "sub": "office"
+    },
+    "title": "Satılık Ofis - Quito",
+    "slug": "satilik-ofis-quito-P02537",
+    "description": "Quito, Ecuador bölgesinde ofis. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 11166965,
+    "location": {
+      "country": "EC",
+      "city": "Quito",
+      "district": "Quito Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 94",
+      "coordinates": {
+        "lat": -1.541168774369793,
+        "lng": -77.12343560296493
+      }
+    },
+    "specs": {
+      "netSize": 128,
+      "grossSize": 154,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 3,
+      "floor": 15,
+      "totalFloors": 14,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500357195079?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500380074210?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500898214478?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500084723407?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500449780656?w=800&q=80&category=architecture"
+    ],
+    "agent": {
+      "id": "A4",
+      "name": "Agent 83",
+      "phone": "+62 297 620 1830",
+      "email": "agent39@iwrealty.com",
+      "photo": "/images/icons/png/ankara-modern-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-03-04T10:50:47.205Z",
+    "updatedAt": "2025-11-13T10:50:47.205Z",
+    "storeId": "store-003"
+  },
+  {
+    "id": "P02538",
+    "type": "rent",
+    "category": {
+      "main": "commercial",
+      "sub": "office"
+    },
+    "title": "Kiralık Ofis - Ecuador City",
+    "slug": "kiralik-ofis-ecuador-city-P02538",
+    "description": "Ecuador City, Ecuador bölgesinde ofis. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 12893228,
+    "location": {
+      "country": "EC",
+      "city": "Ecuador City",
+      "district": "Ecuador City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 483",
+      "coordinates": {
+        "lat": -1.6002755712788628,
+        "lng": -77.41578617325065
+      }
+    },
+    "specs": {
+      "netSize": 734,
+      "grossSize": 881,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 18,
+      "floor": 9,
+      "totalFloors": 14,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Unfurnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500148204447?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500406873320?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500622145145?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500763969747?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500277398520?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500940641022?w=800&q=80&category=building"
+    ],
+    "agent": {
+      "id": "A86",
+      "name": "Agent 39",
+      "phone": "+37 984 915 5893",
+      "email": "agent46@iwrealty.com",
+      "photo": "/images/icons/png/dubai-property-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": false,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-06-18T10:50:47.205Z",
+    "updatedAt": "2025-11-13T10:50:47.205Z",
+    "storeId": "store-004"
+  },
+  {
+    "id": "P02539",
+    "type": "sale",
+    "category": {
+      "main": "commercial",
+      "sub": "mall"
+    },
+    "title": "Satılık AVM - New Ecuador",
+    "slug": "satilik-avm-new-ecuador-P02539",
+    "description": "New Ecuador, Ecuador bölgesinde avm. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 398753265,
+    "location": {
+      "country": "EC",
+      "city": "New Ecuador",
+      "district": "New Ecuador Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 205",
+      "coordinates": {
+        "lat": -2.3661791975243416,
+        "lng": -77.17015834757657
+      }
+    },
+    "specs": {
+      "netSize": 34038,
+      "grossSize": 40846,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 6,
+      "floor": 14,
+      "totalFloors": 20,
+      "heating": "Kombi",
+      "furnishing": "Unfurnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500563661576?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500615718078?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500748093708?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500623778937?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500704872474?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500814656488?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500031443219?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500514699968?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500060153568?w=800&q=80&category=real-estate"
+    ],
+    "agent": {
+      "id": "A21",
+      "name": "Agent 50",
+      "phone": "+65 348 371 6363",
+      "email": "agent20@iwrealty.com",
+      "photo": "/images/icons/png/ny-skyline-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-06-19T10:50:47.205Z",
+    "updatedAt": "2025-11-13T10:50:47.205Z",
+    "storeId": "store-008"
+  },
+  {
+    "id": "P02540",
+    "type": "rent",
+    "category": {
+      "main": "commercial",
+      "sub": "mall"
+    },
+    "title": "Kiralık AVM - New Ecuador",
+    "slug": "kiralik-avm-new-ecuador-P02540",
+    "description": "New Ecuador, Ecuador bölgesinde avm. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 408881832,
+    "location": {
+      "country": "EC",
+      "city": "New Ecuador",
+      "district": "New Ecuador Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 519",
+      "coordinates": {
+        "lat": -2.3434503266485875,
+        "lng": -77.48150782331261
+      }
+    },
+    "specs": {
+      "netSize": 14078,
+      "grossSize": 16894,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 12,
+      "floor": 6,
+      "totalFloors": 7,
+      "heating": "Klima",
+      "furnishing": "Unfurnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500721012524?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500178323778?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500404354529?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500727522722?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500032246602?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500251645147?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500991409507?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500173971098?w=800&q=80&category=building"
+    ],
+    "agent": {
+      "id": "A55",
+      "name": "Agent 18",
+      "phone": "+46 299 692 2381",
+      "email": "agent23@iwrealty.com",
+      "photo": "/images/icons/png/dubai-property-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": false,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": true,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-08-01T10:50:47.205Z",
+    "updatedAt": "2025-11-13T10:50:47.205Z",
+    "storeId": "store-004"
+  },
+  {
+    "id": "P02541",
+    "type": "sale",
+    "category": {
+      "main": "commercial",
+      "sub": "hotel"
+    },
+    "title": "Satılık Otel - Ecuador Central",
+    "slug": "satilik-otel-ecuador-central-P02541",
+    "description": "Ecuador Central, Ecuador bölgesinde otel. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 108144918,
+    "location": {
+      "country": "EC",
+      "city": "Ecuador Central",
+      "district": "Ecuador Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 847",
+      "coordinates": {
+        "lat": -2.457816023089922,
+        "lng": -77.23777110553968
+      }
+    },
+    "specs": {
+      "netSize": 21464,
+      "grossSize": 25757,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 11,
+      "floor": 1,
+      "totalFloors": 16,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500383921366?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500341668053?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500543497738?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500251858225?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500803397315?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500026958765?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500066028543?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500410421549?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500684074185?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500726627498?w=800&q=80&category=building"
+    ],
+    "agent": {
+      "id": "A75",
+      "name": "Agent 59",
+      "phone": "+62 116 359 6006",
+      "email": "agent80@iwrealty.com",
+      "photo": "/images/icons/png/ankara-modern-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-08-23T10:50:47.205Z",
+    "updatedAt": "2025-11-13T10:50:47.205Z",
+    "storeId": "store-003"
+  },
+  {
+    "id": "P02542",
+    "type": "rent",
+    "category": {
+      "main": "commercial",
+      "sub": "hotel"
+    },
+    "title": "Kiralık Otel - Ecuador City",
+    "slug": "kiralik-otel-ecuador-city-P02542",
+    "description": "Ecuador City, Ecuador bölgesinde otel. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 66253943,
+    "location": {
+      "country": "EC",
+      "city": "Ecuador City",
+      "district": "Ecuador City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 627",
+      "coordinates": {
+        "lat": -1.8671221400312623,
+        "lng": -77.70980974427975
+      }
+    },
+    "specs": {
+      "netSize": 20374,
+      "grossSize": 24449,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 20,
+      "floor": 4,
+      "totalFloors": 20,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Unfurnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500184483366?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500021744104?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500127674617?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500285488424?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500834784145?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500277264908?w=800&q=80&category=interior"
+    ],
+    "agent": {
+      "id": "A34",
+      "name": "Agent 50",
+      "phone": "+22 889 928 5036",
+      "email": "agent53@iwrealty.com",
+      "photo": "/images/icons/png/london-prime-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2024-12-10T10:50:47.205Z",
+    "updatedAt": "2025-11-13T10:50:47.205Z",
+    "storeId": "store-007"
+  },
+  {
+    "id": "P02543",
+    "type": "sale",
+    "category": {
+      "main": "commercial",
+      "sub": "restaurant"
+    },
+    "title": "Satılık Restoran - Ecuador City",
+    "slug": "satilik-restoran-ecuador-city-P02543",
+    "description": "Ecuador City, Ecuador bölgesinde restoran. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 6940991,
+    "location": {
+      "country": "EC",
+      "city": "Ecuador City",
+      "district": "Ecuador City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 436",
+      "coordinates": {
+        "lat": -1.9049398375099873,
+        "lng": -77.9422760201922
+      }
+    },
+    "specs": {
+      "netSize": 488,
+      "grossSize": 586,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 7,
+      "floor": 4,
+      "totalFloors": 18,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Unfurnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500615026994?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500651660464?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500445804194?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500769925187?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500601637633?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500614424602?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500103790174?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500117997127?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500797671928?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500234123630?w=800&q=80&category=interior"
+    ],
+    "agent": {
+      "id": "A83",
+      "name": "Agent 77",
+      "phone": "+39 199 787 4821",
+      "email": "agent97@iwrealty.com",
+      "photo": "/images/icons/png/paris-heritage-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": false,
+      "hasBalcony": false,
+      "hasGarden": true,
+      "hasPool": true,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-06-12T10:50:47.205Z",
+    "updatedAt": "2025-11-13T10:50:47.205Z",
+    "storeId": "store-010"
+  },
+  {
+    "id": "P02544",
+    "type": "rent",
+    "category": {
+      "main": "commercial",
+      "sub": "restaurant"
+    },
+    "title": "Kiralık Restoran - Quito",
+    "slug": "kiralik-restoran-quito-P02544",
+    "description": "Quito, Ecuador bölgesinde restoran. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 5881523,
+    "location": {
+      "country": "EC",
+      "city": "Quito",
+      "district": "Quito Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 33",
+      "coordinates": {
+        "lat": -1.5032207513063351,
+        "lng": -77.56252246904326
+      }
+    },
+    "specs": {
+      "netSize": 259,
+      "grossSize": 311,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 18,
+      "floor": 9,
+      "totalFloors": 5,
+      "heating": "Klima",
+      "furnishing": "Unfurnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500933453152?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500857346114?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500581186071?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500880318718?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500451921991?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500023812588?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500858776844?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500728136364?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500227816600?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500368375580?w=800&q=80&category=building"
+    ],
+    "agent": {
+      "id": "A2",
+      "name": "Agent 10",
+      "phone": "+59 226 185 8902",
+      "email": "agent34@iwrealty.com",
+      "photo": "/images/icons/png/antalya-investment-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": false,
+      "hasBalcony": false,
+      "hasGarden": true,
+      "hasPool": true,
+      "hasSecurity": true
+    },
+    "createdAt": "2024-12-29T10:50:47.205Z",
+    "updatedAt": "2025-11-13T10:50:47.205Z",
+    "storeId": "store-006"
+  },
+  {
+    "id": "P02545",
+    "type": "sale",
+    "category": {
+      "main": "commercial",
+      "sub": "warehouse"
+    },
+    "title": "Satılık Depo - Ecuador City",
+    "slug": "satilik-depo-ecuador-city-P02545",
+    "description": "Ecuador City, Ecuador bölgesinde depo. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 9753488,
+    "location": {
+      "country": "EC",
+      "city": "Ecuador City",
+      "district": "Ecuador City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 955",
+      "coordinates": {
+        "lat": -1.892631455246411,
+        "lng": -77.63423028611221
+      }
+    },
+    "specs": {
+      "netSize": 5004,
+      "grossSize": 6005,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 7,
+      "floor": 9,
+      "totalFloors": 9,
+      "heating": "Merkezi",
+      "furnishing": "Furnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500594044772?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500435495060?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500781125610?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500765462399?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500859430844?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500288686943?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500312205428?w=800&q=80&category=house"
+    ],
+    "agent": {
+      "id": "A88",
+      "name": "Agent 25",
+      "phone": "+31 802 636 4285",
+      "email": "agent98@iwrealty.com",
+      "photo": "/images/icons/png/paris-heritage-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": true,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-04-27T10:50:47.205Z",
+    "updatedAt": "2025-11-13T10:50:47.205Z",
+    "storeId": "store-010"
+  },
+  {
+    "id": "P02546",
+    "type": "rent",
+    "category": {
+      "main": "commercial",
+      "sub": "warehouse"
+    },
+    "title": "Kiralık Depo - Quito",
+    "slug": "kiralik-depo-quito-P02546",
+    "description": "Quito, Ecuador bölgesinde depo. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 4973157,
+    "location": {
+      "country": "EC",
+      "city": "Quito",
+      "district": "Quito Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 671",
+      "coordinates": {
+        "lat": -1.7446140892168565,
+        "lng": -77.8502061964322
+      }
+    },
+    "specs": {
+      "netSize": 6160,
+      "grossSize": 7392,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 17,
+      "floor": 7,
+      "totalFloors": 11,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Unfurnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500061922820?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500000320303?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500167483313?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500694592484?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500959521175?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500682314807?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500531783626?w=800&q=80&category=interior"
+    ],
+    "agent": {
+      "id": "A21",
+      "name": "Agent 16",
+      "phone": "+87 540 692 2385",
+      "email": "agent69@iwrealty.com",
+      "photo": "/images/icons/png/luxury-homes-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": false,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2024-12-11T10:50:47.205Z",
+    "updatedAt": "2025-11-13T10:50:47.205Z",
+    "storeId": "store-002"
+  }
+]

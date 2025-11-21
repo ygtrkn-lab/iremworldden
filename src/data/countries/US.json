@@ -1,0 +1,2343 @@
+[
+  {
+    "id": "P08931",
+    "type": "sale",
+    "category": {
+      "main": "government"
+    },
+    "title": "Satılık Belediye Binası - Washington D.C.",
+    "slug": "satilik-belediye-binası-washington-d.c.-P08931",
+    "description": "Washington D.C., United States bölgesinde belediye binası. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 5612707,
+    "location": {
+      "country": "US",
+      "city": "Washington D.C.",
+      "district": "Washington D.C. Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 123",
+      "coordinates": {
+        "lat": 37.85339616432036,
+        "lng": -96.55638443362771
+      }
+    },
+    "specs": {
+      "netSize": 3825,
+      "grossSize": 4590,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 15,
+      "floor": 5,
+      "totalFloors": 14,
+      "heating": "Kombi",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500241881804?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500289633664?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500721830967?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500931935222?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500141245376?w=800&q=80&category=building"
+    ],
+    "agent": {
+      "id": "A2",
+      "name": "Agent 42",
+      "phone": "+82 969 279 3237",
+      "email": "agent59@iwrealty.com",
+      "photo": "/images/icons/png/ny-skyline-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": true,
+      "hasPool": true,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-03-07T10:50:47.275Z",
+    "updatedAt": "2025-11-13T10:50:47.275Z",
+    "storeId": "store-008"
+  },
+  {
+    "id": "P08932",
+    "type": "rent",
+    "category": {
+      "main": "government"
+    },
+    "title": "Kiralık Okul - United States City",
+    "slug": "kiralik-okul-united-states-city-P08932",
+    "description": "United States City, United States bölgesinde okul. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 35301101,
+    "location": {
+      "country": "US",
+      "city": "United States City",
+      "district": "United States City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 849",
+      "coordinates": {
+        "lat": 38.31444172808923,
+        "lng": -97.2578903488866
+      }
+    },
+    "specs": {
+      "netSize": 944,
+      "grossSize": 1133,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 4,
+      "floor": 14,
+      "totalFloors": 11,
+      "heating": "Kombi",
+      "furnishing": "Furnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500832332418?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500708006842?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500767072072?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500449305703?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500359424280?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500365977029?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500903784383?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500623484850?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500151124166?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500159806364?w=800&q=80&category=real-estate"
+    ],
+    "agent": {
+      "id": "A11",
+      "name": "Agent 39",
+      "phone": "+78 244 388 9715",
+      "email": "agent100@iwrealty.com",
+      "photo": "/images/icons/png/ny-skyline-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": true,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-03-23T10:50:47.275Z",
+    "updatedAt": "2025-11-13T10:50:47.275Z",
+    "storeId": "store-008"
+  },
+  {
+    "id": "P08933",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Müstakil Ev - United States City",
+    "slug": "satilik-müstakil-ev-united-states-city-P08933",
+    "description": "United States City, United States bölgesinde müstakil ev. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 11083271,
+    "location": {
+      "country": "US",
+      "city": "United States City",
+      "district": "United States City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 245",
+      "coordinates": {
+        "lat": 37.962915366519894,
+        "lng": -96.56850673599331
+      }
+    },
+    "specs": {
+      "netSize": 185,
+      "grossSize": 222,
+      "rooms": "1+0",
+      "bathrooms": 3,
+      "age": 0,
+      "floor": 11,
+      "totalFloors": 17,
+      "heating": "Merkezi",
+      "furnishing": "Furnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500500572210?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500524934239?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500455528005?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500702429066?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500194437349?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500966035550?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500171801320?w=800&q=80&category=building"
+    ],
+    "agent": {
+      "id": "A98",
+      "name": "Agent 29",
+      "phone": "+25 965 764 3120",
+      "email": "agent61@iwrealty.com",
+      "photo": "/images/icons/png/ny-skyline-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-01-02T10:50:47.275Z",
+    "updatedAt": "2025-11-13T10:50:47.275Z",
+    "storeId": "store-008"
+  },
+  {
+    "id": "P08934",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Daire - United States Central",
+    "slug": "kiralik-daire-united-states-central-P08934",
+    "description": "United States Central, United States bölgesinde daire. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 10506661,
+    "location": {
+      "country": "US",
+      "city": "United States Central",
+      "district": "United States Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 637",
+      "coordinates": {
+        "lat": 38.35680798880419,
+        "lng": -96.87998503842951
+      }
+    },
+    "specs": {
+      "netSize": 163,
+      "grossSize": 196,
+      "rooms": "2+0",
+      "bathrooms": 4,
+      "age": 10,
+      "floor": 13,
+      "totalFloors": 11,
+      "heating": "Merkezi",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500815600605?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500163816530?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500867364539?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500881774803?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500104226536?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500948957193?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500967319769?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500501293143?w=800&q=80&category=real-estate"
+    ],
+    "agent": {
+      "id": "A41",
+      "name": "Agent 54",
+      "phone": "+32 725 177 6557",
+      "email": "agent72@iwrealty.com",
+      "photo": "/images/icons/png/ny-skyline-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": true,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-10-17T10:50:47.275Z",
+    "updatedAt": "2025-11-13T10:50:47.275Z",
+    "storeId": "store-008"
+  },
+  {
+    "id": "P08935",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Residence - United States City",
+    "slug": "satilik-residence-united-states-city-P08935",
+    "description": "United States City, United States bölgesinde residence. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 1791434,
+    "location": {
+      "country": "US",
+      "city": "United States City",
+      "district": "United States City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 375",
+      "coordinates": {
+        "lat": 37.937757732808336,
+        "lng": -96.57938480674714
+      }
+    },
+    "specs": {
+      "netSize": 241,
+      "grossSize": 289,
+      "rooms": "2+0",
+      "bathrooms": 1,
+      "age": 8,
+      "floor": 12,
+      "totalFloors": 10,
+      "heating": "Klima",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500042316523?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500405008091?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500308056110?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500513232684?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500898911734?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500869612256?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500114773380?w=800&q=80&category=building"
+    ],
+    "agent": {
+      "id": "A60",
+      "name": "Agent 86",
+      "phone": "+14 710 639 8146",
+      "email": "agent19@iwrealty.com",
+      "photo": "/images/icons/png/ny-skyline-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": false,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-09-26T10:50:47.275Z",
+    "updatedAt": "2025-11-13T10:50:47.275Z",
+    "storeId": "store-008"
+  },
+  {
+    "id": "P08936",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Daire - New United States",
+    "slug": "kiralik-daire-new-united-states-P08936",
+    "description": "New United States, United States bölgesinde daire. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 3603359,
+    "location": {
+      "country": "US",
+      "city": "New United States",
+      "district": "New United States Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 164",
+      "coordinates": {
+        "lat": 38.27699383958771,
+        "lng": -97.46977275031836
+      }
+    },
+    "specs": {
+      "netSize": 207,
+      "grossSize": 248,
+      "rooms": "5+2",
+      "bathrooms": 1,
+      "age": 7,
+      "floor": 8,
+      "totalFloors": 5,
+      "heating": "Merkezi",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500748059937?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500436156324?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500675160935?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500234529888?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500010231491?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500208742022?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500067462654?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500756337066?w=800&q=80&category=building"
+    ],
+    "agent": {
+      "id": "A54",
+      "name": "Agent 29",
+      "phone": "+19 847 307 5023",
+      "email": "agent59@iwrealty.com",
+      "photo": "/images/icons/png/ny-skyline-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": true,
+      "hasPool": true,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-04-01T10:50:47.275Z",
+    "updatedAt": "2025-11-13T10:50:47.275Z",
+    "storeId": "store-008"
+  },
+  {
+    "id": "P08937",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Residence - United States Central",
+    "slug": "satilik-residence-united-states-central-P08937",
+    "description": "United States Central, United States bölgesinde residence. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 6286094,
+    "location": {
+      "country": "US",
+      "city": "United States Central",
+      "district": "United States Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 54",
+      "coordinates": {
+        "lat": 38.33212770635746,
+        "lng": -97.46355458488526
+      }
+    },
+    "specs": {
+      "netSize": 318,
+      "grossSize": 382,
+      "rooms": "4+0",
+      "bathrooms": 2,
+      "age": 6,
+      "floor": 10,
+      "totalFloors": 20,
+      "heating": "Klima",
+      "furnishing": "Unfurnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500354178102?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500559245484?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500649200717?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500648938826?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500118016483?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500007723828?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500641139393?w=800&q=80&category=building"
+    ],
+    "agent": {
+      "id": "A98",
+      "name": "Agent 54",
+      "phone": "+98 364 359 6942",
+      "email": "agent17@iwrealty.com",
+      "photo": "/images/icons/png/ny-skyline-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": false,
+      "hasBalcony": false,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-08-17T10:50:47.275Z",
+    "updatedAt": "2025-11-13T10:50:47.275Z",
+    "storeId": "store-008"
+  },
+  {
+    "id": "P08938",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Müstakil Ev - United States City",
+    "slug": "kiralik-müstakil-ev-united-states-city-P08938",
+    "description": "United States City, United States bölgesinde müstakil ev. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 559368,
+    "location": {
+      "country": "US",
+      "city": "United States City",
+      "district": "United States City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 298",
+      "coordinates": {
+        "lat": 37.95806286925102,
+        "lng": -97.22517471100143
+      }
+    },
+    "specs": {
+      "netSize": 364,
+      "grossSize": 437,
+      "rooms": "5+2",
+      "bathrooms": 1,
+      "age": 5,
+      "floor": 14,
+      "totalFloors": 19,
+      "heating": "Kombi",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500848932929?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500083682623?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500151196645?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500171510691?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500514776030?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500534201249?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500589307460?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500212596058?w=800&q=80&category=house"
+    ],
+    "agent": {
+      "id": "A89",
+      "name": "Agent 97",
+      "phone": "+31 416 842 1124",
+      "email": "agent46@iwrealty.com",
+      "photo": "/images/icons/png/ny-skyline-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-02-15T10:50:47.275Z",
+    "updatedAt": "2025-11-13T10:50:47.275Z",
+    "storeId": "store-008"
+  },
+  {
+    "id": "P08939",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Residence - United States City",
+    "slug": "satilik-residence-united-states-city-P08939",
+    "description": "United States City, United States bölgesinde residence. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 13676835,
+    "location": {
+      "country": "US",
+      "city": "United States City",
+      "district": "United States City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 567",
+      "coordinates": {
+        "lat": 38.18686664262793,
+        "lng": -97.09564011718275
+      }
+    },
+    "specs": {
+      "netSize": 191,
+      "grossSize": 229,
+      "rooms": "2+2",
+      "bathrooms": 3,
+      "age": 4,
+      "floor": 1,
+      "totalFloors": 6,
+      "heating": "Kombi",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500662669347?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500978975569?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500227025041?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500047316638?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500111944262?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500594548862?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500410258448?w=800&q=80&category=architecture"
+    ],
+    "agent": {
+      "id": "A99",
+      "name": "Agent 14",
+      "phone": "+15 392 364 3275",
+      "email": "agent67@iwrealty.com",
+      "photo": "/images/icons/png/ny-skyline-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-04-20T10:50:47.275Z",
+    "updatedAt": "2025-11-13T10:50:47.275Z",
+    "storeId": "store-008"
+  },
+  {
+    "id": "P08940",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Villa - New United States",
+    "slug": "kiralik-villa-new-united-states-P08940",
+    "description": "New United States, United States bölgesinde villa. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 3696541,
+    "location": {
+      "country": "US",
+      "city": "New United States",
+      "district": "New United States Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 521",
+      "coordinates": {
+        "lat": 38.33727358272317,
+        "lng": -96.99654133280046
+      }
+    },
+    "specs": {
+      "netSize": 162,
+      "grossSize": 194,
+      "rooms": "5+0",
+      "bathrooms": 3,
+      "age": 19,
+      "floor": 10,
+      "totalFloors": 6,
+      "heating": "Kombi",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500709498403?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500918009442?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500309039754?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500326404047?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500084690642?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500440424050?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500066998449?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500278459404?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500605335250?w=800&q=80&category=interior"
+    ],
+    "agent": {
+      "id": "A98",
+      "name": "Agent 54",
+      "phone": "+90 624 926 3823",
+      "email": "agent91@iwrealty.com",
+      "photo": "/images/icons/png/ny-skyline-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": false,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-05-23T10:50:47.275Z",
+    "updatedAt": "2025-11-13T10:50:47.275Z",
+    "storeId": "store-008"
+  },
+  {
+    "id": "P08941",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Daire - New United States",
+    "slug": "satilik-daire-new-united-states-P08941",
+    "description": "New United States, United States bölgesinde daire. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 5519194,
+    "location": {
+      "country": "US",
+      "city": "New United States",
+      "district": "New United States Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 574",
+      "coordinates": {
+        "lat": 37.9655613523019,
+        "lng": -96.88700790178379
+      }
+    },
+    "specs": {
+      "netSize": 291,
+      "grossSize": 349,
+      "rooms": "4+0",
+      "bathrooms": 4,
+      "age": 7,
+      "floor": 5,
+      "totalFloors": 18,
+      "heating": "Kombi",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500875968783?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500420558907?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500665897426?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500864030028?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500688901913?w=800&q=80&category=architecture"
+    ],
+    "agent": {
+      "id": "A88",
+      "name": "Agent 26",
+      "phone": "+11 638 939 5034",
+      "email": "agent85@iwrealty.com",
+      "photo": "/images/icons/png/ny-skyline-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-03-17T10:50:47.275Z",
+    "updatedAt": "2025-11-13T10:50:47.275Z",
+    "storeId": "store-008"
+  },
+  {
+    "id": "P08942",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Müstakil Ev - Washington D.C.",
+    "slug": "kiralik-müstakil-ev-washington-d.c.-P08942",
+    "description": "Washington D.C., United States bölgesinde müstakil ev. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 6064372,
+    "location": {
+      "country": "US",
+      "city": "Washington D.C.",
+      "district": "Washington D.C. Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 937",
+      "coordinates": {
+        "lat": 37.86446576026514,
+        "lng": -97.02974480474398
+      }
+    },
+    "specs": {
+      "netSize": 229,
+      "grossSize": 275,
+      "rooms": "2+2",
+      "bathrooms": 2,
+      "age": 4,
+      "floor": 9,
+      "totalFloors": 6,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Furnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500010886012?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500631074467?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500012695426?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500267372292?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500207139228?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500134464282?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500471478439?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500917972559?w=800&q=80&category=building"
+    ],
+    "agent": {
+      "id": "A54",
+      "name": "Agent 57",
+      "phone": "+91 862 504 2650",
+      "email": "agent91@iwrealty.com",
+      "photo": "/images/icons/png/ny-skyline-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": true,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-08-05T10:50:47.275Z",
+    "updatedAt": "2025-11-13T10:50:47.275Z",
+    "storeId": "store-008"
+  },
+  {
+    "id": "P08943",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Müstakil Ev - United States Central",
+    "slug": "satilik-müstakil-ev-united-states-central-P08943",
+    "description": "United States Central, United States bölgesinde müstakil ev. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 4449358,
+    "location": {
+      "country": "US",
+      "city": "United States Central",
+      "district": "United States Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 708",
+      "coordinates": {
+        "lat": 37.79806435817372,
+        "lng": -96.54786435083972
+      }
+    },
+    "specs": {
+      "netSize": 91,
+      "grossSize": 109,
+      "rooms": "3+1",
+      "bathrooms": 2,
+      "age": 14,
+      "floor": 9,
+      "totalFloors": 10,
+      "heating": "Kombi",
+      "furnishing": "Furnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500473364054?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500097538775?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500740922459?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500552479066?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500220879775?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500500491044?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500548736380?w=800&q=80&category=building"
+    ],
+    "agent": {
+      "id": "A64",
+      "name": "Agent 4",
+      "phone": "+73 445 129 8807",
+      "email": "agent88@iwrealty.com",
+      "photo": "/images/icons/png/ny-skyline-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": false,
+      "hasBalcony": false,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-04-29T10:50:47.275Z",
+    "updatedAt": "2025-11-13T10:50:47.275Z",
+    "storeId": "store-008"
+  },
+  {
+    "id": "P08944",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Residence - Washington D.C.",
+    "slug": "kiralik-residence-washington-d.c.-P08944",
+    "description": "Washington D.C., United States bölgesinde residence. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 5159844,
+    "location": {
+      "country": "US",
+      "city": "Washington D.C.",
+      "district": "Washington D.C. Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 872",
+      "coordinates": {
+        "lat": 37.98530132668898,
+        "lng": -96.70920001744855
+      }
+    },
+    "specs": {
+      "netSize": 384,
+      "grossSize": 461,
+      "rooms": "4+2",
+      "bathrooms": 3,
+      "age": 18,
+      "floor": 4,
+      "totalFloors": 10,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Unfurnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500611008409?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500256808059?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500640097312?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500648326402?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500366053702?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500643814747?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500469202813?w=800&q=80&category=architecture"
+    ],
+    "agent": {
+      "id": "A73",
+      "name": "Agent 67",
+      "phone": "+51 266 146 6392",
+      "email": "agent27@iwrealty.com",
+      "photo": "/images/icons/png/ny-skyline-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": false,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": true,
+      "hasSecurity": false
+    },
+    "createdAt": "2024-11-21T10:50:47.275Z",
+    "updatedAt": "2025-11-13T10:50:47.275Z",
+    "storeId": "store-008"
+  },
+  {
+    "id": "P08945",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Müstakil Ev - United States Central",
+    "slug": "satilik-müstakil-ev-united-states-central-P08945",
+    "description": "United States Central, United States bölgesinde müstakil ev. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 10568475,
+    "location": {
+      "country": "US",
+      "city": "United States Central",
+      "district": "United States Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 279",
+      "coordinates": {
+        "lat": 37.70338078608844,
+        "lng": -97.22666618028057
+      }
+    },
+    "specs": {
+      "netSize": 168,
+      "grossSize": 202,
+      "rooms": "1+0",
+      "bathrooms": 3,
+      "age": 6,
+      "floor": 12,
+      "totalFloors": 20,
+      "heating": "Merkezi",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500441539892?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500498031088?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500827510574?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500550333651?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500535354165?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500803971943?w=800&q=80&category=interior"
+    ],
+    "agent": {
+      "id": "A63",
+      "name": "Agent 82",
+      "phone": "+55 437 142 4090",
+      "email": "agent90@iwrealty.com",
+      "photo": "/images/icons/png/ny-skyline-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2024-11-21T10:50:47.275Z",
+    "updatedAt": "2025-11-13T10:50:47.275Z",
+    "storeId": "store-008"
+  },
+  {
+    "id": "P08946",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Daire - United States Central",
+    "slug": "kiralik-daire-united-states-central-P08946",
+    "description": "United States Central, United States bölgesinde daire. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 14853264,
+    "location": {
+      "country": "US",
+      "city": "United States Central",
+      "district": "United States Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 560",
+      "coordinates": {
+        "lat": 38.274872539078075,
+        "lng": -97.03218597901619
+      }
+    },
+    "specs": {
+      "netSize": 398,
+      "grossSize": 478,
+      "rooms": "1+1",
+      "bathrooms": 4,
+      "age": 8,
+      "floor": 4,
+      "totalFloors": 18,
+      "heating": "Klima",
+      "furnishing": "Furnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500825374649?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500942688694?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500077841651?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500029043956?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500291419520?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500257733836?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500454986442?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500173294852?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500310496530?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500930285990?w=800&q=80&category=house"
+    ],
+    "agent": {
+      "id": "A10",
+      "name": "Agent 69",
+      "phone": "+11 683 140 6264",
+      "email": "agent77@iwrealty.com",
+      "photo": "/images/icons/png/ny-skyline-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": false,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2024-12-25T10:50:47.275Z",
+    "updatedAt": "2025-11-13T10:50:47.275Z",
+    "storeId": "store-008"
+  },
+  {
+    "id": "P08947",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Residence - United States City",
+    "slug": "satilik-residence-united-states-city-P08947",
+    "description": "United States City, United States bölgesinde residence. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 4198486,
+    "location": {
+      "country": "US",
+      "city": "United States City",
+      "district": "United States City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 60",
+      "coordinates": {
+        "lat": 37.8272905370822,
+        "lng": -96.7735357302248
+      }
+    },
+    "specs": {
+      "netSize": 116,
+      "grossSize": 139,
+      "rooms": "4+1",
+      "bathrooms": 4,
+      "age": 14,
+      "floor": 6,
+      "totalFloors": 13,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Unfurnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500083313805?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500195102293?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500046060192?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500110636388?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500676735305?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500343219255?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500297810934?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500603917431?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500462111342?w=800&q=80&category=architecture"
+    ],
+    "agent": {
+      "id": "A81",
+      "name": "Agent 60",
+      "phone": "+24 513 369 5972",
+      "email": "agent81@iwrealty.com",
+      "photo": "/images/icons/png/ny-skyline-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": false,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": true,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-11-03T10:50:47.275Z",
+    "updatedAt": "2025-11-13T10:50:47.275Z",
+    "storeId": "store-008"
+  },
+  {
+    "id": "P08948",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Residence - United States Central",
+    "slug": "kiralik-residence-united-states-central-P08948",
+    "description": "United States Central, United States bölgesinde residence. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 2472923,
+    "location": {
+      "country": "US",
+      "city": "United States Central",
+      "district": "United States Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 830",
+      "coordinates": {
+        "lat": 37.73083407124276,
+        "lng": -97.28905336666386
+      }
+    },
+    "specs": {
+      "netSize": 317,
+      "grossSize": 380,
+      "rooms": "2+2",
+      "bathrooms": 1,
+      "age": 20,
+      "floor": 5,
+      "totalFloors": 12,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Furnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500606121737?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500293907481?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500018633890?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500286495389?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500641172680?w=800&q=80&category=house"
+    ],
+    "agent": {
+      "id": "A38",
+      "name": "Agent 63",
+      "phone": "+59 573 804 4838",
+      "email": "agent31@iwrealty.com",
+      "photo": "/images/icons/png/ny-skyline-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": true,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-03-27T10:50:47.275Z",
+    "updatedAt": "2025-11-13T10:50:47.275Z",
+    "storeId": "store-008"
+  },
+  {
+    "id": "P08949",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Villa - Washington D.C.",
+    "slug": "satilik-villa-washington-d.c.-P08949",
+    "description": "Washington D.C., United States bölgesinde villa. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 5764762,
+    "location": {
+      "country": "US",
+      "city": "Washington D.C.",
+      "district": "Washington D.C. Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 267",
+      "coordinates": {
+        "lat": 38.15812772778349,
+        "lng": -96.7822919567164
+      }
+    },
+    "specs": {
+      "netSize": 266,
+      "grossSize": 319,
+      "rooms": "4+2",
+      "bathrooms": 4,
+      "age": 14,
+      "floor": 13,
+      "totalFloors": 19,
+      "heating": "Klima",
+      "furnishing": "Furnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500284440837?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500756622980?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500497972757?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500150549187?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500936109528?w=800&q=80&category=real-estate"
+    ],
+    "agent": {
+      "id": "A11",
+      "name": "Agent 41",
+      "phone": "+99 976 920 6354",
+      "email": "agent4@iwrealty.com",
+      "photo": "/images/icons/png/ny-skyline-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": false,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": true,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-01-07T10:50:47.275Z",
+    "updatedAt": "2025-11-13T10:50:47.275Z",
+    "storeId": "store-008"
+  },
+  {
+    "id": "P08950",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Müstakil Ev - Washington D.C.",
+    "slug": "kiralik-müstakil-ev-washington-d.c.-P08950",
+    "description": "Washington D.C., United States bölgesinde müstakil ev. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 2799106,
+    "location": {
+      "country": "US",
+      "city": "Washington D.C.",
+      "district": "Washington D.C. Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 247",
+      "coordinates": {
+        "lat": 37.711660423311514,
+        "lng": -96.67016474292502
+      }
+    },
+    "specs": {
+      "netSize": 210,
+      "grossSize": 252,
+      "rooms": "2+2",
+      "bathrooms": 1,
+      "age": 1,
+      "floor": 9,
+      "totalFloors": 17,
+      "heating": "Klima",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500615420941?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500004938108?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500284850693?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500531991067?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500575456997?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500104571339?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500376262823?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500278304059?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500603574595?w=800&q=80&category=building"
+    ],
+    "agent": {
+      "id": "A96",
+      "name": "Agent 94",
+      "phone": "+36 450 992 6464",
+      "email": "agent55@iwrealty.com",
+      "photo": "/images/icons/png/ny-skyline-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2024-12-21T10:50:47.275Z",
+    "updatedAt": "2025-11-13T10:50:47.275Z",
+    "storeId": "store-008"
+  },
+  {
+    "id": "P08951",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Daire - United States City",
+    "slug": "satilik-daire-united-states-city-P08951",
+    "description": "United States City, United States bölgesinde daire. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 10962060,
+    "location": {
+      "country": "US",
+      "city": "United States City",
+      "district": "United States City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 926",
+      "coordinates": {
+        "lat": 38.389642239893696,
+        "lng": -96.55997749665946
+      }
+    },
+    "specs": {
+      "netSize": 227,
+      "grossSize": 272,
+      "rooms": "5+1",
+      "bathrooms": 3,
+      "age": 16,
+      "floor": 11,
+      "totalFloors": 17,
+      "heating": "Klima",
+      "furnishing": "Unfurnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500265501769?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500344816808?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500096736488?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500581185058?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500316874775?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500821220903?w=800&q=80&category=real-estate"
+    ],
+    "agent": {
+      "id": "A46",
+      "name": "Agent 83",
+      "phone": "+23 635 646 1977",
+      "email": "agent54@iwrealty.com",
+      "photo": "/images/icons/png/ny-skyline-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-05-25T10:50:47.275Z",
+    "updatedAt": "2025-11-13T10:50:47.275Z",
+    "storeId": "store-008"
+  },
+  {
+    "id": "P08952",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Müstakil Ev - United States City",
+    "slug": "kiralik-müstakil-ev-united-states-city-P08952",
+    "description": "United States City, United States bölgesinde müstakil ev. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 5030813,
+    "location": {
+      "country": "US",
+      "city": "United States City",
+      "district": "United States City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 419",
+      "coordinates": {
+        "lat": 38.00229979970746,
+        "lng": -97.49585768222512
+      }
+    },
+    "specs": {
+      "netSize": 423,
+      "grossSize": 508,
+      "rooms": "5+1",
+      "bathrooms": 3,
+      "age": 18,
+      "floor": 5,
+      "totalFloors": 6,
+      "heating": "Klima",
+      "furnishing": "Furnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500626471547?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500413726023?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500303476438?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500599030022?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500880603706?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500086990510?w=800&q=80&category=interior"
+    ],
+    "agent": {
+      "id": "A54",
+      "name": "Agent 68",
+      "phone": "+13 782 684 2899",
+      "email": "agent41@iwrealty.com",
+      "photo": "/images/icons/png/ny-skyline-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-05-21T10:50:47.275Z",
+    "updatedAt": "2025-11-13T10:50:47.275Z",
+    "storeId": "store-008"
+  },
+  {
+    "id": "P08953",
+    "type": "sale",
+    "category": {
+      "main": "commercial",
+      "sub": "hospital"
+    },
+    "title": "Satılık Hastane - United States Central",
+    "slug": "satilik-hastane-united-states-central-P08953",
+    "description": "United States Central, United States bölgesinde hastane. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 22457943,
+    "location": {
+      "country": "US",
+      "city": "United States Central",
+      "district": "United States Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 127",
+      "coordinates": {
+        "lat": 37.772810628262725,
+        "lng": -97.44942030092943
+      }
+    },
+    "specs": {
+      "netSize": 2951,
+      "grossSize": 3541,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 9,
+      "floor": 8,
+      "totalFloors": 16,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Furnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500525506645?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500223108855?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500011068510?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500804557586?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500749097364?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500981027890?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500148610450?w=800&q=80&category=house"
+    ],
+    "agent": {
+      "id": "A72",
+      "name": "Agent 20",
+      "phone": "+47 763 668 8888",
+      "email": "agent74@iwrealty.com",
+      "photo": "/images/icons/png/ny-skyline-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-06-02T10:50:47.275Z",
+    "updatedAt": "2025-11-13T10:50:47.275Z",
+    "storeId": "store-008"
+  },
+  {
+    "id": "P08954",
+    "type": "rent",
+    "category": {
+      "main": "commercial",
+      "sub": "hospital"
+    },
+    "title": "Kiralık Hastane - Washington D.C.",
+    "slug": "kiralik-hastane-washington-d.c.-P08954",
+    "description": "Washington D.C., United States bölgesinde hastane. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 75472507,
+    "location": {
+      "country": "US",
+      "city": "Washington D.C.",
+      "district": "Washington D.C. Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 621",
+      "coordinates": {
+        "lat": 37.783929310733974,
+        "lng": -96.69203497699326
+      }
+    },
+    "specs": {
+      "netSize": 8568,
+      "grossSize": 10282,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 7,
+      "floor": 14,
+      "totalFloors": 18,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Unfurnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500130249426?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500117841309?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500774072527?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500038952272?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500218423182?w=800&q=80&category=interior"
+    ],
+    "agent": {
+      "id": "A12",
+      "name": "Agent 96",
+      "phone": "+39 212 166 3713",
+      "email": "agent79@iwrealty.com",
+      "photo": "/images/icons/png/ny-skyline-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2024-11-27T10:50:47.275Z",
+    "updatedAt": "2025-11-13T10:50:47.275Z",
+    "storeId": "store-008"
+  },
+  {
+    "id": "P08955",
+    "type": "sale",
+    "category": {
+      "main": "commercial",
+      "sub": "clinic"
+    },
+    "title": "Satılık Klinik - United States City",
+    "slug": "satilik-klinik-united-states-city-P08955",
+    "description": "United States City, United States bölgesinde klinik. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 15737782,
+    "location": {
+      "country": "US",
+      "city": "United States City",
+      "district": "United States City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 819",
+      "coordinates": {
+        "lat": 37.807312839191326,
+        "lng": -96.90108136330564
+      }
+    },
+    "specs": {
+      "netSize": 1080,
+      "grossSize": 1296,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 8,
+      "floor": 11,
+      "totalFloors": 11,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Unfurnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500052010059?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500465714334?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500016483665?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500199348476?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500150956085?w=800&q=80&category=building"
+    ],
+    "agent": {
+      "id": "A78",
+      "name": "Agent 65",
+      "phone": "+85 450 256 1314",
+      "email": "agent54@iwrealty.com",
+      "photo": "/images/icons/png/ny-skyline-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": false,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": true,
+      "hasSecurity": false
+    },
+    "createdAt": "2024-12-09T10:50:47.275Z",
+    "updatedAt": "2025-11-13T10:50:47.275Z",
+    "storeId": "store-008"
+  },
+  {
+    "id": "P08956",
+    "type": "rent",
+    "category": {
+      "main": "commercial",
+      "sub": "clinic"
+    },
+    "title": "Kiralık Klinik - United States Central",
+    "slug": "kiralik-klinik-united-states-central-P08956",
+    "description": "United States Central, United States bölgesinde klinik. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 2065587,
+    "location": {
+      "country": "US",
+      "city": "United States Central",
+      "district": "United States Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 166",
+      "coordinates": {
+        "lat": 37.61733114992174,
+        "lng": -96.60990072465043
+      }
+    },
+    "specs": {
+      "netSize": 391,
+      "grossSize": 469,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 9,
+      "floor": 4,
+      "totalFloors": 15,
+      "heating": "Klima",
+      "furnishing": "Furnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500066969653?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500834050075?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500822445320?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500814978744?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500436238443?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500139006563?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500877212934?w=800&q=80&category=building"
+    ],
+    "agent": {
+      "id": "A29",
+      "name": "Agent 73",
+      "phone": "+92 639 562 6127",
+      "email": "agent95@iwrealty.com",
+      "photo": "/images/icons/png/ny-skyline-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-10-20T10:50:47.275Z",
+    "updatedAt": "2025-11-13T10:50:47.275Z",
+    "storeId": "store-008"
+  },
+  {
+    "id": "P08957",
+    "type": "sale",
+    "category": {
+      "main": "commercial",
+      "sub": "shop"
+    },
+    "title": "Satılık Dükkan - United States Central",
+    "slug": "satilik-dükkan-united-states-central-P08957",
+    "description": "United States Central, United States bölgesinde dükkan. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 5021700,
+    "location": {
+      "country": "US",
+      "city": "United States Central",
+      "district": "United States Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 966",
+      "coordinates": {
+        "lat": 38.10375729742403,
+        "lng": -97.3929130104862
+      }
+    },
+    "specs": {
+      "netSize": 175,
+      "grossSize": 210,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 12,
+      "floor": 6,
+      "totalFloors": 17,
+      "heating": "Kombi",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500011856058?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500645376515?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500115171024?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500255130902?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500768228393?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500160014647?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500357321136?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500712042417?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500850368940?w=800&q=80&category=house"
+    ],
+    "agent": {
+      "id": "A78",
+      "name": "Agent 84",
+      "phone": "+36 784 124 9671",
+      "email": "agent56@iwrealty.com",
+      "photo": "/images/icons/png/ny-skyline-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-01-14T10:50:47.275Z",
+    "updatedAt": "2025-11-13T10:50:47.275Z",
+    "storeId": "store-008"
+  },
+  {
+    "id": "P08958",
+    "type": "rent",
+    "category": {
+      "main": "commercial",
+      "sub": "shop"
+    },
+    "title": "Kiralık Dükkan - United States City",
+    "slug": "kiralik-dükkan-united-states-city-P08958",
+    "description": "United States City, United States bölgesinde dükkan. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 7343912,
+    "location": {
+      "country": "US",
+      "city": "United States City",
+      "district": "United States City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 833",
+      "coordinates": {
+        "lat": 38.480770432803645,
+        "lng": -96.7845871535062
+      }
+    },
+    "specs": {
+      "netSize": 334,
+      "grossSize": 401,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 5,
+      "floor": 15,
+      "totalFloors": 7,
+      "heating": "Merkezi",
+      "furnishing": "Unfurnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500694186837?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500295521441?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500226477307?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500718726452?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500106919986?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500270399053?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500023862253?w=800&q=80&category=building"
+    ],
+    "agent": {
+      "id": "A95",
+      "name": "Agent 83",
+      "phone": "+38 268 744 9229",
+      "email": "agent39@iwrealty.com",
+      "photo": "/images/icons/png/ny-skyline-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-09-21T10:50:47.275Z",
+    "updatedAt": "2025-11-13T10:50:47.275Z",
+    "storeId": "store-008"
+  },
+  {
+    "id": "P08959",
+    "type": "sale",
+    "category": {
+      "main": "commercial",
+      "sub": "office"
+    },
+    "title": "Satılık Ofis - New United States",
+    "slug": "satilik-ofis-new-united-states-P08959",
+    "description": "New United States, United States bölgesinde ofis. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 1623049,
+    "location": {
+      "country": "US",
+      "city": "New United States",
+      "district": "New United States Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 527",
+      "coordinates": {
+        "lat": 37.6466674026967,
+        "lng": -97.36256498399617
+      }
+    },
+    "specs": {
+      "netSize": 547,
+      "grossSize": 656,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 10,
+      "floor": 6,
+      "totalFloors": 19,
+      "heating": "Klima",
+      "furnishing": "Furnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500250524892?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500991106248?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500948524535?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500321275985?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500818079408?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500370309694?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500295847319?w=800&q=80&category=real-estate"
+    ],
+    "agent": {
+      "id": "A39",
+      "name": "Agent 24",
+      "phone": "+16 993 789 1343",
+      "email": "agent36@iwrealty.com",
+      "photo": "/images/icons/png/ny-skyline-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": true,
+      "hasPool": true,
+      "hasSecurity": false
+    },
+    "createdAt": "2024-12-05T10:50:47.275Z",
+    "updatedAt": "2025-11-13T10:50:47.275Z",
+    "storeId": "store-008"
+  },
+  {
+    "id": "P08960",
+    "type": "rent",
+    "category": {
+      "main": "commercial",
+      "sub": "office"
+    },
+    "title": "Kiralık Ofis - United States City",
+    "slug": "kiralik-ofis-united-states-city-P08960",
+    "description": "United States City, United States bölgesinde ofis. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 2165017,
+    "location": {
+      "country": "US",
+      "city": "United States City",
+      "district": "United States City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 717",
+      "coordinates": {
+        "lat": 38.20449862821206,
+        "lng": -96.60847506079651
+      }
+    },
+    "specs": {
+      "netSize": 483,
+      "grossSize": 580,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 6,
+      "floor": 3,
+      "totalFloors": 10,
+      "heating": "Kombi",
+      "furnishing": "Furnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500667198341?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500274328776?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500949341485?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500428712299?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500239267678?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500876734262?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500135529829?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500921289127?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500893427620?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500418991219?w=800&q=80&category=building"
+    ],
+    "agent": {
+      "id": "A44",
+      "name": "Agent 19",
+      "phone": "+62 929 217 3812",
+      "email": "agent65@iwrealty.com",
+      "photo": "/images/icons/png/ny-skyline-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": true,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-01-31T10:50:47.275Z",
+    "updatedAt": "2025-11-13T10:50:47.275Z",
+    "storeId": "store-008"
+  },
+  {
+    "id": "P08961",
+    "type": "sale",
+    "category": {
+      "main": "commercial",
+      "sub": "mall"
+    },
+    "title": "Satılık AVM - New United States",
+    "slug": "satilik-avm-new-united-states-P08961",
+    "description": "New United States, United States bölgesinde avm. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 455846093,
+    "location": {
+      "country": "US",
+      "city": "New United States",
+      "district": "New United States Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 382",
+      "coordinates": {
+        "lat": 38.35947712193748,
+        "lng": -97.23410272051022
+      }
+    },
+    "specs": {
+      "netSize": 30988,
+      "grossSize": 37186,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 20,
+      "floor": 10,
+      "totalFloors": 19,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500850146257?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500980709400?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500281285023?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500185097337?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500759422801?w=800&q=80&category=real-estate"
+    ],
+    "agent": {
+      "id": "A80",
+      "name": "Agent 81",
+      "phone": "+30 839 513 6036",
+      "email": "agent84@iwrealty.com",
+      "photo": "/images/icons/png/ny-skyline-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-03-30T10:50:47.275Z",
+    "updatedAt": "2025-11-13T10:50:47.275Z",
+    "storeId": "store-008"
+  },
+  {
+    "id": "P08962",
+    "type": "rent",
+    "category": {
+      "main": "commercial",
+      "sub": "mall"
+    },
+    "title": "Kiralık AVM - United States Central",
+    "slug": "kiralik-avm-united-states-central-P08962",
+    "description": "United States Central, United States bölgesinde avm. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 85091300,
+    "location": {
+      "country": "US",
+      "city": "United States Central",
+      "district": "United States Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 723",
+      "coordinates": {
+        "lat": 37.71304601701909,
+        "lng": -97.12005532188873
+      }
+    },
+    "specs": {
+      "netSize": 33244,
+      "grossSize": 39893,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 18,
+      "floor": 14,
+      "totalFloors": 19,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500158322763?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500939384828?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500952966806?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500981722850?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500709335979?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500442337873?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500366327082?w=800&q=80&category=building"
+    ],
+    "agent": {
+      "id": "A3",
+      "name": "Agent 61",
+      "phone": "+86 349 899 2148",
+      "email": "agent10@iwrealty.com",
+      "photo": "/images/icons/png/ny-skyline-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": false,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-02-01T10:50:47.275Z",
+    "updatedAt": "2025-11-13T10:50:47.275Z",
+    "storeId": "store-008"
+  },
+  {
+    "id": "P08963",
+    "type": "sale",
+    "category": {
+      "main": "commercial",
+      "sub": "hotel"
+    },
+    "title": "Satılık Otel - United States Central",
+    "slug": "satilik-otel-united-states-central-P08963",
+    "description": "United States Central, United States bölgesinde otel. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 102853530,
+    "location": {
+      "country": "US",
+      "city": "United States Central",
+      "district": "United States Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 953",
+      "coordinates": {
+        "lat": 38.3239018524558,
+        "lng": -97.26947636306149
+      }
+    },
+    "specs": {
+      "netSize": 17043,
+      "grossSize": 20452,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 9,
+      "floor": 14,
+      "totalFloors": 8,
+      "heating": "Klima",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500036859244?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500070558122?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500082222986?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500292123555?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500103541012?w=800&q=80&category=building"
+    ],
+    "agent": {
+      "id": "A94",
+      "name": "Agent 80",
+      "phone": "+86 924 955 9211",
+      "email": "agent58@iwrealty.com",
+      "photo": "/images/icons/png/ny-skyline-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": true,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-02-06T10:50:47.275Z",
+    "updatedAt": "2025-11-13T10:50:47.275Z",
+    "storeId": "store-008"
+  },
+  {
+    "id": "P08964",
+    "type": "rent",
+    "category": {
+      "main": "commercial",
+      "sub": "hotel"
+    },
+    "title": "Kiralık Otel - New United States",
+    "slug": "kiralik-otel-new-united-states-P08964",
+    "description": "New United States, United States bölgesinde otel. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 186530669,
+    "location": {
+      "country": "US",
+      "city": "New United States",
+      "district": "New United States Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 428",
+      "coordinates": {
+        "lat": 38.45777726025684,
+        "lng": -96.5174546337002
+      }
+    },
+    "specs": {
+      "netSize": 27175,
+      "grossSize": 32610,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 9,
+      "floor": 1,
+      "totalFloors": 11,
+      "heating": "Klima",
+      "furnishing": "Unfurnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500769601466?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500814039441?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500079120982?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500679935554?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500345995716?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500464902086?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500112827276?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500961530738?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500073577018?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500940225670?w=800&q=80&category=real-estate"
+    ],
+    "agent": {
+      "id": "A56",
+      "name": "Agent 96",
+      "phone": "+91 136 326 8697",
+      "email": "agent22@iwrealty.com",
+      "photo": "/images/icons/png/ny-skyline-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-01-10T10:50:47.275Z",
+    "updatedAt": "2025-11-13T10:50:47.275Z",
+    "storeId": "store-008"
+  },
+  {
+    "id": "P08965",
+    "type": "sale",
+    "category": {
+      "main": "commercial",
+      "sub": "restaurant"
+    },
+    "title": "Satılık Restoran - Washington D.C.",
+    "slug": "satilik-restoran-washington-d.c.-P08965",
+    "description": "Washington D.C., United States bölgesinde restoran. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 5510203,
+    "location": {
+      "country": "US",
+      "city": "Washington D.C.",
+      "district": "Washington D.C. Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 513",
+      "coordinates": {
+        "lat": 38.0510704831515,
+        "lng": -97.314202794491
+      }
+    },
+    "specs": {
+      "netSize": 562,
+      "grossSize": 674,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 9,
+      "floor": 4,
+      "totalFloors": 14,
+      "heating": "Merkezi",
+      "furnishing": "Furnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500557360603?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500116921102?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500602891397?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500925043804?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500678189928?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500151565729?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500504715782?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500228136378?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500191852811?w=800&q=80&category=architecture"
+    ],
+    "agent": {
+      "id": "A35",
+      "name": "Agent 90",
+      "phone": "+67 771 131 8216",
+      "email": "agent95@iwrealty.com",
+      "photo": "/images/icons/png/ny-skyline-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": true,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-04-03T10:50:47.275Z",
+    "updatedAt": "2025-11-13T10:50:47.275Z",
+    "storeId": "store-008"
+  },
+  {
+    "id": "P08966",
+    "type": "rent",
+    "category": {
+      "main": "commercial",
+      "sub": "restaurant"
+    },
+    "title": "Kiralık Restoran - United States Central",
+    "slug": "kiralik-restoran-united-states-central-P08966",
+    "description": "United States Central, United States bölgesinde restoran. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 5199467,
+    "location": {
+      "country": "US",
+      "city": "United States Central",
+      "district": "United States Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 891",
+      "coordinates": {
+        "lat": 38.10503882609692,
+        "lng": -97.08465843446368
+      }
+    },
+    "specs": {
+      "netSize": 682,
+      "grossSize": 818,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 13,
+      "floor": 1,
+      "totalFloors": 20,
+      "heating": "Merkezi",
+      "furnishing": "Furnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500420209042?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500516030206?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500721137697?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500589457252?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500785445951?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500062557200?w=800&q=80&category=house"
+    ],
+    "agent": {
+      "id": "A59",
+      "name": "Agent 42",
+      "phone": "+37 891 785 4491",
+      "email": "agent64@iwrealty.com",
+      "photo": "/images/icons/png/ny-skyline-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": false,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": true,
+      "hasSecurity": true
+    },
+    "createdAt": "2024-12-17T10:50:47.275Z",
+    "updatedAt": "2025-11-13T10:50:47.275Z",
+    "storeId": "store-008"
+  },
+  {
+    "id": "P08967",
+    "type": "sale",
+    "category": {
+      "main": "commercial",
+      "sub": "warehouse"
+    },
+    "title": "Satılık Depo - United States Central",
+    "slug": "satilik-depo-united-states-central-P08967",
+    "description": "United States Central, United States bölgesinde depo. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 18136281,
+    "location": {
+      "country": "US",
+      "city": "United States Central",
+      "district": "United States Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 576",
+      "coordinates": {
+        "lat": 37.80142458380218,
+        "lng": -97.29049323920489
+      }
+    },
+    "specs": {
+      "netSize": 4600,
+      "grossSize": 5520,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 11,
+      "floor": 3,
+      "totalFloors": 16,
+      "heating": "Kombi",
+      "furnishing": "Unfurnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500620856938?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500457079449?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500951017252?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500510991510?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500663627680?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500299448744?w=800&q=80&category=interior"
+    ],
+    "agent": {
+      "id": "A43",
+      "name": "Agent 45",
+      "phone": "+53 902 294 7113",
+      "email": "agent12@iwrealty.com",
+      "photo": "/images/icons/png/ny-skyline-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": false,
+      "hasBalcony": false,
+      "hasGarden": true,
+      "hasPool": true,
+      "hasSecurity": true
+    },
+    "createdAt": "2024-12-30T10:50:47.275Z",
+    "updatedAt": "2025-11-13T10:50:47.275Z",
+    "storeId": "store-008"
+  },
+  {
+    "id": "P08968",
+    "type": "rent",
+    "category": {
+      "main": "commercial",
+      "sub": "warehouse"
+    },
+    "title": "Kiralık Depo - Washington D.C.",
+    "slug": "kiralik-depo-washington-d.c.-P08968",
+    "description": "Washington D.C., United States bölgesinde depo. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 15874010,
+    "location": {
+      "country": "US",
+      "city": "Washington D.C.",
+      "district": "Washington D.C. Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 31",
+      "coordinates": {
+        "lat": 37.53237204210598,
+        "lng": -96.79519110106436
+      }
+    },
+    "specs": {
+      "netSize": 2180,
+      "grossSize": 2616,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 13,
+      "floor": 5,
+      "totalFloors": 5,
+      "heating": "Merkezi",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500628973653?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500191975749?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500310830379?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500248682390?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500081702198?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500830197457?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500713819198?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500502281683?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500183364411?w=800&q=80&category=architecture"
+    ],
+    "agent": {
+      "id": "A25",
+      "name": "Agent 83",
+      "phone": "+21 696 922 4459",
+      "email": "agent47@iwrealty.com",
+      "photo": "/images/icons/png/ny-skyline-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": false,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": true,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-09-03T10:50:47.275Z",
+    "updatedAt": "2025-11-13T10:50:47.275Z",
+    "storeId": "store-008"
+  }
+]

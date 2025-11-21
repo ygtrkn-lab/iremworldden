@@ -1,0 +1,2373 @@
+[
+  {
+    "id": "P01293",
+    "type": "sale",
+    "category": {
+      "main": "government"
+    },
+    "title": "Satılık Belediye Binası - Bridgetown",
+    "slug": "satilik-belediye-binası-bridgetown-P01293",
+    "description": "Bridgetown, Barbados bölgesinde belediye binası. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 28936443,
+    "location": {
+      "country": "BB",
+      "city": "Bridgetown",
+      "district": "Bridgetown Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 881",
+      "coordinates": {
+        "lat": 13.50457876955736,
+        "lng": -60.021359627405296
+      }
+    },
+    "specs": {
+      "netSize": 2312,
+      "grossSize": 2774,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 8,
+      "floor": 14,
+      "totalFloors": 16,
+      "heating": "Merkezi",
+      "furnishing": "Unfurnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500540153807?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500532813344?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500646575977?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500256497927?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500524857485?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500548230818?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500952360812?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500363299036?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500402482513?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500688212298?w=800&q=80&category=building"
+    ],
+    "agent": {
+      "id": "A76",
+      "name": "Agent 49",
+      "phone": "+92 458 399 8647",
+      "email": "agent79@iwrealty.com",
+      "photo": "/images/icons/png/ankara-modern-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-10-17T10:50:47.191Z",
+    "updatedAt": "2025-11-13T10:50:47.191Z",
+    "storeId": "store-003"
+  },
+  {
+    "id": "P01294",
+    "type": "rent",
+    "category": {
+      "main": "government"
+    },
+    "title": "Kiralık Devlet Binası - Bridgetown",
+    "slug": "kiralik-devlet-binası-bridgetown-P01294",
+    "description": "Bridgetown, Barbados bölgesinde devlet binası. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 8010587,
+    "location": {
+      "country": "BB",
+      "city": "Bridgetown",
+      "district": "Bridgetown Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 524",
+      "coordinates": {
+        "lat": 13.376809086541437,
+        "lng": -59.44904664580725
+      }
+    },
+    "specs": {
+      "netSize": 4233,
+      "grossSize": 5080,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 4,
+      "floor": 15,
+      "totalFloors": 8,
+      "heating": "Merkezi",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500849102350?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500232828725?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500167360342?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500047837959?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500445170674?w=800&q=80&category=interior"
+    ],
+    "agent": {
+      "id": "A28",
+      "name": "Agent 72",
+      "phone": "+84 241 405 5942",
+      "email": "agent88@iwrealty.com",
+      "photo": "/images/icons/png/izmir-sahil-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": false,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": true,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-04-18T10:50:47.191Z",
+    "updatedAt": "2025-11-13T10:50:47.191Z",
+    "storeId": "store-005"
+  },
+  {
+    "id": "P01295",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Müstakil Ev - New Barbados",
+    "slug": "satilik-müstakil-ev-new-barbados-P01295",
+    "description": "New Barbados, Barbados bölgesinde müstakil ev. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 6322673,
+    "location": {
+      "country": "BB",
+      "city": "New Barbados",
+      "district": "New Barbados Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 494",
+      "coordinates": {
+        "lat": 13.136048406738931,
+        "lng": -59.09367982184687
+      }
+    },
+    "specs": {
+      "netSize": 249,
+      "grossSize": 299,
+      "rooms": "2+2",
+      "bathrooms": 4,
+      "age": 8,
+      "floor": 8,
+      "totalFloors": 11,
+      "heating": "Klima",
+      "furnishing": "Unfurnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500232133303?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500689346040?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500948710172?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500427639932?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500600513732?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500406202529?w=800&q=80&category=house"
+    ],
+    "agent": {
+      "id": "A77",
+      "name": "Agent 28",
+      "phone": "+23 787 838 5862",
+      "email": "agent36@iwrealty.com",
+      "photo": "/images/icons/png/sg-harbour-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-06-05T10:50:47.191Z",
+    "updatedAt": "2025-11-13T10:50:47.191Z",
+    "storeId": "store-011"
+  },
+  {
+    "id": "P01296",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Residence - New Barbados",
+    "slug": "kiralik-residence-new-barbados-P01296",
+    "description": "New Barbados, Barbados bölgesinde residence. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 7743598,
+    "location": {
+      "country": "BB",
+      "city": "New Barbados",
+      "district": "New Barbados Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 543",
+      "coordinates": {
+        "lat": 13.426510128554598,
+        "lng": -59.071533534214296
+      }
+    },
+    "specs": {
+      "netSize": 189,
+      "grossSize": 227,
+      "rooms": "5+1",
+      "bathrooms": 4,
+      "age": 13,
+      "floor": 4,
+      "totalFloors": 8,
+      "heating": "Klima",
+      "furnishing": "Unfurnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500610535292?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500847397584?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500180387335?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500353749995?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500260288960?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500306181553?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500149013546?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500341353911?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500181961593?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500877998851?w=800&q=80&category=building"
+    ],
+    "agent": {
+      "id": "A70",
+      "name": "Agent 16",
+      "phone": "+29 372 686 4990",
+      "email": "agent76@iwrealty.com",
+      "photo": "/images/icons/png/luxury-homes-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-02-12T10:50:47.192Z",
+    "updatedAt": "2025-11-13T10:50:47.192Z",
+    "storeId": "store-002"
+  },
+  {
+    "id": "P01297",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Müstakil Ev - Barbados City",
+    "slug": "satilik-müstakil-ev-barbados-city-P01297",
+    "description": "Barbados City, Barbados bölgesinde müstakil ev. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 1807114,
+    "location": {
+      "country": "BB",
+      "city": "Barbados City",
+      "district": "Barbados City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 329",
+      "coordinates": {
+        "lat": 13.169256483553992,
+        "lng": -59.86632132469585
+      }
+    },
+    "specs": {
+      "netSize": 323,
+      "grossSize": 388,
+      "rooms": "2+2",
+      "bathrooms": 2,
+      "age": 6,
+      "floor": 15,
+      "totalFloors": 6,
+      "heating": "Merkezi",
+      "furnishing": "Furnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500725322092?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500291428144?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500358035500?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500468015429?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500393677372?w=800&q=80&category=interior"
+    ],
+    "agent": {
+      "id": "A88",
+      "name": "Agent 52",
+      "phone": "+46 922 134 3647",
+      "email": "agent96@iwrealty.com",
+      "photo": "/images/icons/png/ny-skyline-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": true,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-06-05T10:50:47.192Z",
+    "updatedAt": "2025-11-13T10:50:47.192Z",
+    "storeId": "store-008"
+  },
+  {
+    "id": "P01298",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Villa - Bridgetown",
+    "slug": "kiralik-villa-bridgetown-P01298",
+    "description": "Bridgetown, Barbados bölgesinde villa. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 2518267,
+    "location": {
+      "country": "BB",
+      "city": "Bridgetown",
+      "district": "Bridgetown Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 469",
+      "coordinates": {
+        "lat": 13.354908508370302,
+        "lng": -59.632239687680325
+      }
+    },
+    "specs": {
+      "netSize": 291,
+      "grossSize": 349,
+      "rooms": "4+1",
+      "bathrooms": 4,
+      "age": 4,
+      "floor": 9,
+      "totalFloors": 20,
+      "heating": "Merkezi",
+      "furnishing": "Unfurnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500928886504?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500720278412?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500012319485?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500268489102?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500410982098?w=800&q=80&category=real-estate"
+    ],
+    "agent": {
+      "id": "A76",
+      "name": "Agent 29",
+      "phone": "+84 511 301 9134",
+      "email": "agent2@iwrealty.com",
+      "photo": "/images/icons/png/izmir-sahil-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-01-13T10:50:47.192Z",
+    "updatedAt": "2025-11-13T10:50:47.192Z",
+    "storeId": "store-005"
+  },
+  {
+    "id": "P01299",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Daire - New Barbados",
+    "slug": "satilik-daire-new-barbados-P01299",
+    "description": "New Barbados, Barbados bölgesinde daire. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 8755069,
+    "location": {
+      "country": "BB",
+      "city": "New Barbados",
+      "district": "New Barbados Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 921",
+      "coordinates": {
+        "lat": 12.960939816963364,
+        "lng": -59.81500371468117
+      }
+    },
+    "specs": {
+      "netSize": 478,
+      "grossSize": 574,
+      "rooms": "2+0",
+      "bathrooms": 4,
+      "age": 10,
+      "floor": 13,
+      "totalFloors": 5,
+      "heating": "Merkezi",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500042919619?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500834226556?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500771980653?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500571006057?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500111863759?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500712024796?w=800&q=80&category=real-estate"
+    ],
+    "agent": {
+      "id": "A84",
+      "name": "Agent 90",
+      "phone": "+22 768 802 1254",
+      "email": "agent97@iwrealty.com",
+      "photo": "/images/icons/png/paris-heritage-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-02-08T10:50:47.192Z",
+    "updatedAt": "2025-11-13T10:50:47.192Z",
+    "storeId": "store-010"
+  },
+  {
+    "id": "P01300",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Müstakil Ev - Barbados Central",
+    "slug": "kiralik-müstakil-ev-barbados-central-P01300",
+    "description": "Barbados Central, Barbados bölgesinde müstakil ev. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 7117234,
+    "location": {
+      "country": "BB",
+      "city": "Barbados Central",
+      "district": "Barbados Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 36",
+      "coordinates": {
+        "lat": 12.795613706243106,
+        "lng": -59.14913660907476
+      }
+    },
+    "specs": {
+      "netSize": 258,
+      "grossSize": 310,
+      "rooms": "5+2",
+      "bathrooms": 3,
+      "age": 15,
+      "floor": 10,
+      "totalFloors": 11,
+      "heating": "Klima",
+      "furnishing": "Unfurnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500445856038?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500956058172?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500118351579?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500024603444?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500835396553?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500782812851?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500208380951?w=800&q=80&category=building"
+    ],
+    "agent": {
+      "id": "A17",
+      "name": "Agent 22",
+      "phone": "+41 661 152 4784",
+      "email": "agent80@iwrealty.com",
+      "photo": "/images/icons/png/sg-harbour-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": false,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-10-08T10:50:47.192Z",
+    "updatedAt": "2025-11-13T10:50:47.192Z",
+    "storeId": "store-011"
+  },
+  {
+    "id": "P01301",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Müstakil Ev - Barbados Central",
+    "slug": "satilik-müstakil-ev-barbados-central-P01301",
+    "description": "Barbados Central, Barbados bölgesinde müstakil ev. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 2668319,
+    "location": {
+      "country": "BB",
+      "city": "Barbados Central",
+      "district": "Barbados Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 806",
+      "coordinates": {
+        "lat": 13.412454936767947,
+        "lng": -59.95493394589093
+      }
+    },
+    "specs": {
+      "netSize": 122,
+      "grossSize": 146,
+      "rooms": "1+2",
+      "bathrooms": 2,
+      "age": 20,
+      "floor": 1,
+      "totalFloors": 7,
+      "heating": "Kombi",
+      "furnishing": "Unfurnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500907595984?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500174656273?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500420111321?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500306053607?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500592214581?w=800&q=80&category=architecture"
+    ],
+    "agent": {
+      "id": "A31",
+      "name": "Agent 16",
+      "phone": "+49 320 151 6418",
+      "email": "agent74@iwrealty.com",
+      "photo": "/images/icons/png/ankara-modern-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-07-26T10:50:47.192Z",
+    "updatedAt": "2025-11-13T10:50:47.192Z",
+    "storeId": "store-003"
+  },
+  {
+    "id": "P01302",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Müstakil Ev - Bridgetown",
+    "slug": "kiralik-müstakil-ev-bridgetown-P01302",
+    "description": "Bridgetown, Barbados bölgesinde müstakil ev. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 2721621,
+    "location": {
+      "country": "BB",
+      "city": "Bridgetown",
+      "district": "Bridgetown Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 535",
+      "coordinates": {
+        "lat": 12.774470757462803,
+        "lng": -59.831777211392456
+      }
+    },
+    "specs": {
+      "netSize": 259,
+      "grossSize": 311,
+      "rooms": "2+2",
+      "bathrooms": 3,
+      "age": 2,
+      "floor": 10,
+      "totalFloors": 14,
+      "heating": "Merkezi",
+      "furnishing": "Furnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500331780617?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500632613162?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500699963007?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500010474258?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500114347824?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500147292114?w=800&q=80&category=real-estate"
+    ],
+    "agent": {
+      "id": "A42",
+      "name": "Agent 70",
+      "phone": "+69 379 552 9268",
+      "email": "agent48@iwrealty.com",
+      "photo": "/images/icons/png/ny-skyline-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": false,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-04-13T10:50:47.192Z",
+    "updatedAt": "2025-11-13T10:50:47.192Z",
+    "storeId": "store-008"
+  },
+  {
+    "id": "P01303",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Daire - Barbados Central",
+    "slug": "satilik-daire-barbados-central-P01303",
+    "description": "Barbados Central, Barbados bölgesinde daire. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 10555667,
+    "location": {
+      "country": "BB",
+      "city": "Barbados Central",
+      "district": "Barbados Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 861",
+      "coordinates": {
+        "lat": 13.574527427645075,
+        "lng": -59.80796953105805
+      }
+    },
+    "specs": {
+      "netSize": 186,
+      "grossSize": 223,
+      "rooms": "2+2",
+      "bathrooms": 3,
+      "age": 3,
+      "floor": 3,
+      "totalFloors": 10,
+      "heating": "Merkezi",
+      "furnishing": "Unfurnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500715553901?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500395625011?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500273071339?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500717855190?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500398797381?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500793040265?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500905945255?w=800&q=80&category=architecture"
+    ],
+    "agent": {
+      "id": "A49",
+      "name": "Agent 9",
+      "phone": "+86 262 227 2070",
+      "email": "agent18@iwrealty.com",
+      "photo": "/images/icons/png/paris-heritage-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-01-19T10:50:47.192Z",
+    "updatedAt": "2025-11-13T10:50:47.192Z",
+    "storeId": "store-010"
+  },
+  {
+    "id": "P01304",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Villa - Barbados Central",
+    "slug": "kiralik-villa-barbados-central-P01304",
+    "description": "Barbados Central, Barbados bölgesinde villa. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 4637569,
+    "location": {
+      "country": "BB",
+      "city": "Barbados Central",
+      "district": "Barbados Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 17",
+      "coordinates": {
+        "lat": 12.767285738271045,
+        "lng": -59.47594195144029
+      }
+    },
+    "specs": {
+      "netSize": 214,
+      "grossSize": 257,
+      "rooms": "1+0",
+      "bathrooms": 3,
+      "age": 5,
+      "floor": 5,
+      "totalFloors": 14,
+      "heating": "Merkezi",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500510593220?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500762304546?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500005900287?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500911528436?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500461855917?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500022180110?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500044512139?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500274456116?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500991571534?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500996078931?w=800&q=80&category=real-estate"
+    ],
+    "agent": {
+      "id": "A96",
+      "name": "Agent 100",
+      "phone": "+95 292 151 9553",
+      "email": "agent85@iwrealty.com",
+      "photo": "/images/icons/png/antalya-investment-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": false,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": true,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-01-26T10:50:47.192Z",
+    "updatedAt": "2025-11-13T10:50:47.192Z",
+    "storeId": "store-006"
+  },
+  {
+    "id": "P01305",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Villa - Bridgetown",
+    "slug": "satilik-villa-bridgetown-P01305",
+    "description": "Bridgetown, Barbados bölgesinde villa. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 2264205,
+    "location": {
+      "country": "BB",
+      "city": "Bridgetown",
+      "district": "Bridgetown Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 108",
+      "coordinates": {
+        "lat": 13.502198963044135,
+        "lng": -59.63046272794027
+      }
+    },
+    "specs": {
+      "netSize": 180,
+      "grossSize": 216,
+      "rooms": "3+1",
+      "bathrooms": 3,
+      "age": 6,
+      "floor": 7,
+      "totalFloors": 7,
+      "heating": "Kombi",
+      "furnishing": "Unfurnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500240929961?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500538578325?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500596395462?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500070230868?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500634076637?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500149016129?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500016924534?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500718776735?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500642829480?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500147731637?w=800&q=80&category=building"
+    ],
+    "agent": {
+      "id": "A94",
+      "name": "Agent 41",
+      "phone": "+40 146 615 4807",
+      "email": "agent39@iwrealty.com",
+      "photo": "/images/icons/png/berlin-urban-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-01-21T10:50:47.192Z",
+    "updatedAt": "2025-11-13T10:50:47.192Z",
+    "storeId": "store-009"
+  },
+  {
+    "id": "P01306",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Residence - New Barbados",
+    "slug": "kiralik-residence-new-barbados-P01306",
+    "description": "New Barbados, Barbados bölgesinde residence. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 776533,
+    "location": {
+      "country": "BB",
+      "city": "New Barbados",
+      "district": "New Barbados Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 991",
+      "coordinates": {
+        "lat": 13.5809551797251,
+        "lng": -59.33352410172811
+      }
+    },
+    "specs": {
+      "netSize": 111,
+      "grossSize": 133,
+      "rooms": "2+2",
+      "bathrooms": 1,
+      "age": 10,
+      "floor": 15,
+      "totalFloors": 7,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Furnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500187308895?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500442077563?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500485646438?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500995364140?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500207375414?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500706855991?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500388467709?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500899998119?w=800&q=80&category=interior"
+    ],
+    "agent": {
+      "id": "A83",
+      "name": "Agent 12",
+      "phone": "+32 226 335 4033",
+      "email": "agent11@iwrealty.com",
+      "photo": "/images/icons/png/izmir-sahil-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": false,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-08-13T10:50:47.192Z",
+    "updatedAt": "2025-11-13T10:50:47.192Z",
+    "storeId": "store-005"
+  },
+  {
+    "id": "P01307",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Daire - Barbados City",
+    "slug": "satilik-daire-barbados-city-P01307",
+    "description": "Barbados City, Barbados bölgesinde daire. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 869713,
+    "location": {
+      "country": "BB",
+      "city": "Barbados City",
+      "district": "Barbados City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 540",
+      "coordinates": {
+        "lat": 13.43335762981153,
+        "lng": -59.31240612194073
+      }
+    },
+    "specs": {
+      "netSize": 399,
+      "grossSize": 479,
+      "rooms": "3+1",
+      "bathrooms": 1,
+      "age": 6,
+      "floor": 13,
+      "totalFloors": 7,
+      "heating": "Klima",
+      "furnishing": "Furnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500875818498?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500844266250?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500371949953?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500635342264?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500551393618?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500150730873?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500931555962?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500208363265?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500691898078?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500767100730?w=800&q=80&category=house"
+    ],
+    "agent": {
+      "id": "A94",
+      "name": "Agent 63",
+      "phone": "+16 472 432 3905",
+      "email": "agent99@iwrealty.com",
+      "photo": "/images/icons/png/london-prime-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": false,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": true,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-02-16T10:50:47.192Z",
+    "updatedAt": "2025-11-13T10:50:47.192Z",
+    "storeId": "store-007"
+  },
+  {
+    "id": "P01308",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Daire - Barbados Central",
+    "slug": "kiralik-daire-barbados-central-P01308",
+    "description": "Barbados Central, Barbados bölgesinde daire. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 9353867,
+    "location": {
+      "country": "BB",
+      "city": "Barbados Central",
+      "district": "Barbados Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 37",
+      "coordinates": {
+        "lat": 13.416128905667552,
+        "lng": -59.760334860614115
+      }
+    },
+    "specs": {
+      "netSize": 446,
+      "grossSize": 535,
+      "rooms": "1+1",
+      "bathrooms": 1,
+      "age": 5,
+      "floor": 11,
+      "totalFloors": 17,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500910663183?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500998304497?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500635075230?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500351233929?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500015532820?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500934265834?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500069389179?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500096028903?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500420746094?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500049348258?w=800&q=80&category=real-estate"
+    ],
+    "agent": {
+      "id": "A10",
+      "name": "Agent 92",
+      "phone": "+80 284 260 2409",
+      "email": "agent43@iwrealty.com",
+      "photo": "/images/icons/png/sg-harbour-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-10-24T10:50:47.192Z",
+    "updatedAt": "2025-11-13T10:50:47.192Z",
+    "storeId": "store-011"
+  },
+  {
+    "id": "P01309",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Müstakil Ev - Bridgetown",
+    "slug": "satilik-müstakil-ev-bridgetown-P01309",
+    "description": "Bridgetown, Barbados bölgesinde müstakil ev. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 10971050,
+    "location": {
+      "country": "BB",
+      "city": "Bridgetown",
+      "district": "Bridgetown Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 981",
+      "coordinates": {
+        "lat": 13.17356333548639,
+        "lng": -59.92535234727961
+      }
+    },
+    "specs": {
+      "netSize": 383,
+      "grossSize": 460,
+      "rooms": "3+1",
+      "bathrooms": 4,
+      "age": 7,
+      "floor": 11,
+      "totalFloors": 9,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Furnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500910244496?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500163829384?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500180021042?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500852426832?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500273103751?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500841753325?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500721697226?w=800&q=80&category=real-estate"
+    ],
+    "agent": {
+      "id": "A30",
+      "name": "Agent 65",
+      "phone": "+73 758 518 1578",
+      "email": "agent51@iwrealty.com",
+      "photo": "/images/icons/png/dubai-property-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": false,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-06-11T10:50:47.192Z",
+    "updatedAt": "2025-11-13T10:50:47.192Z",
+    "storeId": "store-004"
+  },
+  {
+    "id": "P01310",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Residence - Bridgetown",
+    "slug": "kiralik-residence-bridgetown-P01310",
+    "description": "Bridgetown, Barbados bölgesinde residence. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 8251720,
+    "location": {
+      "country": "BB",
+      "city": "Bridgetown",
+      "district": "Bridgetown Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 128",
+      "coordinates": {
+        "lat": 12.883113691096659,
+        "lng": -59.21514608465865
+      }
+    },
+    "specs": {
+      "netSize": 481,
+      "grossSize": 577,
+      "rooms": "5+1",
+      "bathrooms": 4,
+      "age": 20,
+      "floor": 6,
+      "totalFloors": 15,
+      "heating": "Merkezi",
+      "furnishing": "Furnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500447737305?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500146403091?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500382277195?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500444919638?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500480253426?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500587771696?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500963507425?w=800&q=80&category=building"
+    ],
+    "agent": {
+      "id": "A32",
+      "name": "Agent 11",
+      "phone": "+74 711 803 7144",
+      "email": "agent92@iwrealty.com",
+      "photo": "/images/icons/png/berlin-urban-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": true,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-05-09T10:50:47.192Z",
+    "updatedAt": "2025-11-13T10:50:47.192Z",
+    "storeId": "store-009"
+  },
+  {
+    "id": "P01311",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Residence - New Barbados",
+    "slug": "satilik-residence-new-barbados-P01311",
+    "description": "New Barbados, Barbados bölgesinde residence. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 6452458,
+    "location": {
+      "country": "BB",
+      "city": "New Barbados",
+      "district": "New Barbados Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 992",
+      "coordinates": {
+        "lat": 12.866155727676619,
+        "lng": -59.70306498640693
+      }
+    },
+    "specs": {
+      "netSize": 416,
+      "grossSize": 499,
+      "rooms": "4+2",
+      "bathrooms": 3,
+      "age": 20,
+      "floor": 13,
+      "totalFloors": 10,
+      "heating": "Merkezi",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500656158931?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500235717320?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500924271975?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500718350741?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500501596035?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500771044372?w=800&q=80&category=interior"
+    ],
+    "agent": {
+      "id": "A64",
+      "name": "Agent 7",
+      "phone": "+48 985 637 6806",
+      "email": "agent80@iwrealty.com",
+      "photo": "/images/icons/png/ny-skyline-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": true,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-07-26T10:50:47.192Z",
+    "updatedAt": "2025-11-13T10:50:47.192Z",
+    "storeId": "store-008"
+  },
+  {
+    "id": "P01312",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Daire - New Barbados",
+    "slug": "kiralik-daire-new-barbados-P01312",
+    "description": "New Barbados, Barbados bölgesinde daire. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 8375292,
+    "location": {
+      "country": "BB",
+      "city": "New Barbados",
+      "district": "New Barbados Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 553",
+      "coordinates": {
+        "lat": 13.169120569452543,
+        "lng": -59.39898531981628
+      }
+    },
+    "specs": {
+      "netSize": 464,
+      "grossSize": 557,
+      "rooms": "2+2",
+      "bathrooms": 1,
+      "age": 15,
+      "floor": 6,
+      "totalFloors": 11,
+      "heating": "Merkezi",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500063455355?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500862717233?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500945534157?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500806429821?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500999765913?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500551930939?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500486442846?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500810310778?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500238601298?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500582566205?w=800&q=80&category=interior"
+    ],
+    "agent": {
+      "id": "A65",
+      "name": "Agent 97",
+      "phone": "+29 378 868 8279",
+      "email": "agent50@iwrealty.com",
+      "photo": "/images/icons/png/paris-heritage-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2024-11-13T10:50:47.192Z",
+    "updatedAt": "2025-11-13T10:50:47.192Z",
+    "storeId": "store-010"
+  },
+  {
+    "id": "P01313",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Müstakil Ev - Barbados City",
+    "slug": "satilik-müstakil-ev-barbados-city-P01313",
+    "description": "Barbados City, Barbados bölgesinde müstakil ev. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 4669598,
+    "location": {
+      "country": "BB",
+      "city": "Barbados City",
+      "district": "Barbados City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 273",
+      "coordinates": {
+        "lat": 12.686634262749326,
+        "lng": -59.879939579576764
+      }
+    },
+    "specs": {
+      "netSize": 147,
+      "grossSize": 176,
+      "rooms": "2+1",
+      "bathrooms": 3,
+      "age": 3,
+      "floor": 4,
+      "totalFloors": 13,
+      "heating": "Klima",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500271884386?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500218304230?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500824329255?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500397117405?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500636029370?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500699964449?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500246860471?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500120056070?w=800&q=80&category=building"
+    ],
+    "agent": {
+      "id": "A38",
+      "name": "Agent 5",
+      "phone": "+61 976 629 1838",
+      "email": "agent27@iwrealty.com",
+      "photo": "/images/icons/png/luxury-homes-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": true,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-09-06T10:50:47.192Z",
+    "updatedAt": "2025-11-13T10:50:47.192Z",
+    "storeId": "store-002"
+  },
+  {
+    "id": "P01314",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Daire - Barbados Central",
+    "slug": "kiralik-daire-barbados-central-P01314",
+    "description": "Barbados Central, Barbados bölgesinde daire. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 10003583,
+    "location": {
+      "country": "BB",
+      "city": "Barbados Central",
+      "district": "Barbados Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 522",
+      "coordinates": {
+        "lat": 13.319971922822617,
+        "lng": -59.56011475488534
+      }
+    },
+    "specs": {
+      "netSize": 398,
+      "grossSize": 478,
+      "rooms": "1+0",
+      "bathrooms": 3,
+      "age": 14,
+      "floor": 9,
+      "totalFloors": 6,
+      "heating": "Kombi",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500767007159?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500962686143?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500217148237?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500602331711?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500013365614?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500420231605?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500041797718?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500782272586?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500194326303?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500482185729?w=800&q=80&category=interior"
+    ],
+    "agent": {
+      "id": "A46",
+      "name": "Agent 1",
+      "phone": "+26 269 509 7386",
+      "email": "agent9@iwrealty.com",
+      "photo": "/images/icons/png/london-prime-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-11-06T10:50:47.192Z",
+    "updatedAt": "2025-11-13T10:50:47.192Z",
+    "storeId": "store-007"
+  },
+  {
+    "id": "P01315",
+    "type": "sale",
+    "category": {
+      "main": "commercial",
+      "sub": "hospital"
+    },
+    "title": "Satılık Hastane - Bridgetown",
+    "slug": "satilik-hastane-bridgetown-P01315",
+    "description": "Bridgetown, Barbados bölgesinde hastane. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 64913977,
+    "location": {
+      "country": "BB",
+      "city": "Bridgetown",
+      "district": "Bridgetown Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 343",
+      "coordinates": {
+        "lat": 12.763379269312937,
+        "lng": -59.80819173831729
+      }
+    },
+    "specs": {
+      "netSize": 14375,
+      "grossSize": 17250,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 10,
+      "floor": 11,
+      "totalFloors": 15,
+      "heating": "Merkezi",
+      "furnishing": "Furnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500815430203?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500583643922?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500879043427?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500173973746?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500975890441?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500683011757?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500900613928?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500606347161?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500218397386?w=800&q=80&category=building"
+    ],
+    "agent": {
+      "id": "A61",
+      "name": "Agent 19",
+      "phone": "+61 996 189 3970",
+      "email": "agent16@iwrealty.com",
+      "photo": "/images/icons/png/sydney-coastal-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": false,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-02-18T10:50:47.192Z",
+    "updatedAt": "2025-11-13T10:50:47.192Z",
+    "storeId": "store-012"
+  },
+  {
+    "id": "P01316",
+    "type": "rent",
+    "category": {
+      "main": "commercial",
+      "sub": "hospital"
+    },
+    "title": "Kiralık Hastane - Bridgetown",
+    "slug": "kiralik-hastane-bridgetown-P01316",
+    "description": "Bridgetown, Barbados bölgesinde hastane. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 24976550,
+    "location": {
+      "country": "BB",
+      "city": "Bridgetown",
+      "district": "Bridgetown Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 519",
+      "coordinates": {
+        "lat": 13.582189178012875,
+        "lng": -59.485304487401905
+      }
+    },
+    "specs": {
+      "netSize": 6783,
+      "grossSize": 8140,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 12,
+      "floor": 15,
+      "totalFloors": 18,
+      "heating": "Klima",
+      "furnishing": "Unfurnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500436758472?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500962552781?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500922420164?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500277941761?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500620127970?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500974716379?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500562970813?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500241251221?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500832299482?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500012000045?w=800&q=80&category=house"
+    ],
+    "agent": {
+      "id": "A47",
+      "name": "Agent 94",
+      "phone": "+44 362 699 8769",
+      "email": "agent40@iwrealty.com",
+      "photo": "/images/icons/png/ankara-modern-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": false,
+      "hasBalcony": false,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-03-28T10:50:47.192Z",
+    "updatedAt": "2025-11-13T10:50:47.192Z",
+    "storeId": "store-003"
+  },
+  {
+    "id": "P01317",
+    "type": "sale",
+    "category": {
+      "main": "commercial",
+      "sub": "clinic"
+    },
+    "title": "Satılık Klinik - Bridgetown",
+    "slug": "satilik-klinik-bridgetown-P01317",
+    "description": "Bridgetown, Barbados bölgesinde klinik. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 14364947,
+    "location": {
+      "country": "BB",
+      "city": "Bridgetown",
+      "district": "Bridgetown Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 601",
+      "coordinates": {
+        "lat": 13.29065120708032,
+        "lng": -59.96684544581167
+      }
+    },
+    "specs": {
+      "netSize": 669,
+      "grossSize": 803,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 5,
+      "floor": 6,
+      "totalFloors": 12,
+      "heating": "Merkezi",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500286175715?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500631330094?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500475397393?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500494744583?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500071707754?w=800&q=80&category=real-estate"
+    ],
+    "agent": {
+      "id": "A16",
+      "name": "Agent 79",
+      "phone": "+71 374 260 6165",
+      "email": "agent42@iwrealty.com",
+      "photo": "/images/icons/png/london-prime-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-09-28T10:50:47.192Z",
+    "updatedAt": "2025-11-13T10:50:47.192Z",
+    "storeId": "store-007"
+  },
+  {
+    "id": "P01318",
+    "type": "rent",
+    "category": {
+      "main": "commercial",
+      "sub": "clinic"
+    },
+    "title": "Kiralık Klinik - Barbados Central",
+    "slug": "kiralik-klinik-barbados-central-P01318",
+    "description": "Barbados Central, Barbados bölgesinde klinik. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 19763548,
+    "location": {
+      "country": "BB",
+      "city": "Barbados Central",
+      "district": "Barbados Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 483",
+      "coordinates": {
+        "lat": 12.781594570171283,
+        "lng": -59.723264411590776
+      }
+    },
+    "specs": {
+      "netSize": 1649,
+      "grossSize": 1979,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 5,
+      "floor": 7,
+      "totalFloors": 19,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Unfurnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500568555328?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500350167989?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500544075998?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500857523206?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500389478053?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500893416580?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500172830431?w=800&q=80&category=real-estate"
+    ],
+    "agent": {
+      "id": "A42",
+      "name": "Agent 7",
+      "phone": "+16 323 307 9150",
+      "email": "agent19@iwrealty.com",
+      "photo": "/images/icons/png/dubai-property-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": true,
+      "hasPool": true,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-06-07T10:50:47.192Z",
+    "updatedAt": "2025-11-13T10:50:47.192Z",
+    "storeId": "store-004"
+  },
+  {
+    "id": "P01319",
+    "type": "sale",
+    "category": {
+      "main": "commercial",
+      "sub": "shop"
+    },
+    "title": "Satılık Dükkan - New Barbados",
+    "slug": "satilik-dükkan-new-barbados-P01319",
+    "description": "New Barbados, Barbados bölgesinde dükkan. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 3117954,
+    "location": {
+      "country": "BB",
+      "city": "New Barbados",
+      "district": "New Barbados Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 64",
+      "coordinates": {
+        "lat": 12.84712109349396,
+        "lng": -59.470557567547424
+      }
+    },
+    "specs": {
+      "netSize": 496,
+      "grossSize": 595,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 17,
+      "floor": 5,
+      "totalFloors": 11,
+      "heating": "Merkezi",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500912891300?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500817860902?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500270569506?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500382941597?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500229954574?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500375605319?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500385855031?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500808469966?w=800&q=80&category=building"
+    ],
+    "agent": {
+      "id": "A63",
+      "name": "Agent 46",
+      "phone": "+11 603 512 8472",
+      "email": "agent88@iwrealty.com",
+      "photo": "/images/icons/png/luxury-homes-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": false,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-05-12T10:50:47.192Z",
+    "updatedAt": "2025-11-13T10:50:47.192Z",
+    "storeId": "store-002"
+  },
+  {
+    "id": "P01320",
+    "type": "rent",
+    "category": {
+      "main": "commercial",
+      "sub": "shop"
+    },
+    "title": "Kiralık Dükkan - Barbados Central",
+    "slug": "kiralik-dükkan-barbados-central-P01320",
+    "description": "Barbados Central, Barbados bölgesinde dükkan. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 5330814,
+    "location": {
+      "country": "BB",
+      "city": "Barbados Central",
+      "district": "Barbados Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 523",
+      "coordinates": {
+        "lat": 13.561211945786592,
+        "lng": -59.76779232808323
+      }
+    },
+    "specs": {
+      "netSize": 489,
+      "grossSize": 587,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 16,
+      "floor": 8,
+      "totalFloors": 6,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Furnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500268718086?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500831256578?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500167621904?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500589498880?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500837563551?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500955834162?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500724119332?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500669688525?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500824424261?w=800&q=80&category=interior"
+    ],
+    "agent": {
+      "id": "A79",
+      "name": "Agent 9",
+      "phone": "+44 430 893 9593",
+      "email": "agent43@iwrealty.com",
+      "photo": "/images/icons/png/ny-skyline-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-03-08T10:50:47.192Z",
+    "updatedAt": "2025-11-13T10:50:47.192Z",
+    "storeId": "store-008"
+  },
+  {
+    "id": "P01321",
+    "type": "sale",
+    "category": {
+      "main": "commercial",
+      "sub": "office"
+    },
+    "title": "Satılık Ofis - Barbados City",
+    "slug": "satilik-ofis-barbados-city-P01321",
+    "description": "Barbados City, Barbados bölgesinde ofis. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 6756140,
+    "location": {
+      "country": "BB",
+      "city": "Barbados City",
+      "district": "Barbados City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 23",
+      "coordinates": {
+        "lat": 12.690076484864852,
+        "lng": -59.47915923906814
+      }
+    },
+    "specs": {
+      "netSize": 769,
+      "grossSize": 923,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 0,
+      "floor": 8,
+      "totalFloors": 14,
+      "heating": "Merkezi",
+      "furnishing": "Unfurnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500582004508?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500077683527?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500265589226?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500504335787?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500641089428?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500483832487?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500762826108?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500221897542?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500067216487?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500905203063?w=800&q=80&category=building"
+    ],
+    "agent": {
+      "id": "A15",
+      "name": "Agent 16",
+      "phone": "+64 173 579 5894",
+      "email": "agent52@iwrealty.com",
+      "photo": "/images/icons/png/berlin-urban-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-04-03T10:50:47.192Z",
+    "updatedAt": "2025-11-13T10:50:47.192Z",
+    "storeId": "store-009"
+  },
+  {
+    "id": "P01322",
+    "type": "rent",
+    "category": {
+      "main": "commercial",
+      "sub": "office"
+    },
+    "title": "Kiralık Ofis - Barbados City",
+    "slug": "kiralik-ofis-barbados-city-P01322",
+    "description": "Barbados City, Barbados bölgesinde ofis. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 9279888,
+    "location": {
+      "country": "BB",
+      "city": "Barbados City",
+      "district": "Barbados City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 867",
+      "coordinates": {
+        "lat": 13.560501382924283,
+        "lng": -59.285004022385706
+      }
+    },
+    "specs": {
+      "netSize": 480,
+      "grossSize": 576,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 6,
+      "floor": 7,
+      "totalFloors": 20,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Furnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500566769558?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500458203734?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500131950208?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500065192916?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500144584199?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500683093612?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500064212627?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500847192042?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500999564659?w=800&q=80&category=architecture"
+    ],
+    "agent": {
+      "id": "A62",
+      "name": "Agent 67",
+      "phone": "+46 200 804 6117",
+      "email": "agent92@iwrealty.com",
+      "photo": "/images/icons/png/izmir-sahil-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-09-02T10:50:47.192Z",
+    "updatedAt": "2025-11-13T10:50:47.192Z",
+    "storeId": "store-005"
+  },
+  {
+    "id": "P01323",
+    "type": "sale",
+    "category": {
+      "main": "commercial",
+      "sub": "mall"
+    },
+    "title": "Satılık AVM - New Barbados",
+    "slug": "satilik-avm-new-barbados-P01323",
+    "description": "New Barbados, Barbados bölgesinde avm. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 428833710,
+    "location": {
+      "country": "BB",
+      "city": "New Barbados",
+      "district": "New Barbados Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 280",
+      "coordinates": {
+        "lat": 13.33820386928502,
+        "lng": -60.01835066521538
+      }
+    },
+    "specs": {
+      "netSize": 9853,
+      "grossSize": 11824,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 17,
+      "floor": 12,
+      "totalFloors": 12,
+      "heating": "Kombi",
+      "furnishing": "Furnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500710611258?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500326332221?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500192470256?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500711798674?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500782850550?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500449402210?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500213717532?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500112095901?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500725986063?w=800&q=80&category=architecture"
+    ],
+    "agent": {
+      "id": "A14",
+      "name": "Agent 77",
+      "phone": "+55 595 271 8950",
+      "email": "agent32@iwrealty.com",
+      "photo": "/images/icons/png/ankara-modern-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-01-04T10:50:47.192Z",
+    "updatedAt": "2025-11-13T10:50:47.192Z",
+    "storeId": "store-003"
+  },
+  {
+    "id": "P01324",
+    "type": "rent",
+    "category": {
+      "main": "commercial",
+      "sub": "mall"
+    },
+    "title": "Kiralık AVM - Bridgetown",
+    "slug": "kiralik-avm-bridgetown-P01324",
+    "description": "Bridgetown, Barbados bölgesinde avm. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 213967496,
+    "location": {
+      "country": "BB",
+      "city": "Bridgetown",
+      "district": "Bridgetown Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 397",
+      "coordinates": {
+        "lat": 13.444324500113511,
+        "lng": -59.57114318788608
+      }
+    },
+    "specs": {
+      "netSize": 21382,
+      "grossSize": 25658,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 5,
+      "floor": 15,
+      "totalFloors": 5,
+      "heating": "Merkezi",
+      "furnishing": "Furnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500425917993?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500605194788?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500986106043?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500052943251?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500298101561?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500769572315?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500418853238?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500900350260?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500264613510?w=800&q=80&category=house"
+    ],
+    "agent": {
+      "id": "A40",
+      "name": "Agent 52",
+      "phone": "+44 674 551 8347",
+      "email": "agent44@iwrealty.com",
+      "photo": "/images/icons/png/izmir-sahil-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": false,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-05-02T10:50:47.192Z",
+    "updatedAt": "2025-11-13T10:50:47.192Z",
+    "storeId": "store-005"
+  },
+  {
+    "id": "P01325",
+    "type": "sale",
+    "category": {
+      "main": "commercial",
+      "sub": "hotel"
+    },
+    "title": "Satılık Otel - New Barbados",
+    "slug": "satilik-otel-new-barbados-P01325",
+    "description": "New Barbados, Barbados bölgesinde otel. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 193008765,
+    "location": {
+      "country": "BB",
+      "city": "New Barbados",
+      "district": "New Barbados Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 11",
+      "coordinates": {
+        "lat": 12.950970571294548,
+        "lng": -59.14141180846546
+      }
+    },
+    "specs": {
+      "netSize": 21388,
+      "grossSize": 25666,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 16,
+      "floor": 2,
+      "totalFloors": 15,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500137770990?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500394424658?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500400391637?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500224813948?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500303254188?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500136435865?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500630745339?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500180043169?w=800&q=80&category=interior"
+    ],
+    "agent": {
+      "id": "A60",
+      "name": "Agent 75",
+      "phone": "+82 634 110 6091",
+      "email": "agent94@iwrealty.com",
+      "photo": "/images/icons/png/ankara-modern-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-07-07T10:50:47.192Z",
+    "updatedAt": "2025-11-13T10:50:47.192Z",
+    "storeId": "store-003"
+  },
+  {
+    "id": "P01326",
+    "type": "rent",
+    "category": {
+      "main": "commercial",
+      "sub": "hotel"
+    },
+    "title": "Kiralık Otel - New Barbados",
+    "slug": "kiralik-otel-new-barbados-P01326",
+    "description": "New Barbados, Barbados bölgesinde otel. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 54407012,
+    "location": {
+      "country": "BB",
+      "city": "New Barbados",
+      "district": "New Barbados Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 929",
+      "coordinates": {
+        "lat": 13.281825518964165,
+        "lng": -59.401388304991485
+      }
+    },
+    "specs": {
+      "netSize": 7545,
+      "grossSize": 9054,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 18,
+      "floor": 11,
+      "totalFloors": 20,
+      "heating": "Merkezi",
+      "furnishing": "Unfurnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500711041686?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500777313521?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500161309222?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500258764700?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500105600224?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500495514924?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500717628616?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500302902166?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500942613570?w=800&q=80&category=architecture"
+    ],
+    "agent": {
+      "id": "A76",
+      "name": "Agent 92",
+      "phone": "+17 498 827 9352",
+      "email": "agent15@iwrealty.com",
+      "photo": "/images/icons/png/sg-harbour-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": false,
+      "hasBalcony": false,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-02-21T10:50:47.192Z",
+    "updatedAt": "2025-11-13T10:50:47.192Z",
+    "storeId": "store-011"
+  },
+  {
+    "id": "P01327",
+    "type": "sale",
+    "category": {
+      "main": "commercial",
+      "sub": "restaurant"
+    },
+    "title": "Satılık Restoran - Barbados Central",
+    "slug": "satilik-restoran-barbados-central-P01327",
+    "description": "Barbados Central, Barbados bölgesinde restoran. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 4414266,
+    "location": {
+      "country": "BB",
+      "city": "Barbados Central",
+      "district": "Barbados Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 848",
+      "coordinates": {
+        "lat": 13.340446774238796,
+        "lng": -59.65946325570828
+      }
+    },
+    "specs": {
+      "netSize": 893,
+      "grossSize": 1072,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 5,
+      "floor": 2,
+      "totalFloors": 16,
+      "heating": "Klima",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500863333141?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500045217932?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500803326170?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500188396440?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500524643836?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500675570194?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500778265528?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500308422721?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500925955364?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500092491360?w=800&q=80&category=real-estate"
+    ],
+    "agent": {
+      "id": "A70",
+      "name": "Agent 26",
+      "phone": "+17 801 720 2005",
+      "email": "agent36@iwrealty.com",
+      "photo": "/images/icons/png/luxury-homes-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-06-10T10:50:47.192Z",
+    "updatedAt": "2025-11-13T10:50:47.192Z",
+    "storeId": "store-002"
+  },
+  {
+    "id": "P01328",
+    "type": "rent",
+    "category": {
+      "main": "commercial",
+      "sub": "restaurant"
+    },
+    "title": "Kiralık Restoran - Barbados City",
+    "slug": "kiralik-restoran-barbados-city-P01328",
+    "description": "Barbados City, Barbados bölgesinde restoran. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 7605310,
+    "location": {
+      "country": "BB",
+      "city": "Barbados City",
+      "district": "Barbados City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 278",
+      "coordinates": {
+        "lat": 12.761589271924572,
+        "lng": -59.76848933862433
+      }
+    },
+    "specs": {
+      "netSize": 441,
+      "grossSize": 529,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 7,
+      "floor": 4,
+      "totalFloors": 11,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Unfurnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500131825673?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500179371462?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500283932295?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500875270261?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500957107301?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500083798462?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500320427099?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500086798513?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500591848293?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500514817036?w=800&q=80&category=architecture"
+    ],
+    "agent": {
+      "id": "A63",
+      "name": "Agent 25",
+      "phone": "+92 589 853 6629",
+      "email": "agent66@iwrealty.com",
+      "photo": "/images/icons/png/london-prime-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": false,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-09-29T10:50:47.192Z",
+    "updatedAt": "2025-11-13T10:50:47.192Z",
+    "storeId": "store-007"
+  },
+  {
+    "id": "P01329",
+    "type": "sale",
+    "category": {
+      "main": "commercial",
+      "sub": "warehouse"
+    },
+    "title": "Satılık Depo - Bridgetown",
+    "slug": "satilik-depo-bridgetown-P01329",
+    "description": "Bridgetown, Barbados bölgesinde depo. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 25040587,
+    "location": {
+      "country": "BB",
+      "city": "Bridgetown",
+      "district": "Bridgetown Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 972",
+      "coordinates": {
+        "lat": 12.750104630093862,
+        "lng": -59.500513557404865
+      }
+    },
+    "specs": {
+      "netSize": 6800,
+      "grossSize": 8160,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 11,
+      "floor": 8,
+      "totalFloors": 14,
+      "heating": "Kombi",
+      "furnishing": "Furnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500845817548?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500363168442?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500603679865?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500578746949?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500120704645?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500486331102?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500433643740?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500075306640?w=800&q=80&category=interior"
+    ],
+    "agent": {
+      "id": "A48",
+      "name": "Agent 99",
+      "phone": "+14 634 209 7325",
+      "email": "agent87@iwrealty.com",
+      "photo": "/images/icons/png/london-prime-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": true,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-10-16T10:50:47.192Z",
+    "updatedAt": "2025-11-13T10:50:47.192Z",
+    "storeId": "store-007"
+  },
+  {
+    "id": "P01330",
+    "type": "rent",
+    "category": {
+      "main": "commercial",
+      "sub": "warehouse"
+    },
+    "title": "Kiralık Depo - New Barbados",
+    "slug": "kiralik-depo-new-barbados-P01330",
+    "description": "New Barbados, Barbados bölgesinde depo. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 25767669,
+    "location": {
+      "country": "BB",
+      "city": "New Barbados",
+      "district": "New Barbados Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 819",
+      "coordinates": {
+        "lat": 13.258862672677916,
+        "lng": -59.40020942534105
+      }
+    },
+    "specs": {
+      "netSize": 4875,
+      "grossSize": 5850,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 12,
+      "floor": 8,
+      "totalFloors": 15,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Furnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500676645907?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500347868621?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500979653364?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500316989186?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500444103685?w=800&q=80&category=architecture"
+    ],
+    "agent": {
+      "id": "A97",
+      "name": "Agent 52",
+      "phone": "+96 641 498 1388",
+      "email": "agent81@iwrealty.com",
+      "photo": "/images/icons/png/berlin-urban-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-07-06T10:50:47.192Z",
+    "updatedAt": "2025-11-13T10:50:47.192Z",
+    "storeId": "store-009"
+  }
+]

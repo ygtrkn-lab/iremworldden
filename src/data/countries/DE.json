@@ -1,0 +1,2347 @@
+[
+  {
+    "id": "P02281",
+    "type": "sale",
+    "category": {
+      "main": "government"
+    },
+    "title": "Satılık Hastane - New Germany",
+    "slug": "satilik-hastane-new-germany-P02281",
+    "description": "New Germany, Germany bölgesinde hastane. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 25624221,
+    "location": {
+      "country": "DE",
+      "city": "New Germany",
+      "district": "New Germany Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 328",
+      "coordinates": {
+        "lat": 51.32144819315094,
+        "lng": 8.669674126553478
+      }
+    },
+    "specs": {
+      "netSize": 1720,
+      "grossSize": 2064,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 9,
+      "floor": 14,
+      "totalFloors": 19,
+      "heating": "Kombi",
+      "furnishing": "Furnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500326951572?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500145171655?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500746186741?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500008508105?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500530494756?w=800&q=80&category=house"
+    ],
+    "agent": {
+      "id": "A91",
+      "name": "Agent 47",
+      "phone": "+71 483 272 4106",
+      "email": "agent26@iwrealty.com",
+      "photo": "/images/icons/png/berlin-urban-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": false,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-10-01T10:50:47.202Z",
+    "updatedAt": "2025-11-13T10:50:47.202Z",
+    "storeId": "store-009"
+  },
+  {
+    "id": "P02282",
+    "type": "rent",
+    "category": {
+      "main": "government"
+    },
+    "title": "Kiralık Belediye Binası - Berlin",
+    "slug": "kiralik-belediye-binası-berlin-P02282",
+    "description": "Berlin, Germany bölgesinde belediye binası. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 18267143,
+    "location": {
+      "country": "DE",
+      "city": "Berlin",
+      "district": "Berlin Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 473",
+      "coordinates": {
+        "lat": 50.87545562385455,
+        "lng": 8.670428326408826
+      }
+    },
+    "specs": {
+      "netSize": 1196,
+      "grossSize": 1435,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 2,
+      "floor": 8,
+      "totalFloors": 12,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Unfurnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500001360851?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500023110379?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500901474272?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500467365853?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500941182061?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500074581146?w=800&q=80&category=building"
+    ],
+    "agent": {
+      "id": "A59",
+      "name": "Agent 93",
+      "phone": "+86 188 522 1195",
+      "email": "agent6@iwrealty.com",
+      "photo": "/images/icons/png/berlin-urban-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-09-10T10:50:47.202Z",
+    "updatedAt": "2025-11-13T10:50:47.202Z",
+    "storeId": "store-009"
+  },
+  {
+    "id": "P02283",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Villa - Germany Central",
+    "slug": "satilik-villa-germany-central-P02283",
+    "description": "Germany Central, Germany bölgesinde villa. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 4256626,
+    "location": {
+      "country": "DE",
+      "city": "Germany Central",
+      "district": "Germany Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 455",
+      "coordinates": {
+        "lat": 50.95606587408129,
+        "lng": 9.29132251431102
+      }
+    },
+    "specs": {
+      "netSize": 450,
+      "grossSize": 540,
+      "rooms": "5+0",
+      "bathrooms": 2,
+      "age": 4,
+      "floor": 11,
+      "totalFloors": 13,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Unfurnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500048032859?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500212401470?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500315163490?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500808042695?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500007810451?w=800&q=80&category=architecture"
+    ],
+    "agent": {
+      "id": "A47",
+      "name": "Agent 40",
+      "phone": "+90 107 208 6607",
+      "email": "agent37@iwrealty.com",
+      "photo": "/images/icons/png/berlin-urban-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-02-17T10:50:47.202Z",
+    "updatedAt": "2025-11-13T10:50:47.202Z",
+    "storeId": "store-009"
+  },
+  {
+    "id": "P02284",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Residence - Berlin",
+    "slug": "kiralik-residence-berlin-P02284",
+    "description": "Berlin, Germany bölgesinde residence. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 3784698,
+    "location": {
+      "country": "DE",
+      "city": "Berlin",
+      "district": "Berlin Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 792",
+      "coordinates": {
+        "lat": 50.83672182767014,
+        "lng": 8.676758109776474
+      }
+    },
+    "specs": {
+      "netSize": 88,
+      "grossSize": 106,
+      "rooms": "2+2",
+      "bathrooms": 1,
+      "age": 19,
+      "floor": 4,
+      "totalFloors": 17,
+      "heating": "Kombi",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500390127376?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500217358449?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500271102649?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500920495423?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500002691741?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500969743573?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500579569557?w=800&q=80&category=real-estate"
+    ],
+    "agent": {
+      "id": "A79",
+      "name": "Agent 11",
+      "phone": "+11 826 182 3247",
+      "email": "agent41@iwrealty.com",
+      "photo": "/images/icons/png/berlin-urban-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-04-14T10:50:47.202Z",
+    "updatedAt": "2025-11-13T10:50:47.202Z",
+    "storeId": "store-009"
+  },
+  {
+    "id": "P02285",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Müstakil Ev - Berlin",
+    "slug": "satilik-müstakil-ev-berlin-P02285",
+    "description": "Berlin, Germany bölgesinde müstakil ev. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 7670485,
+    "location": {
+      "country": "DE",
+      "city": "Berlin",
+      "district": "Berlin Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 388",
+      "coordinates": {
+        "lat": 51.14583593354955,
+        "lng": 9.22106382092526
+      }
+    },
+    "specs": {
+      "netSize": 345,
+      "grossSize": 414,
+      "rooms": "3+1",
+      "bathrooms": 4,
+      "age": 18,
+      "floor": 13,
+      "totalFloors": 15,
+      "heating": "Klima",
+      "furnishing": "Furnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500981887518?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500410606544?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500284303171?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500446423149?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500670237482?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500395853844?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500354485744?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500794155699?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500058956978?w=800&q=80&category=real-estate"
+    ],
+    "agent": {
+      "id": "A56",
+      "name": "Agent 71",
+      "phone": "+46 576 998 9993",
+      "email": "agent84@iwrealty.com",
+      "photo": "/images/icons/png/berlin-urban-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-07-10T10:50:47.202Z",
+    "updatedAt": "2025-11-13T10:50:47.202Z",
+    "storeId": "store-009"
+  },
+  {
+    "id": "P02286",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Residence - Germany City",
+    "slug": "kiralik-residence-germany-city-P02286",
+    "description": "Germany City, Germany bölgesinde residence. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 5767901,
+    "location": {
+      "country": "DE",
+      "city": "Germany City",
+      "district": "Germany City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 840",
+      "coordinates": {
+        "lat": 51.4769828286605,
+        "lng": 8.666412777951306
+      }
+    },
+    "specs": {
+      "netSize": 237,
+      "grossSize": 284,
+      "rooms": "1+1",
+      "bathrooms": 2,
+      "age": 10,
+      "floor": 1,
+      "totalFloors": 14,
+      "heating": "Klima",
+      "furnishing": "Unfurnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500795565986?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500390566584?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500292346845?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500137836081?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500059440815?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500676287546?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500619589328?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500641948740?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500966050213?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500325548639?w=800&q=80&category=real-estate"
+    ],
+    "agent": {
+      "id": "A8",
+      "name": "Agent 54",
+      "phone": "+45 384 686 1547",
+      "email": "agent87@iwrealty.com",
+      "photo": "/images/icons/png/berlin-urban-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": true,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-06-05T10:50:47.202Z",
+    "updatedAt": "2025-11-13T10:50:47.202Z",
+    "storeId": "store-009"
+  },
+  {
+    "id": "P02287",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Residence - Germany Central",
+    "slug": "satilik-residence-germany-central-P02287",
+    "description": "Germany Central, Germany bölgesinde residence. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 14941384,
+    "location": {
+      "country": "DE",
+      "city": "Germany Central",
+      "district": "Germany Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 372",
+      "coordinates": {
+        "lat": 50.619428157147254,
+        "lng": 9.330038050247111
+      }
+    },
+    "specs": {
+      "netSize": 130,
+      "grossSize": 156,
+      "rooms": "1+2",
+      "bathrooms": 1,
+      "age": 20,
+      "floor": 9,
+      "totalFloors": 11,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Unfurnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500524051579?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500153274201?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500037243525?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500014336185?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500673682424?w=800&q=80&category=architecture"
+    ],
+    "agent": {
+      "id": "A100",
+      "name": "Agent 48",
+      "phone": "+28 370 387 4844",
+      "email": "agent60@iwrealty.com",
+      "photo": "/images/icons/png/berlin-urban-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-06-06T10:50:47.202Z",
+    "updatedAt": "2025-11-13T10:50:47.202Z",
+    "storeId": "store-009"
+  },
+  {
+    "id": "P02288",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Residence - Berlin",
+    "slug": "kiralik-residence-berlin-P02288",
+    "description": "Berlin, Germany bölgesinde residence. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 14219457,
+    "location": {
+      "country": "DE",
+      "city": "Berlin",
+      "district": "Berlin Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 629",
+      "coordinates": {
+        "lat": 51.327032706057,
+        "lng": 8.558246709550325
+      }
+    },
+    "specs": {
+      "netSize": 101,
+      "grossSize": 121,
+      "rooms": "5+0",
+      "bathrooms": 1,
+      "age": 11,
+      "floor": 1,
+      "totalFloors": 12,
+      "heating": "Klima",
+      "furnishing": "Furnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500223528240?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500186725453?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500262478457?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500667487643?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500710597376?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500018272449?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500086486327?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500394263508?w=800&q=80&category=house"
+    ],
+    "agent": {
+      "id": "A74",
+      "name": "Agent 53",
+      "phone": "+23 445 667 4937",
+      "email": "agent99@iwrealty.com",
+      "photo": "/images/icons/png/berlin-urban-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": false,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2024-11-20T10:50:47.202Z",
+    "updatedAt": "2025-11-13T10:50:47.202Z",
+    "storeId": "store-009"
+  },
+  {
+    "id": "P02289",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Residence - Berlin",
+    "slug": "satilik-residence-berlin-P02289",
+    "description": "Berlin, Germany bölgesinde residence. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 7419035,
+    "location": {
+      "country": "DE",
+      "city": "Berlin",
+      "district": "Berlin Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 681",
+      "coordinates": {
+        "lat": 50.53365071003654,
+        "lng": 9.470127001401424
+      }
+    },
+    "specs": {
+      "netSize": 473,
+      "grossSize": 568,
+      "rooms": "3+2",
+      "bathrooms": 3,
+      "age": 7,
+      "floor": 7,
+      "totalFloors": 7,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Furnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500762755574?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500027423870?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500822525148?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500083080580?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500321376058?w=800&q=80&category=building"
+    ],
+    "agent": {
+      "id": "A41",
+      "name": "Agent 34",
+      "phone": "+77 735 282 7313",
+      "email": "agent30@iwrealty.com",
+      "photo": "/images/icons/png/berlin-urban-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-02-05T10:50:47.202Z",
+    "updatedAt": "2025-11-13T10:50:47.202Z",
+    "storeId": "store-009"
+  },
+  {
+    "id": "P02290",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Villa - Germany City",
+    "slug": "kiralik-villa-germany-city-P02290",
+    "description": "Germany City, Germany bölgesinde villa. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 3416124,
+    "location": {
+      "country": "DE",
+      "city": "Germany City",
+      "district": "Germany City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 222",
+      "coordinates": {
+        "lat": 51.24416155760341,
+        "lng": 8.641948051413316
+      }
+    },
+    "specs": {
+      "netSize": 115,
+      "grossSize": 138,
+      "rooms": "1+2",
+      "bathrooms": 3,
+      "age": 4,
+      "floor": 15,
+      "totalFloors": 17,
+      "heating": "Kombi",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500982328728?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500538484064?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500206761547?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500820560501?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500608219432?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500787472953?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500025092570?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500496661094?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500682700393?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500132188154?w=800&q=80&category=house"
+    ],
+    "agent": {
+      "id": "A17",
+      "name": "Agent 69",
+      "phone": "+68 655 979 6697",
+      "email": "agent61@iwrealty.com",
+      "photo": "/images/icons/png/berlin-urban-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-03-12T10:50:47.202Z",
+    "updatedAt": "2025-11-13T10:50:47.202Z",
+    "storeId": "store-009"
+  },
+  {
+    "id": "P02291",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Villa - Germany Central",
+    "slug": "satilik-villa-germany-central-P02291",
+    "description": "Germany Central, Germany bölgesinde villa. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 14109842,
+    "location": {
+      "country": "DE",
+      "city": "Germany Central",
+      "district": "Germany Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 511",
+      "coordinates": {
+        "lat": 51.49703505275866,
+        "lng": 9.217492282239816
+      }
+    },
+    "specs": {
+      "netSize": 170,
+      "grossSize": 204,
+      "rooms": "4+1",
+      "bathrooms": 4,
+      "age": 7,
+      "floor": 6,
+      "totalFloors": 10,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Furnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500564187511?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500450885463?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500292490239?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500316699219?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500812737599?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500202242957?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500964681108?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500250844007?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500677348248?w=800&q=80&category=interior"
+    ],
+    "agent": {
+      "id": "A85",
+      "name": "Agent 85",
+      "phone": "+56 142 310 7813",
+      "email": "agent48@iwrealty.com",
+      "photo": "/images/icons/png/berlin-urban-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": false,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": true,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-03-05T10:50:47.202Z",
+    "updatedAt": "2025-11-13T10:50:47.202Z",
+    "storeId": "store-009"
+  },
+  {
+    "id": "P02292",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Müstakil Ev - New Germany",
+    "slug": "kiralik-müstakil-ev-new-germany-P02292",
+    "description": "New Germany, Germany bölgesinde müstakil ev. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 10189380,
+    "location": {
+      "country": "DE",
+      "city": "New Germany",
+      "district": "New Germany Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 392",
+      "coordinates": {
+        "lat": 50.71407179325791,
+        "lng": 9.337068218213869
+      }
+    },
+    "specs": {
+      "netSize": 406,
+      "grossSize": 487,
+      "rooms": "5+1",
+      "bathrooms": 3,
+      "age": 17,
+      "floor": 5,
+      "totalFloors": 5,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Furnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500254263951?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500252377893?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500344895956?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500104227570?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500537198103?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500981593893?w=800&q=80&category=real-estate"
+    ],
+    "agent": {
+      "id": "A4",
+      "name": "Agent 85",
+      "phone": "+85 757 615 3007",
+      "email": "agent47@iwrealty.com",
+      "photo": "/images/icons/png/berlin-urban-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": false,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-07-24T10:50:47.202Z",
+    "updatedAt": "2025-11-13T10:50:47.202Z",
+    "storeId": "store-009"
+  },
+  {
+    "id": "P02293",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Residence - New Germany",
+    "slug": "satilik-residence-new-germany-P02293",
+    "description": "New Germany, Germany bölgesinde residence. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 12402690,
+    "location": {
+      "country": "DE",
+      "city": "New Germany",
+      "district": "New Germany Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 146",
+      "coordinates": {
+        "lat": 50.62567215770556,
+        "lng": 8.873983857323271
+      }
+    },
+    "specs": {
+      "netSize": 299,
+      "grossSize": 359,
+      "rooms": "5+2",
+      "bathrooms": 1,
+      "age": 16,
+      "floor": 1,
+      "totalFloors": 10,
+      "heating": "Kombi",
+      "furnishing": "Furnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500141422123?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500987209422?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500248223772?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500578688182?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500167146655?w=800&q=80&category=architecture"
+    ],
+    "agent": {
+      "id": "A83",
+      "name": "Agent 87",
+      "phone": "+93 303 191 4465",
+      "email": "agent71@iwrealty.com",
+      "photo": "/images/icons/png/berlin-urban-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-09-02T10:50:47.202Z",
+    "updatedAt": "2025-11-13T10:50:47.202Z",
+    "storeId": "store-009"
+  },
+  {
+    "id": "P02294",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Residence - Germany Central",
+    "slug": "kiralik-residence-germany-central-P02294",
+    "description": "Germany Central, Germany bölgesinde residence. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 11653555,
+    "location": {
+      "country": "DE",
+      "city": "Germany Central",
+      "district": "Germany Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 823",
+      "coordinates": {
+        "lat": 51.00918471167861,
+        "lng": 9.12687296732533
+      }
+    },
+    "specs": {
+      "netSize": 376,
+      "grossSize": 451,
+      "rooms": "3+2",
+      "bathrooms": 4,
+      "age": 19,
+      "floor": 4,
+      "totalFloors": 8,
+      "heating": "Klima",
+      "furnishing": "Furnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500880844827?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500840518399?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500545833868?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500490414630?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500234562374?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500801644102?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500061290693?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500314295226?w=800&q=80&category=building"
+    ],
+    "agent": {
+      "id": "A49",
+      "name": "Agent 72",
+      "phone": "+63 392 761 3977",
+      "email": "agent22@iwrealty.com",
+      "photo": "/images/icons/png/berlin-urban-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": false,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": true,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-05-30T10:50:47.202Z",
+    "updatedAt": "2025-11-13T10:50:47.202Z",
+    "storeId": "store-009"
+  },
+  {
+    "id": "P02295",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Daire - New Germany",
+    "slug": "satilik-daire-new-germany-P02295",
+    "description": "New Germany, Germany bölgesinde daire. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 7027718,
+    "location": {
+      "country": "DE",
+      "city": "New Germany",
+      "district": "New Germany Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 823",
+      "coordinates": {
+        "lat": 51.31490699983601,
+        "lng": 8.904005820212026
+      }
+    },
+    "specs": {
+      "netSize": 401,
+      "grossSize": 481,
+      "rooms": "5+2",
+      "bathrooms": 1,
+      "age": 13,
+      "floor": 9,
+      "totalFloors": 11,
+      "heating": "Kombi",
+      "furnishing": "Furnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500710377382?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500084168182?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500502361795?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500999345147?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500327956923?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500729094845?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500003458707?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500796322892?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500414528033?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500249400022?w=800&q=80&category=architecture"
+    ],
+    "agent": {
+      "id": "A74",
+      "name": "Agent 29",
+      "phone": "+53 875 778 1337",
+      "email": "agent69@iwrealty.com",
+      "photo": "/images/icons/png/berlin-urban-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": false,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-02-12T10:50:47.202Z",
+    "updatedAt": "2025-11-13T10:50:47.202Z",
+    "storeId": "store-009"
+  },
+  {
+    "id": "P02296",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Residence - Germany City",
+    "slug": "kiralik-residence-germany-city-P02296",
+    "description": "Germany City, Germany bölgesinde residence. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 13467800,
+    "location": {
+      "country": "DE",
+      "city": "Germany City",
+      "district": "Germany City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 743",
+      "coordinates": {
+        "lat": 50.77024931340293,
+        "lng": 8.793378130769469
+      }
+    },
+    "specs": {
+      "netSize": 153,
+      "grossSize": 184,
+      "rooms": "1+1",
+      "bathrooms": 4,
+      "age": 17,
+      "floor": 14,
+      "totalFloors": 13,
+      "heating": "Merkezi",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500150472066?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500898713065?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500444330717?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500224997364?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500060228878?w=800&q=80&category=architecture"
+    ],
+    "agent": {
+      "id": "A7",
+      "name": "Agent 20",
+      "phone": "+76 359 347 1618",
+      "email": "agent41@iwrealty.com",
+      "photo": "/images/icons/png/berlin-urban-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": false,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": true,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-03-23T10:50:47.202Z",
+    "updatedAt": "2025-11-13T10:50:47.202Z",
+    "storeId": "store-009"
+  },
+  {
+    "id": "P02297",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Müstakil Ev - New Germany",
+    "slug": "satilik-müstakil-ev-new-germany-P02297",
+    "description": "New Germany, Germany bölgesinde müstakil ev. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 2724193,
+    "location": {
+      "country": "DE",
+      "city": "New Germany",
+      "district": "New Germany Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 256",
+      "coordinates": {
+        "lat": 50.544078360212424,
+        "lng": 8.724955802367635
+      }
+    },
+    "specs": {
+      "netSize": 175,
+      "grossSize": 210,
+      "rooms": "1+2",
+      "bathrooms": 3,
+      "age": 4,
+      "floor": 1,
+      "totalFloors": 8,
+      "heating": "Merkezi",
+      "furnishing": "Furnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500168543475?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500125730241?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500533280182?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500804370839?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500775417044?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500201467166?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500136579349?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500441427718?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500664506935?w=800&q=80&category=architecture"
+    ],
+    "agent": {
+      "id": "A20",
+      "name": "Agent 46",
+      "phone": "+93 548 281 6447",
+      "email": "agent13@iwrealty.com",
+      "photo": "/images/icons/png/berlin-urban-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2024-12-30T10:50:47.202Z",
+    "updatedAt": "2025-11-13T10:50:47.202Z",
+    "storeId": "store-009"
+  },
+  {
+    "id": "P02298",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Müstakil Ev - Berlin",
+    "slug": "kiralik-müstakil-ev-berlin-P02298",
+    "description": "Berlin, Germany bölgesinde müstakil ev. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 13595463,
+    "location": {
+      "country": "DE",
+      "city": "Berlin",
+      "district": "Berlin Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 796",
+      "coordinates": {
+        "lat": 51.220341862398314,
+        "lng": 9.254917101951959
+      }
+    },
+    "specs": {
+      "netSize": 443,
+      "grossSize": 532,
+      "rooms": "2+0",
+      "bathrooms": 1,
+      "age": 18,
+      "floor": 11,
+      "totalFloors": 5,
+      "heating": "Kombi",
+      "furnishing": "Furnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500853483500?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500865623441?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500166268183?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500208655917?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500213559730?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500051721162?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500776673702?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500113448292?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500744098827?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500003047241?w=800&q=80&category=real-estate"
+    ],
+    "agent": {
+      "id": "A26",
+      "name": "Agent 49",
+      "phone": "+28 775 785 1475",
+      "email": "agent79@iwrealty.com",
+      "photo": "/images/icons/png/berlin-urban-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": true,
+      "hasPool": true,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-07-01T10:50:47.202Z",
+    "updatedAt": "2025-11-13T10:50:47.202Z",
+    "storeId": "store-009"
+  },
+  {
+    "id": "P02299",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Villa - Germany City",
+    "slug": "satilik-villa-germany-city-P02299",
+    "description": "Germany City, Germany bölgesinde villa. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 2885907,
+    "location": {
+      "country": "DE",
+      "city": "Germany City",
+      "district": "Germany City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 534",
+      "coordinates": {
+        "lat": 50.533474592718655,
+        "lng": 9.340087027021301
+      }
+    },
+    "specs": {
+      "netSize": 130,
+      "grossSize": 156,
+      "rooms": "5+1",
+      "bathrooms": 3,
+      "age": 20,
+      "floor": 10,
+      "totalFloors": 11,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Unfurnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500474996458?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500995747475?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500444789458?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500966190385?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500044388895?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500961387318?w=800&q=80&category=architecture"
+    ],
+    "agent": {
+      "id": "A12",
+      "name": "Agent 47",
+      "phone": "+18 980 414 5760",
+      "email": "agent38@iwrealty.com",
+      "photo": "/images/icons/png/berlin-urban-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": false,
+      "hasBalcony": false,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-10-02T10:50:47.202Z",
+    "updatedAt": "2025-11-13T10:50:47.202Z",
+    "storeId": "store-009"
+  },
+  {
+    "id": "P02300",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Daire - Germany Central",
+    "slug": "kiralik-daire-germany-central-P02300",
+    "description": "Germany Central, Germany bölgesinde daire. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 8958069,
+    "location": {
+      "country": "DE",
+      "city": "Germany Central",
+      "district": "Germany Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 821",
+      "coordinates": {
+        "lat": 51.40047947227237,
+        "lng": 9.460147640916476
+      }
+    },
+    "specs": {
+      "netSize": 181,
+      "grossSize": 217,
+      "rooms": "4+1",
+      "bathrooms": 2,
+      "age": 8,
+      "floor": 11,
+      "totalFloors": 11,
+      "heating": "Merkezi",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500049566487?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500085851287?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500403161457?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500330314440?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500043483672?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500045186569?w=800&q=80&category=interior"
+    ],
+    "agent": {
+      "id": "A99",
+      "name": "Agent 92",
+      "phone": "+47 193 384 6526",
+      "email": "agent41@iwrealty.com",
+      "photo": "/images/icons/png/berlin-urban-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": true,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-06-21T10:50:47.202Z",
+    "updatedAt": "2025-11-13T10:50:47.202Z",
+    "storeId": "store-009"
+  },
+  {
+    "id": "P02301",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Müstakil Ev - New Germany",
+    "slug": "satilik-müstakil-ev-new-germany-P02301",
+    "description": "New Germany, Germany bölgesinde müstakil ev. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 3550219,
+    "location": {
+      "country": "DE",
+      "city": "New Germany",
+      "district": "New Germany Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 675",
+      "coordinates": {
+        "lat": 50.589015878030345,
+        "lng": 9.16057977952449
+      }
+    },
+    "specs": {
+      "netSize": 259,
+      "grossSize": 311,
+      "rooms": "2+1",
+      "bathrooms": 2,
+      "age": 10,
+      "floor": 10,
+      "totalFloors": 18,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500909005941?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500891094687?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500306330829?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500738983336?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500004943996?w=800&q=80&category=real-estate"
+    ],
+    "agent": {
+      "id": "A42",
+      "name": "Agent 63",
+      "phone": "+45 489 124 2776",
+      "email": "agent52@iwrealty.com",
+      "photo": "/images/icons/png/berlin-urban-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-07-23T10:50:47.202Z",
+    "updatedAt": "2025-11-13T10:50:47.202Z",
+    "storeId": "store-009"
+  },
+  {
+    "id": "P02302",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Müstakil Ev - New Germany",
+    "slug": "kiralik-müstakil-ev-new-germany-P02302",
+    "description": "New Germany, Germany bölgesinde müstakil ev. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 10691781,
+    "location": {
+      "country": "DE",
+      "city": "New Germany",
+      "district": "New Germany Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 718",
+      "coordinates": {
+        "lat": 50.72796317251145,
+        "lng": 8.640628951893706
+      }
+    },
+    "specs": {
+      "netSize": 173,
+      "grossSize": 208,
+      "rooms": "5+0",
+      "bathrooms": 4,
+      "age": 7,
+      "floor": 13,
+      "totalFloors": 15,
+      "heating": "Klima",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500742179170?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500503497026?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500820176634?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500598066448?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500262591414?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500016676208?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500556917595?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500239059256?w=800&q=80&category=interior"
+    ],
+    "agent": {
+      "id": "A53",
+      "name": "Agent 57",
+      "phone": "+31 538 262 5617",
+      "email": "agent76@iwrealty.com",
+      "photo": "/images/icons/png/berlin-urban-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-06-30T10:50:47.202Z",
+    "updatedAt": "2025-11-13T10:50:47.202Z",
+    "storeId": "store-009"
+  },
+  {
+    "id": "P02303",
+    "type": "sale",
+    "category": {
+      "main": "commercial",
+      "sub": "hospital"
+    },
+    "title": "Satılık Hastane - Berlin",
+    "slug": "satilik-hastane-berlin-P02303",
+    "description": "Berlin, Germany bölgesinde hastane. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 90366736,
+    "location": {
+      "country": "DE",
+      "city": "Berlin",
+      "district": "Berlin Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 598",
+      "coordinates": {
+        "lat": 50.61102721737484,
+        "lng": 9.053844766972162
+      }
+    },
+    "specs": {
+      "netSize": 5744,
+      "grossSize": 6893,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 20,
+      "floor": 1,
+      "totalFloors": 8,
+      "heating": "Klima",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500514882005?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500422285396?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500037393043?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500702560754?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500594408830?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500624231911?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500389080517?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500323677796?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500653647281?w=800&q=80&category=house"
+    ],
+    "agent": {
+      "id": "A49",
+      "name": "Agent 53",
+      "phone": "+45 881 476 1488",
+      "email": "agent49@iwrealty.com",
+      "photo": "/images/icons/png/berlin-urban-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": true,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-08-01T10:50:47.202Z",
+    "updatedAt": "2025-11-13T10:50:47.202Z",
+    "storeId": "store-009"
+  },
+  {
+    "id": "P02304",
+    "type": "rent",
+    "category": {
+      "main": "commercial",
+      "sub": "hospital"
+    },
+    "title": "Kiralık Hastane - Berlin",
+    "slug": "kiralik-hastane-berlin-P02304",
+    "description": "Berlin, Germany bölgesinde hastane. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 24812566,
+    "location": {
+      "country": "DE",
+      "city": "Berlin",
+      "district": "Berlin Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 893",
+      "coordinates": {
+        "lat": 50.707028414282846,
+        "lng": 8.817789232883133
+      }
+    },
+    "specs": {
+      "netSize": 4849,
+      "grossSize": 5819,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 2,
+      "floor": 14,
+      "totalFloors": 13,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Furnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500559627553?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500633697437?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500913865089?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500390485709?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500264573441?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500420526615?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500285743885?w=800&q=80&category=interior"
+    ],
+    "agent": {
+      "id": "A47",
+      "name": "Agent 67",
+      "phone": "+76 389 494 5214",
+      "email": "agent42@iwrealty.com",
+      "photo": "/images/icons/png/berlin-urban-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-08-05T10:50:47.202Z",
+    "updatedAt": "2025-11-13T10:50:47.202Z",
+    "storeId": "store-009"
+  },
+  {
+    "id": "P02305",
+    "type": "sale",
+    "category": {
+      "main": "commercial",
+      "sub": "clinic"
+    },
+    "title": "Satılık Klinik - Germany City",
+    "slug": "satilik-klinik-germany-city-P02305",
+    "description": "Germany City, Germany bölgesinde klinik. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 15293315,
+    "location": {
+      "country": "DE",
+      "city": "Germany City",
+      "district": "Germany City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 975",
+      "coordinates": {
+        "lat": 50.88022125877093,
+        "lng": 8.848289808006633
+      }
+    },
+    "specs": {
+      "netSize": 1631,
+      "grossSize": 1957,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 4,
+      "floor": 15,
+      "totalFloors": 6,
+      "heating": "Kombi",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500128413036?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500448331211?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500515322200?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500754147385?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500082868963?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500150728309?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500721220083?w=800&q=80&category=real-estate"
+    ],
+    "agent": {
+      "id": "A42",
+      "name": "Agent 33",
+      "phone": "+12 543 284 3764",
+      "email": "agent12@iwrealty.com",
+      "photo": "/images/icons/png/berlin-urban-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-10-02T10:50:47.202Z",
+    "updatedAt": "2025-11-13T10:50:47.202Z",
+    "storeId": "store-009"
+  },
+  {
+    "id": "P02306",
+    "type": "rent",
+    "category": {
+      "main": "commercial",
+      "sub": "clinic"
+    },
+    "title": "Kiralık Klinik - Germany Central",
+    "slug": "kiralik-klinik-germany-central-P02306",
+    "description": "Germany Central, Germany bölgesinde klinik. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 18261811,
+    "location": {
+      "country": "DE",
+      "city": "Germany Central",
+      "district": "Germany Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 388",
+      "coordinates": {
+        "lat": 50.775023842174164,
+        "lng": 9.412796048933483
+      }
+    },
+    "specs": {
+      "netSize": 1232,
+      "grossSize": 1478,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 7,
+      "floor": 10,
+      "totalFloors": 8,
+      "heating": "Kombi",
+      "furnishing": "Unfurnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500176940773?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500544856907?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500768088700?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500397037473?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500817666332?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500217605609?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500020281343?w=800&q=80&category=interior"
+    ],
+    "agent": {
+      "id": "A80",
+      "name": "Agent 16",
+      "phone": "+34 357 709 1623",
+      "email": "agent84@iwrealty.com",
+      "photo": "/images/icons/png/berlin-urban-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-10-20T10:50:47.202Z",
+    "updatedAt": "2025-11-13T10:50:47.202Z",
+    "storeId": "store-009"
+  },
+  {
+    "id": "P02307",
+    "type": "sale",
+    "category": {
+      "main": "commercial",
+      "sub": "shop"
+    },
+    "title": "Satılık Dükkan - New Germany",
+    "slug": "satilik-dükkan-new-germany-P02307",
+    "description": "New Germany, Germany bölgesinde dükkan. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 5340957,
+    "location": {
+      "country": "DE",
+      "city": "New Germany",
+      "district": "New Germany Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 332",
+      "coordinates": {
+        "lat": 51.26906283221475,
+        "lng": 9.35421453215174
+      }
+    },
+    "specs": {
+      "netSize": 398,
+      "grossSize": 478,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 2,
+      "floor": 11,
+      "totalFloors": 12,
+      "heating": "Klima",
+      "furnishing": "Unfurnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500313862921?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500243059940?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500870006711?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500523335813?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500229065898?w=800&q=80&category=interior"
+    ],
+    "agent": {
+      "id": "A64",
+      "name": "Agent 19",
+      "phone": "+21 423 969 1057",
+      "email": "agent17@iwrealty.com",
+      "photo": "/images/icons/png/berlin-urban-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": false,
+      "hasBalcony": false,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-02-15T10:50:47.202Z",
+    "updatedAt": "2025-11-13T10:50:47.202Z",
+    "storeId": "store-009"
+  },
+  {
+    "id": "P02308",
+    "type": "rent",
+    "category": {
+      "main": "commercial",
+      "sub": "shop"
+    },
+    "title": "Kiralık Dükkan - Berlin",
+    "slug": "kiralik-dükkan-berlin-P02308",
+    "description": "Berlin, Germany bölgesinde dükkan. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 2510607,
+    "location": {
+      "country": "DE",
+      "city": "Berlin",
+      "district": "Berlin Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 355",
+      "coordinates": {
+        "lat": 51.39382074525395,
+        "lng": 8.669757700077849
+      }
+    },
+    "specs": {
+      "netSize": 54,
+      "grossSize": 65,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 1,
+      "floor": 14,
+      "totalFloors": 9,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Furnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500545254265?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500433442176?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500405417009?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500935409734?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500448724108?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500149090486?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500346193368?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500600747101?w=800&q=80&category=real-estate"
+    ],
+    "agent": {
+      "id": "A49",
+      "name": "Agent 25",
+      "phone": "+88 234 314 5660",
+      "email": "agent13@iwrealty.com",
+      "photo": "/images/icons/png/berlin-urban-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": true,
+      "hasSecurity": true
+    },
+    "createdAt": "2024-12-04T10:50:47.202Z",
+    "updatedAt": "2025-11-13T10:50:47.202Z",
+    "storeId": "store-009"
+  },
+  {
+    "id": "P02309",
+    "type": "sale",
+    "category": {
+      "main": "commercial",
+      "sub": "office"
+    },
+    "title": "Satılık Ofis - Berlin",
+    "slug": "satilik-ofis-berlin-P02309",
+    "description": "Berlin, Germany bölgesinde ofis. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 1630757,
+    "location": {
+      "country": "DE",
+      "city": "Berlin",
+      "district": "Berlin Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 664",
+      "coordinates": {
+        "lat": 50.995243212360236,
+        "lng": 8.744740613063556
+      }
+    },
+    "specs": {
+      "netSize": 384,
+      "grossSize": 461,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 15,
+      "floor": 15,
+      "totalFloors": 11,
+      "heating": "Klima",
+      "furnishing": "Furnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500247647765?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500238013507?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500684489055?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500017728139?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500131584346?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500576604648?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500037332921?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500774521008?w=800&q=80&category=architecture"
+    ],
+    "agent": {
+      "id": "A93",
+      "name": "Agent 35",
+      "phone": "+93 728 721 9279",
+      "email": "agent74@iwrealty.com",
+      "photo": "/images/icons/png/berlin-urban-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-10-14T10:50:47.202Z",
+    "updatedAt": "2025-11-13T10:50:47.202Z",
+    "storeId": "store-009"
+  },
+  {
+    "id": "P02310",
+    "type": "rent",
+    "category": {
+      "main": "commercial",
+      "sub": "office"
+    },
+    "title": "Kiralık Ofis - Germany City",
+    "slug": "kiralik-ofis-germany-city-P02310",
+    "description": "Germany City, Germany bölgesinde ofis. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 9809538,
+    "location": {
+      "country": "DE",
+      "city": "Germany City",
+      "district": "Germany City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 928",
+      "coordinates": {
+        "lat": 51.01638694287422,
+        "lng": 8.911449830562475
+      }
+    },
+    "specs": {
+      "netSize": 756,
+      "grossSize": 907,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 19,
+      "floor": 14,
+      "totalFloors": 11,
+      "heating": "Kombi",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500564247181?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500882406401?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500592922723?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500218091882?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500939103160?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500502147823?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500114117956?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500823303589?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500472457451?w=800&q=80&category=real-estate"
+    ],
+    "agent": {
+      "id": "A89",
+      "name": "Agent 88",
+      "phone": "+28 984 616 1808",
+      "email": "agent29@iwrealty.com",
+      "photo": "/images/icons/png/berlin-urban-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-10-26T10:50:47.202Z",
+    "updatedAt": "2025-11-13T10:50:47.202Z",
+    "storeId": "store-009"
+  },
+  {
+    "id": "P02311",
+    "type": "sale",
+    "category": {
+      "main": "commercial",
+      "sub": "mall"
+    },
+    "title": "Satılık AVM - Germany Central",
+    "slug": "satilik-avm-germany-central-P02311",
+    "description": "Germany Central, Germany bölgesinde avm. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 379673386,
+    "location": {
+      "country": "DE",
+      "city": "Germany Central",
+      "district": "Germany Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 787",
+      "coordinates": {
+        "lat": 50.97916067063721,
+        "lng": 8.96664998124347
+      }
+    },
+    "specs": {
+      "netSize": 40477,
+      "grossSize": 48572,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 7,
+      "floor": 9,
+      "totalFloors": 19,
+      "heating": "Merkezi",
+      "furnishing": "Furnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500630965757?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500272745283?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500481736172?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500920827306?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500766355299?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500253707833?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500542046349?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500106499720?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500616043661?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500238013058?w=800&q=80&category=interior"
+    ],
+    "agent": {
+      "id": "A98",
+      "name": "Agent 89",
+      "phone": "+64 596 900 2471",
+      "email": "agent72@iwrealty.com",
+      "photo": "/images/icons/png/berlin-urban-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": false,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": true,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-04-28T10:50:47.202Z",
+    "updatedAt": "2025-11-13T10:50:47.202Z",
+    "storeId": "store-009"
+  },
+  {
+    "id": "P02312",
+    "type": "rent",
+    "category": {
+      "main": "commercial",
+      "sub": "mall"
+    },
+    "title": "Kiralık AVM - Germany Central",
+    "slug": "kiralik-avm-germany-central-P02312",
+    "description": "Germany Central, Germany bölgesinde avm. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 202466532,
+    "location": {
+      "country": "DE",
+      "city": "Germany Central",
+      "district": "Germany Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 707",
+      "coordinates": {
+        "lat": 50.632794747280165,
+        "lng": 8.661051323559263
+      }
+    },
+    "specs": {
+      "netSize": 22414,
+      "grossSize": 26897,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 14,
+      "floor": 14,
+      "totalFloors": 16,
+      "heating": "Kombi",
+      "furnishing": "Furnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500150742531?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500579198163?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500916534327?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500284442511?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500791948360?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500010100318?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500222275579?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500604843281?w=800&q=80&category=interior"
+    ],
+    "agent": {
+      "id": "A45",
+      "name": "Agent 100",
+      "phone": "+56 650 421 3188",
+      "email": "agent14@iwrealty.com",
+      "photo": "/images/icons/png/berlin-urban-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-02-05T10:50:47.202Z",
+    "updatedAt": "2025-11-13T10:50:47.202Z",
+    "storeId": "store-009"
+  },
+  {
+    "id": "P02313",
+    "type": "sale",
+    "category": {
+      "main": "commercial",
+      "sub": "hotel"
+    },
+    "title": "Satılık Otel - Germany Central",
+    "slug": "satilik-otel-germany-central-P02313",
+    "description": "Germany Central, Germany bölgesinde otel. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 54232866,
+    "location": {
+      "country": "DE",
+      "city": "Germany Central",
+      "district": "Germany Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 475",
+      "coordinates": {
+        "lat": 51.19722418279622,
+        "lng": 8.650182044756233
+      }
+    },
+    "specs": {
+      "netSize": 25924,
+      "grossSize": 31109,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 3,
+      "floor": 12,
+      "totalFloors": 6,
+      "heating": "Kombi",
+      "furnishing": "Furnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500311920298?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500262229167?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500966850909?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500554061580?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500734230276?w=800&q=80&category=real-estate"
+    ],
+    "agent": {
+      "id": "A14",
+      "name": "Agent 28",
+      "phone": "+74 806 884 6809",
+      "email": "agent82@iwrealty.com",
+      "photo": "/images/icons/png/berlin-urban-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-08-30T10:50:47.202Z",
+    "updatedAt": "2025-11-13T10:50:47.202Z",
+    "storeId": "store-009"
+  },
+  {
+    "id": "P02314",
+    "type": "rent",
+    "category": {
+      "main": "commercial",
+      "sub": "hotel"
+    },
+    "title": "Kiralık Otel - Berlin",
+    "slug": "kiralik-otel-berlin-P02314",
+    "description": "Berlin, Germany bölgesinde otel. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 108970295,
+    "location": {
+      "country": "DE",
+      "city": "Berlin",
+      "district": "Berlin Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 609",
+      "coordinates": {
+        "lat": 50.8426527777705,
+        "lng": 8.776440611796648
+      }
+    },
+    "specs": {
+      "netSize": 29581,
+      "grossSize": 35497,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 1,
+      "floor": 1,
+      "totalFloors": 17,
+      "heating": "Merkezi",
+      "furnishing": "Unfurnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500821129253?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500499115346?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500078209837?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500563242564?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500414871321?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500467013629?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500558765430?w=800&q=80&category=interior"
+    ],
+    "agent": {
+      "id": "A7",
+      "name": "Agent 30",
+      "phone": "+77 301 781 8183",
+      "email": "agent54@iwrealty.com",
+      "photo": "/images/icons/png/berlin-urban-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": false,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-03-30T10:50:47.202Z",
+    "updatedAt": "2025-11-13T10:50:47.202Z",
+    "storeId": "store-009"
+  },
+  {
+    "id": "P02315",
+    "type": "sale",
+    "category": {
+      "main": "commercial",
+      "sub": "restaurant"
+    },
+    "title": "Satılık Restoran - Germany Central",
+    "slug": "satilik-restoran-germany-central-P02315",
+    "description": "Germany Central, Germany bölgesinde restoran. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 2136187,
+    "location": {
+      "country": "DE",
+      "city": "Germany Central",
+      "district": "Germany Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 155",
+      "coordinates": {
+        "lat": 50.69681152010522,
+        "lng": 8.670382944355326
+      }
+    },
+    "specs": {
+      "netSize": 1010,
+      "grossSize": 1212,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 6,
+      "floor": 7,
+      "totalFloors": 14,
+      "heating": "Klima",
+      "furnishing": "Unfurnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500540054928?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500993051406?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500968460609?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500891698231?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500546189597?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500372415014?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500422504160?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500084530767?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500502709423?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500205484106?w=800&q=80&category=real-estate"
+    ],
+    "agent": {
+      "id": "A28",
+      "name": "Agent 70",
+      "phone": "+39 435 426 8109",
+      "email": "agent80@iwrealty.com",
+      "photo": "/images/icons/png/berlin-urban-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": true,
+      "hasSecurity": false
+    },
+    "createdAt": "2024-12-05T10:50:47.202Z",
+    "updatedAt": "2025-11-13T10:50:47.202Z",
+    "storeId": "store-009"
+  },
+  {
+    "id": "P02316",
+    "type": "rent",
+    "category": {
+      "main": "commercial",
+      "sub": "restaurant"
+    },
+    "title": "Kiralık Restoran - Germany City",
+    "slug": "kiralik-restoran-germany-city-P02316",
+    "description": "Germany City, Germany bölgesinde restoran. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 7589890,
+    "location": {
+      "country": "DE",
+      "city": "Germany City",
+      "district": "Germany City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 958",
+      "coordinates": {
+        "lat": 50.80120341938685,
+        "lng": 8.762711712118591
+      }
+    },
+    "specs": {
+      "netSize": 992,
+      "grossSize": 1190,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 10,
+      "floor": 11,
+      "totalFloors": 7,
+      "heating": "Klima",
+      "furnishing": "Unfurnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500705097760?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500283894438?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500326805865?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500806265202?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500649294505?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500156501924?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500299131583?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500506924654?w=800&q=80&category=house"
+    ],
+    "agent": {
+      "id": "A84",
+      "name": "Agent 22",
+      "phone": "+67 240 262 9726",
+      "email": "agent47@iwrealty.com",
+      "photo": "/images/icons/png/berlin-urban-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-09-24T10:50:47.202Z",
+    "updatedAt": "2025-11-13T10:50:47.202Z",
+    "storeId": "store-009"
+  },
+  {
+    "id": "P02317",
+    "type": "sale",
+    "category": {
+      "main": "commercial",
+      "sub": "warehouse"
+    },
+    "title": "Satılık Depo - Berlin",
+    "slug": "satilik-depo-berlin-P02317",
+    "description": "Berlin, Germany bölgesinde depo. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 11811734,
+    "location": {
+      "country": "DE",
+      "city": "Berlin",
+      "district": "Berlin Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 45",
+      "coordinates": {
+        "lat": 51.36557215059646,
+        "lng": 9.16947490698542
+      }
+    },
+    "specs": {
+      "netSize": 9761,
+      "grossSize": 11713,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 0,
+      "floor": 10,
+      "totalFloors": 16,
+      "heating": "Kombi",
+      "furnishing": "Unfurnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500879309420?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500183700119?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500198391935?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500510933088?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500140664905?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500193866111?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500921210693?w=800&q=80&category=real-estate"
+    ],
+    "agent": {
+      "id": "A58",
+      "name": "Agent 32",
+      "phone": "+67 531 205 1374",
+      "email": "agent17@iwrealty.com",
+      "photo": "/images/icons/png/berlin-urban-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-09-28T10:50:47.202Z",
+    "updatedAt": "2025-11-13T10:50:47.202Z",
+    "storeId": "store-009"
+  },
+  {
+    "id": "P02318",
+    "type": "rent",
+    "category": {
+      "main": "commercial",
+      "sub": "warehouse"
+    },
+    "title": "Kiralık Depo - New Germany",
+    "slug": "kiralik-depo-new-germany-P02318",
+    "description": "New Germany, Germany bölgesinde depo. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 5442002,
+    "location": {
+      "country": "DE",
+      "city": "New Germany",
+      "district": "New Germany Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 967",
+      "coordinates": {
+        "lat": 50.95808579582152,
+        "lng": 8.875397248581104
+      }
+    },
+    "specs": {
+      "netSize": 3229,
+      "grossSize": 3875,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 14,
+      "floor": 12,
+      "totalFloors": 7,
+      "heating": "Kombi",
+      "furnishing": "Unfurnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500084350323?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500545077081?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500186863203?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500266088198?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500806135231?w=800&q=80&category=real-estate"
+    ],
+    "agent": {
+      "id": "A76",
+      "name": "Agent 89",
+      "phone": "+58 555 868 9116",
+      "email": "agent17@iwrealty.com",
+      "photo": "/images/icons/png/berlin-urban-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-05-06T10:50:47.202Z",
+    "updatedAt": "2025-11-13T10:50:47.202Z",
+    "storeId": "store-009"
+  }
+]

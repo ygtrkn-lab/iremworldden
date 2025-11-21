@@ -1,0 +1,2368 @@
+[
+  {
+    "id": "P08399",
+    "type": "sale",
+    "category": {
+      "main": "government"
+    },
+    "title": "Satılık Hastane - Tokelau City",
+    "slug": "satilik-hastane-tokelau-city-P08399",
+    "description": "Tokelau City, Tokelau bölgesinde hastane. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 26877570,
+    "location": {
+      "country": "TK",
+      "city": "Tokelau City",
+      "district": "Tokelau City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 890",
+      "coordinates": {
+        "lat": -8.845703017847343,
+        "lng": -172.47163753343034
+      }
+    },
+    "specs": {
+      "netSize": 1588,
+      "grossSize": 1906,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 7,
+      "floor": 5,
+      "totalFloors": 18,
+      "heating": "Kombi",
+      "furnishing": "Unfurnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500753961226?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500103239722?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500042094125?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500996256044?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500468267925?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500728145206?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500356727388?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500103370464?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500908695360?w=800&q=80&category=real-estate"
+    ],
+    "agent": {
+      "id": "A11",
+      "name": "Agent 11",
+      "phone": "+95 534 707 6062",
+      "email": "agent28@iwrealty.com",
+      "photo": "/images/icons/png/ankara-modern-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": true,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-08-23T10:50:47.270Z",
+    "updatedAt": "2025-11-13T10:50:47.270Z",
+    "storeId": "store-003"
+  },
+  {
+    "id": "P08400",
+    "type": "rent",
+    "category": {
+      "main": "government"
+    },
+    "title": "Kiralık Hastane - New Tokelau",
+    "slug": "kiralik-hastane-new-tokelau-P08400",
+    "description": "New Tokelau, Tokelau bölgesinde hastane. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 13556226,
+    "location": {
+      "country": "TK",
+      "city": "New Tokelau",
+      "district": "New Tokelau Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 133",
+      "coordinates": {
+        "lat": -8.954046885124338,
+        "lng": -171.82667920448992
+      }
+    },
+    "specs": {
+      "netSize": 810,
+      "grossSize": 972,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 4,
+      "floor": 2,
+      "totalFloors": 5,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Unfurnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500129247227?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500666510769?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500965209599?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500130099599?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500128858554?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500549968871?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500330807945?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500104638273?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500305947791?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500894139867?w=800&q=80&category=building"
+    ],
+    "agent": {
+      "id": "A10",
+      "name": "Agent 73",
+      "phone": "+99 571 856 1871",
+      "email": "agent19@iwrealty.com",
+      "photo": "/images/icons/png/sydney-coastal-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": false,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-02-23T10:50:47.270Z",
+    "updatedAt": "2025-11-13T10:50:47.270Z",
+    "storeId": "store-012"
+  },
+  {
+    "id": "P08401",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Daire - Tokelau City",
+    "slug": "satilik-daire-tokelau-city-P08401",
+    "description": "Tokelau City, Tokelau bölgesinde daire. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 4238452,
+    "location": {
+      "country": "TK",
+      "city": "Tokelau City",
+      "district": "Tokelau City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 184",
+      "coordinates": {
+        "lat": -8.85548547574868,
+        "lng": -171.5217200472065
+      }
+    },
+    "specs": {
+      "netSize": 223,
+      "grossSize": 268,
+      "rooms": "2+1",
+      "bathrooms": 1,
+      "age": 9,
+      "floor": 9,
+      "totalFloors": 15,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Unfurnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500228577779?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500719199917?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500753697347?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500457445185?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500452877522?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500113605174?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500056315729?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500626747847?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500517103624?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500645551935?w=800&q=80&category=interior"
+    ],
+    "agent": {
+      "id": "A75",
+      "name": "Agent 87",
+      "phone": "+21 832 176 3021",
+      "email": "agent66@iwrealty.com",
+      "photo": "/images/icons/png/ny-skyline-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-02-06T10:50:47.270Z",
+    "updatedAt": "2025-11-13T10:50:47.270Z",
+    "storeId": "store-008"
+  },
+  {
+    "id": "P08402",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Müstakil Ev - New Tokelau",
+    "slug": "kiralik-müstakil-ev-new-tokelau-P08402",
+    "description": "New Tokelau, Tokelau bölgesinde müstakil ev. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 9936954,
+    "location": {
+      "country": "TK",
+      "city": "New Tokelau",
+      "district": "New Tokelau Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 834",
+      "coordinates": {
+        "lat": -9.142750310054717,
+        "lng": -172.2018919653969
+      }
+    },
+    "specs": {
+      "netSize": 248,
+      "grossSize": 298,
+      "rooms": "2+2",
+      "bathrooms": 2,
+      "age": 15,
+      "floor": 11,
+      "totalFloors": 20,
+      "heating": "Klima",
+      "furnishing": "Furnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500728884574?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500756282644?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500143514578?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500727403074?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500410273908?w=800&q=80&category=building"
+    ],
+    "agent": {
+      "id": "A46",
+      "name": "Agent 3",
+      "phone": "+61 580 579 5033",
+      "email": "agent30@iwrealty.com",
+      "photo": "/images/icons/png/sydney-coastal-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-06-02T10:50:47.270Z",
+    "updatedAt": "2025-11-13T10:50:47.270Z",
+    "storeId": "store-012"
+  },
+  {
+    "id": "P08403",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Residence - Fakaofo",
+    "slug": "satilik-residence-fakaofo-P08403",
+    "description": "Fakaofo, Tokelau bölgesinde residence. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 5248581,
+    "location": {
+      "country": "TK",
+      "city": "Fakaofo",
+      "district": "Fakaofo Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 852",
+      "coordinates": {
+        "lat": -9.417102056726543,
+        "lng": -172.35434911435195
+      }
+    },
+    "specs": {
+      "netSize": 131,
+      "grossSize": 157,
+      "rooms": "2+0",
+      "bathrooms": 1,
+      "age": 12,
+      "floor": 14,
+      "totalFloors": 18,
+      "heating": "Klima",
+      "furnishing": "Unfurnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500925079000?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500100926721?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500198672255?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500904753680?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500072425849?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500287818897?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500509355204?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500717656332?w=800&q=80&category=real-estate"
+    ],
+    "agent": {
+      "id": "A38",
+      "name": "Agent 40",
+      "phone": "+85 235 647 9304",
+      "email": "agent80@iwrealty.com",
+      "photo": "/images/icons/png/london-prime-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2024-12-02T10:50:47.270Z",
+    "updatedAt": "2025-11-13T10:50:47.270Z",
+    "storeId": "store-007"
+  },
+  {
+    "id": "P08404",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Daire - Tokelau Central",
+    "slug": "kiralik-daire-tokelau-central-P08404",
+    "description": "Tokelau Central, Tokelau bölgesinde daire. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 8434877,
+    "location": {
+      "country": "TK",
+      "city": "Tokelau Central",
+      "district": "Tokelau Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 531",
+      "coordinates": {
+        "lat": -9.275255235601778,
+        "lng": -172.0311372996185
+      }
+    },
+    "specs": {
+      "netSize": 145,
+      "grossSize": 174,
+      "rooms": "2+1",
+      "bathrooms": 4,
+      "age": 4,
+      "floor": 9,
+      "totalFloors": 12,
+      "heating": "Klima",
+      "furnishing": "Furnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500150834725?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500546360263?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500486013293?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500203489401?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500482219879?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500226206903?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500069048228?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500582643145?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500655873232?w=800&q=80&category=real-estate"
+    ],
+    "agent": {
+      "id": "A1",
+      "name": "Agent 71",
+      "phone": "+57 849 197 1041",
+      "email": "agent36@iwrealty.com",
+      "photo": "/images/icons/png/dubai-property-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": false,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-08-23T10:50:47.270Z",
+    "updatedAt": "2025-11-13T10:50:47.270Z",
+    "storeId": "store-004"
+  },
+  {
+    "id": "P08405",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Daire - Fakaofo",
+    "slug": "satilik-daire-fakaofo-P08405",
+    "description": "Fakaofo, Tokelau bölgesinde daire. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 13102239,
+    "location": {
+      "country": "TK",
+      "city": "Fakaofo",
+      "district": "Fakaofo Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 260",
+      "coordinates": {
+        "lat": -9.364218272504052,
+        "lng": -171.96124410958944
+      }
+    },
+    "specs": {
+      "netSize": 217,
+      "grossSize": 260,
+      "rooms": "4+2",
+      "bathrooms": 4,
+      "age": 5,
+      "floor": 15,
+      "totalFloors": 19,
+      "heating": "Kombi",
+      "furnishing": "Furnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500803173625?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500679583460?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500420779425?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500678394490?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500614199040?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500485320737?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500215402630?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500865141397?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500887278412?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500371766158?w=800&q=80&category=interior"
+    ],
+    "agent": {
+      "id": "A88",
+      "name": "Agent 59",
+      "phone": "+98 456 284 8980",
+      "email": "agent82@iwrealty.com",
+      "photo": "/images/icons/png/izmir-sahil-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": false,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-04-11T10:50:47.270Z",
+    "updatedAt": "2025-11-13T10:50:47.270Z",
+    "storeId": "store-005"
+  },
+  {
+    "id": "P08406",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Müstakil Ev - Tokelau Central",
+    "slug": "kiralik-müstakil-ev-tokelau-central-P08406",
+    "description": "Tokelau Central, Tokelau bölgesinde müstakil ev. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 8611134,
+    "location": {
+      "country": "TK",
+      "city": "Tokelau Central",
+      "district": "Tokelau Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 19",
+      "coordinates": {
+        "lat": -9.252265346075614,
+        "lng": -172.1380228745862
+      }
+    },
+    "specs": {
+      "netSize": 221,
+      "grossSize": 265,
+      "rooms": "1+2",
+      "bathrooms": 2,
+      "age": 4,
+      "floor": 2,
+      "totalFloors": 16,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Unfurnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500700690128?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500310932087?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500170008936?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500362332316?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500917109362?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500682308334?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500308692626?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500110247181?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500818764986?w=800&q=80&category=house"
+    ],
+    "agent": {
+      "id": "A32",
+      "name": "Agent 11",
+      "phone": "+13 122 834 9279",
+      "email": "agent35@iwrealty.com",
+      "photo": "/images/icons/png/izmir-sahil-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": false,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-02-25T10:50:47.270Z",
+    "updatedAt": "2025-11-13T10:50:47.270Z",
+    "storeId": "store-005"
+  },
+  {
+    "id": "P08407",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Müstakil Ev - New Tokelau",
+    "slug": "satilik-müstakil-ev-new-tokelau-P08407",
+    "description": "New Tokelau, Tokelau bölgesinde müstakil ev. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 11432251,
+    "location": {
+      "country": "TK",
+      "city": "New Tokelau",
+      "district": "New Tokelau Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 115",
+      "coordinates": {
+        "lat": -8.776054535399787,
+        "lng": -172.33290513022513
+      }
+    },
+    "specs": {
+      "netSize": 420,
+      "grossSize": 504,
+      "rooms": "3+1",
+      "bathrooms": 4,
+      "age": 10,
+      "floor": 7,
+      "totalFloors": 13,
+      "heating": "Merkezi",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500992821811?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500915226683?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500625082523?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500381175077?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500063111049?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500120186246?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500617612448?w=800&q=80&category=building"
+    ],
+    "agent": {
+      "id": "A39",
+      "name": "Agent 91",
+      "phone": "+85 561 809 5204",
+      "email": "agent13@iwrealty.com",
+      "photo": "/images/icons/png/sg-harbour-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": true,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-10-14T10:50:47.270Z",
+    "updatedAt": "2025-11-13T10:50:47.270Z",
+    "storeId": "store-011"
+  },
+  {
+    "id": "P08408",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Daire - Tokelau City",
+    "slug": "kiralik-daire-tokelau-city-P08408",
+    "description": "Tokelau City, Tokelau bölgesinde daire. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 5203723,
+    "location": {
+      "country": "TK",
+      "city": "Tokelau City",
+      "district": "Tokelau City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 851",
+      "coordinates": {
+        "lat": -9.470160464492755,
+        "lng": -171.64457420846463
+      }
+    },
+    "specs": {
+      "netSize": 287,
+      "grossSize": 344,
+      "rooms": "5+2",
+      "bathrooms": 3,
+      "age": 18,
+      "floor": 9,
+      "totalFloors": 14,
+      "heating": "Klima",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500641686575?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500265538396?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500110486883?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500520959327?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500560751596?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500341080896?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500398946999?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500888352178?w=800&q=80&category=house"
+    ],
+    "agent": {
+      "id": "A78",
+      "name": "Agent 57",
+      "phone": "+24 466 181 4963",
+      "email": "agent76@iwrealty.com",
+      "photo": "/images/icons/png/london-prime-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": true,
+      "hasPool": true,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-07-20T10:50:47.270Z",
+    "updatedAt": "2025-11-13T10:50:47.270Z",
+    "storeId": "store-007"
+  },
+  {
+    "id": "P08409",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Residence - Tokelau City",
+    "slug": "satilik-residence-tokelau-city-P08409",
+    "description": "Tokelau City, Tokelau bölgesinde residence. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 12677843,
+    "location": {
+      "country": "TK",
+      "city": "Tokelau City",
+      "district": "Tokelau City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 213",
+      "coordinates": {
+        "lat": -9.264335555291,
+        "lng": -171.7433154937545
+      }
+    },
+    "specs": {
+      "netSize": 208,
+      "grossSize": 250,
+      "rooms": "4+0",
+      "bathrooms": 1,
+      "age": 16,
+      "floor": 8,
+      "totalFloors": 8,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Furnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500424647420?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500602766402?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500890354460?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500160511708?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500774883074?w=800&q=80&category=building"
+    ],
+    "agent": {
+      "id": "A18",
+      "name": "Agent 88",
+      "phone": "+28 845 809 2748",
+      "email": "agent90@iwrealty.com",
+      "photo": "/images/icons/png/sydney-coastal-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": true,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-09-03T10:50:47.270Z",
+    "updatedAt": "2025-11-13T10:50:47.270Z",
+    "storeId": "store-012"
+  },
+  {
+    "id": "P08410",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Residence - New Tokelau",
+    "slug": "kiralik-residence-new-tokelau-P08410",
+    "description": "New Tokelau, Tokelau bölgesinde residence. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 11709976,
+    "location": {
+      "country": "TK",
+      "city": "New Tokelau",
+      "district": "New Tokelau Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 989",
+      "coordinates": {
+        "lat": -8.887826830860584,
+        "lng": -172.4823395614147
+      }
+    },
+    "specs": {
+      "netSize": 460,
+      "grossSize": 552,
+      "rooms": "5+1",
+      "bathrooms": 4,
+      "age": 14,
+      "floor": 15,
+      "totalFloors": 8,
+      "heating": "Kombi",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500695208955?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500458513179?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500016860951?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500700313800?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500403767197?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500064459371?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500197767173?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500634289436?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500671102651?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500987193584?w=800&q=80&category=interior"
+    ],
+    "agent": {
+      "id": "A95",
+      "name": "Agent 25",
+      "phone": "+74 728 188 5479",
+      "email": "agent19@iwrealty.com",
+      "photo": "/images/icons/png/london-prime-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": false,
+      "hasBalcony": false,
+      "hasGarden": true,
+      "hasPool": true,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-10-10T10:50:47.270Z",
+    "updatedAt": "2025-11-13T10:50:47.270Z",
+    "storeId": "store-007"
+  },
+  {
+    "id": "P08411",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Müstakil Ev - Tokelau Central",
+    "slug": "satilik-müstakil-ev-tokelau-central-P08411",
+    "description": "Tokelau Central, Tokelau bölgesinde müstakil ev. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 2808808,
+    "location": {
+      "country": "TK",
+      "city": "Tokelau Central",
+      "district": "Tokelau Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 724",
+      "coordinates": {
+        "lat": -9.094880696466479,
+        "lng": -171.59337725907852
+      }
+    },
+    "specs": {
+      "netSize": 199,
+      "grossSize": 239,
+      "rooms": "3+2",
+      "bathrooms": 1,
+      "age": 13,
+      "floor": 8,
+      "totalFloors": 18,
+      "heating": "Merkezi",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500574135855?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500087104498?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500511883134?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500190593442?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500249789445?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500073472450?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500017716634?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500795798079?w=800&q=80&category=house"
+    ],
+    "agent": {
+      "id": "A66",
+      "name": "Agent 76",
+      "phone": "+10 323 430 1964",
+      "email": "agent33@iwrealty.com",
+      "photo": "/images/icons/png/paris-heritage-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": false,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-10-09T10:50:47.270Z",
+    "updatedAt": "2025-11-13T10:50:47.270Z",
+    "storeId": "store-010"
+  },
+  {
+    "id": "P08412",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Müstakil Ev - Fakaofo",
+    "slug": "kiralik-müstakil-ev-fakaofo-P08412",
+    "description": "Fakaofo, Tokelau bölgesinde müstakil ev. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 14473666,
+    "location": {
+      "country": "TK",
+      "city": "Fakaofo",
+      "district": "Fakaofo Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 775",
+      "coordinates": {
+        "lat": -8.864939587126504,
+        "lng": -172.39095912059477
+      }
+    },
+    "specs": {
+      "netSize": 303,
+      "grossSize": 364,
+      "rooms": "2+1",
+      "bathrooms": 1,
+      "age": 19,
+      "floor": 2,
+      "totalFloors": 12,
+      "heating": "Merkezi",
+      "furnishing": "Furnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500803893342?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500711906696?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500404306674?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500770203593?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500044154281?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500078105841?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500739304944?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500781183891?w=800&q=80&category=architecture"
+    ],
+    "agent": {
+      "id": "A24",
+      "name": "Agent 90",
+      "phone": "+34 409 666 5008",
+      "email": "agent58@iwrealty.com",
+      "photo": "/images/icons/png/sg-harbour-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": false,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2024-11-30T10:50:47.270Z",
+    "updatedAt": "2025-11-13T10:50:47.270Z",
+    "storeId": "store-011"
+  },
+  {
+    "id": "P08413",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Müstakil Ev - Tokelau Central",
+    "slug": "satilik-müstakil-ev-tokelau-central-P08413",
+    "description": "Tokelau Central, Tokelau bölgesinde müstakil ev. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 6998851,
+    "location": {
+      "country": "TK",
+      "city": "Tokelau Central",
+      "district": "Tokelau Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 943",
+      "coordinates": {
+        "lat": -9.421112388077226,
+        "lng": -171.83634464630052
+      }
+    },
+    "specs": {
+      "netSize": 142,
+      "grossSize": 170,
+      "rooms": "2+2",
+      "bathrooms": 2,
+      "age": 20,
+      "floor": 2,
+      "totalFloors": 10,
+      "heating": "Merkezi",
+      "furnishing": "Furnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500109265838?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500214914043?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500857408339?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500221135637?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500493641613?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500009476771?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500664776290?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500855268558?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500843383576?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500352639802?w=800&q=80&category=architecture"
+    ],
+    "agent": {
+      "id": "A70",
+      "name": "Agent 92",
+      "phone": "+40 769 605 6062",
+      "email": "agent94@iwrealty.com",
+      "photo": "/images/icons/png/dubai-property-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": false,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-03-23T10:50:47.270Z",
+    "updatedAt": "2025-11-13T10:50:47.270Z",
+    "storeId": "store-004"
+  },
+  {
+    "id": "P08414",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Residence - New Tokelau",
+    "slug": "kiralik-residence-new-tokelau-P08414",
+    "description": "New Tokelau, Tokelau bölgesinde residence. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 12711689,
+    "location": {
+      "country": "TK",
+      "city": "New Tokelau",
+      "district": "New Tokelau Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 110",
+      "coordinates": {
+        "lat": -8.561822097305516,
+        "lng": -171.5724125420153
+      }
+    },
+    "specs": {
+      "netSize": 315,
+      "grossSize": 378,
+      "rooms": "3+0",
+      "bathrooms": 2,
+      "age": 0,
+      "floor": 3,
+      "totalFloors": 11,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Furnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500475406602?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500716369770?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500236724543?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500476807634?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500263949996?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500147397069?w=800&q=80&category=real-estate"
+    ],
+    "agent": {
+      "id": "A64",
+      "name": "Agent 76",
+      "phone": "+86 248 492 3664",
+      "email": "agent34@iwrealty.com",
+      "photo": "/images/icons/png/antalya-investment-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2024-12-28T10:50:47.270Z",
+    "updatedAt": "2025-11-13T10:50:47.270Z",
+    "storeId": "store-006"
+  },
+  {
+    "id": "P08415",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Müstakil Ev - Tokelau City",
+    "slug": "satilik-müstakil-ev-tokelau-city-P08415",
+    "description": "Tokelau City, Tokelau bölgesinde müstakil ev. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 4380053,
+    "location": {
+      "country": "TK",
+      "city": "Tokelau City",
+      "district": "Tokelau City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 552",
+      "coordinates": {
+        "lat": -8.724813716879613,
+        "lng": -171.56939882709995
+      }
+    },
+    "specs": {
+      "netSize": 227,
+      "grossSize": 272,
+      "rooms": "5+0",
+      "bathrooms": 2,
+      "age": 14,
+      "floor": 1,
+      "totalFloors": 10,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Furnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500321803279?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500372363443?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500376604580?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500988241403?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500021947569?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500621407566?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500565200710?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500351568007?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500964562669?w=800&q=80&category=architecture"
+    ],
+    "agent": {
+      "id": "A19",
+      "name": "Agent 70",
+      "phone": "+71 570 410 3950",
+      "email": "agent90@iwrealty.com",
+      "photo": "/images/icons/png/berlin-urban-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-09-30T10:50:47.270Z",
+    "updatedAt": "2025-11-13T10:50:47.270Z",
+    "storeId": "store-009"
+  },
+  {
+    "id": "P08416",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Daire - New Tokelau",
+    "slug": "kiralik-daire-new-tokelau-P08416",
+    "description": "New Tokelau, Tokelau bölgesinde daire. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 5360264,
+    "location": {
+      "country": "TK",
+      "city": "New Tokelau",
+      "district": "New Tokelau Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 911",
+      "coordinates": {
+        "lat": -8.617657561144288,
+        "lng": -171.62277336313912
+      }
+    },
+    "specs": {
+      "netSize": 243,
+      "grossSize": 292,
+      "rooms": "3+1",
+      "bathrooms": 4,
+      "age": 5,
+      "floor": 4,
+      "totalFloors": 19,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Furnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500371618033?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500800846567?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500366699004?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500293839202?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500793412515?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500239040789?w=800&q=80&category=interior"
+    ],
+    "agent": {
+      "id": "A41",
+      "name": "Agent 76",
+      "phone": "+72 781 439 7090",
+      "email": "agent51@iwrealty.com",
+      "photo": "/images/icons/png/luxury-homes-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-07-05T10:50:47.270Z",
+    "updatedAt": "2025-11-13T10:50:47.270Z",
+    "storeId": "store-002"
+  },
+  {
+    "id": "P08417",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Daire - Fakaofo",
+    "slug": "satilik-daire-fakaofo-P08417",
+    "description": "Fakaofo, Tokelau bölgesinde daire. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 13372870,
+    "location": {
+      "country": "TK",
+      "city": "Fakaofo",
+      "district": "Fakaofo Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 438",
+      "coordinates": {
+        "lat": -9.200832398261147,
+        "lng": -171.73718588206145
+      }
+    },
+    "specs": {
+      "netSize": 111,
+      "grossSize": 133,
+      "rooms": "1+0",
+      "bathrooms": 3,
+      "age": 4,
+      "floor": 12,
+      "totalFloors": 20,
+      "heating": "Kombi",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500687080361?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500634230321?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500605846049?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500358295472?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500281873263?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500459689166?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500256941374?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500590977226?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500717518733?w=800&q=80&category=architecture"
+    ],
+    "agent": {
+      "id": "A83",
+      "name": "Agent 21",
+      "phone": "+98 763 913 6802",
+      "email": "agent4@iwrealty.com",
+      "photo": "/images/icons/png/sg-harbour-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": false,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-11-01T10:50:47.270Z",
+    "updatedAt": "2025-11-13T10:50:47.270Z",
+    "storeId": "store-011"
+  },
+  {
+    "id": "P08418",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Daire - Fakaofo",
+    "slug": "kiralik-daire-fakaofo-P08418",
+    "description": "Fakaofo, Tokelau bölgesinde daire. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 6706842,
+    "location": {
+      "country": "TK",
+      "city": "Fakaofo",
+      "district": "Fakaofo Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 682",
+      "coordinates": {
+        "lat": -8.832589068202141,
+        "lng": -172.0503949299377
+      }
+    },
+    "specs": {
+      "netSize": 253,
+      "grossSize": 304,
+      "rooms": "4+2",
+      "bathrooms": 1,
+      "age": 8,
+      "floor": 15,
+      "totalFloors": 20,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500410919892?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500754112682?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500500180237?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500425072731?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500487956701?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500106645048?w=800&q=80&category=interior"
+    ],
+    "agent": {
+      "id": "A41",
+      "name": "Agent 97",
+      "phone": "+80 429 458 1146",
+      "email": "agent3@iwrealty.com",
+      "photo": "/images/icons/png/paris-heritage-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": true,
+      "hasPool": true,
+      "hasSecurity": true
+    },
+    "createdAt": "2024-11-17T10:50:47.270Z",
+    "updatedAt": "2025-11-13T10:50:47.270Z",
+    "storeId": "store-010"
+  },
+  {
+    "id": "P08419",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Müstakil Ev - Tokelau City",
+    "slug": "satilik-müstakil-ev-tokelau-city-P08419",
+    "description": "Tokelau City, Tokelau bölgesinde müstakil ev. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 9518340,
+    "location": {
+      "country": "TK",
+      "city": "Tokelau City",
+      "district": "Tokelau City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 976",
+      "coordinates": {
+        "lat": -8.744976153265085,
+        "lng": -172.38473575280085
+      }
+    },
+    "specs": {
+      "netSize": 202,
+      "grossSize": 242,
+      "rooms": "1+2",
+      "bathrooms": 1,
+      "age": 3,
+      "floor": 2,
+      "totalFloors": 20,
+      "heating": "Klima",
+      "furnishing": "Furnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500087383793?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500465797110?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500092075193?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500049819186?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500263003488?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500817798852?w=800&q=80&category=real-estate"
+    ],
+    "agent": {
+      "id": "A27",
+      "name": "Agent 43",
+      "phone": "+21 492 960 3241",
+      "email": "agent87@iwrealty.com",
+      "photo": "/images/icons/png/izmir-sahil-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": false,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-11-03T10:50:47.270Z",
+    "updatedAt": "2025-11-13T10:50:47.270Z",
+    "storeId": "store-005"
+  },
+  {
+    "id": "P08420",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Villa - Tokelau City",
+    "slug": "kiralik-villa-tokelau-city-P08420",
+    "description": "Tokelau City, Tokelau bölgesinde villa. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 8959912,
+    "location": {
+      "country": "TK",
+      "city": "Tokelau City",
+      "district": "Tokelau City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 841",
+      "coordinates": {
+        "lat": -9.392155692914152,
+        "lng": -171.62299765268082
+      }
+    },
+    "specs": {
+      "netSize": 111,
+      "grossSize": 133,
+      "rooms": "1+2",
+      "bathrooms": 4,
+      "age": 10,
+      "floor": 1,
+      "totalFloors": 17,
+      "heating": "Merkezi",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500848770658?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500822694782?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500991199297?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500398572203?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500267941217?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500818025808?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500499327767?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500948388678?w=800&q=80&category=interior"
+    ],
+    "agent": {
+      "id": "A13",
+      "name": "Agent 27",
+      "phone": "+32 195 559 9632",
+      "email": "agent25@iwrealty.com",
+      "photo": "/images/icons/png/ny-skyline-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-06-18T10:50:47.270Z",
+    "updatedAt": "2025-11-13T10:50:47.270Z",
+    "storeId": "store-008"
+  },
+  {
+    "id": "P08421",
+    "type": "sale",
+    "category": {
+      "main": "commercial",
+      "sub": "hospital"
+    },
+    "title": "Satılık Hastane - Tokelau Central",
+    "slug": "satilik-hastane-tokelau-central-P08421",
+    "description": "Tokelau Central, Tokelau bölgesinde hastane. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 63318625,
+    "location": {
+      "country": "TK",
+      "city": "Tokelau Central",
+      "district": "Tokelau Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 253",
+      "coordinates": {
+        "lat": -9.054349623692675,
+        "lng": -171.67755138362793
+      }
+    },
+    "specs": {
+      "netSize": 13982,
+      "grossSize": 16778,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 14,
+      "floor": 2,
+      "totalFloors": 17,
+      "heating": "Merkezi",
+      "furnishing": "Unfurnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500855017336?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500832254815?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500433035957?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500949697025?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500659674445?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500050851121?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500832660823?w=800&q=80&category=interior"
+    ],
+    "agent": {
+      "id": "A41",
+      "name": "Agent 5",
+      "phone": "+83 258 629 7166",
+      "email": "agent74@iwrealty.com",
+      "photo": "/images/icons/png/paris-heritage-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-01-23T10:50:47.270Z",
+    "updatedAt": "2025-11-13T10:50:47.270Z",
+    "storeId": "store-010"
+  },
+  {
+    "id": "P08422",
+    "type": "rent",
+    "category": {
+      "main": "commercial",
+      "sub": "hospital"
+    },
+    "title": "Kiralık Hastane - Tokelau City",
+    "slug": "kiralik-hastane-tokelau-city-P08422",
+    "description": "Tokelau City, Tokelau bölgesinde hastane. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 69018492,
+    "location": {
+      "country": "TK",
+      "city": "Tokelau City",
+      "district": "Tokelau City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 994",
+      "coordinates": {
+        "lat": -9.470400630031076,
+        "lng": -172.17587465427354
+      }
+    },
+    "specs": {
+      "netSize": 4440,
+      "grossSize": 5328,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 7,
+      "floor": 11,
+      "totalFloors": 19,
+      "heating": "Kombi",
+      "furnishing": "Furnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500866327844?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500483914891?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500560467746?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500817398592?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500841397635?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500419747058?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500383443181?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500202350722?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500092668952?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500167770594?w=800&q=80&category=building"
+    ],
+    "agent": {
+      "id": "A100",
+      "name": "Agent 8",
+      "phone": "+90 463 200 7688",
+      "email": "agent32@iwrealty.com",
+      "photo": "/images/icons/png/london-prime-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2024-11-13T10:50:47.270Z",
+    "updatedAt": "2025-11-13T10:50:47.270Z",
+    "storeId": "store-007"
+  },
+  {
+    "id": "P08423",
+    "type": "sale",
+    "category": {
+      "main": "commercial",
+      "sub": "clinic"
+    },
+    "title": "Satılık Klinik - Tokelau Central",
+    "slug": "satilik-klinik-tokelau-central-P08423",
+    "description": "Tokelau Central, Tokelau bölgesinde klinik. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 19567233,
+    "location": {
+      "country": "TK",
+      "city": "Tokelau Central",
+      "district": "Tokelau Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 832",
+      "coordinates": {
+        "lat": -8.885275560556329,
+        "lng": -172.19465292325106
+      }
+    },
+    "specs": {
+      "netSize": 630,
+      "grossSize": 756,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 18,
+      "floor": 2,
+      "totalFloors": 6,
+      "heating": "Merkezi",
+      "furnishing": "Furnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500751046635?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500631383582?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500555861822?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500191504860?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500495789051?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500103982181?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500128936936?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500163451414?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500996448097?w=800&q=80&category=real-estate"
+    ],
+    "agent": {
+      "id": "A64",
+      "name": "Agent 54",
+      "phone": "+13 948 423 4151",
+      "email": "agent82@iwrealty.com",
+      "photo": "/images/icons/png/paris-heritage-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-04-25T10:50:47.270Z",
+    "updatedAt": "2025-11-13T10:50:47.270Z",
+    "storeId": "store-010"
+  },
+  {
+    "id": "P08424",
+    "type": "rent",
+    "category": {
+      "main": "commercial",
+      "sub": "clinic"
+    },
+    "title": "Kiralık Klinik - Tokelau City",
+    "slug": "kiralik-klinik-tokelau-city-P08424",
+    "description": "Tokelau City, Tokelau bölgesinde klinik. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 12568640,
+    "location": {
+      "country": "TK",
+      "city": "Tokelau City",
+      "district": "Tokelau City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 298",
+      "coordinates": {
+        "lat": -8.753981609619279,
+        "lng": -171.59595112161378
+      }
+    },
+    "specs": {
+      "netSize": 1992,
+      "grossSize": 2390,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 20,
+      "floor": 13,
+      "totalFloors": 5,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Unfurnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500094921228?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500574607477?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500982670389?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500519691364?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500482421217?w=800&q=80&category=house"
+    ],
+    "agent": {
+      "id": "A22",
+      "name": "Agent 88",
+      "phone": "+20 638 481 3963",
+      "email": "agent37@iwrealty.com",
+      "photo": "/images/icons/png/antalya-investment-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-06-28T10:50:47.270Z",
+    "updatedAt": "2025-11-13T10:50:47.270Z",
+    "storeId": "store-006"
+  },
+  {
+    "id": "P08425",
+    "type": "sale",
+    "category": {
+      "main": "commercial",
+      "sub": "shop"
+    },
+    "title": "Satılık Dükkan - Tokelau City",
+    "slug": "satilik-dükkan-tokelau-city-P08425",
+    "description": "Tokelau City, Tokelau bölgesinde dükkan. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 2844531,
+    "location": {
+      "country": "TK",
+      "city": "Tokelau City",
+      "district": "Tokelau City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 46",
+      "coordinates": {
+        "lat": -9.425797365818632,
+        "lng": -171.7847275509722
+      }
+    },
+    "specs": {
+      "netSize": 313,
+      "grossSize": 376,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 10,
+      "floor": 13,
+      "totalFloors": 14,
+      "heating": "Klima",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500963092192?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500090450714?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500287054001?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500700939998?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500499774633?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500441391149?w=800&q=80&category=house"
+    ],
+    "agent": {
+      "id": "A97",
+      "name": "Agent 54",
+      "phone": "+49 589 921 7288",
+      "email": "agent25@iwrealty.com",
+      "photo": "/images/icons/png/luxury-homes-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-08-14T10:50:47.270Z",
+    "updatedAt": "2025-11-13T10:50:47.270Z",
+    "storeId": "store-002"
+  },
+  {
+    "id": "P08426",
+    "type": "rent",
+    "category": {
+      "main": "commercial",
+      "sub": "shop"
+    },
+    "title": "Kiralık Dükkan - Tokelau Central",
+    "slug": "kiralik-dükkan-tokelau-central-P08426",
+    "description": "Tokelau Central, Tokelau bölgesinde dükkan. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 5680101,
+    "location": {
+      "country": "TK",
+      "city": "Tokelau Central",
+      "district": "Tokelau Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 509",
+      "coordinates": {
+        "lat": -9.396007391245028,
+        "lng": -171.72820421178838
+      }
+    },
+    "specs": {
+      "netSize": 299,
+      "grossSize": 359,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 4,
+      "floor": 9,
+      "totalFloors": 9,
+      "heating": "Merkezi",
+      "furnishing": "Furnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500915193064?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500059485516?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500966275133?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500931679044?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500322697888?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500453543250?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500885663378?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500030509318?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500482699533?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500927132349?w=800&q=80&category=interior"
+    ],
+    "agent": {
+      "id": "A58",
+      "name": "Agent 15",
+      "phone": "+43 672 458 4302",
+      "email": "agent13@iwrealty.com",
+      "photo": "/images/icons/png/berlin-urban-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": false,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": true,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-03-08T10:50:47.270Z",
+    "updatedAt": "2025-11-13T10:50:47.270Z",
+    "storeId": "store-009"
+  },
+  {
+    "id": "P08427",
+    "type": "sale",
+    "category": {
+      "main": "commercial",
+      "sub": "office"
+    },
+    "title": "Satılık Ofis - Tokelau Central",
+    "slug": "satilik-ofis-tokelau-central-P08427",
+    "description": "Tokelau Central, Tokelau bölgesinde ofis. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 3021819,
+    "location": {
+      "country": "TK",
+      "city": "Tokelau Central",
+      "district": "Tokelau Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 661",
+      "coordinates": {
+        "lat": -9.309210045014657,
+        "lng": -171.51017871256073
+      }
+    },
+    "specs": {
+      "netSize": 129,
+      "grossSize": 155,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 7,
+      "floor": 8,
+      "totalFloors": 9,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500277510811?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500660926575?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500313588860?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500964142319?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500421286002?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500240684745?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500278397901?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500353926154?w=800&q=80&category=interior"
+    ],
+    "agent": {
+      "id": "A40",
+      "name": "Agent 85",
+      "phone": "+75 896 739 7564",
+      "email": "agent44@iwrealty.com",
+      "photo": "/images/icons/png/berlin-urban-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": true,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-07-24T10:50:47.270Z",
+    "updatedAt": "2025-11-13T10:50:47.270Z",
+    "storeId": "store-009"
+  },
+  {
+    "id": "P08428",
+    "type": "rent",
+    "category": {
+      "main": "commercial",
+      "sub": "office"
+    },
+    "title": "Kiralık Ofis - Tokelau City",
+    "slug": "kiralik-ofis-tokelau-city-P08428",
+    "description": "Tokelau City, Tokelau bölgesinde ofis. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 12266817,
+    "location": {
+      "country": "TK",
+      "city": "Tokelau City",
+      "district": "Tokelau City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 378",
+      "coordinates": {
+        "lat": -8.950257771546893,
+        "lng": -172.37867869573043
+      }
+    },
+    "specs": {
+      "netSize": 376,
+      "grossSize": 451,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 1,
+      "floor": 8,
+      "totalFloors": 7,
+      "heating": "Klima",
+      "furnishing": "Furnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500682888615?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500109363199?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500153824651?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500216389336?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500667638584?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500291990556?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500175554694?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500325237476?w=800&q=80&category=architecture"
+    ],
+    "agent": {
+      "id": "A87",
+      "name": "Agent 25",
+      "phone": "+90 108 890 1019",
+      "email": "agent79@iwrealty.com",
+      "photo": "/images/icons/png/izmir-sahil-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": true,
+      "hasSecurity": false
+    },
+    "createdAt": "2024-12-06T10:50:47.270Z",
+    "updatedAt": "2025-11-13T10:50:47.270Z",
+    "storeId": "store-005"
+  },
+  {
+    "id": "P08429",
+    "type": "sale",
+    "category": {
+      "main": "commercial",
+      "sub": "mall"
+    },
+    "title": "Satılık AVM - Tokelau City",
+    "slug": "satilik-avm-tokelau-city-P08429",
+    "description": "Tokelau City, Tokelau bölgesinde avm. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 381208410,
+    "location": {
+      "country": "TK",
+      "city": "Tokelau City",
+      "district": "Tokelau City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 511",
+      "coordinates": {
+        "lat": -8.5112641468521,
+        "lng": -172.13364522278172
+      }
+    },
+    "specs": {
+      "netSize": 15836,
+      "grossSize": 19003,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 0,
+      "floor": 12,
+      "totalFloors": 16,
+      "heating": "Merkezi",
+      "furnishing": "Unfurnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500726194679?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500884648394?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500930419340?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500669898864?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500302474403?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500958469185?w=800&q=80&category=building"
+    ],
+    "agent": {
+      "id": "A2",
+      "name": "Agent 35",
+      "phone": "+54 107 682 6119",
+      "email": "agent56@iwrealty.com",
+      "photo": "/images/icons/png/ankara-modern-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-06-27T10:50:47.270Z",
+    "updatedAt": "2025-11-13T10:50:47.270Z",
+    "storeId": "store-003"
+  },
+  {
+    "id": "P08430",
+    "type": "rent",
+    "category": {
+      "main": "commercial",
+      "sub": "mall"
+    },
+    "title": "Kiralık AVM - Tokelau Central",
+    "slug": "kiralik-avm-tokelau-central-P08430",
+    "description": "Tokelau Central, Tokelau bölgesinde avm. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 168968522,
+    "location": {
+      "country": "TK",
+      "city": "Tokelau Central",
+      "district": "Tokelau Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 234",
+      "coordinates": {
+        "lat": -8.682275948440292,
+        "lng": -171.66162931151158
+      }
+    },
+    "specs": {
+      "netSize": 9167,
+      "grossSize": 11000,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 2,
+      "floor": 11,
+      "totalFloors": 9,
+      "heating": "Kombi",
+      "furnishing": "Unfurnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500017846089?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500836855539?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500508422733?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500672288856?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500848711013?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500639841329?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500924373442?w=800&q=80&category=interior"
+    ],
+    "agent": {
+      "id": "A77",
+      "name": "Agent 31",
+      "phone": "+52 501 458 6491",
+      "email": "agent11@iwrealty.com",
+      "photo": "/images/icons/png/ny-skyline-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": true,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-07-06T10:50:47.270Z",
+    "updatedAt": "2025-11-13T10:50:47.270Z",
+    "storeId": "store-008"
+  },
+  {
+    "id": "P08431",
+    "type": "sale",
+    "category": {
+      "main": "commercial",
+      "sub": "hotel"
+    },
+    "title": "Satılık Otel - New Tokelau",
+    "slug": "satilik-otel-new-tokelau-P08431",
+    "description": "New Tokelau, Tokelau bölgesinde otel. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 141346408,
+    "location": {
+      "country": "TK",
+      "city": "New Tokelau",
+      "district": "New Tokelau Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 692",
+      "coordinates": {
+        "lat": -8.637911400671225,
+        "lng": -171.7588230790781
+      }
+    },
+    "specs": {
+      "netSize": 23775,
+      "grossSize": 28530,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 7,
+      "floor": 1,
+      "totalFloors": 20,
+      "heating": "Kombi",
+      "furnishing": "Unfurnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500378801624?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500379861921?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500433427162?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500642735762?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500037816558?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500193408126?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500597443854?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500243932454?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500316677875?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500020992670?w=800&q=80&category=architecture"
+    ],
+    "agent": {
+      "id": "A69",
+      "name": "Agent 39",
+      "phone": "+91 289 105 8949",
+      "email": "agent37@iwrealty.com",
+      "photo": "/images/icons/png/izmir-sahil-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-08-08T10:50:47.270Z",
+    "updatedAt": "2025-11-13T10:50:47.270Z",
+    "storeId": "store-005"
+  },
+  {
+    "id": "P08432",
+    "type": "rent",
+    "category": {
+      "main": "commercial",
+      "sub": "hotel"
+    },
+    "title": "Kiralık Otel - Tokelau City",
+    "slug": "kiralik-otel-tokelau-city-P08432",
+    "description": "Tokelau City, Tokelau bölgesinde otel. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 185714917,
+    "location": {
+      "country": "TK",
+      "city": "Tokelau City",
+      "district": "Tokelau City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 545",
+      "coordinates": {
+        "lat": -9.102016587012892,
+        "lng": -171.97713294909676
+      }
+    },
+    "specs": {
+      "netSize": 12477,
+      "grossSize": 14972,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 17,
+      "floor": 8,
+      "totalFloors": 5,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500665453821?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500991162806?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500559799768?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500717669376?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500046433781?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500623400474?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500997436853?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500131294410?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500074355607?w=800&q=80&category=real-estate"
+    ],
+    "agent": {
+      "id": "A64",
+      "name": "Agent 78",
+      "phone": "+97 218 528 8213",
+      "email": "agent1@iwrealty.com",
+      "photo": "/images/icons/png/paris-heritage-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-09-26T10:50:47.270Z",
+    "updatedAt": "2025-11-13T10:50:47.270Z",
+    "storeId": "store-010"
+  },
+  {
+    "id": "P08433",
+    "type": "sale",
+    "category": {
+      "main": "commercial",
+      "sub": "restaurant"
+    },
+    "title": "Satılık Restoran - Fakaofo",
+    "slug": "satilik-restoran-fakaofo-P08433",
+    "description": "Fakaofo, Tokelau bölgesinde restoran. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 6152085,
+    "location": {
+      "country": "TK",
+      "city": "Fakaofo",
+      "district": "Fakaofo Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 256",
+      "coordinates": {
+        "lat": -9.110218457739617,
+        "lng": -171.73280790139418
+      }
+    },
+    "specs": {
+      "netSize": 662,
+      "grossSize": 794,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 16,
+      "floor": 7,
+      "totalFloors": 8,
+      "heating": "Klima",
+      "furnishing": "Unfurnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500153449087?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500515754454?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500246107854?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500299886713?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500618343381?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500695998118?w=800&q=80&category=building"
+    ],
+    "agent": {
+      "id": "A80",
+      "name": "Agent 28",
+      "phone": "+74 406 946 7500",
+      "email": "agent55@iwrealty.com",
+      "photo": "/images/icons/png/izmir-sahil-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": false,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": true,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-06-19T10:50:47.270Z",
+    "updatedAt": "2025-11-13T10:50:47.270Z",
+    "storeId": "store-005"
+  },
+  {
+    "id": "P08434",
+    "type": "rent",
+    "category": {
+      "main": "commercial",
+      "sub": "restaurant"
+    },
+    "title": "Kiralık Restoran - New Tokelau",
+    "slug": "kiralik-restoran-new-tokelau-P08434",
+    "description": "New Tokelau, Tokelau bölgesinde restoran. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 1194033,
+    "location": {
+      "country": "TK",
+      "city": "New Tokelau",
+      "district": "New Tokelau Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 973",
+      "coordinates": {
+        "lat": -8.55661619490743,
+        "lng": -171.69595156264415
+      }
+    },
+    "specs": {
+      "netSize": 293,
+      "grossSize": 352,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 9,
+      "floor": 9,
+      "totalFloors": 9,
+      "heating": "Klima",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500978135912?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500127323116?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500599362698?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500986793473?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500944780433?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500104955400?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500493828993?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500090088651?w=800&q=80&category=real-estate"
+    ],
+    "agent": {
+      "id": "A32",
+      "name": "Agent 70",
+      "phone": "+76 773 900 9113",
+      "email": "agent55@iwrealty.com",
+      "photo": "/images/icons/png/sydney-coastal-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-08-02T10:50:47.270Z",
+    "updatedAt": "2025-11-13T10:50:47.270Z",
+    "storeId": "store-012"
+  },
+  {
+    "id": "P08435",
+    "type": "sale",
+    "category": {
+      "main": "commercial",
+      "sub": "warehouse"
+    },
+    "title": "Satılık Depo - Tokelau City",
+    "slug": "satilik-depo-tokelau-city-P08435",
+    "description": "Tokelau City, Tokelau bölgesinde depo. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 16456521,
+    "location": {
+      "country": "TK",
+      "city": "Tokelau City",
+      "district": "Tokelau City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 697",
+      "coordinates": {
+        "lat": -9.098183264483287,
+        "lng": -171.78979350660367
+      }
+    },
+    "specs": {
+      "netSize": 955,
+      "grossSize": 1146,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 15,
+      "floor": 15,
+      "totalFloors": 10,
+      "heating": "Klima",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500737922035?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500865687357?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500195880772?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500767900537?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500522960569?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500863520257?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500852916241?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500011478810?w=800&q=80&category=interior"
+    ],
+    "agent": {
+      "id": "A99",
+      "name": "Agent 50",
+      "phone": "+42 286 244 7588",
+      "email": "agent15@iwrealty.com",
+      "photo": "/images/icons/png/antalya-investment-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-06-04T10:50:47.270Z",
+    "updatedAt": "2025-11-13T10:50:47.270Z",
+    "storeId": "store-006"
+  },
+  {
+    "id": "P08436",
+    "type": "rent",
+    "category": {
+      "main": "commercial",
+      "sub": "warehouse"
+    },
+    "title": "Kiralık Depo - Tokelau Central",
+    "slug": "kiralik-depo-tokelau-central-P08436",
+    "description": "Tokelau Central, Tokelau bölgesinde depo. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 15931380,
+    "location": {
+      "country": "TK",
+      "city": "Tokelau Central",
+      "district": "Tokelau Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 251",
+      "coordinates": {
+        "lat": -8.505666193318135,
+        "lng": -172.43657935589837
+      }
+    },
+    "specs": {
+      "netSize": 596,
+      "grossSize": 715,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 15,
+      "floor": 15,
+      "totalFloors": 8,
+      "heating": "Kombi",
+      "furnishing": "Unfurnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500096913838?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500517148295?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500990686477?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500973832887?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500005512899?w=800&q=80&category=house"
+    ],
+    "agent": {
+      "id": "A36",
+      "name": "Agent 36",
+      "phone": "+37 813 482 6736",
+      "email": "agent53@iwrealty.com",
+      "photo": "/images/icons/png/paris-heritage-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": true,
+      "hasPool": true,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-10-25T10:50:47.270Z",
+    "updatedAt": "2025-11-13T10:50:47.270Z",
+    "storeId": "store-010"
+  }
+]

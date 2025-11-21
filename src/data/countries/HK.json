@@ -1,0 +1,2353 @@
+[
+  {
+    "id": "P03687",
+    "type": "sale",
+    "category": {
+      "main": "government"
+    },
+    "title": "Satılık Devlet Binası - Hong Kong Central",
+    "slug": "satilik-devlet-binası-hong-kong-central-P03687",
+    "description": "Hong Kong Central, Hong Kong bölgesinde devlet binası. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 17482645,
+    "location": {
+      "country": "HK",
+      "city": "Hong Kong Central",
+      "district": "Hong Kong Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 244",
+      "coordinates": {
+        "lat": 22.258277517150024,
+        "lng": 114.22237907549102
+      }
+    },
+    "specs": {
+      "netSize": 2135,
+      "grossSize": 2562,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 7,
+      "floor": 11,
+      "totalFloors": 12,
+      "heating": "Merkezi",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500062315355?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500193549247?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500394599695?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500596749475?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500543582407?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500589027696?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500601837382?w=800&q=80&category=architecture"
+    ],
+    "agent": {
+      "id": "A46",
+      "name": "Agent 29",
+      "phone": "+47 187 729 3563",
+      "email": "agent69@iwrealty.com",
+      "photo": "/images/icons/png/sg-harbour-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": true,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-01-28T10:50:47.217Z",
+    "updatedAt": "2025-11-13T10:50:47.217Z",
+    "storeId": "store-011"
+  },
+  {
+    "id": "P03688",
+    "type": "rent",
+    "category": {
+      "main": "government"
+    },
+    "title": "Kiralık Okul - Hong Kong City",
+    "slug": "kiralik-okul-hong-kong-city-P03688",
+    "description": "Hong Kong City, Hong Kong bölgesinde okul. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 41152524,
+    "location": {
+      "country": "HK",
+      "city": "Hong Kong City",
+      "district": "Hong Kong City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 859",
+      "coordinates": {
+        "lat": 21.893687574532425,
+        "lng": 113.86181483660421
+      }
+    },
+    "specs": {
+      "netSize": 2951,
+      "grossSize": 3541,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 1,
+      "floor": 11,
+      "totalFloors": 19,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Furnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500060417435?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500291519941?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500656308587?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500089325977?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500025851450?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500172311694?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500199660671?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500085944530?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500631130454?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500518710101?w=800&q=80&category=building"
+    ],
+    "agent": {
+      "id": "A46",
+      "name": "Agent 6",
+      "phone": "+91 675 995 5143",
+      "email": "agent64@iwrealty.com",
+      "photo": "/images/icons/png/ny-skyline-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": false,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-07-06T10:50:47.217Z",
+    "updatedAt": "2025-11-13T10:50:47.217Z",
+    "storeId": "store-008"
+  },
+  {
+    "id": "P03689",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Müstakil Ev - Hong Kong City",
+    "slug": "satilik-müstakil-ev-hong-kong-city-P03689",
+    "description": "Hong Kong City, Hong Kong bölgesinde müstakil ev. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 12976206,
+    "location": {
+      "country": "HK",
+      "city": "Hong Kong City",
+      "district": "Hong Kong City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 198",
+      "coordinates": {
+        "lat": 22.258750016675826,
+        "lng": 113.79637207375899
+      }
+    },
+    "specs": {
+      "netSize": 392,
+      "grossSize": 470,
+      "rooms": "3+0",
+      "bathrooms": 4,
+      "age": 1,
+      "floor": 11,
+      "totalFloors": 5,
+      "heating": "Merkezi",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500866288454?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500565583053?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500735372532?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500252786660?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500185071640?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500954587371?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500997859892?w=800&q=80&category=house"
+    ],
+    "agent": {
+      "id": "A34",
+      "name": "Agent 51",
+      "phone": "+70 702 499 1907",
+      "email": "agent51@iwrealty.com",
+      "photo": "/images/icons/png/berlin-urban-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": false,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-10-11T10:50:47.217Z",
+    "updatedAt": "2025-11-13T10:50:47.217Z",
+    "storeId": "store-009"
+  },
+  {
+    "id": "P03690",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Residence - New Hong Kong",
+    "slug": "kiralik-residence-new-hong-kong-P03690",
+    "description": "New Hong Kong, Hong Kong bölgesinde residence. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 13909815,
+    "location": {
+      "country": "HK",
+      "city": "New Hong Kong",
+      "district": "New Hong Kong Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 925",
+      "coordinates": {
+        "lat": 22.30100267962353,
+        "lng": 113.98731003141565
+      }
+    },
+    "specs": {
+      "netSize": 188,
+      "grossSize": 226,
+      "rooms": "4+1",
+      "bathrooms": 2,
+      "age": 5,
+      "floor": 1,
+      "totalFloors": 11,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Unfurnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500677970862?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500675405362?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500311819181?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500308355324?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500518775024?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500999451540?w=800&q=80&category=interior"
+    ],
+    "agent": {
+      "id": "A48",
+      "name": "Agent 31",
+      "phone": "+11 150 764 2471",
+      "email": "agent39@iwrealty.com",
+      "photo": "/images/icons/png/ankara-modern-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-11-09T10:50:47.217Z",
+    "updatedAt": "2025-11-13T10:50:47.217Z",
+    "storeId": "store-003"
+  },
+  {
+    "id": "P03691",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Residence - Hong Kong Central",
+    "slug": "satilik-residence-hong-kong-central-P03691",
+    "description": "Hong Kong Central, Hong Kong bölgesinde residence. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 12749360,
+    "location": {
+      "country": "HK",
+      "city": "Hong Kong Central",
+      "district": "Hong Kong Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 398",
+      "coordinates": {
+        "lat": 22.315657625991985,
+        "lng": 114.0044019922683
+      }
+    },
+    "specs": {
+      "netSize": 323,
+      "grossSize": 388,
+      "rooms": "3+2",
+      "bathrooms": 4,
+      "age": 0,
+      "floor": 1,
+      "totalFloors": 7,
+      "heating": "Merkezi",
+      "furnishing": "Unfurnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500647443272?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500606218599?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500925746595?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500277931845?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500357528859?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500844201375?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500566737338?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500901336266?w=800&q=80&category=house"
+    ],
+    "agent": {
+      "id": "A52",
+      "name": "Agent 31",
+      "phone": "+84 616 376 5262",
+      "email": "agent51@iwrealty.com",
+      "photo": "/images/icons/png/antalya-investment-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-07-04T10:50:47.217Z",
+    "updatedAt": "2025-11-13T10:50:47.217Z",
+    "storeId": "store-006"
+  },
+  {
+    "id": "P03692",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Residence - New Hong Kong",
+    "slug": "kiralik-residence-new-hong-kong-P03692",
+    "description": "New Hong Kong, Hong Kong bölgesinde residence. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 3335375,
+    "location": {
+      "country": "HK",
+      "city": "New Hong Kong",
+      "district": "New Hong Kong Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 173",
+      "coordinates": {
+        "lat": 21.79588462859483,
+        "lng": 114.67432146320341
+      }
+    },
+    "specs": {
+      "netSize": 459,
+      "grossSize": 551,
+      "rooms": "2+1",
+      "bathrooms": 3,
+      "age": 20,
+      "floor": 8,
+      "totalFloors": 14,
+      "heating": "Klima",
+      "furnishing": "Furnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500101569919?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500960930359?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500246031075?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500595377725?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500579269751?w=800&q=80&category=house"
+    ],
+    "agent": {
+      "id": "A19",
+      "name": "Agent 34",
+      "phone": "+73 600 666 3499",
+      "email": "agent72@iwrealty.com",
+      "photo": "/images/icons/png/berlin-urban-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-08-16T10:50:47.217Z",
+    "updatedAt": "2025-11-13T10:50:47.217Z",
+    "storeId": "store-009"
+  },
+  {
+    "id": "P03693",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Müstakil Ev - Hong Kong Central",
+    "slug": "satilik-müstakil-ev-hong-kong-central-P03693",
+    "description": "Hong Kong Central, Hong Kong bölgesinde müstakil ev. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 13703560,
+    "location": {
+      "country": "HK",
+      "city": "Hong Kong Central",
+      "district": "Hong Kong Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 858",
+      "coordinates": {
+        "lat": 22.05364175024863,
+        "lng": 114.3585186393902
+      }
+    },
+    "specs": {
+      "netSize": 459,
+      "grossSize": 551,
+      "rooms": "2+1",
+      "bathrooms": 4,
+      "age": 18,
+      "floor": 11,
+      "totalFloors": 13,
+      "heating": "Merkezi",
+      "furnishing": "Unfurnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500604825386?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500653909191?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500499758100?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500289441873?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500998959710?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500452916326?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500471135640?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500822112530?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500193860426?w=800&q=80&category=real-estate"
+    ],
+    "agent": {
+      "id": "A74",
+      "name": "Agent 25",
+      "phone": "+24 439 559 7256",
+      "email": "agent84@iwrealty.com",
+      "photo": "/images/icons/png/ankara-modern-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-09-16T10:50:47.217Z",
+    "updatedAt": "2025-11-13T10:50:47.217Z",
+    "storeId": "store-003"
+  },
+  {
+    "id": "P03694",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Müstakil Ev - Hong Kong City",
+    "slug": "kiralik-müstakil-ev-hong-kong-city-P03694",
+    "description": "Hong Kong City, Hong Kong bölgesinde müstakil ev. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 956929,
+    "location": {
+      "country": "HK",
+      "city": "Hong Kong City",
+      "district": "Hong Kong City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 977",
+      "coordinates": {
+        "lat": 22.1651687126605,
+        "lng": 114.15800888727586
+      }
+    },
+    "specs": {
+      "netSize": 215,
+      "grossSize": 258,
+      "rooms": "5+1",
+      "bathrooms": 2,
+      "age": 3,
+      "floor": 14,
+      "totalFloors": 14,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Furnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500875159865?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500450135278?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500644801998?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500351447074?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500336515327?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500082697552?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500423267827?w=800&q=80&category=real-estate"
+    ],
+    "agent": {
+      "id": "A99",
+      "name": "Agent 97",
+      "phone": "+84 458 509 9671",
+      "email": "agent24@iwrealty.com",
+      "photo": "/images/icons/png/antalya-investment-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": false,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": true,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-10-07T10:50:47.217Z",
+    "updatedAt": "2025-11-13T10:50:47.217Z",
+    "storeId": "store-006"
+  },
+  {
+    "id": "P03695",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Villa - Hong Kong City",
+    "slug": "satilik-villa-hong-kong-city-P03695",
+    "description": "Hong Kong City, Hong Kong bölgesinde villa. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 5874141,
+    "location": {
+      "country": "HK",
+      "city": "Hong Kong City",
+      "district": "Hong Kong City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 741",
+      "coordinates": {
+        "lat": 22.08156006369744,
+        "lng": 114.17927867177495
+      }
+    },
+    "specs": {
+      "netSize": 131,
+      "grossSize": 157,
+      "rooms": "3+0",
+      "bathrooms": 1,
+      "age": 16,
+      "floor": 1,
+      "totalFloors": 16,
+      "heating": "Klima",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500437289778?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500419705345?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500976663785?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500964637666?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500543298871?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500602848333?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500414217594?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500706795663?w=800&q=80&category=house"
+    ],
+    "agent": {
+      "id": "A61",
+      "name": "Agent 34",
+      "phone": "+50 380 536 3973",
+      "email": "agent47@iwrealty.com",
+      "photo": "/images/icons/png/ankara-modern-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": false,
+      "hasBalcony": false,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-06-10T10:50:47.217Z",
+    "updatedAt": "2025-11-13T10:50:47.217Z",
+    "storeId": "store-003"
+  },
+  {
+    "id": "P03696",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Villa - New Hong Kong",
+    "slug": "kiralik-villa-new-hong-kong-P03696",
+    "description": "New Hong Kong, Hong Kong bölgesinde villa. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 11146439,
+    "location": {
+      "country": "HK",
+      "city": "New Hong Kong",
+      "district": "New Hong Kong Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 121",
+      "coordinates": {
+        "lat": 21.7793972650574,
+        "lng": 114.28906741349724
+      }
+    },
+    "specs": {
+      "netSize": 269,
+      "grossSize": 323,
+      "rooms": "2+2",
+      "bathrooms": 4,
+      "age": 7,
+      "floor": 14,
+      "totalFloors": 5,
+      "heating": "Kombi",
+      "furnishing": "Furnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500267458884?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500359473267?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500591258792?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500859942363?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500732981805?w=800&q=80&category=real-estate"
+    ],
+    "agent": {
+      "id": "A78",
+      "name": "Agent 33",
+      "phone": "+55 594 230 3706",
+      "email": "agent31@iwrealty.com",
+      "photo": "/images/icons/png/paris-heritage-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-10-21T10:50:47.217Z",
+    "updatedAt": "2025-11-13T10:50:47.217Z",
+    "storeId": "store-010"
+  },
+  {
+    "id": "P03697",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Villa - New Hong Kong",
+    "slug": "satilik-villa-new-hong-kong-P03697",
+    "description": "New Hong Kong, Hong Kong bölgesinde villa. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 8836504,
+    "location": {
+      "country": "HK",
+      "city": "New Hong Kong",
+      "district": "New Hong Kong Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 247",
+      "coordinates": {
+        "lat": 22.1257128889076,
+        "lng": 114.08934695633663
+      }
+    },
+    "specs": {
+      "netSize": 370,
+      "grossSize": 444,
+      "rooms": "2+2",
+      "bathrooms": 3,
+      "age": 3,
+      "floor": 2,
+      "totalFloors": 15,
+      "heating": "Klima",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500285911781?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500917207487?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500678378293?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500779637765?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500500578531?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500855696851?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500497456862?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500957673074?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500620877375?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500452094523?w=800&q=80&category=building"
+    ],
+    "agent": {
+      "id": "A31",
+      "name": "Agent 79",
+      "phone": "+24 203 349 9558",
+      "email": "agent4@iwrealty.com",
+      "photo": "/images/icons/png/ankara-modern-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": false,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-04-27T10:50:47.217Z",
+    "updatedAt": "2025-11-13T10:50:47.217Z",
+    "storeId": "store-003"
+  },
+  {
+    "id": "P03698",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Müstakil Ev - Hong Kong Central",
+    "slug": "kiralik-müstakil-ev-hong-kong-central-P03698",
+    "description": "Hong Kong Central, Hong Kong bölgesinde müstakil ev. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 10718083,
+    "location": {
+      "country": "HK",
+      "city": "Hong Kong Central",
+      "district": "Hong Kong Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 558",
+      "coordinates": {
+        "lat": 21.96578077363597,
+        "lng": 113.82363745198928
+      }
+    },
+    "specs": {
+      "netSize": 281,
+      "grossSize": 337,
+      "rooms": "3+0",
+      "bathrooms": 3,
+      "age": 4,
+      "floor": 13,
+      "totalFloors": 5,
+      "heating": "Kombi",
+      "furnishing": "Furnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500555520251?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500572787224?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500061405127?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500383945426?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500040131901?w=800&q=80&category=interior"
+    ],
+    "agent": {
+      "id": "A36",
+      "name": "Agent 57",
+      "phone": "+88 443 566 2694",
+      "email": "agent60@iwrealty.com",
+      "photo": "/images/icons/png/luxury-homes-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-08-03T10:50:47.217Z",
+    "updatedAt": "2025-11-13T10:50:47.217Z",
+    "storeId": "store-002"
+  },
+  {
+    "id": "P03699",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Daire - New Hong Kong",
+    "slug": "satilik-daire-new-hong-kong-P03699",
+    "description": "New Hong Kong, Hong Kong bölgesinde daire. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 13208931,
+    "location": {
+      "country": "HK",
+      "city": "New Hong Kong",
+      "district": "New Hong Kong Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 285",
+      "coordinates": {
+        "lat": 22.723382000615413,
+        "lng": 114.11255175489808
+      }
+    },
+    "specs": {
+      "netSize": 354,
+      "grossSize": 425,
+      "rooms": "5+1",
+      "bathrooms": 3,
+      "age": 19,
+      "floor": 3,
+      "totalFloors": 5,
+      "heating": "Merkezi",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500665253142?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500412668576?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500053106958?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500123734537?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500355371086?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500631389248?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500467341413?w=800&q=80&category=house"
+    ],
+    "agent": {
+      "id": "A34",
+      "name": "Agent 43",
+      "phone": "+95 597 644 4070",
+      "email": "agent18@iwrealty.com",
+      "photo": "/images/icons/png/sg-harbour-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-03-09T10:50:47.217Z",
+    "updatedAt": "2025-11-13T10:50:47.217Z",
+    "storeId": "store-011"
+  },
+  {
+    "id": "P03700",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Müstakil Ev - Hong Kong Central",
+    "slug": "kiralik-müstakil-ev-hong-kong-central-P03700",
+    "description": "Hong Kong Central, Hong Kong bölgesinde müstakil ev. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 9189086,
+    "location": {
+      "country": "HK",
+      "city": "Hong Kong Central",
+      "district": "Hong Kong Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 90",
+      "coordinates": {
+        "lat": 22.35424194455148,
+        "lng": 113.71109976790558
+      }
+    },
+    "specs": {
+      "netSize": 274,
+      "grossSize": 329,
+      "rooms": "2+2",
+      "bathrooms": 3,
+      "age": 0,
+      "floor": 9,
+      "totalFloors": 9,
+      "heating": "Kombi",
+      "furnishing": "Unfurnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500122889399?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500964421363?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500168005085?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500454431327?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500424776132?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500421585904?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500391548959?w=800&q=80&category=real-estate"
+    ],
+    "agent": {
+      "id": "A37",
+      "name": "Agent 37",
+      "phone": "+39 786 712 1684",
+      "email": "agent100@iwrealty.com",
+      "photo": "/images/icons/png/antalya-investment-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2024-12-14T10:50:47.217Z",
+    "updatedAt": "2025-11-13T10:50:47.217Z",
+    "storeId": "store-006"
+  },
+  {
+    "id": "P03701",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Residence - City of Victoria",
+    "slug": "satilik-residence-city-of-victoria-P03701",
+    "description": "City of Victoria, Hong Kong bölgesinde residence. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 4931272,
+    "location": {
+      "country": "HK",
+      "city": "City of Victoria",
+      "district": "City of Victoria Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 114",
+      "coordinates": {
+        "lat": 21.87915857839493,
+        "lng": 113.90438812139139
+      }
+    },
+    "specs": {
+      "netSize": 99,
+      "grossSize": 119,
+      "rooms": "4+0",
+      "bathrooms": 3,
+      "age": 2,
+      "floor": 10,
+      "totalFloors": 18,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500403248696?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500713186347?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500579915455?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500238319893?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500244499201?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500937955633?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500764819312?w=800&q=80&category=real-estate"
+    ],
+    "agent": {
+      "id": "A93",
+      "name": "Agent 13",
+      "phone": "+72 906 582 7199",
+      "email": "agent81@iwrealty.com",
+      "photo": "/images/icons/png/sydney-coastal-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": true,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-08-18T10:50:47.217Z",
+    "updatedAt": "2025-11-13T10:50:47.217Z",
+    "storeId": "store-012"
+  },
+  {
+    "id": "P03702",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Daire - New Hong Kong",
+    "slug": "kiralik-daire-new-hong-kong-P03702",
+    "description": "New Hong Kong, Hong Kong bölgesinde daire. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 6875159,
+    "location": {
+      "country": "HK",
+      "city": "New Hong Kong",
+      "district": "New Hong Kong Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 310",
+      "coordinates": {
+        "lat": 22.094966613794778,
+        "lng": 114.09927148547483
+      }
+    },
+    "specs": {
+      "netSize": 289,
+      "grossSize": 347,
+      "rooms": "5+0",
+      "bathrooms": 4,
+      "age": 13,
+      "floor": 8,
+      "totalFloors": 16,
+      "heating": "Merkezi",
+      "furnishing": "Furnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500002073586?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500208018088?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500010945398?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500383856838?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500724332337?w=800&q=80&category=real-estate"
+    ],
+    "agent": {
+      "id": "A58",
+      "name": "Agent 25",
+      "phone": "+69 334 237 1031",
+      "email": "agent72@iwrealty.com",
+      "photo": "/images/icons/png/antalya-investment-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-04-24T10:50:47.217Z",
+    "updatedAt": "2025-11-13T10:50:47.217Z",
+    "storeId": "store-006"
+  },
+  {
+    "id": "P03703",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Residence - New Hong Kong",
+    "slug": "satilik-residence-new-hong-kong-P03703",
+    "description": "New Hong Kong, Hong Kong bölgesinde residence. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 9509624,
+    "location": {
+      "country": "HK",
+      "city": "New Hong Kong",
+      "district": "New Hong Kong Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 639",
+      "coordinates": {
+        "lat": 22.31663055666722,
+        "lng": 113.76121807988987
+      }
+    },
+    "specs": {
+      "netSize": 230,
+      "grossSize": 276,
+      "rooms": "2+1",
+      "bathrooms": 4,
+      "age": 3,
+      "floor": 10,
+      "totalFloors": 16,
+      "heating": "Klima",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500319124747?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500871317441?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500784736061?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500287777654?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500909848720?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500732948633?w=800&q=80&category=architecture"
+    ],
+    "agent": {
+      "id": "A49",
+      "name": "Agent 30",
+      "phone": "+56 715 497 4791",
+      "email": "agent70@iwrealty.com",
+      "photo": "/images/icons/png/ny-skyline-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-05-12T10:50:47.217Z",
+    "updatedAt": "2025-11-13T10:50:47.217Z",
+    "storeId": "store-008"
+  },
+  {
+    "id": "P03704",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Müstakil Ev - City of Victoria",
+    "slug": "kiralik-müstakil-ev-city-of-victoria-P03704",
+    "description": "City of Victoria, Hong Kong bölgesinde müstakil ev. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 7120627,
+    "location": {
+      "country": "HK",
+      "city": "City of Victoria",
+      "district": "City of Victoria Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 224",
+      "coordinates": {
+        "lat": 22.36794846814449,
+        "lng": 114.339178115486
+      }
+    },
+    "specs": {
+      "netSize": 418,
+      "grossSize": 502,
+      "rooms": "2+1",
+      "bathrooms": 2,
+      "age": 3,
+      "floor": 7,
+      "totalFloors": 8,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500103402904?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500082199887?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500091170056?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500224277394?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500438816539?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500849116114?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500146047332?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500122019110?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500416890977?w=800&q=80&category=interior"
+    ],
+    "agent": {
+      "id": "A51",
+      "name": "Agent 47",
+      "phone": "+47 568 771 8757",
+      "email": "agent68@iwrealty.com",
+      "photo": "/images/icons/png/izmir-sahil-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": false,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": true,
+      "hasSecurity": false
+    },
+    "createdAt": "2024-12-18T10:50:47.218Z",
+    "updatedAt": "2025-11-13T10:50:47.218Z",
+    "storeId": "store-005"
+  },
+  {
+    "id": "P03705",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Müstakil Ev - Hong Kong Central",
+    "slug": "satilik-müstakil-ev-hong-kong-central-P03705",
+    "description": "Hong Kong Central, Hong Kong bölgesinde müstakil ev. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 8528603,
+    "location": {
+      "country": "HK",
+      "city": "Hong Kong Central",
+      "district": "Hong Kong Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 552",
+      "coordinates": {
+        "lat": 22.747950939306964,
+        "lng": 114.23997678755137
+      }
+    },
+    "specs": {
+      "netSize": 321,
+      "grossSize": 385,
+      "rooms": "5+1",
+      "bathrooms": 1,
+      "age": 2,
+      "floor": 1,
+      "totalFloors": 18,
+      "heating": "Kombi",
+      "furnishing": "Furnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500973222225?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500887667658?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500630852729?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500845719426?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500112800307?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500627646335?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500393540672?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500515017058?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500464645984?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500193049205?w=800&q=80&category=real-estate"
+    ],
+    "agent": {
+      "id": "A56",
+      "name": "Agent 31",
+      "phone": "+48 443 414 7290",
+      "email": "agent26@iwrealty.com",
+      "photo": "/images/icons/png/paris-heritage-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": false,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2024-12-11T10:50:47.218Z",
+    "updatedAt": "2025-11-13T10:50:47.218Z",
+    "storeId": "store-010"
+  },
+  {
+    "id": "P03706",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Müstakil Ev - Hong Kong Central",
+    "slug": "kiralik-müstakil-ev-hong-kong-central-P03706",
+    "description": "Hong Kong Central, Hong Kong bölgesinde müstakil ev. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 5379434,
+    "location": {
+      "country": "HK",
+      "city": "Hong Kong Central",
+      "district": "Hong Kong Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 276",
+      "coordinates": {
+        "lat": 22.064234923548877,
+        "lng": 114.3361171483778
+      }
+    },
+    "specs": {
+      "netSize": 231,
+      "grossSize": 277,
+      "rooms": "1+1",
+      "bathrooms": 2,
+      "age": 7,
+      "floor": 5,
+      "totalFloors": 6,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Unfurnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500218958338?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500313838200?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500496573531?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500270699702?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500143272553?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500521747722?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500001483337?w=800&q=80&category=interior"
+    ],
+    "agent": {
+      "id": "A98",
+      "name": "Agent 89",
+      "phone": "+93 675 343 4099",
+      "email": "agent21@iwrealty.com",
+      "photo": "/images/icons/png/ankara-modern-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": false,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2024-12-26T10:50:47.218Z",
+    "updatedAt": "2025-11-13T10:50:47.218Z",
+    "storeId": "store-003"
+  },
+  {
+    "id": "P03707",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Villa - New Hong Kong",
+    "slug": "satilik-villa-new-hong-kong-P03707",
+    "description": "New Hong Kong, Hong Kong bölgesinde villa. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 14416817,
+    "location": {
+      "country": "HK",
+      "city": "New Hong Kong",
+      "district": "New Hong Kong Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 63",
+      "coordinates": {
+        "lat": 22.435882997803166,
+        "lng": 114.49624702950558
+      }
+    },
+    "specs": {
+      "netSize": 123,
+      "grossSize": 148,
+      "rooms": "1+1",
+      "bathrooms": 3,
+      "age": 7,
+      "floor": 14,
+      "totalFloors": 11,
+      "heating": "Merkezi",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500526609956?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500216456631?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500021876664?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500166116441?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500883827828?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500899075018?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500408114959?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500724178539?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500500929543?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500355006555?w=800&q=80&category=architecture"
+    ],
+    "agent": {
+      "id": "A76",
+      "name": "Agent 50",
+      "phone": "+15 643 839 6619",
+      "email": "agent19@iwrealty.com",
+      "photo": "/images/icons/png/london-prime-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2024-12-18T10:50:47.218Z",
+    "updatedAt": "2025-11-13T10:50:47.218Z",
+    "storeId": "store-007"
+  },
+  {
+    "id": "P03708",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Daire - New Hong Kong",
+    "slug": "kiralik-daire-new-hong-kong-P03708",
+    "description": "New Hong Kong, Hong Kong bölgesinde daire. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 7066463,
+    "location": {
+      "country": "HK",
+      "city": "New Hong Kong",
+      "district": "New Hong Kong Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 283",
+      "coordinates": {
+        "lat": 22.43099530801257,
+        "lng": 114.10438687403045
+      }
+    },
+    "specs": {
+      "netSize": 291,
+      "grossSize": 349,
+      "rooms": "2+1",
+      "bathrooms": 1,
+      "age": 11,
+      "floor": 2,
+      "totalFloors": 20,
+      "heating": "Klima",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500202642170?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500479511274?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500048369171?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500173929874?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500932434446?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500395459197?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500977640860?w=800&q=80&category=building"
+    ],
+    "agent": {
+      "id": "A55",
+      "name": "Agent 2",
+      "phone": "+79 603 134 5879",
+      "email": "agent99@iwrealty.com",
+      "photo": "/images/icons/png/ny-skyline-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": false,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-07-13T10:50:47.218Z",
+    "updatedAt": "2025-11-13T10:50:47.218Z",
+    "storeId": "store-008"
+  },
+  {
+    "id": "P03709",
+    "type": "sale",
+    "category": {
+      "main": "commercial",
+      "sub": "hospital"
+    },
+    "title": "Satılık Hastane - Hong Kong City",
+    "slug": "satilik-hastane-hong-kong-city-P03709",
+    "description": "Hong Kong City, Hong Kong bölgesinde hastane. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 44614544,
+    "location": {
+      "country": "HK",
+      "city": "Hong Kong City",
+      "district": "Hong Kong City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 497",
+      "coordinates": {
+        "lat": 22.08584077380498,
+        "lng": 114.61122525853928
+      }
+    },
+    "specs": {
+      "netSize": 10430,
+      "grossSize": 12516,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 20,
+      "floor": 14,
+      "totalFloors": 5,
+      "heating": "Merkezi",
+      "furnishing": "Unfurnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500781466806?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500424518958?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500615249917?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500582189448?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500993435279?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500046464843?w=800&q=80&category=architecture"
+    ],
+    "agent": {
+      "id": "A1",
+      "name": "Agent 83",
+      "phone": "+60 980 440 1889",
+      "email": "agent10@iwrealty.com",
+      "photo": "/images/icons/png/antalya-investment-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-10-24T10:50:47.218Z",
+    "updatedAt": "2025-11-13T10:50:47.218Z",
+    "storeId": "store-006"
+  },
+  {
+    "id": "P03710",
+    "type": "rent",
+    "category": {
+      "main": "commercial",
+      "sub": "hospital"
+    },
+    "title": "Kiralık Hastane - City of Victoria",
+    "slug": "kiralik-hastane-city-of-victoria-P03710",
+    "description": "City of Victoria, Hong Kong bölgesinde hastane. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 53088125,
+    "location": {
+      "country": "HK",
+      "city": "City of Victoria",
+      "district": "City of Victoria Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 956",
+      "coordinates": {
+        "lat": 22.530684637354245,
+        "lng": 114.20998683557265
+      }
+    },
+    "specs": {
+      "netSize": 14937,
+      "grossSize": 17924,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 6,
+      "floor": 6,
+      "totalFloors": 19,
+      "heating": "Merkezi",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500708213705?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500890596611?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500029226379?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500883112177?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500324568624?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500431204847?w=800&q=80&category=real-estate"
+    ],
+    "agent": {
+      "id": "A20",
+      "name": "Agent 46",
+      "phone": "+94 339 379 6733",
+      "email": "agent70@iwrealty.com",
+      "photo": "/images/icons/png/dubai-property-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-07-17T10:50:47.218Z",
+    "updatedAt": "2025-11-13T10:50:47.218Z",
+    "storeId": "store-004"
+  },
+  {
+    "id": "P03711",
+    "type": "sale",
+    "category": {
+      "main": "commercial",
+      "sub": "clinic"
+    },
+    "title": "Satılık Klinik - Hong Kong City",
+    "slug": "satilik-klinik-hong-kong-city-P03711",
+    "description": "Hong Kong City, Hong Kong bölgesinde klinik. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 12475345,
+    "location": {
+      "country": "HK",
+      "city": "Hong Kong City",
+      "district": "Hong Kong City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 700",
+      "coordinates": {
+        "lat": 22.586918178765192,
+        "lng": 114.3544254739768
+      }
+    },
+    "specs": {
+      "netSize": 1019,
+      "grossSize": 1223,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 16,
+      "floor": 11,
+      "totalFloors": 8,
+      "heating": "Klima",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500590108359?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500126092723?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500995224415?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500643648805?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500610983756?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500540393220?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500494816839?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500594974234?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500414361676?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500876951399?w=800&q=80&category=architecture"
+    ],
+    "agent": {
+      "id": "A18",
+      "name": "Agent 24",
+      "phone": "+34 776 321 6531",
+      "email": "agent14@iwrealty.com",
+      "photo": "/images/icons/png/paris-heritage-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": true,
+      "hasPool": true,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-06-13T10:50:47.218Z",
+    "updatedAt": "2025-11-13T10:50:47.218Z",
+    "storeId": "store-010"
+  },
+  {
+    "id": "P03712",
+    "type": "rent",
+    "category": {
+      "main": "commercial",
+      "sub": "clinic"
+    },
+    "title": "Kiralık Klinik - Hong Kong Central",
+    "slug": "kiralik-klinik-hong-kong-central-P03712",
+    "description": "Hong Kong Central, Hong Kong bölgesinde klinik. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 12174857,
+    "location": {
+      "country": "HK",
+      "city": "Hong Kong Central",
+      "district": "Hong Kong Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 406",
+      "coordinates": {
+        "lat": 22.755763238089152,
+        "lng": 114.53653344970714
+      }
+    },
+    "specs": {
+      "netSize": 819,
+      "grossSize": 983,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 8,
+      "floor": 4,
+      "totalFloors": 13,
+      "heating": "Klima",
+      "furnishing": "Furnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500005453842?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500808157918?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500759177155?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500026169493?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500469903264?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500395947474?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500957236078?w=800&q=80&category=architecture"
+    ],
+    "agent": {
+      "id": "A35",
+      "name": "Agent 57",
+      "phone": "+53 388 790 5262",
+      "email": "agent82@iwrealty.com",
+      "photo": "/images/icons/png/berlin-urban-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-01-31T10:50:47.218Z",
+    "updatedAt": "2025-11-13T10:50:47.218Z",
+    "storeId": "store-009"
+  },
+  {
+    "id": "P03713",
+    "type": "sale",
+    "category": {
+      "main": "commercial",
+      "sub": "shop"
+    },
+    "title": "Satılık Dükkan - Hong Kong City",
+    "slug": "satilik-dükkan-hong-kong-city-P03713",
+    "description": "Hong Kong City, Hong Kong bölgesinde dükkan. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 6455703,
+    "location": {
+      "country": "HK",
+      "city": "Hong Kong City",
+      "district": "Hong Kong City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 771",
+      "coordinates": {
+        "lat": 22.323888730948998,
+        "lng": 113.99142445140838
+      }
+    },
+    "specs": {
+      "netSize": 58,
+      "grossSize": 70,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 17,
+      "floor": 1,
+      "totalFloors": 14,
+      "heating": "Klima",
+      "furnishing": "Unfurnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500179776809?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500152152893?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500848627841?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500746668999?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500536801058?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500093426995?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500715389958?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500906586991?w=800&q=80&category=building"
+    ],
+    "agent": {
+      "id": "A29",
+      "name": "Agent 16",
+      "phone": "+44 979 859 4774",
+      "email": "agent38@iwrealty.com",
+      "photo": "/images/icons/png/paris-heritage-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": true,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-01-02T10:50:47.218Z",
+    "updatedAt": "2025-11-13T10:50:47.218Z",
+    "storeId": "store-010"
+  },
+  {
+    "id": "P03714",
+    "type": "rent",
+    "category": {
+      "main": "commercial",
+      "sub": "shop"
+    },
+    "title": "Kiralık Dükkan - New Hong Kong",
+    "slug": "kiralik-dükkan-new-hong-kong-P03714",
+    "description": "New Hong Kong, Hong Kong bölgesinde dükkan. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 2971711,
+    "location": {
+      "country": "HK",
+      "city": "New Hong Kong",
+      "district": "New Hong Kong Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 905",
+      "coordinates": {
+        "lat": 22.011084175724427,
+        "lng": 114.66390169914746
+      }
+    },
+    "specs": {
+      "netSize": 69,
+      "grossSize": 83,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 11,
+      "floor": 1,
+      "totalFloors": 5,
+      "heating": "Kombi",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500711822552?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500030406901?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500755167486?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500061996183?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500111368318?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500235090350?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500976526671?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500297435895?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500698288038?w=800&q=80&category=house"
+    ],
+    "agent": {
+      "id": "A38",
+      "name": "Agent 77",
+      "phone": "+36 394 254 1538",
+      "email": "agent18@iwrealty.com",
+      "photo": "/images/icons/png/sg-harbour-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": false,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-07-31T10:50:47.218Z",
+    "updatedAt": "2025-11-13T10:50:47.218Z",
+    "storeId": "store-011"
+  },
+  {
+    "id": "P03715",
+    "type": "sale",
+    "category": {
+      "main": "commercial",
+      "sub": "office"
+    },
+    "title": "Satılık Ofis - Hong Kong Central",
+    "slug": "satilik-ofis-hong-kong-central-P03715",
+    "description": "Hong Kong Central, Hong Kong bölgesinde ofis. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 5927506,
+    "location": {
+      "country": "HK",
+      "city": "Hong Kong Central",
+      "district": "Hong Kong Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 776",
+      "coordinates": {
+        "lat": 21.819738154789142,
+        "lng": 114.30231115667658
+      }
+    },
+    "specs": {
+      "netSize": 928,
+      "grossSize": 1114,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 7,
+      "floor": 2,
+      "totalFloors": 8,
+      "heating": "Kombi",
+      "furnishing": "Unfurnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500597642261?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500492744997?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500006373406?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500700703567?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500418307027?w=800&q=80&category=architecture"
+    ],
+    "agent": {
+      "id": "A25",
+      "name": "Agent 94",
+      "phone": "+73 975 379 2771",
+      "email": "agent49@iwrealty.com",
+      "photo": "/images/icons/png/antalya-investment-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": true,
+      "hasPool": true,
+      "hasSecurity": true
+    },
+    "createdAt": "2024-11-21T10:50:47.218Z",
+    "updatedAt": "2025-11-13T10:50:47.218Z",
+    "storeId": "store-006"
+  },
+  {
+    "id": "P03716",
+    "type": "rent",
+    "category": {
+      "main": "commercial",
+      "sub": "office"
+    },
+    "title": "Kiralık Ofis - Hong Kong Central",
+    "slug": "kiralik-ofis-hong-kong-central-P03716",
+    "description": "Hong Kong Central, Hong Kong bölgesinde ofis. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 2311510,
+    "location": {
+      "country": "HK",
+      "city": "Hong Kong Central",
+      "district": "Hong Kong Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 718",
+      "coordinates": {
+        "lat": 22.249266544834907,
+        "lng": 114.59923629787609
+      }
+    },
+    "specs": {
+      "netSize": 589,
+      "grossSize": 707,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 6,
+      "floor": 9,
+      "totalFloors": 15,
+      "heating": "Merkezi",
+      "furnishing": "Unfurnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500660761432?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500480391586?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500350046109?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500759714084?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500784045058?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500963914250?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500044840395?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500440131983?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500145896118?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500763407663?w=800&q=80&category=interior"
+    ],
+    "agent": {
+      "id": "A46",
+      "name": "Agent 90",
+      "phone": "+91 948 463 5241",
+      "email": "agent13@iwrealty.com",
+      "photo": "/images/icons/png/dubai-property-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": false,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-09-29T10:50:47.218Z",
+    "updatedAt": "2025-11-13T10:50:47.218Z",
+    "storeId": "store-004"
+  },
+  {
+    "id": "P03717",
+    "type": "sale",
+    "category": {
+      "main": "commercial",
+      "sub": "mall"
+    },
+    "title": "Satılık AVM - New Hong Kong",
+    "slug": "satilik-avm-new-hong-kong-P03717",
+    "description": "New Hong Kong, Hong Kong bölgesinde avm. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 168327205,
+    "location": {
+      "country": "HK",
+      "city": "New Hong Kong",
+      "district": "New Hong Kong Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 80",
+      "coordinates": {
+        "lat": 22.01037471394961,
+        "lng": 114.14418845758782
+      }
+    },
+    "specs": {
+      "netSize": 24615,
+      "grossSize": 29538,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 7,
+      "floor": 5,
+      "totalFloors": 16,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Unfurnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500147207586?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500535814525?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500502131897?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500910509528?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500022444860?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500673828704?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500637138591?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500777383634?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500391590164?w=800&q=80&category=house"
+    ],
+    "agent": {
+      "id": "A23",
+      "name": "Agent 42",
+      "phone": "+83 310 623 1900",
+      "email": "agent36@iwrealty.com",
+      "photo": "/images/icons/png/berlin-urban-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-03-15T10:50:47.218Z",
+    "updatedAt": "2025-11-13T10:50:47.218Z",
+    "storeId": "store-009"
+  },
+  {
+    "id": "P03718",
+    "type": "rent",
+    "category": {
+      "main": "commercial",
+      "sub": "mall"
+    },
+    "title": "Kiralık AVM - City of Victoria",
+    "slug": "kiralik-avm-city-of-victoria-P03718",
+    "description": "City of Victoria, Hong Kong bölgesinde avm. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 422222340,
+    "location": {
+      "country": "HK",
+      "city": "City of Victoria",
+      "district": "City of Victoria Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 211",
+      "coordinates": {
+        "lat": 22.025038745116476,
+        "lng": 114.40303442781406
+      }
+    },
+    "specs": {
+      "netSize": 24774,
+      "grossSize": 29729,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 3,
+      "floor": 3,
+      "totalFloors": 19,
+      "heating": "Klima",
+      "furnishing": "Unfurnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500526988069?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500491061235?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500689389519?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500110307885?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500533266808?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500109690974?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500124209590?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500463452378?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500186263554?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500487731566?w=800&q=80&category=architecture"
+    ],
+    "agent": {
+      "id": "A40",
+      "name": "Agent 34",
+      "phone": "+69 495 610 3845",
+      "email": "agent58@iwrealty.com",
+      "photo": "/images/icons/png/paris-heritage-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": true,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-05-26T10:50:47.218Z",
+    "updatedAt": "2025-11-13T10:50:47.218Z",
+    "storeId": "store-010"
+  },
+  {
+    "id": "P03719",
+    "type": "sale",
+    "category": {
+      "main": "commercial",
+      "sub": "hotel"
+    },
+    "title": "Satılık Otel - City of Victoria",
+    "slug": "satilik-otel-city-of-victoria-P03719",
+    "description": "City of Victoria, Hong Kong bölgesinde otel. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 20035993,
+    "location": {
+      "country": "HK",
+      "city": "City of Victoria",
+      "district": "City of Victoria Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 913",
+      "coordinates": {
+        "lat": 21.777585179161225,
+        "lng": 114.33712358533369
+      }
+    },
+    "specs": {
+      "netSize": 27634,
+      "grossSize": 33161,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 7,
+      "floor": 6,
+      "totalFloors": 17,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Unfurnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500707106750?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500480464590?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500893397828?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500394106302?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500378419156?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500414542102?w=800&q=80&category=interior"
+    ],
+    "agent": {
+      "id": "A63",
+      "name": "Agent 92",
+      "phone": "+28 236 615 8025",
+      "email": "agent14@iwrealty.com",
+      "photo": "/images/icons/png/dubai-property-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": false,
+      "hasBalcony": false,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-10-02T10:50:47.218Z",
+    "updatedAt": "2025-11-13T10:50:47.218Z",
+    "storeId": "store-004"
+  },
+  {
+    "id": "P03720",
+    "type": "rent",
+    "category": {
+      "main": "commercial",
+      "sub": "hotel"
+    },
+    "title": "Kiralık Otel - Hong Kong City",
+    "slug": "kiralik-otel-hong-kong-city-P03720",
+    "description": "Hong Kong City, Hong Kong bölgesinde otel. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 150327977,
+    "location": {
+      "country": "HK",
+      "city": "Hong Kong City",
+      "district": "Hong Kong City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 585",
+      "coordinates": {
+        "lat": 22.431041599427513,
+        "lng": 114.56767335628577
+      }
+    },
+    "specs": {
+      "netSize": 22931,
+      "grossSize": 27517,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 18,
+      "floor": 1,
+      "totalFloors": 6,
+      "heating": "Kombi",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500567377602?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500780238534?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500493517006?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500905779919?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500779898890?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500903295121?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500177563691?w=800&q=80&category=building"
+    ],
+    "agent": {
+      "id": "A53",
+      "name": "Agent 65",
+      "phone": "+51 453 812 1885",
+      "email": "agent14@iwrealty.com",
+      "photo": "/images/icons/png/izmir-sahil-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": true,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-05-29T10:50:47.218Z",
+    "updatedAt": "2025-11-13T10:50:47.218Z",
+    "storeId": "store-005"
+  },
+  {
+    "id": "P03721",
+    "type": "sale",
+    "category": {
+      "main": "commercial",
+      "sub": "restaurant"
+    },
+    "title": "Satılık Restoran - New Hong Kong",
+    "slug": "satilik-restoran-new-hong-kong-P03721",
+    "description": "New Hong Kong, Hong Kong bölgesinde restoran. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 2676345,
+    "location": {
+      "country": "HK",
+      "city": "New Hong Kong",
+      "district": "New Hong Kong Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 664",
+      "coordinates": {
+        "lat": 21.841496961814336,
+        "lng": 114.01826369867842
+      }
+    },
+    "specs": {
+      "netSize": 1437,
+      "grossSize": 1724,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 7,
+      "floor": 6,
+      "totalFloors": 7,
+      "heating": "Klima",
+      "furnishing": "Unfurnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500242723634?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500765193579?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500055318690?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500194407611?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500075644711?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500179212094?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500901313921?w=800&q=80&category=real-estate"
+    ],
+    "agent": {
+      "id": "A15",
+      "name": "Agent 24",
+      "phone": "+98 457 200 7787",
+      "email": "agent8@iwrealty.com",
+      "photo": "/images/icons/png/berlin-urban-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-08-08T10:50:47.218Z",
+    "updatedAt": "2025-11-13T10:50:47.218Z",
+    "storeId": "store-009"
+  },
+  {
+    "id": "P03722",
+    "type": "rent",
+    "category": {
+      "main": "commercial",
+      "sub": "restaurant"
+    },
+    "title": "Kiralık Restoran - Hong Kong Central",
+    "slug": "kiralik-restoran-hong-kong-central-P03722",
+    "description": "Hong Kong Central, Hong Kong bölgesinde restoran. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 9698210,
+    "location": {
+      "country": "HK",
+      "city": "Hong Kong Central",
+      "district": "Hong Kong Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 631",
+      "coordinates": {
+        "lat": 22.03061116229143,
+        "lng": 114.64600241369386
+      }
+    },
+    "specs": {
+      "netSize": 152,
+      "grossSize": 182,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 10,
+      "floor": 10,
+      "totalFloors": 14,
+      "heating": "Kombi",
+      "furnishing": "Furnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500448944238?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500235578276?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500437001042?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500053193104?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500715813579?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500472295433?w=800&q=80&category=building"
+    ],
+    "agent": {
+      "id": "A5",
+      "name": "Agent 23",
+      "phone": "+19 238 747 9702",
+      "email": "agent28@iwrealty.com",
+      "photo": "/images/icons/png/paris-heritage-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": false,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-04-13T10:50:47.218Z",
+    "updatedAt": "2025-11-13T10:50:47.218Z",
+    "storeId": "store-010"
+  },
+  {
+    "id": "P03723",
+    "type": "sale",
+    "category": {
+      "main": "commercial",
+      "sub": "warehouse"
+    },
+    "title": "Satılık Depo - Hong Kong City",
+    "slug": "satilik-depo-hong-kong-city-P03723",
+    "description": "Hong Kong City, Hong Kong bölgesinde depo. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 7280679,
+    "location": {
+      "country": "HK",
+      "city": "Hong Kong City",
+      "district": "Hong Kong City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 463",
+      "coordinates": {
+        "lat": 22.461401519069085,
+        "lng": 114.47665310650842
+      }
+    },
+    "specs": {
+      "netSize": 7404,
+      "grossSize": 8885,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 9,
+      "floor": 6,
+      "totalFloors": 8,
+      "heating": "Klima",
+      "furnishing": "Furnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500768151451?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500718065597?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500183431183?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500726351859?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500536594688?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500974801725?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500578531257?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500956757536?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500617550722?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500943802457?w=800&q=80&category=building"
+    ],
+    "agent": {
+      "id": "A36",
+      "name": "Agent 72",
+      "phone": "+10 718 899 9718",
+      "email": "agent92@iwrealty.com",
+      "photo": "/images/icons/png/sydney-coastal-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": false,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-11-05T10:50:47.218Z",
+    "updatedAt": "2025-11-13T10:50:47.218Z",
+    "storeId": "store-012"
+  },
+  {
+    "id": "P03724",
+    "type": "rent",
+    "category": {
+      "main": "commercial",
+      "sub": "warehouse"
+    },
+    "title": "Kiralık Depo - City of Victoria",
+    "slug": "kiralik-depo-city-of-victoria-P03724",
+    "description": "City of Victoria, Hong Kong bölgesinde depo. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 22881757,
+    "location": {
+      "country": "HK",
+      "city": "City of Victoria",
+      "district": "City of Victoria Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 352",
+      "coordinates": {
+        "lat": 22.50873222221701,
+        "lng": 114.00799375999826
+      }
+    },
+    "specs": {
+      "netSize": 8628,
+      "grossSize": 10354,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 10,
+      "floor": 1,
+      "totalFloors": 17,
+      "heating": "Merkezi",
+      "furnishing": "Unfurnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500528413925?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500999852602?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500758765861?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500845645755?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500627543087?w=800&q=80&category=building"
+    ],
+    "agent": {
+      "id": "A94",
+      "name": "Agent 98",
+      "phone": "+34 611 960 9323",
+      "email": "agent10@iwrealty.com",
+      "photo": "/images/icons/png/ankara-modern-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-04-03T10:50:47.218Z",
+    "updatedAt": "2025-11-13T10:50:47.218Z",
+    "storeId": "store-003"
+  }
+]

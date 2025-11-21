@@ -1,0 +1,2374 @@
+[
+  {
+    "id": "P07411",
+    "type": "sale",
+    "category": {
+      "main": "government"
+    },
+    "title": "Satılık Okul - Dakar",
+    "slug": "satilik-okul-dakar-P07411",
+    "description": "Dakar, Senegal bölgesinde okul. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 26875974,
+    "location": {
+      "country": "SN",
+      "city": "Dakar",
+      "district": "Dakar Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 16",
+      "coordinates": {
+        "lat": 14.122809855627327,
+        "lng": -13.685145608999266
+      }
+    },
+    "specs": {
+      "netSize": 2183,
+      "grossSize": 2620,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 3,
+      "floor": 3,
+      "totalFloors": 8,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Furnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500271457855?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500432304478?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500581108466?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500462410916?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500286411362?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500481154183?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500438316670?w=800&q=80&category=building"
+    ],
+    "agent": {
+      "id": "A69",
+      "name": "Agent 56",
+      "phone": "+50 740 374 8595",
+      "email": "agent55@iwrealty.com",
+      "photo": "/images/icons/png/sg-harbour-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": false,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-03-05T10:50:47.257Z",
+    "updatedAt": "2025-11-13T10:50:47.257Z",
+    "storeId": "store-011"
+  },
+  {
+    "id": "P07412",
+    "type": "rent",
+    "category": {
+      "main": "government"
+    },
+    "title": "Kiralık Devlet Binası - Senegal Central",
+    "slug": "kiralik-devlet-binası-senegal-central-P07412",
+    "description": "Senegal Central, Senegal bölgesinde devlet binası. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 33582856,
+    "location": {
+      "country": "SN",
+      "city": "Senegal Central",
+      "district": "Senegal Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 994",
+      "coordinates": {
+        "lat": 14.494137098051361,
+        "lng": -13.697379347844473
+      }
+    },
+    "specs": {
+      "netSize": 1432,
+      "grossSize": 1718,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 19,
+      "floor": 6,
+      "totalFloors": 16,
+      "heating": "Klima",
+      "furnishing": "Unfurnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500426399043?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500979013773?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500917809668?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500552290144?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500760133421?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500362220708?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500588989892?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500588933038?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500191284646?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500148014489?w=800&q=80&category=building"
+    ],
+    "agent": {
+      "id": "A7",
+      "name": "Agent 1",
+      "phone": "+88 418 544 8447",
+      "email": "agent80@iwrealty.com",
+      "photo": "/images/icons/png/sydney-coastal-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": true,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-03-14T10:50:47.257Z",
+    "updatedAt": "2025-11-13T10:50:47.257Z",
+    "storeId": "store-012"
+  },
+  {
+    "id": "P07413",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Villa - Dakar",
+    "slug": "satilik-villa-dakar-P07413",
+    "description": "Dakar, Senegal bölgesinde villa. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 8444155,
+    "location": {
+      "country": "SN",
+      "city": "Dakar",
+      "district": "Dakar Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 930",
+      "coordinates": {
+        "lat": 14.38188963262486,
+        "lng": -14.269196408706724
+      }
+    },
+    "specs": {
+      "netSize": 81,
+      "grossSize": 97,
+      "rooms": "2+1",
+      "bathrooms": 2,
+      "age": 16,
+      "floor": 2,
+      "totalFloors": 12,
+      "heating": "Merkezi",
+      "furnishing": "Furnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500347882137?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500872334852?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500180780958?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500430340317?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500607489974?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500995021254?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500554398961?w=800&q=80&category=building"
+    ],
+    "agent": {
+      "id": "A84",
+      "name": "Agent 89",
+      "phone": "+81 405 823 4838",
+      "email": "agent97@iwrealty.com",
+      "photo": "/images/icons/png/ankara-modern-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-10-18T10:50:47.257Z",
+    "updatedAt": "2025-11-13T10:50:47.257Z",
+    "storeId": "store-003"
+  },
+  {
+    "id": "P07414",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Villa - Dakar",
+    "slug": "kiralik-villa-dakar-P07414",
+    "description": "Dakar, Senegal bölgesinde villa. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 2397463,
+    "location": {
+      "country": "SN",
+      "city": "Dakar",
+      "district": "Dakar Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 596",
+      "coordinates": {
+        "lat": 13.514117346933094,
+        "lng": -14.28250158316804
+      }
+    },
+    "specs": {
+      "netSize": 398,
+      "grossSize": 478,
+      "rooms": "3+1",
+      "bathrooms": 1,
+      "age": 7,
+      "floor": 13,
+      "totalFloors": 20,
+      "heating": "Kombi",
+      "furnishing": "Unfurnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500877766797?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500053664333?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500387926059?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500281346123?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500927650690?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500867298621?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500195493378?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500138383937?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500790313668?w=800&q=80&category=house"
+    ],
+    "agent": {
+      "id": "A54",
+      "name": "Agent 62",
+      "phone": "+64 682 994 4184",
+      "email": "agent100@iwrealty.com",
+      "photo": "/images/icons/png/dubai-property-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": false,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-06-12T10:50:47.257Z",
+    "updatedAt": "2025-11-13T10:50:47.257Z",
+    "storeId": "store-004"
+  },
+  {
+    "id": "P07415",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Daire - New Senegal",
+    "slug": "satilik-daire-new-senegal-P07415",
+    "description": "New Senegal, Senegal bölgesinde daire. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 4463518,
+    "location": {
+      "country": "SN",
+      "city": "New Senegal",
+      "district": "New Senegal Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 353",
+      "coordinates": {
+        "lat": 13.841340163439362,
+        "lng": -13.772219160190462
+      }
+    },
+    "specs": {
+      "netSize": 399,
+      "grossSize": 479,
+      "rooms": "3+2",
+      "bathrooms": 4,
+      "age": 11,
+      "floor": 12,
+      "totalFloors": 10,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Furnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500104636840?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500030820039?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500012555491?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500725751971?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500952054438?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500794665107?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500565699755?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500907298096?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500926680174?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500990018547?w=800&q=80&category=building"
+    ],
+    "agent": {
+      "id": "A73",
+      "name": "Agent 83",
+      "phone": "+63 753 453 1358",
+      "email": "agent78@iwrealty.com",
+      "photo": "/images/icons/png/izmir-sahil-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-03-28T10:50:47.257Z",
+    "updatedAt": "2025-11-13T10:50:47.257Z",
+    "storeId": "store-005"
+  },
+  {
+    "id": "P07416",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Villa - New Senegal",
+    "slug": "kiralik-villa-new-senegal-P07416",
+    "description": "New Senegal, Senegal bölgesinde villa. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 7910887,
+    "location": {
+      "country": "SN",
+      "city": "New Senegal",
+      "district": "New Senegal Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 827",
+      "coordinates": {
+        "lat": 14.086958693292498,
+        "lng": -14.135017307306
+      }
+    },
+    "specs": {
+      "netSize": 276,
+      "grossSize": 331,
+      "rooms": "3+2",
+      "bathrooms": 3,
+      "age": 9,
+      "floor": 3,
+      "totalFloors": 9,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Furnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500723549717?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500782736258?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500269133151?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500229795533?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500094262322?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500590802462?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500089558218?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500154724762?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500143533604?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500038442133?w=800&q=80&category=architecture"
+    ],
+    "agent": {
+      "id": "A77",
+      "name": "Agent 74",
+      "phone": "+64 674 286 1582",
+      "email": "agent7@iwrealty.com",
+      "photo": "/images/icons/png/dubai-property-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-03-23T10:50:47.257Z",
+    "updatedAt": "2025-11-13T10:50:47.257Z",
+    "storeId": "store-004"
+  },
+  {
+    "id": "P07417",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Residence - Senegal City",
+    "slug": "satilik-residence-senegal-city-P07417",
+    "description": "Senegal City, Senegal bölgesinde residence. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 10246288,
+    "location": {
+      "country": "SN",
+      "city": "Senegal City",
+      "district": "Senegal City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 659",
+      "coordinates": {
+        "lat": 14.28240648702621,
+        "lng": -13.727759096143087
+      }
+    },
+    "specs": {
+      "netSize": 166,
+      "grossSize": 199,
+      "rooms": "2+0",
+      "bathrooms": 4,
+      "age": 8,
+      "floor": 1,
+      "totalFloors": 6,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500656580732?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500619414004?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500402290909?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500249275720?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500487593475?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500041318735?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500959661148?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500316970969?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500732022500?w=800&q=80&category=real-estate"
+    ],
+    "agent": {
+      "id": "A74",
+      "name": "Agent 64",
+      "phone": "+47 338 582 5285",
+      "email": "agent18@iwrealty.com",
+      "photo": "/images/icons/png/luxury-homes-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-08-18T10:50:47.257Z",
+    "updatedAt": "2025-11-13T10:50:47.257Z",
+    "storeId": "store-002"
+  },
+  {
+    "id": "P07418",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Müstakil Ev - Senegal City",
+    "slug": "kiralik-müstakil-ev-senegal-city-P07418",
+    "description": "Senegal City, Senegal bölgesinde müstakil ev. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 11466262,
+    "location": {
+      "country": "SN",
+      "city": "Senegal City",
+      "district": "Senegal City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 791",
+      "coordinates": {
+        "lat": 13.631719499361168,
+        "lng": -13.851554948552257
+      }
+    },
+    "specs": {
+      "netSize": 446,
+      "grossSize": 535,
+      "rooms": "1+2",
+      "bathrooms": 3,
+      "age": 8,
+      "floor": 6,
+      "totalFloors": 5,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Unfurnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500980594733?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500146251494?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500570242382?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500223424710?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500111981840?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500549411928?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500748667383?w=800&q=80&category=house"
+    ],
+    "agent": {
+      "id": "A30",
+      "name": "Agent 74",
+      "phone": "+47 814 733 8381",
+      "email": "agent80@iwrealty.com",
+      "photo": "/images/icons/png/dubai-property-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-03-19T10:50:47.257Z",
+    "updatedAt": "2025-11-13T10:50:47.257Z",
+    "storeId": "store-004"
+  },
+  {
+    "id": "P07419",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Daire - Senegal City",
+    "slug": "satilik-daire-senegal-city-P07419",
+    "description": "Senegal City, Senegal bölgesinde daire. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 12375253,
+    "location": {
+      "country": "SN",
+      "city": "Senegal City",
+      "district": "Senegal City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 90",
+      "coordinates": {
+        "lat": 14.039494160427328,
+        "lng": -13.827191415184055
+      }
+    },
+    "specs": {
+      "netSize": 231,
+      "grossSize": 277,
+      "rooms": "3+2",
+      "bathrooms": 3,
+      "age": 15,
+      "floor": 5,
+      "totalFloors": 13,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500830860987?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500324051240?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500724198657?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500780739769?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500634203685?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500527333461?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500339827027?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500552498145?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500177517093?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500698173482?w=800&q=80&category=building"
+    ],
+    "agent": {
+      "id": "A71",
+      "name": "Agent 21",
+      "phone": "+23 981 917 1356",
+      "email": "agent95@iwrealty.com",
+      "photo": "/images/icons/png/berlin-urban-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-01-30T10:50:47.257Z",
+    "updatedAt": "2025-11-13T10:50:47.257Z",
+    "storeId": "store-009"
+  },
+  {
+    "id": "P07420",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Residence - New Senegal",
+    "slug": "kiralik-residence-new-senegal-P07420",
+    "description": "New Senegal, Senegal bölgesinde residence. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 3509170,
+    "location": {
+      "country": "SN",
+      "city": "New Senegal",
+      "district": "New Senegal Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 223",
+      "coordinates": {
+        "lat": 14.360423148991728,
+        "lng": -14.166569485021027
+      }
+    },
+    "specs": {
+      "netSize": 257,
+      "grossSize": 308,
+      "rooms": "4+0",
+      "bathrooms": 2,
+      "age": 20,
+      "floor": 2,
+      "totalFloors": 19,
+      "heating": "Kombi",
+      "furnishing": "Furnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500821555436?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500055545571?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500920765684?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500464126234?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500535851977?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500572222349?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500701196021?w=800&q=80&category=real-estate"
+    ],
+    "agent": {
+      "id": "A17",
+      "name": "Agent 39",
+      "phone": "+11 159 879 5725",
+      "email": "agent68@iwrealty.com",
+      "photo": "/images/icons/png/berlin-urban-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": false,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-01-07T10:50:47.257Z",
+    "updatedAt": "2025-11-13T10:50:47.257Z",
+    "storeId": "store-009"
+  },
+  {
+    "id": "P07421",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Müstakil Ev - Dakar",
+    "slug": "satilik-müstakil-ev-dakar-P07421",
+    "description": "Dakar, Senegal bölgesinde müstakil ev. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 6793759,
+    "location": {
+      "country": "SN",
+      "city": "Dakar",
+      "district": "Dakar Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 810",
+      "coordinates": {
+        "lat": 14.164130905939395,
+        "lng": -13.904794199443318
+      }
+    },
+    "specs": {
+      "netSize": 109,
+      "grossSize": 131,
+      "rooms": "4+2",
+      "bathrooms": 1,
+      "age": 15,
+      "floor": 5,
+      "totalFloors": 17,
+      "heating": "Klima",
+      "furnishing": "Unfurnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500360647311?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500815848508?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500161939935?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500087615482?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500520754835?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500481784876?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500733985732?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500905503181?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500126465417?w=800&q=80&category=real-estate"
+    ],
+    "agent": {
+      "id": "A79",
+      "name": "Agent 87",
+      "phone": "+73 776 363 4385",
+      "email": "agent7@iwrealty.com",
+      "photo": "/images/icons/png/izmir-sahil-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": false,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-04-17T10:50:47.257Z",
+    "updatedAt": "2025-11-13T10:50:47.257Z",
+    "storeId": "store-005"
+  },
+  {
+    "id": "P07422",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Residence - Dakar",
+    "slug": "kiralik-residence-dakar-P07422",
+    "description": "Dakar, Senegal bölgesinde residence. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 3831316,
+    "location": {
+      "country": "SN",
+      "city": "Dakar",
+      "district": "Dakar Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 54",
+      "coordinates": {
+        "lat": 14.3875433152932,
+        "lng": -14.074808998756891
+      }
+    },
+    "specs": {
+      "netSize": 155,
+      "grossSize": 186,
+      "rooms": "1+0",
+      "bathrooms": 3,
+      "age": 18,
+      "floor": 5,
+      "totalFloors": 10,
+      "heating": "Merkezi",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500529879421?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500901180114?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500695285560?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500030926931?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500912015464?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500058276123?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500809971522?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500898251579?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500429527182?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500671535981?w=800&q=80&category=building"
+    ],
+    "agent": {
+      "id": "A30",
+      "name": "Agent 55",
+      "phone": "+64 528 404 7408",
+      "email": "agent18@iwrealty.com",
+      "photo": "/images/icons/png/paris-heritage-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-11-08T10:50:47.257Z",
+    "updatedAt": "2025-11-13T10:50:47.257Z",
+    "storeId": "store-010"
+  },
+  {
+    "id": "P07423",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Villa - Dakar",
+    "slug": "satilik-villa-dakar-P07423",
+    "description": "Dakar, Senegal bölgesinde villa. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 4744797,
+    "location": {
+      "country": "SN",
+      "city": "Dakar",
+      "district": "Dakar Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 164",
+      "coordinates": {
+        "lat": 13.642652765416646,
+        "lng": -14.422511402422643
+      }
+    },
+    "specs": {
+      "netSize": 210,
+      "grossSize": 252,
+      "rooms": "5+1",
+      "bathrooms": 2,
+      "age": 15,
+      "floor": 1,
+      "totalFloors": 5,
+      "heating": "Merkezi",
+      "furnishing": "Furnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500720519698?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500739431956?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500682495965?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500823006421?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500610321081?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500486847139?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500825166690?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500399341200?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500622518436?w=800&q=80&category=interior"
+    ],
+    "agent": {
+      "id": "A25",
+      "name": "Agent 23",
+      "phone": "+63 336 716 3642",
+      "email": "agent35@iwrealty.com",
+      "photo": "/images/icons/png/ankara-modern-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-10-07T10:50:47.257Z",
+    "updatedAt": "2025-11-13T10:50:47.257Z",
+    "storeId": "store-003"
+  },
+  {
+    "id": "P07424",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Daire - Senegal Central",
+    "slug": "kiralik-daire-senegal-central-P07424",
+    "description": "Senegal Central, Senegal bölgesinde daire. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 11773490,
+    "location": {
+      "country": "SN",
+      "city": "Senegal Central",
+      "district": "Senegal Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 29",
+      "coordinates": {
+        "lat": 13.606853865094276,
+        "lng": -14.431345713045015
+      }
+    },
+    "specs": {
+      "netSize": 468,
+      "grossSize": 562,
+      "rooms": "1+0",
+      "bathrooms": 2,
+      "age": 18,
+      "floor": 14,
+      "totalFloors": 10,
+      "heating": "Merkezi",
+      "furnishing": "Furnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500656672480?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500770607341?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500549771765?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500943752513?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500905533818?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500168743395?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500017430038?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500785511433?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500553391319?w=800&q=80&category=real-estate"
+    ],
+    "agent": {
+      "id": "A58",
+      "name": "Agent 79",
+      "phone": "+29 906 478 5136",
+      "email": "agent30@iwrealty.com",
+      "photo": "/images/icons/png/dubai-property-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": true,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-02-09T10:50:47.257Z",
+    "updatedAt": "2025-11-13T10:50:47.257Z",
+    "storeId": "store-004"
+  },
+  {
+    "id": "P07425",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Müstakil Ev - New Senegal",
+    "slug": "satilik-müstakil-ev-new-senegal-P07425",
+    "description": "New Senegal, Senegal bölgesinde müstakil ev. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 2983965,
+    "location": {
+      "country": "SN",
+      "city": "New Senegal",
+      "district": "New Senegal Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 985",
+      "coordinates": {
+        "lat": 13.661525776239074,
+        "lng": -13.529747877014286
+      }
+    },
+    "specs": {
+      "netSize": 253,
+      "grossSize": 304,
+      "rooms": "5+2",
+      "bathrooms": 4,
+      "age": 15,
+      "floor": 15,
+      "totalFloors": 11,
+      "heating": "Kombi",
+      "furnishing": "Furnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500608536996?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500329592128?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500528840461?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500764902088?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500168490486?w=800&q=80&category=architecture"
+    ],
+    "agent": {
+      "id": "A4",
+      "name": "Agent 20",
+      "phone": "+85 680 705 5897",
+      "email": "agent36@iwrealty.com",
+      "photo": "/images/icons/png/luxury-homes-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2024-12-30T10:50:47.257Z",
+    "updatedAt": "2025-11-13T10:50:47.257Z",
+    "storeId": "store-002"
+  },
+  {
+    "id": "P07426",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Villa - New Senegal",
+    "slug": "kiralik-villa-new-senegal-P07426",
+    "description": "New Senegal, Senegal bölgesinde villa. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 14317382,
+    "location": {
+      "country": "SN",
+      "city": "New Senegal",
+      "district": "New Senegal Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 397",
+      "coordinates": {
+        "lat": 14.161138738449875,
+        "lng": -14.011226864903243
+      }
+    },
+    "specs": {
+      "netSize": 473,
+      "grossSize": 568,
+      "rooms": "3+1",
+      "bathrooms": 2,
+      "age": 6,
+      "floor": 11,
+      "totalFloors": 10,
+      "heating": "Kombi",
+      "furnishing": "Furnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500731744364?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500424377353?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500650775342?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500658426821?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500371329852?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500419784983?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500793942887?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500811401774?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500583485984?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500296112876?w=800&q=80&category=building"
+    ],
+    "agent": {
+      "id": "A85",
+      "name": "Agent 68",
+      "phone": "+45 927 649 5494",
+      "email": "agent54@iwrealty.com",
+      "photo": "/images/icons/png/sg-harbour-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": false,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2024-11-20T10:50:47.257Z",
+    "updatedAt": "2025-11-13T10:50:47.257Z",
+    "storeId": "store-011"
+  },
+  {
+    "id": "P07427",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Müstakil Ev - Senegal Central",
+    "slug": "satilik-müstakil-ev-senegal-central-P07427",
+    "description": "Senegal Central, Senegal bölgesinde müstakil ev. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 11833978,
+    "location": {
+      "country": "SN",
+      "city": "Senegal Central",
+      "district": "Senegal Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 769",
+      "coordinates": {
+        "lat": 13.998529734148839,
+        "lng": -13.967780737195538
+      }
+    },
+    "specs": {
+      "netSize": 164,
+      "grossSize": 197,
+      "rooms": "3+1",
+      "bathrooms": 3,
+      "age": 16,
+      "floor": 12,
+      "totalFloors": 5,
+      "heating": "Kombi",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500685450117?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500556911399?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500347146488?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500501474840?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500025438224?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500701876234?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500502051836?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500628486719?w=800&q=80&category=real-estate"
+    ],
+    "agent": {
+      "id": "A99",
+      "name": "Agent 67",
+      "phone": "+17 354 139 4433",
+      "email": "agent68@iwrealty.com",
+      "photo": "/images/icons/png/ny-skyline-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-04-18T10:50:47.257Z",
+    "updatedAt": "2025-11-13T10:50:47.257Z",
+    "storeId": "store-008"
+  },
+  {
+    "id": "P07428",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Daire - Dakar",
+    "slug": "kiralik-daire-dakar-P07428",
+    "description": "Dakar, Senegal bölgesinde daire. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 2094803,
+    "location": {
+      "country": "SN",
+      "city": "Dakar",
+      "district": "Dakar Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 568",
+      "coordinates": {
+        "lat": 13.79725993875022,
+        "lng": -14.253865572388376
+      }
+    },
+    "specs": {
+      "netSize": 201,
+      "grossSize": 241,
+      "rooms": "2+2",
+      "bathrooms": 1,
+      "age": 2,
+      "floor": 4,
+      "totalFloors": 8,
+      "heating": "Kombi",
+      "furnishing": "Unfurnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500161060669?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500572078291?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500856669311?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500356395882?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500119879845?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500647431679?w=800&q=80&category=interior"
+    ],
+    "agent": {
+      "id": "A44",
+      "name": "Agent 90",
+      "phone": "+22 450 364 8751",
+      "email": "agent12@iwrealty.com",
+      "photo": "/images/icons/png/london-prime-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": true,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-03-27T10:50:47.257Z",
+    "updatedAt": "2025-11-13T10:50:47.257Z",
+    "storeId": "store-007"
+  },
+  {
+    "id": "P07429",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Residence - New Senegal",
+    "slug": "satilik-residence-new-senegal-P07429",
+    "description": "New Senegal, Senegal bölgesinde residence. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 6235299,
+    "location": {
+      "country": "SN",
+      "city": "New Senegal",
+      "district": "New Senegal Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 881",
+      "coordinates": {
+        "lat": 13.53068165769471,
+        "lng": -13.894159849421127
+      }
+    },
+    "specs": {
+      "netSize": 287,
+      "grossSize": 344,
+      "rooms": "5+1",
+      "bathrooms": 3,
+      "age": 14,
+      "floor": 11,
+      "totalFloors": 19,
+      "heating": "Kombi",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500999847299?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500501330473?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500212324302?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500974556375?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500903428198?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500922211240?w=800&q=80&category=real-estate"
+    ],
+    "agent": {
+      "id": "A75",
+      "name": "Agent 36",
+      "phone": "+53 610 919 2661",
+      "email": "agent37@iwrealty.com",
+      "photo": "/images/icons/png/sg-harbour-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-04-08T10:50:47.257Z",
+    "updatedAt": "2025-11-13T10:50:47.257Z",
+    "storeId": "store-011"
+  },
+  {
+    "id": "P07430",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Müstakil Ev - New Senegal",
+    "slug": "kiralik-müstakil-ev-new-senegal-P07430",
+    "description": "New Senegal, Senegal bölgesinde müstakil ev. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 9688993,
+    "location": {
+      "country": "SN",
+      "city": "New Senegal",
+      "district": "New Senegal Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 850",
+      "coordinates": {
+        "lat": 14.353935866720686,
+        "lng": -14.358879957284746
+      }
+    },
+    "specs": {
+      "netSize": 196,
+      "grossSize": 235,
+      "rooms": "3+1",
+      "bathrooms": 1,
+      "age": 13,
+      "floor": 14,
+      "totalFloors": 15,
+      "heating": "Merkezi",
+      "furnishing": "Unfurnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500332981834?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500349128049?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500931747015?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500613182010?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500579962222?w=800&q=80&category=building"
+    ],
+    "agent": {
+      "id": "A16",
+      "name": "Agent 18",
+      "phone": "+50 208 806 8472",
+      "email": "agent94@iwrealty.com",
+      "photo": "/images/icons/png/sydney-coastal-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": false,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-10-08T10:50:47.257Z",
+    "updatedAt": "2025-11-13T10:50:47.257Z",
+    "storeId": "store-012"
+  },
+  {
+    "id": "P07431",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Daire - New Senegal",
+    "slug": "satilik-daire-new-senegal-P07431",
+    "description": "New Senegal, Senegal bölgesinde daire. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 5916048,
+    "location": {
+      "country": "SN",
+      "city": "New Senegal",
+      "district": "New Senegal Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 690",
+      "coordinates": {
+        "lat": 13.893929979763895,
+        "lng": -14.315902785747175
+      }
+    },
+    "specs": {
+      "netSize": 117,
+      "grossSize": 140,
+      "rooms": "1+1",
+      "bathrooms": 2,
+      "age": 20,
+      "floor": 1,
+      "totalFloors": 10,
+      "heating": "Kombi",
+      "furnishing": "Unfurnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500646811780?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500349719476?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500732864832?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500909980392?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500764724761?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500222276996?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500387951708?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500162748038?w=800&q=80&category=house"
+    ],
+    "agent": {
+      "id": "A90",
+      "name": "Agent 16",
+      "phone": "+90 385 762 1173",
+      "email": "agent10@iwrealty.com",
+      "photo": "/images/icons/png/sydney-coastal-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": true,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-05-29T10:50:47.257Z",
+    "updatedAt": "2025-11-13T10:50:47.257Z",
+    "storeId": "store-012"
+  },
+  {
+    "id": "P07432",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Residence - Dakar",
+    "slug": "kiralik-residence-dakar-P07432",
+    "description": "Dakar, Senegal bölgesinde residence. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 906653,
+    "location": {
+      "country": "SN",
+      "city": "Dakar",
+      "district": "Dakar Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 413",
+      "coordinates": {
+        "lat": 13.95132887704734,
+        "lng": -13.605547083303005
+      }
+    },
+    "specs": {
+      "netSize": 270,
+      "grossSize": 324,
+      "rooms": "3+0",
+      "bathrooms": 2,
+      "age": 11,
+      "floor": 2,
+      "totalFloors": 7,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Furnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500960356196?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500714701400?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500887558350?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500266839828?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500051008879?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500515461765?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500728101047?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500583141842?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500780870515?w=800&q=80&category=architecture"
+    ],
+    "agent": {
+      "id": "A96",
+      "name": "Agent 35",
+      "phone": "+84 934 754 8621",
+      "email": "agent55@iwrealty.com",
+      "photo": "/images/icons/png/antalya-investment-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": false,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": true,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-01-25T10:50:47.257Z",
+    "updatedAt": "2025-11-13T10:50:47.257Z",
+    "storeId": "store-006"
+  },
+  {
+    "id": "P07433",
+    "type": "sale",
+    "category": {
+      "main": "commercial",
+      "sub": "hospital"
+    },
+    "title": "Satılık Hastane - Senegal Central",
+    "slug": "satilik-hastane-senegal-central-P07433",
+    "description": "Senegal Central, Senegal bölgesinde hastane. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 21579989,
+    "location": {
+      "country": "SN",
+      "city": "Senegal Central",
+      "district": "Senegal Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 31",
+      "coordinates": {
+        "lat": 13.54587119926746,
+        "lng": -13.923650837888001
+      }
+    },
+    "specs": {
+      "netSize": 13890,
+      "grossSize": 16668,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 19,
+      "floor": 4,
+      "totalFloors": 18,
+      "heating": "Merkezi",
+      "furnishing": "Unfurnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500509693442?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500985213716?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500247507458?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500204261158?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500015507995?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500918181442?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500695398220?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500646751697?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500040468690?w=800&q=80&category=house"
+    ],
+    "agent": {
+      "id": "A88",
+      "name": "Agent 15",
+      "phone": "+84 482 361 2861",
+      "email": "agent39@iwrealty.com",
+      "photo": "/images/icons/png/london-prime-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": true,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-05-23T10:50:47.257Z",
+    "updatedAt": "2025-11-13T10:50:47.257Z",
+    "storeId": "store-007"
+  },
+  {
+    "id": "P07434",
+    "type": "rent",
+    "category": {
+      "main": "commercial",
+      "sub": "hospital"
+    },
+    "title": "Kiralık Hastane - Senegal Central",
+    "slug": "kiralik-hastane-senegal-central-P07434",
+    "description": "Senegal Central, Senegal bölgesinde hastane. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 78803900,
+    "location": {
+      "country": "SN",
+      "city": "Senegal Central",
+      "district": "Senegal Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 643",
+      "coordinates": {
+        "lat": 14.098651933093809,
+        "lng": -14.20911932879984
+      }
+    },
+    "specs": {
+      "netSize": 6490,
+      "grossSize": 7788,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 17,
+      "floor": 4,
+      "totalFloors": 19,
+      "heating": "Kombi",
+      "furnishing": "Unfurnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500374902032?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500667051858?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500075901092?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500736923583?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500414169723?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500741043649?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500248820751?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500255334677?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500072689897?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500268857806?w=800&q=80&category=house"
+    ],
+    "agent": {
+      "id": "A94",
+      "name": "Agent 86",
+      "phone": "+46 934 566 4916",
+      "email": "agent18@iwrealty.com",
+      "photo": "/images/icons/png/ankara-modern-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": false,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": true,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-02-02T10:50:47.257Z",
+    "updatedAt": "2025-11-13T10:50:47.257Z",
+    "storeId": "store-003"
+  },
+  {
+    "id": "P07435",
+    "type": "sale",
+    "category": {
+      "main": "commercial",
+      "sub": "clinic"
+    },
+    "title": "Satılık Klinik - New Senegal",
+    "slug": "satilik-klinik-new-senegal-P07435",
+    "description": "New Senegal, Senegal bölgesinde klinik. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 3355616,
+    "location": {
+      "country": "SN",
+      "city": "New Senegal",
+      "district": "New Senegal Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 911",
+      "coordinates": {
+        "lat": 14.286214639739029,
+        "lng": -13.588074855222166
+      }
+    },
+    "specs": {
+      "netSize": 1442,
+      "grossSize": 1730,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 0,
+      "floor": 9,
+      "totalFloors": 5,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500323766117?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500110627617?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500589239067?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500456843328?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500481354470?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500531520827?w=800&q=80&category=house"
+    ],
+    "agent": {
+      "id": "A46",
+      "name": "Agent 81",
+      "phone": "+81 613 216 9764",
+      "email": "agent55@iwrealty.com",
+      "photo": "/images/icons/png/antalya-investment-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": false,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": true,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-02-05T10:50:47.257Z",
+    "updatedAt": "2025-11-13T10:50:47.257Z",
+    "storeId": "store-006"
+  },
+  {
+    "id": "P07436",
+    "type": "rent",
+    "category": {
+      "main": "commercial",
+      "sub": "clinic"
+    },
+    "title": "Kiralık Klinik - Dakar",
+    "slug": "kiralik-klinik-dakar-P07436",
+    "description": "Dakar, Senegal bölgesinde klinik. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 19575926,
+    "location": {
+      "country": "SN",
+      "city": "Dakar",
+      "district": "Dakar Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 60",
+      "coordinates": {
+        "lat": 13.91916026451504,
+        "lng": -14.35711193431779
+      }
+    },
+    "specs": {
+      "netSize": 1489,
+      "grossSize": 1787,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 19,
+      "floor": 13,
+      "totalFloors": 7,
+      "heating": "Kombi",
+      "furnishing": "Furnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500469803832?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500804242239?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500687308929?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500645313126?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500852042762?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500231402119?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500092933216?w=800&q=80&category=building"
+    ],
+    "agent": {
+      "id": "A9",
+      "name": "Agent 74",
+      "phone": "+57 188 826 5133",
+      "email": "agent21@iwrealty.com",
+      "photo": "/images/icons/png/dubai-property-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": false,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": true,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-02-24T10:50:47.257Z",
+    "updatedAt": "2025-11-13T10:50:47.257Z",
+    "storeId": "store-004"
+  },
+  {
+    "id": "P07437",
+    "type": "sale",
+    "category": {
+      "main": "commercial",
+      "sub": "shop"
+    },
+    "title": "Satılık Dükkan - Senegal City",
+    "slug": "satilik-dükkan-senegal-city-P07437",
+    "description": "Senegal City, Senegal bölgesinde dükkan. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 2142699,
+    "location": {
+      "country": "SN",
+      "city": "Senegal City",
+      "district": "Senegal City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 953",
+      "coordinates": {
+        "lat": 14.40564861734401,
+        "lng": -13.83898631014448
+      }
+    },
+    "specs": {
+      "netSize": 481,
+      "grossSize": 577,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 10,
+      "floor": 7,
+      "totalFloors": 7,
+      "heating": "Klima",
+      "furnishing": "Furnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500748828836?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500633978989?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500645278323?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500162966164?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500590691372?w=800&q=80&category=house"
+    ],
+    "agent": {
+      "id": "A61",
+      "name": "Agent 96",
+      "phone": "+81 562 773 7652",
+      "email": "agent67@iwrealty.com",
+      "photo": "/images/icons/png/ny-skyline-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": true,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-08-19T10:50:47.257Z",
+    "updatedAt": "2025-11-13T10:50:47.257Z",
+    "storeId": "store-008"
+  },
+  {
+    "id": "P07438",
+    "type": "rent",
+    "category": {
+      "main": "commercial",
+      "sub": "shop"
+    },
+    "title": "Kiralık Dükkan - Senegal Central",
+    "slug": "kiralik-dükkan-senegal-central-P07438",
+    "description": "Senegal Central, Senegal bölgesinde dükkan. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 1300958,
+    "location": {
+      "country": "SN",
+      "city": "Senegal Central",
+      "district": "Senegal Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 75",
+      "coordinates": {
+        "lat": 13.82974748940855,
+        "lng": -13.587584783725688
+      }
+    },
+    "specs": {
+      "netSize": 121,
+      "grossSize": 145,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 8,
+      "floor": 13,
+      "totalFloors": 9,
+      "heating": "Kombi",
+      "furnishing": "Unfurnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500711932683?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500227695935?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500227698875?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500386946319?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500987917460?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500166398932?w=800&q=80&category=interior"
+    ],
+    "agent": {
+      "id": "A74",
+      "name": "Agent 95",
+      "phone": "+58 955 789 1236",
+      "email": "agent89@iwrealty.com",
+      "photo": "/images/icons/png/luxury-homes-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": true,
+      "hasSecurity": true
+    },
+    "createdAt": "2024-12-21T10:50:47.257Z",
+    "updatedAt": "2025-11-13T10:50:47.257Z",
+    "storeId": "store-002"
+  },
+  {
+    "id": "P07439",
+    "type": "sale",
+    "category": {
+      "main": "commercial",
+      "sub": "office"
+    },
+    "title": "Satılık Ofis - New Senegal",
+    "slug": "satilik-ofis-new-senegal-P07439",
+    "description": "New Senegal, Senegal bölgesinde ofis. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 7347934,
+    "location": {
+      "country": "SN",
+      "city": "New Senegal",
+      "district": "New Senegal Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 875",
+      "coordinates": {
+        "lat": 13.884467533717654,
+        "lng": -13.942759805541163
+      }
+    },
+    "specs": {
+      "netSize": 442,
+      "grossSize": 530,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 18,
+      "floor": 11,
+      "totalFloors": 6,
+      "heating": "Klima",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500038852960?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500093906358?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500421844284?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500166258533?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500722151791?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500910145274?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500663361671?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500633384865?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500837340539?w=800&q=80&category=house"
+    ],
+    "agent": {
+      "id": "A85",
+      "name": "Agent 24",
+      "phone": "+44 877 545 5210",
+      "email": "agent10@iwrealty.com",
+      "photo": "/images/icons/png/dubai-property-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": false,
+      "hasBalcony": false,
+      "hasGarden": true,
+      "hasPool": true,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-01-26T10:50:47.257Z",
+    "updatedAt": "2025-11-13T10:50:47.257Z",
+    "storeId": "store-004"
+  },
+  {
+    "id": "P07440",
+    "type": "rent",
+    "category": {
+      "main": "commercial",
+      "sub": "office"
+    },
+    "title": "Kiralık Ofis - Senegal Central",
+    "slug": "kiralik-ofis-senegal-central-P07440",
+    "description": "Senegal Central, Senegal bölgesinde ofis. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 4893947,
+    "location": {
+      "country": "SN",
+      "city": "Senegal Central",
+      "district": "Senegal Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 613",
+      "coordinates": {
+        "lat": 13.937549888698005,
+        "lng": -14.351941453953156
+      }
+    },
+    "specs": {
+      "netSize": 379,
+      "grossSize": 455,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 1,
+      "floor": 9,
+      "totalFloors": 17,
+      "heating": "Kombi",
+      "furnishing": "Unfurnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500833756332?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500376281839?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500896760214?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500218046094?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500399737566?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500658477678?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500704013869?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500825349486?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500684663770?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500046971655?w=800&q=80&category=building"
+    ],
+    "agent": {
+      "id": "A38",
+      "name": "Agent 61",
+      "phone": "+79 287 297 7913",
+      "email": "agent52@iwrealty.com",
+      "photo": "/images/icons/png/london-prime-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": false,
+      "hasBalcony": false,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-10-19T10:50:47.257Z",
+    "updatedAt": "2025-11-13T10:50:47.257Z",
+    "storeId": "store-007"
+  },
+  {
+    "id": "P07441",
+    "type": "sale",
+    "category": {
+      "main": "commercial",
+      "sub": "mall"
+    },
+    "title": "Satılık AVM - Dakar",
+    "slug": "satilik-avm-dakar-P07441",
+    "description": "Dakar, Senegal bölgesinde avm. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 434287637,
+    "location": {
+      "country": "SN",
+      "city": "Dakar",
+      "district": "Dakar Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 231",
+      "coordinates": {
+        "lat": 13.896588928922712,
+        "lng": -14.264187942685767
+      }
+    },
+    "specs": {
+      "netSize": 36079,
+      "grossSize": 43295,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 13,
+      "floor": 1,
+      "totalFloors": 15,
+      "heating": "Klima",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500773871534?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500003136120?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500636567358?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500848828264?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500317565185?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500447292071?w=800&q=80&category=building"
+    ],
+    "agent": {
+      "id": "A4",
+      "name": "Agent 10",
+      "phone": "+37 957 206 3638",
+      "email": "agent71@iwrealty.com",
+      "photo": "/images/icons/png/ankara-modern-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-10-21T10:50:47.257Z",
+    "updatedAt": "2025-11-13T10:50:47.257Z",
+    "storeId": "store-003"
+  },
+  {
+    "id": "P07442",
+    "type": "rent",
+    "category": {
+      "main": "commercial",
+      "sub": "mall"
+    },
+    "title": "Kiralık AVM - New Senegal",
+    "slug": "kiralik-avm-new-senegal-P07442",
+    "description": "New Senegal, Senegal bölgesinde avm. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 306936743,
+    "location": {
+      "country": "SN",
+      "city": "New Senegal",
+      "district": "New Senegal Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 935",
+      "coordinates": {
+        "lat": 13.936820718692669,
+        "lng": -14.418357223130762
+      }
+    },
+    "specs": {
+      "netSize": 15453,
+      "grossSize": 18544,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 9,
+      "floor": 6,
+      "totalFloors": 10,
+      "heating": "Kombi",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500794543151?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500848919090?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500246487660?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500228791069?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500849985095?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500792955793?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500375754088?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500066134474?w=800&q=80&category=building"
+    ],
+    "agent": {
+      "id": "A49",
+      "name": "Agent 63",
+      "phone": "+20 843 896 4122",
+      "email": "agent80@iwrealty.com",
+      "photo": "/images/icons/png/ny-skyline-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-04-22T10:50:47.257Z",
+    "updatedAt": "2025-11-13T10:50:47.257Z",
+    "storeId": "store-008"
+  },
+  {
+    "id": "P07443",
+    "type": "sale",
+    "category": {
+      "main": "commercial",
+      "sub": "hotel"
+    },
+    "title": "Satılık Otel - Senegal Central",
+    "slug": "satilik-otel-senegal-central-P07443",
+    "description": "Senegal Central, Senegal bölgesinde otel. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 26446431,
+    "location": {
+      "country": "SN",
+      "city": "Senegal Central",
+      "district": "Senegal Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 363",
+      "coordinates": {
+        "lat": 13.727286045547396,
+        "lng": -14.309090411379291
+      }
+    },
+    "specs": {
+      "netSize": 22538,
+      "grossSize": 27046,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 6,
+      "floor": 10,
+      "totalFloors": 17,
+      "heating": "Kombi",
+      "furnishing": "Furnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500912311615?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500840042885?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500525982326?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500655339656?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500876876513?w=800&q=80&category=real-estate"
+    ],
+    "agent": {
+      "id": "A100",
+      "name": "Agent 65",
+      "phone": "+77 706 520 8481",
+      "email": "agent83@iwrealty.com",
+      "photo": "/images/icons/png/berlin-urban-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-09-15T10:50:47.257Z",
+    "updatedAt": "2025-11-13T10:50:47.257Z",
+    "storeId": "store-009"
+  },
+  {
+    "id": "P07444",
+    "type": "rent",
+    "category": {
+      "main": "commercial",
+      "sub": "hotel"
+    },
+    "title": "Kiralık Otel - Senegal City",
+    "slug": "kiralik-otel-senegal-city-P07444",
+    "description": "Senegal City, Senegal bölgesinde otel. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 76330685,
+    "location": {
+      "country": "SN",
+      "city": "Senegal City",
+      "district": "Senegal City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 903",
+      "coordinates": {
+        "lat": 13.504606158924254,
+        "lng": -14.28731189454311
+      }
+    },
+    "specs": {
+      "netSize": 5086,
+      "grossSize": 6103,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 3,
+      "floor": 12,
+      "totalFloors": 20,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500129544260?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500768271199?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500475081741?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500867005918?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500286696443?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500875565197?w=800&q=80&category=building"
+    ],
+    "agent": {
+      "id": "A20",
+      "name": "Agent 52",
+      "phone": "+18 943 692 4494",
+      "email": "agent39@iwrealty.com",
+      "photo": "/images/icons/png/izmir-sahil-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": true,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-02-04T10:50:47.257Z",
+    "updatedAt": "2025-11-13T10:50:47.257Z",
+    "storeId": "store-005"
+  },
+  {
+    "id": "P07445",
+    "type": "sale",
+    "category": {
+      "main": "commercial",
+      "sub": "restaurant"
+    },
+    "title": "Satılık Restoran - Senegal Central",
+    "slug": "satilik-restoran-senegal-central-P07445",
+    "description": "Senegal Central, Senegal bölgesinde restoran. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 4982008,
+    "location": {
+      "country": "SN",
+      "city": "Senegal Central",
+      "district": "Senegal Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 769",
+      "coordinates": {
+        "lat": 13.577669816059565,
+        "lng": -14.464452760432454
+      }
+    },
+    "specs": {
+      "netSize": 1170,
+      "grossSize": 1404,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 8,
+      "floor": 4,
+      "totalFloors": 12,
+      "heating": "Klima",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500117346394?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500184771982?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500253008273?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500571105121?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500519292469?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500664521691?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500353442740?w=800&q=80&category=architecture"
+    ],
+    "agent": {
+      "id": "A48",
+      "name": "Agent 32",
+      "phone": "+37 384 605 9860",
+      "email": "agent95@iwrealty.com",
+      "photo": "/images/icons/png/ankara-modern-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-02-23T10:50:47.257Z",
+    "updatedAt": "2025-11-13T10:50:47.257Z",
+    "storeId": "store-003"
+  },
+  {
+    "id": "P07446",
+    "type": "rent",
+    "category": {
+      "main": "commercial",
+      "sub": "restaurant"
+    },
+    "title": "Kiralık Restoran - Dakar",
+    "slug": "kiralik-restoran-dakar-P07446",
+    "description": "Dakar, Senegal bölgesinde restoran. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 1292683,
+    "location": {
+      "country": "SN",
+      "city": "Dakar",
+      "district": "Dakar Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 329",
+      "coordinates": {
+        "lat": 14.174598876925337,
+        "lng": -13.984264252015535
+      }
+    },
+    "specs": {
+      "netSize": 391,
+      "grossSize": 469,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 13,
+      "floor": 12,
+      "totalFloors": 13,
+      "heating": "Klima",
+      "furnishing": "Furnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500279404903?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500246206805?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500395788389?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500695593966?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500438266605?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500781909934?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500456577296?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500552409334?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500891846802?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500923487276?w=800&q=80&category=house"
+    ],
+    "agent": {
+      "id": "A49",
+      "name": "Agent 3",
+      "phone": "+45 880 861 8515",
+      "email": "agent20@iwrealty.com",
+      "photo": "/images/icons/png/berlin-urban-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": false,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-06-08T10:50:47.257Z",
+    "updatedAt": "2025-11-13T10:50:47.257Z",
+    "storeId": "store-009"
+  },
+  {
+    "id": "P07447",
+    "type": "sale",
+    "category": {
+      "main": "commercial",
+      "sub": "warehouse"
+    },
+    "title": "Satılık Depo - Senegal City",
+    "slug": "satilik-depo-senegal-city-P07447",
+    "description": "Senegal City, Senegal bölgesinde depo. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 9966777,
+    "location": {
+      "country": "SN",
+      "city": "Senegal City",
+      "district": "Senegal City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 232",
+      "coordinates": {
+        "lat": 14.1977943930263,
+        "lng": -14.418554906545229
+      }
+    },
+    "specs": {
+      "netSize": 3473,
+      "grossSize": 4168,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 5,
+      "floor": 4,
+      "totalFloors": 7,
+      "heating": "Kombi",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500109182085?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500272932442?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500204265654?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500956615562?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500941638085?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500132947775?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500797637805?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500202259303?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500487841249?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500655528025?w=800&q=80&category=real-estate"
+    ],
+    "agent": {
+      "id": "A99",
+      "name": "Agent 97",
+      "phone": "+63 188 776 6418",
+      "email": "agent68@iwrealty.com",
+      "photo": "/images/icons/png/london-prime-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-09-10T10:50:47.257Z",
+    "updatedAt": "2025-11-13T10:50:47.257Z",
+    "storeId": "store-007"
+  },
+  {
+    "id": "P07448",
+    "type": "rent",
+    "category": {
+      "main": "commercial",
+      "sub": "warehouse"
+    },
+    "title": "Kiralık Depo - Dakar",
+    "slug": "kiralik-depo-dakar-P07448",
+    "description": "Dakar, Senegal bölgesinde depo. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 7099892,
+    "location": {
+      "country": "SN",
+      "city": "Dakar",
+      "district": "Dakar Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 709",
+      "coordinates": {
+        "lat": 14.232412133872021,
+        "lng": -14.269330342873856
+      }
+    },
+    "specs": {
+      "netSize": 8394,
+      "grossSize": 10073,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 12,
+      "floor": 11,
+      "totalFloors": 5,
+      "heating": "Klima",
+      "furnishing": "Furnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500064532362?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500029423175?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500571936919?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500990447562?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500658001414?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500831846593?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500848455247?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500243755128?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500762758802?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500084543733?w=800&q=80&category=real-estate"
+    ],
+    "agent": {
+      "id": "A6",
+      "name": "Agent 87",
+      "phone": "+28 996 809 8321",
+      "email": "agent49@iwrealty.com",
+      "photo": "/images/icons/png/ny-skyline-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2024-11-19T10:50:47.257Z",
+    "updatedAt": "2025-11-13T10:50:47.257Z",
+    "storeId": "store-008"
+  }
+]

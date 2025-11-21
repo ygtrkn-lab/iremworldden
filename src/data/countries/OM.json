@@ -1,0 +1,2361 @@
+[
+  {
+    "id": "P06575",
+    "type": "sale",
+    "category": {
+      "main": "government"
+    },
+    "title": "Satılık Okul - Muscat",
+    "slug": "satilik-okul-muscat-P06575",
+    "description": "Muscat, Oman bölgesinde okul. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 13903069,
+    "location": {
+      "country": "OM",
+      "city": "Muscat",
+      "district": "Muscat Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 888",
+      "coordinates": {
+        "lat": 20.985973601571967,
+        "lng": 57.0331900941188
+      }
+    },
+    "specs": {
+      "netSize": 1703,
+      "grossSize": 2044,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 1,
+      "floor": 9,
+      "totalFloors": 6,
+      "heating": "Klima",
+      "furnishing": "Furnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500159080333?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500695224149?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500926681250?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500798269889?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500247283804?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500911882697?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500393768429?w=800&q=80&category=architecture"
+    ],
+    "agent": {
+      "id": "A28",
+      "name": "Agent 26",
+      "phone": "+26 229 716 2345",
+      "email": "agent63@iwrealty.com",
+      "photo": "/images/icons/png/antalya-investment-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": false,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-09-10T10:50:47.249Z",
+    "updatedAt": "2025-11-13T10:50:47.249Z",
+    "storeId": "store-006"
+  },
+  {
+    "id": "P06576",
+    "type": "rent",
+    "category": {
+      "main": "government"
+    },
+    "title": "Kiralık Okul - Oman City",
+    "slug": "kiralik-okul-oman-city-P06576",
+    "description": "Oman City, Oman bölgesinde okul. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 29044730,
+    "location": {
+      "country": "OM",
+      "city": "Oman City",
+      "district": "Oman City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 346",
+      "coordinates": {
+        "lat": 21.00512077676736,
+        "lng": 57.204442864634174
+      }
+    },
+    "specs": {
+      "netSize": 1517,
+      "grossSize": 1820,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 11,
+      "floor": 8,
+      "totalFloors": 10,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500194822395?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500823589325?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500601811042?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500820997619?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500419186739?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500357388324?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500270770010?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500175550307?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500279856890?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500110155470?w=800&q=80&category=building"
+    ],
+    "agent": {
+      "id": "A8",
+      "name": "Agent 89",
+      "phone": "+80 462 525 1570",
+      "email": "agent45@iwrealty.com",
+      "photo": "/images/icons/png/berlin-urban-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": true,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-09-07T10:50:47.249Z",
+    "updatedAt": "2025-11-13T10:50:47.249Z",
+    "storeId": "store-009"
+  },
+  {
+    "id": "P06577",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Villa - Oman Central",
+    "slug": "satilik-villa-oman-central-P06577",
+    "description": "Oman Central, Oman bölgesinde villa. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 507331,
+    "location": {
+      "country": "OM",
+      "city": "Oman Central",
+      "district": "Oman Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 604",
+      "coordinates": {
+        "lat": 20.987184064954377,
+        "lng": 56.657469159633784
+      }
+    },
+    "specs": {
+      "netSize": 227,
+      "grossSize": 272,
+      "rooms": "4+0",
+      "bathrooms": 3,
+      "age": 20,
+      "floor": 1,
+      "totalFloors": 8,
+      "heating": "Kombi",
+      "furnishing": "Unfurnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500534593383?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500384873480?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500278165908?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500829726960?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500657278993?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500034181115?w=800&q=80&category=interior"
+    ],
+    "agent": {
+      "id": "A82",
+      "name": "Agent 93",
+      "phone": "+14 554 971 9368",
+      "email": "agent12@iwrealty.com",
+      "photo": "/images/icons/png/antalya-investment-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": true,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-08-11T10:50:47.249Z",
+    "updatedAt": "2025-11-13T10:50:47.249Z",
+    "storeId": "store-006"
+  },
+  {
+    "id": "P06578",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Residence - Oman Central",
+    "slug": "kiralik-residence-oman-central-P06578",
+    "description": "Oman Central, Oman bölgesinde residence. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 4934506,
+    "location": {
+      "country": "OM",
+      "city": "Oman Central",
+      "district": "Oman Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 853",
+      "coordinates": {
+        "lat": 20.658002847872492,
+        "lng": 57.245076062541564
+      }
+    },
+    "specs": {
+      "netSize": 320,
+      "grossSize": 384,
+      "rooms": "5+0",
+      "bathrooms": 3,
+      "age": 20,
+      "floor": 5,
+      "totalFloors": 13,
+      "heating": "Merkezi",
+      "furnishing": "Unfurnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500984385248?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500067881459?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500545551009?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500995399249?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500863893307?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500786977303?w=800&q=80&category=building"
+    ],
+    "agent": {
+      "id": "A44",
+      "name": "Agent 46",
+      "phone": "+65 201 850 5309",
+      "email": "agent22@iwrealty.com",
+      "photo": "/images/icons/png/ny-skyline-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": true,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-09-11T10:50:47.249Z",
+    "updatedAt": "2025-11-13T10:50:47.249Z",
+    "storeId": "store-008"
+  },
+  {
+    "id": "P06579",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Residence - Oman City",
+    "slug": "satilik-residence-oman-city-P06579",
+    "description": "Oman City, Oman bölgesinde residence. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 4653041,
+    "location": {
+      "country": "OM",
+      "city": "Oman City",
+      "district": "Oman City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 534",
+      "coordinates": {
+        "lat": 21.323954223802076,
+        "lng": 57.30215519403303
+      }
+    },
+    "specs": {
+      "netSize": 247,
+      "grossSize": 296,
+      "rooms": "1+0",
+      "bathrooms": 3,
+      "age": 7,
+      "floor": 14,
+      "totalFloors": 13,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Unfurnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500494236289?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500723013733?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500511998533?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500379934728?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500592417610?w=800&q=80&category=house"
+    ],
+    "agent": {
+      "id": "A98",
+      "name": "Agent 51",
+      "phone": "+74 908 464 7758",
+      "email": "agent11@iwrealty.com",
+      "photo": "/images/icons/png/izmir-sahil-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-02-06T10:50:47.249Z",
+    "updatedAt": "2025-11-13T10:50:47.249Z",
+    "storeId": "store-005"
+  },
+  {
+    "id": "P06580",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Villa - Oman City",
+    "slug": "kiralik-villa-oman-city-P06580",
+    "description": "Oman City, Oman bölgesinde villa. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 5466203,
+    "location": {
+      "country": "OM",
+      "city": "Oman City",
+      "district": "Oman City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 115",
+      "coordinates": {
+        "lat": 21.49362312584014,
+        "lng": 56.55708321845421
+      }
+    },
+    "specs": {
+      "netSize": 209,
+      "grossSize": 251,
+      "rooms": "4+2",
+      "bathrooms": 4,
+      "age": 11,
+      "floor": 8,
+      "totalFloors": 14,
+      "heating": "Klima",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500475450388?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500559045237?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500884996690?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500112829623?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500740280631?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500988025360?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500085166021?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500534656484?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500854861375?w=800&q=80&category=architecture"
+    ],
+    "agent": {
+      "id": "A53",
+      "name": "Agent 49",
+      "phone": "+68 719 730 3454",
+      "email": "agent48@iwrealty.com",
+      "photo": "/images/icons/png/paris-heritage-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2024-12-26T10:50:47.249Z",
+    "updatedAt": "2025-11-13T10:50:47.249Z",
+    "storeId": "store-010"
+  },
+  {
+    "id": "P06581",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Daire - Muscat",
+    "slug": "satilik-daire-muscat-P06581",
+    "description": "Muscat, Oman bölgesinde daire. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 6558720,
+    "location": {
+      "country": "OM",
+      "city": "Muscat",
+      "district": "Muscat Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 465",
+      "coordinates": {
+        "lat": 20.52194545767675,
+        "lng": 57.10546745711027
+      }
+    },
+    "specs": {
+      "netSize": 384,
+      "grossSize": 461,
+      "rooms": "4+2",
+      "bathrooms": 2,
+      "age": 9,
+      "floor": 7,
+      "totalFloors": 11,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500872950079?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500424273866?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500441411542?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500276860946?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500568217973?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500004998728?w=800&q=80&category=real-estate"
+    ],
+    "agent": {
+      "id": "A67",
+      "name": "Agent 64",
+      "phone": "+46 852 836 8681",
+      "email": "agent14@iwrealty.com",
+      "photo": "/images/icons/png/london-prime-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-03-10T10:50:47.249Z",
+    "updatedAt": "2025-11-13T10:50:47.249Z",
+    "storeId": "store-007"
+  },
+  {
+    "id": "P06582",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Daire - Oman Central",
+    "slug": "kiralik-daire-oman-central-P06582",
+    "description": "Oman Central, Oman bölgesinde daire. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 1105999,
+    "location": {
+      "country": "OM",
+      "city": "Oman Central",
+      "district": "Oman Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 841",
+      "coordinates": {
+        "lat": 21.08763795564371,
+        "lng": 56.81387068999727
+      }
+    },
+    "specs": {
+      "netSize": 462,
+      "grossSize": 554,
+      "rooms": "4+1",
+      "bathrooms": 4,
+      "age": 16,
+      "floor": 5,
+      "totalFloors": 7,
+      "heating": "Merkezi",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500503943433?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500749809126?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500239851054?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500958017184?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500600648456?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500309884148?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500974847962?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500245790883?w=800&q=80&category=house"
+    ],
+    "agent": {
+      "id": "A29",
+      "name": "Agent 34",
+      "phone": "+76 213 920 1595",
+      "email": "agent58@iwrealty.com",
+      "photo": "/images/icons/png/antalya-investment-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": true,
+      "hasSecurity": true
+    },
+    "createdAt": "2024-12-20T10:50:47.249Z",
+    "updatedAt": "2025-11-13T10:50:47.249Z",
+    "storeId": "store-006"
+  },
+  {
+    "id": "P06583",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Daire - Oman City",
+    "slug": "satilik-daire-oman-city-P06583",
+    "description": "Oman City, Oman bölgesinde daire. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 11298099,
+    "location": {
+      "country": "OM",
+      "city": "Oman City",
+      "district": "Oman City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 374",
+      "coordinates": {
+        "lat": 20.67722760143537,
+        "lng": 56.9581536258978
+      }
+    },
+    "specs": {
+      "netSize": 270,
+      "grossSize": 324,
+      "rooms": "5+1",
+      "bathrooms": 1,
+      "age": 11,
+      "floor": 10,
+      "totalFloors": 19,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Unfurnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500043458397?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500884198109?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500863278451?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500404764813?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500152410446?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500919778943?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500731615937?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500300936144?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500615991801?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500748635556?w=800&q=80&category=building"
+    ],
+    "agent": {
+      "id": "A54",
+      "name": "Agent 68",
+      "phone": "+94 786 207 4960",
+      "email": "agent17@iwrealty.com",
+      "photo": "/images/icons/png/paris-heritage-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-08-20T10:50:47.249Z",
+    "updatedAt": "2025-11-13T10:50:47.249Z",
+    "storeId": "store-010"
+  },
+  {
+    "id": "P06584",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Daire - Oman City",
+    "slug": "kiralik-daire-oman-city-P06584",
+    "description": "Oman City, Oman bölgesinde daire. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 11482933,
+    "location": {
+      "country": "OM",
+      "city": "Oman City",
+      "district": "Oman City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 471",
+      "coordinates": {
+        "lat": 21.229788282090993,
+        "lng": 56.88086503100462
+      }
+    },
+    "specs": {
+      "netSize": 358,
+      "grossSize": 430,
+      "rooms": "5+2",
+      "bathrooms": 4,
+      "age": 8,
+      "floor": 2,
+      "totalFloors": 7,
+      "heating": "Merkezi",
+      "furnishing": "Furnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500926425447?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500167969450?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500306062604?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500275254946?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500633959571?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500778216758?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500693067252?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500714304256?w=800&q=80&category=interior"
+    ],
+    "agent": {
+      "id": "A42",
+      "name": "Agent 13",
+      "phone": "+35 432 961 7795",
+      "email": "agent9@iwrealty.com",
+      "photo": "/images/icons/png/london-prime-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": false,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": true,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-09-03T10:50:47.249Z",
+    "updatedAt": "2025-11-13T10:50:47.249Z",
+    "storeId": "store-007"
+  },
+  {
+    "id": "P06585",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Villa - Oman City",
+    "slug": "satilik-villa-oman-city-P06585",
+    "description": "Oman City, Oman bölgesinde villa. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 7589876,
+    "location": {
+      "country": "OM",
+      "city": "Oman City",
+      "district": "Oman City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 259",
+      "coordinates": {
+        "lat": 20.638436239262944,
+        "lng": 57.07320853673851
+      }
+    },
+    "specs": {
+      "netSize": 90,
+      "grossSize": 108,
+      "rooms": "2+2",
+      "bathrooms": 4,
+      "age": 4,
+      "floor": 2,
+      "totalFloors": 11,
+      "heating": "Kombi",
+      "furnishing": "Furnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500593146806?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500434671231?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500436872701?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500784993601?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500458276786?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500714110160?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500165153474?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500478285224?w=800&q=80&category=building"
+    ],
+    "agent": {
+      "id": "A31",
+      "name": "Agent 40",
+      "phone": "+86 577 196 2332",
+      "email": "agent47@iwrealty.com",
+      "photo": "/images/icons/png/sydney-coastal-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-09-08T10:50:47.249Z",
+    "updatedAt": "2025-11-13T10:50:47.249Z",
+    "storeId": "store-012"
+  },
+  {
+    "id": "P06586",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Villa - New Oman",
+    "slug": "kiralik-villa-new-oman-P06586",
+    "description": "New Oman, Oman bölgesinde villa. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 9380101,
+    "location": {
+      "country": "OM",
+      "city": "New Oman",
+      "district": "New Oman Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 240",
+      "coordinates": {
+        "lat": 21.33534611043046,
+        "lng": 57.47424572205327
+      }
+    },
+    "specs": {
+      "netSize": 227,
+      "grossSize": 272,
+      "rooms": "4+0",
+      "bathrooms": 2,
+      "age": 10,
+      "floor": 14,
+      "totalFloors": 5,
+      "heating": "Klima",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500829556160?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500013045297?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500777626502?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500136131946?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500819504318?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500197269862?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500521312184?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500584984737?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500096760642?w=800&q=80&category=architecture"
+    ],
+    "agent": {
+      "id": "A47",
+      "name": "Agent 56",
+      "phone": "+20 739 311 5301",
+      "email": "agent59@iwrealty.com",
+      "photo": "/images/icons/png/berlin-urban-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": true,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-10-31T10:50:47.249Z",
+    "updatedAt": "2025-11-13T10:50:47.249Z",
+    "storeId": "store-009"
+  },
+  {
+    "id": "P06587",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Residence - New Oman",
+    "slug": "satilik-residence-new-oman-P06587",
+    "description": "New Oman, Oman bölgesinde residence. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 1419003,
+    "location": {
+      "country": "OM",
+      "city": "New Oman",
+      "district": "New Oman Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 372",
+      "coordinates": {
+        "lat": 20.60755364941684,
+        "lng": 57.066067088263736
+      }
+    },
+    "specs": {
+      "netSize": 258,
+      "grossSize": 310,
+      "rooms": "4+2",
+      "bathrooms": 3,
+      "age": 11,
+      "floor": 12,
+      "totalFloors": 17,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Unfurnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500469011303?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500822174546?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500235272080?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500115037663?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500759269105?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500121498595?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500470119010?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500174416881?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500162615456?w=800&q=80&category=interior"
+    ],
+    "agent": {
+      "id": "A13",
+      "name": "Agent 83",
+      "phone": "+53 931 779 1316",
+      "email": "agent85@iwrealty.com",
+      "photo": "/images/icons/png/sydney-coastal-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-01-08T10:50:47.249Z",
+    "updatedAt": "2025-11-13T10:50:47.249Z",
+    "storeId": "store-012"
+  },
+  {
+    "id": "P06588",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Villa - Oman City",
+    "slug": "kiralik-villa-oman-city-P06588",
+    "description": "Oman City, Oman bölgesinde villa. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 11281852,
+    "location": {
+      "country": "OM",
+      "city": "Oman City",
+      "district": "Oman City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 864",
+      "coordinates": {
+        "lat": 20.511914397757206,
+        "lng": 56.62443537630976
+      }
+    },
+    "specs": {
+      "netSize": 308,
+      "grossSize": 370,
+      "rooms": "4+2",
+      "bathrooms": 3,
+      "age": 1,
+      "floor": 13,
+      "totalFloors": 6,
+      "heating": "Merkezi",
+      "furnishing": "Furnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500378457523?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500348475793?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500645594248?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500741183473?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500808806071?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500827387890?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500309462943?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500912357080?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500567539711?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500727628216?w=800&q=80&category=house"
+    ],
+    "agent": {
+      "id": "A62",
+      "name": "Agent 47",
+      "phone": "+39 669 191 3899",
+      "email": "agent74@iwrealty.com",
+      "photo": "/images/icons/png/ankara-modern-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-09-22T10:50:47.249Z",
+    "updatedAt": "2025-11-13T10:50:47.249Z",
+    "storeId": "store-003"
+  },
+  {
+    "id": "P06589",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Residence - New Oman",
+    "slug": "satilik-residence-new-oman-P06589",
+    "description": "New Oman, Oman bölgesinde residence. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 3787340,
+    "location": {
+      "country": "OM",
+      "city": "New Oman",
+      "district": "New Oman Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 681",
+      "coordinates": {
+        "lat": 21.169316337752768,
+        "lng": 56.91306152246806
+      }
+    },
+    "specs": {
+      "netSize": 481,
+      "grossSize": 577,
+      "rooms": "2+2",
+      "bathrooms": 3,
+      "age": 18,
+      "floor": 13,
+      "totalFloors": 5,
+      "heating": "Merkezi",
+      "furnishing": "Furnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500543787471?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500642979768?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500091528237?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500776785177?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500388623241?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500883123850?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500252448810?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500630872903?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500005222779?w=800&q=80&category=real-estate"
+    ],
+    "agent": {
+      "id": "A78",
+      "name": "Agent 62",
+      "phone": "+43 748 288 4974",
+      "email": "agent74@iwrealty.com",
+      "photo": "/images/icons/png/sydney-coastal-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-08-26T10:50:47.249Z",
+    "updatedAt": "2025-11-13T10:50:47.249Z",
+    "storeId": "store-012"
+  },
+  {
+    "id": "P06590",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Müstakil Ev - Oman Central",
+    "slug": "kiralik-müstakil-ev-oman-central-P06590",
+    "description": "Oman Central, Oman bölgesinde müstakil ev. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 2565969,
+    "location": {
+      "country": "OM",
+      "city": "Oman Central",
+      "district": "Oman Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 892",
+      "coordinates": {
+        "lat": 20.63892588339875,
+        "lng": 56.53592990882102
+      }
+    },
+    "specs": {
+      "netSize": 397,
+      "grossSize": 476,
+      "rooms": "5+1",
+      "bathrooms": 1,
+      "age": 3,
+      "floor": 4,
+      "totalFloors": 8,
+      "heating": "Kombi",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500954962377?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500075727016?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500909894604?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500700342855?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500466253930?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500379681925?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500410526165?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500792197644?w=800&q=80&category=real-estate"
+    ],
+    "agent": {
+      "id": "A31",
+      "name": "Agent 51",
+      "phone": "+80 348 293 3067",
+      "email": "agent67@iwrealty.com",
+      "photo": "/images/icons/png/london-prime-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-02-08T10:50:47.249Z",
+    "updatedAt": "2025-11-13T10:50:47.249Z",
+    "storeId": "store-007"
+  },
+  {
+    "id": "P06591",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Müstakil Ev - Oman Central",
+    "slug": "satilik-müstakil-ev-oman-central-P06591",
+    "description": "Oman Central, Oman bölgesinde müstakil ev. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 12779270,
+    "location": {
+      "country": "OM",
+      "city": "Oman Central",
+      "district": "Oman Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 713",
+      "coordinates": {
+        "lat": 20.847552731979494,
+        "lng": 56.96658564313637
+      }
+    },
+    "specs": {
+      "netSize": 133,
+      "grossSize": 160,
+      "rooms": "1+1",
+      "bathrooms": 1,
+      "age": 1,
+      "floor": 9,
+      "totalFloors": 17,
+      "heating": "Kombi",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500161309402?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500192650857?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500347644840?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500109724614?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500421436628?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500288455162?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500230402914?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500919100843?w=800&q=80&category=building"
+    ],
+    "agent": {
+      "id": "A25",
+      "name": "Agent 6",
+      "phone": "+54 863 254 6397",
+      "email": "agent97@iwrealty.com",
+      "photo": "/images/icons/png/ny-skyline-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": true,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-01-31T10:50:47.249Z",
+    "updatedAt": "2025-11-13T10:50:47.249Z",
+    "storeId": "store-008"
+  },
+  {
+    "id": "P06592",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Müstakil Ev - New Oman",
+    "slug": "kiralik-müstakil-ev-new-oman-P06592",
+    "description": "New Oman, Oman bölgesinde müstakil ev. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 6902607,
+    "location": {
+      "country": "OM",
+      "city": "New Oman",
+      "district": "New Oman Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 370",
+      "coordinates": {
+        "lat": 20.773875167409273,
+        "lng": 57.00947339506102
+      }
+    },
+    "specs": {
+      "netSize": 232,
+      "grossSize": 278,
+      "rooms": "4+1",
+      "bathrooms": 3,
+      "age": 17,
+      "floor": 1,
+      "totalFloors": 12,
+      "heating": "Kombi",
+      "furnishing": "Furnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500211121544?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500868418045?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500597384747?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500439637586?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500884300157?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500632812906?w=800&q=80&category=real-estate"
+    ],
+    "agent": {
+      "id": "A48",
+      "name": "Agent 92",
+      "phone": "+30 368 321 1154",
+      "email": "agent67@iwrealty.com",
+      "photo": "/images/icons/png/ankara-modern-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": true,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-08-26T10:50:47.249Z",
+    "updatedAt": "2025-11-13T10:50:47.249Z",
+    "storeId": "store-003"
+  },
+  {
+    "id": "P06593",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Daire - Oman Central",
+    "slug": "satilik-daire-oman-central-P06593",
+    "description": "Oman Central, Oman bölgesinde daire. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 13332094,
+    "location": {
+      "country": "OM",
+      "city": "Oman Central",
+      "district": "Oman Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 30",
+      "coordinates": {
+        "lat": 20.80114624673566,
+        "lng": 56.728388075016596
+      }
+    },
+    "specs": {
+      "netSize": 289,
+      "grossSize": 347,
+      "rooms": "4+2",
+      "bathrooms": 2,
+      "age": 16,
+      "floor": 12,
+      "totalFloors": 15,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500842378056?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500525156891?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500131593663?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500002992910?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500177289121?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500818649782?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500684512005?w=800&q=80&category=interior"
+    ],
+    "agent": {
+      "id": "A10",
+      "name": "Agent 48",
+      "phone": "+59 882 677 6872",
+      "email": "agent67@iwrealty.com",
+      "photo": "/images/icons/png/sydney-coastal-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": true,
+      "hasPool": true,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-10-31T10:50:47.249Z",
+    "updatedAt": "2025-11-13T10:50:47.249Z",
+    "storeId": "store-012"
+  },
+  {
+    "id": "P06594",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Müstakil Ev - Muscat",
+    "slug": "kiralik-müstakil-ev-muscat-P06594",
+    "description": "Muscat, Oman bölgesinde müstakil ev. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 6370363,
+    "location": {
+      "country": "OM",
+      "city": "Muscat",
+      "district": "Muscat Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 699",
+      "coordinates": {
+        "lat": 21.138688805044083,
+        "lng": 57.21021829105119
+      }
+    },
+    "specs": {
+      "netSize": 397,
+      "grossSize": 476,
+      "rooms": "4+0",
+      "bathrooms": 1,
+      "age": 6,
+      "floor": 2,
+      "totalFloors": 11,
+      "heating": "Klima",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500866662228?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500539360428?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500039075712?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500405626387?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500193530706?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500126217944?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500752687728?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500907428791?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500191020583?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500489137393?w=800&q=80&category=interior"
+    ],
+    "agent": {
+      "id": "A80",
+      "name": "Agent 45",
+      "phone": "+18 399 382 1866",
+      "email": "agent89@iwrealty.com",
+      "photo": "/images/icons/png/luxury-homes-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-05-12T10:50:47.249Z",
+    "updatedAt": "2025-11-13T10:50:47.249Z",
+    "storeId": "store-002"
+  },
+  {
+    "id": "P06595",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Villa - Muscat",
+    "slug": "satilik-villa-muscat-P06595",
+    "description": "Muscat, Oman bölgesinde villa. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 5746658,
+    "location": {
+      "country": "OM",
+      "city": "Muscat",
+      "district": "Muscat Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 256",
+      "coordinates": {
+        "lat": 21.22716207424049,
+        "lng": 56.51422045048528
+      }
+    },
+    "specs": {
+      "netSize": 266,
+      "grossSize": 319,
+      "rooms": "3+1",
+      "bathrooms": 3,
+      "age": 9,
+      "floor": 6,
+      "totalFloors": 13,
+      "heating": "Kombi",
+      "furnishing": "Unfurnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500601782687?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500059858368?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500554476096?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500579098594?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500010986064?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500787336343?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500083595746?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500520925932?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500846622370?w=800&q=80&category=real-estate"
+    ],
+    "agent": {
+      "id": "A100",
+      "name": "Agent 9",
+      "phone": "+42 689 529 3906",
+      "email": "agent10@iwrealty.com",
+      "photo": "/images/icons/png/berlin-urban-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": true,
+      "hasPool": true,
+      "hasSecurity": true
+    },
+    "createdAt": "2024-11-16T10:50:47.249Z",
+    "updatedAt": "2025-11-13T10:50:47.249Z",
+    "storeId": "store-009"
+  },
+  {
+    "id": "P06596",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Müstakil Ev - New Oman",
+    "slug": "kiralik-müstakil-ev-new-oman-P06596",
+    "description": "New Oman, Oman bölgesinde müstakil ev. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 9679354,
+    "location": {
+      "country": "OM",
+      "city": "New Oman",
+      "district": "New Oman Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 988",
+      "coordinates": {
+        "lat": 20.850182267053267,
+        "lng": 57.17593142915677
+      }
+    },
+    "specs": {
+      "netSize": 185,
+      "grossSize": 222,
+      "rooms": "2+2",
+      "bathrooms": 3,
+      "age": 19,
+      "floor": 15,
+      "totalFloors": 6,
+      "heating": "Klima",
+      "furnishing": "Furnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500685543929?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500429252060?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500717472951?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500599713621?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500610926129?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500262180078?w=800&q=80&category=building"
+    ],
+    "agent": {
+      "id": "A83",
+      "name": "Agent 57",
+      "phone": "+72 515 196 7847",
+      "email": "agent77@iwrealty.com",
+      "photo": "/images/icons/png/london-prime-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-10-11T10:50:47.249Z",
+    "updatedAt": "2025-11-13T10:50:47.249Z",
+    "storeId": "store-007"
+  },
+  {
+    "id": "P06597",
+    "type": "sale",
+    "category": {
+      "main": "commercial",
+      "sub": "hospital"
+    },
+    "title": "Satılık Hastane - Muscat",
+    "slug": "satilik-hastane-muscat-P06597",
+    "description": "Muscat, Oman bölgesinde hastane. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 18668277,
+    "location": {
+      "country": "OM",
+      "city": "Muscat",
+      "district": "Muscat Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 359",
+      "coordinates": {
+        "lat": 20.735175656164774,
+        "lng": 57.423861451533774
+      }
+    },
+    "specs": {
+      "netSize": 6542,
+      "grossSize": 7850,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 20,
+      "floor": 12,
+      "totalFloors": 5,
+      "heating": "Merkezi",
+      "furnishing": "Unfurnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500610011541?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500025837836?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500565816480?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500808425888?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500114473121?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500228531215?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500894119287?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500361811647?w=800&q=80&category=architecture"
+    ],
+    "agent": {
+      "id": "A93",
+      "name": "Agent 86",
+      "phone": "+36 463 291 9572",
+      "email": "agent33@iwrealty.com",
+      "photo": "/images/icons/png/ankara-modern-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": false,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-10-20T10:50:47.249Z",
+    "updatedAt": "2025-11-13T10:50:47.249Z",
+    "storeId": "store-003"
+  },
+  {
+    "id": "P06598",
+    "type": "rent",
+    "category": {
+      "main": "commercial",
+      "sub": "hospital"
+    },
+    "title": "Kiralık Hastane - Muscat",
+    "slug": "kiralik-hastane-muscat-P06598",
+    "description": "Muscat, Oman bölgesinde hastane. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 16126778,
+    "location": {
+      "country": "OM",
+      "city": "Muscat",
+      "district": "Muscat Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 87",
+      "coordinates": {
+        "lat": 20.579779453683628,
+        "lng": 57.21306302764662
+      }
+    },
+    "specs": {
+      "netSize": 12493,
+      "grossSize": 14992,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 3,
+      "floor": 4,
+      "totalFloors": 20,
+      "heating": "Kombi",
+      "furnishing": "Unfurnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500344076168?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500378830484?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500616813069?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500384441020?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500206461560?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500426423579?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500386851875?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500290435218?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500881577503?w=800&q=80&category=interior"
+    ],
+    "agent": {
+      "id": "A66",
+      "name": "Agent 44",
+      "phone": "+77 277 570 9054",
+      "email": "agent97@iwrealty.com",
+      "photo": "/images/icons/png/antalya-investment-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-05-09T10:50:47.249Z",
+    "updatedAt": "2025-11-13T10:50:47.249Z",
+    "storeId": "store-006"
+  },
+  {
+    "id": "P06599",
+    "type": "sale",
+    "category": {
+      "main": "commercial",
+      "sub": "clinic"
+    },
+    "title": "Satılık Klinik - Muscat",
+    "slug": "satilik-klinik-muscat-P06599",
+    "description": "Muscat, Oman bölgesinde klinik. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 4662707,
+    "location": {
+      "country": "OM",
+      "city": "Muscat",
+      "district": "Muscat Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 64",
+      "coordinates": {
+        "lat": 21.15274132473116,
+        "lng": 56.5002579972895
+      }
+    },
+    "specs": {
+      "netSize": 1297,
+      "grossSize": 1556,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 5,
+      "floor": 13,
+      "totalFloors": 15,
+      "heating": "Merkezi",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500386433287?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500642860614?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500687556475?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500618140463?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500985439385?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500724835357?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500230974925?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500016526094?w=800&q=80&category=interior"
+    ],
+    "agent": {
+      "id": "A42",
+      "name": "Agent 48",
+      "phone": "+68 201 827 4105",
+      "email": "agent7@iwrealty.com",
+      "photo": "/images/icons/png/izmir-sahil-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": false,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": true,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-01-17T10:50:47.249Z",
+    "updatedAt": "2025-11-13T10:50:47.249Z",
+    "storeId": "store-005"
+  },
+  {
+    "id": "P06600",
+    "type": "rent",
+    "category": {
+      "main": "commercial",
+      "sub": "clinic"
+    },
+    "title": "Kiralık Klinik - Oman City",
+    "slug": "kiralik-klinik-oman-city-P06600",
+    "description": "Oman City, Oman bölgesinde klinik. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 12371556,
+    "location": {
+      "country": "OM",
+      "city": "Oman City",
+      "district": "Oman City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 231",
+      "coordinates": {
+        "lat": 21.39541772916911,
+        "lng": 57.317438491283944
+      }
+    },
+    "specs": {
+      "netSize": 462,
+      "grossSize": 554,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 18,
+      "floor": 12,
+      "totalFloors": 20,
+      "heating": "Klima",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500941994574?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500156709053?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500448041147?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500533528545?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500260847027?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500247104711?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500295011388?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500464665316?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500238661383?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500824102467?w=800&q=80&category=interior"
+    ],
+    "agent": {
+      "id": "A86",
+      "name": "Agent 62",
+      "phone": "+95 817 645 6429",
+      "email": "agent13@iwrealty.com",
+      "photo": "/images/icons/png/ny-skyline-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2024-12-20T10:50:47.249Z",
+    "updatedAt": "2025-11-13T10:50:47.249Z",
+    "storeId": "store-008"
+  },
+  {
+    "id": "P06601",
+    "type": "sale",
+    "category": {
+      "main": "commercial",
+      "sub": "shop"
+    },
+    "title": "Satılık Dükkan - New Oman",
+    "slug": "satilik-dükkan-new-oman-P06601",
+    "description": "New Oman, Oman bölgesinde dükkan. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 945489,
+    "location": {
+      "country": "OM",
+      "city": "New Oman",
+      "district": "New Oman Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 479",
+      "coordinates": {
+        "lat": 21.14535379492083,
+        "lng": 57.37716566230952
+      }
+    },
+    "specs": {
+      "netSize": 335,
+      "grossSize": 402,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 12,
+      "floor": 2,
+      "totalFloors": 20,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Furnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500424320008?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500223063741?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500869467614?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500696846655?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500883315940?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500752282523?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500666878683?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500582047050?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500992818870?w=800&q=80&category=interior"
+    ],
+    "agent": {
+      "id": "A86",
+      "name": "Agent 7",
+      "phone": "+50 884 282 3377",
+      "email": "agent46@iwrealty.com",
+      "photo": "/images/icons/png/ny-skyline-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-05-05T10:50:47.249Z",
+    "updatedAt": "2025-11-13T10:50:47.249Z",
+    "storeId": "store-008"
+  },
+  {
+    "id": "P06602",
+    "type": "rent",
+    "category": {
+      "main": "commercial",
+      "sub": "shop"
+    },
+    "title": "Kiralık Dükkan - New Oman",
+    "slug": "kiralik-dükkan-new-oman-P06602",
+    "description": "New Oman, Oman bölgesinde dükkan. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 1571782,
+    "location": {
+      "country": "OM",
+      "city": "New Oman",
+      "district": "New Oman Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 692",
+      "coordinates": {
+        "lat": 20.98811448350904,
+        "lng": 56.715113775719885
+      }
+    },
+    "specs": {
+      "netSize": 233,
+      "grossSize": 280,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 1,
+      "floor": 4,
+      "totalFloors": 5,
+      "heating": "Klima",
+      "furnishing": "Furnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500300925279?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500475603890?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500262566815?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500491232123?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500246206459?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500438854228?w=800&q=80&category=architecture"
+    ],
+    "agent": {
+      "id": "A1",
+      "name": "Agent 45",
+      "phone": "+96 421 479 6726",
+      "email": "agent15@iwrealty.com",
+      "photo": "/images/icons/png/ankara-modern-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": false,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-05-08T10:50:47.249Z",
+    "updatedAt": "2025-11-13T10:50:47.249Z",
+    "storeId": "store-003"
+  },
+  {
+    "id": "P06603",
+    "type": "sale",
+    "category": {
+      "main": "commercial",
+      "sub": "office"
+    },
+    "title": "Satılık Ofis - Oman City",
+    "slug": "satilik-ofis-oman-city-P06603",
+    "description": "Oman City, Oman bölgesinde ofis. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 5622457,
+    "location": {
+      "country": "OM",
+      "city": "Oman City",
+      "district": "Oman City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 665",
+      "coordinates": {
+        "lat": 20.64214573951823,
+        "lng": 57.419784578676975
+      }
+    },
+    "specs": {
+      "netSize": 583,
+      "grossSize": 700,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 9,
+      "floor": 4,
+      "totalFloors": 8,
+      "heating": "Klima",
+      "furnishing": "Furnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500994743424?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500114042955?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500694496492?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500392460002?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500335061849?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500966506138?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500640935190?w=800&q=80&category=real-estate"
+    ],
+    "agent": {
+      "id": "A54",
+      "name": "Agent 4",
+      "phone": "+33 179 730 7984",
+      "email": "agent57@iwrealty.com",
+      "photo": "/images/icons/png/sg-harbour-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": false,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2024-11-27T10:50:47.249Z",
+    "updatedAt": "2025-11-13T10:50:47.249Z",
+    "storeId": "store-011"
+  },
+  {
+    "id": "P06604",
+    "type": "rent",
+    "category": {
+      "main": "commercial",
+      "sub": "office"
+    },
+    "title": "Kiralık Ofis - Muscat",
+    "slug": "kiralik-ofis-muscat-P06604",
+    "description": "Muscat, Oman bölgesinde ofis. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 12493404,
+    "location": {
+      "country": "OM",
+      "city": "Muscat",
+      "district": "Muscat Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 794",
+      "coordinates": {
+        "lat": 21.029146394697307,
+        "lng": 57.10000168156063
+      }
+    },
+    "specs": {
+      "netSize": 976,
+      "grossSize": 1171,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 17,
+      "floor": 7,
+      "totalFloors": 14,
+      "heating": "Klima",
+      "furnishing": "Unfurnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500047183222?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500768470847?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500569571275?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500836609090?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500284805700?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500155866207?w=800&q=80&category=architecture"
+    ],
+    "agent": {
+      "id": "A78",
+      "name": "Agent 32",
+      "phone": "+92 516 178 5038",
+      "email": "agent60@iwrealty.com",
+      "photo": "/images/icons/png/antalya-investment-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": false,
+      "hasBalcony": false,
+      "hasGarden": true,
+      "hasPool": true,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-08-15T10:50:47.249Z",
+    "updatedAt": "2025-11-13T10:50:47.249Z",
+    "storeId": "store-006"
+  },
+  {
+    "id": "P06605",
+    "type": "sale",
+    "category": {
+      "main": "commercial",
+      "sub": "mall"
+    },
+    "title": "Satılık AVM - New Oman",
+    "slug": "satilik-avm-new-oman-P06605",
+    "description": "New Oman, Oman bölgesinde avm. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 216690076,
+    "location": {
+      "country": "OM",
+      "city": "New Oman",
+      "district": "New Oman Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 465",
+      "coordinates": {
+        "lat": 21.323564885099984,
+        "lng": 56.87700030465005
+      }
+    },
+    "specs": {
+      "netSize": 26061,
+      "grossSize": 31273,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 10,
+      "floor": 8,
+      "totalFloors": 15,
+      "heating": "Kombi",
+      "furnishing": "Furnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500863177055?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500897101590?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500743406592?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500916420198?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500079342137?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500817277389?w=800&q=80&category=architecture"
+    ],
+    "agent": {
+      "id": "A85",
+      "name": "Agent 28",
+      "phone": "+52 277 404 6082",
+      "email": "agent17@iwrealty.com",
+      "photo": "/images/icons/png/paris-heritage-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": true,
+      "hasPool": true,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-10-03T10:50:47.249Z",
+    "updatedAt": "2025-11-13T10:50:47.249Z",
+    "storeId": "store-010"
+  },
+  {
+    "id": "P06606",
+    "type": "rent",
+    "category": {
+      "main": "commercial",
+      "sub": "mall"
+    },
+    "title": "Kiralık AVM - Oman Central",
+    "slug": "kiralik-avm-oman-central-P06606",
+    "description": "Oman Central, Oman bölgesinde avm. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 209264128,
+    "location": {
+      "country": "OM",
+      "city": "Oman Central",
+      "district": "Oman Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 469",
+      "coordinates": {
+        "lat": 20.576298809414734,
+        "lng": 56.95418952558812
+      }
+    },
+    "specs": {
+      "netSize": 28296,
+      "grossSize": 33955,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 6,
+      "floor": 10,
+      "totalFloors": 12,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Furnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500820098447?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500002117009?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500426895781?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500561023529?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500696048009?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500192620928?w=800&q=80&category=house"
+    ],
+    "agent": {
+      "id": "A94",
+      "name": "Agent 28",
+      "phone": "+72 161 689 1133",
+      "email": "agent60@iwrealty.com",
+      "photo": "/images/icons/png/sydney-coastal-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": false,
+      "hasBalcony": false,
+      "hasGarden": true,
+      "hasPool": true,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-03-09T10:50:47.249Z",
+    "updatedAt": "2025-11-13T10:50:47.249Z",
+    "storeId": "store-012"
+  },
+  {
+    "id": "P06607",
+    "type": "sale",
+    "category": {
+      "main": "commercial",
+      "sub": "hotel"
+    },
+    "title": "Satılık Otel - New Oman",
+    "slug": "satilik-otel-new-oman-P06607",
+    "description": "New Oman, Oman bölgesinde otel. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 193808084,
+    "location": {
+      "country": "OM",
+      "city": "New Oman",
+      "district": "New Oman Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 819",
+      "coordinates": {
+        "lat": 21.192153717545853,
+        "lng": 56.80190486282858
+      }
+    },
+    "specs": {
+      "netSize": 14847,
+      "grossSize": 17816,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 4,
+      "floor": 10,
+      "totalFloors": 16,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Unfurnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500008759606?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500206429297?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500977937874?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500665908668?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500733303605?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500722311920?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500695162978?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500807272788?w=800&q=80&category=architecture"
+    ],
+    "agent": {
+      "id": "A24",
+      "name": "Agent 31",
+      "phone": "+20 483 817 2233",
+      "email": "agent61@iwrealty.com",
+      "photo": "/images/icons/png/luxury-homes-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": true,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-06-22T10:50:47.249Z",
+    "updatedAt": "2025-11-13T10:50:47.249Z",
+    "storeId": "store-002"
+  },
+  {
+    "id": "P06608",
+    "type": "rent",
+    "category": {
+      "main": "commercial",
+      "sub": "hotel"
+    },
+    "title": "Kiralık Otel - Muscat",
+    "slug": "kiralik-otel-muscat-P06608",
+    "description": "Muscat, Oman bölgesinde otel. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 65774432,
+    "location": {
+      "country": "OM",
+      "city": "Muscat",
+      "district": "Muscat Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 730",
+      "coordinates": {
+        "lat": 21.389319194570792,
+        "lng": 57.333154861061246
+      }
+    },
+    "specs": {
+      "netSize": 23093,
+      "grossSize": 27712,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 18,
+      "floor": 14,
+      "totalFloors": 6,
+      "heating": "Kombi",
+      "furnishing": "Furnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500222128108?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500447511195?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500638725846?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500302441353?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500602862405?w=800&q=80&category=architecture"
+    ],
+    "agent": {
+      "id": "A21",
+      "name": "Agent 49",
+      "phone": "+17 696 461 7257",
+      "email": "agent45@iwrealty.com",
+      "photo": "/images/icons/png/sg-harbour-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-08-01T10:50:47.249Z",
+    "updatedAt": "2025-11-13T10:50:47.249Z",
+    "storeId": "store-011"
+  },
+  {
+    "id": "P06609",
+    "type": "sale",
+    "category": {
+      "main": "commercial",
+      "sub": "restaurant"
+    },
+    "title": "Satılık Restoran - New Oman",
+    "slug": "satilik-restoran-new-oman-P06609",
+    "description": "New Oman, Oman bölgesinde restoran. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 7253419,
+    "location": {
+      "country": "OM",
+      "city": "New Oman",
+      "district": "New Oman Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 482",
+      "coordinates": {
+        "lat": 20.621722840928037,
+        "lng": 57.397051024364046
+      }
+    },
+    "specs": {
+      "netSize": 976,
+      "grossSize": 1171,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 13,
+      "floor": 4,
+      "totalFloors": 7,
+      "heating": "Merkezi",
+      "furnishing": "Unfurnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500668836774?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500113388582?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500376404840?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500621990553?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500469507413?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500218593202?w=800&q=80&category=building"
+    ],
+    "agent": {
+      "id": "A26",
+      "name": "Agent 8",
+      "phone": "+12 113 527 2988",
+      "email": "agent61@iwrealty.com",
+      "photo": "/images/icons/png/paris-heritage-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": false,
+      "hasBalcony": false,
+      "hasGarden": true,
+      "hasPool": true,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-07-14T10:50:47.249Z",
+    "updatedAt": "2025-11-13T10:50:47.249Z",
+    "storeId": "store-010"
+  },
+  {
+    "id": "P06610",
+    "type": "rent",
+    "category": {
+      "main": "commercial",
+      "sub": "restaurant"
+    },
+    "title": "Kiralık Restoran - Oman Central",
+    "slug": "kiralik-restoran-oman-central-P06610",
+    "description": "Oman Central, Oman bölgesinde restoran. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 2496925,
+    "location": {
+      "country": "OM",
+      "city": "Oman Central",
+      "district": "Oman Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 248",
+      "coordinates": {
+        "lat": 20.682391245300078,
+        "lng": 56.522793236917096
+      }
+    },
+    "specs": {
+      "netSize": 1062,
+      "grossSize": 1274,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 8,
+      "floor": 10,
+      "totalFloors": 15,
+      "heating": "Kombi",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500273811161?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500193112664?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500435362172?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500425411819?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500288848709?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500097165425?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500897827820?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500695706191?w=800&q=80&category=building"
+    ],
+    "agent": {
+      "id": "A56",
+      "name": "Agent 29",
+      "phone": "+68 266 531 9205",
+      "email": "agent7@iwrealty.com",
+      "photo": "/images/icons/png/paris-heritage-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": true,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-06-28T10:50:47.249Z",
+    "updatedAt": "2025-11-13T10:50:47.249Z",
+    "storeId": "store-010"
+  },
+  {
+    "id": "P06611",
+    "type": "sale",
+    "category": {
+      "main": "commercial",
+      "sub": "warehouse"
+    },
+    "title": "Satılık Depo - Oman Central",
+    "slug": "satilik-depo-oman-central-P06611",
+    "description": "Oman Central, Oman bölgesinde depo. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 15040184,
+    "location": {
+      "country": "OM",
+      "city": "Oman Central",
+      "district": "Oman Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 636",
+      "coordinates": {
+        "lat": 21.23629804594125,
+        "lng": 56.66318487671409
+      }
+    },
+    "specs": {
+      "netSize": 4206,
+      "grossSize": 5047,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 8,
+      "floor": 13,
+      "totalFloors": 11,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Furnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500513129556?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500931244815?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500531506667?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500809905661?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500128090966?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500375513373?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500032810474?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500466606612?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500572626055?w=800&q=80&category=house"
+    ],
+    "agent": {
+      "id": "A28",
+      "name": "Agent 89",
+      "phone": "+91 797 512 9931",
+      "email": "agent66@iwrealty.com",
+      "photo": "/images/icons/png/paris-heritage-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-01-30T10:50:47.249Z",
+    "updatedAt": "2025-11-13T10:50:47.249Z",
+    "storeId": "store-010"
+  },
+  {
+    "id": "P06612",
+    "type": "rent",
+    "category": {
+      "main": "commercial",
+      "sub": "warehouse"
+    },
+    "title": "Kiralık Depo - New Oman",
+    "slug": "kiralik-depo-new-oman-P06612",
+    "description": "New Oman, Oman bölgesinde depo. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 23119197,
+    "location": {
+      "country": "OM",
+      "city": "New Oman",
+      "district": "New Oman Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 732",
+      "coordinates": {
+        "lat": 21.36642450891106,
+        "lng": 56.733270058600844
+      }
+    },
+    "specs": {
+      "netSize": 9484,
+      "grossSize": 11381,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 5,
+      "floor": 6,
+      "totalFloors": 18,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500762976424?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500036376108?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500669848434?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500125539216?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500539604375?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500284353093?w=800&q=80&category=real-estate"
+    ],
+    "agent": {
+      "id": "A40",
+      "name": "Agent 50",
+      "phone": "+15 461 576 6597",
+      "email": "agent35@iwrealty.com",
+      "photo": "/images/icons/png/sydney-coastal-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-04-19T10:50:47.249Z",
+    "updatedAt": "2025-11-13T10:50:47.249Z",
+    "storeId": "store-012"
+  }
+]

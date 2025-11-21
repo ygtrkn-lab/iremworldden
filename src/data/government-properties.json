@@ -1,0 +1,1518 @@
+[
+  {
+    "id": "GOV001",
+    "category": "gov_ministry",
+    "title": "U.S. Department of Energy Innovation Hub",
+    "slug": "us-department-of-energy-innovation-hub",
+    "description": "State-of-the-art research and development facility for renewable energy technologies in Washington D.C. Advanced laboratories and clean energy testing facilities.",
+    "status": "Under Construction",
+    "authorizedInstitution": "U.S. Department of Energy",
+    "ownership": "Federal Government",
+    "budget": {
+      "total": 950000000,
+      "source": "Federal Budget",
+      "allocated": 950000000,
+      "spent": 520000000
+    },
+    "location": {
+      "country": "United States",
+      "city": "Washington",
+      "district": "D.C.",
+      "neighborhood": "Capitol Hill",
+      "address": "1000 Independence Ave SW, Washington, DC 20585",
+      "coordinates": {
+        "lat": 38.8977,
+        "lng": -77.0365
+      }
+    },
+    "specs": {
+      "totalArea": 145000,
+      "builtArea": 110000,
+      "capacity": 4200,
+      "floors": 14,
+      "startDate": "2023-01-15",
+      "estimatedCompletion": "2026-08-31"
+    },
+    "projectDetails": {
+      "contractor": "Turner Construction",
+      "architect": "Gensler",
+      "engineer": "AECOM",
+      "tenderDate": "2022-08-10",
+      "tenderAmount": 890000000
+    },
+    "features": [
+      "LEED Platinum Certified",
+      "Net Zero Energy Building",
+      "Solar Panel Array (5MW)",
+      "Advanced Battery Storage Labs",
+      "Wind Tunnel Testing Facility",
+      "4000-car Underground Parking",
+      "Conference Center (800-seat)",
+      "Rooftop Helipad"
+    ],
+    "impact": {
+      "environmental": [
+        "100% renewable energy powered",
+        "Zero carbon emissions",
+        "Advanced water recycling"
+      ],
+      "social": [
+        "4200 jobs created",
+        "Public education programs",
+        "Accessibility compliant"
+      ],
+      "economic": [
+        "$150M annual regional impact",
+        "Clean tech innovation hub"
+      ]
+    },
+    "images": [
+      "/uploads/projects/223/iremworld-project-223-1.jpg",
+      "/uploads/projects/223/iremworld-project-223-2.jpg",
+      "/uploads/projects/223/iremworld-project-223-3.jpg"
+    ],
+    "coverImage": "/uploads/projects/223/iremworld-project-223-1.jpg",
+    "contact": {
+      "department": "Office of Energy Efficiency",
+      "phone": "+1 202 586 5000",
+      "email": "innovation@energy.gov",
+      "website": "https://www.energy.gov"
+    },
+    "stats": {
+      "views": 18450,
+      "lastUpdated": "2024-11-15"
+    },
+    "createdAt": "2023-01-15T10:00:00Z",
+    "updatedAt": "2024-11-15T14:30:00Z"
+  },
+  {
+    "id": "GOV002",
+    "category": "gov_ministry",
+    "title": "UK Home Office Digital Services Center",
+    "slug": "uk-home-office-digital-services-center",
+    "description": "Modern government digital transformation center in London. Cybersecurity operations and citizen services digitalization hub.",
+    "status": "Completed",
+    "authorizedInstitution": "UK Home Office",
+    "ownership": "Crown Estate",
+    "budget": {
+      "total": 420000000,
+      "source": "HM Treasury",
+      "allocated": 420000000,
+      "spent": 420000000
+    },
+    "location": {
+      "country": "United Kingdom",
+      "city": "London",
+      "district": "Westminster",
+      "neighborhood": "Marsham Street",
+      "address": "2 Marsham Street, London SW1P 4DF",
+      "coordinates": {
+        "lat": 51.4975,
+        "lng": -0.1357
+      }
+    },
+    "specs": {
+      "totalArea": 72000,
+      "builtArea": 58000,
+      "capacity": 2800,
+      "floors": 9,
+      "startDate": "2021-03-01",
+      "completionDate": "2024-05-30"
+    },
+    "projectDetails": {
+      "contractor": "Balfour Beatty",
+      "architect": "Foster + Partners",
+      "engineer": "Arup",
+      "tenderDate": "2020-10-15",
+      "tenderAmount": 385000000
+    },
+    "features": [
+      "Cyber Security Operations Center",
+      "24/7 Monitoring Systems",
+      "BREEAM Excellent Rating",
+      "Biometric Access Control",
+      "Disaster Recovery Center",
+      "800-car Parking Facility",
+      "Staff Wellness Center",
+      "Secure Data Centers"
+    ],
+    "impact": {
+      "environmental": [
+        "40% energy reduction",
+        "Rainwater harvesting",
+        "Green roof gardens"
+      ],
+      "social": [
+        "2800 civil servants",
+        "Digital skills training",
+        "Public service innovation"
+      ],
+      "economic": [
+        "£85M annual efficiency savings",
+        "Technology sector collaboration"
+      ]
+    },
+    "images": [
+      "/uploads/projects/224/iremworld-project-224-1.jpg",
+      "/uploads/projects/224/iremworld-project-224-2.jpg"
+    ],
+    "coverImage": "/uploads/projects/224/iremworld-project-224-1.jpg",
+    "contact": {
+      "department": "Digital, Data and Technology",
+      "phone": "+44 20 7035 4848",
+      "email": "digital@homeoffice.gov.uk",
+      "website": "https://www.gov.uk/homeoffice"
+    },
+    "stats": {
+      "views": 13280,
+      "lastUpdated": "2024-11-12"
+    },
+    "createdAt": "2021-03-01T09:00:00Z",
+    "updatedAt": "2024-11-12T11:20:00Z"
+  },
+  {
+    "id": "GOV003",
+    "category": "gov_municipality",
+    "title": "Dubai Smart City Control Center",
+    "slug": "dubai-smart-city-control-center",
+    "description": "World's most advanced smart city command and control center. AI-powered infrastructure management for Dubai's urban services.",
+    "status": "Active Operation",
+    "authorizedInstitution": "Dubai Municipality",
+    "ownership": "Government of Dubai",
+    "budget": {
+      "total": 680000000,
+      "source": "Dubai Government Budget",
+      "allocated": 680000000,
+      "spent": 680000000
+    },
+    "location": {
+      "country": "United Arab Emirates",
+      "city": "Dubai",
+      "district": "Business Bay",
+      "neighborhood": "Downtown",
+      "address": "Sheikh Zayed Road, Business Bay, Dubai",
+      "coordinates": {
+        "lat": 25.1872,
+        "lng": 55.2722
+      }
+    },
+    "specs": {
+      "totalArea": 48000,
+      "builtArea": 42000,
+      "capacity": 1200,
+      "floors": 12,
+      "startDate": "2020-01-10",
+      "completionDate": "2022-12-20"
+    },
+    "projectDetails": {
+      "contractor": "Arabtec Construction",
+      "architect": "Zaha Hadid Architects",
+      "engineer": "Dar Al-Handasah",
+      "tenderDate": "2019-09-05",
+      "tenderAmount": 625000000
+    },
+    "features": [
+      "AI Traffic Management",
+      "IoT Sensor Network (50,000 devices)",
+      "Real-time City Monitoring",
+      "Emergency Response Center",
+      "Smart Grid Control",
+      "Facial Recognition System",
+      "500-car Smart Parking",
+      "Blockchain Data Security"
+    ],
+    "impact": {
+      "environmental": [
+        "30% reduction in traffic emissions",
+        "Smart energy optimization",
+        "Water consumption monitoring"
+      ],
+      "social": [
+        "1200 tech professionals",
+        "40% faster emergency response",
+        "Enhanced citizen services"
+      ],
+      "economic": [
+        "AED 400M annual savings",
+        "Smart city innovation leader"
+      ]
+    },
+    "images": [
+      "/uploads/projects/225/iremworld-project-225-1.jpg",
+      "/uploads/projects/225/iremworld-project-225-2.jpg"
+    ],
+    "coverImage": "/uploads/projects/225/iremworld-project-225-1.jpg",
+    "contact": {
+      "department": "Smart Dubai Office",
+      "phone": "+971 4 221 5555",
+      "email": "smartdubai@dm.gov.ae",
+      "website": "https://www.dm.gov.ae"
+    },
+    "stats": {
+      "views": 24680,
+      "lastUpdated": "2024-11-18"
+    },
+    "createdAt": "2020-01-10T08:00:00Z",
+    "updatedAt": "2024-11-18T16:45:00Z"
+  },
+  {
+    "id": "GOV004",
+    "category": "gov_municipality",
+    "title": "Berlin Environmental Protection Authority Headquarters",
+    "slug": "berlin-environmental-protection-authority-headquarters",
+    "description": "Germany's greenest government building. Zero-waste headquarters for Berlin's environmental services with passive house standards.",
+    "status": "Completed",
+    "authorizedInstitution": "Senatsverwaltung für Umwelt",
+    "ownership": "Berlin State",
+    "budget": {
+      "total": 285000000,
+      "source": "State Budget",
+      "allocated": 285000000,
+      "spent": 285000000
+    },
+    "location": {
+      "country": "Germany",
+      "city": "Berlin",
+      "district": "Mitte",
+      "neighborhood": "Tiergarten",
+      "address": "Am Köllnischen Park 3, 10179 Berlin",
+      "coordinates": {
+        "lat": 52.5200,
+        "lng": 13.4050
+      }
+    },
+    "specs": {
+      "totalArea": 28000,
+      "builtArea": 24000,
+      "capacity": 650,
+      "floors": 7,
+      "startDate": "2021-04-01",
+      "completionDate": "2024-03-30"
+    },
+    "projectDetails": {
+      "contractor": "HOCHTIEF AG",
+      "architect": "Sauerbruch Hutton",
+      "engineer": "Werner Sobek",
+      "tenderDate": "2020-12-10",
+      "tenderAmount": 265000000
+    },
+    "features": [
+      "Passive House Certified",
+      "DGNB Platinum",
+      "Timber Construction",
+      "Vertical Gardens",
+      "Geothermal Heating/Cooling",
+      "400-bike Parking",
+      "Zero Waste Facility",
+      "Urban Biodiversity Lab"
+    ],
+    "impact": {
+      "environmental": [
+        "Carbon neutral operation",
+        "95% waste recycling",
+        "Native species habitat"
+      ],
+      "social": [
+        "650 environmental experts",
+        "Public education center",
+        "Green job training"
+      ],
+      "economic": [
+        "€12M annual energy savings",
+        "Green tech showcase"
+      ]
+    },
+    "images": [
+      "/uploads/projects/226/iremworld-project-226-1.jpg",
+      "/uploads/projects/226/iremworld-project-226-2.jpg"
+    ],
+    "coverImage": "/uploads/projects/226/iremworld-project-226-1.jpg",
+    "contact": {
+      "department": "Umweltschutzamt Berlin",
+      "phone": "+49 30 9025 0",
+      "email": "umwelt@senuvk.berlin.de",
+      "website": "https://www.berlin.de/sen/uvk"
+    },
+    "stats": {
+      "views": 9840,
+      "lastUpdated": "2024-11-13"
+    },
+    "createdAt": "2021-04-01T10:00:00Z",
+    "updatedAt": "2024-11-13T14:00:00Z"
+  },
+  {
+    "id": "GOV005",
+    "category": "gov_courthouse",
+    "title": "Paris Judicial Court Complex",
+    "slug": "paris-judicial-court-complex",
+    "description": "Europe's largest courthouse in Paris. Modern judicial complex with 90 courtrooms serving the Paris metropolitan area.",
+    "status": "Active Operation",
+    "authorizedInstitution": "French Ministry of Justice",
+    "ownership": "French State",
+    "budget": {
+      "total": 1150000000,
+      "source": "National Budget",
+      "allocated": 1150000000,
+      "spent": 1150000000
+    },
+    "location": {
+      "country": "France",
+      "city": "Paris",
+      "district": "17th Arrondissement",
+      "neighborhood": "Batignolles",
+      "address": "Porte de Clichy, 75017 Paris",
+      "coordinates": {
+        "lat": 48.8938,
+        "lng": 2.3158
+      }
+    },
+    "specs": {
+      "totalArea": 160000,
+      "builtArea": 145000,
+      "capacity": 8000,
+      "floors": 18,
+      "startDate": "2013-06-01",
+      "completionDate": "2018-04-16"
+    },
+    "projectDetails": {
+      "contractor": "Bouygues Construction",
+      "architect": "Renzo Piano Building Workshop",
+      "engineer": "Elioth",
+      "tenderDate": "2012-11-20",
+      "tenderAmount": 1050000000
+    },
+    "features": [
+      "90 Courtrooms",
+      "Digital Case Management",
+      "Video Conferencing Systems",
+      "3500-car Underground Parking",
+      "Law Library (100,000 volumes)",
+      "Secure Detention Facilities",
+      "Public Cafeteria",
+      "Rooftop Gardens"
+    ],
+    "impact": {
+      "social": [
+        "8000 legal professionals",
+        "Daily 15,000 visitors",
+        "Improved justice access"
+      ],
+      "economic": [
+        "Legal services hub",
+        "Urban regeneration catalyst"
+      ],
+      "environmental": [
+        "HQE certified",
+        "Natural ventilation",
+        "Rainwater collection"
+      ]
+    },
+    "images": [
+      "/uploads/projects/227/iremworld-project-227-1.jpg",
+      "/uploads/projects/227/iremworld-project-227-2.jpg"
+    ],
+    "coverImage": "/uploads/projects/227/iremworld-project-227-1.jpg",
+    "contact": {
+      "department": "Tribunal Judiciaire de Paris",
+      "phone": "+33 1 44 32 51 51",
+      "email": "contact@tj-paris.justice.fr",
+      "website": "https://www.justice.fr"
+    },
+    "stats": {
+      "views": 19750,
+      "lastUpdated": "2024-11-16"
+    },
+    "createdAt": "2013-06-01T09:00:00Z",
+    "updatedAt": "2024-11-16T15:30:00Z"
+  },
+  {
+    "id": "GOV006",
+    "category": "gov_courthouse",
+    "title": "Tokyo Supreme Court Annex Building",
+    "slug": "tokyo-supreme-court-annex-building",
+    "description": "State-of-the-art judicial facility in Tokyo with earthquake-resistant design. Advanced digital courtroom technology.",
+    "status": "Under Construction",
+    "authorizedInstitution": "Supreme Court of Japan",
+    "ownership": "Japanese Government",
+    "budget": {
+      "total": 52000000000,
+      "source": "National Budget",
+      "allocated": 52000000000,
+      "spent": 34000000000
+    },
+    "location": {
+      "country": "Japan",
+      "city": "Tokyo",
+      "district": "Chiyoda",
+      "neighborhood": "Kasumigaseki",
+      "address": "1-1-4 Kasumigaseki, Chiyoda-ku, Tokyo",
+      "coordinates": {
+        "lat": 35.6764,
+        "lng": 139.7525
+      }
+    },
+    "specs": {
+      "totalArea": 98000,
+      "builtArea": 85000,
+      "capacity": 2500,
+      "floors": 15,
+      "startDate": "2023-04-01",
+      "estimatedCompletion": "2026-03-31"
+    },
+    "projectDetails": {
+      "contractor": "Takenaka Corporation",
+      "architect": "Kengo Kuma & Associates",
+      "engineer": "Arup Japan",
+      "tenderDate": "2022-10-15",
+      "tenderAmount": 48000000000
+    },
+    "features": [
+      "Seismic Isolation System (9.0 magnitude)",
+      "60 Digital Courtrooms",
+      "AI-Powered Translation",
+      "Holographic Evidence Display",
+      "1800-car Parking",
+      "Crisis Management Center",
+      "Traditional Garden",
+      "Renewable Energy Systems"
+    ],
+    "impact": {
+      "social": [
+        "2500 judicial staff",
+        "Enhanced court efficiency",
+        "Public legal education"
+      ],
+      "economic": [
+        "¥8B annual regional impact",
+        "Legal tech innovation"
+      ],
+      "environmental": [
+        "CASBEE S-rank target",
+        "50% energy reduction",
+        "Green building materials"
+      ]
+    },
+    "images": [
+      "/uploads/projects/228/iremworld-project-228-1.jpg",
+      "/uploads/projects/228/iremworld-project-228-2.jpg"
+    ],
+    "coverImage": "/uploads/projects/228/iremworld-project-228-1.jpg",
+    "contact": {
+      "department": "Court Administration",
+      "phone": "+81 3 3264 8111",
+      "email": "info@courts.go.jp",
+      "website": "https://www.courts.go.jp"
+    },
+    "stats": {
+      "views": 16240,
+      "lastUpdated": "2024-11-14"
+    },
+    "createdAt": "2023-04-01T10:00:00Z",
+    "updatedAt": "2024-11-14T12:15:00Z"
+  },
+  {
+    "id": "GOV007",
+    "category": "gov_hospital",
+    "title": "Singapore National Medical Research Institute",
+    "slug": "singapore-national-medical-research-institute",
+    "description": "Asia's leading biomedical research facility. Cutting-edge laboratories for genomics, AI healthcare, and precision medicine.",
+    "status": "Active Operation",
+    "authorizedInstitution": "Ministry of Health Singapore",
+    "ownership": "Singapore Government",
+    "budget": {
+      "total": 1280000000,
+      "source": "National Research Fund",
+      "allocated": 1280000000,
+      "spent": 1280000000
+    },
+    "location": {
+      "country": "Singapore",
+      "city": "Singapore",
+      "district": "Queenstown",
+      "neighborhood": "Biopolis",
+      "address": "8A Biomedical Grove, Biopolis, Singapore 138648",
+      "coordinates": {
+        "lat": 1.3038,
+        "lng": 103.7904
+      }
+    },
+    "specs": {
+      "totalArea": 95000,
+      "builtArea": 82000,
+      "capacity": 3200,
+      "floors": 16,
+      "startDate": "2019-08-01",
+      "completionDate": "2023-06-30"
+    },
+    "projectDetails": {
+      "contractor": "Woh Hup Private Limited",
+      "architect": "CPG Consultants",
+      "engineer": "Parsons Brinckerhoff",
+      "tenderDate": "2019-03-15",
+      "tenderAmount": 1150000000
+    },
+    "features": [
+      "BSL-4 Containment Labs",
+      "Genomics Sequencing Center",
+      "AI Medical Imaging Suite",
+      "Clinical Trials Facility",
+      "Biobank (10M samples)",
+      "1500-car Parking",
+      "Collaborative Research Spaces",
+      "Animal Research Facility"
+    ],
+    "impact": {
+      "social": [
+        "3200 researchers",
+        "Healthcare innovation",
+        "Disease prevention programs"
+      ],
+      "economic": [
+        "SGD 500M research funding annually",
+        "Biotech sector growth"
+      ],
+      "environmental": [
+        "Green Mark Platinum",
+        "Lab energy optimization",
+        "Sustainable waste management"
+      ]
+    },
+    "images": [
+      "/uploads/projects/229/iremworld-project-229-1.jpg",
+      "/uploads/projects/229/iremworld-project-229-2.jpg"
+    ],
+    "coverImage": "/uploads/projects/229/iremworld-project-229-1.jpg",
+    "contact": {
+      "department": "Research Administration",
+      "phone": "+65 6826 9000",
+      "email": "research@nmrc.gov.sg",
+      "website": "https://www.nmrc.gov.sg"
+    },
+    "stats": {
+      "views": 21350,
+      "lastUpdated": "2024-11-17"
+    },
+    "createdAt": "2019-08-01T09:00:00Z",
+    "updatedAt": "2024-11-17T14:20:00Z"
+  },
+  {
+    "id": "GOV008",
+    "category": "gov_hospital",
+    "title": "Toronto General Hospital Cancer Research Wing",
+    "slug": "toronto-general-hospital-cancer-research-wing",
+    "description": "Canada's premier cancer research and treatment facility. Integrated research labs and patient care center for oncology.",
+    "status": "Completed",
+    "authorizedInstitution": "Ontario Health",
+    "ownership": "Provincial Government",
+    "budget": {
+      "total": 580000000,
+      "source": "Provincial Health Budget",
+      "allocated": 580000000,
+      "spent": 580000000
+    },
+    "location": {
+      "country": "Canada",
+      "city": "Toronto",
+      "district": "Downtown",
+      "neighborhood": "University Avenue",
+      "address": "200 Elizabeth Street, Toronto, ON M5G 2C4",
+      "coordinates": {
+        "lat": 43.6596,
+        "lng": -79.3889
+      }
+    },
+    "specs": {
+      "totalArea": 68000,
+      "builtArea": 58000,
+      "capacity": 1800,
+      "floors": 12,
+      "startDate": "2020-05-01",
+      "completionDate": "2024-01-15"
+    },
+    "projectDetails": {
+      "contractor": "EllisDon Corporation",
+      "architect": "Diamond Schmitt Architects",
+      "engineer": "RWDI",
+      "tenderDate": "2019-11-20",
+      "tenderAmount": 535000000
+    },
+    "features": [
+      "Immunotherapy Research Labs",
+      "Radiation Oncology Suite",
+      "Patient Clinical Trials Unit",
+      "Genomic Testing Center",
+      "800-bed Parking",
+      "Family Support Center",
+      "Telemedicine Facilities",
+      "Research Library"
+    ],
+    "impact": {
+      "social": [
+        "1800 healthcare professionals",
+        "Annual 25,000 patient treatments",
+        "Cancer survivorship programs"
+      ],
+      "economic": [
+        "CAD 150M research grants",
+        "Medical innovation hub"
+      ],
+      "environmental": [
+        "LEED Gold Certified",
+        "Medical waste reduction",
+        "Energy-efficient design"
+      ]
+    },
+    "images": [
+      "/uploads/projects/231/iremworld-project-231-1.jpg",
+      "/uploads/projects/231/iremworld-project-231-2.jpg"
+    ],
+    "coverImage": "/uploads/projects/231/iremworld-project-231-1.jpg",
+    "contact": {
+      "department": "Cancer Care Ontario",
+      "phone": "+1 416 340 4800",
+      "email": "cancer@uhn.ca",
+      "website": "https://www.uhn.ca"
+    },
+    "stats": {
+      "views": 17920,
+      "lastUpdated": "2024-11-15"
+    },
+    "createdAt": "2020-05-01T10:00:00Z",
+    "updatedAt": "2024-11-15T13:45:00Z"
+  },
+  {
+    "id": "GOV009",
+    "category": "gov_university",
+    "title": "ETH Zurich Quantum Computing Research Center",
+    "slug": "eth-zurich-quantum-computing-research-center",
+    "description": "Switzerland's quantum technology flagship. Advanced quantum computing and cryptography research facility.",
+    "status": "Active Operation",
+    "authorizedInstitution": "ETH Zurich",
+    "ownership": "Swiss Confederation",
+    "budget": {
+      "total": 385000000,
+      "source": "Federal Research Fund",
+      "allocated": 385000000,
+      "spent": 385000000
+    },
+    "location": {
+      "country": "Switzerland",
+      "city": "Zurich",
+      "district": "Hönggerberg",
+      "neighborhood": "ETH Campus",
+      "address": "Wolfgang-Pauli-Strasse 27, 8093 Zürich",
+      "coordinates": {
+        "lat": 47.3769,
+        "lng": 8.5417
+      }
+    },
+    "specs": {
+      "totalArea": 42000,
+      "builtArea": 36000,
+      "capacity": 850,
+      "floors": 6,
+      "startDate": "2021-02-01",
+      "completionDate": "2023-11-30"
+    },
+    "projectDetails": {
+      "contractor": "Implenia AG",
+      "architect": "Christ & Gantenbein",
+      "engineer": "Buro Happold",
+      "tenderDate": "2020-09-10",
+      "tenderAmount": 355000000
+    },
+    "features": [
+      "Quantum Computer Labs",
+      "Cryogenic Cooling Systems",
+      "Electromagnetic Shielding",
+      "Clean Room Facilities",
+      "Secure Research Servers",
+      "400-car Parking",
+      "Collaborative Spaces",
+      "Conference Auditorium"
+    ],
+    "impact": {
+      "social": [
+        "850 researchers and students",
+        "Quantum education programs",
+        "International collaboration"
+      ],
+      "economic": [
+        "CHF 120M annual research output",
+        "Tech startup incubation"
+      ],
+      "environmental": [
+        "Minergie-P Standard",
+        "Waste heat recovery",
+        "Solar energy integration"
+      ]
+    },
+    "images": [
+      "/uploads/projects/232/iremworld-project-232-1.jpg",
+      "/uploads/projects/232/iremworld-project-232-2.jpg"
+    ],
+    "coverImage": "/uploads/projects/232/iremworld-project-232-1.jpg",
+    "contact": {
+      "department": "Quantum Center ETH",
+      "phone": "+41 44 632 11 11",
+      "email": "quantum@phys.ethz.ch",
+      "website": "https://www.ethz.ch"
+    },
+    "stats": {
+      "views": 14680,
+      "lastUpdated": "2024-11-13"
+    },
+    "createdAt": "2021-02-01T09:00:00Z",
+    "updatedAt": "2024-11-13T11:30:00Z"
+  },
+  {
+    "id": "GOV010",
+    "category": "gov_university",
+    "title": "Seoul National University AI Research Institute",
+    "slug": "seoul-national-university-ai-research-institute",
+    "description": "South Korea's leading artificial intelligence research complex. Deep learning, robotics, and autonomous systems development.",
+    "status": "Under Construction",
+    "authorizedInstitution": "Seoul National University",
+    "ownership": "Ministry of Education",
+    "budget": {
+      "total": 42000000000,
+      "source": "National R&D Budget",
+      "allocated": 42000000000,
+      "spent": 28000000000
+    },
+    "location": {
+      "country": "South Korea",
+      "city": "Seoul",
+      "district": "Gwanak-gu",
+      "neighborhood": "SNU Campus",
+      "address": "1 Gwanak-ro, Gwanak-gu, Seoul 08826",
+      "coordinates": {
+        "lat": 37.4601,
+        "lng": 126.9520
+      }
+    },
+    "specs": {
+      "totalArea": 78000,
+      "builtArea": 65000,
+      "capacity": 2200,
+      "floors": 11,
+      "startDate": "2023-03-01",
+      "estimatedCompletion": "2025-12-31"
+    },
+    "projectDetails": {
+      "contractor": "Samsung C&T",
+      "architect": "HAEAHN Architecture",
+      "engineer": "Yooshin Engineering",
+      "tenderDate": "2022-11-05",
+      "tenderAmount": 38000000000
+    },
+    "features": [
+      "GPU Supercomputing Cluster",
+      "Robotics Testing Arena",
+      "AI Ethics Research Lab",
+      "Brain-Computer Interface Lab",
+      "Industry Partnership Zone",
+      "1200-car Smart Parking",
+      "Innovation Auditorium",
+      "Startup Incubation Space"
+    ],
+    "impact": {
+      "social": [
+        "2200 researchers",
+        "AI workforce development",
+        "Technology democratization"
+      ],
+      "economic": [
+        "₩150B annual research investment",
+        "AI industry collaboration"
+      ],
+      "environmental": [
+        "Green Building Certification",
+        "Energy-efficient computing",
+        "Smart climate control"
+      ]
+    },
+    "images": [
+      "/uploads/projects/229/iremworld-project-229-1.jpg",
+      "/uploads/projects/229/iremworld-project-229-2.jpg"
+    ],
+    "coverImage": "/uploads/projects/229/iremworld-project-229-1.jpg",
+    "contact": {
+      "department": "AI Research Administration",
+      "phone": "+82 2 880 5114",
+      "email": "ai@snu.ac.kr",
+      "website": "https://www.snu.ac.kr"
+    },
+    "stats": {
+      "views": 19540,
+      "lastUpdated": "2024-11-16"
+    },
+    "createdAt": "2023-03-01T10:00:00Z",
+    "updatedAt": "2024-11-16T14:50:00Z"
+  },
+  {
+    "id": "GOV011",
+    "category": "gov_school",
+    "title": "Stockholm Green Education Complex",
+    "slug": "stockholm-green-education-complex",
+    "description": "Sweden's first carbon-neutral school campus. Innovative learning spaces with sustainability focus for 1,200 students.",
+    "status": "Completed",
+    "authorizedInstitution": "Stockholm Municipality",
+    "ownership": "City of Stockholm",
+    "budget": {
+      "total": 285000000,
+      "source": "Municipal Education Budget",
+      "allocated": 285000000,
+      "spent": 285000000
+    },
+    "location": {
+      "country": "Sweden",
+      "city": "Stockholm",
+      "district": "Hammarby Sjöstad",
+      "neighborhood": "Sickla",
+      "address": "Lugnets Allé 56, 120 66 Stockholm",
+      "coordinates": {
+        "lat": 59.3050,
+        "lng": 18.1036
+      }
+    },
+    "specs": {
+      "totalArea": 35000,
+      "builtArea": 28000,
+      "capacity": 1200,
+      "floors": 5,
+      "startDate": "2021-08-01",
+      "completionDate": "2024-08-15"
+    },
+    "projectDetails": {
+      "contractor": "NCC AB",
+      "architect": "White Arkitekter",
+      "engineer": "ÅF Engineering",
+      "tenderDate": "2021-03-10",
+      "tenderAmount": 265000000
+    },
+    "features": [
+      "Carbon Neutral Certified",
+      "Cross-Laminated Timber Structure",
+      "Rooftop Urban Farm",
+      "Solar Panel System",
+      "Rainwater Harvesting",
+      "Smart Classrooms",
+      "Indoor Air Quality Monitoring",
+      "Community Library"
+    ],
+    "impact": {
+      "environmental": [
+        "Zero carbon emissions",
+        "100% renewable energy",
+        "Biodiversity enhancement"
+      ],
+      "social": [
+        "1200 students",
+        "200 staff members",
+        "Community education hub"
+      ],
+      "economic": [
+        "SEK 8M annual energy savings",
+        "Green building showcase"
+      ]
+    },
+    "images": [
+      "/uploads/projects/231/iremworld-project-231-1.jpg",
+      "/uploads/projects/231/iremworld-project-231-2.jpg"
+    ],
+    "coverImage": "/uploads/projects/231/iremworld-project-231-1.jpg",
+    "contact": {
+      "department": "Stockholm Education Department",
+      "phone": "+46 8 508 29 000",
+      "email": "utbildning@stockholm.se",
+      "website": "https://www.stockholm.se"
+    },
+    "stats": {
+      "views": 11240,
+      "lastUpdated": "2024-11-14"
+    },
+    "createdAt": "2021-08-01T09:00:00Z",
+    "updatedAt": "2024-11-14T13:20:00Z"
+  },
+  {
+    "id": "GOV012",
+    "category": "gov_school",
+    "title": "Melbourne Future Skills Academy",
+    "slug": "melbourne-future-skills-academy",
+    "description": "Australia's innovative vocational training center. STEM-focused education with industry partnership programs.",
+    "status": "Active Operation",
+    "authorizedInstitution": "Victoria Department of Education",
+    "ownership": "State Government",
+    "budget": {
+      "total": 195000000,
+      "source": "State Education Budget",
+      "allocated": 195000000,
+      "spent": 195000000
+    },
+    "location": {
+      "country": "Australia",
+      "city": "Melbourne",
+      "district": "Docklands",
+      "neighborhood": "Victoria Harbour",
+      "address": "800 Bourke Street, Docklands VIC 3008",
+      "coordinates": {
+        "lat": -37.8162,
+        "lng": 144.9476
+      }
+    },
+    "specs": {
+      "totalArea": 48000,
+      "builtArea": 42000,
+      "capacity": 2000,
+      "floors": 8,
+      "startDate": "2020-02-01",
+      "completionDate": "2023-07-30"
+    },
+    "projectDetails": {
+      "contractor": "Lendlease",
+      "architect": "Lyons Architecture",
+      "engineer": "Aurecon",
+      "tenderDate": "2019-10-15",
+      "tenderAmount": 175000000
+    },
+    "features": [
+      "Advanced Manufacturing Labs",
+      "Renewable Energy Workshop",
+      "Coding and AI Classrooms",
+      "Virtual Reality Training Suites",
+      "Industry Partner Spaces",
+      "600-car Parking",
+      "Student Innovation Hub",
+      "Careers Center"
+    ],
+    "impact": {
+      "social": [
+        "2000 students annually",
+        "Industry-ready skills training",
+        "Community upskilling programs"
+      ],
+      "economic": [
+        "AUD 45M industry partnerships",
+        "Graduate employment rate 95%"
+      ],
+      "environmental": [
+        "6 Star Green Star Rating",
+        "Sustainable building materials",
+        "Water recycling system"
+      ]
+    },
+    "images": [
+      "/uploads/projects/232/iremworld-project-232-1.jpg",
+      "/uploads/projects/232/iremworld-project-232-2.jpg"
+    ],
+    "coverImage": "/uploads/projects/232/iremworld-project-232-1.jpg",
+    "contact": {
+      "department": "Victorian Skills Authority",
+      "phone": "+61 3 9637 2000",
+      "email": "info@skills.vic.gov.au",
+      "website": "https://www.skills.vic.gov.au"
+    },
+    "stats": {
+      "views": 13580,
+      "lastUpdated": "2024-11-15"
+    },
+    "createdAt": "2020-02-01T10:00:00Z",
+    "updatedAt": "2024-11-15T12:40:00Z"
+  },
+  {
+    "id": "GOV013",
+    "category": "gov_ministry",
+    "title": "Çevre, Şehircilik ve İklim Değişikliği Bakanlığı Hizmet Binası",
+    "slug": "cevre-sehircilik-iklim-degisikligi-bakanligi-hizmet-binasi",
+    "description": "Ankara'da inşa edilen modern ve çevre dostu bakanlık hizmet binası. Akıllı bina sistemleri, enerji verimliliği ve yeşil alan düzenlemeleriyle dikkat çeken proje.",
+    "status": "İnşaat Devam Ediyor",
+    "authorizedInstitution": "Çevre, Şehircilik ve İklim Değişikliği Bakanlığı",
+    "ownership": "Hazine",
+    "budget": {
+      "total": 850000000,
+      "source": "Merkezi Bütçe",
+      "allocated": 850000000,
+      "spent": 450000000
+    },
+    "location": {
+      "country": "Türkiye",
+      "city": "Ankara",
+      "district": "Çankaya",
+      "neighborhood": "Mustafa Kemal",
+      "address": "Eskişehir Devlet Yolu, 06530 Çankaya/Ankara",
+      "coordinates": {
+        "lat": 39.9334,
+        "lng": 32.8597
+      }
+    },
+    "specs": {
+      "totalArea": 125000,
+      "builtArea": 95000,
+      "capacity": 3500,
+      "floors": 12,
+      "startDate": "2022-03-15",
+      "estimatedCompletion": "2025-12-31"
+    },
+    "projectDetails": {
+      "contractor": "Mesa İnşaat A.Ş.",
+      "architect": "Tabanlıoğlu Mimarlık",
+      "engineer": "Prota Mühendislik",
+      "tenderDate": "2021-11-20",
+      "tenderAmount": 750000000
+    },
+    "features": [
+      "Depreme Dayanıklı (9.0)",
+      "LEED Platinum Sertifikalı",
+      "Akıllı Bina Yönetim Sistemi",
+      "Güneş Enerjisi Panelleri",
+      "Yağmur Suyu Toplama Sistemi",
+      "3500 Kişilik Kapalı Otopark",
+      "Konferans Salonu (500 kişilik)",
+      "Helipad",
+      "Yeşil Teras Bahçeleri"
+    ],
+    "impact": {
+      "environmental": [
+        "%40 enerji tasarrufu",
+        "Sıfır atık belgesi",
+        "15.000 m² yeşil alan"
+      ],
+      "social": [
+        "3500 kişiye istihdam",
+        "Engelsiz erişim",
+        "Kreş ve sosyal tesisler"
+      ],
+      "economic": [
+        "Bölgeye yıllık 50M TL ekonomik katkı",
+        "İnşaat süresince 2000 kişiye istihdam"
+      ]
+    },
+    "images": [
+      "/uploads/projects/223/iremworld-project-223-1.jpg",
+      "/uploads/projects/223/iremworld-project-223-2.jpg",
+      "/uploads/projects/223/iremworld-project-223-3.jpg"
+    ],
+    "coverImage": "/uploads/projects/223/iremworld-project-223-1.jpg",
+    "contact": {
+      "department": "Yapı İşleri Genel Müdürlüğü",
+      "phone": "+90 312 410 17 00",
+      "email": "yapi@csb.gov.tr",
+      "website": "https://csb.gov.tr"
+    },
+    "stats": {
+      "views": 15420,
+      "lastUpdated": "2024-11-15"
+    },
+    "createdAt": "2022-03-15T10:00:00Z",
+    "updatedAt": "2024-11-15T14:30:00Z"
+  },
+  {
+    "id": "GOV014",
+    "category": "gov_ministry",
+    "title": "Milli Eğitim Bakanlığı Eğitim Teknolojileri Merkezi",
+    "slug": "milli-egitim-bakanligi-egitim-teknolojileri-merkezi",
+    "description": "İstanbul'da kurulan Türkiye'nin en büyük eğitim teknolojileri ar-ge merkezi. Dijital eğitim içeriklerinin geliştirilmesi ve öğretmen eğitimleri için modern tesisler.",
+    "status": "Tamamlandı",
+    "authorizedInstitution": "Milli Eğitim Bakanlığı",
+    "ownership": "Bakanlık",
+    "budget": {
+      "total": 420000000,
+      "source": "Merkezi Bütçe",
+      "allocated": 420000000,
+      "spent": 420000000
+    },
+    "location": {
+      "country": "Türkiye",
+      "city": "İstanbul",
+      "district": "Ümraniye",
+      "neighborhood": "Çakmak",
+      "address": "Çakmak Mahallesi, 34770 Ümraniye/İstanbul",
+      "coordinates": {
+        "lat": 41.0082,
+        "lng": 29.0187
+      }
+    },
+    "specs": {
+      "totalArea": 65000,
+      "builtArea": 48000,
+      "capacity": 2000,
+      "floors": 8,
+      "startDate": "2021-01-10",
+      "completionDate": "2024-06-30"
+    },
+    "projectDetails": {
+      "contractor": "Rönesans İnşaat",
+      "architect": "EAA Emre Arolat Architecture",
+      "engineer": "Balkar Mühendislik",
+      "tenderDate": "2020-09-15",
+      "tenderAmount": 380000000
+    },
+    "features": [
+      "25 Dijital Laboratuvar",
+      "Yapay Zeka Araştırma Merkezi",
+      "500 Kişilik Konferans Salonu",
+      "3D Baskı Atölyeleri",
+      "Robotik Kodlama Alanı",
+      "Sanal Gerçeklik Stüdyoları",
+      "1000 Araçlık Otopark",
+      "Kütüphane ve Medya Merkezi"
+    ],
+    "impact": {
+      "environmental": [
+        "Enerji verimli tasarım",
+        "Geri dönüşümlü malzeme kullanımı"
+      ],
+      "social": [
+        "Yılda 50.000 öğretmen eğitimi",
+        "Dijital içerik üretimi"
+      ],
+      "economic": [
+        "2000 kişiye dolaylı istihdam",
+        "Teknoloji transferi"
+      ]
+    },
+    "images": [
+      "/uploads/projects/224/iremworld-project-224-1.jpg",
+      "/uploads/projects/224/iremworld-project-224-2.jpg"
+    ],
+    "coverImage": "/uploads/projects/224/iremworld-project-224-1.jpg",
+    "contact": {
+      "department": "Yenilik ve Eğitim Teknolojileri Genel Müdürlüğü",
+      "phone": "+90 312 413 10 65",
+      "email": "yegitek@meb.gov.tr",
+      "website": "https://yegitek.meb.gov.tr"
+    },
+    "stats": {
+      "views": 12350,
+      "lastUpdated": "2024-11-10"
+    },
+    "createdAt": "2021-01-10T09:00:00Z",
+    "updatedAt": "2024-11-10T11:20:00Z"
+  },
+  {
+    "id": "GOV015",
+    "category": "gov_municipality",
+    "title": "İstanbul Büyükşehir Belediyesi Akıllı Şehir Yönetim Merkezi",
+    "slug": "istanbul-buyuksehir-belediyesi-akilli-sehir-yonetim-merkezi",
+    "description": "İstanbul'un tüm ulaşım, alt yapı ve şehir hizmetlerinin 24/7 izlendiği ve yönetildiği teknoloji merkezi. Yapay zeka destekli karar destek sistemleri.",
+    "status": "Aktif Kullanımda",
+    "authorizedInstitution": "İstanbul Büyükşehir Belediyesi",
+    "ownership": "Belediye",
+    "budget": {
+      "total": 280000000,
+      "source": "Belediye Bütçesi",
+      "allocated": 280000000,
+      "spent": 280000000
+    },
+    "location": {
+      "country": "Türkiye",
+      "city": "İstanbul",
+      "district": "Şişli",
+      "neighborhood": "Merkez",
+      "address": "Halaskargazi Cad. No:2, 34371 Şişli/İstanbul",
+      "coordinates": {
+        "lat": 41.0536,
+        "lng": 28.9875
+      }
+    },
+    "specs": {
+      "totalArea": 35000,
+      "builtArea": 28000,
+      "capacity": 800,
+      "floors": 10,
+      "startDate": "2019-05-20",
+      "completionDate": "2022-12-15"
+    },
+    "projectDetails": {
+      "contractor": "Limak İnşaat",
+      "architect": "Tabanlioglu Architecture",
+      "engineer": "Denge Mühendislik",
+      "tenderDate": "2019-02-10",
+      "tenderAmount": 245000000
+    },
+    "features": [
+      "7/24 Komuta Kontrol Merkezi",
+      "Yapay Zeka Trafik Yönetimi",
+      "4500 Kamera İzleme Sistemi",
+      "Veri Analiz Merkezi",
+      "Acil Durum Koordinasyon Odası",
+      "Siber Güvenlik Merkezi",
+      "500 Araçlık Otopark",
+      "Yedek Enerji Sistemi"
+    ],
+    "impact": {
+      "environmental": [
+        "Trafik emisyonu %15 azaltma",
+        "Enerji tüketimi optimizasyonu"
+      ],
+      "social": [
+        "Acil müdahale süresi %30 azalma",
+        "Şehir hizmetlerinde dijitalleşme"
+      ],
+      "economic": [
+        "Yıllık 100M TL tasarruf",
+        "800 kişiye istihdam"
+      ]
+    },
+    "images": [
+      "/uploads/projects/225/iremworld-project-225-1.jpg",
+      "/uploads/projects/225/iremworld-project-225-2.jpg"
+    ],
+    "coverImage": "/uploads/projects/225/iremworld-project-225-1.jpg",
+    "contact": {
+      "department": "Bilgi İşlem Daire Başkanlığı",
+      "phone": "+90 212 449 49 49",
+      "email": "akillisehir@ibb.gov.tr",
+      "website": "https://ibb.istanbul"
+    },
+    "stats": {
+      "views": 18750,
+      "lastUpdated": "2024-11-18"
+    },
+    "createdAt": "2019-05-20T08:00:00Z",
+    "updatedAt": "2024-11-18T16:45:00Z"
+  },
+  {
+    "id": "GOV016",
+    "category": "gov_municipality",
+    "title": "Ankara Büyükşehir Belediyesi Çevre Koruma ve Kontrol Dairesi Binası",
+    "slug": "ankara-buyuksehir-belediyesi-cevre-koruma-kontrol-dairesi-binasi",
+    "description": "Sıfır atık ve çevre koruma hizmetlerinin yürütüldüğü LEED Gold sertifikalı modern belediye binası.",
+    "status": "Tamamlandı",
+    "authorizedInstitution": "Ankara Büyükşehir Belediyesi",
+    "ownership": "Belediye",
+    "budget": {
+      "total": 175000000,
+      "source": "Belediye Bütçesi",
+      "allocated": 175000000,
+      "spent": 175000000
+    },
+    "location": {
+      "country": "Türkiye",
+      "city": "Ankara",
+      "district": "Yenimahalle",
+      "neighborhood": "Karşıyaka",
+      "address": "Karşıyaka Mahallesi, 06370 Yenimahalle/Ankara",
+      "coordinates": {
+        "lat": 39.9754,
+        "lng": 32.7859
+      }
+    },
+    "specs": {
+      "totalArea": 22000,
+      "builtArea": 18000,
+      "capacity": 450,
+      "floors": 6,
+      "startDate": "2020-08-01",
+      "completionDate": "2023-10-30"
+    },
+    "projectDetails": {
+      "contractor": "Ant Yapı",
+      "architect": "Mimarlar Tasarım",
+      "engineer": "TTMD Mühendislik",
+      "tenderDate": "2020-05-15",
+      "tenderAmount": 158000000
+    },
+    "features": [
+      "LEED Gold Sertifikalı",
+      "Çevre Laboratuvarları",
+      "Atık Yönetim Merkezi",
+      "Geri Dönüşüm Tesisi",
+      "300 Araçlık Otopark",
+      "Yeşil Çatı Sistemi",
+      "Yağmur Suyu Harvesting"
+    ],
+    "impact": {
+      "environmental": [
+        "Yıllık 5000 ton geri dönüşüm",
+        "%50 su tasarrufu"
+      ],
+      "social": [
+        "450 kişiye istihdam",
+        "Çevre eğitim programları"
+      ],
+      "economic": [
+        "Atık değerlendirme geliri",
+        "Enerji maliyeti %40 düşük"
+      ]
+    },
+    "images": [
+      "/uploads/projects/226/iremworld-project-226-1.jpg",
+      "/uploads/projects/226/iremworld-project-226-2.jpg"
+    ],
+    "coverImage": "/uploads/projects/226/iremworld-project-226-1.jpg",
+    "contact": {
+      "department": "Çevre Koruma ve Kontrol Dairesi Başkanlığı",
+      "phone": "+90 312 455 15 00",
+      "email": "cevre@ankara.bel.tr",
+      "website": "https://ankara.bel.tr"
+    },
+    "stats": {
+      "views": 8920,
+      "lastUpdated": "2024-11-12"
+    },
+    "createdAt": "2020-08-01T10:00:00Z",
+    "updatedAt": "2024-11-12T14:00:00Z"
+  },
+  {
+    "id": "GOV017",
+    "category": "gov_courthouse",
+    "title": "Ankara Adliye Sarayı",
+    "slug": "ankara-adliye-sarayi",
+    "description": "Türkiye'nin en büyük adliye kompleksi. 350 duruşma salonu ve modern teknolojik altyapısıyla hukuk hizmetlerinin sunulduğu mega proje.",
+    "status": "Aktif Kullanımda",
+    "authorizedInstitution": "Adalet Bakanlığı",
+    "ownership": "Hazine",
+    "budget": {
+      "total": 1250000000,
+      "source": "Merkezi Bütçe",
+      "allocated": 1250000000,
+      "spent": 1250000000
+    },
+    "location": {
+      "country": "Türkiye",
+      "city": "Ankara",
+      "district": "Yenimahalle",
+      "neighborhood": "Karşıyaka",
+      "address": "Muhsin Yazıcıoğlu Cad. No:1, 06370 Yenimahalle/Ankara",
+      "coordinates": {
+        "lat": 39.9621,
+        "lng": 32.7844
+      }
+    },
+    "specs": {
+      "totalArea": 320000,
+      "builtArea": 280000,
+      "capacity": 5000,
+      "floors": 15,
+      "startDate": "2015-03-10",
+      "completionDate": "2018-10-15"
+    },
+    "projectDetails": {
+      "contractor": "Rönesans Holding",
+      "architect": "Tago Architects",
+      "engineer": "Balkar Mühendislik",
+      "tenderDate": "2014-11-20",
+      "tenderAmount": 1100000000
+    },
+    "features": [
+      "350 Duruşma Salonu",
+      "SEGBİS Sistemi",
+      "Dijital Dosya Yönetimi",
+      "5000 Araçlık Kapalı Otopark",
+      "Avukat Büroları",
+      "Tutuklu Konvoy Sistemi",
+      "Adli Tıp Laboratuvarları",
+      "Toplantı ve Konferans Salonları",
+      "Kantin ve Sosyal Tesisler"
+    ],
+    "impact": {
+      "social": [
+        "5000 kişilik istihdam",
+        "Günlük 10.000 vatandaş hizmeti",
+        "Adalete erişim kolaylığı"
+      ],
+      "economic": [
+        "Hukuk hizmetlerinde merkez",
+        "Bölge ekonomisine katkı"
+      ]
+    },
+    "images": [
+      "/uploads/projects/227/iremworld-project-227-1.jpg",
+      "/uploads/projects/227/iremworld-project-227-2.jpg"
+    ],
+    "coverImage": "/uploads/projects/227/iremworld-project-227-1.jpg",
+    "contact": {
+      "department": "Ankara Adalet Komisyonu",
+      "phone": "+90 312 365 50 00",
+      "email": "ankaraadliyesi@adalet.gov.tr",
+      "website": "https://ankara.adalet.gov.tr"
+    },
+    "stats": {
+      "views": 22100,
+      "lastUpdated": "2024-11-17"
+    },
+    "createdAt": "2015-03-10T09:00:00Z",
+    "updatedAt": "2024-11-17T15:30:00Z"
+  },
+  {
+    "id": "GOV018",
+    "category": "gov_courthouse",
+    "title": "İstanbul Çağlayan Adalet Sarayı Ek Hizmet Binası",
+    "slug": "istanbul-caglayan-adalet-sarayi-ek-hizmet-binasi",
+    "description": "Çağlayan Adliyesi'nin yükünü hafifletmek için inşa edilen ek kapasite binası. 80 duruşma salonu ve modern teknolojik donanım.",
+    "status": "İnşaat Devam Ediyor",
+    "authorizedInstitution": "Adalet Bakanlığı",
+    "ownership": "Hazine",
+    "budget": {
+      "total": 580000000,
+      "source": "Merkezi Bütçe",
+      "allocated": 580000000,
+      "spent": 390000000
+    },
+    "location": {
+      "country": "Türkiye",
+      "city": "İstanbul",
+      "district": "Kağıthane",
+      "neighborhood": "Çağlayan",
+      "address": "Çağlayan Mahallesi, 34403 Kağıthane/İstanbul",
+      "coordinates": {
+        "lat": 41.0726,
+        "lng": 28.9784
+      }
+    },
+    "specs": {
+      "totalArea": 95000,
+      "builtArea": 78000,
+      "capacity": 2000,
+      "floors": 12,
+      "startDate": "2022-09-01",
+      "estimatedCompletion": "2025-06-30"
+    },
+    "projectDetails": {
+      "contractor": "Ant Yapı A.Ş.",
+      "architect": "Teget Mimarlık",
+      "engineer": "Prota Mühendislik",
+      "tenderDate": "2022-05-20",
+      "tenderAmount": 520000000
+    },
+    "features": [
+      "80 Duruşma Salonu",
+      "Dijital Arşiv Sistemi",
+      "SEGBİS Olanakları",
+      "1500 Araçlık Otopark",
+      "Baro Büroları",
+      "Kafeterya ve Sosyal Alanlar",
+      "Güvenlik Kontrol Sistemleri"
+    ],
+    "impact": {
+      "social": [
+        "Adalet hizmetlerinde kapasite artışı",
+        "2000 kişiye istihdam"
+      ],
+      "economic": [
+        "İnşaat süresince 1500 işçi",
+        "Yerel ekonomiye katkı"
+      ]
+    },
+    "images": [
+      "/uploads/projects/228/iremworld-project-228-1.jpg",
+      "/uploads/projects/228/iremworld-project-228-2.jpg"
+    ],
+    "coverImage": "/uploads/projects/228/iremworld-project-228-1.jpg",
+    "contact": {
+      "department": "İstanbul Adalet Komisyonu",
+      "phone": "+90 212 270 50 00",
+      "email": "istanbuladliyesi@adalet.gov.tr",
+      "website": "https://istanbul.adalet.gov.tr"
+    },
+    "stats": {
+      "views": 14560,
+      "lastUpdated": "2024-11-14"
+    },
+    "createdAt": "2022-09-01T10:00:00Z",
+    "updatedAt": "2024-11-14T12:15:00Z"
+  }
+]
+

@@ -1,0 +1,2353 @@
+[
+  {
+    "id": "P01863",
+    "type": "sale",
+    "category": {
+      "main": "government"
+    },
+    "title": "Satılık Belediye Binası - Avarua",
+    "slug": "satilik-belediye-binası-avarua-P01863",
+    "description": "Avarua, Cook Islands bölgesinde belediye binası. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 25497723,
+    "location": {
+      "country": "CK",
+      "city": "Avarua",
+      "district": "Avarua Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 409",
+      "coordinates": {
+        "lat": -20.995017524067933,
+        "lng": -159.8251496767639
+      }
+    },
+    "specs": {
+      "netSize": 1235,
+      "grossSize": 1482,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 19,
+      "floor": 14,
+      "totalFloors": 18,
+      "heating": "Kombi",
+      "furnishing": "Furnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500619035326?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500126603042?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500764617247?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500605125201?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500295298909?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500319187793?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500018731086?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500215119246?w=800&q=80&category=building"
+    ],
+    "agent": {
+      "id": "A22",
+      "name": "Agent 48",
+      "phone": "+64 910 556 6218",
+      "email": "agent85@iwrealty.com",
+      "photo": "/images/icons/png/london-prime-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": false,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-06-29T10:50:47.198Z",
+    "updatedAt": "2025-11-13T10:50:47.198Z",
+    "storeId": "store-007"
+  },
+  {
+    "id": "P01864",
+    "type": "rent",
+    "category": {
+      "main": "government"
+    },
+    "title": "Kiralık Okul - Cook Islands Central",
+    "slug": "kiralik-okul-cook-islands-central-P01864",
+    "description": "Cook Islands Central, Cook Islands bölgesinde okul. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 26728231,
+    "location": {
+      "country": "CK",
+      "city": "Cook Islands Central",
+      "district": "Cook Islands Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 405",
+      "coordinates": {
+        "lat": -21.43689047948716,
+        "lng": -159.85245278673042
+      }
+    },
+    "specs": {
+      "netSize": 4692,
+      "grossSize": 5630,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 2,
+      "floor": 4,
+      "totalFloors": 9,
+      "heating": "Klima",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500472829000?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500510890856?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500375999876?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500127286057?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500549895568?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500395710307?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500806130928?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500088456785?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500090045182?w=800&q=80&category=house"
+    ],
+    "agent": {
+      "id": "A65",
+      "name": "Agent 33",
+      "phone": "+30 336 667 4668",
+      "email": "agent79@iwrealty.com",
+      "photo": "/images/icons/png/antalya-investment-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": false,
+      "hasBalcony": false,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-01-25T10:50:47.198Z",
+    "updatedAt": "2025-11-13T10:50:47.198Z",
+    "storeId": "store-006"
+  },
+  {
+    "id": "P01865",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Müstakil Ev - Cook Islands City",
+    "slug": "satilik-müstakil-ev-cook-islands-city-P01865",
+    "description": "Cook Islands City, Cook Islands bölgesinde müstakil ev. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 13348603,
+    "location": {
+      "country": "CK",
+      "city": "Cook Islands City",
+      "district": "Cook Islands City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 313",
+      "coordinates": {
+        "lat": -20.85449072993505,
+        "lng": -159.83109253189704
+      }
+    },
+    "specs": {
+      "netSize": 111,
+      "grossSize": 133,
+      "rooms": "1+0",
+      "bathrooms": 3,
+      "age": 2,
+      "floor": 5,
+      "totalFloors": 7,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Furnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500795095503?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500879948068?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500196011572?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500874769318?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500025746077?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500572927994?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500712621794?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500152721437?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500157272699?w=800&q=80&category=real-estate"
+    ],
+    "agent": {
+      "id": "A43",
+      "name": "Agent 40",
+      "phone": "+16 241 353 8754",
+      "email": "agent50@iwrealty.com",
+      "photo": "/images/icons/png/izmir-sahil-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-08-20T10:50:47.198Z",
+    "updatedAt": "2025-11-13T10:50:47.198Z",
+    "storeId": "store-005"
+  },
+  {
+    "id": "P01866",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Müstakil Ev - Avarua",
+    "slug": "kiralik-müstakil-ev-avarua-P01866",
+    "description": "Avarua, Cook Islands bölgesinde müstakil ev. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 7533967,
+    "location": {
+      "country": "CK",
+      "city": "Avarua",
+      "district": "Avarua Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 11",
+      "coordinates": {
+        "lat": -21.359779756071042,
+        "lng": -159.45990565736182
+      }
+    },
+    "specs": {
+      "netSize": 231,
+      "grossSize": 277,
+      "rooms": "3+0",
+      "bathrooms": 2,
+      "age": 11,
+      "floor": 7,
+      "totalFloors": 18,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500934416967?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500630143720?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500616141425?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500818577963?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500285483115?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500419083620?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500877848356?w=800&q=80&category=building"
+    ],
+    "agent": {
+      "id": "A63",
+      "name": "Agent 5",
+      "phone": "+66 100 629 2878",
+      "email": "agent37@iwrealty.com",
+      "photo": "/images/icons/png/paris-heritage-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": false,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-08-15T10:50:47.198Z",
+    "updatedAt": "2025-11-13T10:50:47.198Z",
+    "storeId": "store-010"
+  },
+  {
+    "id": "P01867",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Müstakil Ev - New Cook Islands",
+    "slug": "satilik-müstakil-ev-new-cook-islands-P01867",
+    "description": "New Cook Islands, Cook Islands bölgesinde müstakil ev. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 12785789,
+    "location": {
+      "country": "CK",
+      "city": "New Cook Islands",
+      "district": "New Cook Islands Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 470",
+      "coordinates": {
+        "lat": -21.520774802021528,
+        "lng": -159.53442845273932
+      }
+    },
+    "specs": {
+      "netSize": 404,
+      "grossSize": 485,
+      "rooms": "2+2",
+      "bathrooms": 4,
+      "age": 1,
+      "floor": 7,
+      "totalFloors": 9,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500045071470?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500937618632?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500786984403?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500705571703?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500907514889?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500604867758?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500362371097?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500232429483?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500233215513?w=800&q=80&category=building"
+    ],
+    "agent": {
+      "id": "A3",
+      "name": "Agent 54",
+      "phone": "+53 207 327 8820",
+      "email": "agent59@iwrealty.com",
+      "photo": "/images/icons/png/ankara-modern-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": false,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-08-30T10:50:47.198Z",
+    "updatedAt": "2025-11-13T10:50:47.198Z",
+    "storeId": "store-003"
+  },
+  {
+    "id": "P01868",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Villa - Cook Islands Central",
+    "slug": "kiralik-villa-cook-islands-central-P01868",
+    "description": "Cook Islands Central, Cook Islands bölgesinde villa. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 9454818,
+    "location": {
+      "country": "CK",
+      "city": "Cook Islands Central",
+      "district": "Cook Islands Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 260",
+      "coordinates": {
+        "lat": -21.192032400100757,
+        "lng": -159.5778200262994
+      }
+    },
+    "specs": {
+      "netSize": 229,
+      "grossSize": 275,
+      "rooms": "4+1",
+      "bathrooms": 2,
+      "age": 17,
+      "floor": 2,
+      "totalFloors": 5,
+      "heating": "Merkezi",
+      "furnishing": "Unfurnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500060275728?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500839105365?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500952256848?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500835176099?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500778222205?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500420865982?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500254287135?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500924779144?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500773588834?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500205250106?w=800&q=80&category=real-estate"
+    ],
+    "agent": {
+      "id": "A32",
+      "name": "Agent 72",
+      "phone": "+18 963 909 1052",
+      "email": "agent37@iwrealty.com",
+      "photo": "/images/icons/png/sg-harbour-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-01-30T10:50:47.198Z",
+    "updatedAt": "2025-11-13T10:50:47.198Z",
+    "storeId": "store-011"
+  },
+  {
+    "id": "P01869",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Villa - New Cook Islands",
+    "slug": "satilik-villa-new-cook-islands-P01869",
+    "description": "New Cook Islands, Cook Islands bölgesinde villa. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 4496373,
+    "location": {
+      "country": "CK",
+      "city": "New Cook Islands",
+      "district": "New Cook Islands Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 955",
+      "coordinates": {
+        "lat": -21.253235632867998,
+        "lng": -159.8739038499899
+      }
+    },
+    "specs": {
+      "netSize": 235,
+      "grossSize": 282,
+      "rooms": "2+1",
+      "bathrooms": 3,
+      "age": 16,
+      "floor": 15,
+      "totalFloors": 7,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Unfurnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500707003065?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500264915121?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500908903761?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500339511383?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500563322347?w=800&q=80&category=architecture"
+    ],
+    "agent": {
+      "id": "A35",
+      "name": "Agent 75",
+      "phone": "+26 378 107 3691",
+      "email": "agent97@iwrealty.com",
+      "photo": "/images/icons/png/antalya-investment-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2024-12-04T10:50:47.198Z",
+    "updatedAt": "2025-11-13T10:50:47.198Z",
+    "storeId": "store-006"
+  },
+  {
+    "id": "P01870",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Daire - New Cook Islands",
+    "slug": "kiralik-daire-new-cook-islands-P01870",
+    "description": "New Cook Islands, Cook Islands bölgesinde daire. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 3484699,
+    "location": {
+      "country": "CK",
+      "city": "New Cook Islands",
+      "district": "New Cook Islands Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 141",
+      "coordinates": {
+        "lat": -20.79970841209483,
+        "lng": -159.88307952217173
+      }
+    },
+    "specs": {
+      "netSize": 368,
+      "grossSize": 442,
+      "rooms": "3+1",
+      "bathrooms": 1,
+      "age": 12,
+      "floor": 14,
+      "totalFloors": 14,
+      "heating": "Kombi",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500242992778?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500184362837?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500693917729?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500736131541?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500032228036?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500926249125?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500561345199?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500033167361?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500874647074?w=800&q=80&category=building"
+    ],
+    "agent": {
+      "id": "A88",
+      "name": "Agent 22",
+      "phone": "+29 776 845 2087",
+      "email": "agent40@iwrealty.com",
+      "photo": "/images/icons/png/luxury-homes-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-05-25T10:50:47.198Z",
+    "updatedAt": "2025-11-13T10:50:47.198Z",
+    "storeId": "store-002"
+  },
+  {
+    "id": "P01871",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Müstakil Ev - Cook Islands Central",
+    "slug": "satilik-müstakil-ev-cook-islands-central-P01871",
+    "description": "Cook Islands Central, Cook Islands bölgesinde müstakil ev. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 793028,
+    "location": {
+      "country": "CK",
+      "city": "Cook Islands Central",
+      "district": "Cook Islands Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 9",
+      "coordinates": {
+        "lat": -21.345600690381257,
+        "lng": -160.03715073469306
+      }
+    },
+    "specs": {
+      "netSize": 279,
+      "grossSize": 335,
+      "rooms": "2+0",
+      "bathrooms": 1,
+      "age": 10,
+      "floor": 14,
+      "totalFloors": 5,
+      "heating": "Kombi",
+      "furnishing": "Unfurnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500590012861?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500562545265?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500654949472?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500579118880?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500275113355?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500886576179?w=800&q=80&category=interior"
+    ],
+    "agent": {
+      "id": "A81",
+      "name": "Agent 46",
+      "phone": "+63 246 970 3479",
+      "email": "agent92@iwrealty.com",
+      "photo": "/images/icons/png/izmir-sahil-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-01-09T10:50:47.198Z",
+    "updatedAt": "2025-11-13T10:50:47.198Z",
+    "storeId": "store-005"
+  },
+  {
+    "id": "P01872",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Residence - Cook Islands City",
+    "slug": "kiralik-residence-cook-islands-city-P01872",
+    "description": "Cook Islands City, Cook Islands bölgesinde residence. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 13976982,
+    "location": {
+      "country": "CK",
+      "city": "Cook Islands City",
+      "district": "Cook Islands City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 240",
+      "coordinates": {
+        "lat": -21.170125073744437,
+        "lng": -159.7812381064321
+      }
+    },
+    "specs": {
+      "netSize": 167,
+      "grossSize": 200,
+      "rooms": "5+0",
+      "bathrooms": 3,
+      "age": 20,
+      "floor": 7,
+      "totalFloors": 10,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Unfurnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500535868789?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500860477654?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500934114530?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500504252280?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500757156157?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500376009929?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500273659371?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500297830426?w=800&q=80&category=architecture"
+    ],
+    "agent": {
+      "id": "A74",
+      "name": "Agent 75",
+      "phone": "+26 429 700 2691",
+      "email": "agent11@iwrealty.com",
+      "photo": "/images/icons/png/antalya-investment-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-08-01T10:50:47.198Z",
+    "updatedAt": "2025-11-13T10:50:47.198Z",
+    "storeId": "store-006"
+  },
+  {
+    "id": "P01873",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Daire - Avarua",
+    "slug": "satilik-daire-avarua-P01873",
+    "description": "Avarua, Cook Islands bölgesinde daire. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 10741661,
+    "location": {
+      "country": "CK",
+      "city": "Avarua",
+      "district": "Avarua Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 720",
+      "coordinates": {
+        "lat": -20.965010775914045,
+        "lng": -160.08959662309255
+      }
+    },
+    "specs": {
+      "netSize": 410,
+      "grossSize": 492,
+      "rooms": "5+1",
+      "bathrooms": 1,
+      "age": 0,
+      "floor": 5,
+      "totalFloors": 10,
+      "heating": "Kombi",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500476891576?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500107488999?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500533991245?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500899251746?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500257429170?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500785059156?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500173684645?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500009414251?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500922989674?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500572139838?w=800&q=80&category=building"
+    ],
+    "agent": {
+      "id": "A76",
+      "name": "Agent 82",
+      "phone": "+52 348 951 7878",
+      "email": "agent8@iwrealty.com",
+      "photo": "/images/icons/png/paris-heritage-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-01-04T10:50:47.198Z",
+    "updatedAt": "2025-11-13T10:50:47.199Z",
+    "storeId": "store-010"
+  },
+  {
+    "id": "P01874",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Daire - Avarua",
+    "slug": "kiralik-daire-avarua-P01874",
+    "description": "Avarua, Cook Islands bölgesinde daire. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 8246224,
+    "location": {
+      "country": "CK",
+      "city": "Avarua",
+      "district": "Avarua Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 475",
+      "coordinates": {
+        "lat": -21.43509744820013,
+        "lng": -160.2450863912881
+      }
+    },
+    "specs": {
+      "netSize": 139,
+      "grossSize": 167,
+      "rooms": "1+0",
+      "bathrooms": 2,
+      "age": 17,
+      "floor": 7,
+      "totalFloors": 5,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Furnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500053241454?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500864674802?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500005760316?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500437609834?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500306336055?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500078825014?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500295622055?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500283548067?w=800&q=80&category=building"
+    ],
+    "agent": {
+      "id": "A19",
+      "name": "Agent 11",
+      "phone": "+46 316 705 9735",
+      "email": "agent79@iwrealty.com",
+      "photo": "/images/icons/png/antalya-investment-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-07-27T10:50:47.199Z",
+    "updatedAt": "2025-11-13T10:50:47.199Z",
+    "storeId": "store-006"
+  },
+  {
+    "id": "P01875",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Daire - Cook Islands Central",
+    "slug": "satilik-daire-cook-islands-central-P01875",
+    "description": "Cook Islands Central, Cook Islands bölgesinde daire. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 7864511,
+    "location": {
+      "country": "CK",
+      "city": "Cook Islands Central",
+      "district": "Cook Islands Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 39",
+      "coordinates": {
+        "lat": -21.665148988701404,
+        "lng": -159.79714033195154
+      }
+    },
+    "specs": {
+      "netSize": 143,
+      "grossSize": 172,
+      "rooms": "1+2",
+      "bathrooms": 2,
+      "age": 8,
+      "floor": 1,
+      "totalFloors": 15,
+      "heating": "Klima",
+      "furnishing": "Unfurnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500136620005?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500026885178?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500580367088?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500405461210?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500259653731?w=800&q=80&category=architecture"
+    ],
+    "agent": {
+      "id": "A11",
+      "name": "Agent 14",
+      "phone": "+22 682 542 7567",
+      "email": "agent8@iwrealty.com",
+      "photo": "/images/icons/png/ankara-modern-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-07-15T10:50:47.199Z",
+    "updatedAt": "2025-11-13T10:50:47.199Z",
+    "storeId": "store-003"
+  },
+  {
+    "id": "P01876",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Müstakil Ev - Avarua",
+    "slug": "kiralik-müstakil-ev-avarua-P01876",
+    "description": "Avarua, Cook Islands bölgesinde müstakil ev. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 9792782,
+    "location": {
+      "country": "CK",
+      "city": "Avarua",
+      "district": "Avarua Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 464",
+      "coordinates": {
+        "lat": -21.04620172259675,
+        "lng": -159.51979117561362
+      }
+    },
+    "specs": {
+      "netSize": 384,
+      "grossSize": 461,
+      "rooms": "5+2",
+      "bathrooms": 2,
+      "age": 13,
+      "floor": 14,
+      "totalFloors": 9,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Unfurnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500470424133?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500880565172?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500171979122?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500718356093?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500213518271?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500208211678?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500958870343?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500109024823?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500972826649?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500829859166?w=800&q=80&category=interior"
+    ],
+    "agent": {
+      "id": "A50",
+      "name": "Agent 30",
+      "phone": "+10 457 777 9235",
+      "email": "agent28@iwrealty.com",
+      "photo": "/images/icons/png/ny-skyline-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": false,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-08-18T10:50:47.199Z",
+    "updatedAt": "2025-11-13T10:50:47.199Z",
+    "storeId": "store-008"
+  },
+  {
+    "id": "P01877",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Residence - Avarua",
+    "slug": "satilik-residence-avarua-P01877",
+    "description": "Avarua, Cook Islands bölgesinde residence. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 12044804,
+    "location": {
+      "country": "CK",
+      "city": "Avarua",
+      "district": "Avarua Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 717",
+      "coordinates": {
+        "lat": -21.316213623796905,
+        "lng": -160.17972167304046
+      }
+    },
+    "specs": {
+      "netSize": 115,
+      "grossSize": 138,
+      "rooms": "3+0",
+      "bathrooms": 2,
+      "age": 7,
+      "floor": 9,
+      "totalFloors": 5,
+      "heating": "Kombi",
+      "furnishing": "Furnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500382932413?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500440769944?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500305097988?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500034004946?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500395418581?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500311046652?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500799172764?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500393509021?w=800&q=80&category=architecture"
+    ],
+    "agent": {
+      "id": "A30",
+      "name": "Agent 9",
+      "phone": "+49 275 280 1062",
+      "email": "agent20@iwrealty.com",
+      "photo": "/images/icons/png/sg-harbour-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2024-12-05T10:50:47.199Z",
+    "updatedAt": "2025-11-13T10:50:47.199Z",
+    "storeId": "store-011"
+  },
+  {
+    "id": "P01878",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Villa - New Cook Islands",
+    "slug": "kiralik-villa-new-cook-islands-P01878",
+    "description": "New Cook Islands, Cook Islands bölgesinde villa. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 8507823,
+    "location": {
+      "country": "CK",
+      "city": "New Cook Islands",
+      "district": "New Cook Islands Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 229",
+      "coordinates": {
+        "lat": -21.64958330633167,
+        "lng": -159.5788433480273
+      }
+    },
+    "specs": {
+      "netSize": 300,
+      "grossSize": 360,
+      "rooms": "5+1",
+      "bathrooms": 2,
+      "age": 19,
+      "floor": 10,
+      "totalFloors": 11,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Furnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500019058828?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500704533973?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500594441564?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500499926691?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500687463064?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500879416104?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500409584855?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500577988439?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500661190763?w=800&q=80&category=architecture"
+    ],
+    "agent": {
+      "id": "A58",
+      "name": "Agent 45",
+      "phone": "+44 383 118 2665",
+      "email": "agent15@iwrealty.com",
+      "photo": "/images/icons/png/izmir-sahil-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": true,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-07-21T10:50:47.199Z",
+    "updatedAt": "2025-11-13T10:50:47.199Z",
+    "storeId": "store-005"
+  },
+  {
+    "id": "P01879",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Daire - Avarua",
+    "slug": "satilik-daire-avarua-P01879",
+    "description": "Avarua, Cook Islands bölgesinde daire. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 14567179,
+    "location": {
+      "country": "CK",
+      "city": "Avarua",
+      "district": "Avarua Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 6",
+      "coordinates": {
+        "lat": -21.076353639253746,
+        "lng": -159.36555171561955
+      }
+    },
+    "specs": {
+      "netSize": 195,
+      "grossSize": 234,
+      "rooms": "4+2",
+      "bathrooms": 3,
+      "age": 19,
+      "floor": 13,
+      "totalFloors": 12,
+      "heating": "Klima",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500464018523?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500413892918?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500437290865?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500018182086?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500601251164?w=800&q=80&category=interior"
+    ],
+    "agent": {
+      "id": "A61",
+      "name": "Agent 28",
+      "phone": "+74 654 739 8591",
+      "email": "agent25@iwrealty.com",
+      "photo": "/images/icons/png/ankara-modern-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": false,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": true,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-08-28T10:50:47.199Z",
+    "updatedAt": "2025-11-13T10:50:47.199Z",
+    "storeId": "store-003"
+  },
+  {
+    "id": "P01880",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Müstakil Ev - Cook Islands City",
+    "slug": "kiralik-müstakil-ev-cook-islands-city-P01880",
+    "description": "Cook Islands City, Cook Islands bölgesinde müstakil ev. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 5539084,
+    "location": {
+      "country": "CK",
+      "city": "Cook Islands City",
+      "district": "Cook Islands City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 552",
+      "coordinates": {
+        "lat": -21.03002587464843,
+        "lng": -159.6549512201708
+      }
+    },
+    "specs": {
+      "netSize": 249,
+      "grossSize": 299,
+      "rooms": "5+0",
+      "bathrooms": 2,
+      "age": 14,
+      "floor": 10,
+      "totalFloors": 17,
+      "heating": "Kombi",
+      "furnishing": "Furnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500287775755?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500873610262?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500768117159?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500508975802?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500178119578?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500348336075?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500863542503?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500083261429?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500428665080?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500299464586?w=800&q=80&category=interior"
+    ],
+    "agent": {
+      "id": "A77",
+      "name": "Agent 94",
+      "phone": "+59 627 687 3515",
+      "email": "agent69@iwrealty.com",
+      "photo": "/images/icons/png/sg-harbour-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-03-01T10:50:47.199Z",
+    "updatedAt": "2025-11-13T10:50:47.199Z",
+    "storeId": "store-011"
+  },
+  {
+    "id": "P01881",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Müstakil Ev - Cook Islands City",
+    "slug": "satilik-müstakil-ev-cook-islands-city-P01881",
+    "description": "Cook Islands City, Cook Islands bölgesinde müstakil ev. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 4686932,
+    "location": {
+      "country": "CK",
+      "city": "Cook Islands City",
+      "district": "Cook Islands City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 46",
+      "coordinates": {
+        "lat": -21.646161032268125,
+        "lng": -159.80640316569935
+      }
+    },
+    "specs": {
+      "netSize": 244,
+      "grossSize": 293,
+      "rooms": "4+0",
+      "bathrooms": 3,
+      "age": 6,
+      "floor": 3,
+      "totalFloors": 19,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500684317116?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500117790142?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500607043462?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500540602046?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500355841720?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500364431836?w=800&q=80&category=house"
+    ],
+    "agent": {
+      "id": "A75",
+      "name": "Agent 63",
+      "phone": "+13 116 437 5254",
+      "email": "agent64@iwrealty.com",
+      "photo": "/images/icons/png/ankara-modern-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": false,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-06-01T10:50:47.199Z",
+    "updatedAt": "2025-11-13T10:50:47.199Z",
+    "storeId": "store-003"
+  },
+  {
+    "id": "P01882",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Daire - New Cook Islands",
+    "slug": "kiralik-daire-new-cook-islands-P01882",
+    "description": "New Cook Islands, Cook Islands bölgesinde daire. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 4430411,
+    "location": {
+      "country": "CK",
+      "city": "New Cook Islands",
+      "district": "New Cook Islands Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 760",
+      "coordinates": {
+        "lat": -21.427969424664383,
+        "lng": -159.38656858657768
+      }
+    },
+    "specs": {
+      "netSize": 109,
+      "grossSize": 131,
+      "rooms": "1+1",
+      "bathrooms": 2,
+      "age": 14,
+      "floor": 6,
+      "totalFloors": 16,
+      "heating": "Kombi",
+      "furnishing": "Unfurnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500421639085?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500277921370?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500023355887?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500318848544?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500206328482?w=800&q=80&category=architecture"
+    ],
+    "agent": {
+      "id": "A87",
+      "name": "Agent 14",
+      "phone": "+24 821 496 8439",
+      "email": "agent33@iwrealty.com",
+      "photo": "/images/icons/png/london-prime-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": true,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-08-16T10:50:47.199Z",
+    "updatedAt": "2025-11-13T10:50:47.199Z",
+    "storeId": "store-007"
+  },
+  {
+    "id": "P01883",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Müstakil Ev - New Cook Islands",
+    "slug": "satilik-müstakil-ev-new-cook-islands-P01883",
+    "description": "New Cook Islands, Cook Islands bölgesinde müstakil ev. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 10945374,
+    "location": {
+      "country": "CK",
+      "city": "New Cook Islands",
+      "district": "New Cook Islands Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 307",
+      "coordinates": {
+        "lat": -21.23184170084169,
+        "lng": -159.57259385046927
+      }
+    },
+    "specs": {
+      "netSize": 305,
+      "grossSize": 366,
+      "rooms": "5+2",
+      "bathrooms": 1,
+      "age": 8,
+      "floor": 11,
+      "totalFloors": 20,
+      "heating": "Klima",
+      "furnishing": "Furnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500215196053?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500434017710?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500682643373?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500570794450?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500816976035?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500069979854?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500569957163?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500556324736?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500554660118?w=800&q=80&category=house"
+    ],
+    "agent": {
+      "id": "A71",
+      "name": "Agent 92",
+      "phone": "+65 318 903 5382",
+      "email": "agent89@iwrealty.com",
+      "photo": "/images/icons/png/dubai-property-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": true,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-03-21T10:50:47.199Z",
+    "updatedAt": "2025-11-13T10:50:47.199Z",
+    "storeId": "store-004"
+  },
+  {
+    "id": "P01884",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Villa - New Cook Islands",
+    "slug": "kiralik-villa-new-cook-islands-P01884",
+    "description": "New Cook Islands, Cook Islands bölgesinde villa. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 1892706,
+    "location": {
+      "country": "CK",
+      "city": "New Cook Islands",
+      "district": "New Cook Islands Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 318",
+      "coordinates": {
+        "lat": -21.345890552682906,
+        "lng": -160.1969533517044
+      }
+    },
+    "specs": {
+      "netSize": 473,
+      "grossSize": 568,
+      "rooms": "2+1",
+      "bathrooms": 2,
+      "age": 11,
+      "floor": 7,
+      "totalFloors": 12,
+      "heating": "Klima",
+      "furnishing": "Unfurnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500597331922?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500459235283?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500551208184?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500866818938?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500561403122?w=800&q=80&category=house"
+    ],
+    "agent": {
+      "id": "A26",
+      "name": "Agent 95",
+      "phone": "+81 551 455 4525",
+      "email": "agent64@iwrealty.com",
+      "photo": "/images/icons/png/sg-harbour-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-08-15T10:50:47.199Z",
+    "updatedAt": "2025-11-13T10:50:47.199Z",
+    "storeId": "store-011"
+  },
+  {
+    "id": "P01885",
+    "type": "sale",
+    "category": {
+      "main": "commercial",
+      "sub": "hospital"
+    },
+    "title": "Satılık Hastane - Avarua",
+    "slug": "satilik-hastane-avarua-P01885",
+    "description": "Avarua, Cook Islands bölgesinde hastane. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 41095259,
+    "location": {
+      "country": "CK",
+      "city": "Avarua",
+      "district": "Avarua Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 893",
+      "coordinates": {
+        "lat": -21.42223723285902,
+        "lng": -159.61898008530963
+      }
+    },
+    "specs": {
+      "netSize": 4408,
+      "grossSize": 5290,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 20,
+      "floor": 12,
+      "totalFloors": 16,
+      "heating": "Klima",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500565505378?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500922118297?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500013793030?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500347559347?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500527641889?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500958624327?w=800&q=80&category=house"
+    ],
+    "agent": {
+      "id": "A95",
+      "name": "Agent 75",
+      "phone": "+85 233 767 7702",
+      "email": "agent19@iwrealty.com",
+      "photo": "/images/icons/png/ny-skyline-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": false,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-07-16T10:50:47.199Z",
+    "updatedAt": "2025-11-13T10:50:47.199Z",
+    "storeId": "store-008"
+  },
+  {
+    "id": "P01886",
+    "type": "rent",
+    "category": {
+      "main": "commercial",
+      "sub": "hospital"
+    },
+    "title": "Kiralık Hastane - Avarua",
+    "slug": "kiralik-hastane-avarua-P01886",
+    "description": "Avarua, Cook Islands bölgesinde hastane. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 30743735,
+    "location": {
+      "country": "CK",
+      "city": "Avarua",
+      "district": "Avarua Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 587",
+      "coordinates": {
+        "lat": -20.7363160274511,
+        "lng": -160.04516336392967
+      }
+    },
+    "specs": {
+      "netSize": 12530,
+      "grossSize": 15036,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 19,
+      "floor": 9,
+      "totalFloors": 12,
+      "heating": "Kombi",
+      "furnishing": "Unfurnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500342827483?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500050828497?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500164398432?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500933154810?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500438805522?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500062314785?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500943700868?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500858645535?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500379248155?w=800&q=80&category=real-estate"
+    ],
+    "agent": {
+      "id": "A83",
+      "name": "Agent 84",
+      "phone": "+35 154 297 2781",
+      "email": "agent86@iwrealty.com",
+      "photo": "/images/icons/png/antalya-investment-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": false,
+      "hasBalcony": false,
+      "hasGarden": true,
+      "hasPool": true,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-09-20T10:50:47.199Z",
+    "updatedAt": "2025-11-13T10:50:47.199Z",
+    "storeId": "store-006"
+  },
+  {
+    "id": "P01887",
+    "type": "sale",
+    "category": {
+      "main": "commercial",
+      "sub": "clinic"
+    },
+    "title": "Satılık Klinik - Avarua",
+    "slug": "satilik-klinik-avarua-P01887",
+    "description": "Avarua, Cook Islands bölgesinde klinik. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 4838826,
+    "location": {
+      "country": "CK",
+      "city": "Avarua",
+      "district": "Avarua Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 132",
+      "coordinates": {
+        "lat": -21.433061691230897,
+        "lng": -159.4789406210468
+      }
+    },
+    "specs": {
+      "netSize": 1035,
+      "grossSize": 1242,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 6,
+      "floor": 9,
+      "totalFloors": 10,
+      "heating": "Klima",
+      "furnishing": "Unfurnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500360044204?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500368963611?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500524979194?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500479637667?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500684583732?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500435901453?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500916613123?w=800&q=80&category=house"
+    ],
+    "agent": {
+      "id": "A83",
+      "name": "Agent 76",
+      "phone": "+64 532 332 3312",
+      "email": "agent61@iwrealty.com",
+      "photo": "/images/icons/png/antalya-investment-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": true,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-07-03T10:50:47.199Z",
+    "updatedAt": "2025-11-13T10:50:47.199Z",
+    "storeId": "store-006"
+  },
+  {
+    "id": "P01888",
+    "type": "rent",
+    "category": {
+      "main": "commercial",
+      "sub": "clinic"
+    },
+    "title": "Kiralık Klinik - Avarua",
+    "slug": "kiralik-klinik-avarua-P01888",
+    "description": "Avarua, Cook Islands bölgesinde klinik. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 15901869,
+    "location": {
+      "country": "CK",
+      "city": "Avarua",
+      "district": "Avarua Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 224",
+      "coordinates": {
+        "lat": -21.35294152355436,
+        "lng": -159.79196674735212
+      }
+    },
+    "specs": {
+      "netSize": 910,
+      "grossSize": 1092,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 15,
+      "floor": 3,
+      "totalFloors": 17,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Furnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500109308036?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500313151837?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500950261885?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500693547027?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500745301682?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500947603136?w=800&q=80&category=interior"
+    ],
+    "agent": {
+      "id": "A19",
+      "name": "Agent 97",
+      "phone": "+38 228 812 7236",
+      "email": "agent83@iwrealty.com",
+      "photo": "/images/icons/png/ankara-modern-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": false,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-02-04T10:50:47.199Z",
+    "updatedAt": "2025-11-13T10:50:47.199Z",
+    "storeId": "store-003"
+  },
+  {
+    "id": "P01889",
+    "type": "sale",
+    "category": {
+      "main": "commercial",
+      "sub": "shop"
+    },
+    "title": "Satılık Dükkan - Cook Islands City",
+    "slug": "satilik-dükkan-cook-islands-city-P01889",
+    "description": "Cook Islands City, Cook Islands bölgesinde dükkan. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 5104038,
+    "location": {
+      "country": "CK",
+      "city": "Cook Islands City",
+      "district": "Cook Islands City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 848",
+      "coordinates": {
+        "lat": -20.96466422454308,
+        "lng": -160.08821053511005
+      }
+    },
+    "specs": {
+      "netSize": 309,
+      "grossSize": 371,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 7,
+      "floor": 2,
+      "totalFloors": 5,
+      "heating": "Kombi",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500355127941?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500748412300?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500040061636?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500864592912?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500823460049?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500782505112?w=800&q=80&category=building"
+    ],
+    "agent": {
+      "id": "A6",
+      "name": "Agent 47",
+      "phone": "+70 181 134 5736",
+      "email": "agent17@iwrealty.com",
+      "photo": "/images/icons/png/berlin-urban-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-08-26T10:50:47.199Z",
+    "updatedAt": "2025-11-13T10:50:47.199Z",
+    "storeId": "store-009"
+  },
+  {
+    "id": "P01890",
+    "type": "rent",
+    "category": {
+      "main": "commercial",
+      "sub": "shop"
+    },
+    "title": "Kiralık Dükkan - Cook Islands Central",
+    "slug": "kiralik-dükkan-cook-islands-central-P01890",
+    "description": "Cook Islands Central, Cook Islands bölgesinde dükkan. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 2402381,
+    "location": {
+      "country": "CK",
+      "city": "Cook Islands Central",
+      "district": "Cook Islands Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 451",
+      "coordinates": {
+        "lat": -20.834885202297,
+        "lng": -159.4974471596321
+      }
+    },
+    "specs": {
+      "netSize": 487,
+      "grossSize": 584,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 0,
+      "floor": 5,
+      "totalFloors": 18,
+      "heating": "Kombi",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500811676956?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500674948581?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500358531007?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500843960897?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500927320759?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500452410847?w=800&q=80&category=real-estate"
+    ],
+    "agent": {
+      "id": "A12",
+      "name": "Agent 39",
+      "phone": "+20 864 752 5106",
+      "email": "agent31@iwrealty.com",
+      "photo": "/images/icons/png/dubai-property-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": false,
+      "hasBalcony": false,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2024-11-30T10:50:47.199Z",
+    "updatedAt": "2025-11-13T10:50:47.199Z",
+    "storeId": "store-004"
+  },
+  {
+    "id": "P01891",
+    "type": "sale",
+    "category": {
+      "main": "commercial",
+      "sub": "office"
+    },
+    "title": "Satılık Ofis - New Cook Islands",
+    "slug": "satilik-ofis-new-cook-islands-P01891",
+    "description": "New Cook Islands, Cook Islands bölgesinde ofis. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 2423631,
+    "location": {
+      "country": "CK",
+      "city": "New Cook Islands",
+      "district": "New Cook Islands Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 513",
+      "coordinates": {
+        "lat": -21.11797815862213,
+        "lng": -159.3176852914114
+      }
+    },
+    "specs": {
+      "netSize": 875,
+      "grossSize": 1050,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 7,
+      "floor": 12,
+      "totalFloors": 15,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Furnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500326982761?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500540163078?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500850543595?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500505453787?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500392462611?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500469770094?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500855696742?w=800&q=80&category=building"
+    ],
+    "agent": {
+      "id": "A80",
+      "name": "Agent 8",
+      "phone": "+43 443 222 2355",
+      "email": "agent71@iwrealty.com",
+      "photo": "/images/icons/png/ankara-modern-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": false,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": true,
+      "hasSecurity": false
+    },
+    "createdAt": "2024-12-30T10:50:47.199Z",
+    "updatedAt": "2025-11-13T10:50:47.199Z",
+    "storeId": "store-003"
+  },
+  {
+    "id": "P01892",
+    "type": "rent",
+    "category": {
+      "main": "commercial",
+      "sub": "office"
+    },
+    "title": "Kiralık Ofis - Avarua",
+    "slug": "kiralik-ofis-avarua-P01892",
+    "description": "Avarua, Cook Islands bölgesinde ofis. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 4057279,
+    "location": {
+      "country": "CK",
+      "city": "Avarua",
+      "district": "Avarua Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 247",
+      "coordinates": {
+        "lat": -21.39407774916895,
+        "lng": -159.5915284803354
+      }
+    },
+    "specs": {
+      "netSize": 504,
+      "grossSize": 605,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 18,
+      "floor": 2,
+      "totalFloors": 8,
+      "heating": "Kombi",
+      "furnishing": "Unfurnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500410577201?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500832538269?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500107765077?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500955104570?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500419694099?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500508856768?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500328947421?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500792141767?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500817530882?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500383396696?w=800&q=80&category=architecture"
+    ],
+    "agent": {
+      "id": "A26",
+      "name": "Agent 29",
+      "phone": "+93 249 736 5939",
+      "email": "agent86@iwrealty.com",
+      "photo": "/images/icons/png/berlin-urban-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-09-04T10:50:47.199Z",
+    "updatedAt": "2025-11-13T10:50:47.199Z",
+    "storeId": "store-009"
+  },
+  {
+    "id": "P01893",
+    "type": "sale",
+    "category": {
+      "main": "commercial",
+      "sub": "mall"
+    },
+    "title": "Satılık AVM - Cook Islands City",
+    "slug": "satilik-avm-cook-islands-city-P01893",
+    "description": "Cook Islands City, Cook Islands bölgesinde avm. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 318043656,
+    "location": {
+      "country": "CK",
+      "city": "Cook Islands City",
+      "district": "Cook Islands City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 250",
+      "coordinates": {
+        "lat": -20.844521228226945,
+        "lng": -159.60665304474085
+      }
+    },
+    "specs": {
+      "netSize": 14364,
+      "grossSize": 17237,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 18,
+      "floor": 10,
+      "totalFloors": 14,
+      "heating": "Merkezi",
+      "furnishing": "Unfurnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500905411212?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500342842005?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500922709640?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500998353729?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500664715978?w=800&q=80&category=real-estate"
+    ],
+    "agent": {
+      "id": "A69",
+      "name": "Agent 82",
+      "phone": "+26 545 385 4133",
+      "email": "agent31@iwrealty.com",
+      "photo": "/images/icons/png/dubai-property-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-08-11T10:50:47.199Z",
+    "updatedAt": "2025-11-13T10:50:47.199Z",
+    "storeId": "store-004"
+  },
+  {
+    "id": "P01894",
+    "type": "rent",
+    "category": {
+      "main": "commercial",
+      "sub": "mall"
+    },
+    "title": "Kiralık AVM - Avarua",
+    "slug": "kiralik-avm-avarua-P01894",
+    "description": "Avarua, Cook Islands bölgesinde avm. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 119509144,
+    "location": {
+      "country": "CK",
+      "city": "Avarua",
+      "district": "Avarua Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 380",
+      "coordinates": {
+        "lat": -21.01548515129888,
+        "lng": -159.602415278456
+      }
+    },
+    "specs": {
+      "netSize": 23598,
+      "grossSize": 28318,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 17,
+      "floor": 9,
+      "totalFloors": 16,
+      "heating": "Kombi",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500981034467?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500276497154?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500060165717?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500051265879?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500229840013?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500828128308?w=800&q=80&category=interior"
+    ],
+    "agent": {
+      "id": "A76",
+      "name": "Agent 12",
+      "phone": "+24 203 625 8313",
+      "email": "agent8@iwrealty.com",
+      "photo": "/images/icons/png/paris-heritage-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-06-03T10:50:47.199Z",
+    "updatedAt": "2025-11-13T10:50:47.199Z",
+    "storeId": "store-010"
+  },
+  {
+    "id": "P01895",
+    "type": "sale",
+    "category": {
+      "main": "commercial",
+      "sub": "hotel"
+    },
+    "title": "Satılık Otel - New Cook Islands",
+    "slug": "satilik-otel-new-cook-islands-P01895",
+    "description": "New Cook Islands, Cook Islands bölgesinde otel. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 145400124,
+    "location": {
+      "country": "CK",
+      "city": "New Cook Islands",
+      "district": "New Cook Islands Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 832",
+      "coordinates": {
+        "lat": -21.7286595491382,
+        "lng": -160.24444983887958
+      }
+    },
+    "specs": {
+      "netSize": 8123,
+      "grossSize": 9748,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 7,
+      "floor": 2,
+      "totalFloors": 10,
+      "heating": "Merkezi",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500716392263?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500175272964?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500020878528?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500221221780?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500411344503?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500201506470?w=800&q=80&category=interior"
+    ],
+    "agent": {
+      "id": "A20",
+      "name": "Agent 21",
+      "phone": "+30 291 807 9453",
+      "email": "agent63@iwrealty.com",
+      "photo": "/images/icons/png/dubai-property-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": false,
+      "hasBalcony": false,
+      "hasGarden": true,
+      "hasPool": true,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-04-15T10:50:47.199Z",
+    "updatedAt": "2025-11-13T10:50:47.199Z",
+    "storeId": "store-004"
+  },
+  {
+    "id": "P01896",
+    "type": "rent",
+    "category": {
+      "main": "commercial",
+      "sub": "hotel"
+    },
+    "title": "Kiralık Otel - New Cook Islands",
+    "slug": "kiralik-otel-new-cook-islands-P01896",
+    "description": "New Cook Islands, Cook Islands bölgesinde otel. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 168549661,
+    "location": {
+      "country": "CK",
+      "city": "New Cook Islands",
+      "district": "New Cook Islands Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 963",
+      "coordinates": {
+        "lat": -21.583173887557937,
+        "lng": -159.6726070770007
+      }
+    },
+    "specs": {
+      "netSize": 10386,
+      "grossSize": 12463,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 2,
+      "floor": 1,
+      "totalFloors": 15,
+      "heating": "Klima",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500106441409?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500417247227?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500505812976?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500270169023?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500207299040?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500720117592?w=800&q=80&category=interior"
+    ],
+    "agent": {
+      "id": "A27",
+      "name": "Agent 70",
+      "phone": "+46 840 381 3383",
+      "email": "agent41@iwrealty.com",
+      "photo": "/images/icons/png/luxury-homes-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": false,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2024-11-25T10:50:47.199Z",
+    "updatedAt": "2025-11-13T10:50:47.199Z",
+    "storeId": "store-002"
+  },
+  {
+    "id": "P01897",
+    "type": "sale",
+    "category": {
+      "main": "commercial",
+      "sub": "restaurant"
+    },
+    "title": "Satılık Restoran - Avarua",
+    "slug": "satilik-restoran-avarua-P01897",
+    "description": "Avarua, Cook Islands bölgesinde restoran. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 4801760,
+    "location": {
+      "country": "CK",
+      "city": "Avarua",
+      "district": "Avarua Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 830",
+      "coordinates": {
+        "lat": -20.80103322571695,
+        "lng": -159.3758572931308
+      }
+    },
+    "specs": {
+      "netSize": 986,
+      "grossSize": 1183,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 14,
+      "floor": 1,
+      "totalFloors": 11,
+      "heating": "Merkezi",
+      "furnishing": "Furnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500234172030?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500321017441?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500952851044?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500735594858?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500366573781?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500903318005?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500408924340?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500241763879?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500911855589?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500562745915?w=800&q=80&category=interior"
+    ],
+    "agent": {
+      "id": "A80",
+      "name": "Agent 84",
+      "phone": "+43 559 745 1605",
+      "email": "agent95@iwrealty.com",
+      "photo": "/images/icons/png/dubai-property-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": true,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-05-09T10:50:47.199Z",
+    "updatedAt": "2025-11-13T10:50:47.199Z",
+    "storeId": "store-004"
+  },
+  {
+    "id": "P01898",
+    "type": "rent",
+    "category": {
+      "main": "commercial",
+      "sub": "restaurant"
+    },
+    "title": "Kiralık Restoran - Cook Islands Central",
+    "slug": "kiralik-restoran-cook-islands-central-P01898",
+    "description": "Cook Islands Central, Cook Islands bölgesinde restoran. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 4695264,
+    "location": {
+      "country": "CK",
+      "city": "Cook Islands Central",
+      "district": "Cook Islands Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 905",
+      "coordinates": {
+        "lat": -21.054248044842055,
+        "lng": -159.87357089251657
+      }
+    },
+    "specs": {
+      "netSize": 855,
+      "grossSize": 1026,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 6,
+      "floor": 1,
+      "totalFloors": 20,
+      "heating": "Kombi",
+      "furnishing": "Furnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500294366672?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500974117862?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500722606146?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500918228247?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500986872586?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500010096434?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500589820324?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500198240801?w=800&q=80&category=interior"
+    ],
+    "agent": {
+      "id": "A52",
+      "name": "Agent 71",
+      "phone": "+79 162 586 8165",
+      "email": "agent16@iwrealty.com",
+      "photo": "/images/icons/png/luxury-homes-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-10-29T10:50:47.199Z",
+    "updatedAt": "2025-11-13T10:50:47.199Z",
+    "storeId": "store-002"
+  },
+  {
+    "id": "P01899",
+    "type": "sale",
+    "category": {
+      "main": "commercial",
+      "sub": "warehouse"
+    },
+    "title": "Satılık Depo - New Cook Islands",
+    "slug": "satilik-depo-new-cook-islands-P01899",
+    "description": "New Cook Islands, Cook Islands bölgesinde depo. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 23298423,
+    "location": {
+      "country": "CK",
+      "city": "New Cook Islands",
+      "district": "New Cook Islands Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 885",
+      "coordinates": {
+        "lat": -21.724229846580275,
+        "lng": -159.60677792806717
+      }
+    },
+    "specs": {
+      "netSize": 3465,
+      "grossSize": 4158,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 18,
+      "floor": 1,
+      "totalFloors": 15,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500524601145?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500778501111?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500743019743?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500249943380?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500886998693?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500405012733?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500207324510?w=800&q=80&category=interior"
+    ],
+    "agent": {
+      "id": "A61",
+      "name": "Agent 28",
+      "phone": "+92 810 669 3938",
+      "email": "agent73@iwrealty.com",
+      "photo": "/images/icons/png/berlin-urban-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-08-12T10:50:47.199Z",
+    "updatedAt": "2025-11-13T10:50:47.199Z",
+    "storeId": "store-009"
+  },
+  {
+    "id": "P01900",
+    "type": "rent",
+    "category": {
+      "main": "commercial",
+      "sub": "warehouse"
+    },
+    "title": "Kiralık Depo - Cook Islands City",
+    "slug": "kiralik-depo-cook-islands-city-P01900",
+    "description": "Cook Islands City, Cook Islands bölgesinde depo. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 6723461,
+    "location": {
+      "country": "CK",
+      "city": "Cook Islands City",
+      "district": "Cook Islands City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 886",
+      "coordinates": {
+        "lat": -21.241571516795194,
+        "lng": -159.43875469995416
+      }
+    },
+    "specs": {
+      "netSize": 3254,
+      "grossSize": 3905,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 1,
+      "floor": 3,
+      "totalFloors": 11,
+      "heating": "Merkezi",
+      "furnishing": "Unfurnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500759665220?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500391955521?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500600163665?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500061784043?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500750170052?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500567769329?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500157596357?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500269057814?w=800&q=80&category=house"
+    ],
+    "agent": {
+      "id": "A92",
+      "name": "Agent 18",
+      "phone": "+40 207 613 4932",
+      "email": "agent41@iwrealty.com",
+      "photo": "/images/icons/png/berlin-urban-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2024-12-31T10:50:47.199Z",
+    "updatedAt": "2025-11-13T10:50:47.199Z",
+    "storeId": "store-009"
+  }
+]

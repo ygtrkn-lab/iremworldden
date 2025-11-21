@@ -1,0 +1,2358 @@
+[
+  {
+    "id": "P00305",
+    "type": "sale",
+    "category": {
+      "main": "government"
+    },
+    "title": "Satılık Devlet Binası - Buenos Aires",
+    "slug": "satilik-devlet-binası-buenos-aires-P00305",
+    "description": "Buenos Aires, Argentina bölgesinde devlet binası. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 31802465,
+    "location": {
+      "country": "AR",
+      "city": "Buenos Aires",
+      "district": "Buenos Aires Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 593",
+      "coordinates": {
+        "lat": -34.103379529832466,
+        "lng": -64.0881095718693
+      }
+    },
+    "specs": {
+      "netSize": 2114,
+      "grossSize": 2537,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 0,
+      "floor": 4,
+      "totalFloors": 7,
+      "heating": "Kombi",
+      "furnishing": "Unfurnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500279221311?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500271767836?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500859990121?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500440197104?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500721297264?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500744374303?w=800&q=80&category=real-estate"
+    ],
+    "agent": {
+      "id": "A2",
+      "name": "Agent 6",
+      "phone": "+31 683 157 7669",
+      "email": "agent99@iwrealty.com",
+      "photo": "/images/icons/png/izmir-sahil-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-06-06T10:50:47.177Z",
+    "updatedAt": "2025-11-13T10:50:47.177Z",
+    "storeId": "store-005"
+  },
+  {
+    "id": "P00306",
+    "type": "rent",
+    "category": {
+      "main": "government"
+    },
+    "title": "Kiralık Okul - New Argentina",
+    "slug": "kiralik-okul-new-argentina-P00306",
+    "description": "New Argentina, Argentina bölgesinde okul. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 47042008,
+    "location": {
+      "country": "AR",
+      "city": "New Argentina",
+      "district": "New Argentina Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 570",
+      "coordinates": {
+        "lat": -33.72860751938931,
+        "lng": -64.05758837045713
+      }
+    },
+    "specs": {
+      "netSize": 642,
+      "grossSize": 770,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 0,
+      "floor": 9,
+      "totalFloors": 15,
+      "heating": "Klima",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500901744183?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500254359889?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500528367917?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500920749916?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500431308430?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500163634404?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500993307049?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500432644507?w=800&q=80&category=house"
+    ],
+    "agent": {
+      "id": "A17",
+      "name": "Agent 74",
+      "phone": "+60 620 526 9832",
+      "email": "agent91@iwrealty.com",
+      "photo": "/images/icons/png/ny-skyline-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": true,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-01-11T10:50:47.177Z",
+    "updatedAt": "2025-11-13T10:50:47.177Z",
+    "storeId": "store-008"
+  },
+  {
+    "id": "P00307",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Müstakil Ev - Argentina City",
+    "slug": "satilik-müstakil-ev-argentina-city-P00307",
+    "description": "Argentina City, Argentina bölgesinde müstakil ev. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 7399520,
+    "location": {
+      "country": "AR",
+      "city": "Argentina City",
+      "district": "Argentina City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 272",
+      "coordinates": {
+        "lat": -33.8715360172029,
+        "lng": -64.39340512597182
+      }
+    },
+    "specs": {
+      "netSize": 144,
+      "grossSize": 173,
+      "rooms": "4+0",
+      "bathrooms": 4,
+      "age": 3,
+      "floor": 14,
+      "totalFloors": 9,
+      "heating": "Merkezi",
+      "furnishing": "Furnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500697869221?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500125055700?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500064621735?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500950416381?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500150857980?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500434868951?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500084244304?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500009754206?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500772867216?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500984200088?w=800&q=80&category=building"
+    ],
+    "agent": {
+      "id": "A64",
+      "name": "Agent 25",
+      "phone": "+48 992 343 2468",
+      "email": "agent29@iwrealty.com",
+      "photo": "/images/icons/png/berlin-urban-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-07-06T10:50:47.177Z",
+    "updatedAt": "2025-11-13T10:50:47.177Z",
+    "storeId": "store-009"
+  },
+  {
+    "id": "P00308",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Daire - New Argentina",
+    "slug": "kiralik-daire-new-argentina-P00308",
+    "description": "New Argentina, Argentina bölgesinde daire. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 13341584,
+    "location": {
+      "country": "AR",
+      "city": "New Argentina",
+      "district": "New Argentina Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 70",
+      "coordinates": {
+        "lat": -33.95951240319723,
+        "lng": -64.07743619638161
+      }
+    },
+    "specs": {
+      "netSize": 495,
+      "grossSize": 594,
+      "rooms": "3+0",
+      "bathrooms": 3,
+      "age": 13,
+      "floor": 13,
+      "totalFloors": 11,
+      "heating": "Klima",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500684008353?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500649880661?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500063804179?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500956897121?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500880745290?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500980813132?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500494049779?w=800&q=80&category=house"
+    ],
+    "agent": {
+      "id": "A9",
+      "name": "Agent 100",
+      "phone": "+94 427 182 5567",
+      "email": "agent77@iwrealty.com",
+      "photo": "/images/icons/png/ny-skyline-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": true,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-08-15T10:50:47.177Z",
+    "updatedAt": "2025-11-13T10:50:47.177Z",
+    "storeId": "store-008"
+  },
+  {
+    "id": "P00309",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Villa - New Argentina",
+    "slug": "satilik-villa-new-argentina-P00309",
+    "description": "New Argentina, Argentina bölgesinde villa. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 2190828,
+    "location": {
+      "country": "AR",
+      "city": "New Argentina",
+      "district": "New Argentina Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 944",
+      "coordinates": {
+        "lat": -33.869457380636895,
+        "lng": -64.15280394568877
+      }
+    },
+    "specs": {
+      "netSize": 239,
+      "grossSize": 287,
+      "rooms": "3+2",
+      "bathrooms": 4,
+      "age": 15,
+      "floor": 2,
+      "totalFloors": 17,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500442010036?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500233914059?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500347418150?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500970595424?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500523298835?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500807841266?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500344720640?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500177104122?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500290631438?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500638539330?w=800&q=80&category=building"
+    ],
+    "agent": {
+      "id": "A49",
+      "name": "Agent 40",
+      "phone": "+37 921 107 8740",
+      "email": "agent41@iwrealty.com",
+      "photo": "/images/icons/png/sg-harbour-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": true,
+      "hasPool": true,
+      "hasSecurity": true
+    },
+    "createdAt": "2024-12-19T10:50:47.177Z",
+    "updatedAt": "2025-11-13T10:50:47.177Z",
+    "storeId": "store-011"
+  },
+  {
+    "id": "P00310",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Villa - Argentina City",
+    "slug": "kiralik-villa-argentina-city-P00310",
+    "description": "Argentina City, Argentina bölgesinde villa. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 11930225,
+    "location": {
+      "country": "AR",
+      "city": "Argentina City",
+      "district": "Argentina City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 253",
+      "coordinates": {
+        "lat": -33.60944635209915,
+        "lng": -63.71305531813234
+      }
+    },
+    "specs": {
+      "netSize": 235,
+      "grossSize": 282,
+      "rooms": "4+2",
+      "bathrooms": 1,
+      "age": 4,
+      "floor": 12,
+      "totalFloors": 14,
+      "heating": "Merkezi",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500366304095?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500335415097?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500240682277?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500981050070?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500524452011?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500209708746?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500749697949?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500475154934?w=800&q=80&category=building"
+    ],
+    "agent": {
+      "id": "A59",
+      "name": "Agent 31",
+      "phone": "+95 512 915 9564",
+      "email": "agent39@iwrealty.com",
+      "photo": "/images/icons/png/antalya-investment-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": false,
+      "hasBalcony": false,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-01-30T10:50:47.177Z",
+    "updatedAt": "2025-11-13T10:50:47.177Z",
+    "storeId": "store-006"
+  },
+  {
+    "id": "P00311",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Daire - Buenos Aires",
+    "slug": "satilik-daire-buenos-aires-P00311",
+    "description": "Buenos Aires, Argentina bölgesinde daire. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 5630844,
+    "location": {
+      "country": "AR",
+      "city": "Buenos Aires",
+      "district": "Buenos Aires Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 940",
+      "coordinates": {
+        "lat": -34.4917231182513,
+        "lng": -64.03271869884402
+      }
+    },
+    "specs": {
+      "netSize": 443,
+      "grossSize": 532,
+      "rooms": "5+1",
+      "bathrooms": 3,
+      "age": 6,
+      "floor": 12,
+      "totalFloors": 16,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500709158741?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500995235750?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500032426733?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500497902201?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500737554133?w=800&q=80&category=architecture"
+    ],
+    "agent": {
+      "id": "A77",
+      "name": "Agent 60",
+      "phone": "+99 485 246 1778",
+      "email": "agent87@iwrealty.com",
+      "photo": "/images/icons/png/london-prime-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": true,
+      "hasPool": true,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-02-01T10:50:47.177Z",
+    "updatedAt": "2025-11-13T10:50:47.177Z",
+    "storeId": "store-007"
+  },
+  {
+    "id": "P00312",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Villa - Buenos Aires",
+    "slug": "kiralik-villa-buenos-aires-P00312",
+    "description": "Buenos Aires, Argentina bölgesinde villa. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 7253380,
+    "location": {
+      "country": "AR",
+      "city": "Buenos Aires",
+      "district": "Buenos Aires Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 545",
+      "coordinates": {
+        "lat": -33.514406348238026,
+        "lng": -64.10805572856388
+      }
+    },
+    "specs": {
+      "netSize": 188,
+      "grossSize": 226,
+      "rooms": "5+0",
+      "bathrooms": 1,
+      "age": 18,
+      "floor": 5,
+      "totalFloors": 7,
+      "heating": "Klima",
+      "furnishing": "Unfurnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500155047891?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500941674087?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500906383137?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500573713628?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500280354912?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500322325684?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500502120444?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500639615166?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500960557849?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500939428926?w=800&q=80&category=architecture"
+    ],
+    "agent": {
+      "id": "A36",
+      "name": "Agent 6",
+      "phone": "+85 822 944 7725",
+      "email": "agent84@iwrealty.com",
+      "photo": "/images/icons/png/paris-heritage-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": true,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-09-25T10:50:47.177Z",
+    "updatedAt": "2025-11-13T10:50:47.177Z",
+    "storeId": "store-010"
+  },
+  {
+    "id": "P00313",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Daire - New Argentina",
+    "slug": "satilik-daire-new-argentina-P00313",
+    "description": "New Argentina, Argentina bölgesinde daire. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 11176587,
+    "location": {
+      "country": "AR",
+      "city": "New Argentina",
+      "district": "New Argentina Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 309",
+      "coordinates": {
+        "lat": -33.933722274417114,
+        "lng": -64.09391665441161
+      }
+    },
+    "specs": {
+      "netSize": 486,
+      "grossSize": 583,
+      "rooms": "2+0",
+      "bathrooms": 4,
+      "age": 6,
+      "floor": 6,
+      "totalFloors": 15,
+      "heating": "Kombi",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500157075067?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500846407645?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500189185101?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500040150398?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500496876591?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500879766767?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500854611677?w=800&q=80&category=interior"
+    ],
+    "agent": {
+      "id": "A30",
+      "name": "Agent 81",
+      "phone": "+27 905 977 8269",
+      "email": "agent36@iwrealty.com",
+      "photo": "/images/icons/png/berlin-urban-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-10-20T10:50:47.177Z",
+    "updatedAt": "2025-11-13T10:50:47.177Z",
+    "storeId": "store-009"
+  },
+  {
+    "id": "P00314",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Residence - Argentina City",
+    "slug": "kiralik-residence-argentina-city-P00314",
+    "description": "Argentina City, Argentina bölgesinde residence. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 5626064,
+    "location": {
+      "country": "AR",
+      "city": "Argentina City",
+      "district": "Argentina City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 332",
+      "coordinates": {
+        "lat": -34.2521808386679,
+        "lng": -64.39446740732214
+      }
+    },
+    "specs": {
+      "netSize": 358,
+      "grossSize": 430,
+      "rooms": "2+2",
+      "bathrooms": 4,
+      "age": 7,
+      "floor": 7,
+      "totalFloors": 18,
+      "heating": "Kombi",
+      "furnishing": "Unfurnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500459897808?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500457004876?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500456249647?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500107728522?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500302699124?w=800&q=80&category=architecture"
+    ],
+    "agent": {
+      "id": "A22",
+      "name": "Agent 75",
+      "phone": "+55 924 301 2798",
+      "email": "agent83@iwrealty.com",
+      "photo": "/images/icons/png/sydney-coastal-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": true,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-07-17T10:50:47.177Z",
+    "updatedAt": "2025-11-13T10:50:47.177Z",
+    "storeId": "store-012"
+  },
+  {
+    "id": "P00315",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Daire - New Argentina",
+    "slug": "satilik-daire-new-argentina-P00315",
+    "description": "New Argentina, Argentina bölgesinde daire. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 3125721,
+    "location": {
+      "country": "AR",
+      "city": "New Argentina",
+      "district": "New Argentina Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 856",
+      "coordinates": {
+        "lat": -33.95930136359684,
+        "lng": -63.84067458718774
+      }
+    },
+    "specs": {
+      "netSize": 205,
+      "grossSize": 246,
+      "rooms": "1+0",
+      "bathrooms": 3,
+      "age": 14,
+      "floor": 3,
+      "totalFloors": 19,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500399441822?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500628011982?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500749849217?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500054945532?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500583732251?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500916552708?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500646420091?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500231060447?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500754519703?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500054979659?w=800&q=80&category=real-estate"
+    ],
+    "agent": {
+      "id": "A12",
+      "name": "Agent 19",
+      "phone": "+67 243 428 2759",
+      "email": "agent51@iwrealty.com",
+      "photo": "/images/icons/png/antalya-investment-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-08-03T10:50:47.177Z",
+    "updatedAt": "2025-11-13T10:50:47.177Z",
+    "storeId": "store-006"
+  },
+  {
+    "id": "P00316",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Daire - Argentina Central",
+    "slug": "kiralik-daire-argentina-central-P00316",
+    "description": "Argentina Central, Argentina bölgesinde daire. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 8471655,
+    "location": {
+      "country": "AR",
+      "city": "Argentina Central",
+      "district": "Argentina Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 587",
+      "coordinates": {
+        "lat": -34.18880319412146,
+        "lng": -63.861124613847075
+      }
+    },
+    "specs": {
+      "netSize": 397,
+      "grossSize": 476,
+      "rooms": "5+2",
+      "bathrooms": 1,
+      "age": 20,
+      "floor": 7,
+      "totalFloors": 6,
+      "heating": "Klima",
+      "furnishing": "Unfurnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500607584321?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500635388872?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500780107275?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500700403219?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500295946362?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500737354284?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500316129510?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500969580037?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500156010807?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500481714668?w=800&q=80&category=architecture"
+    ],
+    "agent": {
+      "id": "A93",
+      "name": "Agent 96",
+      "phone": "+39 866 505 1120",
+      "email": "agent81@iwrealty.com",
+      "photo": "/images/icons/png/ny-skyline-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-10-14T10:50:47.177Z",
+    "updatedAt": "2025-11-13T10:50:47.177Z",
+    "storeId": "store-008"
+  },
+  {
+    "id": "P00317",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Daire - Buenos Aires",
+    "slug": "satilik-daire-buenos-aires-P00317",
+    "description": "Buenos Aires, Argentina bölgesinde daire. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 14191452,
+    "location": {
+      "country": "AR",
+      "city": "Buenos Aires",
+      "district": "Buenos Aires Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 624",
+      "coordinates": {
+        "lat": -34.32287906965895,
+        "lng": -63.714363669498766
+      }
+    },
+    "specs": {
+      "netSize": 424,
+      "grossSize": 509,
+      "rooms": "4+0",
+      "bathrooms": 4,
+      "age": 19,
+      "floor": 2,
+      "totalFloors": 14,
+      "heating": "Kombi",
+      "furnishing": "Furnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500121483230?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500618104801?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500285610777?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500990534903?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500207322335?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500063152686?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500281106772?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500833349656?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500165418606?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500294695065?w=800&q=80&category=interior"
+    ],
+    "agent": {
+      "id": "A34",
+      "name": "Agent 3",
+      "phone": "+36 108 911 6945",
+      "email": "agent60@iwrealty.com",
+      "photo": "/images/icons/png/london-prime-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": true,
+      "hasSecurity": true
+    },
+    "createdAt": "2024-12-06T10:50:47.177Z",
+    "updatedAt": "2025-11-13T10:50:47.177Z",
+    "storeId": "store-007"
+  },
+  {
+    "id": "P00318",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Daire - Argentina Central",
+    "slug": "kiralik-daire-argentina-central-P00318",
+    "description": "Argentina Central, Argentina bölgesinde daire. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 1224668,
+    "location": {
+      "country": "AR",
+      "city": "Argentina Central",
+      "district": "Argentina Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 248",
+      "coordinates": {
+        "lat": -33.7016875838689,
+        "lng": -64.40822268273301
+      }
+    },
+    "specs": {
+      "netSize": 151,
+      "grossSize": 181,
+      "rooms": "3+1",
+      "bathrooms": 4,
+      "age": 4,
+      "floor": 12,
+      "totalFloors": 6,
+      "heating": "Klima",
+      "furnishing": "Furnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500108013381?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500255911251?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500728155224?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500854931753?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500359200292?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500694862183?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500239375869?w=800&q=80&category=architecture"
+    ],
+    "agent": {
+      "id": "A90",
+      "name": "Agent 14",
+      "phone": "+98 321 211 3555",
+      "email": "agent55@iwrealty.com",
+      "photo": "/images/icons/png/luxury-homes-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-01-21T10:50:47.177Z",
+    "updatedAt": "2025-11-13T10:50:47.177Z",
+    "storeId": "store-002"
+  },
+  {
+    "id": "P00319",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Residence - Buenos Aires",
+    "slug": "satilik-residence-buenos-aires-P00319",
+    "description": "Buenos Aires, Argentina bölgesinde residence. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 12753998,
+    "location": {
+      "country": "AR",
+      "city": "Buenos Aires",
+      "district": "Buenos Aires Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 423",
+      "coordinates": {
+        "lat": -34.23939798721846,
+        "lng": -64.0025182338002
+      }
+    },
+    "specs": {
+      "netSize": 389,
+      "grossSize": 467,
+      "rooms": "2+1",
+      "bathrooms": 2,
+      "age": 12,
+      "floor": 3,
+      "totalFloors": 18,
+      "heating": "Klima",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500267057611?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500255541897?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500878597705?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500963936343?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500239960548?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500024139810?w=800&q=80&category=interior"
+    ],
+    "agent": {
+      "id": "A33",
+      "name": "Agent 55",
+      "phone": "+55 724 242 7637",
+      "email": "agent59@iwrealty.com",
+      "photo": "/images/icons/png/dubai-property-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": true,
+      "hasPool": true,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-04-13T10:50:47.177Z",
+    "updatedAt": "2025-11-13T10:50:47.177Z",
+    "storeId": "store-004"
+  },
+  {
+    "id": "P00320",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Müstakil Ev - Buenos Aires",
+    "slug": "kiralik-müstakil-ev-buenos-aires-P00320",
+    "description": "Buenos Aires, Argentina bölgesinde müstakil ev. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 10929216,
+    "location": {
+      "country": "AR",
+      "city": "Buenos Aires",
+      "district": "Buenos Aires Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 932",
+      "coordinates": {
+        "lat": -34.24549414756175,
+        "lng": -64.30152960191147
+      }
+    },
+    "specs": {
+      "netSize": 154,
+      "grossSize": 185,
+      "rooms": "3+2",
+      "bathrooms": 3,
+      "age": 10,
+      "floor": 14,
+      "totalFloors": 8,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Furnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500206191537?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500506188542?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500096059610?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500283711038?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500779661860?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500191254815?w=800&q=80&category=real-estate"
+    ],
+    "agent": {
+      "id": "A29",
+      "name": "Agent 85",
+      "phone": "+54 198 471 7634",
+      "email": "agent56@iwrealty.com",
+      "photo": "/images/icons/png/antalya-investment-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-08-12T10:50:47.177Z",
+    "updatedAt": "2025-11-13T10:50:47.177Z",
+    "storeId": "store-006"
+  },
+  {
+    "id": "P00321",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Villa - Argentina City",
+    "slug": "satilik-villa-argentina-city-P00321",
+    "description": "Argentina City, Argentina bölgesinde villa. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 6187948,
+    "location": {
+      "country": "AR",
+      "city": "Argentina City",
+      "district": "Argentina City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 79",
+      "coordinates": {
+        "lat": -34.3100504296888,
+        "lng": -63.511087787594796
+      }
+    },
+    "specs": {
+      "netSize": 147,
+      "grossSize": 176,
+      "rooms": "3+2",
+      "bathrooms": 3,
+      "age": 0,
+      "floor": 10,
+      "totalFloors": 16,
+      "heating": "Merkezi",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500735234180?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500315111224?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500574344936?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500649053544?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500441158239?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500628221119?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500355005117?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500451704958?w=800&q=80&category=architecture"
+    ],
+    "agent": {
+      "id": "A37",
+      "name": "Agent 56",
+      "phone": "+66 599 993 4971",
+      "email": "agent12@iwrealty.com",
+      "photo": "/images/icons/png/ny-skyline-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-04-17T10:50:47.177Z",
+    "updatedAt": "2025-11-13T10:50:47.177Z",
+    "storeId": "store-008"
+  },
+  {
+    "id": "P00322",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Residence - Buenos Aires",
+    "slug": "kiralik-residence-buenos-aires-P00322",
+    "description": "Buenos Aires, Argentina bölgesinde residence. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 10750410,
+    "location": {
+      "country": "AR",
+      "city": "Buenos Aires",
+      "district": "Buenos Aires Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 953",
+      "coordinates": {
+        "lat": -34.431377373939966,
+        "lng": -63.88890595370099
+      }
+    },
+    "specs": {
+      "netSize": 465,
+      "grossSize": 558,
+      "rooms": "4+1",
+      "bathrooms": 4,
+      "age": 10,
+      "floor": 5,
+      "totalFloors": 5,
+      "heating": "Klima",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500630611239?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500756165200?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500622006687?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500125710399?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500019255905?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500740332925?w=800&q=80&category=building"
+    ],
+    "agent": {
+      "id": "A76",
+      "name": "Agent 10",
+      "phone": "+10 838 931 5192",
+      "email": "agent11@iwrealty.com",
+      "photo": "/images/icons/png/berlin-urban-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": false,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-07-23T10:50:47.177Z",
+    "updatedAt": "2025-11-13T10:50:47.177Z",
+    "storeId": "store-009"
+  },
+  {
+    "id": "P00323",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Müstakil Ev - Argentina City",
+    "slug": "satilik-müstakil-ev-argentina-city-P00323",
+    "description": "Argentina City, Argentina bölgesinde müstakil ev. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 10286937,
+    "location": {
+      "country": "AR",
+      "city": "Argentina City",
+      "district": "Argentina City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 376",
+      "coordinates": {
+        "lat": -34.11658586374581,
+        "lng": -63.66726927557574
+      }
+    },
+    "specs": {
+      "netSize": 150,
+      "grossSize": 180,
+      "rooms": "1+0",
+      "bathrooms": 3,
+      "age": 16,
+      "floor": 13,
+      "totalFloors": 10,
+      "heating": "Merkezi",
+      "furnishing": "Unfurnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500833752225?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500770607013?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500642098017?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500086011974?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500802426425?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500048379407?w=800&q=80&category=interior"
+    ],
+    "agent": {
+      "id": "A97",
+      "name": "Agent 99",
+      "phone": "+45 318 922 9260",
+      "email": "agent38@iwrealty.com",
+      "photo": "/images/icons/png/sydney-coastal-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": false,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": true,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-01-13T10:50:47.177Z",
+    "updatedAt": "2025-11-13T10:50:47.177Z",
+    "storeId": "store-012"
+  },
+  {
+    "id": "P00324",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Daire - New Argentina",
+    "slug": "kiralik-daire-new-argentina-P00324",
+    "description": "New Argentina, Argentina bölgesinde daire. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 7659734,
+    "location": {
+      "country": "AR",
+      "city": "New Argentina",
+      "district": "New Argentina Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 326",
+      "coordinates": {
+        "lat": -34.135854123972,
+        "lng": -63.9209188334225
+      }
+    },
+    "specs": {
+      "netSize": 134,
+      "grossSize": 161,
+      "rooms": "3+2",
+      "bathrooms": 1,
+      "age": 12,
+      "floor": 14,
+      "totalFloors": 19,
+      "heating": "Klima",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500407908210?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500397592602?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500886975760?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500893124165?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500029744872?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500701069670?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500820148640?w=800&q=80&category=building"
+    ],
+    "agent": {
+      "id": "A78",
+      "name": "Agent 81",
+      "phone": "+96 576 540 2760",
+      "email": "agent22@iwrealty.com",
+      "photo": "/images/icons/png/ny-skyline-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": true,
+      "hasSecurity": true
+    },
+    "createdAt": "2024-11-28T10:50:47.177Z",
+    "updatedAt": "2025-11-13T10:50:47.177Z",
+    "storeId": "store-008"
+  },
+  {
+    "id": "P00325",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Müstakil Ev - Argentina Central",
+    "slug": "satilik-müstakil-ev-argentina-central-P00325",
+    "description": "Argentina Central, Argentina bölgesinde müstakil ev. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 9137135,
+    "location": {
+      "country": "AR",
+      "city": "Argentina Central",
+      "district": "Argentina Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 852",
+      "coordinates": {
+        "lat": -34.059408444319324,
+        "lng": -64.20293163638274
+      }
+    },
+    "specs": {
+      "netSize": 162,
+      "grossSize": 194,
+      "rooms": "3+1",
+      "bathrooms": 3,
+      "age": 2,
+      "floor": 14,
+      "totalFloors": 6,
+      "heating": "Merkezi",
+      "furnishing": "Unfurnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500709545241?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500074123768?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500741116334?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500683627787?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500464220204?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500650014111?w=800&q=80&category=architecture"
+    ],
+    "agent": {
+      "id": "A69",
+      "name": "Agent 2",
+      "phone": "+97 569 895 4153",
+      "email": "agent47@iwrealty.com",
+      "photo": "/images/icons/png/paris-heritage-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-07-31T10:50:47.177Z",
+    "updatedAt": "2025-11-13T10:50:47.177Z",
+    "storeId": "store-010"
+  },
+  {
+    "id": "P00326",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Daire - Argentina City",
+    "slug": "kiralik-daire-argentina-city-P00326",
+    "description": "Argentina City, Argentina bölgesinde daire. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 6111902,
+    "location": {
+      "country": "AR",
+      "city": "Argentina City",
+      "district": "Argentina City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 661",
+      "coordinates": {
+        "lat": -34.098713295415266,
+        "lng": -63.66933102349216
+      }
+    },
+    "specs": {
+      "netSize": 438,
+      "grossSize": 526,
+      "rooms": "5+1",
+      "bathrooms": 1,
+      "age": 18,
+      "floor": 5,
+      "totalFloors": 6,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Furnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500670656822?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500647505732?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500473092521?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500730405565?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500928236950?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500546682912?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500594571814?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500683597077?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500400306203?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500825215662?w=800&q=80&category=interior"
+    ],
+    "agent": {
+      "id": "A43",
+      "name": "Agent 38",
+      "phone": "+30 214 272 8191",
+      "email": "agent79@iwrealty.com",
+      "photo": "/images/icons/png/izmir-sahil-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": false,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-07-31T10:50:47.177Z",
+    "updatedAt": "2025-11-13T10:50:47.177Z",
+    "storeId": "store-005"
+  },
+  {
+    "id": "P00327",
+    "type": "sale",
+    "category": {
+      "main": "commercial",
+      "sub": "hospital"
+    },
+    "title": "Satılık Hastane - New Argentina",
+    "slug": "satilik-hastane-new-argentina-P00327",
+    "description": "New Argentina, Argentina bölgesinde hastane. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 10215133,
+    "location": {
+      "country": "AR",
+      "city": "New Argentina",
+      "district": "New Argentina Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 386",
+      "coordinates": {
+        "lat": -33.56016071496044,
+        "lng": -64.33337635435271
+      }
+    },
+    "specs": {
+      "netSize": 13838,
+      "grossSize": 16606,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 6,
+      "floor": 3,
+      "totalFloors": 9,
+      "heating": "Merkezi",
+      "furnishing": "Unfurnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500155034782?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500195110679?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500995013032?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500927299825?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500303144186?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500393684350?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500160530965?w=800&q=80&category=house"
+    ],
+    "agent": {
+      "id": "A44",
+      "name": "Agent 75",
+      "phone": "+46 375 722 6780",
+      "email": "agent48@iwrealty.com",
+      "photo": "/images/icons/png/paris-heritage-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": false,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-03-11T10:50:47.177Z",
+    "updatedAt": "2025-11-13T10:50:47.177Z",
+    "storeId": "store-010"
+  },
+  {
+    "id": "P00328",
+    "type": "rent",
+    "category": {
+      "main": "commercial",
+      "sub": "hospital"
+    },
+    "title": "Kiralık Hastane - Argentina City",
+    "slug": "kiralik-hastane-argentina-city-P00328",
+    "description": "Argentina City, Argentina bölgesinde hastane. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 41001514,
+    "location": {
+      "country": "AR",
+      "city": "Argentina City",
+      "district": "Argentina City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 43",
+      "coordinates": {
+        "lat": -33.91002161501686,
+        "lng": -63.79692357138521
+      }
+    },
+    "specs": {
+      "netSize": 13903,
+      "grossSize": 16684,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 12,
+      "floor": 15,
+      "totalFloors": 8,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Unfurnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500055728936?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500184995403?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500857190445?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500073154953?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500081450138?w=800&q=80&category=architecture"
+    ],
+    "agent": {
+      "id": "A10",
+      "name": "Agent 47",
+      "phone": "+80 816 572 1857",
+      "email": "agent71@iwrealty.com",
+      "photo": "/images/icons/png/sg-harbour-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": false,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-09-23T10:50:47.177Z",
+    "updatedAt": "2025-11-13T10:50:47.177Z",
+    "storeId": "store-011"
+  },
+  {
+    "id": "P00329",
+    "type": "sale",
+    "category": {
+      "main": "commercial",
+      "sub": "clinic"
+    },
+    "title": "Satılık Klinik - New Argentina",
+    "slug": "satilik-klinik-new-argentina-P00329",
+    "description": "New Argentina, Argentina bölgesinde klinik. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 10449790,
+    "location": {
+      "country": "AR",
+      "city": "New Argentina",
+      "district": "New Argentina Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 714",
+      "coordinates": {
+        "lat": -33.99679114527051,
+        "lng": -64.06845226634621
+      }
+    },
+    "specs": {
+      "netSize": 509,
+      "grossSize": 611,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 0,
+      "floor": 15,
+      "totalFloors": 9,
+      "heating": "Klima",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500492996106?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500198257961?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500283419884?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500832497332?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500931040316?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500490317383?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500806704934?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500076559720?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500605556401?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500929112911?w=800&q=80&category=real-estate"
+    ],
+    "agent": {
+      "id": "A20",
+      "name": "Agent 36",
+      "phone": "+37 271 476 2433",
+      "email": "agent6@iwrealty.com",
+      "photo": "/images/icons/png/paris-heritage-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": false,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-02-13T10:50:47.177Z",
+    "updatedAt": "2025-11-13T10:50:47.177Z",
+    "storeId": "store-010"
+  },
+  {
+    "id": "P00330",
+    "type": "rent",
+    "category": {
+      "main": "commercial",
+      "sub": "clinic"
+    },
+    "title": "Kiralık Klinik - Argentina Central",
+    "slug": "kiralik-klinik-argentina-central-P00330",
+    "description": "Argentina Central, Argentina bölgesinde klinik. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 9667760,
+    "location": {
+      "country": "AR",
+      "city": "Argentina Central",
+      "district": "Argentina Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 172",
+      "coordinates": {
+        "lat": -34.3520820533273,
+        "lng": -63.966087900985116
+      }
+    },
+    "specs": {
+      "netSize": 1799,
+      "grossSize": 2159,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 13,
+      "floor": 9,
+      "totalFloors": 14,
+      "heating": "Merkezi",
+      "furnishing": "Furnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500499408550?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500960941343?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500232279841?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500986986572?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500674117593?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500835424100?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500810728546?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500906657494?w=800&q=80&category=interior"
+    ],
+    "agent": {
+      "id": "A96",
+      "name": "Agent 60",
+      "phone": "+55 742 592 9506",
+      "email": "agent43@iwrealty.com",
+      "photo": "/images/icons/png/dubai-property-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": true,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-08-03T10:50:47.177Z",
+    "updatedAt": "2025-11-13T10:50:47.177Z",
+    "storeId": "store-004"
+  },
+  {
+    "id": "P00331",
+    "type": "sale",
+    "category": {
+      "main": "commercial",
+      "sub": "shop"
+    },
+    "title": "Satılık Dükkan - Argentina Central",
+    "slug": "satilik-dükkan-argentina-central-P00331",
+    "description": "Argentina Central, Argentina bölgesinde dükkan. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 2129467,
+    "location": {
+      "country": "AR",
+      "city": "Argentina Central",
+      "district": "Argentina Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 934",
+      "coordinates": {
+        "lat": -33.87683395676754,
+        "lng": -63.781138278270085
+      }
+    },
+    "specs": {
+      "netSize": 90,
+      "grossSize": 108,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 9,
+      "floor": 9,
+      "totalFloors": 18,
+      "heating": "Klima",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500541834499?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500496048956?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500838432488?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500467025391?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500023909596?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500458967977?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500409037033?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500688630748?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500067766026?w=800&q=80&category=interior"
+    ],
+    "agent": {
+      "id": "A64",
+      "name": "Agent 37",
+      "phone": "+44 264 779 5800",
+      "email": "agent89@iwrealty.com",
+      "photo": "/images/icons/png/sg-harbour-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-01-08T10:50:47.177Z",
+    "updatedAt": "2025-11-13T10:50:47.177Z",
+    "storeId": "store-011"
+  },
+  {
+    "id": "P00332",
+    "type": "rent",
+    "category": {
+      "main": "commercial",
+      "sub": "shop"
+    },
+    "title": "Kiralık Dükkan - Buenos Aires",
+    "slug": "kiralik-dükkan-buenos-aires-P00332",
+    "description": "Buenos Aires, Argentina bölgesinde dükkan. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 6089419,
+    "location": {
+      "country": "AR",
+      "city": "Buenos Aires",
+      "district": "Buenos Aires Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 961",
+      "coordinates": {
+        "lat": -33.975837470110406,
+        "lng": -64.20883130500727
+      }
+    },
+    "specs": {
+      "netSize": 402,
+      "grossSize": 482,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 3,
+      "floor": 14,
+      "totalFloors": 12,
+      "heating": "Klima",
+      "furnishing": "Unfurnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500848242531?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500175448021?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500046763247?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500842392400?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500299841282?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500204394753?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500505219114?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500283470706?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500153946693?w=800&q=80&category=architecture"
+    ],
+    "agent": {
+      "id": "A56",
+      "name": "Agent 46",
+      "phone": "+15 412 877 3765",
+      "email": "agent89@iwrealty.com",
+      "photo": "/images/icons/png/sg-harbour-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": false,
+      "hasBalcony": false,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-03-02T10:50:47.177Z",
+    "updatedAt": "2025-11-13T10:50:47.177Z",
+    "storeId": "store-011"
+  },
+  {
+    "id": "P00333",
+    "type": "sale",
+    "category": {
+      "main": "commercial",
+      "sub": "office"
+    },
+    "title": "Satılık Ofis - Argentina City",
+    "slug": "satilik-ofis-argentina-city-P00333",
+    "description": "Argentina City, Argentina bölgesinde ofis. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 10127356,
+    "location": {
+      "country": "AR",
+      "city": "Argentina City",
+      "district": "Argentina City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 272",
+      "coordinates": {
+        "lat": -33.699058293165805,
+        "lng": -64.26327125847703
+      }
+    },
+    "specs": {
+      "netSize": 483,
+      "grossSize": 580,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 9,
+      "floor": 3,
+      "totalFloors": 8,
+      "heating": "Merkezi",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500562429942?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500822232899?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500983786386?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500435038731?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500886441518?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500171327383?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500319819916?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500141876679?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500207648272?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500068575145?w=800&q=80&category=building"
+    ],
+    "agent": {
+      "id": "A90",
+      "name": "Agent 14",
+      "phone": "+67 226 788 2603",
+      "email": "agent12@iwrealty.com",
+      "photo": "/images/icons/png/izmir-sahil-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": false,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-06-11T10:50:47.177Z",
+    "updatedAt": "2025-11-13T10:50:47.177Z",
+    "storeId": "store-005"
+  },
+  {
+    "id": "P00334",
+    "type": "rent",
+    "category": {
+      "main": "commercial",
+      "sub": "office"
+    },
+    "title": "Kiralık Ofis - Argentina City",
+    "slug": "kiralik-ofis-argentina-city-P00334",
+    "description": "Argentina City, Argentina bölgesinde ofis. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 6288117,
+    "location": {
+      "country": "AR",
+      "city": "Argentina City",
+      "district": "Argentina City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 382",
+      "coordinates": {
+        "lat": -34.41334296256029,
+        "lng": -64.42763249452354
+      }
+    },
+    "specs": {
+      "netSize": 684,
+      "grossSize": 821,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 14,
+      "floor": 5,
+      "totalFloors": 6,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Furnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500032410873?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500025606262?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500791141652?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500598476157?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500309751732?w=800&q=80&category=building"
+    ],
+    "agent": {
+      "id": "A92",
+      "name": "Agent 4",
+      "phone": "+24 634 128 1972",
+      "email": "agent9@iwrealty.com",
+      "photo": "/images/icons/png/paris-heritage-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": true,
+      "hasPool": true,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-08-07T10:50:47.177Z",
+    "updatedAt": "2025-11-13T10:50:47.177Z",
+    "storeId": "store-010"
+  },
+  {
+    "id": "P00335",
+    "type": "sale",
+    "category": {
+      "main": "commercial",
+      "sub": "mall"
+    },
+    "title": "Satılık AVM - Argentina City",
+    "slug": "satilik-avm-argentina-city-P00335",
+    "description": "Argentina City, Argentina bölgesinde avm. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 362582318,
+    "location": {
+      "country": "AR",
+      "city": "Argentina City",
+      "district": "Argentina City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 75",
+      "coordinates": {
+        "lat": -34.04752496689031,
+        "lng": -63.83602288804439
+      }
+    },
+    "specs": {
+      "netSize": 24114,
+      "grossSize": 28937,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 10,
+      "floor": 14,
+      "totalFloors": 7,
+      "heating": "Merkezi",
+      "furnishing": "Furnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500546854680?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500618486651?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500299170111?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500951791277?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500325545097?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500076039104?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500399268304?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500155319444?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500676501672?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500217681422?w=800&q=80&category=architecture"
+    ],
+    "agent": {
+      "id": "A8",
+      "name": "Agent 25",
+      "phone": "+14 612 795 2579",
+      "email": "agent2@iwrealty.com",
+      "photo": "/images/icons/png/sg-harbour-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-08-21T10:50:47.177Z",
+    "updatedAt": "2025-11-13T10:50:47.177Z",
+    "storeId": "store-011"
+  },
+  {
+    "id": "P00336",
+    "type": "rent",
+    "category": {
+      "main": "commercial",
+      "sub": "mall"
+    },
+    "title": "Kiralık AVM - Argentina Central",
+    "slug": "kiralik-avm-argentina-central-P00336",
+    "description": "Argentina Central, Argentina bölgesinde avm. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 151628458,
+    "location": {
+      "country": "AR",
+      "city": "Argentina Central",
+      "district": "Argentina Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 256",
+      "coordinates": {
+        "lat": -33.81538697339011,
+        "lng": -63.83130706979553
+      }
+    },
+    "specs": {
+      "netSize": 43194,
+      "grossSize": 51833,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 7,
+      "floor": 13,
+      "totalFloors": 8,
+      "heating": "Kombi",
+      "furnishing": "Unfurnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500924383471?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500716810290?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500542870400?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500187727725?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500146941979?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500290627754?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500537561124?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500515308655?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500396211189?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500205031813?w=800&q=80&category=interior"
+    ],
+    "agent": {
+      "id": "A10",
+      "name": "Agent 39",
+      "phone": "+92 531 222 8909",
+      "email": "agent46@iwrealty.com",
+      "photo": "/images/icons/png/london-prime-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": true,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-02-22T10:50:47.177Z",
+    "updatedAt": "2025-11-13T10:50:47.177Z",
+    "storeId": "store-007"
+  },
+  {
+    "id": "P00337",
+    "type": "sale",
+    "category": {
+      "main": "commercial",
+      "sub": "hotel"
+    },
+    "title": "Satılık Otel - Buenos Aires",
+    "slug": "satilik-otel-buenos-aires-P00337",
+    "description": "Buenos Aires, Argentina bölgesinde otel. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 49393312,
+    "location": {
+      "country": "AR",
+      "city": "Buenos Aires",
+      "district": "Buenos Aires Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 443",
+      "coordinates": {
+        "lat": -33.83019566622152,
+        "lng": -63.712174043864415
+      }
+    },
+    "specs": {
+      "netSize": 16139,
+      "grossSize": 19367,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 10,
+      "floor": 12,
+      "totalFloors": 18,
+      "heating": "Klima",
+      "furnishing": "Unfurnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500170830813?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500966876794?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500254139248?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500122460749?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500675203102?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500060419408?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500974692748?w=800&q=80&category=house"
+    ],
+    "agent": {
+      "id": "A77",
+      "name": "Agent 62",
+      "phone": "+15 352 335 3230",
+      "email": "agent38@iwrealty.com",
+      "photo": "/images/icons/png/berlin-urban-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2024-12-06T10:50:47.177Z",
+    "updatedAt": "2025-11-13T10:50:47.177Z",
+    "storeId": "store-009"
+  },
+  {
+    "id": "P00338",
+    "type": "rent",
+    "category": {
+      "main": "commercial",
+      "sub": "hotel"
+    },
+    "title": "Kiralık Otel - Argentina City",
+    "slug": "kiralik-otel-argentina-city-P00338",
+    "description": "Argentina City, Argentina bölgesinde otel. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 192716736,
+    "location": {
+      "country": "AR",
+      "city": "Argentina City",
+      "district": "Argentina City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 827",
+      "coordinates": {
+        "lat": -34.485179729826484,
+        "lng": -63.548975657189025
+      }
+    },
+    "specs": {
+      "netSize": 19211,
+      "grossSize": 23053,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 2,
+      "floor": 7,
+      "totalFloors": 17,
+      "heating": "Merkezi",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500519853545?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500809263937?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500396381887?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500998398676?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500467177197?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500963896315?w=800&q=80&category=architecture"
+    ],
+    "agent": {
+      "id": "A43",
+      "name": "Agent 15",
+      "phone": "+93 503 798 9194",
+      "email": "agent30@iwrealty.com",
+      "photo": "/images/icons/png/ny-skyline-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2024-12-12T10:50:47.177Z",
+    "updatedAt": "2025-11-13T10:50:47.177Z",
+    "storeId": "store-008"
+  },
+  {
+    "id": "P00339",
+    "type": "sale",
+    "category": {
+      "main": "commercial",
+      "sub": "restaurant"
+    },
+    "title": "Satılık Restoran - New Argentina",
+    "slug": "satilik-restoran-new-argentina-P00339",
+    "description": "New Argentina, Argentina bölgesinde restoran. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 2162541,
+    "location": {
+      "country": "AR",
+      "city": "New Argentina",
+      "district": "New Argentina Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 522",
+      "coordinates": {
+        "lat": -34.41351661713712,
+        "lng": -64.14133891078039
+      }
+    },
+    "specs": {
+      "netSize": 180,
+      "grossSize": 216,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 7,
+      "floor": 5,
+      "totalFloors": 15,
+      "heating": "Merkezi",
+      "furnishing": "Unfurnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500992920526?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500148344759?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500956988123?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500065887465?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500595406641?w=800&q=80&category=building"
+    ],
+    "agent": {
+      "id": "A53",
+      "name": "Agent 55",
+      "phone": "+76 654 970 7409",
+      "email": "agent76@iwrealty.com",
+      "photo": "/images/icons/png/izmir-sahil-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-07-21T10:50:47.177Z",
+    "updatedAt": "2025-11-13T10:50:47.177Z",
+    "storeId": "store-005"
+  },
+  {
+    "id": "P00340",
+    "type": "rent",
+    "category": {
+      "main": "commercial",
+      "sub": "restaurant"
+    },
+    "title": "Kiralık Restoran - Argentina City",
+    "slug": "kiralik-restoran-argentina-city-P00340",
+    "description": "Argentina City, Argentina bölgesinde restoran. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 8426886,
+    "location": {
+      "country": "AR",
+      "city": "Argentina City",
+      "district": "Argentina City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 817",
+      "coordinates": {
+        "lat": -34.16977483803987,
+        "lng": -64.06647183615736
+      }
+    },
+    "specs": {
+      "netSize": 1378,
+      "grossSize": 1654,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 9,
+      "floor": 12,
+      "totalFloors": 9,
+      "heating": "Klima",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500587240660?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500846630625?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500197109024?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500504529748?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500483313116?w=800&q=80&category=building"
+    ],
+    "agent": {
+      "id": "A84",
+      "name": "Agent 43",
+      "phone": "+81 440 391 2093",
+      "email": "agent44@iwrealty.com",
+      "photo": "/images/icons/png/paris-heritage-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": false,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-05-13T10:50:47.177Z",
+    "updatedAt": "2025-11-13T10:50:47.177Z",
+    "storeId": "store-010"
+  },
+  {
+    "id": "P00341",
+    "type": "sale",
+    "category": {
+      "main": "commercial",
+      "sub": "warehouse"
+    },
+    "title": "Satılık Depo - New Argentina",
+    "slug": "satilik-depo-new-argentina-P00341",
+    "description": "New Argentina, Argentina bölgesinde depo. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 15998391,
+    "location": {
+      "country": "AR",
+      "city": "New Argentina",
+      "district": "New Argentina Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 73",
+      "coordinates": {
+        "lat": -34.48376153892317,
+        "lng": -63.63813499257058
+      }
+    },
+    "specs": {
+      "netSize": 4460,
+      "grossSize": 5352,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 8,
+      "floor": 9,
+      "totalFloors": 18,
+      "heating": "Kombi",
+      "furnishing": "Unfurnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500143598670?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500756140966?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500050682480?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500841012906?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500319828017?w=800&q=80&category=building"
+    ],
+    "agent": {
+      "id": "A42",
+      "name": "Agent 9",
+      "phone": "+40 892 909 2561",
+      "email": "agent96@iwrealty.com",
+      "photo": "/images/icons/png/sydney-coastal-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-02-26T10:50:47.177Z",
+    "updatedAt": "2025-11-13T10:50:47.177Z",
+    "storeId": "store-012"
+  },
+  {
+    "id": "P00342",
+    "type": "rent",
+    "category": {
+      "main": "commercial",
+      "sub": "warehouse"
+    },
+    "title": "Kiralık Depo - Argentina Central",
+    "slug": "kiralik-depo-argentina-central-P00342",
+    "description": "Argentina Central, Argentina bölgesinde depo. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 23992964,
+    "location": {
+      "country": "AR",
+      "city": "Argentina Central",
+      "district": "Argentina Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 102",
+      "coordinates": {
+        "lat": -34.025452808573704,
+        "lng": -63.842520928677274
+      }
+    },
+    "specs": {
+      "netSize": 8951,
+      "grossSize": 10741,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 19,
+      "floor": 6,
+      "totalFloors": 20,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500583619328?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500856561881?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500531202967?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500462585346?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500351654666?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500756852287?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500474849799?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500771042965?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500276060867?w=800&q=80&category=interior"
+    ],
+    "agent": {
+      "id": "A45",
+      "name": "Agent 94",
+      "phone": "+60 301 363 1019",
+      "email": "agent1@iwrealty.com",
+      "photo": "/images/icons/png/paris-heritage-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-05-05T10:50:47.177Z",
+    "updatedAt": "2025-11-13T10:50:47.177Z",
+    "storeId": "store-010"
+  }
+]

@@ -1,0 +1,2331 @@
+[
+  {
+    "id": "P03269",
+    "type": "sale",
+    "category": {
+      "main": "government"
+    },
+    "title": "Satılık Devlet Binası - New Guadeloupe",
+    "slug": "satilik-devlet-binası-new-guadeloupe-P03269",
+    "description": "New Guadeloupe, Guadeloupe bölgesinde devlet binası. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 8832815,
+    "location": {
+      "country": "GP",
+      "city": "New Guadeloupe",
+      "district": "New Guadeloupe Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 612",
+      "coordinates": {
+        "lat": 16.36499002031393,
+        "lng": -61.29091959425217
+      }
+    },
+    "specs": {
+      "netSize": 2239,
+      "grossSize": 2687,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 4,
+      "floor": 4,
+      "totalFloors": 6,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Unfurnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500824812834?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500195993734?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500275649816?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500719059390?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500038545094?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500245303101?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500076452673?w=800&q=80&category=building"
+    ],
+    "agent": {
+      "id": "A98",
+      "name": "Agent 97",
+      "phone": "+95 783 451 9824",
+      "email": "agent90@iwrealty.com",
+      "photo": "/images/icons/png/berlin-urban-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": false,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2024-12-04T10:50:47.212Z",
+    "updatedAt": "2025-11-13T10:50:47.212Z",
+    "storeId": "store-009"
+  },
+  {
+    "id": "P03270",
+    "type": "rent",
+    "category": {
+      "main": "government"
+    },
+    "title": "Kiralık Hastane - Guadeloupe City",
+    "slug": "kiralik-hastane-guadeloupe-city-P03270",
+    "description": "Guadeloupe City, Guadeloupe bölgesinde hastane. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 31488629,
+    "location": {
+      "country": "GP",
+      "city": "Guadeloupe City",
+      "district": "Guadeloupe City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 799",
+      "coordinates": {
+        "lat": 16.48748537026728,
+        "lng": -61.553842202936764
+      }
+    },
+    "specs": {
+      "netSize": 2877,
+      "grossSize": 3452,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 2,
+      "floor": 4,
+      "totalFloors": 6,
+      "heating": "Kombi",
+      "furnishing": "Furnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500894688199?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500819326881?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500835935909?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500422846084?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500381188439?w=800&q=80&category=architecture"
+    ],
+    "agent": {
+      "id": "A75",
+      "name": "Agent 23",
+      "phone": "+98 516 106 4600",
+      "email": "agent46@iwrealty.com",
+      "photo": "/images/icons/png/dubai-property-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": true,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-10-28T10:50:47.212Z",
+    "updatedAt": "2025-11-13T10:50:47.212Z",
+    "storeId": "store-004"
+  },
+  {
+    "id": "P03271",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Müstakil Ev - Guadeloupe City",
+    "slug": "satilik-müstakil-ev-guadeloupe-city-P03271",
+    "description": "Guadeloupe City, Guadeloupe bölgesinde müstakil ev. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 5728167,
+    "location": {
+      "country": "GP",
+      "city": "Guadeloupe City",
+      "district": "Guadeloupe City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 77",
+      "coordinates": {
+        "lat": 16.18597899482747,
+        "lng": -61.27556245684175
+      }
+    },
+    "specs": {
+      "netSize": 424,
+      "grossSize": 509,
+      "rooms": "2+2",
+      "bathrooms": 4,
+      "age": 12,
+      "floor": 4,
+      "totalFloors": 20,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Unfurnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500791674518?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500284193586?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500457135991?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500908178099?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500296241916?w=800&q=80&category=architecture"
+    ],
+    "agent": {
+      "id": "A52",
+      "name": "Agent 6",
+      "phone": "+87 521 913 5395",
+      "email": "agent82@iwrealty.com",
+      "photo": "/images/icons/png/berlin-urban-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-06-05T10:50:47.212Z",
+    "updatedAt": "2025-11-13T10:50:47.212Z",
+    "storeId": "store-009"
+  },
+  {
+    "id": "P03272",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Daire - Basse-Terre",
+    "slug": "kiralik-daire-basse-terre-P03272",
+    "description": "Basse-Terre, Guadeloupe bölgesinde daire. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 2549535,
+    "location": {
+      "country": "GP",
+      "city": "Basse-Terre",
+      "district": "Basse-Terre Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 535",
+      "coordinates": {
+        "lat": 16.540278712826638,
+        "lng": -61.12304024119654
+      }
+    },
+    "specs": {
+      "netSize": 387,
+      "grossSize": 464,
+      "rooms": "1+2",
+      "bathrooms": 3,
+      "age": 4,
+      "floor": 12,
+      "totalFloors": 5,
+      "heating": "Merkezi",
+      "furnishing": "Furnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500614711807?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500164940087?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500522260112?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500435314631?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500736305314?w=800&q=80&category=building"
+    ],
+    "agent": {
+      "id": "A73",
+      "name": "Agent 68",
+      "phone": "+75 296 659 5398",
+      "email": "agent53@iwrealty.com",
+      "photo": "/images/icons/png/antalya-investment-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": false,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": true,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-01-14T10:50:47.212Z",
+    "updatedAt": "2025-11-13T10:50:47.212Z",
+    "storeId": "store-006"
+  },
+  {
+    "id": "P03273",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Residence - Guadeloupe City",
+    "slug": "satilik-residence-guadeloupe-city-P03273",
+    "description": "Guadeloupe City, Guadeloupe bölgesinde residence. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 7724822,
+    "location": {
+      "country": "GP",
+      "city": "Guadeloupe City",
+      "district": "Guadeloupe City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 867",
+      "coordinates": {
+        "lat": 16.116298301034888,
+        "lng": -61.97812844822152
+      }
+    },
+    "specs": {
+      "netSize": 490,
+      "grossSize": 588,
+      "rooms": "3+1",
+      "bathrooms": 3,
+      "age": 6,
+      "floor": 14,
+      "totalFloors": 6,
+      "heating": "Kombi",
+      "furnishing": "Furnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500641610371?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500593800118?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500317700262?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500559473541?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500006595825?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500128872846?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500590266079?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500812377769?w=800&q=80&category=real-estate"
+    ],
+    "agent": {
+      "id": "A16",
+      "name": "Agent 13",
+      "phone": "+29 163 549 1372",
+      "email": "agent4@iwrealty.com",
+      "photo": "/images/icons/png/dubai-property-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": true,
+      "hasPool": true,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-08-11T10:50:47.212Z",
+    "updatedAt": "2025-11-13T10:50:47.212Z",
+    "storeId": "store-004"
+  },
+  {
+    "id": "P03274",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Daire - Guadeloupe Central",
+    "slug": "kiralik-daire-guadeloupe-central-P03274",
+    "description": "Guadeloupe Central, Guadeloupe bölgesinde daire. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 9218158,
+    "location": {
+      "country": "GP",
+      "city": "Guadeloupe Central",
+      "district": "Guadeloupe Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 19",
+      "coordinates": {
+        "lat": 16.10855921606531,
+        "lng": -61.091756469299995
+      }
+    },
+    "specs": {
+      "netSize": 276,
+      "grossSize": 331,
+      "rooms": "4+1",
+      "bathrooms": 2,
+      "age": 14,
+      "floor": 1,
+      "totalFloors": 11,
+      "heating": "Merkezi",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500710356394?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500955662444?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500669864061?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500754606936?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500990673004?w=800&q=80&category=architecture"
+    ],
+    "agent": {
+      "id": "A9",
+      "name": "Agent 100",
+      "phone": "+66 582 163 4248",
+      "email": "agent49@iwrealty.com",
+      "photo": "/images/icons/png/sydney-coastal-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-10-01T10:50:47.212Z",
+    "updatedAt": "2025-11-13T10:50:47.212Z",
+    "storeId": "store-012"
+  },
+  {
+    "id": "P03275",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Villa - Basse-Terre",
+    "slug": "satilik-villa-basse-terre-P03275",
+    "description": "Basse-Terre, Guadeloupe bölgesinde villa. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 9976823,
+    "location": {
+      "country": "GP",
+      "city": "Basse-Terre",
+      "district": "Basse-Terre Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 87",
+      "coordinates": {
+        "lat": 16.58744265018407,
+        "lng": -62.006620789519744
+      }
+    },
+    "specs": {
+      "netSize": 258,
+      "grossSize": 310,
+      "rooms": "1+2",
+      "bathrooms": 2,
+      "age": 11,
+      "floor": 11,
+      "totalFloors": 9,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Furnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500133298986?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500431630383?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500548186258?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500143243034?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500636045791?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500547018527?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500076923383?w=800&q=80&category=real-estate"
+    ],
+    "agent": {
+      "id": "A47",
+      "name": "Agent 26",
+      "phone": "+38 233 508 4082",
+      "email": "agent54@iwrealty.com",
+      "photo": "/images/icons/png/antalya-investment-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-03-21T10:50:47.212Z",
+    "updatedAt": "2025-11-13T10:50:47.212Z",
+    "storeId": "store-006"
+  },
+  {
+    "id": "P03276",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Müstakil Ev - Guadeloupe City",
+    "slug": "kiralik-müstakil-ev-guadeloupe-city-P03276",
+    "description": "Guadeloupe City, Guadeloupe bölgesinde müstakil ev. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 12395014,
+    "location": {
+      "country": "GP",
+      "city": "Guadeloupe City",
+      "district": "Guadeloupe City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 916",
+      "coordinates": {
+        "lat": 16.726533445712374,
+        "lng": -61.211933323830586
+      }
+    },
+    "specs": {
+      "netSize": 260,
+      "grossSize": 312,
+      "rooms": "5+0",
+      "bathrooms": 3,
+      "age": 1,
+      "floor": 1,
+      "totalFloors": 14,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Furnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500759190972?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500491672680?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500742054614?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500732446557?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500370596130?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500844952068?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500078478944?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500484393071?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500216622672?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500749343371?w=800&q=80&category=real-estate"
+    ],
+    "agent": {
+      "id": "A31",
+      "name": "Agent 67",
+      "phone": "+44 855 324 1619",
+      "email": "agent99@iwrealty.com",
+      "photo": "/images/icons/png/sg-harbour-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": true,
+      "hasPool": true,
+      "hasSecurity": false
+    },
+    "createdAt": "2024-11-17T10:50:47.212Z",
+    "updatedAt": "2025-11-13T10:50:47.212Z",
+    "storeId": "store-011"
+  },
+  {
+    "id": "P03277",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Villa - Guadeloupe City",
+    "slug": "satilik-villa-guadeloupe-city-P03277",
+    "description": "Guadeloupe City, Guadeloupe bölgesinde villa. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 3153079,
+    "location": {
+      "country": "GP",
+      "city": "Guadeloupe City",
+      "district": "Guadeloupe City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 857",
+      "coordinates": {
+        "lat": 15.883384009231156,
+        "lng": -62.076123219510066
+      }
+    },
+    "specs": {
+      "netSize": 142,
+      "grossSize": 170,
+      "rooms": "3+1",
+      "bathrooms": 4,
+      "age": 1,
+      "floor": 14,
+      "totalFloors": 6,
+      "heating": "Kombi",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500623793563?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500441465790?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500260756405?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500823516096?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500633140307?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500614546708?w=800&q=80&category=house"
+    ],
+    "agent": {
+      "id": "A66",
+      "name": "Agent 76",
+      "phone": "+15 796 955 1795",
+      "email": "agent63@iwrealty.com",
+      "photo": "/images/icons/png/sg-harbour-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-01-20T10:50:47.212Z",
+    "updatedAt": "2025-11-13T10:50:47.212Z",
+    "storeId": "store-011"
+  },
+  {
+    "id": "P03278",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Müstakil Ev - Basse-Terre",
+    "slug": "kiralik-müstakil-ev-basse-terre-P03278",
+    "description": "Basse-Terre, Guadeloupe bölgesinde müstakil ev. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 3786846,
+    "location": {
+      "country": "GP",
+      "city": "Basse-Terre",
+      "district": "Basse-Terre Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 275",
+      "coordinates": {
+        "lat": 15.825715613982855,
+        "lng": -61.76036500026042
+      }
+    },
+    "specs": {
+      "netSize": 375,
+      "grossSize": 450,
+      "rooms": "5+0",
+      "bathrooms": 3,
+      "age": 9,
+      "floor": 15,
+      "totalFloors": 5,
+      "heating": "Kombi",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500875111392?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500789060433?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500213882400?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500720885614?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500651881049?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500575146053?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500044531577?w=800&q=80&category=building"
+    ],
+    "agent": {
+      "id": "A50",
+      "name": "Agent 66",
+      "phone": "+78 888 996 7481",
+      "email": "agent63@iwrealty.com",
+      "photo": "/images/icons/png/london-prime-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": true,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-03-15T10:50:47.212Z",
+    "updatedAt": "2025-11-13T10:50:47.212Z",
+    "storeId": "store-007"
+  },
+  {
+    "id": "P03279",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Daire - New Guadeloupe",
+    "slug": "satilik-daire-new-guadeloupe-P03279",
+    "description": "New Guadeloupe, Guadeloupe bölgesinde daire. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 8914129,
+    "location": {
+      "country": "GP",
+      "city": "New Guadeloupe",
+      "district": "New Guadeloupe Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 979",
+      "coordinates": {
+        "lat": 16.547341842159426,
+        "lng": -61.97555115346286
+      }
+    },
+    "specs": {
+      "netSize": 289,
+      "grossSize": 347,
+      "rooms": "4+1",
+      "bathrooms": 2,
+      "age": 13,
+      "floor": 5,
+      "totalFloors": 5,
+      "heating": "Merkezi",
+      "furnishing": "Unfurnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500537340590?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500033567620?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500662303367?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500586941404?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500478827066?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500238346852?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500077092250?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500678997949?w=800&q=80&category=building"
+    ],
+    "agent": {
+      "id": "A51",
+      "name": "Agent 16",
+      "phone": "+60 103 190 6555",
+      "email": "agent76@iwrealty.com",
+      "photo": "/images/icons/png/sydney-coastal-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-10-24T10:50:47.212Z",
+    "updatedAt": "2025-11-13T10:50:47.212Z",
+    "storeId": "store-012"
+  },
+  {
+    "id": "P03280",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Residence - New Guadeloupe",
+    "slug": "kiralik-residence-new-guadeloupe-P03280",
+    "description": "New Guadeloupe, Guadeloupe bölgesinde residence. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 9167657,
+    "location": {
+      "country": "GP",
+      "city": "New Guadeloupe",
+      "district": "New Guadeloupe Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 931",
+      "coordinates": {
+        "lat": 16.732435811734135,
+        "lng": -61.6680077030791
+      }
+    },
+    "specs": {
+      "netSize": 307,
+      "grossSize": 368,
+      "rooms": "2+1",
+      "bathrooms": 4,
+      "age": 19,
+      "floor": 7,
+      "totalFloors": 7,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Furnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500135422877?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500834785557?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500889833137?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500809052992?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500930536837?w=800&q=80&category=real-estate"
+    ],
+    "agent": {
+      "id": "A41",
+      "name": "Agent 48",
+      "phone": "+85 569 151 9441",
+      "email": "agent2@iwrealty.com",
+      "photo": "/images/icons/png/ny-skyline-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-05-29T10:50:47.212Z",
+    "updatedAt": "2025-11-13T10:50:47.212Z",
+    "storeId": "store-008"
+  },
+  {
+    "id": "P03281",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Residence - Guadeloupe Central",
+    "slug": "satilik-residence-guadeloupe-central-P03281",
+    "description": "Guadeloupe Central, Guadeloupe bölgesinde residence. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 3720163,
+    "location": {
+      "country": "GP",
+      "city": "Guadeloupe Central",
+      "district": "Guadeloupe Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 411",
+      "coordinates": {
+        "lat": 16.001243543403348,
+        "lng": -61.667065033459046
+      }
+    },
+    "specs": {
+      "netSize": 450,
+      "grossSize": 540,
+      "rooms": "1+2",
+      "bathrooms": 3,
+      "age": 20,
+      "floor": 8,
+      "totalFloors": 5,
+      "heating": "Merkezi",
+      "furnishing": "Furnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500406544407?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500565308979?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500132289945?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500519535057?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500443788009?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500627743047?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500971186996?w=800&q=80&category=building"
+    ],
+    "agent": {
+      "id": "A94",
+      "name": "Agent 36",
+      "phone": "+97 281 927 6985",
+      "email": "agent46@iwrealty.com",
+      "photo": "/images/icons/png/sydney-coastal-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": false,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-09-03T10:50:47.212Z",
+    "updatedAt": "2025-11-13T10:50:47.212Z",
+    "storeId": "store-012"
+  },
+  {
+    "id": "P03282",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Daire - Guadeloupe City",
+    "slug": "kiralik-daire-guadeloupe-city-P03282",
+    "description": "Guadeloupe City, Guadeloupe bölgesinde daire. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 8278807,
+    "location": {
+      "country": "GP",
+      "city": "Guadeloupe City",
+      "district": "Guadeloupe City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 541",
+      "coordinates": {
+        "lat": 16.421099742677264,
+        "lng": -61.73446481083346
+      }
+    },
+    "specs": {
+      "netSize": 305,
+      "grossSize": 366,
+      "rooms": "1+1",
+      "bathrooms": 3,
+      "age": 3,
+      "floor": 6,
+      "totalFloors": 18,
+      "heating": "Kombi",
+      "furnishing": "Furnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500383585370?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500251707501?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500516261270?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500080319610?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500036546735?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500969372629?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500199806303?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500752730230?w=800&q=80&category=house"
+    ],
+    "agent": {
+      "id": "A99",
+      "name": "Agent 31",
+      "phone": "+83 998 797 9347",
+      "email": "agent36@iwrealty.com",
+      "photo": "/images/icons/png/luxury-homes-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": true,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-02-03T10:50:47.212Z",
+    "updatedAt": "2025-11-13T10:50:47.212Z",
+    "storeId": "store-002"
+  },
+  {
+    "id": "P03283",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Daire - Guadeloupe Central",
+    "slug": "satilik-daire-guadeloupe-central-P03283",
+    "description": "Guadeloupe Central, Guadeloupe bölgesinde daire. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 13493384,
+    "location": {
+      "country": "GP",
+      "city": "Guadeloupe Central",
+      "district": "Guadeloupe Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 404",
+      "coordinates": {
+        "lat": 16.36583432134403,
+        "lng": -61.340777390314
+      }
+    },
+    "specs": {
+      "netSize": 419,
+      "grossSize": 503,
+      "rooms": "2+0",
+      "bathrooms": 3,
+      "age": 4,
+      "floor": 7,
+      "totalFloors": 20,
+      "heating": "Kombi",
+      "furnishing": "Unfurnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500826191417?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500836592825?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500877829493?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500532779628?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500426227695?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500779892602?w=800&q=80&category=architecture"
+    ],
+    "agent": {
+      "id": "A84",
+      "name": "Agent 26",
+      "phone": "+66 241 310 2625",
+      "email": "agent2@iwrealty.com",
+      "photo": "/images/icons/png/ankara-modern-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": true,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-01-27T10:50:47.212Z",
+    "updatedAt": "2025-11-13T10:50:47.212Z",
+    "storeId": "store-003"
+  },
+  {
+    "id": "P03284",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Villa - New Guadeloupe",
+    "slug": "kiralik-villa-new-guadeloupe-P03284",
+    "description": "New Guadeloupe, Guadeloupe bölgesinde villa. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 4382132,
+    "location": {
+      "country": "GP",
+      "city": "New Guadeloupe",
+      "district": "New Guadeloupe Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 461",
+      "coordinates": {
+        "lat": 16.278133576093666,
+        "lng": -61.13123662824832
+      }
+    },
+    "specs": {
+      "netSize": 200,
+      "grossSize": 240,
+      "rooms": "1+0",
+      "bathrooms": 1,
+      "age": 7,
+      "floor": 14,
+      "totalFloors": 16,
+      "heating": "Klima",
+      "furnishing": "Unfurnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500029538484?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500248927412?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500922183614?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500032415383?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500593399613?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500029036387?w=800&q=80&category=interior"
+    ],
+    "agent": {
+      "id": "A93",
+      "name": "Agent 47",
+      "phone": "+37 964 212 5543",
+      "email": "agent93@iwrealty.com",
+      "photo": "/images/icons/png/dubai-property-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": true,
+      "hasSecurity": false
+    },
+    "createdAt": "2024-11-14T10:50:47.212Z",
+    "updatedAt": "2025-11-13T10:50:47.212Z",
+    "storeId": "store-004"
+  },
+  {
+    "id": "P03285",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Villa - New Guadeloupe",
+    "slug": "satilik-villa-new-guadeloupe-P03285",
+    "description": "New Guadeloupe, Guadeloupe bölgesinde villa. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 13713565,
+    "location": {
+      "country": "GP",
+      "city": "New Guadeloupe",
+      "district": "New Guadeloupe Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 771",
+      "coordinates": {
+        "lat": 16.14081297662733,
+        "lng": -61.313827744587485
+      }
+    },
+    "specs": {
+      "netSize": 214,
+      "grossSize": 257,
+      "rooms": "2+1",
+      "bathrooms": 3,
+      "age": 3,
+      "floor": 8,
+      "totalFloors": 10,
+      "heating": "Merkezi",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500254928782?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500910098848?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500387881137?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500917068628?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500463949790?w=800&q=80&category=interior"
+    ],
+    "agent": {
+      "id": "A28",
+      "name": "Agent 90",
+      "phone": "+48 560 457 3324",
+      "email": "agent59@iwrealty.com",
+      "photo": "/images/icons/png/antalya-investment-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": false,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-01-07T10:50:47.212Z",
+    "updatedAt": "2025-11-13T10:50:47.212Z",
+    "storeId": "store-006"
+  },
+  {
+    "id": "P03286",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Villa - Guadeloupe Central",
+    "slug": "kiralik-villa-guadeloupe-central-P03286",
+    "description": "Guadeloupe Central, Guadeloupe bölgesinde villa. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 11241340,
+    "location": {
+      "country": "GP",
+      "city": "Guadeloupe Central",
+      "district": "Guadeloupe Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 141",
+      "coordinates": {
+        "lat": 15.870709019281444,
+        "lng": -61.185771570248406
+      }
+    },
+    "specs": {
+      "netSize": 90,
+      "grossSize": 108,
+      "rooms": "5+0",
+      "bathrooms": 4,
+      "age": 20,
+      "floor": 7,
+      "totalFloors": 20,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500819684704?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500026352196?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500835147871?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500310712418?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500219203612?w=800&q=80&category=building"
+    ],
+    "agent": {
+      "id": "A2",
+      "name": "Agent 61",
+      "phone": "+95 705 998 4642",
+      "email": "agent37@iwrealty.com",
+      "photo": "/images/icons/png/london-prime-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-01-12T10:50:47.212Z",
+    "updatedAt": "2025-11-13T10:50:47.212Z",
+    "storeId": "store-007"
+  },
+  {
+    "id": "P03287",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Daire - Basse-Terre",
+    "slug": "satilik-daire-basse-terre-P03287",
+    "description": "Basse-Terre, Guadeloupe bölgesinde daire. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 6298979,
+    "location": {
+      "country": "GP",
+      "city": "Basse-Terre",
+      "district": "Basse-Terre Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 631",
+      "coordinates": {
+        "lat": 16.66033127511368,
+        "lng": -61.519457711453
+      }
+    },
+    "specs": {
+      "netSize": 384,
+      "grossSize": 461,
+      "rooms": "5+2",
+      "bathrooms": 4,
+      "age": 7,
+      "floor": 10,
+      "totalFloors": 6,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500071505562?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500871628543?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500047349514?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500351441238?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500080359589?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500584503828?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500405780907?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500178069300?w=800&q=80&category=building"
+    ],
+    "agent": {
+      "id": "A45",
+      "name": "Agent 40",
+      "phone": "+30 669 254 1836",
+      "email": "agent41@iwrealty.com",
+      "photo": "/images/icons/png/paris-heritage-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-10-14T10:50:47.212Z",
+    "updatedAt": "2025-11-13T10:50:47.212Z",
+    "storeId": "store-010"
+  },
+  {
+    "id": "P03288",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Müstakil Ev - Guadeloupe City",
+    "slug": "kiralik-müstakil-ev-guadeloupe-city-P03288",
+    "description": "Guadeloupe City, Guadeloupe bölgesinde müstakil ev. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 1932393,
+    "location": {
+      "country": "GP",
+      "city": "Guadeloupe City",
+      "district": "Guadeloupe City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 841",
+      "coordinates": {
+        "lat": 16.031798029120054,
+        "lng": -61.60475475270119
+      }
+    },
+    "specs": {
+      "netSize": 242,
+      "grossSize": 290,
+      "rooms": "4+0",
+      "bathrooms": 1,
+      "age": 17,
+      "floor": 6,
+      "totalFloors": 15,
+      "heating": "Klima",
+      "furnishing": "Furnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500138602371?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500240113209?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500203493540?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500738706386?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500893044637?w=800&q=80&category=real-estate"
+    ],
+    "agent": {
+      "id": "A28",
+      "name": "Agent 62",
+      "phone": "+17 880 670 1854",
+      "email": "agent29@iwrealty.com",
+      "photo": "/images/icons/png/london-prime-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-06-19T10:50:47.212Z",
+    "updatedAt": "2025-11-13T10:50:47.212Z",
+    "storeId": "store-007"
+  },
+  {
+    "id": "P03289",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Villa - Guadeloupe City",
+    "slug": "satilik-villa-guadeloupe-city-P03289",
+    "description": "Guadeloupe City, Guadeloupe bölgesinde villa. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 973062,
+    "location": {
+      "country": "GP",
+      "city": "Guadeloupe City",
+      "district": "Guadeloupe City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 878",
+      "coordinates": {
+        "lat": 16.24984453758123,
+        "lng": -61.85600376792594
+      }
+    },
+    "specs": {
+      "netSize": 325,
+      "grossSize": 390,
+      "rooms": "2+0",
+      "bathrooms": 2,
+      "age": 5,
+      "floor": 9,
+      "totalFloors": 8,
+      "heating": "Klima",
+      "furnishing": "Furnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500895976451?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500007116997?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500364504173?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500005735039?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500138549616?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500026978289?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500982398352?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500937721626?w=800&q=80&category=real-estate"
+    ],
+    "agent": {
+      "id": "A69",
+      "name": "Agent 47",
+      "phone": "+66 510 663 1098",
+      "email": "agent80@iwrealty.com",
+      "photo": "/images/icons/png/ankara-modern-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-06-03T10:50:47.212Z",
+    "updatedAt": "2025-11-13T10:50:47.212Z",
+    "storeId": "store-003"
+  },
+  {
+    "id": "P03290",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Residence - Guadeloupe City",
+    "slug": "kiralik-residence-guadeloupe-city-P03290",
+    "description": "Guadeloupe City, Guadeloupe bölgesinde residence. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 6542361,
+    "location": {
+      "country": "GP",
+      "city": "Guadeloupe City",
+      "district": "Guadeloupe City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 126",
+      "coordinates": {
+        "lat": 15.831871828077055,
+        "lng": -61.473989904624666
+      }
+    },
+    "specs": {
+      "netSize": 425,
+      "grossSize": 510,
+      "rooms": "3+2",
+      "bathrooms": 4,
+      "age": 17,
+      "floor": 4,
+      "totalFloors": 14,
+      "heating": "Merkezi",
+      "furnishing": "Furnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500648656842?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500679300069?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500198662435?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500138157051?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500434412401?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500401531171?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500459677115?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500035658088?w=800&q=80&category=real-estate"
+    ],
+    "agent": {
+      "id": "A24",
+      "name": "Agent 92",
+      "phone": "+97 256 873 1011",
+      "email": "agent3@iwrealty.com",
+      "photo": "/images/icons/png/sg-harbour-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-05-13T10:50:47.212Z",
+    "updatedAt": "2025-11-13T10:50:47.212Z",
+    "storeId": "store-011"
+  },
+  {
+    "id": "P03291",
+    "type": "sale",
+    "category": {
+      "main": "commercial",
+      "sub": "hospital"
+    },
+    "title": "Satılık Hastane - Guadeloupe Central",
+    "slug": "satilik-hastane-guadeloupe-central-P03291",
+    "description": "Guadeloupe Central, Guadeloupe bölgesinde hastane. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 69365807,
+    "location": {
+      "country": "GP",
+      "city": "Guadeloupe Central",
+      "district": "Guadeloupe Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 486",
+      "coordinates": {
+        "lat": 15.929616306409297,
+        "lng": -61.15905729782099
+      }
+    },
+    "specs": {
+      "netSize": 7469,
+      "grossSize": 8963,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 20,
+      "floor": 8,
+      "totalFloors": 7,
+      "heating": "Klima",
+      "furnishing": "Unfurnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500503592629?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500843539090?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500020393026?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500618498081?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500184765896?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500087246169?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500001769448?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500101849416?w=800&q=80&category=house"
+    ],
+    "agent": {
+      "id": "A87",
+      "name": "Agent 54",
+      "phone": "+61 604 189 6353",
+      "email": "agent48@iwrealty.com",
+      "photo": "/images/icons/png/antalya-investment-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-08-31T10:50:47.212Z",
+    "updatedAt": "2025-11-13T10:50:47.212Z",
+    "storeId": "store-006"
+  },
+  {
+    "id": "P03292",
+    "type": "rent",
+    "category": {
+      "main": "commercial",
+      "sub": "hospital"
+    },
+    "title": "Kiralık Hastane - Guadeloupe City",
+    "slug": "kiralik-hastane-guadeloupe-city-P03292",
+    "description": "Guadeloupe City, Guadeloupe bölgesinde hastane. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 24797740,
+    "location": {
+      "country": "GP",
+      "city": "Guadeloupe City",
+      "district": "Guadeloupe City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 409",
+      "coordinates": {
+        "lat": 15.84453165372145,
+        "lng": -61.22499904856759
+      }
+    },
+    "specs": {
+      "netSize": 16534,
+      "grossSize": 19841,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 8,
+      "floor": 15,
+      "totalFloors": 17,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Unfurnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500059801974?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500674968337?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500888898883?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500501228969?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500980636985?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500444734298?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500422640235?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500441106380?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500196031996?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500218905582?w=800&q=80&category=interior"
+    ],
+    "agent": {
+      "id": "A38",
+      "name": "Agent 50",
+      "phone": "+50 400 275 6799",
+      "email": "agent99@iwrealty.com",
+      "photo": "/images/icons/png/sg-harbour-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-10-22T10:50:47.212Z",
+    "updatedAt": "2025-11-13T10:50:47.212Z",
+    "storeId": "store-011"
+  },
+  {
+    "id": "P03293",
+    "type": "sale",
+    "category": {
+      "main": "commercial",
+      "sub": "clinic"
+    },
+    "title": "Satılık Klinik - Guadeloupe City",
+    "slug": "satilik-klinik-guadeloupe-city-P03293",
+    "description": "Guadeloupe City, Guadeloupe bölgesinde klinik. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 9704924,
+    "location": {
+      "country": "GP",
+      "city": "Guadeloupe City",
+      "district": "Guadeloupe City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 157",
+      "coordinates": {
+        "lat": 16.66116996750733,
+        "lng": -61.42101245605341
+      }
+    },
+    "specs": {
+      "netSize": 488,
+      "grossSize": 586,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 4,
+      "floor": 11,
+      "totalFloors": 11,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Unfurnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500255728893?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500283067898?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500739244845?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500031921565?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500788556698?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500061287734?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500872505877?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500998203697?w=800&q=80&category=interior"
+    ],
+    "agent": {
+      "id": "A96",
+      "name": "Agent 7",
+      "phone": "+23 116 880 9599",
+      "email": "agent55@iwrealty.com",
+      "photo": "/images/icons/png/sg-harbour-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": true,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-05-18T10:50:47.212Z",
+    "updatedAt": "2025-11-13T10:50:47.212Z",
+    "storeId": "store-011"
+  },
+  {
+    "id": "P03294",
+    "type": "rent",
+    "category": {
+      "main": "commercial",
+      "sub": "clinic"
+    },
+    "title": "Kiralık Klinik - Guadeloupe City",
+    "slug": "kiralik-klinik-guadeloupe-city-P03294",
+    "description": "Guadeloupe City, Guadeloupe bölgesinde klinik. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 13225227,
+    "location": {
+      "country": "GP",
+      "city": "Guadeloupe City",
+      "district": "Guadeloupe City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 606",
+      "coordinates": {
+        "lat": 15.991240759984029,
+        "lng": -61.10870546912955
+      }
+    },
+    "specs": {
+      "netSize": 1165,
+      "grossSize": 1398,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 14,
+      "floor": 1,
+      "totalFloors": 17,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500346577635?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500287667903?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500715947459?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500086620512?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500616540179?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500752506834?w=800&q=80&category=real-estate"
+    ],
+    "agent": {
+      "id": "A53",
+      "name": "Agent 3",
+      "phone": "+94 501 594 7815",
+      "email": "agent17@iwrealty.com",
+      "photo": "/images/icons/png/paris-heritage-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": false,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-01-16T10:50:47.212Z",
+    "updatedAt": "2025-11-13T10:50:47.212Z",
+    "storeId": "store-010"
+  },
+  {
+    "id": "P03295",
+    "type": "sale",
+    "category": {
+      "main": "commercial",
+      "sub": "shop"
+    },
+    "title": "Satılık Dükkan - Basse-Terre",
+    "slug": "satilik-dükkan-basse-terre-P03295",
+    "description": "Basse-Terre, Guadeloupe bölgesinde dükkan. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 4135632,
+    "location": {
+      "country": "GP",
+      "city": "Basse-Terre",
+      "district": "Basse-Terre Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 911",
+      "coordinates": {
+        "lat": 16.419460675683187,
+        "lng": -62.04481846725468
+      }
+    },
+    "specs": {
+      "netSize": 479,
+      "grossSize": 575,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 8,
+      "floor": 7,
+      "totalFloors": 6,
+      "heating": "Merkezi",
+      "furnishing": "Unfurnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500749240283?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500696044159?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500228428008?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500433163346?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500552366043?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500236907266?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500334256839?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500695054433?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500117502376?w=800&q=80&category=architecture"
+    ],
+    "agent": {
+      "id": "A82",
+      "name": "Agent 44",
+      "phone": "+86 642 381 7028",
+      "email": "agent98@iwrealty.com",
+      "photo": "/images/icons/png/sg-harbour-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-07-02T10:50:47.212Z",
+    "updatedAt": "2025-11-13T10:50:47.212Z",
+    "storeId": "store-011"
+  },
+  {
+    "id": "P03296",
+    "type": "rent",
+    "category": {
+      "main": "commercial",
+      "sub": "shop"
+    },
+    "title": "Kiralık Dükkan - New Guadeloupe",
+    "slug": "kiralik-dükkan-new-guadeloupe-P03296",
+    "description": "New Guadeloupe, Guadeloupe bölgesinde dükkan. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 6468092,
+    "location": {
+      "country": "GP",
+      "city": "New Guadeloupe",
+      "district": "New Guadeloupe Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 950",
+      "coordinates": {
+        "lat": 16.165079464956555,
+        "lng": -61.87575361487659
+      }
+    },
+    "specs": {
+      "netSize": 177,
+      "grossSize": 212,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 0,
+      "floor": 15,
+      "totalFloors": 5,
+      "heating": "Kombi",
+      "furnishing": "Unfurnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500384369596?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500554664364?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500405261064?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500599748574?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500627689196?w=800&q=80&category=building"
+    ],
+    "agent": {
+      "id": "A13",
+      "name": "Agent 63",
+      "phone": "+68 593 595 1126",
+      "email": "agent80@iwrealty.com",
+      "photo": "/images/icons/png/antalya-investment-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": true,
+      "hasPool": true,
+      "hasSecurity": true
+    },
+    "createdAt": "2024-12-16T10:50:47.212Z",
+    "updatedAt": "2025-11-13T10:50:47.212Z",
+    "storeId": "store-006"
+  },
+  {
+    "id": "P03297",
+    "type": "sale",
+    "category": {
+      "main": "commercial",
+      "sub": "office"
+    },
+    "title": "Satılık Ofis - Guadeloupe City",
+    "slug": "satilik-ofis-guadeloupe-city-P03297",
+    "description": "Guadeloupe City, Guadeloupe bölgesinde ofis. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 10992809,
+    "location": {
+      "country": "GP",
+      "city": "Guadeloupe City",
+      "district": "Guadeloupe City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 260",
+      "coordinates": {
+        "lat": 16.405663501943774,
+        "lng": -61.09621134467021
+      }
+    },
+    "specs": {
+      "netSize": 796,
+      "grossSize": 955,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 2,
+      "floor": 8,
+      "totalFloors": 18,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Unfurnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500760860877?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500194823769?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500501072822?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500713342519?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500806959714?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500009726800?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500625256694?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500434500676?w=800&q=80&category=building"
+    ],
+    "agent": {
+      "id": "A82",
+      "name": "Agent 12",
+      "phone": "+64 235 407 6509",
+      "email": "agent36@iwrealty.com",
+      "photo": "/images/icons/png/ny-skyline-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": false,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-09-16T10:50:47.212Z",
+    "updatedAt": "2025-11-13T10:50:47.212Z",
+    "storeId": "store-008"
+  },
+  {
+    "id": "P03298",
+    "type": "rent",
+    "category": {
+      "main": "commercial",
+      "sub": "office"
+    },
+    "title": "Kiralık Ofis - Basse-Terre",
+    "slug": "kiralik-ofis-basse-terre-P03298",
+    "description": "Basse-Terre, Guadeloupe bölgesinde ofis. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 9575194,
+    "location": {
+      "country": "GP",
+      "city": "Basse-Terre",
+      "district": "Basse-Terre Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 694",
+      "coordinates": {
+        "lat": 16.208454234656834,
+        "lng": -61.917875580323425
+      }
+    },
+    "specs": {
+      "netSize": 269,
+      "grossSize": 323,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 4,
+      "floor": 6,
+      "totalFloors": 7,
+      "heating": "Kombi",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500085229622?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500347449062?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500996659716?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500576248599?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500136103237?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500906794561?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500353919556?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500348552337?w=800&q=80&category=interior"
+    ],
+    "agent": {
+      "id": "A69",
+      "name": "Agent 34",
+      "phone": "+92 647 519 8368",
+      "email": "agent100@iwrealty.com",
+      "photo": "/images/icons/png/ankara-modern-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-05-27T10:50:47.212Z",
+    "updatedAt": "2025-11-13T10:50:47.212Z",
+    "storeId": "store-003"
+  },
+  {
+    "id": "P03299",
+    "type": "sale",
+    "category": {
+      "main": "commercial",
+      "sub": "mall"
+    },
+    "title": "Satılık AVM - New Guadeloupe",
+    "slug": "satilik-avm-new-guadeloupe-P03299",
+    "description": "New Guadeloupe, Guadeloupe bölgesinde avm. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 396061673,
+    "location": {
+      "country": "GP",
+      "city": "New Guadeloupe",
+      "district": "New Guadeloupe Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 886",
+      "coordinates": {
+        "lat": 16.531064552467186,
+        "lng": -61.655621876479096
+      }
+    },
+    "specs": {
+      "netSize": 20706,
+      "grossSize": 24847,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 3,
+      "floor": 6,
+      "totalFloors": 10,
+      "heating": "Klima",
+      "furnishing": "Furnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500996578290?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500958824785?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500672366988?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500410336090?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500433403031?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500262203992?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500539807463?w=800&q=80&category=interior"
+    ],
+    "agent": {
+      "id": "A83",
+      "name": "Agent 60",
+      "phone": "+67 175 779 5514",
+      "email": "agent67@iwrealty.com",
+      "photo": "/images/icons/png/berlin-urban-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": true,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-06-09T10:50:47.212Z",
+    "updatedAt": "2025-11-13T10:50:47.212Z",
+    "storeId": "store-009"
+  },
+  {
+    "id": "P03300",
+    "type": "rent",
+    "category": {
+      "main": "commercial",
+      "sub": "mall"
+    },
+    "title": "Kiralık AVM - New Guadeloupe",
+    "slug": "kiralik-avm-new-guadeloupe-P03300",
+    "description": "New Guadeloupe, Guadeloupe bölgesinde avm. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 476966003,
+    "location": {
+      "country": "GP",
+      "city": "New Guadeloupe",
+      "district": "New Guadeloupe Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 416",
+      "coordinates": {
+        "lat": 16.40717474428907,
+        "lng": -62.06846653355178
+      }
+    },
+    "specs": {
+      "netSize": 26247,
+      "grossSize": 31496,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 7,
+      "floor": 14,
+      "totalFloors": 17,
+      "heating": "Kombi",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500240863205?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500749503949?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500622200473?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500113479679?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500337550591?w=800&q=80&category=house"
+    ],
+    "agent": {
+      "id": "A70",
+      "name": "Agent 15",
+      "phone": "+63 713 941 6075",
+      "email": "agent89@iwrealty.com",
+      "photo": "/images/icons/png/dubai-property-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": false,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-10-06T10:50:47.212Z",
+    "updatedAt": "2025-11-13T10:50:47.212Z",
+    "storeId": "store-004"
+  },
+  {
+    "id": "P03301",
+    "type": "sale",
+    "category": {
+      "main": "commercial",
+      "sub": "hotel"
+    },
+    "title": "Satılık Otel - Guadeloupe Central",
+    "slug": "satilik-otel-guadeloupe-central-P03301",
+    "description": "Guadeloupe Central, Guadeloupe bölgesinde otel. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 77071498,
+    "location": {
+      "country": "GP",
+      "city": "Guadeloupe Central",
+      "district": "Guadeloupe Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 840",
+      "coordinates": {
+        "lat": 16.606881321791334,
+        "lng": -61.623846914847135
+      }
+    },
+    "specs": {
+      "netSize": 3911,
+      "grossSize": 4693,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 1,
+      "floor": 11,
+      "totalFloors": 18,
+      "heating": "Klima",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500823273362?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500244461024?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500314988957?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500771918278?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500742216180?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500797533628?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500752653075?w=800&q=80&category=house"
+    ],
+    "agent": {
+      "id": "A27",
+      "name": "Agent 40",
+      "phone": "+62 860 901 9830",
+      "email": "agent70@iwrealty.com",
+      "photo": "/images/icons/png/sg-harbour-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": false,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-04-17T10:50:47.212Z",
+    "updatedAt": "2025-11-13T10:50:47.212Z",
+    "storeId": "store-011"
+  },
+  {
+    "id": "P03302",
+    "type": "rent",
+    "category": {
+      "main": "commercial",
+      "sub": "hotel"
+    },
+    "title": "Kiralık Otel - Guadeloupe Central",
+    "slug": "kiralik-otel-guadeloupe-central-P03302",
+    "description": "Guadeloupe Central, Guadeloupe bölgesinde otel. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 192686189,
+    "location": {
+      "country": "GP",
+      "city": "Guadeloupe Central",
+      "district": "Guadeloupe Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 765",
+      "coordinates": {
+        "lat": 16.028759951202016,
+        "lng": -61.584715053450736
+      }
+    },
+    "specs": {
+      "netSize": 10400,
+      "grossSize": 12480,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 0,
+      "floor": 6,
+      "totalFloors": 13,
+      "heating": "Merkezi",
+      "furnishing": "Unfurnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500956532647?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500406028519?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500275160805?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500034004726?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500970617329?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500057625722?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500927188852?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500506708654?w=800&q=80&category=architecture"
+    ],
+    "agent": {
+      "id": "A56",
+      "name": "Agent 40",
+      "phone": "+83 745 141 6112",
+      "email": "agent54@iwrealty.com",
+      "photo": "/images/icons/png/ankara-modern-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-05-07T10:50:47.212Z",
+    "updatedAt": "2025-11-13T10:50:47.212Z",
+    "storeId": "store-003"
+  },
+  {
+    "id": "P03303",
+    "type": "sale",
+    "category": {
+      "main": "commercial",
+      "sub": "restaurant"
+    },
+    "title": "Satılık Restoran - New Guadeloupe",
+    "slug": "satilik-restoran-new-guadeloupe-P03303",
+    "description": "New Guadeloupe, Guadeloupe bölgesinde restoran. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 7137056,
+    "location": {
+      "country": "GP",
+      "city": "New Guadeloupe",
+      "district": "New Guadeloupe Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 901",
+      "coordinates": {
+        "lat": 16.644289264848066,
+        "lng": -61.400234674216115
+      }
+    },
+    "specs": {
+      "netSize": 649,
+      "grossSize": 779,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 9,
+      "floor": 15,
+      "totalFloors": 15,
+      "heating": "Kombi",
+      "furnishing": "Unfurnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500314954302?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500033877806?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500087999099?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500496198254?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500529626816?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500818236413?w=800&q=80&category=interior"
+    ],
+    "agent": {
+      "id": "A39",
+      "name": "Agent 27",
+      "phone": "+37 953 443 8035",
+      "email": "agent63@iwrealty.com",
+      "photo": "/images/icons/png/sydney-coastal-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": false,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": true,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-04-10T10:50:47.212Z",
+    "updatedAt": "2025-11-13T10:50:47.212Z",
+    "storeId": "store-012"
+  },
+  {
+    "id": "P03304",
+    "type": "rent",
+    "category": {
+      "main": "commercial",
+      "sub": "restaurant"
+    },
+    "title": "Kiralık Restoran - Guadeloupe City",
+    "slug": "kiralik-restoran-guadeloupe-city-P03304",
+    "description": "Guadeloupe City, Guadeloupe bölgesinde restoran. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 9243830,
+    "location": {
+      "country": "GP",
+      "city": "Guadeloupe City",
+      "district": "Guadeloupe City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 695",
+      "coordinates": {
+        "lat": 16.443400878762226,
+        "lng": -61.95289194355276
+      }
+    },
+    "specs": {
+      "netSize": 758,
+      "grossSize": 910,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 8,
+      "floor": 12,
+      "totalFloors": 17,
+      "heating": "Merkezi",
+      "furnishing": "Furnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500551886214?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500193368891?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500478665197?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500727436767?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500115721906?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500066502385?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500596015728?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500327246163?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500615634267?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500413499496?w=800&q=80&category=building"
+    ],
+    "agent": {
+      "id": "A1",
+      "name": "Agent 6",
+      "phone": "+40 528 117 4197",
+      "email": "agent29@iwrealty.com",
+      "photo": "/images/icons/png/paris-heritage-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": true,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-03-06T10:50:47.212Z",
+    "updatedAt": "2025-11-13T10:50:47.212Z",
+    "storeId": "store-010"
+  },
+  {
+    "id": "P03305",
+    "type": "sale",
+    "category": {
+      "main": "commercial",
+      "sub": "warehouse"
+    },
+    "title": "Satılık Depo - Basse-Terre",
+    "slug": "satilik-depo-basse-terre-P03305",
+    "description": "Basse-Terre, Guadeloupe bölgesinde depo. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 10030299,
+    "location": {
+      "country": "GP",
+      "city": "Basse-Terre",
+      "district": "Basse-Terre Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 843",
+      "coordinates": {
+        "lat": 16.66026020126934,
+        "lng": -61.76114378002669
+      }
+    },
+    "specs": {
+      "netSize": 6810,
+      "grossSize": 8172,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 8,
+      "floor": 14,
+      "totalFloors": 12,
+      "heating": "Merkezi",
+      "furnishing": "Furnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500868115873?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500828320797?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500795350184?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500092277383?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500608493230?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500669395361?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500977327175?w=800&q=80&category=house"
+    ],
+    "agent": {
+      "id": "A54",
+      "name": "Agent 75",
+      "phone": "+41 399 223 5489",
+      "email": "agent9@iwrealty.com",
+      "photo": "/images/icons/png/london-prime-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": false,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-04-11T10:50:47.212Z",
+    "updatedAt": "2025-11-13T10:50:47.212Z",
+    "storeId": "store-007"
+  },
+  {
+    "id": "P03306",
+    "type": "rent",
+    "category": {
+      "main": "commercial",
+      "sub": "warehouse"
+    },
+    "title": "Kiralık Depo - Basse-Terre",
+    "slug": "kiralik-depo-basse-terre-P03306",
+    "description": "Basse-Terre, Guadeloupe bölgesinde depo. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 20320487,
+    "location": {
+      "country": "GP",
+      "city": "Basse-Terre",
+      "district": "Basse-Terre Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 403",
+      "coordinates": {
+        "lat": 16.28446293523183,
+        "lng": -61.24937407776899
+      }
+    },
+    "specs": {
+      "netSize": 1732,
+      "grossSize": 2078,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 5,
+      "floor": 1,
+      "totalFloors": 17,
+      "heating": "Kombi",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500779052794?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500352464517?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500788033870?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500366785849?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500409428959?w=800&q=80&category=building"
+    ],
+    "agent": {
+      "id": "A42",
+      "name": "Agent 73",
+      "phone": "+33 435 964 4765",
+      "email": "agent31@iwrealty.com",
+      "photo": "/images/icons/png/berlin-urban-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": false,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": true,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-08-09T10:50:47.212Z",
+    "updatedAt": "2025-11-13T10:50:47.212Z",
+    "storeId": "store-009"
+  }
+]

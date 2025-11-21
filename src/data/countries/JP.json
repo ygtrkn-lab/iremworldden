@@ -1,0 +1,2352 @@
+[
+  {
+    "id": "P04409",
+    "type": "sale",
+    "category": {
+      "main": "government"
+    },
+    "title": "Satılık Belediye Binası - Tokyo",
+    "slug": "satilik-belediye-binası-tokyo-P04409",
+    "description": "Tokyo, Japan bölgesinde belediye binası. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 23762056,
+    "location": {
+      "country": "JP",
+      "city": "Tokyo",
+      "district": "Tokyo Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 58",
+      "coordinates": {
+        "lat": 36.48480238632236,
+        "lng": 138.03462402681276
+      }
+    },
+    "specs": {
+      "netSize": 502,
+      "grossSize": 602,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 20,
+      "floor": 6,
+      "totalFloors": 10,
+      "heating": "Kombi",
+      "furnishing": "Unfurnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500648987396?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500060805534?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500632410754?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500902557122?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500730826794?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500044895867?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500564982081?w=800&q=80&category=building"
+    ],
+    "agent": {
+      "id": "A60",
+      "name": "Agent 5",
+      "phone": "+31 392 153 6371",
+      "email": "agent79@iwrealty.com",
+      "photo": "/images/icons/png/sydney-coastal-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": true,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-04-22T10:50:47.224Z",
+    "updatedAt": "2025-11-13T10:50:47.224Z",
+    "storeId": "store-012"
+  },
+  {
+    "id": "P04410",
+    "type": "rent",
+    "category": {
+      "main": "government"
+    },
+    "title": "Kiralık Belediye Binası - Japan Central",
+    "slug": "kiralik-belediye-binası-japan-central-P04410",
+    "description": "Japan Central, Japan bölgesinde belediye binası. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 38142826,
+    "location": {
+      "country": "JP",
+      "city": "Japan Central",
+      "district": "Japan Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 286",
+      "coordinates": {
+        "lat": 36.38093588343193,
+        "lng": 137.66265193824688
+      }
+    },
+    "specs": {
+      "netSize": 3059,
+      "grossSize": 3671,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 6,
+      "floor": 7,
+      "totalFloors": 5,
+      "heating": "Kombi",
+      "furnishing": "Unfurnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500250516468?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500869596365?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500059915160?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500687079320?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500072763991?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500033179435?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500920119755?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500261088882?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500715473883?w=800&q=80&category=real-estate"
+    ],
+    "agent": {
+      "id": "A9",
+      "name": "Agent 64",
+      "phone": "+49 329 860 9381",
+      "email": "agent6@iwrealty.com",
+      "photo": "/images/icons/png/sydney-coastal-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": false,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": true,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-10-15T10:50:47.224Z",
+    "updatedAt": "2025-11-13T10:50:47.224Z",
+    "storeId": "store-012"
+  },
+  {
+    "id": "P04411",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Villa - Japan City",
+    "slug": "satilik-villa-japan-city-P04411",
+    "description": "Japan City, Japan bölgesinde villa. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 12716507,
+    "location": {
+      "country": "JP",
+      "city": "Japan City",
+      "district": "Japan City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 178",
+      "coordinates": {
+        "lat": 36.35540617930665,
+        "lng": 137.87871917018683
+      }
+    },
+    "specs": {
+      "netSize": 111,
+      "grossSize": 133,
+      "rooms": "5+2",
+      "bathrooms": 1,
+      "age": 2,
+      "floor": 10,
+      "totalFloors": 18,
+      "heating": "Klima",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500352750272?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500147865172?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500715515255?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500468914781?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500428900126?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500775104810?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500128478829?w=800&q=80&category=building"
+    ],
+    "agent": {
+      "id": "A92",
+      "name": "Agent 98",
+      "phone": "+51 701 235 3675",
+      "email": "agent30@iwrealty.com",
+      "photo": "/images/icons/png/sg-harbour-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": true,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-10-05T10:50:47.224Z",
+    "updatedAt": "2025-11-13T10:50:47.224Z",
+    "storeId": "store-011"
+  },
+  {
+    "id": "P04412",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Villa - Japan Central",
+    "slug": "kiralik-villa-japan-central-P04412",
+    "description": "Japan Central, Japan bölgesinde villa. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 4697895,
+    "location": {
+      "country": "JP",
+      "city": "Japan Central",
+      "district": "Japan Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 613",
+      "coordinates": {
+        "lat": 36.08707945071536,
+        "lng": 138.36917125661384
+      }
+    },
+    "specs": {
+      "netSize": 389,
+      "grossSize": 467,
+      "rooms": "1+0",
+      "bathrooms": 2,
+      "age": 19,
+      "floor": 11,
+      "totalFloors": 12,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Furnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500144691426?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500221055261?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500536063789?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500217314645?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500077650394?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500680219425?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500901383640?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500251075018?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500930005670?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500702350937?w=800&q=80&category=house"
+    ],
+    "agent": {
+      "id": "A5",
+      "name": "Agent 65",
+      "phone": "+80 263 413 2602",
+      "email": "agent97@iwrealty.com",
+      "photo": "/images/icons/png/sydney-coastal-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-03-25T10:50:47.224Z",
+    "updatedAt": "2025-11-13T10:50:47.224Z",
+    "storeId": "store-012"
+  },
+  {
+    "id": "P04413",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Daire - New Japan",
+    "slug": "satilik-daire-new-japan-P04413",
+    "description": "New Japan, Japan bölgesinde daire. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 7120519,
+    "location": {
+      "country": "JP",
+      "city": "New Japan",
+      "district": "New Japan Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 32",
+      "coordinates": {
+        "lat": 36.46760952537257,
+        "lng": 137.61435310951208
+      }
+    },
+    "specs": {
+      "netSize": 294,
+      "grossSize": 353,
+      "rooms": "4+0",
+      "bathrooms": 3,
+      "age": 6,
+      "floor": 5,
+      "totalFloors": 10,
+      "heating": "Klima",
+      "furnishing": "Unfurnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500065567997?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500765119616?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500087219431?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500828060182?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500658909134?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500674995458?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500600317999?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500206802196?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500210722758?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500551662691?w=800&q=80&category=interior"
+    ],
+    "agent": {
+      "id": "A87",
+      "name": "Agent 82",
+      "phone": "+69 974 553 8591",
+      "email": "agent6@iwrealty.com",
+      "photo": "/images/icons/png/antalya-investment-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": false,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2024-12-08T10:50:47.224Z",
+    "updatedAt": "2025-11-13T10:50:47.224Z",
+    "storeId": "store-006"
+  },
+  {
+    "id": "P04414",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Müstakil Ev - Japan City",
+    "slug": "kiralik-müstakil-ev-japan-city-P04414",
+    "description": "Japan City, Japan bölgesinde müstakil ev. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 3721420,
+    "location": {
+      "country": "JP",
+      "city": "Japan City",
+      "district": "Japan City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 577",
+      "coordinates": {
+        "lat": 35.53435001679225,
+        "lng": 137.83676025164584
+      }
+    },
+    "specs": {
+      "netSize": 453,
+      "grossSize": 544,
+      "rooms": "5+2",
+      "bathrooms": 4,
+      "age": 18,
+      "floor": 9,
+      "totalFloors": 15,
+      "heating": "Merkezi",
+      "furnishing": "Furnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500095153080?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500931495904?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500740538917?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500891068297?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500788793346?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500277485442?w=800&q=80&category=house"
+    ],
+    "agent": {
+      "id": "A22",
+      "name": "Agent 16",
+      "phone": "+75 381 311 3078",
+      "email": "agent9@iwrealty.com",
+      "photo": "/images/icons/png/antalya-investment-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": false,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": true,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-01-12T10:50:47.224Z",
+    "updatedAt": "2025-11-13T10:50:47.224Z",
+    "storeId": "store-006"
+  },
+  {
+    "id": "P04415",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Müstakil Ev - Tokyo",
+    "slug": "satilik-müstakil-ev-tokyo-P04415",
+    "description": "Tokyo, Japan bölgesinde müstakil ev. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 14704549,
+    "location": {
+      "country": "JP",
+      "city": "Tokyo",
+      "district": "Tokyo Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 174",
+      "coordinates": {
+        "lat": 36.36972926949381,
+        "lng": 137.8664373529221
+      }
+    },
+    "specs": {
+      "netSize": 415,
+      "grossSize": 498,
+      "rooms": "3+2",
+      "bathrooms": 3,
+      "age": 10,
+      "floor": 3,
+      "totalFloors": 12,
+      "heating": "Klima",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500305200613?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500619126724?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500811153171?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500127794704?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500003791250?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500353217987?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500146820017?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500373147283?w=800&q=80&category=house"
+    ],
+    "agent": {
+      "id": "A1",
+      "name": "Agent 89",
+      "phone": "+10 620 562 8331",
+      "email": "agent43@iwrealty.com",
+      "photo": "/images/icons/png/paris-heritage-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": false,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": true,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-08-22T10:50:47.224Z",
+    "updatedAt": "2025-11-13T10:50:47.224Z",
+    "storeId": "store-010"
+  },
+  {
+    "id": "P04416",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Villa - Tokyo",
+    "slug": "kiralik-villa-tokyo-P04416",
+    "description": "Tokyo, Japan bölgesinde villa. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 1501382,
+    "location": {
+      "country": "JP",
+      "city": "Tokyo",
+      "district": "Tokyo Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 385",
+      "coordinates": {
+        "lat": 36.2212501144834,
+        "lng": 138.02940773070858
+      }
+    },
+    "specs": {
+      "netSize": 428,
+      "grossSize": 514,
+      "rooms": "4+2",
+      "bathrooms": 4,
+      "age": 6,
+      "floor": 9,
+      "totalFloors": 14,
+      "heating": "Kombi",
+      "furnishing": "Unfurnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500277400869?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500701910890?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500916762578?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500938035336?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500653315158?w=800&q=80&category=architecture"
+    ],
+    "agent": {
+      "id": "A81",
+      "name": "Agent 32",
+      "phone": "+69 310 636 3965",
+      "email": "agent99@iwrealty.com",
+      "photo": "/images/icons/png/berlin-urban-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-09-19T10:50:47.224Z",
+    "updatedAt": "2025-11-13T10:50:47.224Z",
+    "storeId": "store-009"
+  },
+  {
+    "id": "P04417",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Residence - Japan Central",
+    "slug": "satilik-residence-japan-central-P04417",
+    "description": "Japan Central, Japan bölgesinde residence. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 14644873,
+    "location": {
+      "country": "JP",
+      "city": "Japan Central",
+      "district": "Japan Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 479",
+      "coordinates": {
+        "lat": 35.624241137937986,
+        "lng": 137.7096835338566
+      }
+    },
+    "specs": {
+      "netSize": 425,
+      "grossSize": 510,
+      "rooms": "2+1",
+      "bathrooms": 2,
+      "age": 2,
+      "floor": 4,
+      "totalFloors": 9,
+      "heating": "Merkezi",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500566597269?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500493871243?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500909795237?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500889456193?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500875753222?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500528035351?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500218059808?w=800&q=80&category=interior"
+    ],
+    "agent": {
+      "id": "A69",
+      "name": "Agent 73",
+      "phone": "+81 658 163 8310",
+      "email": "agent58@iwrealty.com",
+      "photo": "/images/icons/png/izmir-sahil-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": true,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-07-05T10:50:47.224Z",
+    "updatedAt": "2025-11-13T10:50:47.224Z",
+    "storeId": "store-005"
+  },
+  {
+    "id": "P04418",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Residence - New Japan",
+    "slug": "kiralik-residence-new-japan-P04418",
+    "description": "New Japan, Japan bölgesinde residence. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 7271608,
+    "location": {
+      "country": "JP",
+      "city": "New Japan",
+      "district": "New Japan Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 801",
+      "coordinates": {
+        "lat": 35.572615862362284,
+        "lng": 138.16869126149788
+      }
+    },
+    "specs": {
+      "netSize": 244,
+      "grossSize": 293,
+      "rooms": "4+1",
+      "bathrooms": 4,
+      "age": 2,
+      "floor": 3,
+      "totalFloors": 20,
+      "heating": "Klima",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500994188099?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500566801460?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500066985465?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500946442869?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500727702260?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500951599457?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500165877374?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500686406398?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500592910145?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500837601933?w=800&q=80&category=house"
+    ],
+    "agent": {
+      "id": "A91",
+      "name": "Agent 54",
+      "phone": "+15 305 275 7019",
+      "email": "agent1@iwrealty.com",
+      "photo": "/images/icons/png/ankara-modern-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-01-04T10:50:47.224Z",
+    "updatedAt": "2025-11-13T10:50:47.224Z",
+    "storeId": "store-003"
+  },
+  {
+    "id": "P04419",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Daire - Japan City",
+    "slug": "satilik-daire-japan-city-P04419",
+    "description": "Japan City, Japan bölgesinde daire. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 13225317,
+    "location": {
+      "country": "JP",
+      "city": "Japan City",
+      "district": "Japan City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 956",
+      "coordinates": {
+        "lat": 35.63812526003183,
+        "lng": 138.0080916639191
+      }
+    },
+    "specs": {
+      "netSize": 255,
+      "grossSize": 306,
+      "rooms": "4+2",
+      "bathrooms": 4,
+      "age": 18,
+      "floor": 12,
+      "totalFloors": 10,
+      "heating": "Kombi",
+      "furnishing": "Furnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500491682730?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500905003863?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500865619330?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500006420589?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500392291698?w=800&q=80&category=real-estate"
+    ],
+    "agent": {
+      "id": "A32",
+      "name": "Agent 25",
+      "phone": "+76 134 331 4418",
+      "email": "agent38@iwrealty.com",
+      "photo": "/images/icons/png/dubai-property-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": true,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-10-20T10:50:47.224Z",
+    "updatedAt": "2025-11-13T10:50:47.224Z",
+    "storeId": "store-004"
+  },
+  {
+    "id": "P04420",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Müstakil Ev - Japan City",
+    "slug": "kiralik-müstakil-ev-japan-city-P04420",
+    "description": "Japan City, Japan bölgesinde müstakil ev. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 5690557,
+    "location": {
+      "country": "JP",
+      "city": "Japan City",
+      "district": "Japan City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 841",
+      "coordinates": {
+        "lat": 36.055648518421265,
+        "lng": 138.32760621008833
+      }
+    },
+    "specs": {
+      "netSize": 209,
+      "grossSize": 251,
+      "rooms": "3+2",
+      "bathrooms": 1,
+      "age": 0,
+      "floor": 9,
+      "totalFloors": 17,
+      "heating": "Klima",
+      "furnishing": "Unfurnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500259223924?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500723473419?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500628051146?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500852349072?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500437100970?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500576259985?w=800&q=80&category=real-estate"
+    ],
+    "agent": {
+      "id": "A90",
+      "name": "Agent 40",
+      "phone": "+16 981 553 6498",
+      "email": "agent98@iwrealty.com",
+      "photo": "/images/icons/png/dubai-property-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": false,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": true,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-04-08T10:50:47.224Z",
+    "updatedAt": "2025-11-13T10:50:47.224Z",
+    "storeId": "store-004"
+  },
+  {
+    "id": "P04421",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Residence - Japan Central",
+    "slug": "satilik-residence-japan-central-P04421",
+    "description": "Japan Central, Japan bölgesinde residence. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 4394536,
+    "location": {
+      "country": "JP",
+      "city": "Japan Central",
+      "district": "Japan Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 213",
+      "coordinates": {
+        "lat": 35.983410182129525,
+        "lng": 138.03384104792661
+      }
+    },
+    "specs": {
+      "netSize": 386,
+      "grossSize": 463,
+      "rooms": "3+2",
+      "bathrooms": 2,
+      "age": 8,
+      "floor": 4,
+      "totalFloors": 16,
+      "heating": "Merkezi",
+      "furnishing": "Unfurnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500352904275?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500383113311?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500343304384?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500327707018?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500497157370?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500559283168?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500427846287?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500521363631?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500179970147?w=800&q=80&category=house"
+    ],
+    "agent": {
+      "id": "A49",
+      "name": "Agent 2",
+      "phone": "+79 710 276 7071",
+      "email": "agent50@iwrealty.com",
+      "photo": "/images/icons/png/dubai-property-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-04-03T10:50:47.224Z",
+    "updatedAt": "2025-11-13T10:50:47.224Z",
+    "storeId": "store-004"
+  },
+  {
+    "id": "P04422",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Villa - New Japan",
+    "slug": "kiralik-villa-new-japan-P04422",
+    "description": "New Japan, Japan bölgesinde villa. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 12523489,
+    "location": {
+      "country": "JP",
+      "city": "New Japan",
+      "district": "New Japan Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 118",
+      "coordinates": {
+        "lat": 35.913876472286965,
+        "lng": 137.74984795936277
+      }
+    },
+    "specs": {
+      "netSize": 397,
+      "grossSize": 476,
+      "rooms": "3+1",
+      "bathrooms": 2,
+      "age": 8,
+      "floor": 1,
+      "totalFloors": 7,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500764784674?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500407633814?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500376926468?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500504407310?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500428876159?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500862363952?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500619336995?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500221513967?w=800&q=80&category=real-estate"
+    ],
+    "agent": {
+      "id": "A87",
+      "name": "Agent 24",
+      "phone": "+48 141 521 1016",
+      "email": "agent23@iwrealty.com",
+      "photo": "/images/icons/png/izmir-sahil-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-09-24T10:50:47.224Z",
+    "updatedAt": "2025-11-13T10:50:47.224Z",
+    "storeId": "store-005"
+  },
+  {
+    "id": "P04423",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Villa - New Japan",
+    "slug": "satilik-villa-new-japan-P04423",
+    "description": "New Japan, Japan bölgesinde villa. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 9496570,
+    "location": {
+      "country": "JP",
+      "city": "New Japan",
+      "district": "New Japan Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 992",
+      "coordinates": {
+        "lat": 36.009411861944486,
+        "lng": 137.63902769557558
+      }
+    },
+    "specs": {
+      "netSize": 275,
+      "grossSize": 330,
+      "rooms": "1+1",
+      "bathrooms": 4,
+      "age": 10,
+      "floor": 13,
+      "totalFloors": 16,
+      "heating": "Kombi",
+      "furnishing": "Furnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500401932486?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500221510049?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500981341009?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500813840294?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500760737651?w=800&q=80&category=interior"
+    ],
+    "agent": {
+      "id": "A43",
+      "name": "Agent 48",
+      "phone": "+11 856 519 1088",
+      "email": "agent45@iwrealty.com",
+      "photo": "/images/icons/png/ankara-modern-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": false,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2024-12-29T10:50:47.224Z",
+    "updatedAt": "2025-11-13T10:50:47.224Z",
+    "storeId": "store-003"
+  },
+  {
+    "id": "P04424",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Müstakil Ev - New Japan",
+    "slug": "kiralik-müstakil-ev-new-japan-P04424",
+    "description": "New Japan, Japan bölgesinde müstakil ev. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 1640707,
+    "location": {
+      "country": "JP",
+      "city": "New Japan",
+      "district": "New Japan Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 639",
+      "coordinates": {
+        "lat": 36.259166641232056,
+        "lng": 137.62128226041517
+      }
+    },
+    "specs": {
+      "netSize": 307,
+      "grossSize": 368,
+      "rooms": "4+2",
+      "bathrooms": 4,
+      "age": 13,
+      "floor": 13,
+      "totalFloors": 5,
+      "heating": "Klima",
+      "furnishing": "Unfurnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500119168893?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500627750833?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500518723269?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500535297262?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500695180841?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500510921421?w=800&q=80&category=architecture"
+    ],
+    "agent": {
+      "id": "A66",
+      "name": "Agent 24",
+      "phone": "+68 228 939 7703",
+      "email": "agent74@iwrealty.com",
+      "photo": "/images/icons/png/sg-harbour-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2024-12-09T10:50:47.224Z",
+    "updatedAt": "2025-11-13T10:50:47.224Z",
+    "storeId": "store-011"
+  },
+  {
+    "id": "P04425",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Villa - Japan Central",
+    "slug": "satilik-villa-japan-central-P04425",
+    "description": "Japan Central, Japan bölgesinde villa. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 14795486,
+    "location": {
+      "country": "JP",
+      "city": "Japan Central",
+      "district": "Japan Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 177",
+      "coordinates": {
+        "lat": 36.44023435323968,
+        "lng": 137.95046828963132
+      }
+    },
+    "specs": {
+      "netSize": 247,
+      "grossSize": 296,
+      "rooms": "4+0",
+      "bathrooms": 1,
+      "age": 4,
+      "floor": 8,
+      "totalFloors": 17,
+      "heating": "Kombi",
+      "furnishing": "Unfurnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500889605863?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500106210544?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500228014751?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500550966822?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500667010185?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500584112064?w=800&q=80&category=real-estate"
+    ],
+    "agent": {
+      "id": "A68",
+      "name": "Agent 83",
+      "phone": "+35 791 994 1586",
+      "email": "agent2@iwrealty.com",
+      "photo": "/images/icons/png/luxury-homes-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": false,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-06-19T10:50:47.224Z",
+    "updatedAt": "2025-11-13T10:50:47.224Z",
+    "storeId": "store-002"
+  },
+  {
+    "id": "P04426",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Müstakil Ev - Tokyo",
+    "slug": "kiralik-müstakil-ev-tokyo-P04426",
+    "description": "Tokyo, Japan bölgesinde müstakil ev. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 11772910,
+    "location": {
+      "country": "JP",
+      "city": "Tokyo",
+      "district": "Tokyo Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 141",
+      "coordinates": {
+        "lat": 36.10750172305608,
+        "lng": 138.136477075542
+      }
+    },
+    "specs": {
+      "netSize": 306,
+      "grossSize": 367,
+      "rooms": "1+1",
+      "bathrooms": 4,
+      "age": 16,
+      "floor": 8,
+      "totalFloors": 13,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Furnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500009661682?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500772253512?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500941421155?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500467570096?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500419307480?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500276942145?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500172604290?w=800&q=80&category=building"
+    ],
+    "agent": {
+      "id": "A45",
+      "name": "Agent 89",
+      "phone": "+63 874 475 6393",
+      "email": "agent78@iwrealty.com",
+      "photo": "/images/icons/png/dubai-property-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": false,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-03-16T10:50:47.224Z",
+    "updatedAt": "2025-11-13T10:50:47.224Z",
+    "storeId": "store-004"
+  },
+  {
+    "id": "P04427",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Müstakil Ev - New Japan",
+    "slug": "satilik-müstakil-ev-new-japan-P04427",
+    "description": "New Japan, Japan bölgesinde müstakil ev. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 7326508,
+    "location": {
+      "country": "JP",
+      "city": "New Japan",
+      "district": "New Japan Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 478",
+      "coordinates": {
+        "lat": 36.01217936993666,
+        "lng": 138.40685110046408
+      }
+    },
+    "specs": {
+      "netSize": 103,
+      "grossSize": 124,
+      "rooms": "3+1",
+      "bathrooms": 2,
+      "age": 7,
+      "floor": 14,
+      "totalFloors": 13,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500313845039?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500394894134?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500350846680?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500379406413?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500643234594?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500244729941?w=800&q=80&category=building"
+    ],
+    "agent": {
+      "id": "A79",
+      "name": "Agent 12",
+      "phone": "+95 413 951 9819",
+      "email": "agent100@iwrealty.com",
+      "photo": "/images/icons/png/berlin-urban-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": true,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-10-20T10:50:47.224Z",
+    "updatedAt": "2025-11-13T10:50:47.224Z",
+    "storeId": "store-009"
+  },
+  {
+    "id": "P04428",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Residence - Japan City",
+    "slug": "kiralik-residence-japan-city-P04428",
+    "description": "Japan City, Japan bölgesinde residence. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 6882247,
+    "location": {
+      "country": "JP",
+      "city": "Japan City",
+      "district": "Japan City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 185",
+      "coordinates": {
+        "lat": 36.14605727861561,
+        "lng": 138.11884208756678
+      }
+    },
+    "specs": {
+      "netSize": 324,
+      "grossSize": 389,
+      "rooms": "3+0",
+      "bathrooms": 3,
+      "age": 16,
+      "floor": 10,
+      "totalFloors": 12,
+      "heating": "Merkezi",
+      "furnishing": "Furnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500148984803?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500781975572?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500647517161?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500384448503?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500627752415?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500741070494?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500894647241?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500623961006?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500332344263?w=800&q=80&category=architecture"
+    ],
+    "agent": {
+      "id": "A62",
+      "name": "Agent 97",
+      "phone": "+62 249 394 1450",
+      "email": "agent77@iwrealty.com",
+      "photo": "/images/icons/png/sg-harbour-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2024-12-24T10:50:47.224Z",
+    "updatedAt": "2025-11-13T10:50:47.224Z",
+    "storeId": "store-011"
+  },
+  {
+    "id": "P04429",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Villa - New Japan",
+    "slug": "satilik-villa-new-japan-P04429",
+    "description": "New Japan, Japan bölgesinde villa. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 5775385,
+    "location": {
+      "country": "JP",
+      "city": "New Japan",
+      "district": "New Japan Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 234",
+      "coordinates": {
+        "lat": 36.158752865715606,
+        "lng": 138.13805788069743
+      }
+    },
+    "specs": {
+      "netSize": 281,
+      "grossSize": 337,
+      "rooms": "4+2",
+      "bathrooms": 3,
+      "age": 8,
+      "floor": 14,
+      "totalFloors": 5,
+      "heating": "Kombi",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500997805396?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500144750157?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500190988424?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500383273505?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500398049392?w=800&q=80&category=architecture"
+    ],
+    "agent": {
+      "id": "A17",
+      "name": "Agent 2",
+      "phone": "+40 246 610 8418",
+      "email": "agent91@iwrealty.com",
+      "photo": "/images/icons/png/sg-harbour-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-02-06T10:50:47.224Z",
+    "updatedAt": "2025-11-13T10:50:47.224Z",
+    "storeId": "store-011"
+  },
+  {
+    "id": "P04430",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Daire - Tokyo",
+    "slug": "kiralik-daire-tokyo-P04430",
+    "description": "Tokyo, Japan bölgesinde daire. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 14042573,
+    "location": {
+      "country": "JP",
+      "city": "Tokyo",
+      "district": "Tokyo Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 415",
+      "coordinates": {
+        "lat": 35.95666142780518,
+        "lng": 137.76345564077818
+      }
+    },
+    "specs": {
+      "netSize": 157,
+      "grossSize": 188,
+      "rooms": "2+2",
+      "bathrooms": 4,
+      "age": 12,
+      "floor": 3,
+      "totalFloors": 10,
+      "heating": "Kombi",
+      "furnishing": "Unfurnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500605333571?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500469343079?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500377680760?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500356908225?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500683578760?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500887383423?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500242520150?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500221703302?w=800&q=80&category=house"
+    ],
+    "agent": {
+      "id": "A92",
+      "name": "Agent 35",
+      "phone": "+69 512 277 5793",
+      "email": "agent49@iwrealty.com",
+      "photo": "/images/icons/png/antalya-investment-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-05-15T10:50:47.224Z",
+    "updatedAt": "2025-11-13T10:50:47.224Z",
+    "storeId": "store-006"
+  },
+  {
+    "id": "P04431",
+    "type": "sale",
+    "category": {
+      "main": "commercial",
+      "sub": "hospital"
+    },
+    "title": "Satılık Hastane - Tokyo",
+    "slug": "satilik-hastane-tokyo-P04431",
+    "description": "Tokyo, Japan bölgesinde hastane. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 93221830,
+    "location": {
+      "country": "JP",
+      "city": "Tokyo",
+      "district": "Tokyo Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 612",
+      "coordinates": {
+        "lat": 36.174418160135254,
+        "lng": 138.23551520809417
+      }
+    },
+    "specs": {
+      "netSize": 16823,
+      "grossSize": 20188,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 13,
+      "floor": 13,
+      "totalFloors": 14,
+      "heating": "Klima",
+      "furnishing": "Furnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500597841362?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500627499718?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500097228293?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500329159770?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500998031592?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500894926520?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500616586578?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500390741570?w=800&q=80&category=architecture"
+    ],
+    "agent": {
+      "id": "A21",
+      "name": "Agent 67",
+      "phone": "+78 407 821 4469",
+      "email": "agent85@iwrealty.com",
+      "photo": "/images/icons/png/ny-skyline-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": false,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2024-12-07T10:50:47.224Z",
+    "updatedAt": "2025-11-13T10:50:47.224Z",
+    "storeId": "store-008"
+  },
+  {
+    "id": "P04432",
+    "type": "rent",
+    "category": {
+      "main": "commercial",
+      "sub": "hospital"
+    },
+    "title": "Kiralık Hastane - Japan City",
+    "slug": "kiralik-hastane-japan-city-P04432",
+    "description": "Japan City, Japan bölgesinde hastane. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 60225405,
+    "location": {
+      "country": "JP",
+      "city": "Japan City",
+      "district": "Japan City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 866",
+      "coordinates": {
+        "lat": 35.612496541102914,
+        "lng": 137.8146344107503
+      }
+    },
+    "specs": {
+      "netSize": 18904,
+      "grossSize": 22685,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 9,
+      "floor": 11,
+      "totalFloors": 5,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Furnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500825894631?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500262474752?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500758892894?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500745668272?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500132771040?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500234015005?w=800&q=80&category=real-estate"
+    ],
+    "agent": {
+      "id": "A22",
+      "name": "Agent 100",
+      "phone": "+15 921 533 5465",
+      "email": "agent18@iwrealty.com",
+      "photo": "/images/icons/png/berlin-urban-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-09-26T10:50:47.224Z",
+    "updatedAt": "2025-11-13T10:50:47.224Z",
+    "storeId": "store-009"
+  },
+  {
+    "id": "P04433",
+    "type": "sale",
+    "category": {
+      "main": "commercial",
+      "sub": "clinic"
+    },
+    "title": "Satılık Klinik - Japan Central",
+    "slug": "satilik-klinik-japan-central-P04433",
+    "description": "Japan Central, Japan bölgesinde klinik. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 10675314,
+    "location": {
+      "country": "JP",
+      "city": "Japan Central",
+      "district": "Japan Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 958",
+      "coordinates": {
+        "lat": 35.714843259498714,
+        "lng": 138.16879537096202
+      }
+    },
+    "specs": {
+      "netSize": 1432,
+      "grossSize": 1718,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 13,
+      "floor": 3,
+      "totalFloors": 11,
+      "heating": "Merkezi",
+      "furnishing": "Furnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500042155388?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500640315724?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500150967351?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500267836899?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500232761571?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500515375939?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500861169683?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500406650230?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500027168104?w=800&q=80&category=building"
+    ],
+    "agent": {
+      "id": "A17",
+      "name": "Agent 2",
+      "phone": "+14 653 866 4723",
+      "email": "agent97@iwrealty.com",
+      "photo": "/images/icons/png/paris-heritage-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": false,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-08-08T10:50:47.224Z",
+    "updatedAt": "2025-11-13T10:50:47.224Z",
+    "storeId": "store-010"
+  },
+  {
+    "id": "P04434",
+    "type": "rent",
+    "category": {
+      "main": "commercial",
+      "sub": "clinic"
+    },
+    "title": "Kiralık Klinik - New Japan",
+    "slug": "kiralik-klinik-new-japan-P04434",
+    "description": "New Japan, Japan bölgesinde klinik. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 19255370,
+    "location": {
+      "country": "JP",
+      "city": "New Japan",
+      "district": "New Japan Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 886",
+      "coordinates": {
+        "lat": 36.31907387691336,
+        "lng": 138.23145781597992
+      }
+    },
+    "specs": {
+      "netSize": 1170,
+      "grossSize": 1404,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 17,
+      "floor": 15,
+      "totalFloors": 14,
+      "heating": "Klima",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500148764043?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500635206246?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500001635168?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500912575295?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500257102308?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500556258560?w=800&q=80&category=architecture"
+    ],
+    "agent": {
+      "id": "A43",
+      "name": "Agent 87",
+      "phone": "+67 321 902 2895",
+      "email": "agent39@iwrealty.com",
+      "photo": "/images/icons/png/ny-skyline-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": false,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-02-03T10:50:47.224Z",
+    "updatedAt": "2025-11-13T10:50:47.224Z",
+    "storeId": "store-008"
+  },
+  {
+    "id": "P04435",
+    "type": "sale",
+    "category": {
+      "main": "commercial",
+      "sub": "shop"
+    },
+    "title": "Satılık Dükkan - Japan City",
+    "slug": "satilik-dükkan-japan-city-P04435",
+    "description": "Japan City, Japan bölgesinde dükkan. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 5382388,
+    "location": {
+      "country": "JP",
+      "city": "Japan City",
+      "district": "Japan City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 790",
+      "coordinates": {
+        "lat": 35.72778412670881,
+        "lng": 137.61208689270563
+      }
+    },
+    "specs": {
+      "netSize": 120,
+      "grossSize": 144,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 9,
+      "floor": 5,
+      "totalFloors": 20,
+      "heating": "Kombi",
+      "furnishing": "Unfurnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500580174860?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500484769032?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500971025249?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500153690091?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500914715508?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500283685312?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500033912397?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500837940731?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500064060765?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500490627314?w=800&q=80&category=house"
+    ],
+    "agent": {
+      "id": "A94",
+      "name": "Agent 50",
+      "phone": "+48 694 229 1630",
+      "email": "agent52@iwrealty.com",
+      "photo": "/images/icons/png/paris-heritage-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-10-14T10:50:47.224Z",
+    "updatedAt": "2025-11-13T10:50:47.224Z",
+    "storeId": "store-010"
+  },
+  {
+    "id": "P04436",
+    "type": "rent",
+    "category": {
+      "main": "commercial",
+      "sub": "shop"
+    },
+    "title": "Kiralık Dükkan - Japan City",
+    "slug": "kiralik-dükkan-japan-city-P04436",
+    "description": "Japan City, Japan bölgesinde dükkan. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 3171759,
+    "location": {
+      "country": "JP",
+      "city": "Japan City",
+      "district": "Japan City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 87",
+      "coordinates": {
+        "lat": 35.551475084358195,
+        "lng": 137.6055043948117
+      }
+    },
+    "specs": {
+      "netSize": 86,
+      "grossSize": 103,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 8,
+      "floor": 14,
+      "totalFloors": 17,
+      "heating": "Merkezi",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500325852434?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500014828238?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500543325267?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500668411492?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500675037928?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500768455710?w=800&q=80&category=architecture"
+    ],
+    "agent": {
+      "id": "A80",
+      "name": "Agent 54",
+      "phone": "+91 166 758 5407",
+      "email": "agent34@iwrealty.com",
+      "photo": "/images/icons/png/sg-harbour-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-09-12T10:50:47.224Z",
+    "updatedAt": "2025-11-13T10:50:47.224Z",
+    "storeId": "store-011"
+  },
+  {
+    "id": "P04437",
+    "type": "sale",
+    "category": {
+      "main": "commercial",
+      "sub": "office"
+    },
+    "title": "Satılık Ofis - Japan City",
+    "slug": "satilik-ofis-japan-city-P04437",
+    "description": "Japan City, Japan bölgesinde ofis. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 7459775,
+    "location": {
+      "country": "JP",
+      "city": "Japan City",
+      "district": "Japan City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 277",
+      "coordinates": {
+        "lat": 36.33926004770218,
+        "lng": 137.96324641037955
+      }
+    },
+    "specs": {
+      "netSize": 251,
+      "grossSize": 301,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 8,
+      "floor": 15,
+      "totalFloors": 7,
+      "heating": "Klima",
+      "furnishing": "Furnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500658269988?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500993723709?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500353253445?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500176633999?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500569529597?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500521219749?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500253868558?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500636837382?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500971306562?w=800&q=80&category=building"
+    ],
+    "agent": {
+      "id": "A1",
+      "name": "Agent 90",
+      "phone": "+25 196 278 9623",
+      "email": "agent23@iwrealty.com",
+      "photo": "/images/icons/png/luxury-homes-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": false,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": true,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-02-22T10:50:47.224Z",
+    "updatedAt": "2025-11-13T10:50:47.224Z",
+    "storeId": "store-002"
+  },
+  {
+    "id": "P04438",
+    "type": "rent",
+    "category": {
+      "main": "commercial",
+      "sub": "office"
+    },
+    "title": "Kiralık Ofis - Japan City",
+    "slug": "kiralik-ofis-japan-city-P04438",
+    "description": "Japan City, Japan bölgesinde ofis. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 9879420,
+    "location": {
+      "country": "JP",
+      "city": "Japan City",
+      "district": "Japan City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 958",
+      "coordinates": {
+        "lat": 35.53583898723533,
+        "lng": 137.98406825308092
+      }
+    },
+    "specs": {
+      "netSize": 665,
+      "grossSize": 798,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 3,
+      "floor": 3,
+      "totalFloors": 9,
+      "heating": "Klima",
+      "furnishing": "Furnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500073452137?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500807050236?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500359136768?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500136359912?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500367181782?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500825373596?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500078963470?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500710374481?w=800&q=80&category=architecture"
+    ],
+    "agent": {
+      "id": "A41",
+      "name": "Agent 61",
+      "phone": "+95 230 869 1901",
+      "email": "agent88@iwrealty.com",
+      "photo": "/images/icons/png/paris-heritage-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-04-30T10:50:47.224Z",
+    "updatedAt": "2025-11-13T10:50:47.224Z",
+    "storeId": "store-010"
+  },
+  {
+    "id": "P04439",
+    "type": "sale",
+    "category": {
+      "main": "commercial",
+      "sub": "mall"
+    },
+    "title": "Satılık AVM - New Japan",
+    "slug": "satilik-avm-new-japan-P04439",
+    "description": "New Japan, Japan bölgesinde avm. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 364745887,
+    "location": {
+      "country": "JP",
+      "city": "New Japan",
+      "district": "New Japan Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 522",
+      "coordinates": {
+        "lat": 35.68553792746447,
+        "lng": 137.70198517382119
+      }
+    },
+    "specs": {
+      "netSize": 24183,
+      "grossSize": 29020,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 9,
+      "floor": 7,
+      "totalFloors": 7,
+      "heating": "Kombi",
+      "furnishing": "Unfurnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500858460855?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500268015180?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500212744708?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500611333185?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500892494706?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500676208667?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500500972117?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500226463196?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500038603503?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500353861568?w=800&q=80&category=building"
+    ],
+    "agent": {
+      "id": "A18",
+      "name": "Agent 57",
+      "phone": "+45 449 442 2709",
+      "email": "agent54@iwrealty.com",
+      "photo": "/images/icons/png/paris-heritage-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-01-25T10:50:47.224Z",
+    "updatedAt": "2025-11-13T10:50:47.224Z",
+    "storeId": "store-010"
+  },
+  {
+    "id": "P04440",
+    "type": "rent",
+    "category": {
+      "main": "commercial",
+      "sub": "mall"
+    },
+    "title": "Kiralık AVM - New Japan",
+    "slug": "kiralik-avm-new-japan-P04440",
+    "description": "New Japan, Japan bölgesinde avm. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 464016053,
+    "location": {
+      "country": "JP",
+      "city": "New Japan",
+      "district": "New Japan Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 667",
+      "coordinates": {
+        "lat": 36.40777563114388,
+        "lng": 137.7680145823194
+      }
+    },
+    "specs": {
+      "netSize": 45790,
+      "grossSize": 54948,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 3,
+      "floor": 15,
+      "totalFloors": 18,
+      "heating": "Kombi",
+      "furnishing": "Unfurnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500100520129?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500452584461?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500744492905?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500658694242?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500980333849?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500547675481?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500629959664?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500795047862?w=800&q=80&category=interior"
+    ],
+    "agent": {
+      "id": "A69",
+      "name": "Agent 75",
+      "phone": "+35 975 717 4209",
+      "email": "agent79@iwrealty.com",
+      "photo": "/images/icons/png/antalya-investment-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": false,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-04-28T10:50:47.224Z",
+    "updatedAt": "2025-11-13T10:50:47.224Z",
+    "storeId": "store-006"
+  },
+  {
+    "id": "P04441",
+    "type": "sale",
+    "category": {
+      "main": "commercial",
+      "sub": "hotel"
+    },
+    "title": "Satılık Otel - Japan Central",
+    "slug": "satilik-otel-japan-central-P04441",
+    "description": "Japan Central, Japan bölgesinde otel. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 32326880,
+    "location": {
+      "country": "JP",
+      "city": "Japan Central",
+      "district": "Japan Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 372",
+      "coordinates": {
+        "lat": 35.71874789568284,
+        "lng": 138.31334752996352
+      }
+    },
+    "specs": {
+      "netSize": 16443,
+      "grossSize": 19732,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 17,
+      "floor": 2,
+      "totalFloors": 17,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500680116561?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500709005059?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500816979596?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500332791715?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500345105068?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500425385476?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500037255090?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500729568514?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500359109043?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500522053975?w=800&q=80&category=real-estate"
+    ],
+    "agent": {
+      "id": "A31",
+      "name": "Agent 20",
+      "phone": "+97 811 866 5834",
+      "email": "agent23@iwrealty.com",
+      "photo": "/images/icons/png/paris-heritage-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": true,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-04-01T10:50:47.224Z",
+    "updatedAt": "2025-11-13T10:50:47.224Z",
+    "storeId": "store-010"
+  },
+  {
+    "id": "P04442",
+    "type": "rent",
+    "category": {
+      "main": "commercial",
+      "sub": "hotel"
+    },
+    "title": "Kiralık Otel - New Japan",
+    "slug": "kiralik-otel-new-japan-P04442",
+    "description": "New Japan, Japan bölgesinde otel. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 35971464,
+    "location": {
+      "country": "JP",
+      "city": "New Japan",
+      "district": "New Japan Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 845",
+      "coordinates": {
+        "lat": 36.11512202976714,
+        "lng": 138.2913110593054
+      }
+    },
+    "specs": {
+      "netSize": 6347,
+      "grossSize": 7616,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 1,
+      "floor": 4,
+      "totalFloors": 20,
+      "heating": "Merkezi",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500790387816?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500646217521?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500611675671?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500328070886?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500588347682?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500810156336?w=800&q=80&category=building"
+    ],
+    "agent": {
+      "id": "A9",
+      "name": "Agent 44",
+      "phone": "+95 653 276 5225",
+      "email": "agent60@iwrealty.com",
+      "photo": "/images/icons/png/berlin-urban-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": true,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-06-05T10:50:47.224Z",
+    "updatedAt": "2025-11-13T10:50:47.224Z",
+    "storeId": "store-009"
+  },
+  {
+    "id": "P04443",
+    "type": "sale",
+    "category": {
+      "main": "commercial",
+      "sub": "restaurant"
+    },
+    "title": "Satılık Restoran - Japan Central",
+    "slug": "satilik-restoran-japan-central-P04443",
+    "description": "Japan Central, Japan bölgesinde restoran. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 8478357,
+    "location": {
+      "country": "JP",
+      "city": "Japan Central",
+      "district": "Japan Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 263",
+      "coordinates": {
+        "lat": 35.59132724243492,
+        "lng": 138.17521585143524
+      }
+    },
+    "specs": {
+      "netSize": 1059,
+      "grossSize": 1271,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 10,
+      "floor": 14,
+      "totalFloors": 10,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Unfurnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500479127429?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500681941952?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500895483254?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500014077312?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500495282377?w=800&q=80&category=real-estate"
+    ],
+    "agent": {
+      "id": "A100",
+      "name": "Agent 77",
+      "phone": "+74 101 762 1784",
+      "email": "agent50@iwrealty.com",
+      "photo": "/images/icons/png/dubai-property-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": false,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-02-23T10:50:47.224Z",
+    "updatedAt": "2025-11-13T10:50:47.224Z",
+    "storeId": "store-004"
+  },
+  {
+    "id": "P04444",
+    "type": "rent",
+    "category": {
+      "main": "commercial",
+      "sub": "restaurant"
+    },
+    "title": "Kiralık Restoran - Japan Central",
+    "slug": "kiralik-restoran-japan-central-P04444",
+    "description": "Japan Central, Japan bölgesinde restoran. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 2900785,
+    "location": {
+      "country": "JP",
+      "city": "Japan Central",
+      "district": "Japan Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 484",
+      "coordinates": {
+        "lat": 35.700320170576845,
+        "lng": 138.48104532789412
+      }
+    },
+    "specs": {
+      "netSize": 698,
+      "grossSize": 838,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 4,
+      "floor": 6,
+      "totalFloors": 16,
+      "heating": "Kombi",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500996149963?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500644497181?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500927238090?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500677463501?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500754727021?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500752706161?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500648949809?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500007720542?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500823657927?w=800&q=80&category=architecture"
+    ],
+    "agent": {
+      "id": "A74",
+      "name": "Agent 26",
+      "phone": "+77 736 799 6280",
+      "email": "agent36@iwrealty.com",
+      "photo": "/images/icons/png/berlin-urban-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": false,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-07-26T10:50:47.224Z",
+    "updatedAt": "2025-11-13T10:50:47.224Z",
+    "storeId": "store-009"
+  },
+  {
+    "id": "P04445",
+    "type": "sale",
+    "category": {
+      "main": "commercial",
+      "sub": "warehouse"
+    },
+    "title": "Satılık Depo - Japan Central",
+    "slug": "satilik-depo-japan-central-P04445",
+    "description": "Japan Central, Japan bölgesinde depo. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 14406242,
+    "location": {
+      "country": "JP",
+      "city": "Japan Central",
+      "district": "Japan Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 991",
+      "coordinates": {
+        "lat": 35.76301933091015,
+        "lng": 137.80033495323
+      }
+    },
+    "specs": {
+      "netSize": 2849,
+      "grossSize": 3419,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 7,
+      "floor": 14,
+      "totalFloors": 11,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Unfurnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500541814069?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500670373505?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500144203128?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500588452999?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500076282485?w=800&q=80&category=real-estate"
+    ],
+    "agent": {
+      "id": "A66",
+      "name": "Agent 65",
+      "phone": "+13 887 338 6750",
+      "email": "agent93@iwrealty.com",
+      "photo": "/images/icons/png/sg-harbour-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-09-01T10:50:47.224Z",
+    "updatedAt": "2025-11-13T10:50:47.224Z",
+    "storeId": "store-011"
+  },
+  {
+    "id": "P04446",
+    "type": "rent",
+    "category": {
+      "main": "commercial",
+      "sub": "warehouse"
+    },
+    "title": "Kiralık Depo - Japan Central",
+    "slug": "kiralik-depo-japan-central-P04446",
+    "description": "Japan Central, Japan bölgesinde depo. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 12543475,
+    "location": {
+      "country": "JP",
+      "city": "Japan Central",
+      "district": "Japan Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 724",
+      "coordinates": {
+        "lat": 35.8540606770583,
+        "lng": 138.38006621660602
+      }
+    },
+    "specs": {
+      "netSize": 2680,
+      "grossSize": 3216,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 19,
+      "floor": 10,
+      "totalFloors": 14,
+      "heating": "Klima",
+      "furnishing": "Furnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500670868103?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500466731426?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500410853115?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500138221565?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500596343080?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500745475409?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500353244764?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500831122112?w=800&q=80&category=interior"
+    ],
+    "agent": {
+      "id": "A48",
+      "name": "Agent 69",
+      "phone": "+53 292 761 5394",
+      "email": "agent27@iwrealty.com",
+      "photo": "/images/icons/png/berlin-urban-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-09-15T10:50:47.224Z",
+    "updatedAt": "2025-11-13T10:50:47.224Z",
+    "storeId": "store-009"
+  }
+]

@@ -1,0 +1,2351 @@
+[
+  {
+    "id": "P00685",
+    "type": "sale",
+    "category": {
+      "main": "government"
+    },
+    "title": "Satılık Hastane - Belgium Central",
+    "slug": "satilik-hastane-belgium-central-P00685",
+    "description": "Belgium Central, Belgium bölgesinde hastane. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 35380318,
+    "location": {
+      "country": "BE",
+      "city": "Belgium Central",
+      "district": "Belgium Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 737",
+      "coordinates": {
+        "lat": 50.633945792931556,
+        "lng": 4.253305606797834
+      }
+    },
+    "specs": {
+      "netSize": 4942,
+      "grossSize": 5930,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 12,
+      "floor": 8,
+      "totalFloors": 10,
+      "heating": "Kombi",
+      "furnishing": "Furnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500328088157?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500408135301?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500819016199?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500132192675?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500843699558?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500446491989?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500220907322?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500835206488?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500666582608?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500837298596?w=800&q=80&category=architecture"
+    ],
+    "agent": {
+      "id": "A9",
+      "name": "Agent 100",
+      "phone": "+77 959 379 1204",
+      "email": "agent78@iwrealty.com",
+      "photo": "/images/icons/png/paris-heritage-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": true,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-07-28T10:50:47.183Z",
+    "updatedAt": "2025-11-13T10:50:47.183Z",
+    "storeId": "store-010"
+  },
+  {
+    "id": "P00686",
+    "type": "rent",
+    "category": {
+      "main": "government"
+    },
+    "title": "Kiralık Hastane - Belgium Central",
+    "slug": "kiralik-hastane-belgium-central-P00686",
+    "description": "Belgium Central, Belgium bölgesinde hastane. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 16247250,
+    "location": {
+      "country": "BE",
+      "city": "Belgium Central",
+      "district": "Belgium Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 599",
+      "coordinates": {
+        "lat": 50.509773504031024,
+        "lng": 4.4324587163766695
+      }
+    },
+    "specs": {
+      "netSize": 2298,
+      "grossSize": 2758,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 1,
+      "floor": 7,
+      "totalFloors": 15,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Furnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500680184009?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500419955565?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500815819579?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500981267682?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500975928517?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500775711437?w=800&q=80&category=interior"
+    ],
+    "agent": {
+      "id": "A97",
+      "name": "Agent 76",
+      "phone": "+25 595 385 1830",
+      "email": "agent26@iwrealty.com",
+      "photo": "/images/icons/png/paris-heritage-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": false,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-04-19T10:50:47.183Z",
+    "updatedAt": "2025-11-13T10:50:47.183Z",
+    "storeId": "store-010"
+  },
+  {
+    "id": "P00687",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Villa - Brussels",
+    "slug": "satilik-villa-brussels-P00687",
+    "description": "Brussels, Belgium bölgesinde villa. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 10407156,
+    "location": {
+      "country": "BE",
+      "city": "Brussels",
+      "district": "Brussels Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 608",
+      "coordinates": {
+        "lat": 50.52227590898126,
+        "lng": 4.370028530520502
+      }
+    },
+    "specs": {
+      "netSize": 350,
+      "grossSize": 420,
+      "rooms": "3+2",
+      "bathrooms": 4,
+      "age": 17,
+      "floor": 8,
+      "totalFloors": 17,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Furnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500982059151?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500229448861?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500612671904?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500772491294?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500177698146?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500231134018?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500158182944?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500527036945?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500769764971?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500540711078?w=800&q=80&category=building"
+    ],
+    "agent": {
+      "id": "A95",
+      "name": "Agent 9",
+      "phone": "+15 610 401 1916",
+      "email": "agent20@iwrealty.com",
+      "photo": "/images/icons/png/ny-skyline-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2024-12-14T10:50:47.183Z",
+    "updatedAt": "2025-11-13T10:50:47.183Z",
+    "storeId": "store-008"
+  },
+  {
+    "id": "P00688",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Residence - Belgium City",
+    "slug": "kiralik-residence-belgium-city-P00688",
+    "description": "Belgium City, Belgium bölgesinde residence. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 14435159,
+    "location": {
+      "country": "BE",
+      "city": "Belgium City",
+      "district": "Belgium City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 454",
+      "coordinates": {
+        "lat": 50.545559018191724,
+        "lng": 3.8624016874581333
+      }
+    },
+    "specs": {
+      "netSize": 440,
+      "grossSize": 528,
+      "rooms": "3+0",
+      "bathrooms": 4,
+      "age": 15,
+      "floor": 11,
+      "totalFloors": 16,
+      "heating": "Merkezi",
+      "furnishing": "Furnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500473830560?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500010504538?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500759483507?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500551634506?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500564832522?w=800&q=80&category=interior"
+    ],
+    "agent": {
+      "id": "A61",
+      "name": "Agent 33",
+      "phone": "+53 813 155 6214",
+      "email": "agent6@iwrealty.com",
+      "photo": "/images/icons/png/dubai-property-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": true,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-08-02T10:50:47.183Z",
+    "updatedAt": "2025-11-13T10:50:47.183Z",
+    "storeId": "store-004"
+  },
+  {
+    "id": "P00689",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Residence - New Belgium",
+    "slug": "satilik-residence-new-belgium-P00689",
+    "description": "New Belgium, Belgium bölgesinde residence. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 2184780,
+    "location": {
+      "country": "BE",
+      "city": "New Belgium",
+      "district": "New Belgium Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 561",
+      "coordinates": {
+        "lat": 51.16669718872748,
+        "lng": 3.6349347253678728
+      }
+    },
+    "specs": {
+      "netSize": 270,
+      "grossSize": 324,
+      "rooms": "2+2",
+      "bathrooms": 2,
+      "age": 12,
+      "floor": 13,
+      "totalFloors": 9,
+      "heating": "Merkezi",
+      "furnishing": "Furnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500524381750?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500672601881?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500894620292?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500955452112?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500894422356?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500745025497?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500639350231?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500821202612?w=800&q=80&category=house"
+    ],
+    "agent": {
+      "id": "A32",
+      "name": "Agent 61",
+      "phone": "+88 475 170 3572",
+      "email": "agent10@iwrealty.com",
+      "photo": "/images/icons/png/paris-heritage-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": false,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-07-17T10:50:47.183Z",
+    "updatedAt": "2025-11-13T10:50:47.183Z",
+    "storeId": "store-010"
+  },
+  {
+    "id": "P00690",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Müstakil Ev - New Belgium",
+    "slug": "kiralik-müstakil-ev-new-belgium-P00690",
+    "description": "New Belgium, Belgium bölgesinde müstakil ev. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 9687434,
+    "location": {
+      "country": "BE",
+      "city": "New Belgium",
+      "district": "New Belgium Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 564",
+      "coordinates": {
+        "lat": 50.89909528951954,
+        "lng": 4.497569569354732
+      }
+    },
+    "specs": {
+      "netSize": 287,
+      "grossSize": 344,
+      "rooms": "1+0",
+      "bathrooms": 4,
+      "age": 3,
+      "floor": 3,
+      "totalFloors": 9,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Furnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500694201566?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500617585635?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500883186114?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500786609036?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500146981020?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500183363750?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500627681308?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500612350491?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500592473423?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500980617425?w=800&q=80&category=building"
+    ],
+    "agent": {
+      "id": "A15",
+      "name": "Agent 24",
+      "phone": "+63 106 356 6388",
+      "email": "agent87@iwrealty.com",
+      "photo": "/images/icons/png/london-prime-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": true,
+      "hasSecurity": true
+    },
+    "createdAt": "2024-11-23T10:50:47.183Z",
+    "updatedAt": "2025-11-13T10:50:47.183Z",
+    "storeId": "store-007"
+  },
+  {
+    "id": "P00691",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Daire - Belgium City",
+    "slug": "satilik-daire-belgium-city-P00691",
+    "description": "Belgium City, Belgium bölgesinde daire. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 8819864,
+    "location": {
+      "country": "BE",
+      "city": "Belgium City",
+      "district": "Belgium City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 610",
+      "coordinates": {
+        "lat": 50.72887419105173,
+        "lng": 3.806529629806019
+      }
+    },
+    "specs": {
+      "netSize": 416,
+      "grossSize": 499,
+      "rooms": "2+2",
+      "bathrooms": 2,
+      "age": 5,
+      "floor": 8,
+      "totalFloors": 15,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500487511506?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500594898925?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500919957907?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500355160280?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500770740242?w=800&q=80&category=building"
+    ],
+    "agent": {
+      "id": "A46",
+      "name": "Agent 64",
+      "phone": "+42 104 304 7400",
+      "email": "agent34@iwrealty.com",
+      "photo": "/images/icons/png/sydney-coastal-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-09-17T10:50:47.183Z",
+    "updatedAt": "2025-11-13T10:50:47.183Z",
+    "storeId": "store-012"
+  },
+  {
+    "id": "P00692",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Müstakil Ev - Belgium City",
+    "slug": "kiralik-müstakil-ev-belgium-city-P00692",
+    "description": "Belgium City, Belgium bölgesinde müstakil ev. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 12831943,
+    "location": {
+      "country": "BE",
+      "city": "Belgium City",
+      "district": "Belgium City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 782",
+      "coordinates": {
+        "lat": 50.50252191457021,
+        "lng": 4.460397911576052
+      }
+    },
+    "specs": {
+      "netSize": 192,
+      "grossSize": 230,
+      "rooms": "1+0",
+      "bathrooms": 3,
+      "age": 11,
+      "floor": 6,
+      "totalFloors": 11,
+      "heating": "Merkezi",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500941535883?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500357212289?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500106784055?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500757743228?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500924549864?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500920789940?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500366966879?w=800&q=80&category=real-estate"
+    ],
+    "agent": {
+      "id": "A88",
+      "name": "Agent 97",
+      "phone": "+31 600 257 4838",
+      "email": "agent91@iwrealty.com",
+      "photo": "/images/icons/png/london-prime-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": true,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-05-25T10:50:47.183Z",
+    "updatedAt": "2025-11-13T10:50:47.183Z",
+    "storeId": "store-007"
+  },
+  {
+    "id": "P00693",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Daire - Belgium Central",
+    "slug": "satilik-daire-belgium-central-P00693",
+    "description": "Belgium Central, Belgium bölgesinde daire. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 8753856,
+    "location": {
+      "country": "BE",
+      "city": "Belgium Central",
+      "district": "Belgium Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 162",
+      "coordinates": {
+        "lat": 51.22912507541938,
+        "lng": 3.5175329859070628
+      }
+    },
+    "specs": {
+      "netSize": 385,
+      "grossSize": 462,
+      "rooms": "1+1",
+      "bathrooms": 4,
+      "age": 1,
+      "floor": 5,
+      "totalFloors": 16,
+      "heating": "Klima",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500315718846?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500715978716?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500595786261?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500484572073?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500508240434?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500655066819?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500005145761?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500788975594?w=800&q=80&category=interior"
+    ],
+    "agent": {
+      "id": "A30",
+      "name": "Agent 97",
+      "phone": "+26 731 759 1806",
+      "email": "agent69@iwrealty.com",
+      "photo": "/images/icons/png/berlin-urban-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-04-04T10:50:47.183Z",
+    "updatedAt": "2025-11-13T10:50:47.183Z",
+    "storeId": "store-009"
+  },
+  {
+    "id": "P00694",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Daire - New Belgium",
+    "slug": "kiralik-daire-new-belgium-P00694",
+    "description": "New Belgium, Belgium bölgesinde daire. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 4298375,
+    "location": {
+      "country": "BE",
+      "city": "New Belgium",
+      "district": "New Belgium Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 688",
+      "coordinates": {
+        "lat": 50.84500524520064,
+        "lng": 3.613416632821289
+      }
+    },
+    "specs": {
+      "netSize": 446,
+      "grossSize": 535,
+      "rooms": "3+2",
+      "bathrooms": 1,
+      "age": 11,
+      "floor": 5,
+      "totalFloors": 11,
+      "heating": "Klima",
+      "furnishing": "Furnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500798179576?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500506702881?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500112240719?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500252665940?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500470294769?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500536207922?w=800&q=80&category=house"
+    ],
+    "agent": {
+      "id": "A55",
+      "name": "Agent 3",
+      "phone": "+99 350 165 5161",
+      "email": "agent52@iwrealty.com",
+      "photo": "/images/icons/png/berlin-urban-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": false,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-08-21T10:50:47.183Z",
+    "updatedAt": "2025-11-13T10:50:47.183Z",
+    "storeId": "store-009"
+  },
+  {
+    "id": "P00695",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Villa - Brussels",
+    "slug": "satilik-villa-brussels-P00695",
+    "description": "Brussels, Belgium bölgesinde villa. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 905476,
+    "location": {
+      "country": "BE",
+      "city": "Brussels",
+      "district": "Brussels Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 221",
+      "coordinates": {
+        "lat": 50.51628503851323,
+        "lng": 3.9928512961575153
+      }
+    },
+    "specs": {
+      "netSize": 85,
+      "grossSize": 102,
+      "rooms": "2+0",
+      "bathrooms": 1,
+      "age": 3,
+      "floor": 4,
+      "totalFloors": 7,
+      "heating": "Kombi",
+      "furnishing": "Furnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500664675942?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500505159721?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500408230602?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500926293178?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500365889173?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500119615582?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500214193241?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500453177815?w=800&q=80&category=interior"
+    ],
+    "agent": {
+      "id": "A97",
+      "name": "Agent 4",
+      "phone": "+98 946 999 9432",
+      "email": "agent60@iwrealty.com",
+      "photo": "/images/icons/png/sg-harbour-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": true,
+      "hasSecurity": true
+    },
+    "createdAt": "2024-11-30T10:50:47.183Z",
+    "updatedAt": "2025-11-13T10:50:47.183Z",
+    "storeId": "store-011"
+  },
+  {
+    "id": "P00696",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Daire - Brussels",
+    "slug": "kiralik-daire-brussels-P00696",
+    "description": "Brussels, Belgium bölgesinde daire. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 910687,
+    "location": {
+      "country": "BE",
+      "city": "Brussels",
+      "district": "Brussels Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 6",
+      "coordinates": {
+        "lat": 50.49449793895599,
+        "lng": 3.5927322705463336
+      }
+    },
+    "specs": {
+      "netSize": 323,
+      "grossSize": 388,
+      "rooms": "1+0",
+      "bathrooms": 2,
+      "age": 14,
+      "floor": 8,
+      "totalFloors": 6,
+      "heating": "Merkezi",
+      "furnishing": "Furnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500650740312?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500128433760?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500241365100?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500208452207?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500108654332?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500148112279?w=800&q=80&category=building"
+    ],
+    "agent": {
+      "id": "A79",
+      "name": "Agent 19",
+      "phone": "+38 749 727 6070",
+      "email": "agent87@iwrealty.com",
+      "photo": "/images/icons/png/london-prime-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": false,
+      "hasBalcony": false,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-10-29T10:50:47.183Z",
+    "updatedAt": "2025-11-13T10:50:47.183Z",
+    "storeId": "store-007"
+  },
+  {
+    "id": "P00697",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Villa - Belgium City",
+    "slug": "satilik-villa-belgium-city-P00697",
+    "description": "Belgium City, Belgium bölgesinde villa. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 10504591,
+    "location": {
+      "country": "BE",
+      "city": "Belgium City",
+      "district": "Belgium City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 390",
+      "coordinates": {
+        "lat": 50.909219532380334,
+        "lng": 3.940768761006752
+      }
+    },
+    "specs": {
+      "netSize": 384,
+      "grossSize": 461,
+      "rooms": "1+0",
+      "bathrooms": 2,
+      "age": 11,
+      "floor": 4,
+      "totalFloors": 15,
+      "heating": "Klima",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500870339466?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500961020175?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500476706348?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500623584658?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500210005753?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500850443998?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500857318517?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500308489948?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500184204435?w=800&q=80&category=building"
+    ],
+    "agent": {
+      "id": "A98",
+      "name": "Agent 3",
+      "phone": "+75 628 480 4424",
+      "email": "agent66@iwrealty.com",
+      "photo": "/images/icons/png/ny-skyline-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-10-05T10:50:47.183Z",
+    "updatedAt": "2025-11-13T10:50:47.183Z",
+    "storeId": "store-008"
+  },
+  {
+    "id": "P00698",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Villa - Belgium Central",
+    "slug": "kiralik-villa-belgium-central-P00698",
+    "description": "Belgium Central, Belgium bölgesinde villa. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 4764632,
+    "location": {
+      "country": "BE",
+      "city": "Belgium Central",
+      "district": "Belgium Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 601",
+      "coordinates": {
+        "lat": 50.80727320553722,
+        "lng": 4.392550049315483
+      }
+    },
+    "specs": {
+      "netSize": 459,
+      "grossSize": 551,
+      "rooms": "1+2",
+      "bathrooms": 4,
+      "age": 16,
+      "floor": 11,
+      "totalFloors": 11,
+      "heating": "Merkezi",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500813663887?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500751914140?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500093330141?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500598006343?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500150123623?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500500462717?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500707459349?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500247931341?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500915666745?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500955550016?w=800&q=80&category=real-estate"
+    ],
+    "agent": {
+      "id": "A5",
+      "name": "Agent 34",
+      "phone": "+98 240 997 2165",
+      "email": "agent90@iwrealty.com",
+      "photo": "/images/icons/png/izmir-sahil-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": true,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-04-12T10:50:47.183Z",
+    "updatedAt": "2025-11-13T10:50:47.183Z",
+    "storeId": "store-005"
+  },
+  {
+    "id": "P00699",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Müstakil Ev - Belgium City",
+    "slug": "satilik-müstakil-ev-belgium-city-P00699",
+    "description": "Belgium City, Belgium bölgesinde müstakil ev. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 8725254,
+    "location": {
+      "country": "BE",
+      "city": "Belgium City",
+      "district": "Belgium City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 343",
+      "coordinates": {
+        "lat": 50.89642269643994,
+        "lng": 3.812106389601537
+      }
+    },
+    "specs": {
+      "netSize": 487,
+      "grossSize": 584,
+      "rooms": "2+0",
+      "bathrooms": 4,
+      "age": 4,
+      "floor": 14,
+      "totalFloors": 13,
+      "heating": "Kombi",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500376660957?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500683228178?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500014153215?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500080744935?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500544742840?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500391255863?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500540213177?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500453700122?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500733092893?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500914673716?w=800&q=80&category=architecture"
+    ],
+    "agent": {
+      "id": "A56",
+      "name": "Agent 34",
+      "phone": "+39 143 369 9987",
+      "email": "agent62@iwrealty.com",
+      "photo": "/images/icons/png/dubai-property-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-05-12T10:50:47.183Z",
+    "updatedAt": "2025-11-13T10:50:47.183Z",
+    "storeId": "store-004"
+  },
+  {
+    "id": "P00700",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Villa - New Belgium",
+    "slug": "kiralik-villa-new-belgium-P00700",
+    "description": "New Belgium, Belgium bölgesinde villa. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 9392651,
+    "location": {
+      "country": "BE",
+      "city": "New Belgium",
+      "district": "New Belgium Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 686",
+      "coordinates": {
+        "lat": 50.68125230273276,
+        "lng": 3.5775530851086907
+      }
+    },
+    "specs": {
+      "netSize": 140,
+      "grossSize": 168,
+      "rooms": "2+1",
+      "bathrooms": 2,
+      "age": 10,
+      "floor": 5,
+      "totalFloors": 18,
+      "heating": "Klima",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500154762329?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500429614731?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500508186132?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500221911915?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500510287280?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500526965207?w=800&q=80&category=real-estate"
+    ],
+    "agent": {
+      "id": "A71",
+      "name": "Agent 20",
+      "phone": "+65 549 478 1420",
+      "email": "agent47@iwrealty.com",
+      "photo": "/images/icons/png/dubai-property-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": false,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-11-04T10:50:47.183Z",
+    "updatedAt": "2025-11-13T10:50:47.183Z",
+    "storeId": "store-004"
+  },
+  {
+    "id": "P00701",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Daire - Belgium City",
+    "slug": "satilik-daire-belgium-city-P00701",
+    "description": "Belgium City, Belgium bölgesinde daire. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 10906963,
+    "location": {
+      "country": "BE",
+      "city": "Belgium City",
+      "district": "Belgium City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 908",
+      "coordinates": {
+        "lat": 50.932991452327286,
+        "lng": 3.6458787317139216
+      }
+    },
+    "specs": {
+      "netSize": 399,
+      "grossSize": 479,
+      "rooms": "1+2",
+      "bathrooms": 4,
+      "age": 0,
+      "floor": 12,
+      "totalFloors": 18,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Furnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500825918851?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500226905080?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500023831584?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500606911976?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500093515836?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500344676000?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500963273933?w=800&q=80&category=architecture"
+    ],
+    "agent": {
+      "id": "A34",
+      "name": "Agent 82",
+      "phone": "+92 213 897 8621",
+      "email": "agent10@iwrealty.com",
+      "photo": "/images/icons/png/paris-heritage-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": true,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-06-01T10:50:47.183Z",
+    "updatedAt": "2025-11-13T10:50:47.183Z",
+    "storeId": "store-010"
+  },
+  {
+    "id": "P00702",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Villa - Brussels",
+    "slug": "kiralik-villa-brussels-P00702",
+    "description": "Brussels, Belgium bölgesinde villa. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 2952732,
+    "location": {
+      "country": "BE",
+      "city": "Brussels",
+      "district": "Brussels Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 725",
+      "coordinates": {
+        "lat": 51.20708919375294,
+        "lng": 4.3619749071792535
+      }
+    },
+    "specs": {
+      "netSize": 331,
+      "grossSize": 397,
+      "rooms": "2+2",
+      "bathrooms": 2,
+      "age": 5,
+      "floor": 3,
+      "totalFloors": 9,
+      "heating": "Klima",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500606144341?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500569274820?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500873699589?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500874563544?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500755529292?w=800&q=80&category=building"
+    ],
+    "agent": {
+      "id": "A97",
+      "name": "Agent 52",
+      "phone": "+45 801 708 4793",
+      "email": "agent36@iwrealty.com",
+      "photo": "/images/icons/png/ankara-modern-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-01-27T10:50:47.183Z",
+    "updatedAt": "2025-11-13T10:50:47.183Z",
+    "storeId": "store-003"
+  },
+  {
+    "id": "P00703",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Daire - Belgium Central",
+    "slug": "satilik-daire-belgium-central-P00703",
+    "description": "Belgium Central, Belgium bölgesinde daire. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 7569891,
+    "location": {
+      "country": "BE",
+      "city": "Belgium Central",
+      "district": "Belgium Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 505",
+      "coordinates": {
+        "lat": 50.94738097101759,
+        "lng": 3.772119140874089
+      }
+    },
+    "specs": {
+      "netSize": 115,
+      "grossSize": 138,
+      "rooms": "4+0",
+      "bathrooms": 1,
+      "age": 12,
+      "floor": 11,
+      "totalFloors": 15,
+      "heating": "Klima",
+      "furnishing": "Unfurnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500964755613?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500355165746?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500078999355?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500123834333?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500824889708?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500546667020?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500386300549?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500437542248?w=800&q=80&category=interior"
+    ],
+    "agent": {
+      "id": "A67",
+      "name": "Agent 29",
+      "phone": "+18 264 261 7884",
+      "email": "agent40@iwrealty.com",
+      "photo": "/images/icons/png/antalya-investment-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-01-23T10:50:47.183Z",
+    "updatedAt": "2025-11-13T10:50:47.183Z",
+    "storeId": "store-006"
+  },
+  {
+    "id": "P00704",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Daire - Belgium City",
+    "slug": "kiralik-daire-belgium-city-P00704",
+    "description": "Belgium City, Belgium bölgesinde daire. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 12083604,
+    "location": {
+      "country": "BE",
+      "city": "Belgium City",
+      "district": "Belgium City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 403",
+      "coordinates": {
+        "lat": 51.21952747426635,
+        "lng": 3.9999262069948323
+      }
+    },
+    "specs": {
+      "netSize": 250,
+      "grossSize": 300,
+      "rooms": "4+0",
+      "bathrooms": 3,
+      "age": 14,
+      "floor": 14,
+      "totalFloors": 12,
+      "heating": "Kombi",
+      "furnishing": "Unfurnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500175938293?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500186811917?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500740176953?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500810278481?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500635213109?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500273731537?w=800&q=80&category=real-estate"
+    ],
+    "agent": {
+      "id": "A84",
+      "name": "Agent 76",
+      "phone": "+89 829 116 6410",
+      "email": "agent95@iwrealty.com",
+      "photo": "/images/icons/png/sydney-coastal-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": true,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-09-16T10:50:47.183Z",
+    "updatedAt": "2025-11-13T10:50:47.183Z",
+    "storeId": "store-012"
+  },
+  {
+    "id": "P00705",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Residence - Belgium Central",
+    "slug": "satilik-residence-belgium-central-P00705",
+    "description": "Belgium Central, Belgium bölgesinde residence. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 7646264,
+    "location": {
+      "country": "BE",
+      "city": "Belgium Central",
+      "district": "Belgium Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 859",
+      "coordinates": {
+        "lat": 50.69352555698682,
+        "lng": 3.5779278317047885
+      }
+    },
+    "specs": {
+      "netSize": 197,
+      "grossSize": 236,
+      "rooms": "1+0",
+      "bathrooms": 4,
+      "age": 11,
+      "floor": 2,
+      "totalFloors": 18,
+      "heating": "Merkezi",
+      "furnishing": "Unfurnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500123027234?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500468446395?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500417116420?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500018485911?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500043381739?w=800&q=80&category=interior"
+    ],
+    "agent": {
+      "id": "A60",
+      "name": "Agent 59",
+      "phone": "+65 323 601 6571",
+      "email": "agent9@iwrealty.com",
+      "photo": "/images/icons/png/london-prime-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-10-11T10:50:47.183Z",
+    "updatedAt": "2025-11-13T10:50:47.183Z",
+    "storeId": "store-007"
+  },
+  {
+    "id": "P00706",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Daire - Belgium City",
+    "slug": "kiralik-daire-belgium-city-P00706",
+    "description": "Belgium City, Belgium bölgesinde daire. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 10675215,
+    "location": {
+      "country": "BE",
+      "city": "Belgium City",
+      "district": "Belgium City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 534",
+      "coordinates": {
+        "lat": 50.88014342514852,
+        "lng": 4.498053404389481
+      }
+    },
+    "specs": {
+      "netSize": 372,
+      "grossSize": 446,
+      "rooms": "5+2",
+      "bathrooms": 2,
+      "age": 10,
+      "floor": 4,
+      "totalFloors": 12,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Furnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500662014489?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500294335334?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500448045813?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500413327888?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500834073098?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500892594118?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500337415895?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500360862822?w=800&q=80&category=house"
+    ],
+    "agent": {
+      "id": "A47",
+      "name": "Agent 81",
+      "phone": "+90 262 358 7357",
+      "email": "agent55@iwrealty.com",
+      "photo": "/images/icons/png/luxury-homes-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2024-11-21T10:50:47.183Z",
+    "updatedAt": "2025-11-13T10:50:47.183Z",
+    "storeId": "store-002"
+  },
+  {
+    "id": "P00707",
+    "type": "sale",
+    "category": {
+      "main": "commercial",
+      "sub": "hospital"
+    },
+    "title": "Satılık Hastane - Belgium City",
+    "slug": "satilik-hastane-belgium-city-P00707",
+    "description": "Belgium City, Belgium bölgesinde hastane. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 95734864,
+    "location": {
+      "country": "BE",
+      "city": "Belgium City",
+      "district": "Belgium City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 969",
+      "coordinates": {
+        "lat": 50.82247053233161,
+        "lng": 3.735462181379189
+      }
+    },
+    "specs": {
+      "netSize": 14464,
+      "grossSize": 17357,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 2,
+      "floor": 2,
+      "totalFloors": 10,
+      "heating": "Merkezi",
+      "furnishing": "Furnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500864436538?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500254588982?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500050106041?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500926852184?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500026902234?w=800&q=80&category=house"
+    ],
+    "agent": {
+      "id": "A6",
+      "name": "Agent 66",
+      "phone": "+86 935 187 7325",
+      "email": "agent75@iwrealty.com",
+      "photo": "/images/icons/png/antalya-investment-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": true,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-01-26T10:50:47.183Z",
+    "updatedAt": "2025-11-13T10:50:47.183Z",
+    "storeId": "store-006"
+  },
+  {
+    "id": "P00708",
+    "type": "rent",
+    "category": {
+      "main": "commercial",
+      "sub": "hospital"
+    },
+    "title": "Kiralık Hastane - Belgium City",
+    "slug": "kiralik-hastane-belgium-city-P00708",
+    "description": "Belgium City, Belgium bölgesinde hastane. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 74794297,
+    "location": {
+      "country": "BE",
+      "city": "Belgium City",
+      "district": "Belgium City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 564",
+      "coordinates": {
+        "lat": 50.800576443095345,
+        "lng": 4.382718209510548
+      }
+    },
+    "specs": {
+      "netSize": 13168,
+      "grossSize": 15802,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 3,
+      "floor": 1,
+      "totalFloors": 10,
+      "heating": "Merkezi",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500518689033?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500751490685?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500257987266?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500544782949?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500741648194?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500037642287?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500933021691?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500543999786?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500131659192?w=800&q=80&category=real-estate"
+    ],
+    "agent": {
+      "id": "A65",
+      "name": "Agent 15",
+      "phone": "+24 354 926 9079",
+      "email": "agent13@iwrealty.com",
+      "photo": "/images/icons/png/luxury-homes-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": false,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": true,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-11-12T10:50:47.183Z",
+    "updatedAt": "2025-11-13T10:50:47.183Z",
+    "storeId": "store-002"
+  },
+  {
+    "id": "P00709",
+    "type": "sale",
+    "category": {
+      "main": "commercial",
+      "sub": "clinic"
+    },
+    "title": "Satılık Klinik - New Belgium",
+    "slug": "satilik-klinik-new-belgium-P00709",
+    "description": "New Belgium, Belgium bölgesinde klinik. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 6034689,
+    "location": {
+      "country": "BE",
+      "city": "New Belgium",
+      "district": "New Belgium Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 488",
+      "coordinates": {
+        "lat": 50.954609379738926,
+        "lng": 3.951449568977999
+      }
+    },
+    "specs": {
+      "netSize": 1296,
+      "grossSize": 1555,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 18,
+      "floor": 13,
+      "totalFloors": 10,
+      "heating": "Merkezi",
+      "furnishing": "Unfurnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500729750024?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500396665149?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500058253035?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500718099855?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500070675522?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500666890784?w=800&q=80&category=building"
+    ],
+    "agent": {
+      "id": "A17",
+      "name": "Agent 63",
+      "phone": "+25 787 990 4533",
+      "email": "agent25@iwrealty.com",
+      "photo": "/images/icons/png/london-prime-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-01-27T10:50:47.183Z",
+    "updatedAt": "2025-11-13T10:50:47.183Z",
+    "storeId": "store-007"
+  },
+  {
+    "id": "P00710",
+    "type": "rent",
+    "category": {
+      "main": "commercial",
+      "sub": "clinic"
+    },
+    "title": "Kiralık Klinik - Belgium City",
+    "slug": "kiralik-klinik-belgium-city-P00710",
+    "description": "Belgium City, Belgium bölgesinde klinik. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 19805966,
+    "location": {
+      "country": "BE",
+      "city": "Belgium City",
+      "district": "Belgium City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 475",
+      "coordinates": {
+        "lat": 50.46654419926849,
+        "lng": 3.664053808781146
+      }
+    },
+    "specs": {
+      "netSize": 399,
+      "grossSize": 479,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 14,
+      "floor": 3,
+      "totalFloors": 13,
+      "heating": "Klima",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500176669186?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500455846347?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500740360098?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500750861761?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500788149730?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500246447967?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500778728166?w=800&q=80&category=architecture"
+    ],
+    "agent": {
+      "id": "A90",
+      "name": "Agent 89",
+      "phone": "+49 789 703 3017",
+      "email": "agent54@iwrealty.com",
+      "photo": "/images/icons/png/antalya-investment-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-06-27T10:50:47.183Z",
+    "updatedAt": "2025-11-13T10:50:47.183Z",
+    "storeId": "store-006"
+  },
+  {
+    "id": "P00711",
+    "type": "sale",
+    "category": {
+      "main": "commercial",
+      "sub": "shop"
+    },
+    "title": "Satılık Dükkan - Brussels",
+    "slug": "satilik-dükkan-brussels-P00711",
+    "description": "Brussels, Belgium bölgesinde dükkan. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 2246251,
+    "location": {
+      "country": "BE",
+      "city": "Brussels",
+      "district": "Brussels Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 836",
+      "coordinates": {
+        "lat": 50.69331233703555,
+        "lng": 3.866029341653075
+      }
+    },
+    "specs": {
+      "netSize": 346,
+      "grossSize": 415,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 19,
+      "floor": 2,
+      "totalFloors": 7,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500605779143?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500235767032?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500510598699?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500523659801?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500463322842?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500452143975?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500683006569?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500978350252?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500864993192?w=800&q=80&category=architecture"
+    ],
+    "agent": {
+      "id": "A2",
+      "name": "Agent 44",
+      "phone": "+73 432 237 8721",
+      "email": "agent27@iwrealty.com",
+      "photo": "/images/icons/png/london-prime-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": false,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-07-15T10:50:47.183Z",
+    "updatedAt": "2025-11-13T10:50:47.183Z",
+    "storeId": "store-007"
+  },
+  {
+    "id": "P00712",
+    "type": "rent",
+    "category": {
+      "main": "commercial",
+      "sub": "shop"
+    },
+    "title": "Kiralık Dükkan - Belgium Central",
+    "slug": "kiralik-dükkan-belgium-central-P00712",
+    "description": "Belgium Central, Belgium bölgesinde dükkan. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 6375468,
+    "location": {
+      "country": "BE",
+      "city": "Belgium Central",
+      "district": "Belgium Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 705",
+      "coordinates": {
+        "lat": 50.69552037570222,
+        "lng": 3.6833662758104486
+      }
+    },
+    "specs": {
+      "netSize": 382,
+      "grossSize": 458,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 20,
+      "floor": 11,
+      "totalFloors": 13,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500717784291?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500857741497?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500256816233?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500198202915?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500992362525?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500614154282?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500949342327?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500065297381?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500765809209?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500791321071?w=800&q=80&category=architecture"
+    ],
+    "agent": {
+      "id": "A3",
+      "name": "Agent 9",
+      "phone": "+48 310 897 5002",
+      "email": "agent12@iwrealty.com",
+      "photo": "/images/icons/png/sydney-coastal-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": true,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-05-02T10:50:47.183Z",
+    "updatedAt": "2025-11-13T10:50:47.183Z",
+    "storeId": "store-012"
+  },
+  {
+    "id": "P00713",
+    "type": "sale",
+    "category": {
+      "main": "commercial",
+      "sub": "office"
+    },
+    "title": "Satılık Ofis - Belgium Central",
+    "slug": "satilik-ofis-belgium-central-P00713",
+    "description": "Belgium Central, Belgium bölgesinde ofis. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 13597709,
+    "location": {
+      "country": "BE",
+      "city": "Belgium Central",
+      "district": "Belgium Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 188",
+      "coordinates": {
+        "lat": 51.24614388507605,
+        "lng": 3.877843548277625
+      }
+    },
+    "specs": {
+      "netSize": 890,
+      "grossSize": 1068,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 12,
+      "floor": 15,
+      "totalFloors": 7,
+      "heating": "Klima",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500748008849?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500597852239?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500845738210?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500415459384?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500213883596?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500438072245?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500423112362?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500725601457?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500171820878?w=800&q=80&category=architecture"
+    ],
+    "agent": {
+      "id": "A35",
+      "name": "Agent 13",
+      "phone": "+39 180 491 5408",
+      "email": "agent82@iwrealty.com",
+      "photo": "/images/icons/png/london-prime-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": true,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-09-21T10:50:47.183Z",
+    "updatedAt": "2025-11-13T10:50:47.183Z",
+    "storeId": "store-007"
+  },
+  {
+    "id": "P00714",
+    "type": "rent",
+    "category": {
+      "main": "commercial",
+      "sub": "office"
+    },
+    "title": "Kiralık Ofis - Belgium City",
+    "slug": "kiralik-ofis-belgium-city-P00714",
+    "description": "Belgium City, Belgium bölgesinde ofis. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 11433276,
+    "location": {
+      "country": "BE",
+      "city": "Belgium City",
+      "district": "Belgium City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 529",
+      "coordinates": {
+        "lat": 51.24554482957088,
+        "lng": 4.271929125812446
+      }
+    },
+    "specs": {
+      "netSize": 983,
+      "grossSize": 1180,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 10,
+      "floor": 9,
+      "totalFloors": 5,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500638082424?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500344439569?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500773511259?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500896235502?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500463170477?w=800&q=80&category=house"
+    ],
+    "agent": {
+      "id": "A81",
+      "name": "Agent 40",
+      "phone": "+48 296 280 9307",
+      "email": "agent81@iwrealty.com",
+      "photo": "/images/icons/png/paris-heritage-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": false,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-08-09T10:50:47.183Z",
+    "updatedAt": "2025-11-13T10:50:47.183Z",
+    "storeId": "store-010"
+  },
+  {
+    "id": "P00715",
+    "type": "sale",
+    "category": {
+      "main": "commercial",
+      "sub": "mall"
+    },
+    "title": "Satılık AVM - Brussels",
+    "slug": "satilik-avm-brussels-P00715",
+    "description": "Brussels, Belgium bölgesinde avm. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 394303944,
+    "location": {
+      "country": "BE",
+      "city": "Brussels",
+      "district": "Brussels Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 821",
+      "coordinates": {
+        "lat": 51.25715578737239,
+        "lng": 4.177736056274016
+      }
+    },
+    "specs": {
+      "netSize": 21082,
+      "grossSize": 25298,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 5,
+      "floor": 5,
+      "totalFloors": 12,
+      "heating": "Merkezi",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500819062414?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500273469524?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500629069791?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500603991154?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500282735942?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500161282675?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500340715436?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500156107750?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500162027473?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500073196311?w=800&q=80&category=building"
+    ],
+    "agent": {
+      "id": "A82",
+      "name": "Agent 99",
+      "phone": "+18 738 712 3290",
+      "email": "agent93@iwrealty.com",
+      "photo": "/images/icons/png/paris-heritage-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-05-26T10:50:47.183Z",
+    "updatedAt": "2025-11-13T10:50:47.183Z",
+    "storeId": "store-010"
+  },
+  {
+    "id": "P00716",
+    "type": "rent",
+    "category": {
+      "main": "commercial",
+      "sub": "mall"
+    },
+    "title": "Kiralık AVM - Belgium Central",
+    "slug": "kiralik-avm-belgium-central-P00716",
+    "description": "Belgium Central, Belgium bölgesinde avm. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 171624277,
+    "location": {
+      "country": "BE",
+      "city": "Belgium Central",
+      "district": "Belgium Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 664",
+      "coordinates": {
+        "lat": 50.684211712084064,
+        "lng": 3.951178314758863
+      }
+    },
+    "specs": {
+      "netSize": 13276,
+      "grossSize": 15931,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 1,
+      "floor": 3,
+      "totalFloors": 11,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Furnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500207060231?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500458447246?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500909153921?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500772060036?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500356817774?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500346605461?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500046840922?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500641636332?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500947810422?w=800&q=80&category=building"
+    ],
+    "agent": {
+      "id": "A17",
+      "name": "Agent 93",
+      "phone": "+45 330 185 6274",
+      "email": "agent17@iwrealty.com",
+      "photo": "/images/icons/png/berlin-urban-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": false,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-10-25T10:50:47.183Z",
+    "updatedAt": "2025-11-13T10:50:47.183Z",
+    "storeId": "store-009"
+  },
+  {
+    "id": "P00717",
+    "type": "sale",
+    "category": {
+      "main": "commercial",
+      "sub": "hotel"
+    },
+    "title": "Satılık Otel - New Belgium",
+    "slug": "satilik-otel-new-belgium-P00717",
+    "description": "New Belgium, Belgium bölgesinde otel. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 46973550,
+    "location": {
+      "country": "BE",
+      "city": "New Belgium",
+      "district": "New Belgium Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 35",
+      "coordinates": {
+        "lat": 50.415702150872185,
+        "lng": 4.0352954942362205
+      }
+    },
+    "specs": {
+      "netSize": 17835,
+      "grossSize": 21402,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 8,
+      "floor": 12,
+      "totalFloors": 12,
+      "heating": "Klima",
+      "furnishing": "Furnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500066856888?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500141447790?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500355826120?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500575655761?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500125253509?w=800&q=80&category=house"
+    ],
+    "agent": {
+      "id": "A14",
+      "name": "Agent 69",
+      "phone": "+11 739 809 5311",
+      "email": "agent7@iwrealty.com",
+      "photo": "/images/icons/png/ankara-modern-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": true,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-05-11T10:50:47.183Z",
+    "updatedAt": "2025-11-13T10:50:47.183Z",
+    "storeId": "store-003"
+  },
+  {
+    "id": "P00718",
+    "type": "rent",
+    "category": {
+      "main": "commercial",
+      "sub": "hotel"
+    },
+    "title": "Kiralık Otel - Belgium City",
+    "slug": "kiralik-otel-belgium-city-P00718",
+    "description": "Belgium City, Belgium bölgesinde otel. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 184588716,
+    "location": {
+      "country": "BE",
+      "city": "Belgium City",
+      "district": "Belgium City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 31",
+      "coordinates": {
+        "lat": 50.99093564846027,
+        "lng": 4.208310163814296
+      }
+    },
+    "specs": {
+      "netSize": 11811,
+      "grossSize": 14173,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 12,
+      "floor": 12,
+      "totalFloors": 14,
+      "heating": "Klima",
+      "furnishing": "Unfurnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500570863757?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500556091976?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500069225322?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500885254049?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500777319610?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500935439146?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500877649917?w=800&q=80&category=architecture"
+    ],
+    "agent": {
+      "id": "A91",
+      "name": "Agent 87",
+      "phone": "+46 732 741 7061",
+      "email": "agent32@iwrealty.com",
+      "photo": "/images/icons/png/berlin-urban-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": true,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-08-14T10:50:47.183Z",
+    "updatedAt": "2025-11-13T10:50:47.183Z",
+    "storeId": "store-009"
+  },
+  {
+    "id": "P00719",
+    "type": "sale",
+    "category": {
+      "main": "commercial",
+      "sub": "restaurant"
+    },
+    "title": "Satılık Restoran - Belgium Central",
+    "slug": "satilik-restoran-belgium-central-P00719",
+    "description": "Belgium Central, Belgium bölgesinde restoran. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 6487955,
+    "location": {
+      "country": "BE",
+      "city": "Belgium Central",
+      "district": "Belgium Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 15",
+      "coordinates": {
+        "lat": 50.80798479373244,
+        "lng": 3.844340185113797
+      }
+    },
+    "specs": {
+      "netSize": 1444,
+      "grossSize": 1733,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 10,
+      "floor": 8,
+      "totalFloors": 13,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500012924859?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500488625637?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500258778682?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500603342164?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500343070228?w=800&q=80&category=architecture"
+    ],
+    "agent": {
+      "id": "A53",
+      "name": "Agent 95",
+      "phone": "+29 630 606 3594",
+      "email": "agent13@iwrealty.com",
+      "photo": "/images/icons/png/antalya-investment-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": false,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-03-04T10:50:47.183Z",
+    "updatedAt": "2025-11-13T10:50:47.183Z",
+    "storeId": "store-006"
+  },
+  {
+    "id": "P00720",
+    "type": "rent",
+    "category": {
+      "main": "commercial",
+      "sub": "restaurant"
+    },
+    "title": "Kiralık Restoran - Brussels",
+    "slug": "kiralik-restoran-brussels-P00720",
+    "description": "Brussels, Belgium bölgesinde restoran. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 1934103,
+    "location": {
+      "country": "BE",
+      "city": "Brussels",
+      "district": "Brussels Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 477",
+      "coordinates": {
+        "lat": 51.11754041676581,
+        "lng": 3.895337898686124
+      }
+    },
+    "specs": {
+      "netSize": 177,
+      "grossSize": 212,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 16,
+      "floor": 7,
+      "totalFloors": 12,
+      "heating": "Klima",
+      "furnishing": "Unfurnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500220684426?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500736865134?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500881324314?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500668045131?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500529793272?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500673688860?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500899849599?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500048636833?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500015436052?w=800&q=80&category=house"
+    ],
+    "agent": {
+      "id": "A88",
+      "name": "Agent 13",
+      "phone": "+38 717 116 7499",
+      "email": "agent93@iwrealty.com",
+      "photo": "/images/icons/png/ankara-modern-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": true,
+      "hasPool": true,
+      "hasSecurity": false
+    },
+    "createdAt": "2024-11-26T10:50:47.183Z",
+    "updatedAt": "2025-11-13T10:50:47.183Z",
+    "storeId": "store-003"
+  },
+  {
+    "id": "P00721",
+    "type": "sale",
+    "category": {
+      "main": "commercial",
+      "sub": "warehouse"
+    },
+    "title": "Satılık Depo - New Belgium",
+    "slug": "satilik-depo-new-belgium-P00721",
+    "description": "New Belgium, Belgium bölgesinde depo. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 3752524,
+    "location": {
+      "country": "BE",
+      "city": "New Belgium",
+      "district": "New Belgium Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 504",
+      "coordinates": {
+        "lat": 50.697683858425385,
+        "lng": 4.108083530050678
+      }
+    },
+    "specs": {
+      "netSize": 6272,
+      "grossSize": 7526,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 1,
+      "floor": 3,
+      "totalFloors": 10,
+      "heating": "Kombi",
+      "furnishing": "Unfurnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500719214965?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500179125194?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500737827843?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500810664129?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500085453354?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500608993795?w=800&q=80&category=building"
+    ],
+    "agent": {
+      "id": "A32",
+      "name": "Agent 68",
+      "phone": "+42 505 531 2714",
+      "email": "agent10@iwrealty.com",
+      "photo": "/images/icons/png/sg-harbour-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": false,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-11-02T10:50:47.183Z",
+    "updatedAt": "2025-11-13T10:50:47.183Z",
+    "storeId": "store-011"
+  },
+  {
+    "id": "P00722",
+    "type": "rent",
+    "category": {
+      "main": "commercial",
+      "sub": "warehouse"
+    },
+    "title": "Kiralık Depo - Belgium Central",
+    "slug": "kiralik-depo-belgium-central-P00722",
+    "description": "Belgium Central, Belgium bölgesinde depo. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 8069919,
+    "location": {
+      "country": "BE",
+      "city": "Belgium Central",
+      "district": "Belgium Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 626",
+      "coordinates": {
+        "lat": 50.70123622875925,
+        "lng": 3.592634577875516
+      }
+    },
+    "specs": {
+      "netSize": 3315,
+      "grossSize": 3978,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 4,
+      "floor": 4,
+      "totalFloors": 17,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Furnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500534730921?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500252355968?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500130068318?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500179192450?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500353978744?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500382742759?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500478479682?w=800&q=80&category=real-estate"
+    ],
+    "agent": {
+      "id": "A77",
+      "name": "Agent 54",
+      "phone": "+24 367 689 7133",
+      "email": "agent61@iwrealty.com",
+      "photo": "/images/icons/png/berlin-urban-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": true,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-05-10T10:50:47.183Z",
+    "updatedAt": "2025-11-13T10:50:47.183Z",
+    "storeId": "store-009"
+  }
+]

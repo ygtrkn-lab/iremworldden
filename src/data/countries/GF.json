@@ -1,0 +1,2364 @@
+[
+  {
+    "id": "P03573",
+    "type": "sale",
+    "category": {
+      "main": "government"
+    },
+    "title": "Satılık Hastane - Cayenne",
+    "slug": "satilik-hastane-cayenne-P03573",
+    "description": "Cayenne, French Guiana bölgesinde hastane. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 35118477,
+    "location": {
+      "country": "GF",
+      "city": "Cayenne",
+      "district": "Cayenne Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 890",
+      "coordinates": {
+        "lat": 4.18515817006497,
+        "lng": -53.37415292585022
+      }
+    },
+    "specs": {
+      "netSize": 1813,
+      "grossSize": 2176,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 1,
+      "floor": 5,
+      "totalFloors": 12,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Unfurnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500698013917?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500221849195?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500791929633?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500924192724?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500816221171?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500828492611?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500828196740?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500345755168?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500033753580?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500287236074?w=800&q=80&category=architecture"
+    ],
+    "agent": {
+      "id": "A24",
+      "name": "Agent 62",
+      "phone": "+18 834 196 3560",
+      "email": "agent82@iwrealty.com",
+      "photo": "/images/icons/png/sydney-coastal-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-03-06T10:50:47.216Z",
+    "updatedAt": "2025-11-13T10:50:47.216Z",
+    "storeId": "store-012"
+  },
+  {
+    "id": "P03574",
+    "type": "rent",
+    "category": {
+      "main": "government"
+    },
+    "title": "Kiralık Devlet Binası - Cayenne",
+    "slug": "kiralik-devlet-binası-cayenne-P03574",
+    "description": "Cayenne, French Guiana bölgesinde devlet binası. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 9329900,
+    "location": {
+      "country": "GF",
+      "city": "Cayenne",
+      "district": "Cayenne Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 502",
+      "coordinates": {
+        "lat": 4.48257266103715,
+        "lng": -53.243338497541885
+      }
+    },
+    "specs": {
+      "netSize": 528,
+      "grossSize": 634,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 15,
+      "floor": 9,
+      "totalFloors": 20,
+      "heating": "Klima",
+      "furnishing": "Furnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500410469526?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500400974782?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500836152764?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500951711363?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500598261355?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500624838677?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500333250869?w=800&q=80&category=interior"
+    ],
+    "agent": {
+      "id": "A52",
+      "name": "Agent 88",
+      "phone": "+56 530 594 2159",
+      "email": "agent42@iwrealty.com",
+      "photo": "/images/icons/png/ny-skyline-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-09-09T10:50:47.216Z",
+    "updatedAt": "2025-11-13T10:50:47.216Z",
+    "storeId": "store-008"
+  },
+  {
+    "id": "P03575",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Villa - New French Guiana",
+    "slug": "satilik-villa-new-french-guiana-P03575",
+    "description": "New French Guiana, French Guiana bölgesinde villa. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 6549006,
+    "location": {
+      "country": "GF",
+      "city": "New French Guiana",
+      "district": "New French Guiana Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 606",
+      "coordinates": {
+        "lat": 4.484389857975683,
+        "lng": -52.640514244532156
+      }
+    },
+    "specs": {
+      "netSize": 168,
+      "grossSize": 202,
+      "rooms": "3+2",
+      "bathrooms": 1,
+      "age": 15,
+      "floor": 12,
+      "totalFloors": 18,
+      "heating": "Merkezi",
+      "furnishing": "Unfurnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500033073774?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500096696743?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500651864625?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500242325587?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500618199850?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500820398096?w=800&q=80&category=house"
+    ],
+    "agent": {
+      "id": "A49",
+      "name": "Agent 78",
+      "phone": "+24 297 583 9301",
+      "email": "agent54@iwrealty.com",
+      "photo": "/images/icons/png/london-prime-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-10-06T10:50:47.216Z",
+    "updatedAt": "2025-11-13T10:50:47.216Z",
+    "storeId": "store-007"
+  },
+  {
+    "id": "P03576",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Daire - New French Guiana",
+    "slug": "kiralik-daire-new-french-guiana-P03576",
+    "description": "New French Guiana, French Guiana bölgesinde daire. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 537788,
+    "location": {
+      "country": "GF",
+      "city": "New French Guiana",
+      "district": "New French Guiana Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 571",
+      "coordinates": {
+        "lat": 3.7430734338090184,
+        "lng": -52.57874713319356
+      }
+    },
+    "specs": {
+      "netSize": 499,
+      "grossSize": 599,
+      "rooms": "5+1",
+      "bathrooms": 3,
+      "age": 16,
+      "floor": 7,
+      "totalFloors": 8,
+      "heating": "Merkezi",
+      "furnishing": "Unfurnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500553736804?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500334136507?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500422043523?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500791082314?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500226209940?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500626864730?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500302927638?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500317858653?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500753293642?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500248447837?w=800&q=80&category=house"
+    ],
+    "agent": {
+      "id": "A28",
+      "name": "Agent 49",
+      "phone": "+52 694 386 1163",
+      "email": "agent34@iwrealty.com",
+      "photo": "/images/icons/png/paris-heritage-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": true,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-06-15T10:50:47.216Z",
+    "updatedAt": "2025-11-13T10:50:47.216Z",
+    "storeId": "store-010"
+  },
+  {
+    "id": "P03577",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Residence - French Guiana Central",
+    "slug": "satilik-residence-french-guiana-central-P03577",
+    "description": "French Guiana Central, French Guiana bölgesinde residence. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 2033580,
+    "location": {
+      "country": "GF",
+      "city": "French Guiana Central",
+      "district": "French Guiana Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 770",
+      "coordinates": {
+        "lat": 3.934838236002109,
+        "lng": -53.36344591123517
+      }
+    },
+    "specs": {
+      "netSize": 483,
+      "grossSize": 580,
+      "rooms": "5+1",
+      "bathrooms": 2,
+      "age": 6,
+      "floor": 7,
+      "totalFloors": 9,
+      "heating": "Merkezi",
+      "furnishing": "Unfurnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500176847093?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500165427982?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500803491431?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500426999707?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500865680341?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500847278699?w=800&q=80&category=real-estate"
+    ],
+    "agent": {
+      "id": "A43",
+      "name": "Agent 33",
+      "phone": "+60 430 279 3780",
+      "email": "agent44@iwrealty.com",
+      "photo": "/images/icons/png/ny-skyline-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": true,
+      "hasSecurity": true
+    },
+    "createdAt": "2024-12-02T10:50:47.216Z",
+    "updatedAt": "2025-11-13T10:50:47.216Z",
+    "storeId": "store-008"
+  },
+  {
+    "id": "P03578",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Residence - French Guiana City",
+    "slug": "kiralik-residence-french-guiana-city-P03578",
+    "description": "French Guiana City, French Guiana bölgesinde residence. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 5691367,
+    "location": {
+      "country": "GF",
+      "city": "French Guiana City",
+      "district": "French Guiana City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 619",
+      "coordinates": {
+        "lat": 3.937413643732796,
+        "lng": -53.35907198075389
+      }
+    },
+    "specs": {
+      "netSize": 348,
+      "grossSize": 418,
+      "rooms": "5+2",
+      "bathrooms": 1,
+      "age": 2,
+      "floor": 1,
+      "totalFloors": 9,
+      "heating": "Kombi",
+      "furnishing": "Furnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500504669663?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500308931843?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500912872789?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500011277940?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500604857457?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500119221931?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500694676109?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500355964481?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500705158328?w=800&q=80&category=interior"
+    ],
+    "agent": {
+      "id": "A36",
+      "name": "Agent 44",
+      "phone": "+97 517 654 7739",
+      "email": "agent3@iwrealty.com",
+      "photo": "/images/icons/png/sydney-coastal-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": false,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-08-20T10:50:47.216Z",
+    "updatedAt": "2025-11-13T10:50:47.216Z",
+    "storeId": "store-012"
+  },
+  {
+    "id": "P03579",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Residence - French Guiana Central",
+    "slug": "satilik-residence-french-guiana-central-P03579",
+    "description": "French Guiana Central, French Guiana bölgesinde residence. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 6901631,
+    "location": {
+      "country": "GF",
+      "city": "French Guiana Central",
+      "district": "French Guiana Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 622",
+      "coordinates": {
+        "lat": 4.034695956781643,
+        "lng": -53.403165855399685
+      }
+    },
+    "specs": {
+      "netSize": 182,
+      "grossSize": 218,
+      "rooms": "4+2",
+      "bathrooms": 1,
+      "age": 4,
+      "floor": 12,
+      "totalFloors": 13,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Unfurnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500793735302?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500154349235?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500162573599?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500599119358?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500225745828?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500546630872?w=800&q=80&category=architecture"
+    ],
+    "agent": {
+      "id": "A56",
+      "name": "Agent 24",
+      "phone": "+24 980 444 8817",
+      "email": "agent11@iwrealty.com",
+      "photo": "/images/icons/png/london-prime-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2024-12-19T10:50:47.216Z",
+    "updatedAt": "2025-11-13T10:50:47.216Z",
+    "storeId": "store-007"
+  },
+  {
+    "id": "P03580",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Villa - French Guiana Central",
+    "slug": "kiralik-villa-french-guiana-central-P03580",
+    "description": "French Guiana Central, French Guiana bölgesinde villa. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 11467632,
+    "location": {
+      "country": "GF",
+      "city": "French Guiana Central",
+      "district": "French Guiana Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 253",
+      "coordinates": {
+        "lat": 3.944424185678171,
+        "lng": -52.72873720371254
+      }
+    },
+    "specs": {
+      "netSize": 487,
+      "grossSize": 584,
+      "rooms": "3+1",
+      "bathrooms": 1,
+      "age": 18,
+      "floor": 2,
+      "totalFloors": 17,
+      "heating": "Merkezi",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500693695449?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500483853827?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500184232849?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500268056411?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500056958361?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500099061055?w=800&q=80&category=building"
+    ],
+    "agent": {
+      "id": "A17",
+      "name": "Agent 46",
+      "phone": "+34 418 927 9025",
+      "email": "agent80@iwrealty.com",
+      "photo": "/images/icons/png/berlin-urban-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-04-05T10:50:47.216Z",
+    "updatedAt": "2025-11-13T10:50:47.216Z",
+    "storeId": "store-009"
+  },
+  {
+    "id": "P03581",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Residence - French Guiana City",
+    "slug": "satilik-residence-french-guiana-city-P03581",
+    "description": "French Guiana City, French Guiana bölgesinde residence. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 5805495,
+    "location": {
+      "country": "GF",
+      "city": "French Guiana City",
+      "district": "French Guiana City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 804",
+      "coordinates": {
+        "lat": 4.153492606938465,
+        "lng": -52.55588425537363
+      }
+    },
+    "specs": {
+      "netSize": 378,
+      "grossSize": 454,
+      "rooms": "2+1",
+      "bathrooms": 4,
+      "age": 2,
+      "floor": 1,
+      "totalFloors": 15,
+      "heating": "Klima",
+      "furnishing": "Unfurnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500763731951?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500338431397?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500481213746?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500377767454?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500767735448?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500110583015?w=800&q=80&category=real-estate"
+    ],
+    "agent": {
+      "id": "A24",
+      "name": "Agent 98",
+      "phone": "+99 755 644 3420",
+      "email": "agent53@iwrealty.com",
+      "photo": "/images/icons/png/ankara-modern-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": false,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-01-21T10:50:47.217Z",
+    "updatedAt": "2025-11-13T10:50:47.217Z",
+    "storeId": "store-003"
+  },
+  {
+    "id": "P03582",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Residence - French Guiana Central",
+    "slug": "kiralik-residence-french-guiana-central-P03582",
+    "description": "French Guiana Central, French Guiana bölgesinde residence. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 9624839,
+    "location": {
+      "country": "GF",
+      "city": "French Guiana Central",
+      "district": "French Guiana Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 777",
+      "coordinates": {
+        "lat": 4.167161979296722,
+        "lng": -53.21437469445641
+      }
+    },
+    "specs": {
+      "netSize": 229,
+      "grossSize": 275,
+      "rooms": "4+1",
+      "bathrooms": 4,
+      "age": 16,
+      "floor": 5,
+      "totalFloors": 6,
+      "heating": "Merkezi",
+      "furnishing": "Unfurnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500243397158?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500872183432?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500574642836?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500526487425?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500474513109?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500671829774?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500768879078?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500812610660?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500975791583?w=800&q=80&category=building"
+    ],
+    "agent": {
+      "id": "A100",
+      "name": "Agent 73",
+      "phone": "+22 564 105 9993",
+      "email": "agent41@iwrealty.com",
+      "photo": "/images/icons/png/paris-heritage-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": true,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-07-02T10:50:47.217Z",
+    "updatedAt": "2025-11-13T10:50:47.217Z",
+    "storeId": "store-010"
+  },
+  {
+    "id": "P03583",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Daire - French Guiana Central",
+    "slug": "satilik-daire-french-guiana-central-P03583",
+    "description": "French Guiana Central, French Guiana bölgesinde daire. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 13823965,
+    "location": {
+      "country": "GF",
+      "city": "French Guiana Central",
+      "district": "French Guiana Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 205",
+      "coordinates": {
+        "lat": 3.827414443191984,
+        "lng": -53.22701695374873
+      }
+    },
+    "specs": {
+      "netSize": 425,
+      "grossSize": 510,
+      "rooms": "2+1",
+      "bathrooms": 4,
+      "age": 8,
+      "floor": 11,
+      "totalFloors": 20,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Unfurnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500385608859?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500177945287?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500533855854?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500317177724?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500261491620?w=800&q=80&category=interior"
+    ],
+    "agent": {
+      "id": "A57",
+      "name": "Agent 23",
+      "phone": "+85 307 544 1470",
+      "email": "agent55@iwrealty.com",
+      "photo": "/images/icons/png/ny-skyline-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-07-15T10:50:47.217Z",
+    "updatedAt": "2025-11-13T10:50:47.217Z",
+    "storeId": "store-008"
+  },
+  {
+    "id": "P03584",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Daire - New French Guiana",
+    "slug": "kiralik-daire-new-french-guiana-P03584",
+    "description": "New French Guiana, French Guiana bölgesinde daire. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 5304913,
+    "location": {
+      "country": "GF",
+      "city": "New French Guiana",
+      "district": "New French Guiana Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 599",
+      "coordinates": {
+        "lat": 4.213895759359313,
+        "lng": -52.84609444524711
+      }
+    },
+    "specs": {
+      "netSize": 210,
+      "grossSize": 252,
+      "rooms": "2+0",
+      "bathrooms": 4,
+      "age": 7,
+      "floor": 5,
+      "totalFloors": 20,
+      "heating": "Klima",
+      "furnishing": "Furnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500767436000?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500497303636?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500291872813?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500369527561?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500253349541?w=800&q=80&category=house"
+    ],
+    "agent": {
+      "id": "A80",
+      "name": "Agent 28",
+      "phone": "+50 863 887 2186",
+      "email": "agent11@iwrealty.com",
+      "photo": "/images/icons/png/dubai-property-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-06-16T10:50:47.217Z",
+    "updatedAt": "2025-11-13T10:50:47.217Z",
+    "storeId": "store-004"
+  },
+  {
+    "id": "P03585",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Daire - New French Guiana",
+    "slug": "satilik-daire-new-french-guiana-P03585",
+    "description": "New French Guiana, French Guiana bölgesinde daire. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 675357,
+    "location": {
+      "country": "GF",
+      "city": "New French Guiana",
+      "district": "New French Guiana Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 751",
+      "coordinates": {
+        "lat": 3.729710876553226,
+        "lng": -53.22577223460901
+      }
+    },
+    "specs": {
+      "netSize": 196,
+      "grossSize": 235,
+      "rooms": "3+1",
+      "bathrooms": 2,
+      "age": 11,
+      "floor": 14,
+      "totalFloors": 11,
+      "heating": "Klima",
+      "furnishing": "Unfurnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500061955130?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500180664184?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500429103243?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500952233720?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500681534422?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500301500819?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500076413245?w=800&q=80&category=architecture"
+    ],
+    "agent": {
+      "id": "A16",
+      "name": "Agent 1",
+      "phone": "+62 455 588 1282",
+      "email": "agent13@iwrealty.com",
+      "photo": "/images/icons/png/ny-skyline-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": false,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-05-20T10:50:47.217Z",
+    "updatedAt": "2025-11-13T10:50:47.217Z",
+    "storeId": "store-008"
+  },
+  {
+    "id": "P03586",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Daire - New French Guiana",
+    "slug": "kiralik-daire-new-french-guiana-P03586",
+    "description": "New French Guiana, French Guiana bölgesinde daire. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 13847687,
+    "location": {
+      "country": "GF",
+      "city": "New French Guiana",
+      "district": "New French Guiana Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 306",
+      "coordinates": {
+        "lat": 4.439059599127543,
+        "lng": -52.922905248815184
+      }
+    },
+    "specs": {
+      "netSize": 406,
+      "grossSize": 487,
+      "rooms": "4+1",
+      "bathrooms": 1,
+      "age": 13,
+      "floor": 7,
+      "totalFloors": 7,
+      "heating": "Klima",
+      "furnishing": "Unfurnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500896236952?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500359119905?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500960031246?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500556571891?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500570327225?w=800&q=80&category=house"
+    ],
+    "agent": {
+      "id": "A51",
+      "name": "Agent 93",
+      "phone": "+64 416 650 7609",
+      "email": "agent29@iwrealty.com",
+      "photo": "/images/icons/png/berlin-urban-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-06-05T10:50:47.217Z",
+    "updatedAt": "2025-11-13T10:50:47.217Z",
+    "storeId": "store-009"
+  },
+  {
+    "id": "P03587",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Residence - Cayenne",
+    "slug": "satilik-residence-cayenne-P03587",
+    "description": "Cayenne, French Guiana bölgesinde residence. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 13524280,
+    "location": {
+      "country": "GF",
+      "city": "Cayenne",
+      "district": "Cayenne Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 9",
+      "coordinates": {
+        "lat": 3.9431501975993575,
+        "lng": -52.663568201878974
+      }
+    },
+    "specs": {
+      "netSize": 445,
+      "grossSize": 534,
+      "rooms": "5+1",
+      "bathrooms": 1,
+      "age": 17,
+      "floor": 3,
+      "totalFloors": 11,
+      "heating": "Klima",
+      "furnishing": "Furnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500728956250?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500864554924?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500621066635?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500993229446?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500576901293?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500608473157?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500223543304?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500642823874?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500754230190?w=800&q=80&category=building"
+    ],
+    "agent": {
+      "id": "A82",
+      "name": "Agent 22",
+      "phone": "+36 164 411 6682",
+      "email": "agent18@iwrealty.com",
+      "photo": "/images/icons/png/luxury-homes-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": false,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": true,
+      "hasSecurity": false
+    },
+    "createdAt": "2024-12-19T10:50:47.217Z",
+    "updatedAt": "2025-11-13T10:50:47.217Z",
+    "storeId": "store-002"
+  },
+  {
+    "id": "P03588",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Villa - New French Guiana",
+    "slug": "kiralik-villa-new-french-guiana-P03588",
+    "description": "New French Guiana, French Guiana bölgesinde villa. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 5323311,
+    "location": {
+      "country": "GF",
+      "city": "New French Guiana",
+      "district": "New French Guiana Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 733",
+      "coordinates": {
+        "lat": 3.744178651886783,
+        "lng": -53.199187465996275
+      }
+    },
+    "specs": {
+      "netSize": 326,
+      "grossSize": 391,
+      "rooms": "4+1",
+      "bathrooms": 2,
+      "age": 20,
+      "floor": 3,
+      "totalFloors": 5,
+      "heating": "Kombi",
+      "furnishing": "Furnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500400079134?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500986212073?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500136089717?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500388835532?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500144446235?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500220537533?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500859188091?w=800&q=80&category=interior"
+    ],
+    "agent": {
+      "id": "A23",
+      "name": "Agent 37",
+      "phone": "+95 862 825 8765",
+      "email": "agent67@iwrealty.com",
+      "photo": "/images/icons/png/ny-skyline-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-06-02T10:50:47.217Z",
+    "updatedAt": "2025-11-13T10:50:47.217Z",
+    "storeId": "store-008"
+  },
+  {
+    "id": "P03589",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Residence - Cayenne",
+    "slug": "satilik-residence-cayenne-P03589",
+    "description": "Cayenne, French Guiana bölgesinde residence. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 5714786,
+    "location": {
+      "country": "GF",
+      "city": "Cayenne",
+      "district": "Cayenne Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 355",
+      "coordinates": {
+        "lat": 4.460415107998956,
+        "lng": -52.54918689059377
+      }
+    },
+    "specs": {
+      "netSize": 268,
+      "grossSize": 322,
+      "rooms": "2+1",
+      "bathrooms": 1,
+      "age": 7,
+      "floor": 11,
+      "totalFloors": 11,
+      "heating": "Merkezi",
+      "furnishing": "Furnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500349184669?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500819464718?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500862601485?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500330880588?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500420336346?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500088354939?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500773074199?w=800&q=80&category=house"
+    ],
+    "agent": {
+      "id": "A89",
+      "name": "Agent 51",
+      "phone": "+75 501 319 1702",
+      "email": "agent86@iwrealty.com",
+      "photo": "/images/icons/png/ny-skyline-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": true,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-05-07T10:50:47.217Z",
+    "updatedAt": "2025-11-13T10:50:47.217Z",
+    "storeId": "store-008"
+  },
+  {
+    "id": "P03590",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Residence - French Guiana Central",
+    "slug": "kiralik-residence-french-guiana-central-P03590",
+    "description": "French Guiana Central, French Guiana bölgesinde residence. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 836200,
+    "location": {
+      "country": "GF",
+      "city": "French Guiana Central",
+      "district": "French Guiana Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 73",
+      "coordinates": {
+        "lat": 3.8047236601679697,
+        "lng": -52.89367308675535
+      }
+    },
+    "specs": {
+      "netSize": 130,
+      "grossSize": 156,
+      "rooms": "2+0",
+      "bathrooms": 2,
+      "age": 6,
+      "floor": 14,
+      "totalFloors": 8,
+      "heating": "Kombi",
+      "furnishing": "Furnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500025904861?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500640168309?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500980917886?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500613823955?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500046248598?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500640907846?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500786587390?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500260127494?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500968915163?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500156042043?w=800&q=80&category=interior"
+    ],
+    "agent": {
+      "id": "A3",
+      "name": "Agent 94",
+      "phone": "+22 778 670 5588",
+      "email": "agent57@iwrealty.com",
+      "photo": "/images/icons/png/berlin-urban-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": false,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": true,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-01-09T10:50:47.217Z",
+    "updatedAt": "2025-11-13T10:50:47.217Z",
+    "storeId": "store-009"
+  },
+  {
+    "id": "P03591",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Villa - French Guiana City",
+    "slug": "satilik-villa-french-guiana-city-P03591",
+    "description": "French Guiana City, French Guiana bölgesinde villa. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 14380187,
+    "location": {
+      "country": "GF",
+      "city": "French Guiana City",
+      "district": "French Guiana City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 776",
+      "coordinates": {
+        "lat": 3.8392686717143842,
+        "lng": -53.43359327279939
+      }
+    },
+    "specs": {
+      "netSize": 196,
+      "grossSize": 235,
+      "rooms": "2+2",
+      "bathrooms": 3,
+      "age": 19,
+      "floor": 5,
+      "totalFloors": 19,
+      "heating": "Kombi",
+      "furnishing": "Unfurnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500152924546?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500511331335?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500702756273?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500052999603?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500218115782?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500121751035?w=800&q=80&category=architecture"
+    ],
+    "agent": {
+      "id": "A51",
+      "name": "Agent 49",
+      "phone": "+11 201 914 2382",
+      "email": "agent16@iwrealty.com",
+      "photo": "/images/icons/png/ankara-modern-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": false,
+      "hasBalcony": false,
+      "hasGarden": true,
+      "hasPool": true,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-04-20T10:50:47.217Z",
+    "updatedAt": "2025-11-13T10:50:47.217Z",
+    "storeId": "store-003"
+  },
+  {
+    "id": "P03592",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Daire - Cayenne",
+    "slug": "kiralik-daire-cayenne-P03592",
+    "description": "Cayenne, French Guiana bölgesinde daire. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 10091659,
+    "location": {
+      "country": "GF",
+      "city": "Cayenne",
+      "district": "Cayenne Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 714",
+      "coordinates": {
+        "lat": 3.9538268454002647,
+        "lng": -53.39785227786947
+      }
+    },
+    "specs": {
+      "netSize": 232,
+      "grossSize": 278,
+      "rooms": "3+0",
+      "bathrooms": 4,
+      "age": 2,
+      "floor": 3,
+      "totalFloors": 11,
+      "heating": "Klima",
+      "furnishing": "Unfurnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500612699839?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500262640405?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500932095680?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500328752433?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500724689767?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500523302583?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500141567767?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500200330136?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500250269104?w=800&q=80&category=real-estate"
+    ],
+    "agent": {
+      "id": "A48",
+      "name": "Agent 94",
+      "phone": "+84 336 865 2007",
+      "email": "agent93@iwrealty.com",
+      "photo": "/images/icons/png/sydney-coastal-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": false,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-08-03T10:50:47.217Z",
+    "updatedAt": "2025-11-13T10:50:47.217Z",
+    "storeId": "store-012"
+  },
+  {
+    "id": "P03593",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Daire - French Guiana Central",
+    "slug": "satilik-daire-french-guiana-central-P03593",
+    "description": "French Guiana Central, French Guiana bölgesinde daire. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 3024784,
+    "location": {
+      "country": "GF",
+      "city": "French Guiana Central",
+      "district": "French Guiana Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 342",
+      "coordinates": {
+        "lat": 3.692022405303126,
+        "lng": -53.385739967861134
+      }
+    },
+    "specs": {
+      "netSize": 374,
+      "grossSize": 449,
+      "rooms": "2+0",
+      "bathrooms": 2,
+      "age": 8,
+      "floor": 3,
+      "totalFloors": 11,
+      "heating": "Merkezi",
+      "furnishing": "Furnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500858578117?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500724262954?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500094406129?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500516719630?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500025456477?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500130961804?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500816961377?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500021699106?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500739328935?w=800&q=80&category=interior"
+    ],
+    "agent": {
+      "id": "A74",
+      "name": "Agent 82",
+      "phone": "+24 623 724 4924",
+      "email": "agent74@iwrealty.com",
+      "photo": "/images/icons/png/ankara-modern-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-03-24T10:50:47.217Z",
+    "updatedAt": "2025-11-13T10:50:47.217Z",
+    "storeId": "store-003"
+  },
+  {
+    "id": "P03594",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Villa - New French Guiana",
+    "slug": "kiralik-villa-new-french-guiana-P03594",
+    "description": "New French Guiana, French Guiana bölgesinde villa. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 6827110,
+    "location": {
+      "country": "GF",
+      "city": "New French Guiana",
+      "district": "New French Guiana Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 904",
+      "coordinates": {
+        "lat": 3.8553819418340978,
+        "lng": -53.01313497127941
+      }
+    },
+    "specs": {
+      "netSize": 490,
+      "grossSize": 588,
+      "rooms": "2+0",
+      "bathrooms": 2,
+      "age": 1,
+      "floor": 1,
+      "totalFloors": 7,
+      "heating": "Klima",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500688969452?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500354948809?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500009435552?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500630692334?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500235689404?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500725567069?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500848957490?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500355617114?w=800&q=80&category=interior"
+    ],
+    "agent": {
+      "id": "A23",
+      "name": "Agent 63",
+      "phone": "+12 614 235 3171",
+      "email": "agent22@iwrealty.com",
+      "photo": "/images/icons/png/luxury-homes-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": false,
+      "hasBalcony": false,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-03-08T10:50:47.217Z",
+    "updatedAt": "2025-11-13T10:50:47.217Z",
+    "storeId": "store-002"
+  },
+  {
+    "id": "P03595",
+    "type": "sale",
+    "category": {
+      "main": "commercial",
+      "sub": "hospital"
+    },
+    "title": "Satılık Hastane - French Guiana Central",
+    "slug": "satilik-hastane-french-guiana-central-P03595",
+    "description": "French Guiana Central, French Guiana bölgesinde hastane. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 30416872,
+    "location": {
+      "country": "GF",
+      "city": "French Guiana Central",
+      "district": "French Guiana Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 332",
+      "coordinates": {
+        "lat": 4.447436062186186,
+        "lng": -53.03930950680168
+      }
+    },
+    "specs": {
+      "netSize": 10124,
+      "grossSize": 12149,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 20,
+      "floor": 9,
+      "totalFloors": 9,
+      "heating": "Klima",
+      "furnishing": "Unfurnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500488826159?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500165223718?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500961385257?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500289176280?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500104335773?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500894597691?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500525671015?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500838936369?w=800&q=80&category=building"
+    ],
+    "agent": {
+      "id": "A60",
+      "name": "Agent 85",
+      "phone": "+24 836 209 8838",
+      "email": "agent59@iwrealty.com",
+      "photo": "/images/icons/png/paris-heritage-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": true,
+      "hasPool": true,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-07-27T10:50:47.217Z",
+    "updatedAt": "2025-11-13T10:50:47.217Z",
+    "storeId": "store-010"
+  },
+  {
+    "id": "P03596",
+    "type": "rent",
+    "category": {
+      "main": "commercial",
+      "sub": "hospital"
+    },
+    "title": "Kiralık Hastane - New French Guiana",
+    "slug": "kiralik-hastane-new-french-guiana-P03596",
+    "description": "New French Guiana, French Guiana bölgesinde hastane. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 53027639,
+    "location": {
+      "country": "GF",
+      "city": "New French Guiana",
+      "district": "New French Guiana Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 110",
+      "coordinates": {
+        "lat": 4.1804728599711165,
+        "lng": -52.854015016668264
+      }
+    },
+    "specs": {
+      "netSize": 16055,
+      "grossSize": 19266,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 4,
+      "floor": 2,
+      "totalFloors": 18,
+      "heating": "Klima",
+      "furnishing": "Unfurnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500729985472?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500668871665?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500045593202?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500667289070?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500281337864?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500191859517?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500140669715?w=800&q=80&category=building"
+    ],
+    "agent": {
+      "id": "A44",
+      "name": "Agent 4",
+      "phone": "+78 763 469 8738",
+      "email": "agent97@iwrealty.com",
+      "photo": "/images/icons/png/paris-heritage-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": true,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-07-13T10:50:47.217Z",
+    "updatedAt": "2025-11-13T10:50:47.217Z",
+    "storeId": "store-010"
+  },
+  {
+    "id": "P03597",
+    "type": "sale",
+    "category": {
+      "main": "commercial",
+      "sub": "clinic"
+    },
+    "title": "Satılık Klinik - French Guiana City",
+    "slug": "satilik-klinik-french-guiana-city-P03597",
+    "description": "French Guiana City, French Guiana bölgesinde klinik. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 18266624,
+    "location": {
+      "country": "GF",
+      "city": "French Guiana City",
+      "district": "French Guiana City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 944",
+      "coordinates": {
+        "lat": 4.0572904357778175,
+        "lng": -52.53666531119813
+      }
+    },
+    "specs": {
+      "netSize": 959,
+      "grossSize": 1151,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 14,
+      "floor": 14,
+      "totalFloors": 6,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Unfurnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500510905736?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500839929482?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500570923188?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500021942312?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500469024212?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500442600363?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500436506015?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500037971023?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500588292762?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500971874823?w=800&q=80&category=house"
+    ],
+    "agent": {
+      "id": "A22",
+      "name": "Agent 48",
+      "phone": "+31 463 321 6928",
+      "email": "agent51@iwrealty.com",
+      "photo": "/images/icons/png/luxury-homes-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": false,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": true,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-10-01T10:50:47.217Z",
+    "updatedAt": "2025-11-13T10:50:47.217Z",
+    "storeId": "store-002"
+  },
+  {
+    "id": "P03598",
+    "type": "rent",
+    "category": {
+      "main": "commercial",
+      "sub": "clinic"
+    },
+    "title": "Kiralık Klinik - New French Guiana",
+    "slug": "kiralik-klinik-new-french-guiana-P03598",
+    "description": "New French Guiana, French Guiana bölgesinde klinik. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 11959236,
+    "location": {
+      "country": "GF",
+      "city": "New French Guiana",
+      "district": "New French Guiana Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 940",
+      "coordinates": {
+        "lat": 4.2427847413993645,
+        "lng": -53.38084988806913
+      }
+    },
+    "specs": {
+      "netSize": 577,
+      "grossSize": 692,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 2,
+      "floor": 5,
+      "totalFloors": 16,
+      "heating": "Kombi",
+      "furnishing": "Furnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500579166724?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500973810095?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500865864202?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500740628129?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500014014777?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500895967179?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500388234803?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500555614898?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500744017748?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500262695086?w=800&q=80&category=real-estate"
+    ],
+    "agent": {
+      "id": "A75",
+      "name": "Agent 87",
+      "phone": "+92 989 954 1690",
+      "email": "agent59@iwrealty.com",
+      "photo": "/images/icons/png/antalya-investment-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-04-17T10:50:47.217Z",
+    "updatedAt": "2025-11-13T10:50:47.217Z",
+    "storeId": "store-006"
+  },
+  {
+    "id": "P03599",
+    "type": "sale",
+    "category": {
+      "main": "commercial",
+      "sub": "shop"
+    },
+    "title": "Satılık Dükkan - New French Guiana",
+    "slug": "satilik-dükkan-new-french-guiana-P03599",
+    "description": "New French Guiana, French Guiana bölgesinde dükkan. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 6145166,
+    "location": {
+      "country": "GF",
+      "city": "New French Guiana",
+      "district": "New French Guiana Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 50",
+      "coordinates": {
+        "lat": 3.703392450296467,
+        "lng": -53.367524613265864
+      }
+    },
+    "specs": {
+      "netSize": 55,
+      "grossSize": 66,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 7,
+      "floor": 6,
+      "totalFloors": 7,
+      "heating": "Kombi",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500387153256?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500448325256?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500930125401?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500175894112?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500208077469?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500193734753?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500151291022?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500338253259?w=800&q=80&category=real-estate"
+    ],
+    "agent": {
+      "id": "A43",
+      "name": "Agent 86",
+      "phone": "+63 756 282 6246",
+      "email": "agent11@iwrealty.com",
+      "photo": "/images/icons/png/antalya-investment-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": false,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": true,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-08-06T10:50:47.217Z",
+    "updatedAt": "2025-11-13T10:50:47.217Z",
+    "storeId": "store-006"
+  },
+  {
+    "id": "P03600",
+    "type": "rent",
+    "category": {
+      "main": "commercial",
+      "sub": "shop"
+    },
+    "title": "Kiralık Dükkan - New French Guiana",
+    "slug": "kiralik-dükkan-new-french-guiana-P03600",
+    "description": "New French Guiana, French Guiana bölgesinde dükkan. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 5445445,
+    "location": {
+      "country": "GF",
+      "city": "New French Guiana",
+      "district": "New French Guiana Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 174",
+      "coordinates": {
+        "lat": 3.6109740887359694,
+        "lng": -53.00011074811714
+      }
+    },
+    "specs": {
+      "netSize": 320,
+      "grossSize": 384,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 12,
+      "floor": 5,
+      "totalFloors": 7,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500818817399?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500286115733?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500948857359?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500647671142?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500006317877?w=800&q=80&category=house"
+    ],
+    "agent": {
+      "id": "A21",
+      "name": "Agent 62",
+      "phone": "+94 794 570 6080",
+      "email": "agent43@iwrealty.com",
+      "photo": "/images/icons/png/sydney-coastal-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": false,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": true,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-09-27T10:50:47.217Z",
+    "updatedAt": "2025-11-13T10:50:47.217Z",
+    "storeId": "store-012"
+  },
+  {
+    "id": "P03601",
+    "type": "sale",
+    "category": {
+      "main": "commercial",
+      "sub": "office"
+    },
+    "title": "Satılık Ofis - French Guiana Central",
+    "slug": "satilik-ofis-french-guiana-central-P03601",
+    "description": "French Guiana Central, French Guiana bölgesinde ofis. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 4230983,
+    "location": {
+      "country": "GF",
+      "city": "French Guiana Central",
+      "district": "French Guiana Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 125",
+      "coordinates": {
+        "lat": 3.8259008132171495,
+        "lng": -52.70790424090303
+      }
+    },
+    "specs": {
+      "netSize": 367,
+      "grossSize": 440,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 3,
+      "floor": 4,
+      "totalFloors": 7,
+      "heating": "Merkezi",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500312211032?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500011953700?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500594046340?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500365566537?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500776725112?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500614208768?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500837504346?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500069011097?w=800&q=80&category=interior"
+    ],
+    "agent": {
+      "id": "A17",
+      "name": "Agent 50",
+      "phone": "+81 597 833 4103",
+      "email": "agent37@iwrealty.com",
+      "photo": "/images/icons/png/london-prime-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-08-05T10:50:47.217Z",
+    "updatedAt": "2025-11-13T10:50:47.217Z",
+    "storeId": "store-007"
+  },
+  {
+    "id": "P03602",
+    "type": "rent",
+    "category": {
+      "main": "commercial",
+      "sub": "office"
+    },
+    "title": "Kiralık Ofis - French Guiana City",
+    "slug": "kiralik-ofis-french-guiana-city-P03602",
+    "description": "French Guiana City, French Guiana bölgesinde ofis. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 3521190,
+    "location": {
+      "country": "GF",
+      "city": "French Guiana City",
+      "district": "French Guiana City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 752",
+      "coordinates": {
+        "lat": 4.143949064702004,
+        "lng": -53.26655347876814
+      }
+    },
+    "specs": {
+      "netSize": 790,
+      "grossSize": 948,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 2,
+      "floor": 7,
+      "totalFloors": 10,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Unfurnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500077127191?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500653956614?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500932999310?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500925665794?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500697675641?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500775185017?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500853481683?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500733073540?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500080880317?w=800&q=80&category=real-estate"
+    ],
+    "agent": {
+      "id": "A13",
+      "name": "Agent 86",
+      "phone": "+23 669 416 4479",
+      "email": "agent10@iwrealty.com",
+      "photo": "/images/icons/png/ny-skyline-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": true,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-10-23T10:50:47.217Z",
+    "updatedAt": "2025-11-13T10:50:47.217Z",
+    "storeId": "store-008"
+  },
+  {
+    "id": "P03603",
+    "type": "sale",
+    "category": {
+      "main": "commercial",
+      "sub": "mall"
+    },
+    "title": "Satılık AVM - French Guiana City",
+    "slug": "satilik-avm-french-guiana-city-P03603",
+    "description": "French Guiana City, French Guiana bölgesinde avm. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 420226636,
+    "location": {
+      "country": "GF",
+      "city": "French Guiana City",
+      "district": "French Guiana City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 527",
+      "coordinates": {
+        "lat": 4.293176150312107,
+        "lng": -52.59766018732812
+      }
+    },
+    "specs": {
+      "netSize": 42500,
+      "grossSize": 51000,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 2,
+      "floor": 3,
+      "totalFloors": 9,
+      "heating": "Merkezi",
+      "furnishing": "Furnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500828387457?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500432877822?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500998308644?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500380039642?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500232919895?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500001307375?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500870110006?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500173413210?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500901378835?w=800&q=80&category=architecture"
+    ],
+    "agent": {
+      "id": "A100",
+      "name": "Agent 11",
+      "phone": "+41 130 354 2683",
+      "email": "agent99@iwrealty.com",
+      "photo": "/images/icons/png/antalya-investment-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": true,
+      "hasSecurity": false
+    },
+    "createdAt": "2024-12-22T10:50:47.217Z",
+    "updatedAt": "2025-11-13T10:50:47.217Z",
+    "storeId": "store-006"
+  },
+  {
+    "id": "P03604",
+    "type": "rent",
+    "category": {
+      "main": "commercial",
+      "sub": "mall"
+    },
+    "title": "Kiralık AVM - French Guiana City",
+    "slug": "kiralik-avm-french-guiana-city-P03604",
+    "description": "French Guiana City, French Guiana bölgesinde avm. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 95278725,
+    "location": {
+      "country": "GF",
+      "city": "French Guiana City",
+      "district": "French Guiana City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 210",
+      "coordinates": {
+        "lat": 4.361978422666168,
+        "lng": -52.98578982894163
+      }
+    },
+    "specs": {
+      "netSize": 42081,
+      "grossSize": 50497,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 7,
+      "floor": 1,
+      "totalFloors": 20,
+      "heating": "Klima",
+      "furnishing": "Unfurnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500014756010?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500064465510?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500856954207?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500333123096?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500074444579?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500485675148?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500500093080?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500032178824?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500825072780?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500883552257?w=800&q=80&category=interior"
+    ],
+    "agent": {
+      "id": "A64",
+      "name": "Agent 61",
+      "phone": "+31 495 227 1979",
+      "email": "agent84@iwrealty.com",
+      "photo": "/images/icons/png/berlin-urban-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": true,
+      "hasSecurity": false
+    },
+    "createdAt": "2024-11-29T10:50:47.217Z",
+    "updatedAt": "2025-11-13T10:50:47.217Z",
+    "storeId": "store-009"
+  },
+  {
+    "id": "P03605",
+    "type": "sale",
+    "category": {
+      "main": "commercial",
+      "sub": "hotel"
+    },
+    "title": "Satılık Otel - New French Guiana",
+    "slug": "satilik-otel-new-french-guiana-P03605",
+    "description": "New French Guiana, French Guiana bölgesinde otel. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 105927143,
+    "location": {
+      "country": "GF",
+      "city": "New French Guiana",
+      "district": "New French Guiana Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 508",
+      "coordinates": {
+        "lat": 3.727132042453532,
+        "lng": -52.95421596123439
+      }
+    },
+    "specs": {
+      "netSize": 27790,
+      "grossSize": 33348,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 8,
+      "floor": 14,
+      "totalFloors": 12,
+      "heating": "Klima",
+      "furnishing": "Furnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500670199340?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500078656446?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500524130444?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500924182220?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500888943375?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500258597820?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500580217398?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500578466361?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500487157080?w=800&q=80&category=real-estate"
+    ],
+    "agent": {
+      "id": "A71",
+      "name": "Agent 61",
+      "phone": "+55 377 953 8695",
+      "email": "agent90@iwrealty.com",
+      "photo": "/images/icons/png/sydney-coastal-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2024-11-24T10:50:47.217Z",
+    "updatedAt": "2025-11-13T10:50:47.217Z",
+    "storeId": "store-012"
+  },
+  {
+    "id": "P03606",
+    "type": "rent",
+    "category": {
+      "main": "commercial",
+      "sub": "hotel"
+    },
+    "title": "Kiralık Otel - French Guiana City",
+    "slug": "kiralik-otel-french-guiana-city-P03606",
+    "description": "French Guiana City, French Guiana bölgesinde otel. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 192539369,
+    "location": {
+      "country": "GF",
+      "city": "French Guiana City",
+      "district": "French Guiana City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 358",
+      "coordinates": {
+        "lat": 4.168684240347923,
+        "lng": -52.51395666652322
+      }
+    },
+    "specs": {
+      "netSize": 20890,
+      "grossSize": 25068,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 7,
+      "floor": 7,
+      "totalFloors": 15,
+      "heating": "Merkezi",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500086389353?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500985281346?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500103648570?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500273369904?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500211408627?w=800&q=80&category=house"
+    ],
+    "agent": {
+      "id": "A16",
+      "name": "Agent 81",
+      "phone": "+91 389 654 5436",
+      "email": "agent95@iwrealty.com",
+      "photo": "/images/icons/png/ny-skyline-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-07-31T10:50:47.217Z",
+    "updatedAt": "2025-11-13T10:50:47.217Z",
+    "storeId": "store-008"
+  },
+  {
+    "id": "P03607",
+    "type": "sale",
+    "category": {
+      "main": "commercial",
+      "sub": "restaurant"
+    },
+    "title": "Satılık Restoran - French Guiana Central",
+    "slug": "satilik-restoran-french-guiana-central-P03607",
+    "description": "French Guiana Central, French Guiana bölgesinde restoran. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 9217511,
+    "location": {
+      "country": "GF",
+      "city": "French Guiana Central",
+      "district": "French Guiana Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 966",
+      "coordinates": {
+        "lat": 4.4866817298049755,
+        "lng": -52.74115128281723
+      }
+    },
+    "specs": {
+      "netSize": 601,
+      "grossSize": 721,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 4,
+      "floor": 6,
+      "totalFloors": 16,
+      "heating": "Kombi",
+      "furnishing": "Furnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500398939166?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500231164888?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500905595202?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500850092395?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500979381686?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500156428132?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500627937261?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500989744895?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500724919477?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500944887644?w=800&q=80&category=building"
+    ],
+    "agent": {
+      "id": "A45",
+      "name": "Agent 86",
+      "phone": "+15 415 782 1359",
+      "email": "agent8@iwrealty.com",
+      "photo": "/images/icons/png/sydney-coastal-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-07-17T10:50:47.217Z",
+    "updatedAt": "2025-11-13T10:50:47.217Z",
+    "storeId": "store-012"
+  },
+  {
+    "id": "P03608",
+    "type": "rent",
+    "category": {
+      "main": "commercial",
+      "sub": "restaurant"
+    },
+    "title": "Kiralık Restoran - French Guiana Central",
+    "slug": "kiralik-restoran-french-guiana-central-P03608",
+    "description": "French Guiana Central, French Guiana bölgesinde restoran. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 1045237,
+    "location": {
+      "country": "GF",
+      "city": "French Guiana Central",
+      "district": "French Guiana Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 56",
+      "coordinates": {
+        "lat": 4.476327966362425,
+        "lng": -53.46267692832381
+      }
+    },
+    "specs": {
+      "netSize": 732,
+      "grossSize": 878,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 1,
+      "floor": 12,
+      "totalFloors": 10,
+      "heating": "Klima",
+      "furnishing": "Unfurnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500463840903?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500890412148?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500832360955?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500527801276?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500445941900?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500283394454?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500978938424?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500756381738?w=800&q=80&category=architecture"
+    ],
+    "agent": {
+      "id": "A7",
+      "name": "Agent 98",
+      "phone": "+59 972 905 4247",
+      "email": "agent24@iwrealty.com",
+      "photo": "/images/icons/png/berlin-urban-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": true,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-05-26T10:50:47.217Z",
+    "updatedAt": "2025-11-13T10:50:47.217Z",
+    "storeId": "store-009"
+  },
+  {
+    "id": "P03609",
+    "type": "sale",
+    "category": {
+      "main": "commercial",
+      "sub": "warehouse"
+    },
+    "title": "Satılık Depo - French Guiana Central",
+    "slug": "satilik-depo-french-guiana-central-P03609",
+    "description": "French Guiana Central, French Guiana bölgesinde depo. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 27391394,
+    "location": {
+      "country": "GF",
+      "city": "French Guiana Central",
+      "district": "French Guiana Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 50",
+      "coordinates": {
+        "lat": 4.256273482176287,
+        "lng": -52.7564073123585
+      }
+    },
+    "specs": {
+      "netSize": 9360,
+      "grossSize": 11232,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 18,
+      "floor": 13,
+      "totalFloors": 16,
+      "heating": "Klima",
+      "furnishing": "Unfurnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500517088119?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500113184346?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500510517858?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500923692722?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500639200933?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500799161210?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500487711667?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500193061787?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500478929532?w=800&q=80&category=interior"
+    ],
+    "agent": {
+      "id": "A52",
+      "name": "Agent 10",
+      "phone": "+31 852 208 5543",
+      "email": "agent43@iwrealty.com",
+      "photo": "/images/icons/png/luxury-homes-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-06-07T10:50:47.217Z",
+    "updatedAt": "2025-11-13T10:50:47.217Z",
+    "storeId": "store-002"
+  },
+  {
+    "id": "P03610",
+    "type": "rent",
+    "category": {
+      "main": "commercial",
+      "sub": "warehouse"
+    },
+    "title": "Kiralık Depo - New French Guiana",
+    "slug": "kiralik-depo-new-french-guiana-P03610",
+    "description": "New French Guiana, French Guiana bölgesinde depo. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 6192277,
+    "location": {
+      "country": "GF",
+      "city": "New French Guiana",
+      "district": "New French Guiana Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 175",
+      "coordinates": {
+        "lat": 3.6675600369497117,
+        "lng": -52.818217661396744
+      }
+    },
+    "specs": {
+      "netSize": 3015,
+      "grossSize": 3618,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 8,
+      "floor": 4,
+      "totalFloors": 5,
+      "heating": "Kombi",
+      "furnishing": "Furnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500283454214?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500568539404?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500774063272?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500953181139?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500337112901?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500821261554?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500937115436?w=800&q=80&category=house"
+    ],
+    "agent": {
+      "id": "A77",
+      "name": "Agent 65",
+      "phone": "+58 861 728 2543",
+      "email": "agent3@iwrealty.com",
+      "photo": "/images/icons/png/sg-harbour-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": false,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-08-22T10:50:47.217Z",
+    "updatedAt": "2025-11-13T10:50:47.217Z",
+    "storeId": "store-011"
+  }
+]

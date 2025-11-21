@@ -1,0 +1,2350 @@
+[
+  {
+    "id": "P00837",
+    "type": "sale",
+    "category": {
+      "main": "government"
+    },
+    "title": "Satılık Devlet Binası - Sofia",
+    "slug": "satilik-devlet-binası-sofia-P00837",
+    "description": "Sofia, Bulgaria bölgesinde devlet binası. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 20077589,
+    "location": {
+      "country": "BG",
+      "city": "Sofia",
+      "district": "Sofia Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 361",
+      "coordinates": {
+        "lat": 43.44917192359737,
+        "lng": 25.385960760571358
+      }
+    },
+    "specs": {
+      "netSize": 3140,
+      "grossSize": 3768,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 5,
+      "floor": 10,
+      "totalFloors": 9,
+      "heating": "Merkezi",
+      "furnishing": "Furnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500636199006?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500528051889?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500023555204?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500422469088?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500470028859?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500911962608?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500704343849?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500934234962?w=800&q=80&category=interior"
+    ],
+    "agent": {
+      "id": "A34",
+      "name": "Agent 1",
+      "phone": "+52 653 367 5197",
+      "email": "agent22@iwrealty.com",
+      "photo": "/images/icons/png/izmir-sahil-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": false,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-04-02T10:50:47.185Z",
+    "updatedAt": "2025-11-13T10:50:47.185Z",
+    "storeId": "store-005"
+  },
+  {
+    "id": "P00838",
+    "type": "rent",
+    "category": {
+      "main": "government"
+    },
+    "title": "Kiralık Devlet Binası - Bulgaria City",
+    "slug": "kiralik-devlet-binası-bulgaria-city-P00838",
+    "description": "Bulgaria City, Bulgaria bölgesinde devlet binası. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 27993466,
+    "location": {
+      "country": "BG",
+      "city": "Bulgaria City",
+      "district": "Bulgaria City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 546",
+      "coordinates": {
+        "lat": 43.03069734535094,
+        "lng": 25.01966261534047
+      }
+    },
+    "specs": {
+      "netSize": 4899,
+      "grossSize": 5879,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 8,
+      "floor": 8,
+      "totalFloors": 9,
+      "heating": "Kombi",
+      "furnishing": "Unfurnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500708532543?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500025242562?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500134012447?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500544340923?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500523323395?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500037208719?w=800&q=80&category=real-estate"
+    ],
+    "agent": {
+      "id": "A78",
+      "name": "Agent 71",
+      "phone": "+71 726 589 3168",
+      "email": "agent14@iwrealty.com",
+      "photo": "/images/icons/png/paris-heritage-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": true,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-07-23T10:50:47.185Z",
+    "updatedAt": "2025-11-13T10:50:47.185Z",
+    "storeId": "store-010"
+  },
+  {
+    "id": "P00839",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Residence - Bulgaria Central",
+    "slug": "satilik-residence-bulgaria-central-P00839",
+    "description": "Bulgaria Central, Bulgaria bölgesinde residence. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 4291975,
+    "location": {
+      "country": "BG",
+      "city": "Bulgaria Central",
+      "district": "Bulgaria Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 328",
+      "coordinates": {
+        "lat": 42.65931163916019,
+        "lng": 24.848621487511174
+      }
+    },
+    "specs": {
+      "netSize": 313,
+      "grossSize": 376,
+      "rooms": "5+1",
+      "bathrooms": 3,
+      "age": 20,
+      "floor": 5,
+      "totalFloors": 14,
+      "heating": "Merkezi",
+      "furnishing": "Furnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500429923389?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500134288961?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500380299923?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500998543760?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500988081857?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500730619424?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500761792432?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500129461403?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500595322872?w=800&q=80&category=interior"
+    ],
+    "agent": {
+      "id": "A8",
+      "name": "Agent 36",
+      "phone": "+23 489 147 5744",
+      "email": "agent69@iwrealty.com",
+      "photo": "/images/icons/png/antalya-investment-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-07-22T10:50:47.185Z",
+    "updatedAt": "2025-11-13T10:50:47.185Z",
+    "storeId": "store-006"
+  },
+  {
+    "id": "P00840",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Müstakil Ev - Bulgaria City",
+    "slug": "kiralik-müstakil-ev-bulgaria-city-P00840",
+    "description": "Bulgaria City, Bulgaria bölgesinde müstakil ev. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 12673813,
+    "location": {
+      "country": "BG",
+      "city": "Bulgaria City",
+      "district": "Bulgaria City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 261",
+      "coordinates": {
+        "lat": 42.800898450294696,
+        "lng": 25.08055846755102
+      }
+    },
+    "specs": {
+      "netSize": 393,
+      "grossSize": 472,
+      "rooms": "5+0",
+      "bathrooms": 1,
+      "age": 20,
+      "floor": 10,
+      "totalFloors": 17,
+      "heating": "Klima",
+      "furnishing": "Furnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500449504886?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500535347769?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500360824677?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500717644704?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500290278055?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500043072063?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500488706909?w=800&q=80&category=architecture"
+    ],
+    "agent": {
+      "id": "A86",
+      "name": "Agent 19",
+      "phone": "+84 692 972 9980",
+      "email": "agent64@iwrealty.com",
+      "photo": "/images/icons/png/luxury-homes-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2024-11-13T10:50:47.185Z",
+    "updatedAt": "2025-11-13T10:50:47.185Z",
+    "storeId": "store-002"
+  },
+  {
+    "id": "P00841",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Residence - New Bulgaria",
+    "slug": "satilik-residence-new-bulgaria-P00841",
+    "description": "New Bulgaria, Bulgaria bölgesinde residence. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 3971278,
+    "location": {
+      "country": "BG",
+      "city": "New Bulgaria",
+      "district": "New Bulgaria Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 862",
+      "coordinates": {
+        "lat": 43.09323097253904,
+        "lng": 24.506672401912287
+      }
+    },
+    "specs": {
+      "netSize": 395,
+      "grossSize": 474,
+      "rooms": "5+2",
+      "bathrooms": 1,
+      "age": 4,
+      "floor": 3,
+      "totalFloors": 6,
+      "heating": "Klima",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500601684136?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500101687883?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500616140838?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500258430000?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500764230883?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500996712524?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500229330455?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500786516994?w=800&q=80&category=interior"
+    ],
+    "agent": {
+      "id": "A63",
+      "name": "Agent 97",
+      "phone": "+38 264 907 7522",
+      "email": "agent73@iwrealty.com",
+      "photo": "/images/icons/png/london-prime-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-02-12T10:50:47.185Z",
+    "updatedAt": "2025-11-13T10:50:47.185Z",
+    "storeId": "store-007"
+  },
+  {
+    "id": "P00842",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Daire - Bulgaria City",
+    "slug": "kiralik-daire-bulgaria-city-P00842",
+    "description": "Bulgaria City, Bulgaria bölgesinde daire. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 7287691,
+    "location": {
+      "country": "BG",
+      "city": "Bulgaria City",
+      "district": "Bulgaria City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 740",
+      "coordinates": {
+        "lat": 43.124339330563366,
+        "lng": 25.472393322752236
+      }
+    },
+    "specs": {
+      "netSize": 104,
+      "grossSize": 125,
+      "rooms": "2+2",
+      "bathrooms": 4,
+      "age": 15,
+      "floor": 15,
+      "totalFloors": 16,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Furnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500903558638?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500104375002?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500336087271?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500905325591?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500870942927?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500642018851?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500525442287?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500705112860?w=800&q=80&category=interior"
+    ],
+    "agent": {
+      "id": "A50",
+      "name": "Agent 21",
+      "phone": "+36 744 319 4991",
+      "email": "agent63@iwrealty.com",
+      "photo": "/images/icons/png/london-prime-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": false,
+      "hasBalcony": false,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-03-07T10:50:47.185Z",
+    "updatedAt": "2025-11-13T10:50:47.185Z",
+    "storeId": "store-007"
+  },
+  {
+    "id": "P00843",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Villa - Bulgaria City",
+    "slug": "satilik-villa-bulgaria-city-P00843",
+    "description": "Bulgaria City, Bulgaria bölgesinde villa. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 9444434,
+    "location": {
+      "country": "BG",
+      "city": "Bulgaria City",
+      "district": "Bulgaria City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 48",
+      "coordinates": {
+        "lat": 42.93179170567784,
+        "lng": 24.506043288476878
+      }
+    },
+    "specs": {
+      "netSize": 356,
+      "grossSize": 427,
+      "rooms": "2+0",
+      "bathrooms": 3,
+      "age": 8,
+      "floor": 12,
+      "totalFloors": 16,
+      "heating": "Merkezi",
+      "furnishing": "Unfurnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500788119848?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500513368009?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500612177557?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500062217586?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500880130531?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500586121872?w=800&q=80&category=real-estate"
+    ],
+    "agent": {
+      "id": "A38",
+      "name": "Agent 11",
+      "phone": "+67 695 988 3039",
+      "email": "agent51@iwrealty.com",
+      "photo": "/images/icons/png/izmir-sahil-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-07-21T10:50:47.185Z",
+    "updatedAt": "2025-11-13T10:50:47.185Z",
+    "storeId": "store-005"
+  },
+  {
+    "id": "P00844",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Daire - New Bulgaria",
+    "slug": "kiralik-daire-new-bulgaria-P00844",
+    "description": "New Bulgaria, Bulgaria bölgesinde daire. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 5084098,
+    "location": {
+      "country": "BG",
+      "city": "New Bulgaria",
+      "district": "New Bulgaria Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 613",
+      "coordinates": {
+        "lat": 43.19115960065567,
+        "lng": 24.652495803063474
+      }
+    },
+    "specs": {
+      "netSize": 113,
+      "grossSize": 136,
+      "rooms": "4+1",
+      "bathrooms": 3,
+      "age": 7,
+      "floor": 3,
+      "totalFloors": 17,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Unfurnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500638751586?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500521003624?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500468002403?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500771162339?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500970032531?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500079017053?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500582903555?w=800&q=80&category=real-estate"
+    ],
+    "agent": {
+      "id": "A41",
+      "name": "Agent 91",
+      "phone": "+29 291 226 4350",
+      "email": "agent69@iwrealty.com",
+      "photo": "/images/icons/png/paris-heritage-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-10-29T10:50:47.185Z",
+    "updatedAt": "2025-11-13T10:50:47.185Z",
+    "storeId": "store-010"
+  },
+  {
+    "id": "P00845",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Villa - Bulgaria Central",
+    "slug": "satilik-villa-bulgaria-central-P00845",
+    "description": "Bulgaria Central, Bulgaria bölgesinde villa. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 14072435,
+    "location": {
+      "country": "BG",
+      "city": "Bulgaria Central",
+      "district": "Bulgaria Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 398",
+      "coordinates": {
+        "lat": 42.793381253375124,
+        "lng": 24.8272343762708
+      }
+    },
+    "specs": {
+      "netSize": 475,
+      "grossSize": 570,
+      "rooms": "1+1",
+      "bathrooms": 2,
+      "age": 6,
+      "floor": 12,
+      "totalFloors": 16,
+      "heating": "Klima",
+      "furnishing": "Furnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500240903786?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500872925651?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500496845975?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500776407575?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500468945524?w=800&q=80&category=architecture"
+    ],
+    "agent": {
+      "id": "A84",
+      "name": "Agent 82",
+      "phone": "+31 953 468 5411",
+      "email": "agent69@iwrealty.com",
+      "photo": "/images/icons/png/antalya-investment-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": true,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-08-14T10:50:47.185Z",
+    "updatedAt": "2025-11-13T10:50:47.185Z",
+    "storeId": "store-006"
+  },
+  {
+    "id": "P00846",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Müstakil Ev - New Bulgaria",
+    "slug": "kiralik-müstakil-ev-new-bulgaria-P00846",
+    "description": "New Bulgaria, Bulgaria bölgesinde müstakil ev. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 3961406,
+    "location": {
+      "country": "BG",
+      "city": "New Bulgaria",
+      "district": "New Bulgaria Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 762",
+      "coordinates": {
+        "lat": 42.52166867239386,
+        "lng": 24.71668612481149
+      }
+    },
+    "specs": {
+      "netSize": 407,
+      "grossSize": 488,
+      "rooms": "5+2",
+      "bathrooms": 4,
+      "age": 9,
+      "floor": 2,
+      "totalFloors": 8,
+      "heating": "Klima",
+      "furnishing": "Furnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500961507247?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500515511497?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500008465134?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500665489597?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500555295834?w=800&q=80&category=architecture"
+    ],
+    "agent": {
+      "id": "A73",
+      "name": "Agent 62",
+      "phone": "+32 505 846 6675",
+      "email": "agent25@iwrealty.com",
+      "photo": "/images/icons/png/berlin-urban-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": true,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-02-27T10:50:47.185Z",
+    "updatedAt": "2025-11-13T10:50:47.185Z",
+    "storeId": "store-009"
+  },
+  {
+    "id": "P00847",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Daire - New Bulgaria",
+    "slug": "satilik-daire-new-bulgaria-P00847",
+    "description": "New Bulgaria, Bulgaria bölgesinde daire. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 9529307,
+    "location": {
+      "country": "BG",
+      "city": "New Bulgaria",
+      "district": "New Bulgaria Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 975",
+      "coordinates": {
+        "lat": 43.02444388098353,
+        "lng": 25.2235953830547
+      }
+    },
+    "specs": {
+      "netSize": 178,
+      "grossSize": 214,
+      "rooms": "4+1",
+      "bathrooms": 1,
+      "age": 11,
+      "floor": 3,
+      "totalFloors": 16,
+      "heating": "Klima",
+      "furnishing": "Furnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500367431377?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500431227205?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500814208346?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500951535740?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500678794669?w=800&q=80&category=architecture"
+    ],
+    "agent": {
+      "id": "A5",
+      "name": "Agent 73",
+      "phone": "+76 365 397 3470",
+      "email": "agent79@iwrealty.com",
+      "photo": "/images/icons/png/dubai-property-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": false,
+      "hasBalcony": false,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-01-07T10:50:47.185Z",
+    "updatedAt": "2025-11-13T10:50:47.185Z",
+    "storeId": "store-004"
+  },
+  {
+    "id": "P00848",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Residence - Bulgaria City",
+    "slug": "kiralik-residence-bulgaria-city-P00848",
+    "description": "Bulgaria City, Bulgaria bölgesinde residence. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 13022384,
+    "location": {
+      "country": "BG",
+      "city": "Bulgaria City",
+      "district": "Bulgaria City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 579",
+      "coordinates": {
+        "lat": 42.72214105853081,
+        "lng": 25.412637527118665
+      }
+    },
+    "specs": {
+      "netSize": 355,
+      "grossSize": 426,
+      "rooms": "2+1",
+      "bathrooms": 4,
+      "age": 13,
+      "floor": 2,
+      "totalFloors": 12,
+      "heating": "Merkezi",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500916670853?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500643175513?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500021273190?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500902028688?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500345724133?w=800&q=80&category=building"
+    ],
+    "agent": {
+      "id": "A93",
+      "name": "Agent 82",
+      "phone": "+21 831 170 8058",
+      "email": "agent68@iwrealty.com",
+      "photo": "/images/icons/png/ankara-modern-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": true,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-10-02T10:50:47.185Z",
+    "updatedAt": "2025-11-13T10:50:47.185Z",
+    "storeId": "store-003"
+  },
+  {
+    "id": "P00849",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Residence - Bulgaria Central",
+    "slug": "satilik-residence-bulgaria-central-P00849",
+    "description": "Bulgaria Central, Bulgaria bölgesinde residence. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 2938786,
+    "location": {
+      "country": "BG",
+      "city": "Bulgaria Central",
+      "district": "Bulgaria Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 692",
+      "coordinates": {
+        "lat": 43.03931524988039,
+        "lng": 24.694573776325917
+      }
+    },
+    "specs": {
+      "netSize": 331,
+      "grossSize": 397,
+      "rooms": "3+1",
+      "bathrooms": 2,
+      "age": 20,
+      "floor": 1,
+      "totalFloors": 19,
+      "heating": "Klima",
+      "furnishing": "Unfurnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500249321545?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500295466112?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500574312144?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500445730177?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500692326777?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500330670733?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500591603916?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500089353259?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500103238757?w=800&q=80&category=building"
+    ],
+    "agent": {
+      "id": "A95",
+      "name": "Agent 45",
+      "phone": "+44 922 638 4530",
+      "email": "agent97@iwrealty.com",
+      "photo": "/images/icons/png/dubai-property-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-06-11T10:50:47.185Z",
+    "updatedAt": "2025-11-13T10:50:47.185Z",
+    "storeId": "store-004"
+  },
+  {
+    "id": "P00850",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Daire - New Bulgaria",
+    "slug": "kiralik-daire-new-bulgaria-P00850",
+    "description": "New Bulgaria, Bulgaria bölgesinde daire. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 14216505,
+    "location": {
+      "country": "BG",
+      "city": "New Bulgaria",
+      "district": "New Bulgaria Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 213",
+      "coordinates": {
+        "lat": 42.73558718635505,
+        "lng": 24.801191948966206
+      }
+    },
+    "specs": {
+      "netSize": 185,
+      "grossSize": 222,
+      "rooms": "5+0",
+      "bathrooms": 4,
+      "age": 8,
+      "floor": 3,
+      "totalFloors": 19,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Unfurnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500025806272?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500286269701?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500615400445?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500860614441?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500903844342?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500813415881?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500481582023?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500470132058?w=800&q=80&category=building"
+    ],
+    "agent": {
+      "id": "A100",
+      "name": "Agent 54",
+      "phone": "+32 472 671 8476",
+      "email": "agent44@iwrealty.com",
+      "photo": "/images/icons/png/ny-skyline-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": false,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-08-17T10:50:47.185Z",
+    "updatedAt": "2025-11-13T10:50:47.185Z",
+    "storeId": "store-008"
+  },
+  {
+    "id": "P00851",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Villa - New Bulgaria",
+    "slug": "satilik-villa-new-bulgaria-P00851",
+    "description": "New Bulgaria, Bulgaria bölgesinde villa. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 6567160,
+    "location": {
+      "country": "BG",
+      "city": "New Bulgaria",
+      "district": "New Bulgaria Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 840",
+      "coordinates": {
+        "lat": 42.84534793443788,
+        "lng": 24.51826776454204
+      }
+    },
+    "specs": {
+      "netSize": 187,
+      "grossSize": 224,
+      "rooms": "2+1",
+      "bathrooms": 2,
+      "age": 1,
+      "floor": 1,
+      "totalFloors": 5,
+      "heating": "Merkezi",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500417865827?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500592776652?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500353612517?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500212346956?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500031962849?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500846248183?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500909027376?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500018671465?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500213882820?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500266963867?w=800&q=80&category=architecture"
+    ],
+    "agent": {
+      "id": "A35",
+      "name": "Agent 99",
+      "phone": "+37 984 902 9058",
+      "email": "agent89@iwrealty.com",
+      "photo": "/images/icons/png/berlin-urban-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": true,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-05-21T10:50:47.185Z",
+    "updatedAt": "2025-11-13T10:50:47.185Z",
+    "storeId": "store-009"
+  },
+  {
+    "id": "P00852",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Müstakil Ev - Bulgaria City",
+    "slug": "kiralik-müstakil-ev-bulgaria-city-P00852",
+    "description": "Bulgaria City, Bulgaria bölgesinde müstakil ev. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 517532,
+    "location": {
+      "country": "BG",
+      "city": "Bulgaria City",
+      "district": "Bulgaria City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 472",
+      "coordinates": {
+        "lat": 42.99540374228929,
+        "lng": 25.114238302588678
+      }
+    },
+    "specs": {
+      "netSize": 377,
+      "grossSize": 452,
+      "rooms": "1+0",
+      "bathrooms": 2,
+      "age": 13,
+      "floor": 9,
+      "totalFloors": 5,
+      "heating": "Klima",
+      "furnishing": "Furnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500758287333?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500362008726?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500911446422?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500229060366?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500943424129?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500088870321?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500143194899?w=800&q=80&category=interior"
+    ],
+    "agent": {
+      "id": "A68",
+      "name": "Agent 20",
+      "phone": "+68 879 917 4162",
+      "email": "agent75@iwrealty.com",
+      "photo": "/images/icons/png/antalya-investment-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": false,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-04-22T10:50:47.185Z",
+    "updatedAt": "2025-11-13T10:50:47.185Z",
+    "storeId": "store-006"
+  },
+  {
+    "id": "P00853",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Müstakil Ev - Bulgaria Central",
+    "slug": "satilik-müstakil-ev-bulgaria-central-P00853",
+    "description": "Bulgaria Central, Bulgaria bölgesinde müstakil ev. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 14218421,
+    "location": {
+      "country": "BG",
+      "city": "Bulgaria Central",
+      "district": "Bulgaria Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 324",
+      "coordinates": {
+        "lat": 42.758088709539734,
+        "lng": 25.307242661678224
+      }
+    },
+    "specs": {
+      "netSize": 374,
+      "grossSize": 449,
+      "rooms": "1+2",
+      "bathrooms": 3,
+      "age": 19,
+      "floor": 15,
+      "totalFloors": 7,
+      "heating": "Klima",
+      "furnishing": "Furnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500815310092?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500636710708?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500763833687?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500249845330?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500627574884?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500423211010?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500833594058?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500325950459?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500927032998?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500762452401?w=800&q=80&category=interior"
+    ],
+    "agent": {
+      "id": "A41",
+      "name": "Agent 97",
+      "phone": "+71 392 778 9445",
+      "email": "agent69@iwrealty.com",
+      "photo": "/images/icons/png/dubai-property-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": false,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-07-17T10:50:47.185Z",
+    "updatedAt": "2025-11-13T10:50:47.185Z",
+    "storeId": "store-004"
+  },
+  {
+    "id": "P00854",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Villa - Bulgaria City",
+    "slug": "kiralik-villa-bulgaria-city-P00854",
+    "description": "Bulgaria City, Bulgaria bölgesinde villa. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 3486009,
+    "location": {
+      "country": "BG",
+      "city": "Bulgaria City",
+      "district": "Bulgaria City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 202",
+      "coordinates": {
+        "lat": 43.48851790162994,
+        "lng": 24.7500147042848
+      }
+    },
+    "specs": {
+      "netSize": 455,
+      "grossSize": 546,
+      "rooms": "4+0",
+      "bathrooms": 1,
+      "age": 16,
+      "floor": 3,
+      "totalFloors": 13,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Unfurnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500753539584?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500191056881?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500164876832?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500988184332?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500079341779?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500962566500?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500728453294?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500621954596?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500901674072?w=800&q=80&category=interior"
+    ],
+    "agent": {
+      "id": "A92",
+      "name": "Agent 18",
+      "phone": "+49 608 954 1373",
+      "email": "agent4@iwrealty.com",
+      "photo": "/images/icons/png/berlin-urban-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": false,
+      "hasBalcony": false,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-01-26T10:50:47.185Z",
+    "updatedAt": "2025-11-13T10:50:47.185Z",
+    "storeId": "store-009"
+  },
+  {
+    "id": "P00855",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Villa - Bulgaria Central",
+    "slug": "satilik-villa-bulgaria-central-P00855",
+    "description": "Bulgaria Central, Bulgaria bölgesinde villa. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 7396651,
+    "location": {
+      "country": "BG",
+      "city": "Bulgaria Central",
+      "district": "Bulgaria Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 138",
+      "coordinates": {
+        "lat": 42.86024878047251,
+        "lng": 25.055993465156707
+      }
+    },
+    "specs": {
+      "netSize": 462,
+      "grossSize": 554,
+      "rooms": "2+0",
+      "bathrooms": 3,
+      "age": 12,
+      "floor": 9,
+      "totalFloors": 17,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Furnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500410297620?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500095091197?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500620492565?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500976804960?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500892716667?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500752120448?w=800&q=80&category=real-estate"
+    ],
+    "agent": {
+      "id": "A53",
+      "name": "Agent 5",
+      "phone": "+58 850 174 8489",
+      "email": "agent69@iwrealty.com",
+      "photo": "/images/icons/png/dubai-property-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": true,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-01-06T10:50:47.185Z",
+    "updatedAt": "2025-11-13T10:50:47.185Z",
+    "storeId": "store-004"
+  },
+  {
+    "id": "P00856",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Müstakil Ev - Bulgaria Central",
+    "slug": "kiralik-müstakil-ev-bulgaria-central-P00856",
+    "description": "Bulgaria Central, Bulgaria bölgesinde müstakil ev. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 10089788,
+    "location": {
+      "country": "BG",
+      "city": "Bulgaria Central",
+      "district": "Bulgaria Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 460",
+      "coordinates": {
+        "lat": 43.07417308955912,
+        "lng": 25.396009290992605
+      }
+    },
+    "specs": {
+      "netSize": 401,
+      "grossSize": 481,
+      "rooms": "4+1",
+      "bathrooms": 3,
+      "age": 16,
+      "floor": 5,
+      "totalFloors": 15,
+      "heating": "Klima",
+      "furnishing": "Furnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500055562825?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500337500458?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500867603875?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500610054396?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500509318843?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500811352272?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500114714925?w=800&q=80&category=interior"
+    ],
+    "agent": {
+      "id": "A71",
+      "name": "Agent 64",
+      "phone": "+16 643 798 8465",
+      "email": "agent44@iwrealty.com",
+      "photo": "/images/icons/png/berlin-urban-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": false,
+      "hasBalcony": false,
+      "hasGarden": true,
+      "hasPool": true,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-03-03T10:50:47.185Z",
+    "updatedAt": "2025-11-13T10:50:47.185Z",
+    "storeId": "store-009"
+  },
+  {
+    "id": "P00857",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Müstakil Ev - Sofia",
+    "slug": "satilik-müstakil-ev-sofia-P00857",
+    "description": "Sofia, Bulgaria bölgesinde müstakil ev. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 2402094,
+    "location": {
+      "country": "BG",
+      "city": "Sofia",
+      "district": "Sofia Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 658",
+      "coordinates": {
+        "lat": 43.134786696695386,
+        "lng": 25.019879031747124
+      }
+    },
+    "specs": {
+      "netSize": 185,
+      "grossSize": 222,
+      "rooms": "4+0",
+      "bathrooms": 3,
+      "age": 3,
+      "floor": 6,
+      "totalFloors": 8,
+      "heating": "Klima",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500489097893?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500950569499?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500557486062?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500805009241?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500544452529?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500625072223?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500636492370?w=800&q=80&category=interior"
+    ],
+    "agent": {
+      "id": "A33",
+      "name": "Agent 71",
+      "phone": "+44 833 418 5815",
+      "email": "agent41@iwrealty.com",
+      "photo": "/images/icons/png/paris-heritage-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": false,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-10-05T10:50:47.185Z",
+    "updatedAt": "2025-11-13T10:50:47.185Z",
+    "storeId": "store-010"
+  },
+  {
+    "id": "P00858",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Daire - New Bulgaria",
+    "slug": "kiralik-daire-new-bulgaria-P00858",
+    "description": "New Bulgaria, Bulgaria bölgesinde daire. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 9135718,
+    "location": {
+      "country": "BG",
+      "city": "New Bulgaria",
+      "district": "New Bulgaria Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 928",
+      "coordinates": {
+        "lat": 42.76766958267482,
+        "lng": 24.620326007437402
+      }
+    },
+    "specs": {
+      "netSize": 473,
+      "grossSize": 568,
+      "rooms": "2+0",
+      "bathrooms": 3,
+      "age": 18,
+      "floor": 2,
+      "totalFloors": 20,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Unfurnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500566422529?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500024954046?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500124427434?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500406693197?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500173574042?w=800&q=80&category=house"
+    ],
+    "agent": {
+      "id": "A86",
+      "name": "Agent 29",
+      "phone": "+41 606 933 4187",
+      "email": "agent27@iwrealty.com",
+      "photo": "/images/icons/png/sg-harbour-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": false,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": true,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-02-01T10:50:47.185Z",
+    "updatedAt": "2025-11-13T10:50:47.185Z",
+    "storeId": "store-011"
+  },
+  {
+    "id": "P00859",
+    "type": "sale",
+    "category": {
+      "main": "commercial",
+      "sub": "hospital"
+    },
+    "title": "Satılık Hastane - Sofia",
+    "slug": "satilik-hastane-sofia-P00859",
+    "description": "Sofia, Bulgaria bölgesinde hastane. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 85660130,
+    "location": {
+      "country": "BG",
+      "city": "Sofia",
+      "district": "Sofia Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 601",
+      "coordinates": {
+        "lat": 43.18624118049675,
+        "lng": 24.58927017467641
+      }
+    },
+    "specs": {
+      "netSize": 6019,
+      "grossSize": 7223,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 12,
+      "floor": 13,
+      "totalFloors": 10,
+      "heating": "Merkezi",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500433681379?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500935287202?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500241528931?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500920848840?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500182980984?w=800&q=80&category=building"
+    ],
+    "agent": {
+      "id": "A97",
+      "name": "Agent 95",
+      "phone": "+50 264 248 7902",
+      "email": "agent20@iwrealty.com",
+      "photo": "/images/icons/png/london-prime-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-01-08T10:50:47.185Z",
+    "updatedAt": "2025-11-13T10:50:47.185Z",
+    "storeId": "store-007"
+  },
+  {
+    "id": "P00860",
+    "type": "rent",
+    "category": {
+      "main": "commercial",
+      "sub": "hospital"
+    },
+    "title": "Kiralık Hastane - Bulgaria City",
+    "slug": "kiralik-hastane-bulgaria-city-P00860",
+    "description": "Bulgaria City, Bulgaria bölgesinde hastane. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 11269989,
+    "location": {
+      "country": "BG",
+      "city": "Bulgaria City",
+      "district": "Bulgaria City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 797",
+      "coordinates": {
+        "lat": 43.132881648510306,
+        "lng": 25.356703381767023
+      }
+    },
+    "specs": {
+      "netSize": 14293,
+      "grossSize": 17152,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 10,
+      "floor": 1,
+      "totalFloors": 10,
+      "heating": "Merkezi",
+      "furnishing": "Furnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500307074646?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500766606337?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500853140871?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500109850207?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500884679448?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500225047373?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500189018620?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500219870480?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500998189145?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500784267032?w=800&q=80&category=real-estate"
+    ],
+    "agent": {
+      "id": "A91",
+      "name": "Agent 94",
+      "phone": "+91 516 464 6485",
+      "email": "agent53@iwrealty.com",
+      "photo": "/images/icons/png/dubai-property-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-02-20T10:50:47.185Z",
+    "updatedAt": "2025-11-13T10:50:47.185Z",
+    "storeId": "store-004"
+  },
+  {
+    "id": "P00861",
+    "type": "sale",
+    "category": {
+      "main": "commercial",
+      "sub": "clinic"
+    },
+    "title": "Satılık Klinik - Bulgaria Central",
+    "slug": "satilik-klinik-bulgaria-central-P00861",
+    "description": "Bulgaria Central, Bulgaria bölgesinde klinik. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 13837743,
+    "location": {
+      "country": "BG",
+      "city": "Bulgaria Central",
+      "district": "Bulgaria Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 839",
+      "coordinates": {
+        "lat": 43.00472146894284,
+        "lng": 24.533114931299906
+      }
+    },
+    "specs": {
+      "netSize": 1355,
+      "grossSize": 1626,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 1,
+      "floor": 4,
+      "totalFloors": 17,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Furnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500106905865?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500666445543?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500178115412?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500486226196?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500674270723?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500122850540?w=800&q=80&category=architecture"
+    ],
+    "agent": {
+      "id": "A49",
+      "name": "Agent 1",
+      "phone": "+45 663 632 5029",
+      "email": "agent41@iwrealty.com",
+      "photo": "/images/icons/png/london-prime-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-11-05T10:50:47.185Z",
+    "updatedAt": "2025-11-13T10:50:47.185Z",
+    "storeId": "store-007"
+  },
+  {
+    "id": "P00862",
+    "type": "rent",
+    "category": {
+      "main": "commercial",
+      "sub": "clinic"
+    },
+    "title": "Kiralık Klinik - Bulgaria City",
+    "slug": "kiralik-klinik-bulgaria-city-P00862",
+    "description": "Bulgaria City, Bulgaria bölgesinde klinik. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 12093989,
+    "location": {
+      "country": "BG",
+      "city": "Bulgaria City",
+      "district": "Bulgaria City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 140",
+      "coordinates": {
+        "lat": 43.210198306711455,
+        "lng": 24.727429759166053
+      }
+    },
+    "specs": {
+      "netSize": 741,
+      "grossSize": 889,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 14,
+      "floor": 10,
+      "totalFloors": 5,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Furnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500494296999?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500466782180?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500028503526?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500061035766?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500569663854?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500558731703?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500011052031?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500697939878?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500581282688?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500293903889?w=800&q=80&category=house"
+    ],
+    "agent": {
+      "id": "A86",
+      "name": "Agent 51",
+      "phone": "+86 234 716 6787",
+      "email": "agent30@iwrealty.com",
+      "photo": "/images/icons/png/sg-harbour-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2024-12-11T10:50:47.185Z",
+    "updatedAt": "2025-11-13T10:50:47.185Z",
+    "storeId": "store-011"
+  },
+  {
+    "id": "P00863",
+    "type": "sale",
+    "category": {
+      "main": "commercial",
+      "sub": "shop"
+    },
+    "title": "Satılık Dükkan - Bulgaria Central",
+    "slug": "satilik-dükkan-bulgaria-central-P00863",
+    "description": "Bulgaria Central, Bulgaria bölgesinde dükkan. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 4934364,
+    "location": {
+      "country": "BG",
+      "city": "Bulgaria Central",
+      "district": "Bulgaria Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 169",
+      "coordinates": {
+        "lat": 43.34277651158541,
+        "lng": 25.27731187527838
+      }
+    },
+    "specs": {
+      "netSize": 297,
+      "grossSize": 356,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 9,
+      "floor": 5,
+      "totalFloors": 10,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Furnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500052214139?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500156550312?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500843433041?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500219067214?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500677225107?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500516154532?w=800&q=80&category=building"
+    ],
+    "agent": {
+      "id": "A90",
+      "name": "Agent 39",
+      "phone": "+39 578 833 4777",
+      "email": "agent45@iwrealty.com",
+      "photo": "/images/icons/png/dubai-property-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-10-01T10:50:47.185Z",
+    "updatedAt": "2025-11-13T10:50:47.185Z",
+    "storeId": "store-004"
+  },
+  {
+    "id": "P00864",
+    "type": "rent",
+    "category": {
+      "main": "commercial",
+      "sub": "shop"
+    },
+    "title": "Kiralık Dükkan - Sofia",
+    "slug": "kiralik-dükkan-sofia-P00864",
+    "description": "Sofia, Bulgaria bölgesinde dükkan. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 6172447,
+    "location": {
+      "country": "BG",
+      "city": "Sofia",
+      "district": "Sofia Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 552",
+      "coordinates": {
+        "lat": 43.27271012498566,
+        "lng": 24.925556841293144
+      }
+    },
+    "specs": {
+      "netSize": 129,
+      "grossSize": 155,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 4,
+      "floor": 6,
+      "totalFloors": 11,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Unfurnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500830994247?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500034014111?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500604884230?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500768029040?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500212722060?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500922005894?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500904845929?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500344203102?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500206642081?w=800&q=80&category=building"
+    ],
+    "agent": {
+      "id": "A56",
+      "name": "Agent 82",
+      "phone": "+79 164 916 8635",
+      "email": "agent87@iwrealty.com",
+      "photo": "/images/icons/png/london-prime-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": false,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-04-11T10:50:47.185Z",
+    "updatedAt": "2025-11-13T10:50:47.185Z",
+    "storeId": "store-007"
+  },
+  {
+    "id": "P00865",
+    "type": "sale",
+    "category": {
+      "main": "commercial",
+      "sub": "office"
+    },
+    "title": "Satılık Ofis - New Bulgaria",
+    "slug": "satilik-ofis-new-bulgaria-P00865",
+    "description": "New Bulgaria, Bulgaria bölgesinde ofis. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 4022416,
+    "location": {
+      "country": "BG",
+      "city": "New Bulgaria",
+      "district": "New Bulgaria Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 465",
+      "coordinates": {
+        "lat": 43.19775693976666,
+        "lng": 24.76778520327513
+      }
+    },
+    "specs": {
+      "netSize": 941,
+      "grossSize": 1129,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 15,
+      "floor": 5,
+      "totalFloors": 11,
+      "heating": "Merkezi",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500308230386?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500476826376?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500036195517?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500243984826?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500350611983?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500124128194?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500071266474?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500334425116?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500422570828?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500856094168?w=800&q=80&category=real-estate"
+    ],
+    "agent": {
+      "id": "A14",
+      "name": "Agent 91",
+      "phone": "+16 649 293 8491",
+      "email": "agent89@iwrealty.com",
+      "photo": "/images/icons/png/berlin-urban-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-05-17T10:50:47.185Z",
+    "updatedAt": "2025-11-13T10:50:47.185Z",
+    "storeId": "store-009"
+  },
+  {
+    "id": "P00866",
+    "type": "rent",
+    "category": {
+      "main": "commercial",
+      "sub": "office"
+    },
+    "title": "Kiralık Ofis - Bulgaria Central",
+    "slug": "kiralik-ofis-bulgaria-central-P00866",
+    "description": "Bulgaria Central, Bulgaria bölgesinde ofis. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 2992182,
+    "location": {
+      "country": "BG",
+      "city": "Bulgaria Central",
+      "district": "Bulgaria Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 233",
+      "coordinates": {
+        "lat": 42.92487207838771,
+        "lng": 25.38571532728659
+      }
+    },
+    "specs": {
+      "netSize": 213,
+      "grossSize": 256,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 3,
+      "floor": 14,
+      "totalFloors": 14,
+      "heating": "Merkezi",
+      "furnishing": "Unfurnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500340250057?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500209194725?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500802419198?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500864771674?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500952289018?w=800&q=80&category=architecture"
+    ],
+    "agent": {
+      "id": "A85",
+      "name": "Agent 39",
+      "phone": "+49 335 216 3883",
+      "email": "agent16@iwrealty.com",
+      "photo": "/images/icons/png/izmir-sahil-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-07-08T10:50:47.185Z",
+    "updatedAt": "2025-11-13T10:50:47.185Z",
+    "storeId": "store-005"
+  },
+  {
+    "id": "P00867",
+    "type": "sale",
+    "category": {
+      "main": "commercial",
+      "sub": "mall"
+    },
+    "title": "Satılık AVM - New Bulgaria",
+    "slug": "satilik-avm-new-bulgaria-P00867",
+    "description": "New Bulgaria, Bulgaria bölgesinde avm. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 54522471,
+    "location": {
+      "country": "BG",
+      "city": "New Bulgaria",
+      "district": "New Bulgaria Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 819",
+      "coordinates": {
+        "lat": 43.4878381807491,
+        "lng": 24.563270609198323
+      }
+    },
+    "specs": {
+      "netSize": 37777,
+      "grossSize": 45332,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 17,
+      "floor": 4,
+      "totalFloors": 18,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Unfurnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500285600410?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500783802186?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500064482919?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500787201821?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500630940608?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500595092655?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500266055817?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500281963537?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500409427833?w=800&q=80&category=building"
+    ],
+    "agent": {
+      "id": "A50",
+      "name": "Agent 90",
+      "phone": "+38 799 786 9615",
+      "email": "agent7@iwrealty.com",
+      "photo": "/images/icons/png/dubai-property-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-02-28T10:50:47.185Z",
+    "updatedAt": "2025-11-13T10:50:47.185Z",
+    "storeId": "store-004"
+  },
+  {
+    "id": "P00868",
+    "type": "rent",
+    "category": {
+      "main": "commercial",
+      "sub": "mall"
+    },
+    "title": "Kiralık AVM - Bulgaria Central",
+    "slug": "kiralik-avm-bulgaria-central-P00868",
+    "description": "Bulgaria Central, Bulgaria bölgesinde avm. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 262003903,
+    "location": {
+      "country": "BG",
+      "city": "Bulgaria Central",
+      "district": "Bulgaria Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 123",
+      "coordinates": {
+        "lat": 42.849436876416085,
+        "lng": 24.76718411170061
+      }
+    },
+    "specs": {
+      "netSize": 43663,
+      "grossSize": 52396,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 8,
+      "floor": 6,
+      "totalFloors": 14,
+      "heating": "Kombi",
+      "furnishing": "Furnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500699009599?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500431423437?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500880956112?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500718322944?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500714365947?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500923254331?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500016206010?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500564855764?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500059763248?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500661411562?w=800&q=80&category=interior"
+    ],
+    "agent": {
+      "id": "A50",
+      "name": "Agent 62",
+      "phone": "+20 420 114 3891",
+      "email": "agent50@iwrealty.com",
+      "photo": "/images/icons/png/antalya-investment-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": false,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": true,
+      "hasSecurity": false
+    },
+    "createdAt": "2024-12-19T10:50:47.185Z",
+    "updatedAt": "2025-11-13T10:50:47.185Z",
+    "storeId": "store-006"
+  },
+  {
+    "id": "P00869",
+    "type": "sale",
+    "category": {
+      "main": "commercial",
+      "sub": "hotel"
+    },
+    "title": "Satılık Otel - Bulgaria City",
+    "slug": "satilik-otel-bulgaria-city-P00869",
+    "description": "Bulgaria City, Bulgaria bölgesinde otel. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 57106873,
+    "location": {
+      "country": "BG",
+      "city": "Bulgaria City",
+      "district": "Bulgaria City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 194",
+      "coordinates": {
+        "lat": 42.595961952920646,
+        "lng": 25.436031334050664
+      }
+    },
+    "specs": {
+      "netSize": 5628,
+      "grossSize": 6754,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 4,
+      "floor": 13,
+      "totalFloors": 14,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Furnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500062529692?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500910445184?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500761509542?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500479051833?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500798025396?w=800&q=80&category=house"
+    ],
+    "agent": {
+      "id": "A17",
+      "name": "Agent 76",
+      "phone": "+93 613 150 4352",
+      "email": "agent16@iwrealty.com",
+      "photo": "/images/icons/png/luxury-homes-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-01-17T10:50:47.185Z",
+    "updatedAt": "2025-11-13T10:50:47.185Z",
+    "storeId": "store-002"
+  },
+  {
+    "id": "P00870",
+    "type": "rent",
+    "category": {
+      "main": "commercial",
+      "sub": "hotel"
+    },
+    "title": "Kiralık Otel - Sofia",
+    "slug": "kiralik-otel-sofia-P00870",
+    "description": "Sofia, Bulgaria bölgesinde otel. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 129090020,
+    "location": {
+      "country": "BG",
+      "city": "Sofia",
+      "district": "Sofia Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 628",
+      "coordinates": {
+        "lat": 42.68613097987127,
+        "lng": 25.10087225649484
+      }
+    },
+    "specs": {
+      "netSize": 13880,
+      "grossSize": 16656,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 19,
+      "floor": 10,
+      "totalFloors": 14,
+      "heating": "Klima",
+      "furnishing": "Unfurnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500511331474?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500373097178?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500957512591?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500755495992?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500247531298?w=800&q=80&category=house"
+    ],
+    "agent": {
+      "id": "A65",
+      "name": "Agent 13",
+      "phone": "+78 348 897 4181",
+      "email": "agent68@iwrealty.com",
+      "photo": "/images/icons/png/dubai-property-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-07-15T10:50:47.185Z",
+    "updatedAt": "2025-11-13T10:50:47.185Z",
+    "storeId": "store-004"
+  },
+  {
+    "id": "P00871",
+    "type": "sale",
+    "category": {
+      "main": "commercial",
+      "sub": "restaurant"
+    },
+    "title": "Satılık Restoran - New Bulgaria",
+    "slug": "satilik-restoran-new-bulgaria-P00871",
+    "description": "New Bulgaria, Bulgaria bölgesinde restoran. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 4209058,
+    "location": {
+      "country": "BG",
+      "city": "New Bulgaria",
+      "district": "New Bulgaria Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 399",
+      "coordinates": {
+        "lat": 42.69397956452815,
+        "lng": 24.527413112398477
+      }
+    },
+    "specs": {
+      "netSize": 1396,
+      "grossSize": 1675,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 4,
+      "floor": 13,
+      "totalFloors": 11,
+      "heating": "Merkezi",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500950346833?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500613419459?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500688660348?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500305173605?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500152314339?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500881001556?w=800&q=80&category=architecture"
+    ],
+    "agent": {
+      "id": "A85",
+      "name": "Agent 94",
+      "phone": "+21 143 928 3766",
+      "email": "agent35@iwrealty.com",
+      "photo": "/images/icons/png/ankara-modern-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": false,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-08-24T10:50:47.185Z",
+    "updatedAt": "2025-11-13T10:50:47.185Z",
+    "storeId": "store-003"
+  },
+  {
+    "id": "P00872",
+    "type": "rent",
+    "category": {
+      "main": "commercial",
+      "sub": "restaurant"
+    },
+    "title": "Kiralık Restoran - Bulgaria Central",
+    "slug": "kiralik-restoran-bulgaria-central-P00872",
+    "description": "Bulgaria Central, Bulgaria bölgesinde restoran. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 3071362,
+    "location": {
+      "country": "BG",
+      "city": "Bulgaria Central",
+      "district": "Bulgaria Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 932",
+      "coordinates": {
+        "lat": 42.6185688048884,
+        "lng": 25.19253166860248
+      }
+    },
+    "specs": {
+      "netSize": 303,
+      "grossSize": 364,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 1,
+      "floor": 12,
+      "totalFloors": 20,
+      "heating": "Merkezi",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500093473004?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500910085959?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500187652200?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500032276347?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500277868532?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500385564804?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500509785501?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500172428369?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500107214918?w=800&q=80&category=interior"
+    ],
+    "agent": {
+      "id": "A8",
+      "name": "Agent 54",
+      "phone": "+27 291 523 9702",
+      "email": "agent50@iwrealty.com",
+      "photo": "/images/icons/png/paris-heritage-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-01-13T10:50:47.185Z",
+    "updatedAt": "2025-11-13T10:50:47.185Z",
+    "storeId": "store-010"
+  },
+  {
+    "id": "P00873",
+    "type": "sale",
+    "category": {
+      "main": "commercial",
+      "sub": "warehouse"
+    },
+    "title": "Satılık Depo - Sofia",
+    "slug": "satilik-depo-sofia-P00873",
+    "description": "Sofia, Bulgaria bölgesinde depo. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 22555748,
+    "location": {
+      "country": "BG",
+      "city": "Sofia",
+      "district": "Sofia Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 287",
+      "coordinates": {
+        "lat": 43.35804989103855,
+        "lng": 25.34111121300811
+      }
+    },
+    "specs": {
+      "netSize": 3355,
+      "grossSize": 4026,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 10,
+      "floor": 5,
+      "totalFloors": 5,
+      "heating": "Kombi",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500872650161?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500023790114?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500772820127?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500441847458?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500257852564?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500689357297?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500320549562?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500570214890?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500915723310?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500659150150?w=800&q=80&category=house"
+    ],
+    "agent": {
+      "id": "A73",
+      "name": "Agent 5",
+      "phone": "+58 145 558 7769",
+      "email": "agent42@iwrealty.com",
+      "photo": "/images/icons/png/luxury-homes-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": true,
+      "hasPool": true,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-01-20T10:50:47.185Z",
+    "updatedAt": "2025-11-13T10:50:47.185Z",
+    "storeId": "store-002"
+  },
+  {
+    "id": "P00874",
+    "type": "rent",
+    "category": {
+      "main": "commercial",
+      "sub": "warehouse"
+    },
+    "title": "Kiralık Depo - Bulgaria Central",
+    "slug": "kiralik-depo-bulgaria-central-P00874",
+    "description": "Bulgaria Central, Bulgaria bölgesinde depo. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 13168308,
+    "location": {
+      "country": "BG",
+      "city": "Bulgaria Central",
+      "district": "Bulgaria Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 62",
+      "coordinates": {
+        "lat": 42.68110091839227,
+        "lng": 25.450732729624605
+      }
+    },
+    "specs": {
+      "netSize": 3482,
+      "grossSize": 4178,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 18,
+      "floor": 4,
+      "totalFloors": 10,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Furnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500557883451?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500731028110?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500286865794?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500761863772?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500862297171?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500317112934?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500964434701?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500916432804?w=800&q=80&category=house"
+    ],
+    "agent": {
+      "id": "A27",
+      "name": "Agent 49",
+      "phone": "+10 606 404 1946",
+      "email": "agent30@iwrealty.com",
+      "photo": "/images/icons/png/izmir-sahil-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": true,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-06-20T10:50:47.185Z",
+    "updatedAt": "2025-11-13T10:50:47.185Z",
+    "storeId": "store-005"
+  }
+]

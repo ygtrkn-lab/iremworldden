@@ -1,0 +1,2347 @@
+[
+  {
+    "id": "P01673",
+    "type": "sale",
+    "category": {
+      "main": "government"
+    },
+    "title": "Satılık Devlet Binası - New China",
+    "slug": "satilik-devlet-binası-new-china-P01673",
+    "description": "New China, China bölgesinde devlet binası. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 27639363,
+    "location": {
+      "country": "CN",
+      "city": "New China",
+      "district": "New China Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 723",
+      "coordinates": {
+        "lat": 34.741608160111156,
+        "lng": 105.24748302745547
+      }
+    },
+    "specs": {
+      "netSize": 3174,
+      "grossSize": 3809,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 4,
+      "floor": 6,
+      "totalFloors": 12,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500352860697?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500969602884?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500891170109?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500382595854?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500317955768?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500762208404?w=800&q=80&category=interior"
+    ],
+    "agent": {
+      "id": "A96",
+      "name": "Agent 100",
+      "phone": "+67 999 126 2770",
+      "email": "agent17@iwrealty.com",
+      "photo": "/images/icons/png/izmir-sahil-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": true,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-04-21T10:50:47.196Z",
+    "updatedAt": "2025-11-13T10:50:47.196Z",
+    "storeId": "store-005"
+  },
+  {
+    "id": "P01674",
+    "type": "rent",
+    "category": {
+      "main": "government"
+    },
+    "title": "Kiralık Okul - China City",
+    "slug": "kiralik-okul-china-city-P01674",
+    "description": "China City, China bölgesinde okul. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 46134561,
+    "location": {
+      "country": "CN",
+      "city": "China City",
+      "district": "China City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 885",
+      "coordinates": {
+        "lat": 34.587761849575955,
+        "lng": 104.7666215219693
+      }
+    },
+    "specs": {
+      "netSize": 1565,
+      "grossSize": 1878,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 7,
+      "floor": 10,
+      "totalFloors": 11,
+      "heating": "Klima",
+      "furnishing": "Unfurnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500044927037?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500550312655?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500207494088?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500931458868?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500255660255?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500469771143?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500538266959?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500489434827?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500888082769?w=800&q=80&category=real-estate"
+    ],
+    "agent": {
+      "id": "A99",
+      "name": "Agent 100",
+      "phone": "+42 905 369 2914",
+      "email": "agent37@iwrealty.com",
+      "photo": "/images/icons/png/paris-heritage-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": true,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-06-13T10:50:47.196Z",
+    "updatedAt": "2025-11-13T10:50:47.196Z",
+    "storeId": "store-010"
+  },
+  {
+    "id": "P01675",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Villa - Beijing",
+    "slug": "satilik-villa-beijing-P01675",
+    "description": "Beijing, China bölgesinde villa. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 9026856,
+    "location": {
+      "country": "CN",
+      "city": "Beijing",
+      "district": "Beijing Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 493",
+      "coordinates": {
+        "lat": 34.52223818520196,
+        "lng": 104.95367461895943
+      }
+    },
+    "specs": {
+      "netSize": 488,
+      "grossSize": 586,
+      "rooms": "2+2",
+      "bathrooms": 2,
+      "age": 5,
+      "floor": 1,
+      "totalFloors": 6,
+      "heating": "Merkezi",
+      "furnishing": "Unfurnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500944494438?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500902781871?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500497006279?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500557276107?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500304894429?w=800&q=80&category=interior"
+    ],
+    "agent": {
+      "id": "A22",
+      "name": "Agent 76",
+      "phone": "+27 969 100 2480",
+      "email": "agent72@iwrealty.com",
+      "photo": "/images/icons/png/sydney-coastal-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": false,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2024-12-21T10:50:47.196Z",
+    "updatedAt": "2025-11-13T10:50:47.196Z",
+    "storeId": "store-012"
+  },
+  {
+    "id": "P01676",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Daire - China City",
+    "slug": "kiralik-daire-china-city-P01676",
+    "description": "China City, China bölgesinde daire. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 12522736,
+    "location": {
+      "country": "CN",
+      "city": "China City",
+      "district": "China City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 252",
+      "coordinates": {
+        "lat": 35.38780289649637,
+        "lng": 105.00859691793355
+      }
+    },
+    "specs": {
+      "netSize": 208,
+      "grossSize": 250,
+      "rooms": "1+1",
+      "bathrooms": 3,
+      "age": 15,
+      "floor": 15,
+      "totalFloors": 7,
+      "heating": "Klima",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500754667122?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500090217668?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500908948982?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500916525134?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500637300908?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500945490909?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500653419591?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500144988740?w=800&q=80&category=building"
+    ],
+    "agent": {
+      "id": "A40",
+      "name": "Agent 42",
+      "phone": "+58 827 956 8843",
+      "email": "agent100@iwrealty.com",
+      "photo": "/images/icons/png/ankara-modern-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2024-12-12T10:50:47.196Z",
+    "updatedAt": "2025-11-13T10:50:47.196Z",
+    "storeId": "store-003"
+  },
+  {
+    "id": "P01677",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Residence - China Central",
+    "slug": "satilik-residence-china-central-P01677",
+    "description": "China Central, China bölgesinde residence. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 752179,
+    "location": {
+      "country": "CN",
+      "city": "China Central",
+      "district": "China Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 111",
+      "coordinates": {
+        "lat": 34.55782098328816,
+        "lng": 104.74213250426835
+      }
+    },
+    "specs": {
+      "netSize": 334,
+      "grossSize": 401,
+      "rooms": "5+0",
+      "bathrooms": 2,
+      "age": 15,
+      "floor": 3,
+      "totalFloors": 20,
+      "heating": "Merkezi",
+      "furnishing": "Furnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500033451160?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500340326239?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500196717201?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500320458232?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500225948473?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500305096838?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500563734441?w=800&q=80&category=interior"
+    ],
+    "agent": {
+      "id": "A47",
+      "name": "Agent 77",
+      "phone": "+94 849 292 6946",
+      "email": "agent23@iwrealty.com",
+      "photo": "/images/icons/png/luxury-homes-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-09-11T10:50:47.196Z",
+    "updatedAt": "2025-11-13T10:50:47.196Z",
+    "storeId": "store-002"
+  },
+  {
+    "id": "P01678",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Villa - New China",
+    "slug": "kiralik-villa-new-china-P01678",
+    "description": "New China, China bölgesinde villa. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 6747395,
+    "location": {
+      "country": "CN",
+      "city": "New China",
+      "district": "New China Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 486",
+      "coordinates": {
+        "lat": 34.794144506535034,
+        "lng": 104.71567865301948
+      }
+    },
+    "specs": {
+      "netSize": 423,
+      "grossSize": 508,
+      "rooms": "5+1",
+      "bathrooms": 3,
+      "age": 0,
+      "floor": 11,
+      "totalFloors": 16,
+      "heating": "Merkezi",
+      "furnishing": "Furnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500949911922?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500789754429?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500034050220?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500586541273?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500788898092?w=800&q=80&category=real-estate"
+    ],
+    "agent": {
+      "id": "A84",
+      "name": "Agent 1",
+      "phone": "+80 917 635 1142",
+      "email": "agent86@iwrealty.com",
+      "photo": "/images/icons/png/ankara-modern-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": false,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": true,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-06-30T10:50:47.196Z",
+    "updatedAt": "2025-11-13T10:50:47.196Z",
+    "storeId": "store-003"
+  },
+  {
+    "id": "P01679",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Müstakil Ev - China City",
+    "slug": "satilik-müstakil-ev-china-city-P01679",
+    "description": "China City, China bölgesinde müstakil ev. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 11859196,
+    "location": {
+      "country": "CN",
+      "city": "China City",
+      "district": "China City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 804",
+      "coordinates": {
+        "lat": 35.30867266423959,
+        "lng": 105.18699808248758
+      }
+    },
+    "specs": {
+      "netSize": 495,
+      "grossSize": 594,
+      "rooms": "2+0",
+      "bathrooms": 4,
+      "age": 0,
+      "floor": 7,
+      "totalFloors": 10,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Furnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500064390893?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500877287275?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500840787374?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500665526487?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500383147146?w=800&q=80&category=house"
+    ],
+    "agent": {
+      "id": "A42",
+      "name": "Agent 51",
+      "phone": "+75 786 914 8741",
+      "email": "agent27@iwrealty.com",
+      "photo": "/images/icons/png/sydney-coastal-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": true,
+      "hasPool": true,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-04-06T10:50:47.196Z",
+    "updatedAt": "2025-11-13T10:50:47.196Z",
+    "storeId": "store-012"
+  },
+  {
+    "id": "P01680",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Daire - China City",
+    "slug": "kiralik-daire-china-city-P01680",
+    "description": "China City, China bölgesinde daire. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 9016533,
+    "location": {
+      "country": "CN",
+      "city": "China City",
+      "district": "China City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 959",
+      "coordinates": {
+        "lat": 34.80406190702427,
+        "lng": 105.03309097674511
+      }
+    },
+    "specs": {
+      "netSize": 499,
+      "grossSize": 599,
+      "rooms": "1+0",
+      "bathrooms": 2,
+      "age": 16,
+      "floor": 3,
+      "totalFloors": 13,
+      "heating": "Kombi",
+      "furnishing": "Furnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500781197448?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500810533496?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500167282295?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500554489776?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500774644380?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500889022082?w=800&q=80&category=real-estate"
+    ],
+    "agent": {
+      "id": "A97",
+      "name": "Agent 20",
+      "phone": "+73 804 397 5292",
+      "email": "agent41@iwrealty.com",
+      "photo": "/images/icons/png/london-prime-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-02-03T10:50:47.196Z",
+    "updatedAt": "2025-11-13T10:50:47.196Z",
+    "storeId": "store-007"
+  },
+  {
+    "id": "P01681",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Villa - China City",
+    "slug": "satilik-villa-china-city-P01681",
+    "description": "China City, China bölgesinde villa. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 4753508,
+    "location": {
+      "country": "CN",
+      "city": "China City",
+      "district": "China City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 614",
+      "coordinates": {
+        "lat": 34.54393652136144,
+        "lng": 104.7202928300574
+      }
+    },
+    "specs": {
+      "netSize": 81,
+      "grossSize": 97,
+      "rooms": "1+0",
+      "bathrooms": 3,
+      "age": 9,
+      "floor": 6,
+      "totalFloors": 11,
+      "heating": "Kombi",
+      "furnishing": "Furnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500254689931?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500499354685?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500186652022?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500320489983?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500344727923?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500641955684?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500467815393?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500034726004?w=800&q=80&category=building"
+    ],
+    "agent": {
+      "id": "A81",
+      "name": "Agent 47",
+      "phone": "+12 111 914 5421",
+      "email": "agent23@iwrealty.com",
+      "photo": "/images/icons/png/ankara-modern-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-05-17T10:50:47.196Z",
+    "updatedAt": "2025-11-13T10:50:47.196Z",
+    "storeId": "store-003"
+  },
+  {
+    "id": "P01682",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Residence - China City",
+    "slug": "kiralik-residence-china-city-P01682",
+    "description": "China City, China bölgesinde residence. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 6135514,
+    "location": {
+      "country": "CN",
+      "city": "China City",
+      "district": "China City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 772",
+      "coordinates": {
+        "lat": 34.63454077411942,
+        "lng": 104.72845727643994
+      }
+    },
+    "specs": {
+      "netSize": 319,
+      "grossSize": 383,
+      "rooms": "3+1",
+      "bathrooms": 1,
+      "age": 18,
+      "floor": 14,
+      "totalFloors": 9,
+      "heating": "Klima",
+      "furnishing": "Furnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500338787587?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500877650647?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500234148110?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500890714812?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500856989446?w=800&q=80&category=house"
+    ],
+    "agent": {
+      "id": "A79",
+      "name": "Agent 36",
+      "phone": "+54 991 591 8326",
+      "email": "agent60@iwrealty.com",
+      "photo": "/images/icons/png/antalya-investment-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-10-19T10:50:47.196Z",
+    "updatedAt": "2025-11-13T10:50:47.196Z",
+    "storeId": "store-006"
+  },
+  {
+    "id": "P01683",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Daire - New China",
+    "slug": "satilik-daire-new-china-P01683",
+    "description": "New China, China bölgesinde daire. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 5745394,
+    "location": {
+      "country": "CN",
+      "city": "New China",
+      "district": "New China Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 858",
+      "coordinates": {
+        "lat": 35.404483296055574,
+        "lng": 104.86143217245642
+      }
+    },
+    "specs": {
+      "netSize": 256,
+      "grossSize": 307,
+      "rooms": "5+2",
+      "bathrooms": 4,
+      "age": 19,
+      "floor": 11,
+      "totalFloors": 8,
+      "heating": "Kombi",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500159420757?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500867907852?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500583230215?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500688742394?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500022679949?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500360941416?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500246070783?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500340534923?w=800&q=80&category=interior"
+    ],
+    "agent": {
+      "id": "A26",
+      "name": "Agent 47",
+      "phone": "+81 948 105 1017",
+      "email": "agent80@iwrealty.com",
+      "photo": "/images/icons/png/paris-heritage-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-04-16T10:50:47.196Z",
+    "updatedAt": "2025-11-13T10:50:47.196Z",
+    "storeId": "store-010"
+  },
+  {
+    "id": "P01684",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Villa - Beijing",
+    "slug": "kiralik-villa-beijing-P01684",
+    "description": "Beijing, China bölgesinde villa. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 3417644,
+    "location": {
+      "country": "CN",
+      "city": "Beijing",
+      "district": "Beijing Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 605",
+      "coordinates": {
+        "lat": 34.7255292376003,
+        "lng": 105.22520111117102
+      }
+    },
+    "specs": {
+      "netSize": 224,
+      "grossSize": 269,
+      "rooms": "3+2",
+      "bathrooms": 4,
+      "age": 10,
+      "floor": 9,
+      "totalFloors": 19,
+      "heating": "Merkezi",
+      "furnishing": "Unfurnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500770937496?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500486437691?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500272678648?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500017586379?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500098036918?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500366470855?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500235961584?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500898542820?w=800&q=80&category=building"
+    ],
+    "agent": {
+      "id": "A21",
+      "name": "Agent 96",
+      "phone": "+65 553 262 1574",
+      "email": "agent62@iwrealty.com",
+      "photo": "/images/icons/png/paris-heritage-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2024-12-19T10:50:47.196Z",
+    "updatedAt": "2025-11-13T10:50:47.196Z",
+    "storeId": "store-010"
+  },
+  {
+    "id": "P01685",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Daire - Beijing",
+    "slug": "satilik-daire-beijing-P01685",
+    "description": "Beijing, China bölgesinde daire. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 12066277,
+    "location": {
+      "country": "CN",
+      "city": "Beijing",
+      "district": "Beijing Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 561",
+      "coordinates": {
+        "lat": 34.81602837540665,
+        "lng": 104.54914141103062
+      }
+    },
+    "specs": {
+      "netSize": 398,
+      "grossSize": 478,
+      "rooms": "1+2",
+      "bathrooms": 4,
+      "age": 20,
+      "floor": 8,
+      "totalFloors": 7,
+      "heating": "Kombi",
+      "furnishing": "Unfurnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500253909179?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500808923718?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500725365902?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500453988330?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500007083121?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500367025200?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500834375371?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500722417838?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500961754552?w=800&q=80&category=real-estate"
+    ],
+    "agent": {
+      "id": "A51",
+      "name": "Agent 69",
+      "phone": "+17 215 107 1460",
+      "email": "agent24@iwrealty.com",
+      "photo": "/images/icons/png/berlin-urban-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": true,
+      "hasSecurity": false
+    },
+    "createdAt": "2024-11-18T10:50:47.196Z",
+    "updatedAt": "2025-11-13T10:50:47.196Z",
+    "storeId": "store-009"
+  },
+  {
+    "id": "P01686",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Müstakil Ev - New China",
+    "slug": "kiralik-müstakil-ev-new-china-P01686",
+    "description": "New China, China bölgesinde müstakil ev. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 7924884,
+    "location": {
+      "country": "CN",
+      "city": "New China",
+      "district": "New China Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 117",
+      "coordinates": {
+        "lat": 35.089856368084014,
+        "lng": 105.24166904758282
+      }
+    },
+    "specs": {
+      "netSize": 417,
+      "grossSize": 500,
+      "rooms": "5+2",
+      "bathrooms": 2,
+      "age": 2,
+      "floor": 1,
+      "totalFloors": 18,
+      "heating": "Kombi",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500206268256?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500920166982?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500910558580?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500567013425?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500148202794?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500583222248?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500506804850?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500823722928?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500911709020?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500980066766?w=800&q=80&category=building"
+    ],
+    "agent": {
+      "id": "A98",
+      "name": "Agent 74",
+      "phone": "+47 869 309 7656",
+      "email": "agent85@iwrealty.com",
+      "photo": "/images/icons/png/luxury-homes-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-07-29T10:50:47.196Z",
+    "updatedAt": "2025-11-13T10:50:47.196Z",
+    "storeId": "store-002"
+  },
+  {
+    "id": "P01687",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Daire - Beijing",
+    "slug": "satilik-daire-beijing-P01687",
+    "description": "Beijing, China bölgesinde daire. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 14684932,
+    "location": {
+      "country": "CN",
+      "city": "Beijing",
+      "district": "Beijing Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 136",
+      "coordinates": {
+        "lat": 35.20249915992483,
+        "lng": 104.98081190317632
+      }
+    },
+    "specs": {
+      "netSize": 229,
+      "grossSize": 275,
+      "rooms": "2+2",
+      "bathrooms": 3,
+      "age": 4,
+      "floor": 7,
+      "totalFloors": 9,
+      "heating": "Klima",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500245478532?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500298039990?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500693139949?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500860620652?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500312489046?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500556977164?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500938085975?w=800&q=80&category=architecture"
+    ],
+    "agent": {
+      "id": "A34",
+      "name": "Agent 26",
+      "phone": "+46 655 528 3012",
+      "email": "agent84@iwrealty.com",
+      "photo": "/images/icons/png/london-prime-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2024-11-30T10:50:47.196Z",
+    "updatedAt": "2025-11-13T10:50:47.196Z",
+    "storeId": "store-007"
+  },
+  {
+    "id": "P01688",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Daire - China Central",
+    "slug": "kiralik-daire-china-central-P01688",
+    "description": "China Central, China bölgesinde daire. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 13384832,
+    "location": {
+      "country": "CN",
+      "city": "China Central",
+      "district": "China Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 579",
+      "coordinates": {
+        "lat": 35.445503158222685,
+        "lng": 104.78751885217818
+      }
+    },
+    "specs": {
+      "netSize": 201,
+      "grossSize": 241,
+      "rooms": "4+0",
+      "bathrooms": 1,
+      "age": 5,
+      "floor": 11,
+      "totalFloors": 18,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Unfurnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500121139591?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500803961630?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500489636820?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500002529537?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500160799337?w=800&q=80&category=architecture"
+    ],
+    "agent": {
+      "id": "A54",
+      "name": "Agent 23",
+      "phone": "+23 888 111 2673",
+      "email": "agent59@iwrealty.com",
+      "photo": "/images/icons/png/ankara-modern-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2024-12-26T10:50:47.196Z",
+    "updatedAt": "2025-11-13T10:50:47.196Z",
+    "storeId": "store-003"
+  },
+  {
+    "id": "P01689",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Müstakil Ev - China City",
+    "slug": "satilik-müstakil-ev-china-city-P01689",
+    "description": "China City, China bölgesinde müstakil ev. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 7719945,
+    "location": {
+      "country": "CN",
+      "city": "China City",
+      "district": "China City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 567",
+      "coordinates": {
+        "lat": 34.75491043700464,
+        "lng": 104.70080291815225
+      }
+    },
+    "specs": {
+      "netSize": 298,
+      "grossSize": 358,
+      "rooms": "3+0",
+      "bathrooms": 3,
+      "age": 17,
+      "floor": 15,
+      "totalFloors": 18,
+      "heating": "Merkezi",
+      "furnishing": "Unfurnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500572785034?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500076769868?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500053819259?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500682518352?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500227248895?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500646841283?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500043928947?w=800&q=80&category=real-estate"
+    ],
+    "agent": {
+      "id": "A92",
+      "name": "Agent 20",
+      "phone": "+32 125 539 8802",
+      "email": "agent95@iwrealty.com",
+      "photo": "/images/icons/png/izmir-sahil-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-02-20T10:50:47.196Z",
+    "updatedAt": "2025-11-13T10:50:47.196Z",
+    "storeId": "store-005"
+  },
+  {
+    "id": "P01690",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Müstakil Ev - China City",
+    "slug": "kiralik-müstakil-ev-china-city-P01690",
+    "description": "China City, China bölgesinde müstakil ev. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 9727700,
+    "location": {
+      "country": "CN",
+      "city": "China City",
+      "district": "China City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 842",
+      "coordinates": {
+        "lat": 35.4269326493315,
+        "lng": 105.27301594810395
+      }
+    },
+    "specs": {
+      "netSize": 469,
+      "grossSize": 563,
+      "rooms": "4+1",
+      "bathrooms": 4,
+      "age": 2,
+      "floor": 12,
+      "totalFloors": 6,
+      "heating": "Klima",
+      "furnishing": "Furnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500214610807?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500411269047?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500868332134?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500081661074?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500599392259?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500377345595?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500965079726?w=800&q=80&category=real-estate"
+    ],
+    "agent": {
+      "id": "A95",
+      "name": "Agent 91",
+      "phone": "+53 639 631 3010",
+      "email": "agent50@iwrealty.com",
+      "photo": "/images/icons/png/sg-harbour-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": false,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": true,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-04-29T10:50:47.196Z",
+    "updatedAt": "2025-11-13T10:50:47.196Z",
+    "storeId": "store-011"
+  },
+  {
+    "id": "P01691",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Müstakil Ev - New China",
+    "slug": "satilik-müstakil-ev-new-china-P01691",
+    "description": "New China, China bölgesinde müstakil ev. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 14032045,
+    "location": {
+      "country": "CN",
+      "city": "New China",
+      "district": "New China Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 228",
+      "coordinates": {
+        "lat": 35.02263226388822,
+        "lng": 105.23263876418588
+      }
+    },
+    "specs": {
+      "netSize": 230,
+      "grossSize": 276,
+      "rooms": "3+0",
+      "bathrooms": 4,
+      "age": 14,
+      "floor": 2,
+      "totalFloors": 20,
+      "heating": "Klima",
+      "furnishing": "Furnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500180115204?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500271272066?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500426964327?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500746449757?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500104636436?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500763040670?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500667681454?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500194193594?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500438201147?w=800&q=80&category=real-estate"
+    ],
+    "agent": {
+      "id": "A4",
+      "name": "Agent 61",
+      "phone": "+54 787 644 5146",
+      "email": "agent86@iwrealty.com",
+      "photo": "/images/icons/png/dubai-property-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": false,
+      "hasBalcony": false,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-04-23T10:50:47.196Z",
+    "updatedAt": "2025-11-13T10:50:47.196Z",
+    "storeId": "store-004"
+  },
+  {
+    "id": "P01692",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Daire - China City",
+    "slug": "kiralik-daire-china-city-P01692",
+    "description": "China City, China bölgesinde daire. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 3833725,
+    "location": {
+      "country": "CN",
+      "city": "China City",
+      "district": "China City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 148",
+      "coordinates": {
+        "lat": 34.848333902309456,
+        "lng": 104.9888957481364
+      }
+    },
+    "specs": {
+      "netSize": 469,
+      "grossSize": 563,
+      "rooms": "3+2",
+      "bathrooms": 2,
+      "age": 1,
+      "floor": 10,
+      "totalFloors": 16,
+      "heating": "Klima",
+      "furnishing": "Furnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500932367180?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500893167317?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500073429134?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500113176201?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500484205580?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500105398595?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500465677989?w=800&q=80&category=building"
+    ],
+    "agent": {
+      "id": "A52",
+      "name": "Agent 33",
+      "phone": "+81 266 909 2630",
+      "email": "agent54@iwrealty.com",
+      "photo": "/images/icons/png/dubai-property-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": true,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-08-21T10:50:47.196Z",
+    "updatedAt": "2025-11-13T10:50:47.196Z",
+    "storeId": "store-004"
+  },
+  {
+    "id": "P01693",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Daire - China City",
+    "slug": "satilik-daire-china-city-P01693",
+    "description": "China City, China bölgesinde daire. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 10198390,
+    "location": {
+      "country": "CN",
+      "city": "China City",
+      "district": "China City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 897",
+      "coordinates": {
+        "lat": 35.16468080313648,
+        "lng": 105.27297447492977
+      }
+    },
+    "specs": {
+      "netSize": 374,
+      "grossSize": 449,
+      "rooms": "5+2",
+      "bathrooms": 3,
+      "age": 5,
+      "floor": 4,
+      "totalFloors": 8,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Unfurnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500101839731?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500403741487?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500764729555?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500417548172?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500649895610?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500527287476?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500242986428?w=800&q=80&category=architecture"
+    ],
+    "agent": {
+      "id": "A23",
+      "name": "Agent 99",
+      "phone": "+86 289 707 6857",
+      "email": "agent33@iwrealty.com",
+      "photo": "/images/icons/png/berlin-urban-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": false,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-09-08T10:50:47.196Z",
+    "updatedAt": "2025-11-13T10:50:47.196Z",
+    "storeId": "store-009"
+  },
+  {
+    "id": "P01694",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Müstakil Ev - Beijing",
+    "slug": "kiralik-müstakil-ev-beijing-P01694",
+    "description": "Beijing, China bölgesinde müstakil ev. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 5105966,
+    "location": {
+      "country": "CN",
+      "city": "Beijing",
+      "district": "Beijing Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 652",
+      "coordinates": {
+        "lat": 35.36238045617767,
+        "lng": 105.29727578661685
+      }
+    },
+    "specs": {
+      "netSize": 123,
+      "grossSize": 148,
+      "rooms": "1+1",
+      "bathrooms": 4,
+      "age": 14,
+      "floor": 11,
+      "totalFloors": 11,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Furnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500179336384?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500059317089?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500819777038?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500762750729?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500782013205?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500743917407?w=800&q=80&category=house"
+    ],
+    "agent": {
+      "id": "A75",
+      "name": "Agent 12",
+      "phone": "+24 129 379 6612",
+      "email": "agent87@iwrealty.com",
+      "photo": "/images/icons/png/dubai-property-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": false,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": true,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-05-31T10:50:47.196Z",
+    "updatedAt": "2025-11-13T10:50:47.196Z",
+    "storeId": "store-004"
+  },
+  {
+    "id": "P01695",
+    "type": "sale",
+    "category": {
+      "main": "commercial",
+      "sub": "hospital"
+    },
+    "title": "Satılık Hastane - Beijing",
+    "slug": "satilik-hastane-beijing-P01695",
+    "description": "Beijing, China bölgesinde hastane. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 95561166,
+    "location": {
+      "country": "CN",
+      "city": "Beijing",
+      "district": "Beijing Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 999",
+      "coordinates": {
+        "lat": 34.96732435449098,
+        "lng": 105.30914520376065
+      }
+    },
+    "specs": {
+      "netSize": 8005,
+      "grossSize": 9606,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 1,
+      "floor": 3,
+      "totalFloors": 10,
+      "heating": "Klima",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500862200933?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500969534046?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500125487250?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500056679154?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500951508159?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500674739787?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500053118413?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500138600698?w=800&q=80&category=interior"
+    ],
+    "agent": {
+      "id": "A34",
+      "name": "Agent 33",
+      "phone": "+55 495 814 6956",
+      "email": "agent90@iwrealty.com",
+      "photo": "/images/icons/png/ny-skyline-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-07-10T10:50:47.196Z",
+    "updatedAt": "2025-11-13T10:50:47.196Z",
+    "storeId": "store-008"
+  },
+  {
+    "id": "P01696",
+    "type": "rent",
+    "category": {
+      "main": "commercial",
+      "sub": "hospital"
+    },
+    "title": "Kiralık Hastane - China Central",
+    "slug": "kiralik-hastane-china-central-P01696",
+    "description": "China Central, China bölgesinde hastane. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 75125099,
+    "location": {
+      "country": "CN",
+      "city": "China Central",
+      "district": "China Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 57",
+      "coordinates": {
+        "lat": 35.232561244697365,
+        "lng": 105.00383009383368
+      }
+    },
+    "specs": {
+      "netSize": 4009,
+      "grossSize": 4811,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 10,
+      "floor": 5,
+      "totalFloors": 14,
+      "heating": "Klima",
+      "furnishing": "Unfurnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500278729058?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500589284916?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500226126594?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500427938861?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500861439167?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500976510395?w=800&q=80&category=architecture"
+    ],
+    "agent": {
+      "id": "A38",
+      "name": "Agent 30",
+      "phone": "+90 703 967 6370",
+      "email": "agent73@iwrealty.com",
+      "photo": "/images/icons/png/izmir-sahil-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-03-06T10:50:47.196Z",
+    "updatedAt": "2025-11-13T10:50:47.196Z",
+    "storeId": "store-005"
+  },
+  {
+    "id": "P01697",
+    "type": "sale",
+    "category": {
+      "main": "commercial",
+      "sub": "clinic"
+    },
+    "title": "Satılık Klinik - China City",
+    "slug": "satilik-klinik-china-city-P01697",
+    "description": "China City, China bölgesinde klinik. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 15949191,
+    "location": {
+      "country": "CN",
+      "city": "China City",
+      "district": "China City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 901",
+      "coordinates": {
+        "lat": 35.01746676518536,
+        "lng": 104.6728035447922
+      }
+    },
+    "specs": {
+      "netSize": 1287,
+      "grossSize": 1544,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 8,
+      "floor": 4,
+      "totalFloors": 17,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Unfurnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500468301940?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500466012957?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500842669948?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500498304356?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500619420500?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500705483169?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500571698855?w=800&q=80&category=real-estate"
+    ],
+    "agent": {
+      "id": "A24",
+      "name": "Agent 38",
+      "phone": "+73 823 294 2172",
+      "email": "agent87@iwrealty.com",
+      "photo": "/images/icons/png/paris-heritage-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": false,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-01-03T10:50:47.196Z",
+    "updatedAt": "2025-11-13T10:50:47.196Z",
+    "storeId": "store-010"
+  },
+  {
+    "id": "P01698",
+    "type": "rent",
+    "category": {
+      "main": "commercial",
+      "sub": "clinic"
+    },
+    "title": "Kiralık Klinik - China City",
+    "slug": "kiralik-klinik-china-city-P01698",
+    "description": "China City, China bölgesinde klinik. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 5324245,
+    "location": {
+      "country": "CN",
+      "city": "China City",
+      "district": "China City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 8",
+      "coordinates": {
+        "lat": 34.99715327004283,
+        "lng": 104.84340198214583
+      }
+    },
+    "specs": {
+      "netSize": 1480,
+      "grossSize": 1776,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 9,
+      "floor": 1,
+      "totalFloors": 20,
+      "heating": "Merkezi",
+      "furnishing": "Furnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500071300574?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500153265785?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500368421461?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500479908379?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500965092812?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500252517806?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500519146575?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500155944243?w=800&q=80&category=architecture"
+    ],
+    "agent": {
+      "id": "A48",
+      "name": "Agent 81",
+      "phone": "+53 786 480 9300",
+      "email": "agent71@iwrealty.com",
+      "photo": "/images/icons/png/luxury-homes-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-10-29T10:50:47.196Z",
+    "updatedAt": "2025-11-13T10:50:47.196Z",
+    "storeId": "store-002"
+  },
+  {
+    "id": "P01699",
+    "type": "sale",
+    "category": {
+      "main": "commercial",
+      "sub": "shop"
+    },
+    "title": "Satılık Dükkan - New China",
+    "slug": "satilik-dükkan-new-china-P01699",
+    "description": "New China, China bölgesinde dükkan. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 2919050,
+    "location": {
+      "country": "CN",
+      "city": "New China",
+      "district": "New China Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 380",
+      "coordinates": {
+        "lat": 35.374659583921286,
+        "lng": 105.10588868814065
+      }
+    },
+    "specs": {
+      "netSize": 484,
+      "grossSize": 581,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 8,
+      "floor": 13,
+      "totalFloors": 18,
+      "heating": "Kombi",
+      "furnishing": "Unfurnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500195229903?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500761644495?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500752436453?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500857102691?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500354477415?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500708014507?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500004635888?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500742606439?w=800&q=80&category=architecture"
+    ],
+    "agent": {
+      "id": "A40",
+      "name": "Agent 70",
+      "phone": "+47 291 542 5329",
+      "email": "agent42@iwrealty.com",
+      "photo": "/images/icons/png/sg-harbour-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": false,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-08-08T10:50:47.196Z",
+    "updatedAt": "2025-11-13T10:50:47.196Z",
+    "storeId": "store-011"
+  },
+  {
+    "id": "P01700",
+    "type": "rent",
+    "category": {
+      "main": "commercial",
+      "sub": "shop"
+    },
+    "title": "Kiralık Dükkan - China Central",
+    "slug": "kiralik-dükkan-china-central-P01700",
+    "description": "China Central, China bölgesinde dükkan. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 1400115,
+    "location": {
+      "country": "CN",
+      "city": "China Central",
+      "district": "China Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 269",
+      "coordinates": {
+        "lat": 35.254286861790156,
+        "lng": 104.76181264025278
+      }
+    },
+    "specs": {
+      "netSize": 95,
+      "grossSize": 114,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 0,
+      "floor": 10,
+      "totalFloors": 19,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Furnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500527310942?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500196867870?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500314967317?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500047943211?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500798410703?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500748201309?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500244729739?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500016369139?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500213403012?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500842255110?w=800&q=80&category=house"
+    ],
+    "agent": {
+      "id": "A85",
+      "name": "Agent 17",
+      "phone": "+63 946 592 5543",
+      "email": "agent4@iwrealty.com",
+      "photo": "/images/icons/png/ankara-modern-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-10-27T10:50:47.196Z",
+    "updatedAt": "2025-11-13T10:50:47.196Z",
+    "storeId": "store-003"
+  },
+  {
+    "id": "P01701",
+    "type": "sale",
+    "category": {
+      "main": "commercial",
+      "sub": "office"
+    },
+    "title": "Satılık Ofis - New China",
+    "slug": "satilik-ofis-new-china-P01701",
+    "description": "New China, China bölgesinde ofis. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 4109878,
+    "location": {
+      "country": "CN",
+      "city": "New China",
+      "district": "New China Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 567",
+      "coordinates": {
+        "lat": 34.61146846558951,
+        "lng": 104.89237738683093
+      }
+    },
+    "specs": {
+      "netSize": 490,
+      "grossSize": 588,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 6,
+      "floor": 3,
+      "totalFloors": 18,
+      "heating": "Merkezi",
+      "furnishing": "Furnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500727076800?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500017392901?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500161506234?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500679338422?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500143652872?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500623063399?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500780499046?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500167567378?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500176254150?w=800&q=80&category=architecture"
+    ],
+    "agent": {
+      "id": "A59",
+      "name": "Agent 7",
+      "phone": "+55 115 381 4522",
+      "email": "agent33@iwrealty.com",
+      "photo": "/images/icons/png/antalya-investment-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": true,
+      "hasPool": true,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-02-22T10:50:47.196Z",
+    "updatedAt": "2025-11-13T10:50:47.196Z",
+    "storeId": "store-006"
+  },
+  {
+    "id": "P01702",
+    "type": "rent",
+    "category": {
+      "main": "commercial",
+      "sub": "office"
+    },
+    "title": "Kiralık Ofis - China City",
+    "slug": "kiralik-ofis-china-city-P01702",
+    "description": "China City, China bölgesinde ofis. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 2997105,
+    "location": {
+      "country": "CN",
+      "city": "China City",
+      "district": "China City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 286",
+      "coordinates": {
+        "lat": 35.40528910289588,
+        "lng": 105.18054626670703
+      }
+    },
+    "specs": {
+      "netSize": 615,
+      "grossSize": 738,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 7,
+      "floor": 3,
+      "totalFloors": 13,
+      "heating": "Merkezi",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500917403851?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500999423901?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500331824309?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500528604078?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500770640055?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500448060653?w=800&q=80&category=building"
+    ],
+    "agent": {
+      "id": "A67",
+      "name": "Agent 91",
+      "phone": "+83 568 924 7089",
+      "email": "agent51@iwrealty.com",
+      "photo": "/images/icons/png/antalya-investment-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": false,
+      "hasBalcony": false,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-04-25T10:50:47.196Z",
+    "updatedAt": "2025-11-13T10:50:47.196Z",
+    "storeId": "store-006"
+  },
+  {
+    "id": "P01703",
+    "type": "sale",
+    "category": {
+      "main": "commercial",
+      "sub": "mall"
+    },
+    "title": "Satılık AVM - New China",
+    "slug": "satilik-avm-new-china-P01703",
+    "description": "New China, China bölgesinde avm. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 475922665,
+    "location": {
+      "country": "CN",
+      "city": "New China",
+      "district": "New China Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 961",
+      "coordinates": {
+        "lat": 34.72942064937495,
+        "lng": 105.14620324325253
+      }
+    },
+    "specs": {
+      "netSize": 13084,
+      "grossSize": 15701,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 0,
+      "floor": 7,
+      "totalFloors": 6,
+      "heating": "Merkezi",
+      "furnishing": "Unfurnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500568903638?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500176627828?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500650042262?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500225033982?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500085871158?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500471725381?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500272031019?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500808596363?w=800&q=80&category=house"
+    ],
+    "agent": {
+      "id": "A82",
+      "name": "Agent 71",
+      "phone": "+48 673 288 7110",
+      "email": "agent44@iwrealty.com",
+      "photo": "/images/icons/png/sydney-coastal-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": false,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-03-05T10:50:47.196Z",
+    "updatedAt": "2025-11-13T10:50:47.196Z",
+    "storeId": "store-012"
+  },
+  {
+    "id": "P01704",
+    "type": "rent",
+    "category": {
+      "main": "commercial",
+      "sub": "mall"
+    },
+    "title": "Kiralık AVM - Beijing",
+    "slug": "kiralik-avm-beijing-P01704",
+    "description": "Beijing, China bölgesinde avm. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 75177828,
+    "location": {
+      "country": "CN",
+      "city": "Beijing",
+      "district": "Beijing Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 744",
+      "coordinates": {
+        "lat": 34.604138773494405,
+        "lng": 105.15130137738534
+      }
+    },
+    "specs": {
+      "netSize": 18673,
+      "grossSize": 22408,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 1,
+      "floor": 13,
+      "totalFloors": 17,
+      "heating": "Merkezi",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500765171446?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500237644997?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500051282958?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500266286722?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500978490431?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500355081858?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500400822500?w=800&q=80&category=real-estate"
+    ],
+    "agent": {
+      "id": "A65",
+      "name": "Agent 75",
+      "phone": "+61 839 383 3260",
+      "email": "agent95@iwrealty.com",
+      "photo": "/images/icons/png/ny-skyline-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2024-12-24T10:50:47.196Z",
+    "updatedAt": "2025-11-13T10:50:47.196Z",
+    "storeId": "store-008"
+  },
+  {
+    "id": "P01705",
+    "type": "sale",
+    "category": {
+      "main": "commercial",
+      "sub": "hotel"
+    },
+    "title": "Satılık Otel - China Central",
+    "slug": "satilik-otel-china-central-P01705",
+    "description": "China Central, China bölgesinde otel. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 84481234,
+    "location": {
+      "country": "CN",
+      "city": "China Central",
+      "district": "China Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 830",
+      "coordinates": {
+        "lat": 35.32545329825076,
+        "lng": 104.58300321299875
+      }
+    },
+    "specs": {
+      "netSize": 21224,
+      "grossSize": 25469,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 12,
+      "floor": 2,
+      "totalFloors": 6,
+      "heating": "Kombi",
+      "furnishing": "Unfurnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500431463122?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500730864827?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500201743377?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500545161208?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500027047632?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500205244976?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500478909717?w=800&q=80&category=architecture"
+    ],
+    "agent": {
+      "id": "A6",
+      "name": "Agent 23",
+      "phone": "+49 976 902 1234",
+      "email": "agent87@iwrealty.com",
+      "photo": "/images/icons/png/antalya-investment-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-06-09T10:50:47.196Z",
+    "updatedAt": "2025-11-13T10:50:47.196Z",
+    "storeId": "store-006"
+  },
+  {
+    "id": "P01706",
+    "type": "rent",
+    "category": {
+      "main": "commercial",
+      "sub": "hotel"
+    },
+    "title": "Kiralık Otel - China Central",
+    "slug": "kiralik-otel-china-central-P01706",
+    "description": "China Central, China bölgesinde otel. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 127161398,
+    "location": {
+      "country": "CN",
+      "city": "China Central",
+      "district": "China Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 820",
+      "coordinates": {
+        "lat": 35.09864396259863,
+        "lng": 105.34368524290775
+      }
+    },
+    "specs": {
+      "netSize": 17508,
+      "grossSize": 21010,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 19,
+      "floor": 1,
+      "totalFloors": 14,
+      "heating": "Klima",
+      "furnishing": "Furnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500474571283?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500174144548?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500028778079?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500530257432?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500240344945?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500362988307?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500948500835?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500425417490?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500794807342?w=800&q=80&category=house"
+    ],
+    "agent": {
+      "id": "A42",
+      "name": "Agent 31",
+      "phone": "+60 488 521 9313",
+      "email": "agent10@iwrealty.com",
+      "photo": "/images/icons/png/sg-harbour-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": false,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-06-23T10:50:47.196Z",
+    "updatedAt": "2025-11-13T10:50:47.196Z",
+    "storeId": "store-011"
+  },
+  {
+    "id": "P01707",
+    "type": "sale",
+    "category": {
+      "main": "commercial",
+      "sub": "restaurant"
+    },
+    "title": "Satılık Restoran - China City",
+    "slug": "satilik-restoran-china-city-P01707",
+    "description": "China City, China bölgesinde restoran. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 7808951,
+    "location": {
+      "country": "CN",
+      "city": "China City",
+      "district": "China City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 290",
+      "coordinates": {
+        "lat": 34.76925223830751,
+        "lng": 104.50065704968783
+      }
+    },
+    "specs": {
+      "netSize": 1499,
+      "grossSize": 1799,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 19,
+      "floor": 13,
+      "totalFloors": 16,
+      "heating": "Kombi",
+      "furnishing": "Furnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500422179671?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500855687738?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500491345169?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500593931271?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500665914415?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500398226754?w=800&q=80&category=real-estate"
+    ],
+    "agent": {
+      "id": "A95",
+      "name": "Agent 31",
+      "phone": "+23 927 464 5081",
+      "email": "agent96@iwrealty.com",
+      "photo": "/images/icons/png/sg-harbour-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2024-12-15T10:50:47.196Z",
+    "updatedAt": "2025-11-13T10:50:47.196Z",
+    "storeId": "store-011"
+  },
+  {
+    "id": "P01708",
+    "type": "rent",
+    "category": {
+      "main": "commercial",
+      "sub": "restaurant"
+    },
+    "title": "Kiralık Restoran - China City",
+    "slug": "kiralik-restoran-china-city-P01708",
+    "description": "China City, China bölgesinde restoran. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 7779857,
+    "location": {
+      "country": "CN",
+      "city": "China City",
+      "district": "China City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 831",
+      "coordinates": {
+        "lat": 35.26335951248054,
+        "lng": 104.85722043234868
+      }
+    },
+    "specs": {
+      "netSize": 1106,
+      "grossSize": 1327,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 8,
+      "floor": 10,
+      "totalFloors": 20,
+      "heating": "Kombi",
+      "furnishing": "Unfurnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500121587593?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500152729615?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500110925292?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500529590280?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500695271385?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500495672769?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500022258640?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500261875526?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500796119057?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500590495159?w=800&q=80&category=interior"
+    ],
+    "agent": {
+      "id": "A30",
+      "name": "Agent 100",
+      "phone": "+84 384 727 9537",
+      "email": "agent10@iwrealty.com",
+      "photo": "/images/icons/png/ankara-modern-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-11-01T10:50:47.196Z",
+    "updatedAt": "2025-11-13T10:50:47.196Z",
+    "storeId": "store-003"
+  },
+  {
+    "id": "P01709",
+    "type": "sale",
+    "category": {
+      "main": "commercial",
+      "sub": "warehouse"
+    },
+    "title": "Satılık Depo - China Central",
+    "slug": "satilik-depo-china-central-P01709",
+    "description": "China Central, China bölgesinde depo. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 27926369,
+    "location": {
+      "country": "CN",
+      "city": "China Central",
+      "district": "China Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 376",
+      "coordinates": {
+        "lat": 35.319905831594625,
+        "lng": 105.37506765985269
+      }
+    },
+    "specs": {
+      "netSize": 6569,
+      "grossSize": 7883,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 20,
+      "floor": 12,
+      "totalFloors": 10,
+      "heating": "Kombi",
+      "furnishing": "Furnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500529218725?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500619563000?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500883900668?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500567274804?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500763556675?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500105851215?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500278297424?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500330319411?w=800&q=80&category=building"
+    ],
+    "agent": {
+      "id": "A16",
+      "name": "Agent 66",
+      "phone": "+90 745 507 6853",
+      "email": "agent57@iwrealty.com",
+      "photo": "/images/icons/png/ankara-modern-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-07-08T10:50:47.196Z",
+    "updatedAt": "2025-11-13T10:50:47.196Z",
+    "storeId": "store-003"
+  },
+  {
+    "id": "P01710",
+    "type": "rent",
+    "category": {
+      "main": "commercial",
+      "sub": "warehouse"
+    },
+    "title": "Kiralık Depo - Beijing",
+    "slug": "kiralik-depo-beijing-P01710",
+    "description": "Beijing, China bölgesinde depo. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 26281411,
+    "location": {
+      "country": "CN",
+      "city": "Beijing",
+      "district": "Beijing Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 908",
+      "coordinates": {
+        "lat": 35.33460085343345,
+        "lng": 104.60463817565594
+      }
+    },
+    "specs": {
+      "netSize": 4519,
+      "grossSize": 5423,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 6,
+      "floor": 2,
+      "totalFloors": 5,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Furnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500069344996?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500697762243?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500108869977?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500301479309?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500380867539?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500045424576?w=800&q=80&category=building"
+    ],
+    "agent": {
+      "id": "A59",
+      "name": "Agent 85",
+      "phone": "+66 461 912 6182",
+      "email": "agent75@iwrealty.com",
+      "photo": "/images/icons/png/ny-skyline-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": true,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-10-27T10:50:47.196Z",
+    "updatedAt": "2025-11-13T10:50:47.196Z",
+    "storeId": "store-008"
+  }
+]

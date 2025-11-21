@@ -1,0 +1,2342 @@
+[
+  {
+    "id": "P00115",
+    "type": "sale",
+    "category": {
+      "main": "government"
+    },
+    "title": "Satılık Belediye Binası - New Anguilla",
+    "slug": "satilik-belediye-binası-new-anguilla-P00115",
+    "description": "New Anguilla, Anguilla bölgesinde belediye binası. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 7054349,
+    "location": {
+      "country": "AI",
+      "city": "New Anguilla",
+      "district": "New Anguilla Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 456",
+      "coordinates": {
+        "lat": 18.421926375580416,
+        "lng": -63.43604904338646
+      }
+    },
+    "specs": {
+      "netSize": 2180,
+      "grossSize": 2616,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 5,
+      "floor": 12,
+      "totalFloors": 18,
+      "heating": "Kombi",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500458836608?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500532175440?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500693054538?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500762864295?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500515463283?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500940398766?w=800&q=80&category=building"
+    ],
+    "agent": {
+      "id": "A43",
+      "name": "Agent 84",
+      "phone": "+92 914 609 3873",
+      "email": "agent28@iwrealty.com",
+      "photo": "/images/icons/png/ny-skyline-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-11-02T10:50:47.174Z",
+    "updatedAt": "2025-11-13T10:50:47.174Z",
+    "storeId": "store-008"
+  },
+  {
+    "id": "P00116",
+    "type": "rent",
+    "category": {
+      "main": "government"
+    },
+    "title": "Kiralık Belediye Binası - Anguilla Central",
+    "slug": "kiralik-belediye-binası-anguilla-central-P00116",
+    "description": "Anguilla Central, Anguilla bölgesinde belediye binası. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 20669633,
+    "location": {
+      "country": "AI",
+      "city": "Anguilla Central",
+      "district": "Anguilla Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 409",
+      "coordinates": {
+        "lat": 17.997396725250862,
+        "lng": -62.79273684622132
+      }
+    },
+    "specs": {
+      "netSize": 1633,
+      "grossSize": 1960,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 12,
+      "floor": 2,
+      "totalFloors": 6,
+      "heating": "Klima",
+      "furnishing": "Unfurnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500866350568?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500423188061?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500750688648?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500224248732?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500096093556?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500237627862?w=800&q=80&category=building"
+    ],
+    "agent": {
+      "id": "A3",
+      "name": "Agent 36",
+      "phone": "+65 183 386 7734",
+      "email": "agent67@iwrealty.com",
+      "photo": "/images/icons/png/antalya-investment-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-10-02T10:50:47.174Z",
+    "updatedAt": "2025-11-13T10:50:47.174Z",
+    "storeId": "store-006"
+  },
+  {
+    "id": "P00117",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Villa - Anguilla Central",
+    "slug": "satilik-villa-anguilla-central-P00117",
+    "description": "Anguilla Central, Anguilla bölgesinde villa. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 4120232,
+    "location": {
+      "country": "AI",
+      "city": "Anguilla Central",
+      "district": "Anguilla Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 54",
+      "coordinates": {
+        "lat": 18.420628296697668,
+        "lng": -63.049949884421984
+      }
+    },
+    "specs": {
+      "netSize": 266,
+      "grossSize": 319,
+      "rooms": "2+2",
+      "bathrooms": 4,
+      "age": 6,
+      "floor": 11,
+      "totalFloors": 17,
+      "heating": "Klima",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500841857347?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500356643295?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500893103328?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500904987507?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500454131290?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500851836582?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500926833968?w=800&q=80&category=house"
+    ],
+    "agent": {
+      "id": "A30",
+      "name": "Agent 19",
+      "phone": "+94 876 958 5502",
+      "email": "agent39@iwrealty.com",
+      "photo": "/images/icons/png/london-prime-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-08-28T10:50:47.174Z",
+    "updatedAt": "2025-11-13T10:50:47.174Z",
+    "storeId": "store-007"
+  },
+  {
+    "id": "P00118",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Villa - Anguilla Central",
+    "slug": "kiralik-villa-anguilla-central-P00118",
+    "description": "Anguilla Central, Anguilla bölgesinde villa. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 1021849,
+    "location": {
+      "country": "AI",
+      "city": "Anguilla Central",
+      "district": "Anguilla Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 169",
+      "coordinates": {
+        "lat": 18.22966378684567,
+        "lng": -63.208574324979814
+      }
+    },
+    "specs": {
+      "netSize": 95,
+      "grossSize": 114,
+      "rooms": "2+1",
+      "bathrooms": 3,
+      "age": 18,
+      "floor": 1,
+      "totalFloors": 12,
+      "heating": "Merkezi",
+      "furnishing": "Furnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500531116506?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500498158131?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500931176488?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500701321295?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500491795779?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500606955294?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500328189745?w=800&q=80&category=real-estate"
+    ],
+    "agent": {
+      "id": "A61",
+      "name": "Agent 28",
+      "phone": "+31 689 677 7058",
+      "email": "agent90@iwrealty.com",
+      "photo": "/images/icons/png/ankara-modern-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-04-20T10:50:47.174Z",
+    "updatedAt": "2025-11-13T10:50:47.174Z",
+    "storeId": "store-003"
+  },
+  {
+    "id": "P00119",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Daire - Anguilla Central",
+    "slug": "satilik-daire-anguilla-central-P00119",
+    "description": "Anguilla Central, Anguilla bölgesinde daire. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 7370569,
+    "location": {
+      "country": "AI",
+      "city": "Anguilla Central",
+      "district": "Anguilla Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 910",
+      "coordinates": {
+        "lat": 18.002020907490117,
+        "lng": -63.62831120084894
+      }
+    },
+    "specs": {
+      "netSize": 343,
+      "grossSize": 412,
+      "rooms": "3+1",
+      "bathrooms": 4,
+      "age": 18,
+      "floor": 1,
+      "totalFloors": 16,
+      "heating": "Merkezi",
+      "furnishing": "Furnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500931541428?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500540956202?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500840301321?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500996409666?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500169629224?w=800&q=80&category=real-estate"
+    ],
+    "agent": {
+      "id": "A78",
+      "name": "Agent 62",
+      "phone": "+27 652 660 2252",
+      "email": "agent84@iwrealty.com",
+      "photo": "/images/icons/png/ankara-modern-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": false,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": true,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-07-08T10:50:47.174Z",
+    "updatedAt": "2025-11-13T10:50:47.174Z",
+    "storeId": "store-003"
+  },
+  {
+    "id": "P00120",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Daire - Anguilla City",
+    "slug": "kiralik-daire-anguilla-city-P00120",
+    "description": "Anguilla City, Anguilla bölgesinde daire. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 4861304,
+    "location": {
+      "country": "AI",
+      "city": "Anguilla City",
+      "district": "Anguilla City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 304",
+      "coordinates": {
+        "lat": 18.072184924367544,
+        "lng": -63.35661914755036
+      }
+    },
+    "specs": {
+      "netSize": 116,
+      "grossSize": 139,
+      "rooms": "2+1",
+      "bathrooms": 4,
+      "age": 4,
+      "floor": 15,
+      "totalFloors": 19,
+      "heating": "Kombi",
+      "furnishing": "Furnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500388427390?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500289665555?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500110202983?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500712945701?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500903756798?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500343672556?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500966185537?w=800&q=80&category=interior"
+    ],
+    "agent": {
+      "id": "A79",
+      "name": "Agent 10",
+      "phone": "+93 388 471 5789",
+      "email": "agent82@iwrealty.com",
+      "photo": "/images/icons/png/berlin-urban-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": false,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-04-28T10:50:47.174Z",
+    "updatedAt": "2025-11-13T10:50:47.174Z",
+    "storeId": "store-009"
+  },
+  {
+    "id": "P00121",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Müstakil Ev - Anguilla City",
+    "slug": "satilik-müstakil-ev-anguilla-city-P00121",
+    "description": "Anguilla City, Anguilla bölgesinde müstakil ev. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 5418318,
+    "location": {
+      "country": "AI",
+      "city": "Anguilla City",
+      "district": "Anguilla City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 13",
+      "coordinates": {
+        "lat": 18.17593355797579,
+        "lng": -63.33317442312983
+      }
+    },
+    "specs": {
+      "netSize": 338,
+      "grossSize": 406,
+      "rooms": "4+1",
+      "bathrooms": 4,
+      "age": 12,
+      "floor": 11,
+      "totalFloors": 14,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500773259806?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500840429707?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500581420429?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500653013338?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500615880742?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500665902923?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500065070648?w=800&q=80&category=house"
+    ],
+    "agent": {
+      "id": "A55",
+      "name": "Agent 36",
+      "phone": "+82 980 530 7147",
+      "email": "agent10@iwrealty.com",
+      "photo": "/images/icons/png/berlin-urban-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-05-19T10:50:47.174Z",
+    "updatedAt": "2025-11-13T10:50:47.174Z",
+    "storeId": "store-009"
+  },
+  {
+    "id": "P00122",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Villa - The Valley",
+    "slug": "kiralik-villa-the-valley-P00122",
+    "description": "The Valley, Anguilla bölgesinde villa. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 11735077,
+    "location": {
+      "country": "AI",
+      "city": "The Valley",
+      "district": "The Valley Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 433",
+      "coordinates": {
+        "lat": 17.822818428890784,
+        "lng": -63.577388490177746
+      }
+    },
+    "specs": {
+      "netSize": 326,
+      "grossSize": 391,
+      "rooms": "5+2",
+      "bathrooms": 4,
+      "age": 16,
+      "floor": 10,
+      "totalFloors": 6,
+      "heating": "Klima",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500588298291?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500187454637?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500828628502?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500741519027?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500798302406?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500968825445?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500480405754?w=800&q=80&category=building"
+    ],
+    "agent": {
+      "id": "A84",
+      "name": "Agent 95",
+      "phone": "+46 848 243 7286",
+      "email": "agent15@iwrealty.com",
+      "photo": "/images/icons/png/ny-skyline-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": true,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-02-08T10:50:47.174Z",
+    "updatedAt": "2025-11-13T10:50:47.174Z",
+    "storeId": "store-008"
+  },
+  {
+    "id": "P00123",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Daire - The Valley",
+    "slug": "satilik-daire-the-valley-P00123",
+    "description": "The Valley, Anguilla bölgesinde daire. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 8273747,
+    "location": {
+      "country": "AI",
+      "city": "The Valley",
+      "district": "The Valley Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 954",
+      "coordinates": {
+        "lat": 18.055444325714056,
+        "lng": -63.361979199352504
+      }
+    },
+    "specs": {
+      "netSize": 146,
+      "grossSize": 175,
+      "rooms": "4+1",
+      "bathrooms": 2,
+      "age": 6,
+      "floor": 1,
+      "totalFloors": 14,
+      "heating": "Klima",
+      "furnishing": "Furnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500441208708?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500181785958?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500567422516?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500583194213?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500349365045?w=800&q=80&category=interior"
+    ],
+    "agent": {
+      "id": "A99",
+      "name": "Agent 70",
+      "phone": "+66 678 334 3045",
+      "email": "agent78@iwrealty.com",
+      "photo": "/images/icons/png/izmir-sahil-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-02-03T10:50:47.174Z",
+    "updatedAt": "2025-11-13T10:50:47.174Z",
+    "storeId": "store-005"
+  },
+  {
+    "id": "P00124",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Villa - The Valley",
+    "slug": "kiralik-villa-the-valley-P00124",
+    "description": "The Valley, Anguilla bölgesinde villa. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 7165029,
+    "location": {
+      "country": "AI",
+      "city": "The Valley",
+      "district": "The Valley Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 151",
+      "coordinates": {
+        "lat": 17.989403049512088,
+        "lng": -63.202299707418355
+      }
+    },
+    "specs": {
+      "netSize": 130,
+      "grossSize": 156,
+      "rooms": "3+1",
+      "bathrooms": 4,
+      "age": 2,
+      "floor": 9,
+      "totalFloors": 12,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500464853374?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500335917828?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500197290093?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500142981533?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500166571075?w=800&q=80&category=real-estate"
+    ],
+    "agent": {
+      "id": "A36",
+      "name": "Agent 6",
+      "phone": "+33 284 561 5469",
+      "email": "agent29@iwrealty.com",
+      "photo": "/images/icons/png/luxury-homes-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": false,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-01-03T10:50:47.174Z",
+    "updatedAt": "2025-11-13T10:50:47.174Z",
+    "storeId": "store-002"
+  },
+  {
+    "id": "P00125",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Daire - Anguilla Central",
+    "slug": "satilik-daire-anguilla-central-P00125",
+    "description": "Anguilla Central, Anguilla bölgesinde daire. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 8041504,
+    "location": {
+      "country": "AI",
+      "city": "Anguilla Central",
+      "district": "Anguilla Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 67",
+      "coordinates": {
+        "lat": 18.422351843986384,
+        "lng": -62.99708880769158
+      }
+    },
+    "specs": {
+      "netSize": 145,
+      "grossSize": 174,
+      "rooms": "4+0",
+      "bathrooms": 1,
+      "age": 3,
+      "floor": 15,
+      "totalFloors": 9,
+      "heating": "Klima",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500698560714?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500278826967?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500385727238?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500537276927?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500053440910?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500887842283?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500545402250?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500271865067?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500241703155?w=800&q=80&category=building"
+    ],
+    "agent": {
+      "id": "A36",
+      "name": "Agent 1",
+      "phone": "+34 604 895 6476",
+      "email": "agent43@iwrealty.com",
+      "photo": "/images/icons/png/ankara-modern-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": false,
+      "hasBalcony": false,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-07-22T10:50:47.174Z",
+    "updatedAt": "2025-11-13T10:50:47.174Z",
+    "storeId": "store-003"
+  },
+  {
+    "id": "P00126",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Daire - New Anguilla",
+    "slug": "kiralik-daire-new-anguilla-P00126",
+    "description": "New Anguilla, Anguilla bölgesinde daire. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 9658387,
+    "location": {
+      "country": "AI",
+      "city": "New Anguilla",
+      "district": "New Anguilla Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 847",
+      "coordinates": {
+        "lat": 18.177290611804235,
+        "lng": -62.898688935740594
+      }
+    },
+    "specs": {
+      "netSize": 390,
+      "grossSize": 468,
+      "rooms": "4+2",
+      "bathrooms": 2,
+      "age": 15,
+      "floor": 5,
+      "totalFloors": 6,
+      "heating": "Merkezi",
+      "furnishing": "Unfurnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500035538198?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500683478708?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500419126919?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500926633663?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500949646542?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500207864131?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500806580293?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500069259277?w=800&q=80&category=architecture"
+    ],
+    "agent": {
+      "id": "A68",
+      "name": "Agent 31",
+      "phone": "+19 589 909 9826",
+      "email": "agent87@iwrealty.com",
+      "photo": "/images/icons/png/izmir-sahil-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": false,
+      "hasBalcony": false,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-05-13T10:50:47.174Z",
+    "updatedAt": "2025-11-13T10:50:47.174Z",
+    "storeId": "store-005"
+  },
+  {
+    "id": "P00127",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Daire - Anguilla City",
+    "slug": "satilik-daire-anguilla-city-P00127",
+    "description": "Anguilla City, Anguilla bölgesinde daire. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 9621906,
+    "location": {
+      "country": "AI",
+      "city": "Anguilla City",
+      "district": "Anguilla City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 884",
+      "coordinates": {
+        "lat": 18.525355971051283,
+        "lng": -63.089468333424605
+      }
+    },
+    "specs": {
+      "netSize": 149,
+      "grossSize": 179,
+      "rooms": "4+2",
+      "bathrooms": 3,
+      "age": 4,
+      "floor": 14,
+      "totalFloors": 17,
+      "heating": "Klima",
+      "furnishing": "Unfurnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500574551408?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500670709990?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500436655267?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500374714708?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500746575220?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500801472181?w=800&q=80&category=building"
+    ],
+    "agent": {
+      "id": "A97",
+      "name": "Agent 45",
+      "phone": "+56 998 112 3579",
+      "email": "agent35@iwrealty.com",
+      "photo": "/images/icons/png/london-prime-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-03-04T10:50:47.174Z",
+    "updatedAt": "2025-11-13T10:50:47.174Z",
+    "storeId": "store-007"
+  },
+  {
+    "id": "P00128",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Residence - New Anguilla",
+    "slug": "kiralik-residence-new-anguilla-P00128",
+    "description": "New Anguilla, Anguilla bölgesinde residence. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 4601372,
+    "location": {
+      "country": "AI",
+      "city": "New Anguilla",
+      "district": "New Anguilla Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 861",
+      "coordinates": {
+        "lat": 18.66242872576114,
+        "lng": -63.624830318933576
+      }
+    },
+    "specs": {
+      "netSize": 200,
+      "grossSize": 240,
+      "rooms": "5+1",
+      "bathrooms": 2,
+      "age": 0,
+      "floor": 11,
+      "totalFloors": 11,
+      "heating": "Klima",
+      "furnishing": "Unfurnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500305669349?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500996230402?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500447694726?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500402281004?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500717506628?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500572080666?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500164349865?w=800&q=80&category=interior"
+    ],
+    "agent": {
+      "id": "A35",
+      "name": "Agent 98",
+      "phone": "+52 503 764 6920",
+      "email": "agent30@iwrealty.com",
+      "photo": "/images/icons/png/antalya-investment-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": false,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": true,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-03-02T10:50:47.174Z",
+    "updatedAt": "2025-11-13T10:50:47.174Z",
+    "storeId": "store-006"
+  },
+  {
+    "id": "P00129",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Daire - Anguilla City",
+    "slug": "satilik-daire-anguilla-city-P00129",
+    "description": "Anguilla City, Anguilla bölgesinde daire. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 12587389,
+    "location": {
+      "country": "AI",
+      "city": "Anguilla City",
+      "district": "Anguilla City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 761",
+      "coordinates": {
+        "lat": 18.115980398192573,
+        "lng": -63.45390096841037
+      }
+    },
+    "specs": {
+      "netSize": 317,
+      "grossSize": 380,
+      "rooms": "4+0",
+      "bathrooms": 2,
+      "age": 3,
+      "floor": 10,
+      "totalFloors": 9,
+      "heating": "Merkezi",
+      "furnishing": "Furnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500899956167?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500615129934?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500439279023?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500704967370?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500688617533?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500763619278?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500539539202?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500982023098?w=800&q=80&category=building"
+    ],
+    "agent": {
+      "id": "A15",
+      "name": "Agent 96",
+      "phone": "+17 754 682 2801",
+      "email": "agent72@iwrealty.com",
+      "photo": "/images/icons/png/dubai-property-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": false,
+      "hasBalcony": false,
+      "hasGarden": true,
+      "hasPool": true,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-08-16T10:50:47.174Z",
+    "updatedAt": "2025-11-13T10:50:47.174Z",
+    "storeId": "store-004"
+  },
+  {
+    "id": "P00130",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Villa - The Valley",
+    "slug": "kiralik-villa-the-valley-P00130",
+    "description": "The Valley, Anguilla bölgesinde villa. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 4877163,
+    "location": {
+      "country": "AI",
+      "city": "The Valley",
+      "district": "The Valley Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 647",
+      "coordinates": {
+        "lat": 18.574697621032296,
+        "lng": -63.63812196313819
+      }
+    },
+    "specs": {
+      "netSize": 319,
+      "grossSize": 383,
+      "rooms": "3+1",
+      "bathrooms": 4,
+      "age": 18,
+      "floor": 6,
+      "totalFloors": 5,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500783520001?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500291468218?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500089322360?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500279712084?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500353548374?w=800&q=80&category=house"
+    ],
+    "agent": {
+      "id": "A90",
+      "name": "Agent 21",
+      "phone": "+89 479 726 4068",
+      "email": "agent62@iwrealty.com",
+      "photo": "/images/icons/png/ankara-modern-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-05-15T10:50:47.174Z",
+    "updatedAt": "2025-11-13T10:50:47.174Z",
+    "storeId": "store-003"
+  },
+  {
+    "id": "P00131",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Müstakil Ev - Anguilla City",
+    "slug": "satilik-müstakil-ev-anguilla-city-P00131",
+    "description": "Anguilla City, Anguilla bölgesinde müstakil ev. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 1735209,
+    "location": {
+      "country": "AI",
+      "city": "Anguilla City",
+      "district": "Anguilla City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 718",
+      "coordinates": {
+        "lat": 17.952313401614703,
+        "lng": -63.37695499913176
+      }
+    },
+    "specs": {
+      "netSize": 487,
+      "grossSize": 584,
+      "rooms": "3+2",
+      "bathrooms": 1,
+      "age": 4,
+      "floor": 7,
+      "totalFloors": 6,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Unfurnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500498871506?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500121399717?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500118044075?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500723858779?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500859927508?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500558759070?w=800&q=80&category=house"
+    ],
+    "agent": {
+      "id": "A20",
+      "name": "Agent 3",
+      "phone": "+53 677 609 6436",
+      "email": "agent95@iwrealty.com",
+      "photo": "/images/icons/png/paris-heritage-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-11-12T10:50:47.174Z",
+    "updatedAt": "2025-11-13T10:50:47.174Z",
+    "storeId": "store-010"
+  },
+  {
+    "id": "P00132",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Residence - Anguilla City",
+    "slug": "kiralik-residence-anguilla-city-P00132",
+    "description": "Anguilla City, Anguilla bölgesinde residence. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 7684462,
+    "location": {
+      "country": "AI",
+      "city": "Anguilla City",
+      "district": "Anguilla City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 635",
+      "coordinates": {
+        "lat": 17.804933157488502,
+        "lng": -63.11418139759087
+      }
+    },
+    "specs": {
+      "netSize": 411,
+      "grossSize": 493,
+      "rooms": "2+2",
+      "bathrooms": 2,
+      "age": 9,
+      "floor": 10,
+      "totalFloors": 14,
+      "heating": "Klima",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500686536717?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500147249800?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500403078078?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500996246844?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500771666353?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500821228323?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500485844956?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500629456451?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500889840359?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500827117989?w=800&q=80&category=architecture"
+    ],
+    "agent": {
+      "id": "A60",
+      "name": "Agent 27",
+      "phone": "+54 684 821 9049",
+      "email": "agent39@iwrealty.com",
+      "photo": "/images/icons/png/london-prime-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": false,
+      "hasBalcony": false,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-07-13T10:50:47.174Z",
+    "updatedAt": "2025-11-13T10:50:47.174Z",
+    "storeId": "store-007"
+  },
+  {
+    "id": "P00133",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Residence - New Anguilla",
+    "slug": "satilik-residence-new-anguilla-P00133",
+    "description": "New Anguilla, Anguilla bölgesinde residence. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 14719402,
+    "location": {
+      "country": "AI",
+      "city": "New Anguilla",
+      "district": "New Anguilla Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 511",
+      "coordinates": {
+        "lat": 17.960523227101792,
+        "lng": -63.242986377266426
+      }
+    },
+    "specs": {
+      "netSize": 84,
+      "grossSize": 101,
+      "rooms": "1+2",
+      "bathrooms": 2,
+      "age": 1,
+      "floor": 7,
+      "totalFloors": 13,
+      "heating": "Merkezi",
+      "furnishing": "Unfurnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500148340032?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500734141209?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500600786660?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500063282559?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500468158025?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500854495433?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500159873870?w=800&q=80&category=interior"
+    ],
+    "agent": {
+      "id": "A59",
+      "name": "Agent 70",
+      "phone": "+58 938 498 4092",
+      "email": "agent73@iwrealty.com",
+      "photo": "/images/icons/png/london-prime-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": false,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-05-11T10:50:47.174Z",
+    "updatedAt": "2025-11-13T10:50:47.174Z",
+    "storeId": "store-007"
+  },
+  {
+    "id": "P00134",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Daire - Anguilla City",
+    "slug": "kiralik-daire-anguilla-city-P00134",
+    "description": "Anguilla City, Anguilla bölgesinde daire. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 13322189,
+    "location": {
+      "country": "AI",
+      "city": "Anguilla City",
+      "district": "Anguilla City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 425",
+      "coordinates": {
+        "lat": 18.33459048725324,
+        "lng": -62.66843424421772
+      }
+    },
+    "specs": {
+      "netSize": 92,
+      "grossSize": 110,
+      "rooms": "4+0",
+      "bathrooms": 1,
+      "age": 14,
+      "floor": 6,
+      "totalFloors": 12,
+      "heating": "Merkezi",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500985559717?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500993021951?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500164217251?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500248849452?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500505957132?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500223595340?w=800&q=80&category=building"
+    ],
+    "agent": {
+      "id": "A99",
+      "name": "Agent 90",
+      "phone": "+57 188 775 8142",
+      "email": "agent50@iwrealty.com",
+      "photo": "/images/icons/png/berlin-urban-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": false,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": true,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-09-04T10:50:47.174Z",
+    "updatedAt": "2025-11-13T10:50:47.174Z",
+    "storeId": "store-009"
+  },
+  {
+    "id": "P00135",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Daire - Anguilla Central",
+    "slug": "satilik-daire-anguilla-central-P00135",
+    "description": "Anguilla Central, Anguilla bölgesinde daire. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 854363,
+    "location": {
+      "country": "AI",
+      "city": "Anguilla Central",
+      "district": "Anguilla Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 316",
+      "coordinates": {
+        "lat": 18.12498676901137,
+        "lng": -62.76567463796256
+      }
+    },
+    "specs": {
+      "netSize": 229,
+      "grossSize": 275,
+      "rooms": "1+0",
+      "bathrooms": 3,
+      "age": 5,
+      "floor": 1,
+      "totalFloors": 19,
+      "heating": "Klima",
+      "furnishing": "Furnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500085301926?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500372517676?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500612763559?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500441117526?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500933451337?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500912746130?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500702390823?w=800&q=80&category=house"
+    ],
+    "agent": {
+      "id": "A47",
+      "name": "Agent 99",
+      "phone": "+63 822 938 1919",
+      "email": "agent74@iwrealty.com",
+      "photo": "/images/icons/png/sydney-coastal-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-08-08T10:50:47.174Z",
+    "updatedAt": "2025-11-13T10:50:47.174Z",
+    "storeId": "store-012"
+  },
+  {
+    "id": "P00136",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Villa - Anguilla City",
+    "slug": "kiralik-villa-anguilla-city-P00136",
+    "description": "Anguilla City, Anguilla bölgesinde villa. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 2136411,
+    "location": {
+      "country": "AI",
+      "city": "Anguilla City",
+      "district": "Anguilla City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 920",
+      "coordinates": {
+        "lat": 17.936371352403917,
+        "lng": -63.20901845794625
+      }
+    },
+    "specs": {
+      "netSize": 88,
+      "grossSize": 106,
+      "rooms": "1+2",
+      "bathrooms": 1,
+      "age": 12,
+      "floor": 5,
+      "totalFloors": 19,
+      "heating": "Merkezi",
+      "furnishing": "Unfurnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500465117703?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500722770764?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500133469216?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500663883804?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500220031296?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500914790388?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500970675983?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500721385662?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500554792085?w=800&q=80&category=building"
+    ],
+    "agent": {
+      "id": "A93",
+      "name": "Agent 67",
+      "phone": "+90 435 549 9103",
+      "email": "agent13@iwrealty.com",
+      "photo": "/images/icons/png/dubai-property-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": false,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-07-13T10:50:47.174Z",
+    "updatedAt": "2025-11-13T10:50:47.174Z",
+    "storeId": "store-004"
+  },
+  {
+    "id": "P00137",
+    "type": "sale",
+    "category": {
+      "main": "commercial",
+      "sub": "hospital"
+    },
+    "title": "Satılık Hastane - Anguilla City",
+    "slug": "satilik-hastane-anguilla-city-P00137",
+    "description": "Anguilla City, Anguilla bölgesinde hastane. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 23682540,
+    "location": {
+      "country": "AI",
+      "city": "Anguilla City",
+      "district": "Anguilla City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 769",
+      "coordinates": {
+        "lat": 18.28183421035788,
+        "lng": -63.0968038168703
+      }
+    },
+    "specs": {
+      "netSize": 3757,
+      "grossSize": 4508,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 19,
+      "floor": 2,
+      "totalFloors": 14,
+      "heating": "Klima",
+      "furnishing": "Unfurnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500691799921?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500034068070?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500398089943?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500609635862?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500255573849?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500853473373?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500526022318?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500114201556?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500801218532?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500924484673?w=800&q=80&category=building"
+    ],
+    "agent": {
+      "id": "A72",
+      "name": "Agent 24",
+      "phone": "+86 714 713 3667",
+      "email": "agent13@iwrealty.com",
+      "photo": "/images/icons/png/sg-harbour-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": true,
+      "hasPool": true,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-07-24T10:50:47.175Z",
+    "updatedAt": "2025-11-13T10:50:47.175Z",
+    "storeId": "store-011"
+  },
+  {
+    "id": "P00138",
+    "type": "rent",
+    "category": {
+      "main": "commercial",
+      "sub": "hospital"
+    },
+    "title": "Kiralık Hastane - Anguilla City",
+    "slug": "kiralik-hastane-anguilla-city-P00138",
+    "description": "Anguilla City, Anguilla bölgesinde hastane. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 58959902,
+    "location": {
+      "country": "AI",
+      "city": "Anguilla City",
+      "district": "Anguilla City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 880",
+      "coordinates": {
+        "lat": 18.58261863609391,
+        "lng": -63.55323010439074
+      }
+    },
+    "specs": {
+      "netSize": 2311,
+      "grossSize": 2773,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 0,
+      "floor": 6,
+      "totalFloors": 9,
+      "heating": "Merkezi",
+      "furnishing": "Furnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500824688333?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500283176254?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500792242069?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500430709997?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500461650885?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500460147181?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500113740246?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500371034731?w=800&q=80&category=building"
+    ],
+    "agent": {
+      "id": "A50",
+      "name": "Agent 39",
+      "phone": "+94 948 326 4776",
+      "email": "agent63@iwrealty.com",
+      "photo": "/images/icons/png/luxury-homes-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": true,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-01-18T10:50:47.175Z",
+    "updatedAt": "2025-11-13T10:50:47.175Z",
+    "storeId": "store-002"
+  },
+  {
+    "id": "P00139",
+    "type": "sale",
+    "category": {
+      "main": "commercial",
+      "sub": "clinic"
+    },
+    "title": "Satılık Klinik - New Anguilla",
+    "slug": "satilik-klinik-new-anguilla-P00139",
+    "description": "New Anguilla, Anguilla bölgesinde klinik. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 16572823,
+    "location": {
+      "country": "AI",
+      "city": "New Anguilla",
+      "district": "New Anguilla Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 615",
+      "coordinates": {
+        "lat": 17.768948430770912,
+        "lng": -63.53499557600525
+      }
+    },
+    "specs": {
+      "netSize": 640,
+      "grossSize": 768,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 0,
+      "floor": 3,
+      "totalFloors": 5,
+      "heating": "Merkezi",
+      "furnishing": "Unfurnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500724285235?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500994980408?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500147414595?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500888915317?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500843372234?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500146241864?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500632358788?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500353468257?w=800&q=80&category=interior"
+    ],
+    "agent": {
+      "id": "A56",
+      "name": "Agent 12",
+      "phone": "+38 763 312 3431",
+      "email": "agent12@iwrealty.com",
+      "photo": "/images/icons/png/paris-heritage-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2024-12-09T10:50:47.175Z",
+    "updatedAt": "2025-11-13T10:50:47.175Z",
+    "storeId": "store-010"
+  },
+  {
+    "id": "P00140",
+    "type": "rent",
+    "category": {
+      "main": "commercial",
+      "sub": "clinic"
+    },
+    "title": "Kiralık Klinik - The Valley",
+    "slug": "kiralik-klinik-the-valley-P00140",
+    "description": "The Valley, Anguilla bölgesinde klinik. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 19123931,
+    "location": {
+      "country": "AI",
+      "city": "The Valley",
+      "district": "The Valley Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 596",
+      "coordinates": {
+        "lat": 18.235898132471746,
+        "lng": -62.908584415672884
+      }
+    },
+    "specs": {
+      "netSize": 1058,
+      "grossSize": 1270,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 18,
+      "floor": 3,
+      "totalFloors": 17,
+      "heating": "Klima",
+      "furnishing": "Furnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500673051222?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500899405916?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500458026045?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500931702853?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500376912620?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500227625601?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500283478332?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500224498703?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500370714510?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500342481097?w=800&q=80&category=real-estate"
+    ],
+    "agent": {
+      "id": "A25",
+      "name": "Agent 44",
+      "phone": "+62 965 559 9282",
+      "email": "agent1@iwrealty.com",
+      "photo": "/images/icons/png/sg-harbour-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": false,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": true,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-02-24T10:50:47.175Z",
+    "updatedAt": "2025-11-13T10:50:47.175Z",
+    "storeId": "store-011"
+  },
+  {
+    "id": "P00141",
+    "type": "sale",
+    "category": {
+      "main": "commercial",
+      "sub": "shop"
+    },
+    "title": "Satılık Dükkan - Anguilla Central",
+    "slug": "satilik-dükkan-anguilla-central-P00141",
+    "description": "Anguilla Central, Anguilla bölgesinde dükkan. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 929046,
+    "location": {
+      "country": "AI",
+      "city": "Anguilla Central",
+      "district": "Anguilla Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 927",
+      "coordinates": {
+        "lat": 18.282422301443457,
+        "lng": -63.215788450645235
+      }
+    },
+    "specs": {
+      "netSize": 259,
+      "grossSize": 311,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 17,
+      "floor": 5,
+      "totalFloors": 18,
+      "heating": "Kombi",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500190952020?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500753232599?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500870574465?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500479038045?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500582026613?w=800&q=80&category=architecture"
+    ],
+    "agent": {
+      "id": "A17",
+      "name": "Agent 40",
+      "phone": "+16 390 866 1011",
+      "email": "agent70@iwrealty.com",
+      "photo": "/images/icons/png/london-prime-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-07-03T10:50:47.175Z",
+    "updatedAt": "2025-11-13T10:50:47.175Z",
+    "storeId": "store-007"
+  },
+  {
+    "id": "P00142",
+    "type": "rent",
+    "category": {
+      "main": "commercial",
+      "sub": "shop"
+    },
+    "title": "Kiralık Dükkan - New Anguilla",
+    "slug": "kiralik-dükkan-new-anguilla-P00142",
+    "description": "New Anguilla, Anguilla bölgesinde dükkan. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 2842292,
+    "location": {
+      "country": "AI",
+      "city": "New Anguilla",
+      "district": "New Anguilla Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 971",
+      "coordinates": {
+        "lat": 18.085031208794454,
+        "lng": -63.50908519899126
+      }
+    },
+    "specs": {
+      "netSize": 231,
+      "grossSize": 277,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 14,
+      "floor": 1,
+      "totalFloors": 11,
+      "heating": "Klima",
+      "furnishing": "Unfurnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500569263306?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500408952828?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500250434024?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500192713723?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500322241873?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500496573518?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500571463315?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500728620217?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500998231160?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500913189873?w=800&q=80&category=house"
+    ],
+    "agent": {
+      "id": "A69",
+      "name": "Agent 67",
+      "phone": "+95 723 973 2631",
+      "email": "agent57@iwrealty.com",
+      "photo": "/images/icons/png/ankara-modern-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": false,
+      "hasBalcony": false,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-03-04T10:50:47.175Z",
+    "updatedAt": "2025-11-13T10:50:47.175Z",
+    "storeId": "store-003"
+  },
+  {
+    "id": "P00143",
+    "type": "sale",
+    "category": {
+      "main": "commercial",
+      "sub": "office"
+    },
+    "title": "Satılık Ofis - Anguilla Central",
+    "slug": "satilik-ofis-anguilla-central-P00143",
+    "description": "Anguilla Central, Anguilla bölgesinde ofis. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 9389359,
+    "location": {
+      "country": "AI",
+      "city": "Anguilla Central",
+      "district": "Anguilla Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 606",
+      "coordinates": {
+        "lat": 17.779283477944965,
+        "lng": -63.17297837933127
+      }
+    },
+    "specs": {
+      "netSize": 145,
+      "grossSize": 174,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 5,
+      "floor": 4,
+      "totalFloors": 16,
+      "heating": "Merkezi",
+      "furnishing": "Unfurnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500719120739?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500660764063?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500251450053?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500035245611?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500218782575?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500479258208?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500916233171?w=800&q=80&category=architecture"
+    ],
+    "agent": {
+      "id": "A44",
+      "name": "Agent 99",
+      "phone": "+69 491 608 5823",
+      "email": "agent24@iwrealty.com",
+      "photo": "/images/icons/png/antalya-investment-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": true,
+      "hasPool": true,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-11-08T10:50:47.175Z",
+    "updatedAt": "2025-11-13T10:50:47.175Z",
+    "storeId": "store-006"
+  },
+  {
+    "id": "P00144",
+    "type": "rent",
+    "category": {
+      "main": "commercial",
+      "sub": "office"
+    },
+    "title": "Kiralık Ofis - New Anguilla",
+    "slug": "kiralik-ofis-new-anguilla-P00144",
+    "description": "New Anguilla, Anguilla bölgesinde ofis. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 14426367,
+    "location": {
+      "country": "AI",
+      "city": "New Anguilla",
+      "district": "New Anguilla Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 290",
+      "coordinates": {
+        "lat": 18.636024558715864,
+        "lng": -63.297786376504746
+      }
+    },
+    "specs": {
+      "netSize": 678,
+      "grossSize": 814,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 10,
+      "floor": 10,
+      "totalFloors": 11,
+      "heating": "Kombi",
+      "furnishing": "Unfurnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500837646394?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500835020178?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500753854201?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500293642041?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500057505876?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500375786703?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500467805127?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500296268254?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500726628008?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500393928217?w=800&q=80&category=architecture"
+    ],
+    "agent": {
+      "id": "A26",
+      "name": "Agent 82",
+      "phone": "+61 778 115 5910",
+      "email": "agent37@iwrealty.com",
+      "photo": "/images/icons/png/sydney-coastal-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": true,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-09-04T10:50:47.175Z",
+    "updatedAt": "2025-11-13T10:50:47.175Z",
+    "storeId": "store-012"
+  },
+  {
+    "id": "P00145",
+    "type": "sale",
+    "category": {
+      "main": "commercial",
+      "sub": "mall"
+    },
+    "title": "Satılık AVM - Anguilla Central",
+    "slug": "satilik-avm-anguilla-central-P00145",
+    "description": "Anguilla Central, Anguilla bölgesinde avm. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 295263525,
+    "location": {
+      "country": "AI",
+      "city": "Anguilla Central",
+      "district": "Anguilla Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 49",
+      "coordinates": {
+        "lat": 17.817917371751587,
+        "lng": -63.59592576053027
+      }
+    },
+    "specs": {
+      "netSize": 35875,
+      "grossSize": 43050,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 6,
+      "floor": 14,
+      "totalFloors": 7,
+      "heating": "Kombi",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500732928466?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500335219046?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500538621676?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500732475634?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500827766891?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500463176313?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500946672982?w=800&q=80&category=house"
+    ],
+    "agent": {
+      "id": "A20",
+      "name": "Agent 17",
+      "phone": "+52 912 520 3055",
+      "email": "agent88@iwrealty.com",
+      "photo": "/images/icons/png/antalya-investment-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": false,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-07-19T10:50:47.175Z",
+    "updatedAt": "2025-11-13T10:50:47.175Z",
+    "storeId": "store-006"
+  },
+  {
+    "id": "P00146",
+    "type": "rent",
+    "category": {
+      "main": "commercial",
+      "sub": "mall"
+    },
+    "title": "Kiralık AVM - Anguilla City",
+    "slug": "kiralik-avm-anguilla-city-P00146",
+    "description": "Anguilla City, Anguilla bölgesinde avm. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 422412863,
+    "location": {
+      "country": "AI",
+      "city": "Anguilla City",
+      "district": "Anguilla City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 350",
+      "coordinates": {
+        "lat": 18.318732525201966,
+        "lng": -62.823011646605124
+      }
+    },
+    "specs": {
+      "netSize": 26039,
+      "grossSize": 31247,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 12,
+      "floor": 11,
+      "totalFloors": 12,
+      "heating": "Klima",
+      "furnishing": "Furnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500403660307?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500278003693?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500829913316?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500806980158?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500460003624?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500070690436?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500283420588?w=800&q=80&category=architecture"
+    ],
+    "agent": {
+      "id": "A6",
+      "name": "Agent 97",
+      "phone": "+67 644 374 4823",
+      "email": "agent25@iwrealty.com",
+      "photo": "/images/icons/png/dubai-property-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-07-01T10:50:47.175Z",
+    "updatedAt": "2025-11-13T10:50:47.175Z",
+    "storeId": "store-004"
+  },
+  {
+    "id": "P00147",
+    "type": "sale",
+    "category": {
+      "main": "commercial",
+      "sub": "hotel"
+    },
+    "title": "Satılık Otel - The Valley",
+    "slug": "satilik-otel-the-valley-P00147",
+    "description": "The Valley, Anguilla bölgesinde otel. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 164474112,
+    "location": {
+      "country": "AI",
+      "city": "The Valley",
+      "district": "The Valley Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 718",
+      "coordinates": {
+        "lat": 17.77443045154129,
+        "lng": -63.05583180344583
+      }
+    },
+    "specs": {
+      "netSize": 21567,
+      "grossSize": 25880,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 15,
+      "floor": 13,
+      "totalFloors": 15,
+      "heating": "Kombi",
+      "furnishing": "Furnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500238168916?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500032208941?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500196368199?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500099038325?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500088592802?w=800&q=80&category=real-estate"
+    ],
+    "agent": {
+      "id": "A31",
+      "name": "Agent 12",
+      "phone": "+18 262 158 5907",
+      "email": "agent73@iwrealty.com",
+      "photo": "/images/icons/png/izmir-sahil-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-09-24T10:50:47.175Z",
+    "updatedAt": "2025-11-13T10:50:47.175Z",
+    "storeId": "store-005"
+  },
+  {
+    "id": "P00148",
+    "type": "rent",
+    "category": {
+      "main": "commercial",
+      "sub": "hotel"
+    },
+    "title": "Kiralık Otel - The Valley",
+    "slug": "kiralik-otel-the-valley-P00148",
+    "description": "The Valley, Anguilla bölgesinde otel. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 124012002,
+    "location": {
+      "country": "AI",
+      "city": "The Valley",
+      "district": "The Valley Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 80",
+      "coordinates": {
+        "lat": 18.683449553960497,
+        "lng": -63.54834596721271
+      }
+    },
+    "specs": {
+      "netSize": 5560,
+      "grossSize": 6672,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 4,
+      "floor": 3,
+      "totalFloors": 8,
+      "heating": "Kombi",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500952413856?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500526695841?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500089394712?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500040575822?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500201387917?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500849096015?w=800&q=80&category=real-estate"
+    ],
+    "agent": {
+      "id": "A73",
+      "name": "Agent 41",
+      "phone": "+80 792 195 8476",
+      "email": "agent99@iwrealty.com",
+      "photo": "/images/icons/png/antalya-investment-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-02-24T10:50:47.175Z",
+    "updatedAt": "2025-11-13T10:50:47.175Z",
+    "storeId": "store-006"
+  },
+  {
+    "id": "P00149",
+    "type": "sale",
+    "category": {
+      "main": "commercial",
+      "sub": "restaurant"
+    },
+    "title": "Satılık Restoran - Anguilla Central",
+    "slug": "satilik-restoran-anguilla-central-P00149",
+    "description": "Anguilla Central, Anguilla bölgesinde restoran. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 6787363,
+    "location": {
+      "country": "AI",
+      "city": "Anguilla Central",
+      "district": "Anguilla Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 508",
+      "coordinates": {
+        "lat": 17.987456384138177,
+        "lng": -63.16768216054434
+      }
+    },
+    "specs": {
+      "netSize": 310,
+      "grossSize": 372,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 0,
+      "floor": 11,
+      "totalFloors": 15,
+      "heating": "Merkezi",
+      "furnishing": "Unfurnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500774789310?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500876240729?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500601044715?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500550564337?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500455477018?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500944165154?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500747334367?w=800&q=80&category=interior"
+    ],
+    "agent": {
+      "id": "A19",
+      "name": "Agent 78",
+      "phone": "+83 758 840 8795",
+      "email": "agent89@iwrealty.com",
+      "photo": "/images/icons/png/ny-skyline-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": true,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-01-22T10:50:47.175Z",
+    "updatedAt": "2025-11-13T10:50:47.175Z",
+    "storeId": "store-008"
+  },
+  {
+    "id": "P00150",
+    "type": "rent",
+    "category": {
+      "main": "commercial",
+      "sub": "restaurant"
+    },
+    "title": "Kiralık Restoran - Anguilla City",
+    "slug": "kiralik-restoran-anguilla-city-P00150",
+    "description": "Anguilla City, Anguilla bölgesinde restoran. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 9784381,
+    "location": {
+      "country": "AI",
+      "city": "Anguilla City",
+      "district": "Anguilla City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 142",
+      "coordinates": {
+        "lat": 18.230509949181968,
+        "lng": -62.78503450938557
+      }
+    },
+    "specs": {
+      "netSize": 278,
+      "grossSize": 334,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 18,
+      "floor": 3,
+      "totalFloors": 13,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500796069537?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500800144832?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500844546254?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500166739019?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500961745670?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500569635403?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500607563140?w=800&q=80&category=architecture"
+    ],
+    "agent": {
+      "id": "A37",
+      "name": "Agent 96",
+      "phone": "+35 873 160 7481",
+      "email": "agent18@iwrealty.com",
+      "photo": "/images/icons/png/berlin-urban-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": true,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-10-05T10:50:47.175Z",
+    "updatedAt": "2025-11-13T10:50:47.175Z",
+    "storeId": "store-009"
+  },
+  {
+    "id": "P00151",
+    "type": "sale",
+    "category": {
+      "main": "commercial",
+      "sub": "warehouse"
+    },
+    "title": "Satılık Depo - Anguilla City",
+    "slug": "satilik-depo-anguilla-city-P00151",
+    "description": "Anguilla City, Anguilla bölgesinde depo. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 16296965,
+    "location": {
+      "country": "AI",
+      "city": "Anguilla City",
+      "district": "Anguilla City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 136",
+      "coordinates": {
+        "lat": 18.45966037545063,
+        "lng": -63.39160296109201
+      }
+    },
+    "specs": {
+      "netSize": 4966,
+      "grossSize": 5959,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 1,
+      "floor": 14,
+      "totalFloors": 17,
+      "heating": "Klima",
+      "furnishing": "Furnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500729273867?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500938140655?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500127320403?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500230411480?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500455912462?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500688100107?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500072835239?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500063821664?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500282652749?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500706110959?w=800&q=80&category=architecture"
+    ],
+    "agent": {
+      "id": "A41",
+      "name": "Agent 42",
+      "phone": "+96 737 621 7288",
+      "email": "agent91@iwrealty.com",
+      "photo": "/images/icons/png/antalya-investment-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-09-29T10:50:47.175Z",
+    "updatedAt": "2025-11-13T10:50:47.175Z",
+    "storeId": "store-006"
+  },
+  {
+    "id": "P00152",
+    "type": "rent",
+    "category": {
+      "main": "commercial",
+      "sub": "warehouse"
+    },
+    "title": "Kiralık Depo - Anguilla City",
+    "slug": "kiralik-depo-anguilla-city-P00152",
+    "description": "Anguilla City, Anguilla bölgesinde depo. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 6289533,
+    "location": {
+      "country": "AI",
+      "city": "Anguilla City",
+      "district": "Anguilla City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 457",
+      "coordinates": {
+        "lat": 17.75022032930557,
+        "lng": -62.77103394786572
+      }
+    },
+    "specs": {
+      "netSize": 4013,
+      "grossSize": 4816,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 18,
+      "floor": 6,
+      "totalFloors": 13,
+      "heating": "Kombi",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500103042977?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500000073763?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500657301842?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500255025513?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500747106877?w=800&q=80&category=house"
+    ],
+    "agent": {
+      "id": "A41",
+      "name": "Agent 6",
+      "phone": "+77 364 719 6611",
+      "email": "agent69@iwrealty.com",
+      "photo": "/images/icons/png/london-prime-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-07-31T10:50:47.175Z",
+    "updatedAt": "2025-11-13T10:50:47.175Z",
+    "storeId": "store-007"
+  }
+]

@@ -1,0 +1,2367 @@
+[
+  {
+    "id": "P06233",
+    "type": "sale",
+    "category": {
+      "main": "government"
+    },
+    "title": "Satılık Hastane - Kingston",
+    "slug": "satilik-hastane-kingston-P06233",
+    "description": "Kingston, Norfolk Island bölgesinde hastane. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 37436164,
+    "location": {
+      "country": "NF",
+      "city": "Kingston",
+      "district": "Kingston Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 479",
+      "coordinates": {
+        "lat": -28.679074973838517,
+        "lng": 168.13654840265147
+      }
+    },
+    "specs": {
+      "netSize": 942,
+      "grossSize": 1130,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 12,
+      "floor": 2,
+      "totalFloors": 17,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Furnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500010237851?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500955437857?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500231801336?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500931816163?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500460227672?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500168733889?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500723782793?w=800&q=80&category=real-estate"
+    ],
+    "agent": {
+      "id": "A18",
+      "name": "Agent 65",
+      "phone": "+54 691 960 2865",
+      "email": "agent26@iwrealty.com",
+      "photo": "/images/icons/png/antalya-investment-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2024-11-24T10:50:47.245Z",
+    "updatedAt": "2025-11-13T10:50:47.245Z",
+    "storeId": "store-006"
+  },
+  {
+    "id": "P06234",
+    "type": "rent",
+    "category": {
+      "main": "government"
+    },
+    "title": "Kiralık Devlet Binası - Norfolk Island Central",
+    "slug": "kiralik-devlet-binası-norfolk-island-central-P06234",
+    "description": "Norfolk Island Central, Norfolk Island bölgesinde devlet binası. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 20317685,
+    "location": {
+      "country": "NF",
+      "city": "Norfolk Island Central",
+      "district": "Norfolk Island Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 506",
+      "coordinates": {
+        "lat": -29.49493419871723,
+        "lng": 168.20098786777675
+      }
+    },
+    "specs": {
+      "netSize": 1000,
+      "grossSize": 1200,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 14,
+      "floor": 4,
+      "totalFloors": 14,
+      "heating": "Merkezi",
+      "furnishing": "Unfurnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500172497164?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500671149995?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500698889216?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500921670947?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500137472276?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500427218383?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500123628390?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500946414488?w=800&q=80&category=house"
+    ],
+    "agent": {
+      "id": "A77",
+      "name": "Agent 84",
+      "phone": "+11 994 674 8026",
+      "email": "agent16@iwrealty.com",
+      "photo": "/images/icons/png/ankara-modern-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": false,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": true,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-03-31T10:50:47.245Z",
+    "updatedAt": "2025-11-13T10:50:47.245Z",
+    "storeId": "store-003"
+  },
+  {
+    "id": "P06235",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Residence - Norfolk Island City",
+    "slug": "satilik-residence-norfolk-island-city-P06235",
+    "description": "Norfolk Island City, Norfolk Island bölgesinde residence. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 7021163,
+    "location": {
+      "country": "NF",
+      "city": "Norfolk Island City",
+      "district": "Norfolk Island City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 53",
+      "coordinates": {
+        "lat": -28.537532608471533,
+        "lng": 167.8370527698061
+      }
+    },
+    "specs": {
+      "netSize": 257,
+      "grossSize": 308,
+      "rooms": "2+0",
+      "bathrooms": 2,
+      "age": 17,
+      "floor": 3,
+      "totalFloors": 7,
+      "heating": "Klima",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500026732166?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500301648177?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500393467410?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500098168208?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500666938302?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500975913245?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500374182123?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500463192130?w=800&q=80&category=house"
+    ],
+    "agent": {
+      "id": "A54",
+      "name": "Agent 92",
+      "phone": "+78 910 450 4234",
+      "email": "agent5@iwrealty.com",
+      "photo": "/images/icons/png/paris-heritage-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": false,
+      "hasBalcony": false,
+      "hasGarden": true,
+      "hasPool": true,
+      "hasSecurity": true
+    },
+    "createdAt": "2024-11-15T10:50:47.245Z",
+    "updatedAt": "2025-11-13T10:50:47.245Z",
+    "storeId": "store-010"
+  },
+  {
+    "id": "P06236",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Daire - New Norfolk Island",
+    "slug": "kiralik-daire-new-norfolk-island-P06236",
+    "description": "New Norfolk Island, Norfolk Island bölgesinde daire. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 9830454,
+    "location": {
+      "country": "NF",
+      "city": "New Norfolk Island",
+      "district": "New Norfolk Island Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 332",
+      "coordinates": {
+        "lat": -28.579154742818705,
+        "lng": 167.50084592500014
+      }
+    },
+    "specs": {
+      "netSize": 267,
+      "grossSize": 320,
+      "rooms": "1+0",
+      "bathrooms": 3,
+      "age": 12,
+      "floor": 11,
+      "totalFloors": 8,
+      "heating": "Klima",
+      "furnishing": "Unfurnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500397093897?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500716203480?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500328778380?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500161867841?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500567824445?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500571526250?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500823213179?w=800&q=80&category=real-estate"
+    ],
+    "agent": {
+      "id": "A25",
+      "name": "Agent 5",
+      "phone": "+44 941 135 8726",
+      "email": "agent23@iwrealty.com",
+      "photo": "/images/icons/png/sg-harbour-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": true,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-10-07T10:50:47.245Z",
+    "updatedAt": "2025-11-13T10:50:47.245Z",
+    "storeId": "store-011"
+  },
+  {
+    "id": "P06237",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Residence - Kingston",
+    "slug": "satilik-residence-kingston-P06237",
+    "description": "Kingston, Norfolk Island bölgesinde residence. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 1631344,
+    "location": {
+      "country": "NF",
+      "city": "Kingston",
+      "district": "Kingston Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 519",
+      "coordinates": {
+        "lat": -29.213031713030226,
+        "lng": 167.49159959289588
+      }
+    },
+    "specs": {
+      "netSize": 485,
+      "grossSize": 582,
+      "rooms": "3+2",
+      "bathrooms": 1,
+      "age": 13,
+      "floor": 13,
+      "totalFloors": 6,
+      "heating": "Klima",
+      "furnishing": "Unfurnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500179869414?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500020760798?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500890047495?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500551808421?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500669638789?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500498814843?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500192627759?w=800&q=80&category=interior"
+    ],
+    "agent": {
+      "id": "A75",
+      "name": "Agent 73",
+      "phone": "+34 707 486 1310",
+      "email": "agent22@iwrealty.com",
+      "photo": "/images/icons/png/sydney-coastal-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": false,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2024-12-06T10:50:47.245Z",
+    "updatedAt": "2025-11-13T10:50:47.245Z",
+    "storeId": "store-012"
+  },
+  {
+    "id": "P06238",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Villa - Norfolk Island Central",
+    "slug": "kiralik-villa-norfolk-island-central-P06238",
+    "description": "Norfolk Island Central, Norfolk Island bölgesinde villa. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 6585880,
+    "location": {
+      "country": "NF",
+      "city": "Norfolk Island Central",
+      "district": "Norfolk Island Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 806",
+      "coordinates": {
+        "lat": -28.636349853234215,
+        "lng": 168.23738944512056
+      }
+    },
+    "specs": {
+      "netSize": 202,
+      "grossSize": 242,
+      "rooms": "4+0",
+      "bathrooms": 3,
+      "age": 3,
+      "floor": 12,
+      "totalFloors": 17,
+      "heating": "Merkezi",
+      "furnishing": "Unfurnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500624565447?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500418862232?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500644848389?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500140769765?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500222393279?w=800&q=80&category=real-estate"
+    ],
+    "agent": {
+      "id": "A17",
+      "name": "Agent 19",
+      "phone": "+29 764 542 5887",
+      "email": "agent41@iwrealty.com",
+      "photo": "/images/icons/png/ankara-modern-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-06-14T10:50:47.245Z",
+    "updatedAt": "2025-11-13T10:50:47.245Z",
+    "storeId": "store-003"
+  },
+  {
+    "id": "P06239",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Villa - Kingston",
+    "slug": "satilik-villa-kingston-P06239",
+    "description": "Kingston, Norfolk Island bölgesinde villa. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 506748,
+    "location": {
+      "country": "NF",
+      "city": "Kingston",
+      "district": "Kingston Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 949",
+      "coordinates": {
+        "lat": -28.759520899122656,
+        "lng": 168.06571535115359
+      }
+    },
+    "specs": {
+      "netSize": 454,
+      "grossSize": 545,
+      "rooms": "5+2",
+      "bathrooms": 4,
+      "age": 4,
+      "floor": 9,
+      "totalFloors": 12,
+      "heating": "Kombi",
+      "furnishing": "Unfurnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500868942974?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500838850255?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500063594691?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500381756619?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500449142896?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500632967929?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500130322242?w=800&q=80&category=real-estate"
+    ],
+    "agent": {
+      "id": "A26",
+      "name": "Agent 22",
+      "phone": "+14 980 348 1458",
+      "email": "agent32@iwrealty.com",
+      "photo": "/images/icons/png/london-prime-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": true,
+      "hasPool": true,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-07-24T10:50:47.245Z",
+    "updatedAt": "2025-11-13T10:50:47.245Z",
+    "storeId": "store-007"
+  },
+  {
+    "id": "P06240",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Villa - Norfolk Island City",
+    "slug": "kiralik-villa-norfolk-island-city-P06240",
+    "description": "Norfolk Island City, Norfolk Island bölgesinde villa. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 9316985,
+    "location": {
+      "country": "NF",
+      "city": "Norfolk Island City",
+      "district": "Norfolk Island City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 117",
+      "coordinates": {
+        "lat": -29.116674150187333,
+        "lng": 167.50823529613095
+      }
+    },
+    "specs": {
+      "netSize": 274,
+      "grossSize": 329,
+      "rooms": "5+1",
+      "bathrooms": 1,
+      "age": 8,
+      "floor": 4,
+      "totalFloors": 7,
+      "heating": "Kombi",
+      "furnishing": "Unfurnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500814637893?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500589120897?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500039160389?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500825337962?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500831687406?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500349552143?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500061021163?w=800&q=80&category=building"
+    ],
+    "agent": {
+      "id": "A17",
+      "name": "Agent 58",
+      "phone": "+96 836 947 5538",
+      "email": "agent41@iwrealty.com",
+      "photo": "/images/icons/png/berlin-urban-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-06-07T10:50:47.245Z",
+    "updatedAt": "2025-11-13T10:50:47.245Z",
+    "storeId": "store-009"
+  },
+  {
+    "id": "P06241",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Residence - Norfolk Island Central",
+    "slug": "satilik-residence-norfolk-island-central-P06241",
+    "description": "Norfolk Island Central, Norfolk Island bölgesinde residence. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 9635316,
+    "location": {
+      "country": "NF",
+      "city": "Norfolk Island Central",
+      "district": "Norfolk Island Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 360",
+      "coordinates": {
+        "lat": -29.329894896535386,
+        "lng": 167.74751535149596
+      }
+    },
+    "specs": {
+      "netSize": 422,
+      "grossSize": 506,
+      "rooms": "1+2",
+      "bathrooms": 2,
+      "age": 20,
+      "floor": 10,
+      "totalFloors": 9,
+      "heating": "Klima",
+      "furnishing": "Furnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500011843552?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500269070685?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500512590636?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500734668330?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500378358665?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500890433681?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500531293326?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500442686002?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500290611535?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500246785893?w=800&q=80&category=building"
+    ],
+    "agent": {
+      "id": "A93",
+      "name": "Agent 93",
+      "phone": "+66 353 981 7753",
+      "email": "agent58@iwrealty.com",
+      "photo": "/images/icons/png/ankara-modern-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-05-21T10:50:47.245Z",
+    "updatedAt": "2025-11-13T10:50:47.245Z",
+    "storeId": "store-003"
+  },
+  {
+    "id": "P06242",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Müstakil Ev - New Norfolk Island",
+    "slug": "kiralik-müstakil-ev-new-norfolk-island-P06242",
+    "description": "New Norfolk Island, Norfolk Island bölgesinde müstakil ev. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 1203470,
+    "location": {
+      "country": "NF",
+      "city": "New Norfolk Island",
+      "district": "New Norfolk Island Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 829",
+      "coordinates": {
+        "lat": -29.277798731836615,
+        "lng": 167.95796176373713
+      }
+    },
+    "specs": {
+      "netSize": 445,
+      "grossSize": 534,
+      "rooms": "3+2",
+      "bathrooms": 3,
+      "age": 16,
+      "floor": 9,
+      "totalFloors": 12,
+      "heating": "Merkezi",
+      "furnishing": "Furnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500780015348?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500429887577?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500370608314?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500975949479?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500060879262?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500567328200?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500962606219?w=800&q=80&category=house"
+    ],
+    "agent": {
+      "id": "A48",
+      "name": "Agent 42",
+      "phone": "+19 344 493 5634",
+      "email": "agent36@iwrealty.com",
+      "photo": "/images/icons/png/sg-harbour-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": false,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-07-24T10:50:47.245Z",
+    "updatedAt": "2025-11-13T10:50:47.245Z",
+    "storeId": "store-011"
+  },
+  {
+    "id": "P06243",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Residence - New Norfolk Island",
+    "slug": "satilik-residence-new-norfolk-island-P06243",
+    "description": "New Norfolk Island, Norfolk Island bölgesinde residence. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 8016300,
+    "location": {
+      "country": "NF",
+      "city": "New Norfolk Island",
+      "district": "New Norfolk Island Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 649",
+      "coordinates": {
+        "lat": -29.17015119831279,
+        "lng": 167.72537587833594
+      }
+    },
+    "specs": {
+      "netSize": 213,
+      "grossSize": 256,
+      "rooms": "3+0",
+      "bathrooms": 2,
+      "age": 2,
+      "floor": 3,
+      "totalFloors": 17,
+      "heating": "Klima",
+      "furnishing": "Unfurnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500237941129?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500147272204?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500482550491?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500192978550?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500845019141?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500437713061?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500198858934?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500647908085?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500337786135?w=800&q=80&category=house"
+    ],
+    "agent": {
+      "id": "A45",
+      "name": "Agent 10",
+      "phone": "+95 352 140 9819",
+      "email": "agent82@iwrealty.com",
+      "photo": "/images/icons/png/sydney-coastal-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-04-08T10:50:47.245Z",
+    "updatedAt": "2025-11-13T10:50:47.245Z",
+    "storeId": "store-012"
+  },
+  {
+    "id": "P06244",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Müstakil Ev - Norfolk Island Central",
+    "slug": "kiralik-müstakil-ev-norfolk-island-central-P06244",
+    "description": "Norfolk Island Central, Norfolk Island bölgesinde müstakil ev. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 14694552,
+    "location": {
+      "country": "NF",
+      "city": "Norfolk Island Central",
+      "district": "Norfolk Island Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 55",
+      "coordinates": {
+        "lat": -28.754591832744154,
+        "lng": 167.9475572389753
+      }
+    },
+    "specs": {
+      "netSize": 123,
+      "grossSize": 148,
+      "rooms": "4+2",
+      "bathrooms": 4,
+      "age": 5,
+      "floor": 2,
+      "totalFloors": 6,
+      "heating": "Klima",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500057486486?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500670081243?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500094950525?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500620624825?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500743206997?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500122167293?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500788728332?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500101236144?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500669959290?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500056637053?w=800&q=80&category=real-estate"
+    ],
+    "agent": {
+      "id": "A45",
+      "name": "Agent 29",
+      "phone": "+20 651 747 7268",
+      "email": "agent46@iwrealty.com",
+      "photo": "/images/icons/png/sg-harbour-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": true,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-06-05T10:50:47.245Z",
+    "updatedAt": "2025-11-13T10:50:47.245Z",
+    "storeId": "store-011"
+  },
+  {
+    "id": "P06245",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Villa - New Norfolk Island",
+    "slug": "satilik-villa-new-norfolk-island-P06245",
+    "description": "New Norfolk Island, Norfolk Island bölgesinde villa. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 14809587,
+    "location": {
+      "country": "NF",
+      "city": "New Norfolk Island",
+      "district": "New Norfolk Island Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 939",
+      "coordinates": {
+        "lat": -29.2599669469545,
+        "lng": 167.57601598416477
+      }
+    },
+    "specs": {
+      "netSize": 430,
+      "grossSize": 516,
+      "rooms": "2+2",
+      "bathrooms": 3,
+      "age": 11,
+      "floor": 12,
+      "totalFloors": 5,
+      "heating": "Kombi",
+      "furnishing": "Unfurnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500472790025?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500355321521?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500758426881?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500138880095?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500666368537?w=800&q=80&category=real-estate"
+    ],
+    "agent": {
+      "id": "A89",
+      "name": "Agent 89",
+      "phone": "+32 395 974 3820",
+      "email": "agent79@iwrealty.com",
+      "photo": "/images/icons/png/izmir-sahil-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-06-10T10:50:47.245Z",
+    "updatedAt": "2025-11-13T10:50:47.245Z",
+    "storeId": "store-005"
+  },
+  {
+    "id": "P06246",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Villa - Kingston",
+    "slug": "kiralik-villa-kingston-P06246",
+    "description": "Kingston, Norfolk Island bölgesinde villa. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 1702856,
+    "location": {
+      "country": "NF",
+      "city": "Kingston",
+      "district": "Kingston Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 695",
+      "coordinates": {
+        "lat": -29.122492677609713,
+        "lng": 167.49826607908506
+      }
+    },
+    "specs": {
+      "netSize": 216,
+      "grossSize": 259,
+      "rooms": "1+2",
+      "bathrooms": 4,
+      "age": 15,
+      "floor": 14,
+      "totalFloors": 5,
+      "heating": "Merkezi",
+      "furnishing": "Furnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500687418172?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500490845393?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500763138054?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500705573980?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500950472718?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500755816015?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500960090121?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500790408744?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500862986413?w=800&q=80&category=interior"
+    ],
+    "agent": {
+      "id": "A56",
+      "name": "Agent 24",
+      "phone": "+91 569 411 3144",
+      "email": "agent34@iwrealty.com",
+      "photo": "/images/icons/png/berlin-urban-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-09-07T10:50:47.245Z",
+    "updatedAt": "2025-11-13T10:50:47.245Z",
+    "storeId": "store-009"
+  },
+  {
+    "id": "P06247",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Villa - Norfolk Island City",
+    "slug": "satilik-villa-norfolk-island-city-P06247",
+    "description": "Norfolk Island City, Norfolk Island bölgesinde villa. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 8556915,
+    "location": {
+      "country": "NF",
+      "city": "Norfolk Island City",
+      "district": "Norfolk Island City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 423",
+      "coordinates": {
+        "lat": -29.380878659425758,
+        "lng": 167.9708255590207
+      }
+    },
+    "specs": {
+      "netSize": 423,
+      "grossSize": 508,
+      "rooms": "3+0",
+      "bathrooms": 4,
+      "age": 13,
+      "floor": 15,
+      "totalFloors": 6,
+      "heating": "Kombi",
+      "furnishing": "Furnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500351927975?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500365785601?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500779957999?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500886643345?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500125736436?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500482980331?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500533879618?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500759980643?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500241414978?w=800&q=80&category=house"
+    ],
+    "agent": {
+      "id": "A80",
+      "name": "Agent 76",
+      "phone": "+68 364 677 5037",
+      "email": "agent57@iwrealty.com",
+      "photo": "/images/icons/png/berlin-urban-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-02-14T10:50:47.245Z",
+    "updatedAt": "2025-11-13T10:50:47.245Z",
+    "storeId": "store-009"
+  },
+  {
+    "id": "P06248",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Villa - Kingston",
+    "slug": "kiralik-villa-kingston-P06248",
+    "description": "Kingston, Norfolk Island bölgesinde villa. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 13527511,
+    "location": {
+      "country": "NF",
+      "city": "Kingston",
+      "district": "Kingston Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 361",
+      "coordinates": {
+        "lat": -29.293777554788342,
+        "lng": 167.5605504651799
+      }
+    },
+    "specs": {
+      "netSize": 351,
+      "grossSize": 421,
+      "rooms": "3+2",
+      "bathrooms": 1,
+      "age": 4,
+      "floor": 14,
+      "totalFloors": 12,
+      "heating": "Merkezi",
+      "furnishing": "Furnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500103511269?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500840688226?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500897603982?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500376402889?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500660045348?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500971359610?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500532780345?w=800&q=80&category=interior"
+    ],
+    "agent": {
+      "id": "A14",
+      "name": "Agent 29",
+      "phone": "+43 786 131 6584",
+      "email": "agent72@iwrealty.com",
+      "photo": "/images/icons/png/paris-heritage-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2024-12-25T10:50:47.245Z",
+    "updatedAt": "2025-11-13T10:50:47.245Z",
+    "storeId": "store-010"
+  },
+  {
+    "id": "P06249",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Residence - New Norfolk Island",
+    "slug": "satilik-residence-new-norfolk-island-P06249",
+    "description": "New Norfolk Island, Norfolk Island bölgesinde residence. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 13763370,
+    "location": {
+      "country": "NF",
+      "city": "New Norfolk Island",
+      "district": "New Norfolk Island Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 770",
+      "coordinates": {
+        "lat": -29.19893315776921,
+        "lng": 167.6879466458252
+      }
+    },
+    "specs": {
+      "netSize": 202,
+      "grossSize": 242,
+      "rooms": "3+2",
+      "bathrooms": 4,
+      "age": 19,
+      "floor": 12,
+      "totalFloors": 6,
+      "heating": "Kombi",
+      "furnishing": "Furnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500586220432?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500692825600?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500343840456?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500831581876?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500343629929?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500215356081?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500577538928?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500785779314?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500768780442?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500022786205?w=800&q=80&category=architecture"
+    ],
+    "agent": {
+      "id": "A65",
+      "name": "Agent 39",
+      "phone": "+60 981 151 9677",
+      "email": "agent89@iwrealty.com",
+      "photo": "/images/icons/png/berlin-urban-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-07-23T10:50:47.245Z",
+    "updatedAt": "2025-11-13T10:50:47.245Z",
+    "storeId": "store-009"
+  },
+  {
+    "id": "P06250",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Villa - New Norfolk Island",
+    "slug": "kiralik-villa-new-norfolk-island-P06250",
+    "description": "New Norfolk Island, Norfolk Island bölgesinde villa. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 2402929,
+    "location": {
+      "country": "NF",
+      "city": "New Norfolk Island",
+      "district": "New Norfolk Island Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 165",
+      "coordinates": {
+        "lat": -28.843564753317008,
+        "lng": 168.29517571822134
+      }
+    },
+    "specs": {
+      "netSize": 346,
+      "grossSize": 415,
+      "rooms": "1+0",
+      "bathrooms": 3,
+      "age": 0,
+      "floor": 13,
+      "totalFloors": 12,
+      "heating": "Kombi",
+      "furnishing": "Furnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500830252826?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500446921701?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500132795331?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500407138032?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500533440705?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500416572660?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500545779201?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500390489629?w=800&q=80&category=building"
+    ],
+    "agent": {
+      "id": "A27",
+      "name": "Agent 69",
+      "phone": "+32 100 402 1228",
+      "email": "agent7@iwrealty.com",
+      "photo": "/images/icons/png/luxury-homes-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-01-22T10:50:47.245Z",
+    "updatedAt": "2025-11-13T10:50:47.245Z",
+    "storeId": "store-002"
+  },
+  {
+    "id": "P06251",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Villa - Norfolk Island Central",
+    "slug": "satilik-villa-norfolk-island-central-P06251",
+    "description": "Norfolk Island Central, Norfolk Island bölgesinde villa. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 7926370,
+    "location": {
+      "country": "NF",
+      "city": "Norfolk Island Central",
+      "district": "Norfolk Island Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 357",
+      "coordinates": {
+        "lat": -28.917314339035254,
+        "lng": 168.445271403407
+      }
+    },
+    "specs": {
+      "netSize": 414,
+      "grossSize": 497,
+      "rooms": "4+2",
+      "bathrooms": 4,
+      "age": 1,
+      "floor": 8,
+      "totalFloors": 16,
+      "heating": "Merkezi",
+      "furnishing": "Furnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500798230620?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500266648487?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500650235772?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500251825341?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500366508776?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500062570396?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500274981136?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500211907488?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500163766915?w=800&q=80&category=real-estate"
+    ],
+    "agent": {
+      "id": "A84",
+      "name": "Agent 50",
+      "phone": "+59 327 339 8311",
+      "email": "agent45@iwrealty.com",
+      "photo": "/images/icons/png/berlin-urban-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": false,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-05-20T10:50:47.245Z",
+    "updatedAt": "2025-11-13T10:50:47.245Z",
+    "storeId": "store-009"
+  },
+  {
+    "id": "P06252",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Daire - New Norfolk Island",
+    "slug": "kiralik-daire-new-norfolk-island-P06252",
+    "description": "New Norfolk Island, Norfolk Island bölgesinde daire. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 14596414,
+    "location": {
+      "country": "NF",
+      "city": "New Norfolk Island",
+      "district": "New Norfolk Island Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 689",
+      "coordinates": {
+        "lat": -28.977030548550147,
+        "lng": 168.04619457600631
+      }
+    },
+    "specs": {
+      "netSize": 290,
+      "grossSize": 348,
+      "rooms": "1+0",
+      "bathrooms": 1,
+      "age": 2,
+      "floor": 3,
+      "totalFloors": 6,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Furnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500394697206?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500463760521?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500817372709?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500946794888?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500673478087?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500989224858?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500787050605?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500082585437?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500005396299?w=800&q=80&category=house"
+    ],
+    "agent": {
+      "id": "A54",
+      "name": "Agent 65",
+      "phone": "+53 690 103 9878",
+      "email": "agent44@iwrealty.com",
+      "photo": "/images/icons/png/antalya-investment-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-02-20T10:50:47.245Z",
+    "updatedAt": "2025-11-13T10:50:47.245Z",
+    "storeId": "store-006"
+  },
+  {
+    "id": "P06253",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Daire - Norfolk Island Central",
+    "slug": "satilik-daire-norfolk-island-central-P06253",
+    "description": "Norfolk Island Central, Norfolk Island bölgesinde daire. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 12119095,
+    "location": {
+      "country": "NF",
+      "city": "Norfolk Island Central",
+      "district": "Norfolk Island Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 305",
+      "coordinates": {
+        "lat": -29.03408380270152,
+        "lng": 167.72457870510377
+      }
+    },
+    "specs": {
+      "netSize": 143,
+      "grossSize": 172,
+      "rooms": "2+2",
+      "bathrooms": 1,
+      "age": 16,
+      "floor": 15,
+      "totalFloors": 17,
+      "heating": "Kombi",
+      "furnishing": "Furnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500390138232?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500831635482?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500556980119?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500242796808?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500095696126?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500412970207?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500377621680?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500073901072?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500197189405?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500500811978?w=800&q=80&category=interior"
+    ],
+    "agent": {
+      "id": "A5",
+      "name": "Agent 65",
+      "phone": "+64 751 304 3960",
+      "email": "agent79@iwrealty.com",
+      "photo": "/images/icons/png/berlin-urban-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-09-28T10:50:47.245Z",
+    "updatedAt": "2025-11-13T10:50:47.245Z",
+    "storeId": "store-009"
+  },
+  {
+    "id": "P06254",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Müstakil Ev - New Norfolk Island",
+    "slug": "kiralik-müstakil-ev-new-norfolk-island-P06254",
+    "description": "New Norfolk Island, Norfolk Island bölgesinde müstakil ev. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 7880200,
+    "location": {
+      "country": "NF",
+      "city": "New Norfolk Island",
+      "district": "New Norfolk Island Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 715",
+      "coordinates": {
+        "lat": -29.49004604964258,
+        "lng": 167.69380704509885
+      }
+    },
+    "specs": {
+      "netSize": 316,
+      "grossSize": 379,
+      "rooms": "5+1",
+      "bathrooms": 2,
+      "age": 14,
+      "floor": 4,
+      "totalFloors": 6,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500273119276?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500972709834?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500222450817?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500974541363?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500475067757?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500121400982?w=800&q=80&category=building"
+    ],
+    "agent": {
+      "id": "A20",
+      "name": "Agent 8",
+      "phone": "+75 391 150 3955",
+      "email": "agent46@iwrealty.com",
+      "photo": "/images/icons/png/ankara-modern-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": false,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-01-14T10:50:47.245Z",
+    "updatedAt": "2025-11-13T10:50:47.245Z",
+    "storeId": "store-003"
+  },
+  {
+    "id": "P06255",
+    "type": "sale",
+    "category": {
+      "main": "commercial",
+      "sub": "hospital"
+    },
+    "title": "Satılık Hastane - Norfolk Island Central",
+    "slug": "satilik-hastane-norfolk-island-central-P06255",
+    "description": "Norfolk Island Central, Norfolk Island bölgesinde hastane. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 61427589,
+    "location": {
+      "country": "NF",
+      "city": "Norfolk Island Central",
+      "district": "Norfolk Island Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 338",
+      "coordinates": {
+        "lat": -29.144412635591927,
+        "lng": 167.45044675813364
+      }
+    },
+    "specs": {
+      "netSize": 16503,
+      "grossSize": 19804,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 13,
+      "floor": 10,
+      "totalFloors": 9,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500593026429?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500570893967?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500350356861?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500843976283?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500363804215?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500070697952?w=800&q=80&category=building"
+    ],
+    "agent": {
+      "id": "A52",
+      "name": "Agent 40",
+      "phone": "+18 970 216 1071",
+      "email": "agent99@iwrealty.com",
+      "photo": "/images/icons/png/izmir-sahil-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": true,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-02-04T10:50:47.245Z",
+    "updatedAt": "2025-11-13T10:50:47.245Z",
+    "storeId": "store-005"
+  },
+  {
+    "id": "P06256",
+    "type": "rent",
+    "category": {
+      "main": "commercial",
+      "sub": "hospital"
+    },
+    "title": "Kiralık Hastane - New Norfolk Island",
+    "slug": "kiralik-hastane-new-norfolk-island-P06256",
+    "description": "New Norfolk Island, Norfolk Island bölgesinde hastane. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 99167278,
+    "location": {
+      "country": "NF",
+      "city": "New Norfolk Island",
+      "district": "New Norfolk Island Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 701",
+      "coordinates": {
+        "lat": -29.39521260389675,
+        "lng": 167.6178616365398
+      }
+    },
+    "specs": {
+      "netSize": 10876,
+      "grossSize": 13051,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 3,
+      "floor": 15,
+      "totalFloors": 8,
+      "heating": "Merkezi",
+      "furnishing": "Furnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500074907433?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500238874261?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500731090280?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500189734754?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500134803507?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500346067888?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500758193188?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500023264485?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500736999266?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500329612066?w=800&q=80&category=building"
+    ],
+    "agent": {
+      "id": "A46",
+      "name": "Agent 7",
+      "phone": "+19 104 499 6803",
+      "email": "agent65@iwrealty.com",
+      "photo": "/images/icons/png/berlin-urban-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": true,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-03-11T10:50:47.245Z",
+    "updatedAt": "2025-11-13T10:50:47.245Z",
+    "storeId": "store-009"
+  },
+  {
+    "id": "P06257",
+    "type": "sale",
+    "category": {
+      "main": "commercial",
+      "sub": "clinic"
+    },
+    "title": "Satılık Klinik - New Norfolk Island",
+    "slug": "satilik-klinik-new-norfolk-island-P06257",
+    "description": "New Norfolk Island, Norfolk Island bölgesinde klinik. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 15128404,
+    "location": {
+      "country": "NF",
+      "city": "New Norfolk Island",
+      "district": "New Norfolk Island Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 655",
+      "coordinates": {
+        "lat": -29.278013498593126,
+        "lng": 168.43668500633495
+      }
+    },
+    "specs": {
+      "netSize": 207,
+      "grossSize": 248,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 11,
+      "floor": 8,
+      "totalFloors": 8,
+      "heating": "Merkezi",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500727744495?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500919310371?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500807111190?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500686939272?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500649495623?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500216499544?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500918037390?w=800&q=80&category=interior"
+    ],
+    "agent": {
+      "id": "A12",
+      "name": "Agent 33",
+      "phone": "+28 701 274 8671",
+      "email": "agent71@iwrealty.com",
+      "photo": "/images/icons/png/berlin-urban-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-10-14T10:50:47.245Z",
+    "updatedAt": "2025-11-13T10:50:47.245Z",
+    "storeId": "store-009"
+  },
+  {
+    "id": "P06258",
+    "type": "rent",
+    "category": {
+      "main": "commercial",
+      "sub": "clinic"
+    },
+    "title": "Kiralık Klinik - Norfolk Island City",
+    "slug": "kiralik-klinik-norfolk-island-city-P06258",
+    "description": "Norfolk Island City, Norfolk Island bölgesinde klinik. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 15941234,
+    "location": {
+      "country": "NF",
+      "city": "Norfolk Island City",
+      "district": "Norfolk Island City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 992",
+      "coordinates": {
+        "lat": -28.97422099975183,
+        "lng": 167.95770740823124
+      }
+    },
+    "specs": {
+      "netSize": 903,
+      "grossSize": 1084,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 10,
+      "floor": 4,
+      "totalFloors": 20,
+      "heating": "Klima",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500026356096?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500264294333?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500585245202?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500261538859?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500353661238?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500187208817?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500584251897?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500315334414?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500547307002?w=800&q=80&category=building"
+    ],
+    "agent": {
+      "id": "A96",
+      "name": "Agent 68",
+      "phone": "+75 593 184 4034",
+      "email": "agent57@iwrealty.com",
+      "photo": "/images/icons/png/ankara-modern-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": false,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": true,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-06-15T10:50:47.245Z",
+    "updatedAt": "2025-11-13T10:50:47.245Z",
+    "storeId": "store-003"
+  },
+  {
+    "id": "P06259",
+    "type": "sale",
+    "category": {
+      "main": "commercial",
+      "sub": "shop"
+    },
+    "title": "Satılık Dükkan - Norfolk Island Central",
+    "slug": "satilik-dükkan-norfolk-island-central-P06259",
+    "description": "Norfolk Island Central, Norfolk Island bölgesinde dükkan. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 2305919,
+    "location": {
+      "country": "NF",
+      "city": "Norfolk Island Central",
+      "district": "Norfolk Island Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 497",
+      "coordinates": {
+        "lat": -28.610732249257765,
+        "lng": 167.4739706026274
+      }
+    },
+    "specs": {
+      "netSize": 90,
+      "grossSize": 108,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 18,
+      "floor": 2,
+      "totalFloors": 10,
+      "heating": "Klima",
+      "furnishing": "Furnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500739004124?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500814831661?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500461582919?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500807879075?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500286034337?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500140169186?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500550060512?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500392640750?w=800&q=80&category=architecture"
+    ],
+    "agent": {
+      "id": "A80",
+      "name": "Agent 50",
+      "phone": "+30 179 182 2330",
+      "email": "agent11@iwrealty.com",
+      "photo": "/images/icons/png/ankara-modern-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-08-15T10:50:47.245Z",
+    "updatedAt": "2025-11-13T10:50:47.245Z",
+    "storeId": "store-003"
+  },
+  {
+    "id": "P06260",
+    "type": "rent",
+    "category": {
+      "main": "commercial",
+      "sub": "shop"
+    },
+    "title": "Kiralık Dükkan - Norfolk Island Central",
+    "slug": "kiralik-dükkan-norfolk-island-central-P06260",
+    "description": "Norfolk Island Central, Norfolk Island bölgesinde dükkan. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 7415352,
+    "location": {
+      "country": "NF",
+      "city": "Norfolk Island Central",
+      "district": "Norfolk Island Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 656",
+      "coordinates": {
+        "lat": -28.78022212995702,
+        "lng": 168.23471070569403
+      }
+    },
+    "specs": {
+      "netSize": 290,
+      "grossSize": 348,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 19,
+      "floor": 1,
+      "totalFloors": 18,
+      "heating": "Kombi",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500920927258?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500685519164?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500070833261?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500579021214?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500424043221?w=800&q=80&category=real-estate"
+    ],
+    "agent": {
+      "id": "A32",
+      "name": "Agent 7",
+      "phone": "+12 209 127 9380",
+      "email": "agent74@iwrealty.com",
+      "photo": "/images/icons/png/sg-harbour-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": false,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2024-12-19T10:50:47.245Z",
+    "updatedAt": "2025-11-13T10:50:47.245Z",
+    "storeId": "store-011"
+  },
+  {
+    "id": "P06261",
+    "type": "sale",
+    "category": {
+      "main": "commercial",
+      "sub": "office"
+    },
+    "title": "Satılık Ofis - Kingston",
+    "slug": "satilik-ofis-kingston-P06261",
+    "description": "Kingston, Norfolk Island bölgesinde ofis. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 13711832,
+    "location": {
+      "country": "NF",
+      "city": "Kingston",
+      "district": "Kingston Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 688",
+      "coordinates": {
+        "lat": -28.73104793373164,
+        "lng": 168.2779981044595
+      }
+    },
+    "specs": {
+      "netSize": 647,
+      "grossSize": 776,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 11,
+      "floor": 15,
+      "totalFloors": 13,
+      "heating": "Klima",
+      "furnishing": "Unfurnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500808116687?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500782302739?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500140719070?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500954640563?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500125345990?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500034350377?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500127447846?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500416419006?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500897651852?w=800&q=80&category=real-estate"
+    ],
+    "agent": {
+      "id": "A18",
+      "name": "Agent 91",
+      "phone": "+17 121 396 7246",
+      "email": "agent22@iwrealty.com",
+      "photo": "/images/icons/png/izmir-sahil-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-03-27T10:50:47.245Z",
+    "updatedAt": "2025-11-13T10:50:47.245Z",
+    "storeId": "store-005"
+  },
+  {
+    "id": "P06262",
+    "type": "rent",
+    "category": {
+      "main": "commercial",
+      "sub": "office"
+    },
+    "title": "Kiralık Ofis - Norfolk Island Central",
+    "slug": "kiralik-ofis-norfolk-island-central-P06262",
+    "description": "Norfolk Island Central, Norfolk Island bölgesinde ofis. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 10143291,
+    "location": {
+      "country": "NF",
+      "city": "Norfolk Island Central",
+      "district": "Norfolk Island Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 400",
+      "coordinates": {
+        "lat": -29.278159152849422,
+        "lng": 167.59515514946315
+      }
+    },
+    "specs": {
+      "netSize": 772,
+      "grossSize": 926,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 18,
+      "floor": 11,
+      "totalFloors": 15,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Unfurnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500557755418?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500407501459?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500840379589?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500679456266?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500499981744?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500924024614?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500772354440?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500807465896?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500362339464?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500533725644?w=800&q=80&category=interior"
+    ],
+    "agent": {
+      "id": "A87",
+      "name": "Agent 74",
+      "phone": "+35 643 603 2495",
+      "email": "agent18@iwrealty.com",
+      "photo": "/images/icons/png/antalya-investment-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": true,
+      "hasPool": true,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-10-10T10:50:47.245Z",
+    "updatedAt": "2025-11-13T10:50:47.245Z",
+    "storeId": "store-006"
+  },
+  {
+    "id": "P06263",
+    "type": "sale",
+    "category": {
+      "main": "commercial",
+      "sub": "mall"
+    },
+    "title": "Satılık AVM - Norfolk Island City",
+    "slug": "satilik-avm-norfolk-island-city-P06263",
+    "description": "Norfolk Island City, Norfolk Island bölgesinde avm. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 123425272,
+    "location": {
+      "country": "NF",
+      "city": "Norfolk Island City",
+      "district": "Norfolk Island City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 524",
+      "coordinates": {
+        "lat": -29.036636061691947,
+        "lng": 168.0350420080579
+      }
+    },
+    "specs": {
+      "netSize": 49177,
+      "grossSize": 59012,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 15,
+      "floor": 4,
+      "totalFloors": 11,
+      "heating": "Klima",
+      "furnishing": "Unfurnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500845122036?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500991485208?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500443399697?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500168186221?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500858360284?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500192707398?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500012911157?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500075179590?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500839672007?w=800&q=80&category=interior"
+    ],
+    "agent": {
+      "id": "A67",
+      "name": "Agent 55",
+      "phone": "+18 566 826 4634",
+      "email": "agent2@iwrealty.com",
+      "photo": "/images/icons/png/sg-harbour-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2024-12-15T10:50:47.245Z",
+    "updatedAt": "2025-11-13T10:50:47.245Z",
+    "storeId": "store-011"
+  },
+  {
+    "id": "P06264",
+    "type": "rent",
+    "category": {
+      "main": "commercial",
+      "sub": "mall"
+    },
+    "title": "Kiralık AVM - Norfolk Island City",
+    "slug": "kiralik-avm-norfolk-island-city-P06264",
+    "description": "Norfolk Island City, Norfolk Island bölgesinde avm. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 306888359,
+    "location": {
+      "country": "NF",
+      "city": "Norfolk Island City",
+      "district": "Norfolk Island City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 340",
+      "coordinates": {
+        "lat": -29.40522780467935,
+        "lng": 168.2697988621581
+      }
+    },
+    "specs": {
+      "netSize": 37734,
+      "grossSize": 45281,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 18,
+      "floor": 9,
+      "totalFloors": 20,
+      "heating": "Klima",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500540279329?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500151027228?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500366199556?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500686272985?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500315607968?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500748620310?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500200749857?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500798734070?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500246651899?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500345849975?w=800&q=80&category=real-estate"
+    ],
+    "agent": {
+      "id": "A9",
+      "name": "Agent 1",
+      "phone": "+62 666 676 7806",
+      "email": "agent84@iwrealty.com",
+      "photo": "/images/icons/png/sydney-coastal-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": false,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-10-08T10:50:47.245Z",
+    "updatedAt": "2025-11-13T10:50:47.245Z",
+    "storeId": "store-012"
+  },
+  {
+    "id": "P06265",
+    "type": "sale",
+    "category": {
+      "main": "commercial",
+      "sub": "hotel"
+    },
+    "title": "Satılık Otel - Kingston",
+    "slug": "satilik-otel-kingston-P06265",
+    "description": "Kingston, Norfolk Island bölgesinde otel. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 143127524,
+    "location": {
+      "country": "NF",
+      "city": "Kingston",
+      "district": "Kingston Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 527",
+      "coordinates": {
+        "lat": -29.153386031351722,
+        "lng": 167.78870542578133
+      }
+    },
+    "specs": {
+      "netSize": 9399,
+      "grossSize": 11279,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 2,
+      "floor": 8,
+      "totalFloors": 6,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Furnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500947983810?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500772579468?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500156859548?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500827240012?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500972525974?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500962989463?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500117502004?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500453784906?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500890041173?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500565752253?w=800&q=80&category=building"
+    ],
+    "agent": {
+      "id": "A60",
+      "name": "Agent 17",
+      "phone": "+80 327 847 6821",
+      "email": "agent25@iwrealty.com",
+      "photo": "/images/icons/png/luxury-homes-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": true,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-07-22T10:50:47.245Z",
+    "updatedAt": "2025-11-13T10:50:47.245Z",
+    "storeId": "store-002"
+  },
+  {
+    "id": "P06266",
+    "type": "rent",
+    "category": {
+      "main": "commercial",
+      "sub": "hotel"
+    },
+    "title": "Kiralık Otel - New Norfolk Island",
+    "slug": "kiralik-otel-new-norfolk-island-P06266",
+    "description": "New Norfolk Island, Norfolk Island bölgesinde otel. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 165780593,
+    "location": {
+      "country": "NF",
+      "city": "New Norfolk Island",
+      "district": "New Norfolk Island Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 45",
+      "coordinates": {
+        "lat": -29.51826747710654,
+        "lng": 167.83596500695114
+      }
+    },
+    "specs": {
+      "netSize": 10194,
+      "grossSize": 12233,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 19,
+      "floor": 13,
+      "totalFloors": 9,
+      "heating": "Kombi",
+      "furnishing": "Furnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500559871895?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500454503195?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500564004994?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500988061209?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500302628119?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500188007459?w=800&q=80&category=real-estate"
+    ],
+    "agent": {
+      "id": "A89",
+      "name": "Agent 15",
+      "phone": "+92 262 473 3717",
+      "email": "agent42@iwrealty.com",
+      "photo": "/images/icons/png/ny-skyline-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": false,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-04-10T10:50:47.245Z",
+    "updatedAt": "2025-11-13T10:50:47.245Z",
+    "storeId": "store-008"
+  },
+  {
+    "id": "P06267",
+    "type": "sale",
+    "category": {
+      "main": "commercial",
+      "sub": "restaurant"
+    },
+    "title": "Satılık Restoran - New Norfolk Island",
+    "slug": "satilik-restoran-new-norfolk-island-P06267",
+    "description": "New Norfolk Island, Norfolk Island bölgesinde restoran. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 2990945,
+    "location": {
+      "country": "NF",
+      "city": "New Norfolk Island",
+      "district": "New Norfolk Island Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 214",
+      "coordinates": {
+        "lat": -29.03550448049656,
+        "lng": 168.41765480881404
+      }
+    },
+    "specs": {
+      "netSize": 604,
+      "grossSize": 725,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 20,
+      "floor": 5,
+      "totalFloors": 9,
+      "heating": "Klima",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500373579535?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500744395304?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500219033296?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500373471329?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500734229846?w=800&q=80&category=house"
+    ],
+    "agent": {
+      "id": "A35",
+      "name": "Agent 63",
+      "phone": "+67 146 974 9871",
+      "email": "agent56@iwrealty.com",
+      "photo": "/images/icons/png/ankara-modern-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": false,
+      "hasBalcony": false,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-10-12T10:50:47.245Z",
+    "updatedAt": "2025-11-13T10:50:47.245Z",
+    "storeId": "store-003"
+  },
+  {
+    "id": "P06268",
+    "type": "rent",
+    "category": {
+      "main": "commercial",
+      "sub": "restaurant"
+    },
+    "title": "Kiralık Restoran - Norfolk Island City",
+    "slug": "kiralik-restoran-norfolk-island-city-P06268",
+    "description": "Norfolk Island City, Norfolk Island bölgesinde restoran. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 9524274,
+    "location": {
+      "country": "NF",
+      "city": "Norfolk Island City",
+      "district": "Norfolk Island City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 41",
+      "coordinates": {
+        "lat": -29.041225054107084,
+        "lng": 168.04892690211258
+      }
+    },
+    "specs": {
+      "netSize": 1353,
+      "grossSize": 1624,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 4,
+      "floor": 3,
+      "totalFloors": 5,
+      "heating": "Merkezi",
+      "furnishing": "Unfurnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500921322296?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500529265116?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500448357447?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500285091051?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500054475994?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500724045782?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500551546767?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500631885299?w=800&q=80&category=real-estate"
+    ],
+    "agent": {
+      "id": "A6",
+      "name": "Agent 63",
+      "phone": "+75 744 117 8791",
+      "email": "agent78@iwrealty.com",
+      "photo": "/images/icons/png/sg-harbour-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": true,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-07-17T10:50:47.245Z",
+    "updatedAt": "2025-11-13T10:50:47.245Z",
+    "storeId": "store-011"
+  },
+  {
+    "id": "P06269",
+    "type": "sale",
+    "category": {
+      "main": "commercial",
+      "sub": "warehouse"
+    },
+    "title": "Satılık Depo - New Norfolk Island",
+    "slug": "satilik-depo-new-norfolk-island-P06269",
+    "description": "New Norfolk Island, Norfolk Island bölgesinde depo. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 16283815,
+    "location": {
+      "country": "NF",
+      "city": "New Norfolk Island",
+      "district": "New Norfolk Island Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 73",
+      "coordinates": {
+        "lat": -28.945752086944633,
+        "lng": 167.82817605326957
+      }
+    },
+    "specs": {
+      "netSize": 3944,
+      "grossSize": 4733,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 2,
+      "floor": 6,
+      "totalFloors": 17,
+      "heating": "Merkezi",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500744106917?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500022354507?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500973270486?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500635789779?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500722103111?w=800&q=80&category=building"
+    ],
+    "agent": {
+      "id": "A27",
+      "name": "Agent 37",
+      "phone": "+38 804 809 4913",
+      "email": "agent96@iwrealty.com",
+      "photo": "/images/icons/png/paris-heritage-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-04-23T10:50:47.245Z",
+    "updatedAt": "2025-11-13T10:50:47.245Z",
+    "storeId": "store-010"
+  },
+  {
+    "id": "P06270",
+    "type": "rent",
+    "category": {
+      "main": "commercial",
+      "sub": "warehouse"
+    },
+    "title": "Kiralık Depo - Norfolk Island Central",
+    "slug": "kiralik-depo-norfolk-island-central-P06270",
+    "description": "Norfolk Island Central, Norfolk Island bölgesinde depo. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 12250271,
+    "location": {
+      "country": "NF",
+      "city": "Norfolk Island Central",
+      "district": "Norfolk Island Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 731",
+      "coordinates": {
+        "lat": -29.425760115563126,
+        "lng": 167.7594348453246
+      }
+    },
+    "specs": {
+      "netSize": 8026,
+      "grossSize": 9631,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 13,
+      "floor": 5,
+      "totalFloors": 18,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Furnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500960272719?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500289168447?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500324504842?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500464317236?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500997979101?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500237892794?w=800&q=80&category=building"
+    ],
+    "agent": {
+      "id": "A84",
+      "name": "Agent 73",
+      "phone": "+88 925 950 8506",
+      "email": "agent92@iwrealty.com",
+      "photo": "/images/icons/png/berlin-urban-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": false,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-09-23T10:50:47.245Z",
+    "updatedAt": "2025-11-13T10:50:47.245Z",
+    "storeId": "store-009"
+  }
+]

@@ -1,0 +1,2348 @@
+[
+  {
+    "id": "P07449",
+    "type": "sale",
+    "category": {
+      "main": "government"
+    },
+    "title": "Satılık Hastane - New Singapore",
+    "slug": "satilik-hastane-new-singapore-P07449",
+    "description": "New Singapore, Singapore bölgesinde hastane. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 11146824,
+    "location": {
+      "country": "SG",
+      "city": "New Singapore",
+      "district": "New Singapore Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 746",
+      "coordinates": {
+        "lat": 1.284748484511877,
+        "lng": 103.317521701349
+      }
+    },
+    "specs": {
+      "netSize": 3881,
+      "grossSize": 4657,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 5,
+      "floor": 9,
+      "totalFloors": 15,
+      "heating": "Merkezi",
+      "furnishing": "Furnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500008913572?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500395838997?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500829648083?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500841504424?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500274447410?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500582629202?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500095087128?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500171539658?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500441326253?w=800&q=80&category=building"
+    ],
+    "agent": {
+      "id": "A40",
+      "name": "Agent 2",
+      "phone": "+83 707 426 3609",
+      "email": "agent89@iwrealty.com",
+      "photo": "/images/icons/png/sg-harbour-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": true,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-10-29T10:50:47.257Z",
+    "updatedAt": "2025-11-13T10:50:47.257Z",
+    "storeId": "store-011"
+  },
+  {
+    "id": "P07450",
+    "type": "rent",
+    "category": {
+      "main": "government"
+    },
+    "title": "Kiralık Devlet Binası - Singapore City",
+    "slug": "kiralik-devlet-binası-singapore-city-P07450",
+    "description": "Singapore City, Singapore bölgesinde devlet binası. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 18514970,
+    "location": {
+      "country": "SG",
+      "city": "Singapore City",
+      "district": "Singapore City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 176",
+      "coordinates": {
+        "lat": 1.4856174472987802,
+        "lng": 104.17007130169151
+      }
+    },
+    "specs": {
+      "netSize": 1980,
+      "grossSize": 2376,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 17,
+      "floor": 13,
+      "totalFloors": 19,
+      "heating": "Kombi",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500247111519?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500546119830?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500576168969?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500393090694?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500346135845?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500001549717?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500362335807?w=800&q=80&category=real-estate"
+    ],
+    "agent": {
+      "id": "A33",
+      "name": "Agent 97",
+      "phone": "+72 589 735 7074",
+      "email": "agent55@iwrealty.com",
+      "photo": "/images/icons/png/sg-harbour-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-10-09T10:50:47.257Z",
+    "updatedAt": "2025-11-13T10:50:47.257Z",
+    "storeId": "store-011"
+  },
+  {
+    "id": "P07451",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Daire - Singapore City",
+    "slug": "satilik-daire-singapore-city-P07451",
+    "description": "Singapore City, Singapore bölgesinde daire. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 12448572,
+    "location": {
+      "country": "SG",
+      "city": "Singapore City",
+      "district": "Singapore City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 710",
+      "coordinates": {
+        "lat": 1.5063964827844978,
+        "lng": 103.50391253537452
+      }
+    },
+    "specs": {
+      "netSize": 403,
+      "grossSize": 484,
+      "rooms": "4+0",
+      "bathrooms": 4,
+      "age": 7,
+      "floor": 13,
+      "totalFloors": 7,
+      "heating": "Kombi",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500795038714?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500618044456?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500007020907?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500235348802?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500552292420?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500399337605?w=800&q=80&category=building"
+    ],
+    "agent": {
+      "id": "A51",
+      "name": "Agent 42",
+      "phone": "+23 697 489 1539",
+      "email": "agent80@iwrealty.com",
+      "photo": "/images/icons/png/sg-harbour-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-09-09T10:50:47.257Z",
+    "updatedAt": "2025-11-13T10:50:47.257Z",
+    "storeId": "store-011"
+  },
+  {
+    "id": "P07452",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Daire - New Singapore",
+    "slug": "kiralik-daire-new-singapore-P07452",
+    "description": "New Singapore, Singapore bölgesinde daire. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 8260055,
+    "location": {
+      "country": "SG",
+      "city": "New Singapore",
+      "district": "New Singapore Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 380",
+      "coordinates": {
+        "lat": 1.807676233216748,
+        "lng": 104.1616675411165
+      }
+    },
+    "specs": {
+      "netSize": 117,
+      "grossSize": 140,
+      "rooms": "2+2",
+      "bathrooms": 1,
+      "age": 7,
+      "floor": 6,
+      "totalFloors": 17,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Furnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500410636768?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500729350472?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500046153882?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500857519587?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500023134016?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500953024532?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500674903290?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500889425954?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500690561236?w=800&q=80&category=real-estate"
+    ],
+    "agent": {
+      "id": "A72",
+      "name": "Agent 47",
+      "phone": "+41 327 959 6812",
+      "email": "agent2@iwrealty.com",
+      "photo": "/images/icons/png/sg-harbour-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": false,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-09-07T10:50:47.257Z",
+    "updatedAt": "2025-11-13T10:50:47.257Z",
+    "storeId": "store-011"
+  },
+  {
+    "id": "P07453",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Residence - New Singapore",
+    "slug": "satilik-residence-new-singapore-P07453",
+    "description": "New Singapore, Singapore bölgesinde residence. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 5710974,
+    "location": {
+      "country": "SG",
+      "city": "New Singapore",
+      "district": "New Singapore Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 415",
+      "coordinates": {
+        "lat": 1.7041943486204363,
+        "lng": 103.54278141286368
+      }
+    },
+    "specs": {
+      "netSize": 478,
+      "grossSize": 574,
+      "rooms": "2+2",
+      "bathrooms": 4,
+      "age": 7,
+      "floor": 5,
+      "totalFloors": 11,
+      "heating": "Kombi",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500295601778?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500583643336?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500556120913?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500428563656?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500045778070?w=800&q=80&category=architecture"
+    ],
+    "agent": {
+      "id": "A54",
+      "name": "Agent 11",
+      "phone": "+67 354 388 1422",
+      "email": "agent80@iwrealty.com",
+      "photo": "/images/icons/png/sg-harbour-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": true,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-02-06T10:50:47.257Z",
+    "updatedAt": "2025-11-13T10:50:47.257Z",
+    "storeId": "store-011"
+  },
+  {
+    "id": "P07454",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Residence - Singapore City",
+    "slug": "kiralik-residence-singapore-city-P07454",
+    "description": "Singapore City, Singapore bölgesinde residence. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 14884872,
+    "location": {
+      "country": "SG",
+      "city": "Singapore City",
+      "district": "Singapore City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 344",
+      "coordinates": {
+        "lat": 1.709840984422351,
+        "lng": 104.24967769689883
+      }
+    },
+    "specs": {
+      "netSize": 409,
+      "grossSize": 491,
+      "rooms": "3+1",
+      "bathrooms": 3,
+      "age": 18,
+      "floor": 14,
+      "totalFloors": 5,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Furnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500622239336?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500881012373?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500702459143?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500202127128?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500428567515?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500354954366?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500067334201?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500882115402?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500072167828?w=800&q=80&category=building"
+    ],
+    "agent": {
+      "id": "A18",
+      "name": "Agent 80",
+      "phone": "+81 792 610 1953",
+      "email": "agent14@iwrealty.com",
+      "photo": "/images/icons/png/sg-harbour-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-10-25T10:50:47.257Z",
+    "updatedAt": "2025-11-13T10:50:47.257Z",
+    "storeId": "store-011"
+  },
+  {
+    "id": "P07455",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Residence - Singapore City",
+    "slug": "satilik-residence-singapore-city-P07455",
+    "description": "Singapore City, Singapore bölgesinde residence. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 1934470,
+    "location": {
+      "country": "SG",
+      "city": "Singapore City",
+      "district": "Singapore City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 491",
+      "coordinates": {
+        "lat": 1.3884014763664054,
+        "lng": 103.90736660313432
+      }
+    },
+    "specs": {
+      "netSize": 195,
+      "grossSize": 234,
+      "rooms": "1+0",
+      "bathrooms": 3,
+      "age": 7,
+      "floor": 13,
+      "totalFloors": 18,
+      "heating": "Klima",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500602202929?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500846404334?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500885531002?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500694906209?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500178648503?w=800&q=80&category=real-estate"
+    ],
+    "agent": {
+      "id": "A72",
+      "name": "Agent 62",
+      "phone": "+67 160 887 1245",
+      "email": "agent99@iwrealty.com",
+      "photo": "/images/icons/png/sg-harbour-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-11-11T10:50:47.257Z",
+    "updatedAt": "2025-11-13T10:50:47.257Z",
+    "storeId": "store-011"
+  },
+  {
+    "id": "P07456",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Residence - Singapore Central",
+    "slug": "kiralik-residence-singapore-central-P07456",
+    "description": "Singapore Central, Singapore bölgesinde residence. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 11058856,
+    "location": {
+      "country": "SG",
+      "city": "Singapore Central",
+      "district": "Singapore Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 174",
+      "coordinates": {
+        "lat": 1.0581090919109148,
+        "lng": 103.70498022445616
+      }
+    },
+    "specs": {
+      "netSize": 105,
+      "grossSize": 126,
+      "rooms": "2+2",
+      "bathrooms": 2,
+      "age": 10,
+      "floor": 4,
+      "totalFloors": 20,
+      "heating": "Klima",
+      "furnishing": "Unfurnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500002951947?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500821020068?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500064292977?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500277605285?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500563935532?w=800&q=80&category=house"
+    ],
+    "agent": {
+      "id": "A43",
+      "name": "Agent 47",
+      "phone": "+54 706 538 2215",
+      "email": "agent3@iwrealty.com",
+      "photo": "/images/icons/png/sg-harbour-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": true,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-10-23T10:50:47.257Z",
+    "updatedAt": "2025-11-13T10:50:47.257Z",
+    "storeId": "store-011"
+  },
+  {
+    "id": "P07457",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Müstakil Ev - New Singapore",
+    "slug": "satilik-müstakil-ev-new-singapore-P07457",
+    "description": "New Singapore, Singapore bölgesinde müstakil ev. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 6474209,
+    "location": {
+      "country": "SG",
+      "city": "New Singapore",
+      "district": "New Singapore Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 304",
+      "coordinates": {
+        "lat": 1.0828751675372699,
+        "lng": 103.53448494030245
+      }
+    },
+    "specs": {
+      "netSize": 166,
+      "grossSize": 199,
+      "rooms": "2+2",
+      "bathrooms": 2,
+      "age": 6,
+      "floor": 9,
+      "totalFloors": 11,
+      "heating": "Klima",
+      "furnishing": "Unfurnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500033810493?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500127869453?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500467848165?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500090557295?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500475997481?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500094885928?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500647191671?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500310961539?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500541027631?w=800&q=80&category=building"
+    ],
+    "agent": {
+      "id": "A92",
+      "name": "Agent 1",
+      "phone": "+22 655 935 6286",
+      "email": "agent41@iwrealty.com",
+      "photo": "/images/icons/png/sg-harbour-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-07-19T10:50:47.257Z",
+    "updatedAt": "2025-11-13T10:50:47.257Z",
+    "storeId": "store-011"
+  },
+  {
+    "id": "P07458",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Daire - Singapore Central",
+    "slug": "kiralik-daire-singapore-central-P07458",
+    "description": "Singapore Central, Singapore bölgesinde daire. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 1966638,
+    "location": {
+      "country": "SG",
+      "city": "Singapore Central",
+      "district": "Singapore Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 642",
+      "coordinates": {
+        "lat": 1.7564076195004377,
+        "lng": 103.87961555430432
+      }
+    },
+    "specs": {
+      "netSize": 440,
+      "grossSize": 528,
+      "rooms": "3+2",
+      "bathrooms": 4,
+      "age": 9,
+      "floor": 5,
+      "totalFloors": 16,
+      "heating": "Merkezi",
+      "furnishing": "Furnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500293013195?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500105159458?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500209499867?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500418081770?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500703334514?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500030354660?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500455557083?w=800&q=80&category=architecture"
+    ],
+    "agent": {
+      "id": "A20",
+      "name": "Agent 45",
+      "phone": "+45 959 992 7153",
+      "email": "agent63@iwrealty.com",
+      "photo": "/images/icons/png/sg-harbour-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-08-12T10:50:47.257Z",
+    "updatedAt": "2025-11-13T10:50:47.257Z",
+    "storeId": "store-011"
+  },
+  {
+    "id": "P07459",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Residence - New Singapore",
+    "slug": "satilik-residence-new-singapore-P07459",
+    "description": "New Singapore, Singapore bölgesinde residence. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 4590073,
+    "location": {
+      "country": "SG",
+      "city": "New Singapore",
+      "district": "New Singapore Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 312",
+      "coordinates": {
+        "lat": 1.7874386372846862,
+        "lng": 103.49995717321457
+      }
+    },
+    "specs": {
+      "netSize": 315,
+      "grossSize": 378,
+      "rooms": "1+0",
+      "bathrooms": 3,
+      "age": 3,
+      "floor": 14,
+      "totalFloors": 8,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500269634466?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500157680732?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500315651594?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500539666053?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500453930954?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500551834783?w=800&q=80&category=house"
+    ],
+    "agent": {
+      "id": "A76",
+      "name": "Agent 82",
+      "phone": "+35 520 378 3463",
+      "email": "agent76@iwrealty.com",
+      "photo": "/images/icons/png/sg-harbour-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": false,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": true,
+      "hasSecurity": true
+    },
+    "createdAt": "2024-11-28T10:50:47.257Z",
+    "updatedAt": "2025-11-13T10:50:47.257Z",
+    "storeId": "store-011"
+  },
+  {
+    "id": "P07460",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Daire - Singapore",
+    "slug": "kiralik-daire-singapore-P07460",
+    "description": "Singapore, Singapore bölgesinde daire. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 7140631,
+    "location": {
+      "country": "SG",
+      "city": "Singapore",
+      "district": "Singapore Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 232",
+      "coordinates": {
+        "lat": 1.212825424457992,
+        "lng": 103.95149485959506
+      }
+    },
+    "specs": {
+      "netSize": 86,
+      "grossSize": 103,
+      "rooms": "5+2",
+      "bathrooms": 4,
+      "age": 8,
+      "floor": 12,
+      "totalFloors": 19,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Unfurnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500805351035?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500124677123?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500719080470?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500123033531?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500692943220?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500568819615?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500599222553?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500511589006?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500375372997?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500846127765?w=800&q=80&category=house"
+    ],
+    "agent": {
+      "id": "A86",
+      "name": "Agent 36",
+      "phone": "+50 962 301 5169",
+      "email": "agent80@iwrealty.com",
+      "photo": "/images/icons/png/sg-harbour-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-08-08T10:50:47.257Z",
+    "updatedAt": "2025-11-13T10:50:47.257Z",
+    "storeId": "store-011"
+  },
+  {
+    "id": "P07461",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Villa - Singapore Central",
+    "slug": "satilik-villa-singapore-central-P07461",
+    "description": "Singapore Central, Singapore bölgesinde villa. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 7346200,
+    "location": {
+      "country": "SG",
+      "city": "Singapore Central",
+      "district": "Singapore Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 917",
+      "coordinates": {
+        "lat": 1.3766651038004705,
+        "lng": 103.81418483160918
+      }
+    },
+    "specs": {
+      "netSize": 495,
+      "grossSize": 594,
+      "rooms": "3+0",
+      "bathrooms": 3,
+      "age": 13,
+      "floor": 13,
+      "totalFloors": 12,
+      "heating": "Kombi",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500945505382?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500346360611?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500484754920?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500259365949?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500827310474?w=800&q=80&category=architecture"
+    ],
+    "agent": {
+      "id": "A60",
+      "name": "Agent 83",
+      "phone": "+98 782 166 7190",
+      "email": "agent54@iwrealty.com",
+      "photo": "/images/icons/png/sg-harbour-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": false,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-01-21T10:50:47.257Z",
+    "updatedAt": "2025-11-13T10:50:47.257Z",
+    "storeId": "store-011"
+  },
+  {
+    "id": "P07462",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Daire - New Singapore",
+    "slug": "kiralik-daire-new-singapore-P07462",
+    "description": "New Singapore, Singapore bölgesinde daire. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 11935162,
+    "location": {
+      "country": "SG",
+      "city": "New Singapore",
+      "district": "New Singapore Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 717",
+      "coordinates": {
+        "lat": 1.1098615487641283,
+        "lng": 103.6559446353927
+      }
+    },
+    "specs": {
+      "netSize": 239,
+      "grossSize": 287,
+      "rooms": "2+2",
+      "bathrooms": 1,
+      "age": 16,
+      "floor": 13,
+      "totalFloors": 17,
+      "heating": "Merkezi",
+      "furnishing": "Furnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500535267109?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500008736695?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500697020127?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500115071390?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500596386899?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500821693708?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500357107926?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500616860216?w=800&q=80&category=building"
+    ],
+    "agent": {
+      "id": "A92",
+      "name": "Agent 75",
+      "phone": "+25 468 302 9228",
+      "email": "agent100@iwrealty.com",
+      "photo": "/images/icons/png/sg-harbour-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": false,
+      "hasBalcony": false,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-10-12T10:50:47.257Z",
+    "updatedAt": "2025-11-13T10:50:47.257Z",
+    "storeId": "store-011"
+  },
+  {
+    "id": "P07463",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Müstakil Ev - Singapore Central",
+    "slug": "satilik-müstakil-ev-singapore-central-P07463",
+    "description": "Singapore Central, Singapore bölgesinde müstakil ev. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 6715152,
+    "location": {
+      "country": "SG",
+      "city": "Singapore Central",
+      "district": "Singapore Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 485",
+      "coordinates": {
+        "lat": 1.2036537592919752,
+        "lng": 103.55597852534713
+      }
+    },
+    "specs": {
+      "netSize": 327,
+      "grossSize": 392,
+      "rooms": "1+2",
+      "bathrooms": 3,
+      "age": 5,
+      "floor": 10,
+      "totalFloors": 9,
+      "heating": "Kombi",
+      "furnishing": "Unfurnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500793989635?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500896863169?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500370724073?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500055785824?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500730135370?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500632889496?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500479454543?w=800&q=80&category=house"
+    ],
+    "agent": {
+      "id": "A62",
+      "name": "Agent 80",
+      "phone": "+20 103 907 7189",
+      "email": "agent59@iwrealty.com",
+      "photo": "/images/icons/png/sg-harbour-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": true,
+      "hasPool": true,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-04-28T10:50:47.257Z",
+    "updatedAt": "2025-11-13T10:50:47.257Z",
+    "storeId": "store-011"
+  },
+  {
+    "id": "P07464",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Müstakil Ev - Singapore",
+    "slug": "kiralik-müstakil-ev-singapore-P07464",
+    "description": "Singapore, Singapore bölgesinde müstakil ev. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 7471994,
+    "location": {
+      "country": "SG",
+      "city": "Singapore",
+      "district": "Singapore Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 756",
+      "coordinates": {
+        "lat": 1.3670600622365674,
+        "lng": 103.60633511284081
+      }
+    },
+    "specs": {
+      "netSize": 454,
+      "grossSize": 545,
+      "rooms": "4+2",
+      "bathrooms": 2,
+      "age": 7,
+      "floor": 15,
+      "totalFloors": 10,
+      "heating": "Kombi",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500554036755?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500224256345?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500574141629?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500354536010?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500139642434?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500586999842?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500982126780?w=800&q=80&category=house"
+    ],
+    "agent": {
+      "id": "A13",
+      "name": "Agent 39",
+      "phone": "+21 682 939 5398",
+      "email": "agent1@iwrealty.com",
+      "photo": "/images/icons/png/sg-harbour-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": false,
+      "hasBalcony": false,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-06-27T10:50:47.257Z",
+    "updatedAt": "2025-11-13T10:50:47.257Z",
+    "storeId": "store-011"
+  },
+  {
+    "id": "P07465",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Müstakil Ev - New Singapore",
+    "slug": "satilik-müstakil-ev-new-singapore-P07465",
+    "description": "New Singapore, Singapore bölgesinde müstakil ev. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 3282749,
+    "location": {
+      "country": "SG",
+      "city": "New Singapore",
+      "district": "New Singapore Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 724",
+      "coordinates": {
+        "lat": 1.7381209668102762,
+        "lng": 103.57392660400727
+      }
+    },
+    "specs": {
+      "netSize": 290,
+      "grossSize": 348,
+      "rooms": "3+1",
+      "bathrooms": 1,
+      "age": 19,
+      "floor": 4,
+      "totalFloors": 15,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Furnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500189572412?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500229326328?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500387261372?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500973971279?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500198363519?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500672018442?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500409767161?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500283459116?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500927175706?w=800&q=80&category=house"
+    ],
+    "agent": {
+      "id": "A36",
+      "name": "Agent 83",
+      "phone": "+72 230 722 6816",
+      "email": "agent33@iwrealty.com",
+      "photo": "/images/icons/png/sg-harbour-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": false,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-08-07T10:50:47.257Z",
+    "updatedAt": "2025-11-13T10:50:47.257Z",
+    "storeId": "store-011"
+  },
+  {
+    "id": "P07466",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Villa - Singapore",
+    "slug": "kiralik-villa-singapore-P07466",
+    "description": "Singapore, Singapore bölgesinde villa. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 10052050,
+    "location": {
+      "country": "SG",
+      "city": "Singapore",
+      "district": "Singapore Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 795",
+      "coordinates": {
+        "lat": 1.5914537745786508,
+        "lng": 104.26151812483023
+      }
+    },
+    "specs": {
+      "netSize": 471,
+      "grossSize": 565,
+      "rooms": "3+0",
+      "bathrooms": 3,
+      "age": 0,
+      "floor": 10,
+      "totalFloors": 12,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500002958052?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500617822775?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500401311447?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500088984735?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500364173160?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500167137898?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500114131383?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500765269103?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500525857557?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500643184772?w=800&q=80&category=architecture"
+    ],
+    "agent": {
+      "id": "A83",
+      "name": "Agent 47",
+      "phone": "+66 212 204 3993",
+      "email": "agent56@iwrealty.com",
+      "photo": "/images/icons/png/sg-harbour-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-04-19T10:50:47.257Z",
+    "updatedAt": "2025-11-13T10:50:47.257Z",
+    "storeId": "store-011"
+  },
+  {
+    "id": "P07467",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Daire - Singapore Central",
+    "slug": "satilik-daire-singapore-central-P07467",
+    "description": "Singapore Central, Singapore bölgesinde daire. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 2463245,
+    "location": {
+      "country": "SG",
+      "city": "Singapore Central",
+      "district": "Singapore Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 459",
+      "coordinates": {
+        "lat": 1.1426354625152473,
+        "lng": 104.28396107720289
+      }
+    },
+    "specs": {
+      "netSize": 288,
+      "grossSize": 346,
+      "rooms": "4+0",
+      "bathrooms": 1,
+      "age": 20,
+      "floor": 4,
+      "totalFloors": 17,
+      "heating": "Kombi",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500260477070?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500613997021?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500134422414?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500250556801?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500694949249?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500223239360?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500381046734?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500130794595?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500683099281?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500655819109?w=800&q=80&category=building"
+    ],
+    "agent": {
+      "id": "A69",
+      "name": "Agent 15",
+      "phone": "+23 301 636 3820",
+      "email": "agent41@iwrealty.com",
+      "photo": "/images/icons/png/sg-harbour-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": false,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2024-12-02T10:50:47.257Z",
+    "updatedAt": "2025-11-13T10:50:47.257Z",
+    "storeId": "store-011"
+  },
+  {
+    "id": "P07468",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Müstakil Ev - Singapore City",
+    "slug": "kiralik-müstakil-ev-singapore-city-P07468",
+    "description": "Singapore City, Singapore bölgesinde müstakil ev. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 9763099,
+    "location": {
+      "country": "SG",
+      "city": "Singapore City",
+      "district": "Singapore City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 151",
+      "coordinates": {
+        "lat": 1.6527296137488965,
+        "lng": 103.34026108718339
+      }
+    },
+    "specs": {
+      "netSize": 384,
+      "grossSize": 461,
+      "rooms": "2+1",
+      "bathrooms": 4,
+      "age": 14,
+      "floor": 7,
+      "totalFloors": 10,
+      "heating": "Merkezi",
+      "furnishing": "Unfurnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500613153738?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500533817203?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500907148663?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500145773282?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500607240712?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500470863189?w=800&q=80&category=house"
+    ],
+    "agent": {
+      "id": "A67",
+      "name": "Agent 45",
+      "phone": "+32 108 643 9001",
+      "email": "agent93@iwrealty.com",
+      "photo": "/images/icons/png/sg-harbour-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": false,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-07-27T10:50:47.257Z",
+    "updatedAt": "2025-11-13T10:50:47.257Z",
+    "storeId": "store-011"
+  },
+  {
+    "id": "P07469",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Residence - Singapore",
+    "slug": "satilik-residence-singapore-P07469",
+    "description": "Singapore, Singapore bölgesinde residence. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 1973629,
+    "location": {
+      "country": "SG",
+      "city": "Singapore",
+      "district": "Singapore Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 110",
+      "coordinates": {
+        "lat": 1.3860732379841232,
+        "lng": 104.28326334977444
+      }
+    },
+    "specs": {
+      "netSize": 372,
+      "grossSize": 446,
+      "rooms": "5+2",
+      "bathrooms": 3,
+      "age": 2,
+      "floor": 15,
+      "totalFloors": 18,
+      "heating": "Klima",
+      "furnishing": "Furnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500539710520?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500842425214?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500603232736?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500863433770?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500777301216?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500359508132?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500026785753?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500642598816?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500354230045?w=800&q=80&category=interior"
+    ],
+    "agent": {
+      "id": "A37",
+      "name": "Agent 21",
+      "phone": "+59 106 308 1631",
+      "email": "agent42@iwrealty.com",
+      "photo": "/images/icons/png/sg-harbour-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-01-10T10:50:47.257Z",
+    "updatedAt": "2025-11-13T10:50:47.257Z",
+    "storeId": "store-011"
+  },
+  {
+    "id": "P07470",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Müstakil Ev - Singapore Central",
+    "slug": "kiralik-müstakil-ev-singapore-central-P07470",
+    "description": "Singapore Central, Singapore bölgesinde müstakil ev. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 5950430,
+    "location": {
+      "country": "SG",
+      "city": "Singapore Central",
+      "district": "Singapore Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 99",
+      "coordinates": {
+        "lat": 1.4091460934949978,
+        "lng": 103.42741447259522
+      }
+    },
+    "specs": {
+      "netSize": 386,
+      "grossSize": 463,
+      "rooms": "3+2",
+      "bathrooms": 4,
+      "age": 19,
+      "floor": 13,
+      "totalFloors": 13,
+      "heating": "Merkezi",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500802087656?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500639140905?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500137500084?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500567401385?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500838417766?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500659194566?w=800&q=80&category=house"
+    ],
+    "agent": {
+      "id": "A77",
+      "name": "Agent 8",
+      "phone": "+44 753 532 1223",
+      "email": "agent52@iwrealty.com",
+      "photo": "/images/icons/png/sg-harbour-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": true,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-11-09T10:50:47.257Z",
+    "updatedAt": "2025-11-13T10:50:47.257Z",
+    "storeId": "store-011"
+  },
+  {
+    "id": "P07471",
+    "type": "sale",
+    "category": {
+      "main": "commercial",
+      "sub": "hospital"
+    },
+    "title": "Satılık Hastane - Singapore City",
+    "slug": "satilik-hastane-singapore-city-P07471",
+    "description": "Singapore City, Singapore bölgesinde hastane. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 35183916,
+    "location": {
+      "country": "SG",
+      "city": "Singapore City",
+      "district": "Singapore City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 183",
+      "coordinates": {
+        "lat": 1.097006131383897,
+        "lng": 103.8989013122068
+      }
+    },
+    "specs": {
+      "netSize": 19235,
+      "grossSize": 23082,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 17,
+      "floor": 10,
+      "totalFloors": 19,
+      "heating": "Merkezi",
+      "furnishing": "Furnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500411551265?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500227277108?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500380931758?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500198889291?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500598624536?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500362928734?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500147859698?w=800&q=80&category=building"
+    ],
+    "agent": {
+      "id": "A6",
+      "name": "Agent 85",
+      "phone": "+87 640 365 6377",
+      "email": "agent74@iwrealty.com",
+      "photo": "/images/icons/png/sg-harbour-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": false,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2024-11-14T10:50:47.257Z",
+    "updatedAt": "2025-11-13T10:50:47.257Z",
+    "storeId": "store-011"
+  },
+  {
+    "id": "P07472",
+    "type": "rent",
+    "category": {
+      "main": "commercial",
+      "sub": "hospital"
+    },
+    "title": "Kiralık Hastane - Singapore Central",
+    "slug": "kiralik-hastane-singapore-central-P07472",
+    "description": "Singapore Central, Singapore bölgesinde hastane. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 59665151,
+    "location": {
+      "country": "SG",
+      "city": "Singapore Central",
+      "district": "Singapore Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 287",
+      "coordinates": {
+        "lat": 1.7369962715626426,
+        "lng": 104.24347781592222
+      }
+    },
+    "specs": {
+      "netSize": 13442,
+      "grossSize": 16130,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 4,
+      "floor": 7,
+      "totalFloors": 5,
+      "heating": "Klima",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500705988733?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500322872718?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500258099210?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500958228751?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500368180205?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500707222021?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500646328301?w=800&q=80&category=real-estate"
+    ],
+    "agent": {
+      "id": "A84",
+      "name": "Agent 44",
+      "phone": "+18 881 977 1748",
+      "email": "agent26@iwrealty.com",
+      "photo": "/images/icons/png/sg-harbour-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": false,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-09-11T10:50:47.257Z",
+    "updatedAt": "2025-11-13T10:50:47.257Z",
+    "storeId": "store-011"
+  },
+  {
+    "id": "P07473",
+    "type": "sale",
+    "category": {
+      "main": "commercial",
+      "sub": "clinic"
+    },
+    "title": "Satılık Klinik - New Singapore",
+    "slug": "satilik-klinik-new-singapore-P07473",
+    "description": "New Singapore, Singapore bölgesinde klinik. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 12356874,
+    "location": {
+      "country": "SG",
+      "city": "New Singapore",
+      "district": "New Singapore Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 873",
+      "coordinates": {
+        "lat": 0.8811062290601265,
+        "lng": 104.20256423791804
+      }
+    },
+    "specs": {
+      "netSize": 1005,
+      "grossSize": 1206,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 1,
+      "floor": 6,
+      "totalFloors": 18,
+      "heating": "Kombi",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500244980736?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500192845375?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500214676213?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500698559948?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500043466960?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500041336731?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500604634216?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500985871374?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500503856299?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500223627748?w=800&q=80&category=house"
+    ],
+    "agent": {
+      "id": "A90",
+      "name": "Agent 33",
+      "phone": "+86 692 636 4937",
+      "email": "agent20@iwrealty.com",
+      "photo": "/images/icons/png/sg-harbour-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2024-11-15T10:50:47.257Z",
+    "updatedAt": "2025-11-13T10:50:47.257Z",
+    "storeId": "store-011"
+  },
+  {
+    "id": "P07474",
+    "type": "rent",
+    "category": {
+      "main": "commercial",
+      "sub": "clinic"
+    },
+    "title": "Kiralık Klinik - New Singapore",
+    "slug": "kiralik-klinik-new-singapore-P07474",
+    "description": "New Singapore, Singapore bölgesinde klinik. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 6256351,
+    "location": {
+      "country": "SG",
+      "city": "New Singapore",
+      "district": "New Singapore Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 558",
+      "coordinates": {
+        "lat": 1.409842866553496,
+        "lng": 103.32245634641694
+      }
+    },
+    "specs": {
+      "netSize": 1902,
+      "grossSize": 2282,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 11,
+      "floor": 9,
+      "totalFloors": 10,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Furnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500393076406?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500583000004?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500913822304?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500638526356?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500737699307?w=800&q=80&category=architecture"
+    ],
+    "agent": {
+      "id": "A91",
+      "name": "Agent 66",
+      "phone": "+47 750 429 1204",
+      "email": "agent1@iwrealty.com",
+      "photo": "/images/icons/png/sg-harbour-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": true,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-09-13T10:50:47.257Z",
+    "updatedAt": "2025-11-13T10:50:47.257Z",
+    "storeId": "store-011"
+  },
+  {
+    "id": "P07475",
+    "type": "sale",
+    "category": {
+      "main": "commercial",
+      "sub": "shop"
+    },
+    "title": "Satılık Dükkan - Singapore Central",
+    "slug": "satilik-dükkan-singapore-central-P07475",
+    "description": "Singapore Central, Singapore bölgesinde dükkan. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 4023890,
+    "location": {
+      "country": "SG",
+      "city": "Singapore Central",
+      "district": "Singapore Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 651",
+      "coordinates": {
+        "lat": 1.5974162963708665,
+        "lng": 104.1525597555615
+      }
+    },
+    "specs": {
+      "netSize": 485,
+      "grossSize": 582,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 15,
+      "floor": 14,
+      "totalFloors": 8,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500348056892?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500852161784?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500932729260?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500075863072?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500574798908?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500682039372?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500832397126?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500560635894?w=800&q=80&category=architecture"
+    ],
+    "agent": {
+      "id": "A63",
+      "name": "Agent 78",
+      "phone": "+51 306 486 6453",
+      "email": "agent81@iwrealty.com",
+      "photo": "/images/icons/png/sg-harbour-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": false,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-03-08T10:50:47.257Z",
+    "updatedAt": "2025-11-13T10:50:47.257Z",
+    "storeId": "store-011"
+  },
+  {
+    "id": "P07476",
+    "type": "rent",
+    "category": {
+      "main": "commercial",
+      "sub": "shop"
+    },
+    "title": "Kiralık Dükkan - Singapore",
+    "slug": "kiralik-dükkan-singapore-P07476",
+    "description": "Singapore, Singapore bölgesinde dükkan. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 6554716,
+    "location": {
+      "country": "SG",
+      "city": "Singapore",
+      "district": "Singapore Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 927",
+      "coordinates": {
+        "lat": 1.8371627171861222,
+        "lng": 103.30978424556687
+      }
+    },
+    "specs": {
+      "netSize": 405,
+      "grossSize": 486,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 17,
+      "floor": 8,
+      "totalFloors": 19,
+      "heating": "Merkezi",
+      "furnishing": "Unfurnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500581659413?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500495342466?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500473918889?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500362196270?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500621447444?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500515846308?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500140746475?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500207937899?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500910361971?w=800&q=80&category=building"
+    ],
+    "agent": {
+      "id": "A6",
+      "name": "Agent 81",
+      "phone": "+65 392 322 9954",
+      "email": "agent79@iwrealty.com",
+      "photo": "/images/icons/png/sg-harbour-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-09-09T10:50:47.257Z",
+    "updatedAt": "2025-11-13T10:50:47.257Z",
+    "storeId": "store-011"
+  },
+  {
+    "id": "P07477",
+    "type": "sale",
+    "category": {
+      "main": "commercial",
+      "sub": "office"
+    },
+    "title": "Satılık Ofis - Singapore",
+    "slug": "satilik-ofis-singapore-P07477",
+    "description": "Singapore, Singapore bölgesinde ofis. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 14947840,
+    "location": {
+      "country": "SG",
+      "city": "Singapore",
+      "district": "Singapore Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 679",
+      "coordinates": {
+        "lat": 1.5769466077866923,
+        "lng": 103.68335783057594
+      }
+    },
+    "specs": {
+      "netSize": 351,
+      "grossSize": 421,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 14,
+      "floor": 14,
+      "totalFloors": 12,
+      "heating": "Merkezi",
+      "furnishing": "Unfurnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500662714903?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500396116799?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500432212083?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500795238405?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500380728543?w=800&q=80&category=building"
+    ],
+    "agent": {
+      "id": "A23",
+      "name": "Agent 39",
+      "phone": "+46 374 751 6353",
+      "email": "agent61@iwrealty.com",
+      "photo": "/images/icons/png/sg-harbour-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-03-11T10:50:47.257Z",
+    "updatedAt": "2025-11-13T10:50:47.257Z",
+    "storeId": "store-011"
+  },
+  {
+    "id": "P07478",
+    "type": "rent",
+    "category": {
+      "main": "commercial",
+      "sub": "office"
+    },
+    "title": "Kiralık Ofis - Singapore City",
+    "slug": "kiralik-ofis-singapore-city-P07478",
+    "description": "Singapore City, Singapore bölgesinde ofis. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 5756877,
+    "location": {
+      "country": "SG",
+      "city": "Singapore City",
+      "district": "Singapore City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 194",
+      "coordinates": {
+        "lat": 0.9035974846297613,
+        "lng": 104.0974396540737
+      }
+    },
+    "specs": {
+      "netSize": 480,
+      "grossSize": 576,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 16,
+      "floor": 12,
+      "totalFloors": 11,
+      "heating": "Klima",
+      "furnishing": "Unfurnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500369946229?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500580000957?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500593843845?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500082586718?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500364716083?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500880751321?w=800&q=80&category=house"
+    ],
+    "agent": {
+      "id": "A55",
+      "name": "Agent 9",
+      "phone": "+87 730 917 5004",
+      "email": "agent47@iwrealty.com",
+      "photo": "/images/icons/png/sg-harbour-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": true,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-04-23T10:50:47.257Z",
+    "updatedAt": "2025-11-13T10:50:47.257Z",
+    "storeId": "store-011"
+  },
+  {
+    "id": "P07479",
+    "type": "sale",
+    "category": {
+      "main": "commercial",
+      "sub": "mall"
+    },
+    "title": "Satılık AVM - New Singapore",
+    "slug": "satilik-avm-new-singapore-P07479",
+    "description": "New Singapore, Singapore bölgesinde avm. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 69912248,
+    "location": {
+      "country": "SG",
+      "city": "New Singapore",
+      "district": "New Singapore Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 866",
+      "coordinates": {
+        "lat": 1.688435641682473,
+        "lng": 103.36009612915151
+      }
+    },
+    "specs": {
+      "netSize": 5629,
+      "grossSize": 6755,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 6,
+      "floor": 4,
+      "totalFloors": 20,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Furnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500729471123?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500288559381?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500946583934?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500367845380?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500709136692?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500333841054?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500591611479?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500686430158?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500097652923?w=800&q=80&category=building"
+    ],
+    "agent": {
+      "id": "A12",
+      "name": "Agent 25",
+      "phone": "+79 204 685 7055",
+      "email": "agent35@iwrealty.com",
+      "photo": "/images/icons/png/sg-harbour-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-10-09T10:50:47.257Z",
+    "updatedAt": "2025-11-13T10:50:47.257Z",
+    "storeId": "store-011"
+  },
+  {
+    "id": "P07480",
+    "type": "rent",
+    "category": {
+      "main": "commercial",
+      "sub": "mall"
+    },
+    "title": "Kiralık AVM - Singapore Central",
+    "slug": "kiralik-avm-singapore-central-P07480",
+    "description": "Singapore Central, Singapore bölgesinde avm. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 82071334,
+    "location": {
+      "country": "SG",
+      "city": "Singapore Central",
+      "district": "Singapore Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 428",
+      "coordinates": {
+        "lat": 1.4363940635796646,
+        "lng": 103.81163092803831
+      }
+    },
+    "specs": {
+      "netSize": 20627,
+      "grossSize": 24752,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 13,
+      "floor": 4,
+      "totalFloors": 17,
+      "heating": "Klima",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500712366215?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500869290845?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500899980987?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500406915948?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500938260049?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500816302315?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500802486689?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500805121056?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500939131043?w=800&q=80&category=interior"
+    ],
+    "agent": {
+      "id": "A62",
+      "name": "Agent 60",
+      "phone": "+59 931 327 8109",
+      "email": "agent70@iwrealty.com",
+      "photo": "/images/icons/png/sg-harbour-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-10-02T10:50:47.257Z",
+    "updatedAt": "2025-11-13T10:50:47.257Z",
+    "storeId": "store-011"
+  },
+  {
+    "id": "P07481",
+    "type": "sale",
+    "category": {
+      "main": "commercial",
+      "sub": "hotel"
+    },
+    "title": "Satılık Otel - Singapore Central",
+    "slug": "satilik-otel-singapore-central-P07481",
+    "description": "Singapore Central, Singapore bölgesinde otel. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 195396839,
+    "location": {
+      "country": "SG",
+      "city": "Singapore Central",
+      "district": "Singapore Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 882",
+      "coordinates": {
+        "lat": 1.755791851143232,
+        "lng": 103.36603400063403
+      }
+    },
+    "specs": {
+      "netSize": 21131,
+      "grossSize": 25357,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 6,
+      "floor": 8,
+      "totalFloors": 20,
+      "heating": "Klima",
+      "furnishing": "Unfurnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500519594587?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500536124457?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500503550000?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500059574005?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500598271536?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500154312734?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500854405098?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500433574379?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500663534936?w=800&q=80&category=interior"
+    ],
+    "agent": {
+      "id": "A64",
+      "name": "Agent 67",
+      "phone": "+20 787 692 4954",
+      "email": "agent52@iwrealty.com",
+      "photo": "/images/icons/png/sg-harbour-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": false,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-09-25T10:50:47.257Z",
+    "updatedAt": "2025-11-13T10:50:47.257Z",
+    "storeId": "store-011"
+  },
+  {
+    "id": "P07482",
+    "type": "rent",
+    "category": {
+      "main": "commercial",
+      "sub": "hotel"
+    },
+    "title": "Kiralık Otel - Singapore Central",
+    "slug": "kiralik-otel-singapore-central-P07482",
+    "description": "Singapore Central, Singapore bölgesinde otel. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 121137528,
+    "location": {
+      "country": "SG",
+      "city": "Singapore Central",
+      "district": "Singapore Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 327",
+      "coordinates": {
+        "lat": 1.861002454168526,
+        "lng": 104.06809674219087
+      }
+    },
+    "specs": {
+      "netSize": 10146,
+      "grossSize": 12175,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 11,
+      "floor": 2,
+      "totalFloors": 6,
+      "heating": "Kombi",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500075041595?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500108552757?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500162222489?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500568461347?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500656483580?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500203384677?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500300794810?w=800&q=80&category=interior"
+    ],
+    "agent": {
+      "id": "A4",
+      "name": "Agent 43",
+      "phone": "+85 601 589 1999",
+      "email": "agent47@iwrealty.com",
+      "photo": "/images/icons/png/sg-harbour-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": false,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-01-16T10:50:47.257Z",
+    "updatedAt": "2025-11-13T10:50:47.257Z",
+    "storeId": "store-011"
+  },
+  {
+    "id": "P07483",
+    "type": "sale",
+    "category": {
+      "main": "commercial",
+      "sub": "restaurant"
+    },
+    "title": "Satılık Restoran - Singapore",
+    "slug": "satilik-restoran-singapore-P07483",
+    "description": "Singapore, Singapore bölgesinde restoran. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 7018895,
+    "location": {
+      "country": "SG",
+      "city": "Singapore",
+      "district": "Singapore Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 15",
+      "coordinates": {
+        "lat": 1.5390270858529047,
+        "lng": 104.0396276679853
+      }
+    },
+    "specs": {
+      "netSize": 845,
+      "grossSize": 1014,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 1,
+      "floor": 8,
+      "totalFloors": 14,
+      "heating": "Kombi",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500344529079?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500903519803?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500731874300?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500225677308?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500900491508?w=800&q=80&category=house"
+    ],
+    "agent": {
+      "id": "A99",
+      "name": "Agent 38",
+      "phone": "+11 529 860 6867",
+      "email": "agent86@iwrealty.com",
+      "photo": "/images/icons/png/sg-harbour-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": true,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-05-24T10:50:47.257Z",
+    "updatedAt": "2025-11-13T10:50:47.257Z",
+    "storeId": "store-011"
+  },
+  {
+    "id": "P07484",
+    "type": "rent",
+    "category": {
+      "main": "commercial",
+      "sub": "restaurant"
+    },
+    "title": "Kiralık Restoran - New Singapore",
+    "slug": "kiralik-restoran-new-singapore-P07484",
+    "description": "New Singapore, Singapore bölgesinde restoran. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 8326015,
+    "location": {
+      "country": "SG",
+      "city": "New Singapore",
+      "district": "New Singapore Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 721",
+      "coordinates": {
+        "lat": 1.0810187737402457,
+        "lng": 104.16189077418593
+      }
+    },
+    "specs": {
+      "netSize": 475,
+      "grossSize": 570,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 5,
+      "floor": 4,
+      "totalFloors": 17,
+      "heating": "Kombi",
+      "furnishing": "Unfurnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500196490564?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500423220443?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500284487211?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500380994750?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500489026110?w=800&q=80&category=interior"
+    ],
+    "agent": {
+      "id": "A36",
+      "name": "Agent 65",
+      "phone": "+66 715 635 1639",
+      "email": "agent62@iwrealty.com",
+      "photo": "/images/icons/png/sg-harbour-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": true,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-05-17T10:50:47.257Z",
+    "updatedAt": "2025-11-13T10:50:47.257Z",
+    "storeId": "store-011"
+  },
+  {
+    "id": "P07485",
+    "type": "sale",
+    "category": {
+      "main": "commercial",
+      "sub": "warehouse"
+    },
+    "title": "Satılık Depo - Singapore",
+    "slug": "satilik-depo-singapore-P07485",
+    "description": "Singapore, Singapore bölgesinde depo. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 18964083,
+    "location": {
+      "country": "SG",
+      "city": "Singapore",
+      "district": "Singapore Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 632",
+      "coordinates": {
+        "lat": 1.0590049450798138,
+        "lng": 103.90015266617277
+      }
+    },
+    "specs": {
+      "netSize": 8682,
+      "grossSize": 10418,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 1,
+      "floor": 8,
+      "totalFloors": 7,
+      "heating": "Klima",
+      "furnishing": "Unfurnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500305719603?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500146940348?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500424470814?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500900071352?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500941222355?w=800&q=80&category=architecture"
+    ],
+    "agent": {
+      "id": "A61",
+      "name": "Agent 66",
+      "phone": "+36 641 905 7775",
+      "email": "agent36@iwrealty.com",
+      "photo": "/images/icons/png/sg-harbour-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-10-19T10:50:47.257Z",
+    "updatedAt": "2025-11-13T10:50:47.257Z",
+    "storeId": "store-011"
+  },
+  {
+    "id": "P07486",
+    "type": "rent",
+    "category": {
+      "main": "commercial",
+      "sub": "warehouse"
+    },
+    "title": "Kiralık Depo - Singapore",
+    "slug": "kiralik-depo-singapore-P07486",
+    "description": "Singapore, Singapore bölgesinde depo. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 24112627,
+    "location": {
+      "country": "SG",
+      "city": "Singapore",
+      "district": "Singapore Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 744",
+      "coordinates": {
+        "lat": 1.036743392361187,
+        "lng": 103.30905987799841
+      }
+    },
+    "specs": {
+      "netSize": 9184,
+      "grossSize": 11021,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 15,
+      "floor": 4,
+      "totalFloors": 18,
+      "heating": "Klima",
+      "furnishing": "Furnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500871992693?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500749026990?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500696485023?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500575125745?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500980926770?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500223025472?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500195771247?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500998518802?w=800&q=80&category=interior"
+    ],
+    "agent": {
+      "id": "A13",
+      "name": "Agent 81",
+      "phone": "+99 516 684 8531",
+      "email": "agent41@iwrealty.com",
+      "photo": "/images/icons/png/sg-harbour-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-04-22T10:50:47.257Z",
+    "updatedAt": "2025-11-13T10:50:47.257Z",
+    "storeId": "store-011"
+  }
+]

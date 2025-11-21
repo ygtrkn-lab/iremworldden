@@ -1,0 +1,2338 @@
+[
+  {
+    "id": "P06841",
+    "type": "sale",
+    "category": {
+      "main": "government"
+    },
+    "title": "Satılık Belediye Binası - Port Moresby",
+    "slug": "satilik-belediye-binası-port-moresby-P06841",
+    "description": "Port Moresby, Papua New Guinea bölgesinde belediye binası. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 20894017,
+    "location": {
+      "country": "PG",
+      "city": "Port Moresby",
+      "district": "Port Moresby Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 134",
+      "coordinates": {
+        "lat": -5.847459388854105,
+        "lng": 147.29253971046947
+      }
+    },
+    "specs": {
+      "netSize": 3197,
+      "grossSize": 3836,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 13,
+      "floor": 2,
+      "totalFloors": 11,
+      "heating": "Kombi",
+      "furnishing": "Furnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500811080699?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500047551826?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500301052464?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500113340982?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500745331063?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500511341319?w=800&q=80&category=building"
+    ],
+    "agent": {
+      "id": "A96",
+      "name": "Agent 42",
+      "phone": "+84 213 992 3060",
+      "email": "agent95@iwrealty.com",
+      "photo": "/images/icons/png/sydney-coastal-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": true,
+      "hasPool": true,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-08-25T10:50:47.251Z",
+    "updatedAt": "2025-11-13T10:50:47.251Z",
+    "storeId": "store-012"
+  },
+  {
+    "id": "P06842",
+    "type": "rent",
+    "category": {
+      "main": "government"
+    },
+    "title": "Kiralık Devlet Binası - New Papua New Guinea",
+    "slug": "kiralik-devlet-binası-new-papua-new-guinea-P06842",
+    "description": "New Papua New Guinea, Papua New Guinea bölgesinde devlet binası. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 9235817,
+    "location": {
+      "country": "PG",
+      "city": "New Papua New Guinea",
+      "district": "New Papua New Guinea Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 669",
+      "coordinates": {
+        "lat": -6.427643727179215,
+        "lng": 147.3404596632008
+      }
+    },
+    "specs": {
+      "netSize": 2226,
+      "grossSize": 2671,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 16,
+      "floor": 13,
+      "totalFloors": 5,
+      "heating": "Klima",
+      "furnishing": "Unfurnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500558908010?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500061328423?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500245337557?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500229627985?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500297460258?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500659207240?w=800&q=80&category=house"
+    ],
+    "agent": {
+      "id": "A37",
+      "name": "Agent 70",
+      "phone": "+66 164 292 4359",
+      "email": "agent10@iwrealty.com",
+      "photo": "/images/icons/png/ny-skyline-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-02-27T10:50:47.251Z",
+    "updatedAt": "2025-11-13T10:50:47.251Z",
+    "storeId": "store-008"
+  },
+  {
+    "id": "P06843",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Daire - Papua New Guinea City",
+    "slug": "satilik-daire-papua-new-guinea-city-P06843",
+    "description": "Papua New Guinea City, Papua New Guinea bölgesinde daire. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 3966202,
+    "location": {
+      "country": "PG",
+      "city": "Papua New Guinea City",
+      "district": "Papua New Guinea City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 365",
+      "coordinates": {
+        "lat": -5.821653505180609,
+        "lng": 146.60592841514438
+      }
+    },
+    "specs": {
+      "netSize": 194,
+      "grossSize": 233,
+      "rooms": "3+1",
+      "bathrooms": 3,
+      "age": 13,
+      "floor": 14,
+      "totalFloors": 18,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Furnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500038166843?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500919440872?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500891415440?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500516755861?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500016192041?w=800&q=80&category=interior"
+    ],
+    "agent": {
+      "id": "A84",
+      "name": "Agent 61",
+      "phone": "+40 392 255 7868",
+      "email": "agent63@iwrealty.com",
+      "photo": "/images/icons/png/ankara-modern-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-06-05T10:50:47.251Z",
+    "updatedAt": "2025-11-13T10:50:47.251Z",
+    "storeId": "store-003"
+  },
+  {
+    "id": "P06844",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Residence - Papua New Guinea Central",
+    "slug": "kiralik-residence-papua-new-guinea-central-P06844",
+    "description": "Papua New Guinea Central, Papua New Guinea bölgesinde residence. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 4682813,
+    "location": {
+      "country": "PG",
+      "city": "Papua New Guinea Central",
+      "district": "Papua New Guinea Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 589",
+      "coordinates": {
+        "lat": -5.6686438159282355,
+        "lng": 146.77663447614364
+      }
+    },
+    "specs": {
+      "netSize": 395,
+      "grossSize": 474,
+      "rooms": "5+1",
+      "bathrooms": 3,
+      "age": 7,
+      "floor": 14,
+      "totalFloors": 8,
+      "heating": "Klima",
+      "furnishing": "Unfurnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500629562519?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500373822080?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500887364698?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500474330481?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500474718202?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500449055998?w=800&q=80&category=interior"
+    ],
+    "agent": {
+      "id": "A21",
+      "name": "Agent 20",
+      "phone": "+85 632 984 1673",
+      "email": "agent59@iwrealty.com",
+      "photo": "/images/icons/png/sydney-coastal-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": false,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": true,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-07-15T10:50:47.251Z",
+    "updatedAt": "2025-11-13T10:50:47.251Z",
+    "storeId": "store-012"
+  },
+  {
+    "id": "P06845",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Residence - Papua New Guinea City",
+    "slug": "satilik-residence-papua-new-guinea-city-P06845",
+    "description": "Papua New Guinea City, Papua New Guinea bölgesinde residence. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 11732282,
+    "location": {
+      "country": "PG",
+      "city": "Papua New Guinea City",
+      "district": "Papua New Guinea City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 158",
+      "coordinates": {
+        "lat": -5.694298101180309,
+        "lng": 147.46704248583129
+      }
+    },
+    "specs": {
+      "netSize": 259,
+      "grossSize": 311,
+      "rooms": "2+0",
+      "bathrooms": 4,
+      "age": 5,
+      "floor": 15,
+      "totalFloors": 16,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Furnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500391828881?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500146914609?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500651944740?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500952895361?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500379597670?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500010825320?w=800&q=80&category=real-estate"
+    ],
+    "agent": {
+      "id": "A83",
+      "name": "Agent 33",
+      "phone": "+48 506 242 4705",
+      "email": "agent48@iwrealty.com",
+      "photo": "/images/icons/png/dubai-property-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-05-09T10:50:47.251Z",
+    "updatedAt": "2025-11-13T10:50:47.251Z",
+    "storeId": "store-004"
+  },
+  {
+    "id": "P06846",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Daire - Papua New Guinea Central",
+    "slug": "kiralik-daire-papua-new-guinea-central-P06846",
+    "description": "Papua New Guinea Central, Papua New Guinea bölgesinde daire. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 7711529,
+    "location": {
+      "country": "PG",
+      "city": "Papua New Guinea Central",
+      "district": "Papua New Guinea Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 802",
+      "coordinates": {
+        "lat": -5.616757327483585,
+        "lng": 147.33220972407477
+      }
+    },
+    "specs": {
+      "netSize": 108,
+      "grossSize": 130,
+      "rooms": "2+2",
+      "bathrooms": 3,
+      "age": 15,
+      "floor": 6,
+      "totalFloors": 12,
+      "heating": "Kombi",
+      "furnishing": "Furnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500566232680?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500337280933?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500005895185?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500877635039?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500957656110?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500828287129?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500899524088?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500952163769?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500408914687?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500502565145?w=800&q=80&category=house"
+    ],
+    "agent": {
+      "id": "A24",
+      "name": "Agent 51",
+      "phone": "+19 481 281 2626",
+      "email": "agent86@iwrealty.com",
+      "photo": "/images/icons/png/berlin-urban-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": false,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": true,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-04-13T10:50:47.251Z",
+    "updatedAt": "2025-11-13T10:50:47.251Z",
+    "storeId": "store-009"
+  },
+  {
+    "id": "P06847",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Villa - Papua New Guinea City",
+    "slug": "satilik-villa-papua-new-guinea-city-P06847",
+    "description": "Papua New Guinea City, Papua New Guinea bölgesinde villa. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 13869272,
+    "location": {
+      "country": "PG",
+      "city": "Papua New Guinea City",
+      "district": "Papua New Guinea City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 818",
+      "coordinates": {
+        "lat": -5.552424248007101,
+        "lng": 147.13864466912162
+      }
+    },
+    "specs": {
+      "netSize": 327,
+      "grossSize": 392,
+      "rooms": "1+1",
+      "bathrooms": 4,
+      "age": 10,
+      "floor": 3,
+      "totalFloors": 13,
+      "heating": "Kombi",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500600607519?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500849626195?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500874642405?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500365040992?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500335090305?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500643219798?w=800&q=80&category=interior"
+    ],
+    "agent": {
+      "id": "A8",
+      "name": "Agent 22",
+      "phone": "+60 925 614 1760",
+      "email": "agent36@iwrealty.com",
+      "photo": "/images/icons/png/berlin-urban-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2024-11-20T10:50:47.251Z",
+    "updatedAt": "2025-11-13T10:50:47.251Z",
+    "storeId": "store-009"
+  },
+  {
+    "id": "P06848",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Villa - Papua New Guinea Central",
+    "slug": "kiralik-villa-papua-new-guinea-central-P06848",
+    "description": "Papua New Guinea Central, Papua New Guinea bölgesinde villa. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 13264644,
+    "location": {
+      "country": "PG",
+      "city": "Papua New Guinea Central",
+      "district": "Papua New Guinea Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 514",
+      "coordinates": {
+        "lat": -5.8923514926766245,
+        "lng": 147.21081739178376
+      }
+    },
+    "specs": {
+      "netSize": 231,
+      "grossSize": 277,
+      "rooms": "1+1",
+      "bathrooms": 4,
+      "age": 4,
+      "floor": 3,
+      "totalFloors": 11,
+      "heating": "Merkezi",
+      "furnishing": "Unfurnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500764592999?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500647425708?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500827316749?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500912938430?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500345827401?w=800&q=80&category=building"
+    ],
+    "agent": {
+      "id": "A85",
+      "name": "Agent 8",
+      "phone": "+96 434 232 4594",
+      "email": "agent63@iwrealty.com",
+      "photo": "/images/icons/png/antalya-investment-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-09-24T10:50:47.251Z",
+    "updatedAt": "2025-11-13T10:50:47.251Z",
+    "storeId": "store-006"
+  },
+  {
+    "id": "P06849",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Müstakil Ev - Papua New Guinea City",
+    "slug": "satilik-müstakil-ev-papua-new-guinea-city-P06849",
+    "description": "Papua New Guinea City, Papua New Guinea bölgesinde müstakil ev. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 7762252,
+    "location": {
+      "country": "PG",
+      "city": "Papua New Guinea City",
+      "district": "Papua New Guinea City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 462",
+      "coordinates": {
+        "lat": -6.274425368911219,
+        "lng": 147.3943473414665
+      }
+    },
+    "specs": {
+      "netSize": 340,
+      "grossSize": 408,
+      "rooms": "1+2",
+      "bathrooms": 2,
+      "age": 12,
+      "floor": 4,
+      "totalFloors": 11,
+      "heating": "Merkezi",
+      "furnishing": "Unfurnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500165146498?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500413448221?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500514521945?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500905167730?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500488292590?w=800&q=80&category=building"
+    ],
+    "agent": {
+      "id": "A3",
+      "name": "Agent 21",
+      "phone": "+54 740 505 1779",
+      "email": "agent34@iwrealty.com",
+      "photo": "/images/icons/png/luxury-homes-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-01-11T10:50:47.251Z",
+    "updatedAt": "2025-11-13T10:50:47.251Z",
+    "storeId": "store-002"
+  },
+  {
+    "id": "P06850",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Residence - New Papua New Guinea",
+    "slug": "kiralik-residence-new-papua-new-guinea-P06850",
+    "description": "New Papua New Guinea, Papua New Guinea bölgesinde residence. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 13497727,
+    "location": {
+      "country": "PG",
+      "city": "New Papua New Guinea",
+      "district": "New Papua New Guinea Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 730",
+      "coordinates": {
+        "lat": -6.287253080240504,
+        "lng": 146.80091609580643
+      }
+    },
+    "specs": {
+      "netSize": 212,
+      "grossSize": 254,
+      "rooms": "4+2",
+      "bathrooms": 2,
+      "age": 2,
+      "floor": 3,
+      "totalFloors": 9,
+      "heating": "Kombi",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500590511534?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500917941512?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500700774104?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500488219721?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500799111804?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500241544823?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500087599581?w=800&q=80&category=architecture"
+    ],
+    "agent": {
+      "id": "A44",
+      "name": "Agent 75",
+      "phone": "+72 318 515 6156",
+      "email": "agent74@iwrealty.com",
+      "photo": "/images/icons/png/dubai-property-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-01-10T10:50:47.251Z",
+    "updatedAt": "2025-11-13T10:50:47.251Z",
+    "storeId": "store-004"
+  },
+  {
+    "id": "P06851",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Villa - Port Moresby",
+    "slug": "satilik-villa-port-moresby-P06851",
+    "description": "Port Moresby, Papua New Guinea bölgesinde villa. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 6866084,
+    "location": {
+      "country": "PG",
+      "city": "Port Moresby",
+      "district": "Port Moresby Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 848",
+      "coordinates": {
+        "lat": -6.03446669471694,
+        "lng": 146.6857658882426
+      }
+    },
+    "specs": {
+      "netSize": 264,
+      "grossSize": 317,
+      "rooms": "5+2",
+      "bathrooms": 1,
+      "age": 17,
+      "floor": 14,
+      "totalFloors": 18,
+      "heating": "Merkezi",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500598920973?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500634653612?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500835271854?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500911266258?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500698572050?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500423810734?w=800&q=80&category=building"
+    ],
+    "agent": {
+      "id": "A11",
+      "name": "Agent 57",
+      "phone": "+45 570 784 6699",
+      "email": "agent55@iwrealty.com",
+      "photo": "/images/icons/png/luxury-homes-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-08-06T10:50:47.251Z",
+    "updatedAt": "2025-11-13T10:50:47.251Z",
+    "storeId": "store-002"
+  },
+  {
+    "id": "P06852",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Müstakil Ev - Port Moresby",
+    "slug": "kiralik-müstakil-ev-port-moresby-P06852",
+    "description": "Port Moresby, Papua New Guinea bölgesinde müstakil ev. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 10022286,
+    "location": {
+      "country": "PG",
+      "city": "Port Moresby",
+      "district": "Port Moresby Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 711",
+      "coordinates": {
+        "lat": -5.873123871179022,
+        "lng": 147.16538525826445
+      }
+    },
+    "specs": {
+      "netSize": 112,
+      "grossSize": 134,
+      "rooms": "1+1",
+      "bathrooms": 2,
+      "age": 17,
+      "floor": 2,
+      "totalFloors": 13,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500622166414?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500671464888?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500405530272?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500526259559?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500384971118?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500907420984?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500103950512?w=800&q=80&category=house"
+    ],
+    "agent": {
+      "id": "A34",
+      "name": "Agent 84",
+      "phone": "+96 945 695 7056",
+      "email": "agent15@iwrealty.com",
+      "photo": "/images/icons/png/dubai-property-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": false,
+      "hasBalcony": false,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-07-12T10:50:47.251Z",
+    "updatedAt": "2025-11-13T10:50:47.251Z",
+    "storeId": "store-004"
+  },
+  {
+    "id": "P06853",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Daire - Papua New Guinea City",
+    "slug": "satilik-daire-papua-new-guinea-city-P06853",
+    "description": "Papua New Guinea City, Papua New Guinea bölgesinde daire. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 13808152,
+    "location": {
+      "country": "PG",
+      "city": "Papua New Guinea City",
+      "district": "Papua New Guinea City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 870",
+      "coordinates": {
+        "lat": -6.242263865617929,
+        "lng": 146.8340877114791
+      }
+    },
+    "specs": {
+      "netSize": 417,
+      "grossSize": 500,
+      "rooms": "5+1",
+      "bathrooms": 3,
+      "age": 1,
+      "floor": 15,
+      "totalFloors": 10,
+      "heating": "Merkezi",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500457172363?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500022230028?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500349881618?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500087653363?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500789890202?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500039495081?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500156325957?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500448025675?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500095876466?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500652492014?w=800&q=80&category=real-estate"
+    ],
+    "agent": {
+      "id": "A71",
+      "name": "Agent 3",
+      "phone": "+44 466 232 4300",
+      "email": "agent93@iwrealty.com",
+      "photo": "/images/icons/png/sydney-coastal-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": false,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-03-08T10:50:47.251Z",
+    "updatedAt": "2025-11-13T10:50:47.251Z",
+    "storeId": "store-012"
+  },
+  {
+    "id": "P06854",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Villa - Papua New Guinea City",
+    "slug": "kiralik-villa-papua-new-guinea-city-P06854",
+    "description": "Papua New Guinea City, Papua New Guinea bölgesinde villa. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 5329238,
+    "location": {
+      "country": "PG",
+      "city": "Papua New Guinea City",
+      "district": "Papua New Guinea City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 666",
+      "coordinates": {
+        "lat": -6.165251839877852,
+        "lng": 146.96423890981163
+      }
+    },
+    "specs": {
+      "netSize": 121,
+      "grossSize": 145,
+      "rooms": "2+2",
+      "bathrooms": 4,
+      "age": 7,
+      "floor": 3,
+      "totalFloors": 14,
+      "heating": "Kombi",
+      "furnishing": "Furnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500688655310?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500095896499?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500010893459?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500106853934?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500423013326?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500270479948?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500904349174?w=800&q=80&category=building"
+    ],
+    "agent": {
+      "id": "A51",
+      "name": "Agent 43",
+      "phone": "+93 993 513 6070",
+      "email": "agent84@iwrealty.com",
+      "photo": "/images/icons/png/london-prime-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": true,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-10-16T10:50:47.251Z",
+    "updatedAt": "2025-11-13T10:50:47.251Z",
+    "storeId": "store-007"
+  },
+  {
+    "id": "P06855",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Müstakil Ev - Papua New Guinea Central",
+    "slug": "satilik-müstakil-ev-papua-new-guinea-central-P06855",
+    "description": "Papua New Guinea Central, Papua New Guinea bölgesinde müstakil ev. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 3374396,
+    "location": {
+      "country": "PG",
+      "city": "Papua New Guinea Central",
+      "district": "Papua New Guinea Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 383",
+      "coordinates": {
+        "lat": -6.012801953409234,
+        "lng": 147.05277488443582
+      }
+    },
+    "specs": {
+      "netSize": 133,
+      "grossSize": 160,
+      "rooms": "2+2",
+      "bathrooms": 1,
+      "age": 1,
+      "floor": 12,
+      "totalFloors": 7,
+      "heating": "Merkezi",
+      "furnishing": "Unfurnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500499802501?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500137215017?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500219943047?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500970233996?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500389042596?w=800&q=80&category=real-estate"
+    ],
+    "agent": {
+      "id": "A4",
+      "name": "Agent 19",
+      "phone": "+17 667 574 5526",
+      "email": "agent35@iwrealty.com",
+      "photo": "/images/icons/png/paris-heritage-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-09-03T10:50:47.251Z",
+    "updatedAt": "2025-11-13T10:50:47.251Z",
+    "storeId": "store-010"
+  },
+  {
+    "id": "P06856",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Residence - New Papua New Guinea",
+    "slug": "kiralik-residence-new-papua-new-guinea-P06856",
+    "description": "New Papua New Guinea, Papua New Guinea bölgesinde residence. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 11525610,
+    "location": {
+      "country": "PG",
+      "city": "New Papua New Guinea",
+      "district": "New Papua New Guinea Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 623",
+      "coordinates": {
+        "lat": -5.904813710525122,
+        "lng": 146.7274373177078
+      }
+    },
+    "specs": {
+      "netSize": 137,
+      "grossSize": 164,
+      "rooms": "2+2",
+      "bathrooms": 3,
+      "age": 20,
+      "floor": 11,
+      "totalFloors": 8,
+      "heating": "Kombi",
+      "furnishing": "Furnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500425824869?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500166476185?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500981126010?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500779283467?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500007614952?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500626049571?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500360835626?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500731217366?w=800&q=80&category=house"
+    ],
+    "agent": {
+      "id": "A86",
+      "name": "Agent 29",
+      "phone": "+11 899 815 3987",
+      "email": "agent21@iwrealty.com",
+      "photo": "/images/icons/png/london-prime-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2024-11-20T10:50:47.251Z",
+    "updatedAt": "2025-11-13T10:50:47.251Z",
+    "storeId": "store-007"
+  },
+  {
+    "id": "P06857",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Villa - Papua New Guinea Central",
+    "slug": "satilik-villa-papua-new-guinea-central-P06857",
+    "description": "Papua New Guinea Central, Papua New Guinea bölgesinde villa. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 2842717,
+    "location": {
+      "country": "PG",
+      "city": "Papua New Guinea Central",
+      "district": "Papua New Guinea Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 638",
+      "coordinates": {
+        "lat": -6.320523470643275,
+        "lng": 147.0921855574622
+      }
+    },
+    "specs": {
+      "netSize": 177,
+      "grossSize": 212,
+      "rooms": "1+0",
+      "bathrooms": 2,
+      "age": 3,
+      "floor": 1,
+      "totalFloors": 15,
+      "heating": "Merkezi",
+      "furnishing": "Unfurnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500583441751?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500170860245?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500222131368?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500131872984?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500634054935?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500992063911?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500389701402?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500446582334?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500324992730?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500732885938?w=800&q=80&category=real-estate"
+    ],
+    "agent": {
+      "id": "A72",
+      "name": "Agent 14",
+      "phone": "+50 761 425 8467",
+      "email": "agent80@iwrealty.com",
+      "photo": "/images/icons/png/antalya-investment-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-01-05T10:50:47.251Z",
+    "updatedAt": "2025-11-13T10:50:47.251Z",
+    "storeId": "store-006"
+  },
+  {
+    "id": "P06858",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Müstakil Ev - Papua New Guinea City",
+    "slug": "kiralik-müstakil-ev-papua-new-guinea-city-P06858",
+    "description": "Papua New Guinea City, Papua New Guinea bölgesinde müstakil ev. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 4538579,
+    "location": {
+      "country": "PG",
+      "city": "Papua New Guinea City",
+      "district": "Papua New Guinea City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 284",
+      "coordinates": {
+        "lat": -6.420723589791738,
+        "lng": 146.9725846672337
+      }
+    },
+    "specs": {
+      "netSize": 464,
+      "grossSize": 557,
+      "rooms": "2+0",
+      "bathrooms": 3,
+      "age": 13,
+      "floor": 13,
+      "totalFloors": 19,
+      "heating": "Merkezi",
+      "furnishing": "Unfurnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500181880709?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500215742986?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500750435421?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500830872287?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500975988470?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500343041590?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500648581035?w=800&q=80&category=building"
+    ],
+    "agent": {
+      "id": "A42",
+      "name": "Agent 74",
+      "phone": "+35 617 155 1863",
+      "email": "agent70@iwrealty.com",
+      "photo": "/images/icons/png/paris-heritage-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": true,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-05-08T10:50:47.251Z",
+    "updatedAt": "2025-11-13T10:50:47.251Z",
+    "storeId": "store-010"
+  },
+  {
+    "id": "P06859",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Daire - Port Moresby",
+    "slug": "satilik-daire-port-moresby-P06859",
+    "description": "Port Moresby, Papua New Guinea bölgesinde daire. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 2212310,
+    "location": {
+      "country": "PG",
+      "city": "Port Moresby",
+      "district": "Port Moresby Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 118",
+      "coordinates": {
+        "lat": -6.351389195355543,
+        "lng": 147.09186855021903
+      }
+    },
+    "specs": {
+      "netSize": 476,
+      "grossSize": 571,
+      "rooms": "2+0",
+      "bathrooms": 4,
+      "age": 13,
+      "floor": 2,
+      "totalFloors": 10,
+      "heating": "Klima",
+      "furnishing": "Furnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500114265796?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500476830932?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500329364147?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500924786350?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500237991718?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500808909911?w=800&q=80&category=house"
+    ],
+    "agent": {
+      "id": "A76",
+      "name": "Agent 16",
+      "phone": "+15 799 732 8107",
+      "email": "agent93@iwrealty.com",
+      "photo": "/images/icons/png/dubai-property-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-06-22T10:50:47.251Z",
+    "updatedAt": "2025-11-13T10:50:47.251Z",
+    "storeId": "store-004"
+  },
+  {
+    "id": "P06860",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Müstakil Ev - Papua New Guinea City",
+    "slug": "kiralik-müstakil-ev-papua-new-guinea-city-P06860",
+    "description": "Papua New Guinea City, Papua New Guinea bölgesinde müstakil ev. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 4249763,
+    "location": {
+      "country": "PG",
+      "city": "Papua New Guinea City",
+      "district": "Papua New Guinea City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 749",
+      "coordinates": {
+        "lat": -6.051535339376889,
+        "lng": 147.0538873610143
+      }
+    },
+    "specs": {
+      "netSize": 102,
+      "grossSize": 122,
+      "rooms": "5+1",
+      "bathrooms": 1,
+      "age": 2,
+      "floor": 3,
+      "totalFloors": 6,
+      "heating": "Merkezi",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500652410013?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500986215206?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500509990294?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500745954953?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500617866465?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500171473944?w=800&q=80&category=architecture"
+    ],
+    "agent": {
+      "id": "A98",
+      "name": "Agent 13",
+      "phone": "+35 856 253 9864",
+      "email": "agent32@iwrealty.com",
+      "photo": "/images/icons/png/ankara-modern-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-02-17T10:50:47.251Z",
+    "updatedAt": "2025-11-13T10:50:47.251Z",
+    "storeId": "store-003"
+  },
+  {
+    "id": "P06861",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Müstakil Ev - Papua New Guinea City",
+    "slug": "satilik-müstakil-ev-papua-new-guinea-city-P06861",
+    "description": "Papua New Guinea City, Papua New Guinea bölgesinde müstakil ev. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 6795017,
+    "location": {
+      "country": "PG",
+      "city": "Papua New Guinea City",
+      "district": "Papua New Guinea City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 854",
+      "coordinates": {
+        "lat": -5.555664254297574,
+        "lng": 147.33339486941352
+      }
+    },
+    "specs": {
+      "netSize": 491,
+      "grossSize": 589,
+      "rooms": "2+2",
+      "bathrooms": 1,
+      "age": 8,
+      "floor": 11,
+      "totalFloors": 16,
+      "heating": "Klima",
+      "furnishing": "Furnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500240304359?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500026811885?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500524087087?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500801064903?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500247180360?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500671641692?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500284725317?w=800&q=80&category=interior"
+    ],
+    "agent": {
+      "id": "A63",
+      "name": "Agent 71",
+      "phone": "+16 319 284 8271",
+      "email": "agent54@iwrealty.com",
+      "photo": "/images/icons/png/ankara-modern-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": false,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": true,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-03-16T10:50:47.251Z",
+    "updatedAt": "2025-11-13T10:50:47.251Z",
+    "storeId": "store-003"
+  },
+  {
+    "id": "P06862",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Villa - Papua New Guinea Central",
+    "slug": "kiralik-villa-papua-new-guinea-central-P06862",
+    "description": "Papua New Guinea Central, Papua New Guinea bölgesinde villa. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 4635134,
+    "location": {
+      "country": "PG",
+      "city": "Papua New Guinea Central",
+      "district": "Papua New Guinea Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 860",
+      "coordinates": {
+        "lat": -5.613230772402242,
+        "lng": 146.62116880023282
+      }
+    },
+    "specs": {
+      "netSize": 405,
+      "grossSize": 486,
+      "rooms": "4+0",
+      "bathrooms": 4,
+      "age": 13,
+      "floor": 14,
+      "totalFloors": 7,
+      "heating": "Kombi",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500801504880?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500260236738?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500096893646?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500340777385?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500629253536?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500495170047?w=800&q=80&category=building"
+    ],
+    "agent": {
+      "id": "A43",
+      "name": "Agent 1",
+      "phone": "+62 365 947 3898",
+      "email": "agent64@iwrealty.com",
+      "photo": "/images/icons/png/dubai-property-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": false,
+      "hasBalcony": false,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-10-24T10:50:47.251Z",
+    "updatedAt": "2025-11-13T10:50:47.251Z",
+    "storeId": "store-004"
+  },
+  {
+    "id": "P06863",
+    "type": "sale",
+    "category": {
+      "main": "commercial",
+      "sub": "hospital"
+    },
+    "title": "Satılık Hastane - Papua New Guinea City",
+    "slug": "satilik-hastane-papua-new-guinea-city-P06863",
+    "description": "Papua New Guinea City, Papua New Guinea bölgesinde hastane. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 83343994,
+    "location": {
+      "country": "PG",
+      "city": "Papua New Guinea City",
+      "district": "Papua New Guinea City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 905",
+      "coordinates": {
+        "lat": -6.375159602078776,
+        "lng": 146.58798503095107
+      }
+    },
+    "specs": {
+      "netSize": 18194,
+      "grossSize": 21833,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 2,
+      "floor": 15,
+      "totalFloors": 17,
+      "heating": "Merkezi",
+      "furnishing": "Unfurnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500707380525?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500457618984?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500950413670?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500289627687?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500116881348?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500517535118?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500162991965?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500973066423?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500653625462?w=800&q=80&category=house"
+    ],
+    "agent": {
+      "id": "A86",
+      "name": "Agent 96",
+      "phone": "+15 741 929 9202",
+      "email": "agent21@iwrealty.com",
+      "photo": "/images/icons/png/ankara-modern-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-06-05T10:50:47.251Z",
+    "updatedAt": "2025-11-13T10:50:47.251Z",
+    "storeId": "store-003"
+  },
+  {
+    "id": "P06864",
+    "type": "rent",
+    "category": {
+      "main": "commercial",
+      "sub": "hospital"
+    },
+    "title": "Kiralık Hastane - New Papua New Guinea",
+    "slug": "kiralik-hastane-new-papua-new-guinea-P06864",
+    "description": "New Papua New Guinea, Papua New Guinea bölgesinde hastane. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 50616751,
+    "location": {
+      "country": "PG",
+      "city": "New Papua New Guinea",
+      "district": "New Papua New Guinea Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 969",
+      "coordinates": {
+        "lat": -5.761821436467968,
+        "lng": 146.73772786053962
+      }
+    },
+    "specs": {
+      "netSize": 7980,
+      "grossSize": 9576,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 1,
+      "floor": 5,
+      "totalFloors": 5,
+      "heating": "Merkezi",
+      "furnishing": "Unfurnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500615284357?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500118087400?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500270586463?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500899455332?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500965141739?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500931991163?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500356068240?w=800&q=80&category=building"
+    ],
+    "agent": {
+      "id": "A51",
+      "name": "Agent 17",
+      "phone": "+34 948 390 4021",
+      "email": "agent48@iwrealty.com",
+      "photo": "/images/icons/png/antalya-investment-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-02-12T10:50:47.251Z",
+    "updatedAt": "2025-11-13T10:50:47.251Z",
+    "storeId": "store-006"
+  },
+  {
+    "id": "P06865",
+    "type": "sale",
+    "category": {
+      "main": "commercial",
+      "sub": "clinic"
+    },
+    "title": "Satılık Klinik - Papua New Guinea City",
+    "slug": "satilik-klinik-papua-new-guinea-city-P06865",
+    "description": "Papua New Guinea City, Papua New Guinea bölgesinde klinik. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 12151544,
+    "location": {
+      "country": "PG",
+      "city": "Papua New Guinea City",
+      "district": "Papua New Guinea City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 740",
+      "coordinates": {
+        "lat": -6.17994569323131,
+        "lng": 147.49468714917947
+      }
+    },
+    "specs": {
+      "netSize": 1774,
+      "grossSize": 2129,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 17,
+      "floor": 7,
+      "totalFloors": 16,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500028241660?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500913462614?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500793338712?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500999195859?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500867702387?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500520029599?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500838501602?w=800&q=80&category=house"
+    ],
+    "agent": {
+      "id": "A64",
+      "name": "Agent 100",
+      "phone": "+49 592 314 9763",
+      "email": "agent52@iwrealty.com",
+      "photo": "/images/icons/png/berlin-urban-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": false,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-01-05T10:50:47.251Z",
+    "updatedAt": "2025-11-13T10:50:47.251Z",
+    "storeId": "store-009"
+  },
+  {
+    "id": "P06866",
+    "type": "rent",
+    "category": {
+      "main": "commercial",
+      "sub": "clinic"
+    },
+    "title": "Kiralık Klinik - New Papua New Guinea",
+    "slug": "kiralik-klinik-new-papua-new-guinea-P06866",
+    "description": "New Papua New Guinea, Papua New Guinea bölgesinde klinik. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 11978641,
+    "location": {
+      "country": "PG",
+      "city": "New Papua New Guinea",
+      "district": "New Papua New Guinea Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 733",
+      "coordinates": {
+        "lat": -6.034865766656979,
+        "lng": 147.1643402463596
+      }
+    },
+    "specs": {
+      "netSize": 613,
+      "grossSize": 736,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 6,
+      "floor": 13,
+      "totalFloors": 7,
+      "heating": "Klima",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500508343740?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500700181408?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500862466643?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500764878972?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500151579277?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500083158727?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500843784055?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500308747740?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500621029295?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500816604094?w=800&q=80&category=architecture"
+    ],
+    "agent": {
+      "id": "A87",
+      "name": "Agent 37",
+      "phone": "+70 411 292 8121",
+      "email": "agent27@iwrealty.com",
+      "photo": "/images/icons/png/paris-heritage-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-09-10T10:50:47.251Z",
+    "updatedAt": "2025-11-13T10:50:47.251Z",
+    "storeId": "store-010"
+  },
+  {
+    "id": "P06867",
+    "type": "sale",
+    "category": {
+      "main": "commercial",
+      "sub": "shop"
+    },
+    "title": "Satılık Dükkan - New Papua New Guinea",
+    "slug": "satilik-dükkan-new-papua-new-guinea-P06867",
+    "description": "New Papua New Guinea, Papua New Guinea bölgesinde dükkan. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 3549316,
+    "location": {
+      "country": "PG",
+      "city": "New Papua New Guinea",
+      "district": "New Papua New Guinea Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 667",
+      "coordinates": {
+        "lat": -5.742497053640345,
+        "lng": 147.45210729021983
+      }
+    },
+    "specs": {
+      "netSize": 456,
+      "grossSize": 547,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 5,
+      "floor": 15,
+      "totalFloors": 18,
+      "heating": "Merkezi",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500356471416?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500618032804?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500782948997?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500858672821?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500561990118?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500061436918?w=800&q=80&category=interior"
+    ],
+    "agent": {
+      "id": "A50",
+      "name": "Agent 15",
+      "phone": "+71 198 666 5035",
+      "email": "agent89@iwrealty.com",
+      "photo": "/images/icons/png/ny-skyline-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-06-11T10:50:47.251Z",
+    "updatedAt": "2025-11-13T10:50:47.251Z",
+    "storeId": "store-008"
+  },
+  {
+    "id": "P06868",
+    "type": "rent",
+    "category": {
+      "main": "commercial",
+      "sub": "shop"
+    },
+    "title": "Kiralık Dükkan - New Papua New Guinea",
+    "slug": "kiralik-dükkan-new-papua-new-guinea-P06868",
+    "description": "New Papua New Guinea, Papua New Guinea bölgesinde dükkan. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 1286081,
+    "location": {
+      "country": "PG",
+      "city": "New Papua New Guinea",
+      "district": "New Papua New Guinea Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 74",
+      "coordinates": {
+        "lat": -6.287353679336507,
+        "lng": 146.85719381754427
+      }
+    },
+    "specs": {
+      "netSize": 288,
+      "grossSize": 346,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 2,
+      "floor": 9,
+      "totalFloors": 15,
+      "heating": "Klima",
+      "furnishing": "Unfurnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500865726412?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500858356390?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500748360733?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500106588848?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500835487329?w=800&q=80&category=architecture"
+    ],
+    "agent": {
+      "id": "A64",
+      "name": "Agent 91",
+      "phone": "+30 550 581 7154",
+      "email": "agent61@iwrealty.com",
+      "photo": "/images/icons/png/berlin-urban-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": false,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-05-23T10:50:47.251Z",
+    "updatedAt": "2025-11-13T10:50:47.251Z",
+    "storeId": "store-009"
+  },
+  {
+    "id": "P06869",
+    "type": "sale",
+    "category": {
+      "main": "commercial",
+      "sub": "office"
+    },
+    "title": "Satılık Ofis - Port Moresby",
+    "slug": "satilik-ofis-port-moresby-P06869",
+    "description": "Port Moresby, Papua New Guinea bölgesinde ofis. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 8362609,
+    "location": {
+      "country": "PG",
+      "city": "Port Moresby",
+      "district": "Port Moresby Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 811",
+      "coordinates": {
+        "lat": -6.247247470319826,
+        "lng": 146.6326451635347
+      }
+    },
+    "specs": {
+      "netSize": 236,
+      "grossSize": 283,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 20,
+      "floor": 4,
+      "totalFloors": 18,
+      "heating": "Klima",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500676104012?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500941215684?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500757565201?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500499053408?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500379615028?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500562079153?w=800&q=80&category=house"
+    ],
+    "agent": {
+      "id": "A77",
+      "name": "Agent 17",
+      "phone": "+27 479 964 7130",
+      "email": "agent15@iwrealty.com",
+      "photo": "/images/icons/png/sg-harbour-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": false,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-06-30T10:50:47.251Z",
+    "updatedAt": "2025-11-13T10:50:47.251Z",
+    "storeId": "store-011"
+  },
+  {
+    "id": "P06870",
+    "type": "rent",
+    "category": {
+      "main": "commercial",
+      "sub": "office"
+    },
+    "title": "Kiralık Ofis - Papua New Guinea Central",
+    "slug": "kiralik-ofis-papua-new-guinea-central-P06870",
+    "description": "Papua New Guinea Central, Papua New Guinea bölgesinde ofis. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 3354790,
+    "location": {
+      "country": "PG",
+      "city": "Papua New Guinea Central",
+      "district": "Papua New Guinea Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 102",
+      "coordinates": {
+        "lat": -5.9051213015782515,
+        "lng": 147.03849406520297
+      }
+    },
+    "specs": {
+      "netSize": 599,
+      "grossSize": 719,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 20,
+      "floor": 1,
+      "totalFloors": 20,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500791651824?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500287143857?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500127862734?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500968924040?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500017506963?w=800&q=80&category=real-estate"
+    ],
+    "agent": {
+      "id": "A93",
+      "name": "Agent 3",
+      "phone": "+91 177 185 2607",
+      "email": "agent100@iwrealty.com",
+      "photo": "/images/icons/png/berlin-urban-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-07-31T10:50:47.251Z",
+    "updatedAt": "2025-11-13T10:50:47.251Z",
+    "storeId": "store-009"
+  },
+  {
+    "id": "P06871",
+    "type": "sale",
+    "category": {
+      "main": "commercial",
+      "sub": "mall"
+    },
+    "title": "Satılık AVM - New Papua New Guinea",
+    "slug": "satilik-avm-new-papua-new-guinea-P06871",
+    "description": "New Papua New Guinea, Papua New Guinea bölgesinde avm. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 342911191,
+    "location": {
+      "country": "PG",
+      "city": "New Papua New Guinea",
+      "district": "New Papua New Guinea Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 345",
+      "coordinates": {
+        "lat": -5.605289054976647,
+        "lng": 146.50502273624548
+      }
+    },
+    "specs": {
+      "netSize": 11980,
+      "grossSize": 14376,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 19,
+      "floor": 12,
+      "totalFloors": 10,
+      "heating": "Klima",
+      "furnishing": "Furnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500494721811?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500217194293?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500091099505?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500630927194?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500160932533?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500266312271?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500441283873?w=800&q=80&category=architecture"
+    ],
+    "agent": {
+      "id": "A64",
+      "name": "Agent 62",
+      "phone": "+74 563 377 4853",
+      "email": "agent11@iwrealty.com",
+      "photo": "/images/icons/png/luxury-homes-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": false,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2024-12-12T10:50:47.251Z",
+    "updatedAt": "2025-11-13T10:50:47.251Z",
+    "storeId": "store-002"
+  },
+  {
+    "id": "P06872",
+    "type": "rent",
+    "category": {
+      "main": "commercial",
+      "sub": "mall"
+    },
+    "title": "Kiralık AVM - Port Moresby",
+    "slug": "kiralik-avm-port-moresby-P06872",
+    "description": "Port Moresby, Papua New Guinea bölgesinde avm. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 176098298,
+    "location": {
+      "country": "PG",
+      "city": "Port Moresby",
+      "district": "Port Moresby Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 327",
+      "coordinates": {
+        "lat": -5.767333670442562,
+        "lng": 146.57873462964523
+      }
+    },
+    "specs": {
+      "netSize": 21528,
+      "grossSize": 25834,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 9,
+      "floor": 12,
+      "totalFloors": 7,
+      "heating": "Klima",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500891377244?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500872309037?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500279201373?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500742312850?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500655597391?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500548951942?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500592471705?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500686963428?w=800&q=80&category=building"
+    ],
+    "agent": {
+      "id": "A31",
+      "name": "Agent 10",
+      "phone": "+58 885 691 9245",
+      "email": "agent37@iwrealty.com",
+      "photo": "/images/icons/png/antalya-investment-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": false,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-05-13T10:50:47.251Z",
+    "updatedAt": "2025-11-13T10:50:47.251Z",
+    "storeId": "store-006"
+  },
+  {
+    "id": "P06873",
+    "type": "sale",
+    "category": {
+      "main": "commercial",
+      "sub": "hotel"
+    },
+    "title": "Satılık Otel - Papua New Guinea City",
+    "slug": "satilik-otel-papua-new-guinea-city-P06873",
+    "description": "Papua New Guinea City, Papua New Guinea bölgesinde otel. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 100010778,
+    "location": {
+      "country": "PG",
+      "city": "Papua New Guinea City",
+      "district": "Papua New Guinea City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 64",
+      "coordinates": {
+        "lat": -5.552361974662996,
+        "lng": 146.73497362728483
+      }
+    },
+    "specs": {
+      "netSize": 14068,
+      "grossSize": 16882,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 20,
+      "floor": 11,
+      "totalFloors": 19,
+      "heating": "Kombi",
+      "furnishing": "Unfurnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500849704892?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500604910042?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500139007141?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500146697536?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500103013229?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500723409469?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500524659690?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500648551584?w=800&q=80&category=building"
+    ],
+    "agent": {
+      "id": "A76",
+      "name": "Agent 82",
+      "phone": "+88 219 835 3561",
+      "email": "agent33@iwrealty.com",
+      "photo": "/images/icons/png/sydney-coastal-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": false,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-03-08T10:50:47.251Z",
+    "updatedAt": "2025-11-13T10:50:47.251Z",
+    "storeId": "store-012"
+  },
+  {
+    "id": "P06874",
+    "type": "rent",
+    "category": {
+      "main": "commercial",
+      "sub": "hotel"
+    },
+    "title": "Kiralık Otel - Port Moresby",
+    "slug": "kiralik-otel-port-moresby-P06874",
+    "description": "Port Moresby, Papua New Guinea bölgesinde otel. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 99278606,
+    "location": {
+      "country": "PG",
+      "city": "Port Moresby",
+      "district": "Port Moresby Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 999",
+      "coordinates": {
+        "lat": -6.300743872311588,
+        "lng": 147.3217934562578
+      }
+    },
+    "specs": {
+      "netSize": 24119,
+      "grossSize": 28943,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 20,
+      "floor": 4,
+      "totalFloors": 12,
+      "heating": "Kombi",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500374471798?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500975213487?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500263129679?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500958216021?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500749378803?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500301468978?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500947672179?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500586716270?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500816883331?w=800&q=80&category=interior"
+    ],
+    "agent": {
+      "id": "A24",
+      "name": "Agent 95",
+      "phone": "+89 936 586 3216",
+      "email": "agent52@iwrealty.com",
+      "photo": "/images/icons/png/london-prime-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": false,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-04-25T10:50:47.251Z",
+    "updatedAt": "2025-11-13T10:50:47.251Z",
+    "storeId": "store-007"
+  },
+  {
+    "id": "P06875",
+    "type": "sale",
+    "category": {
+      "main": "commercial",
+      "sub": "restaurant"
+    },
+    "title": "Satılık Restoran - Papua New Guinea City",
+    "slug": "satilik-restoran-papua-new-guinea-city-P06875",
+    "description": "Papua New Guinea City, Papua New Guinea bölgesinde restoran. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 1222905,
+    "location": {
+      "country": "PG",
+      "city": "Papua New Guinea City",
+      "district": "Papua New Guinea City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 189",
+      "coordinates": {
+        "lat": -6.412943577320419,
+        "lng": 147.45569011887588
+      }
+    },
+    "specs": {
+      "netSize": 341,
+      "grossSize": 409,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 16,
+      "floor": 6,
+      "totalFloors": 6,
+      "heating": "Kombi",
+      "furnishing": "Unfurnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500789828774?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500652998815?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500355200195?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500550083612?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500886509592?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500064065055?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500531308677?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500387693356?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500105589589?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500678076870?w=800&q=80&category=interior"
+    ],
+    "agent": {
+      "id": "A22",
+      "name": "Agent 67",
+      "phone": "+35 980 727 3992",
+      "email": "agent57@iwrealty.com",
+      "photo": "/images/icons/png/sydney-coastal-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": false,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-11-09T10:50:47.251Z",
+    "updatedAt": "2025-11-13T10:50:47.251Z",
+    "storeId": "store-012"
+  },
+  {
+    "id": "P06876",
+    "type": "rent",
+    "category": {
+      "main": "commercial",
+      "sub": "restaurant"
+    },
+    "title": "Kiralık Restoran - Papua New Guinea Central",
+    "slug": "kiralik-restoran-papua-new-guinea-central-P06876",
+    "description": "Papua New Guinea Central, Papua New Guinea bölgesinde restoran. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 9784979,
+    "location": {
+      "country": "PG",
+      "city": "Papua New Guinea Central",
+      "district": "Papua New Guinea Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 751",
+      "coordinates": {
+        "lat": -5.848767847583255,
+        "lng": 147.35231889670484
+      }
+    },
+    "specs": {
+      "netSize": 662,
+      "grossSize": 794,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 4,
+      "floor": 8,
+      "totalFloors": 13,
+      "heating": "Merkezi",
+      "furnishing": "Unfurnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500956832682?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500970225719?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500985318645?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500783390958?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500765018612?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500519443819?w=800&q=80&category=architecture"
+    ],
+    "agent": {
+      "id": "A28",
+      "name": "Agent 25",
+      "phone": "+90 326 735 5341",
+      "email": "agent9@iwrealty.com",
+      "photo": "/images/icons/png/sydney-coastal-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-11-02T10:50:47.251Z",
+    "updatedAt": "2025-11-13T10:50:47.251Z",
+    "storeId": "store-012"
+  },
+  {
+    "id": "P06877",
+    "type": "sale",
+    "category": {
+      "main": "commercial",
+      "sub": "warehouse"
+    },
+    "title": "Satılık Depo - Papua New Guinea Central",
+    "slug": "satilik-depo-papua-new-guinea-central-P06877",
+    "description": "Papua New Guinea Central, Papua New Guinea bölgesinde depo. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 8790842,
+    "location": {
+      "country": "PG",
+      "city": "Papua New Guinea Central",
+      "district": "Papua New Guinea Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 835",
+      "coordinates": {
+        "lat": -6.164595669585242,
+        "lng": 146.7922867607487
+      }
+    },
+    "specs": {
+      "netSize": 1101,
+      "grossSize": 1321,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 11,
+      "floor": 8,
+      "totalFloors": 5,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500343704518?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500584957947?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500517868659?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500515649125?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500240080385?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500128377068?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500477317908?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500520543986?w=800&q=80&category=real-estate"
+    ],
+    "agent": {
+      "id": "A9",
+      "name": "Agent 36",
+      "phone": "+47 726 154 4214",
+      "email": "agent27@iwrealty.com",
+      "photo": "/images/icons/png/paris-heritage-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-01-07T10:50:47.251Z",
+    "updatedAt": "2025-11-13T10:50:47.251Z",
+    "storeId": "store-010"
+  },
+  {
+    "id": "P06878",
+    "type": "rent",
+    "category": {
+      "main": "commercial",
+      "sub": "warehouse"
+    },
+    "title": "Kiralık Depo - Papua New Guinea Central",
+    "slug": "kiralik-depo-papua-new-guinea-central-P06878",
+    "description": "Papua New Guinea Central, Papua New Guinea bölgesinde depo. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 21184025,
+    "location": {
+      "country": "PG",
+      "city": "Papua New Guinea Central",
+      "district": "Papua New Guinea Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 109",
+      "coordinates": {
+        "lat": -5.653272322739343,
+        "lng": 147.08819087397418
+      }
+    },
+    "specs": {
+      "netSize": 9020,
+      "grossSize": 10824,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 3,
+      "floor": 12,
+      "totalFloors": 13,
+      "heating": "Kombi",
+      "furnishing": "Furnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500192166759?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500750942294?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500229987847?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500014657576?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500623425397?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500355146104?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500910103654?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500395121152?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500544814411?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500574841263?w=800&q=80&category=interior"
+    ],
+    "agent": {
+      "id": "A18",
+      "name": "Agent 74",
+      "phone": "+28 597 642 7636",
+      "email": "agent15@iwrealty.com",
+      "photo": "/images/icons/png/antalya-investment-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-01-29T10:50:47.251Z",
+    "updatedAt": "2025-11-13T10:50:47.251Z",
+    "storeId": "store-006"
+  }
+]

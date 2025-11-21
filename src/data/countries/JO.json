@@ -1,0 +1,2350 @@
+[
+  {
+    "id": "P04371",
+    "type": "sale",
+    "category": {
+      "main": "government"
+    },
+    "title": "Satılık Okul - Jordan Central",
+    "slug": "satilik-okul-jordan-central-P04371",
+    "description": "Jordan Central, Jordan bölgesinde okul. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 26585420,
+    "location": {
+      "country": "JO",
+      "city": "Jordan Central",
+      "district": "Jordan Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 610",
+      "coordinates": {
+        "lat": 31.315777574064672,
+        "lng": 35.50931897019362
+      }
+    },
+    "specs": {
+      "netSize": 4485,
+      "grossSize": 5382,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 9,
+      "floor": 3,
+      "totalFloors": 19,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Furnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500856699749?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500719761566?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500047203853?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500732940230?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500331728480?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500601209102?w=800&q=80&category=house"
+    ],
+    "agent": {
+      "id": "A6",
+      "name": "Agent 34",
+      "phone": "+31 509 526 6399",
+      "email": "agent1@iwrealty.com",
+      "photo": "/images/icons/png/sg-harbour-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-10-19T10:50:47.223Z",
+    "updatedAt": "2025-11-13T10:50:47.223Z",
+    "storeId": "store-011"
+  },
+  {
+    "id": "P04372",
+    "type": "rent",
+    "category": {
+      "main": "government"
+    },
+    "title": "Kiralık Belediye Binası - New Jordan",
+    "slug": "kiralik-belediye-binası-new-jordan-P04372",
+    "description": "New Jordan, Jordan bölgesinde belediye binası. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 18155635,
+    "location": {
+      "country": "JO",
+      "city": "New Jordan",
+      "district": "New Jordan Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 848",
+      "coordinates": {
+        "lat": 30.706424588521198,
+        "lng": 36.20914936588327
+      }
+    },
+    "specs": {
+      "netSize": 2933,
+      "grossSize": 3520,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 0,
+      "floor": 12,
+      "totalFloors": 13,
+      "heating": "Merkezi",
+      "furnishing": "Unfurnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500216286500?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500391872723?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500472532710?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500259682767?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500556263420?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500587691829?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500040461238?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500798310817?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500083296551?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500889424269?w=800&q=80&category=real-estate"
+    ],
+    "agent": {
+      "id": "A36",
+      "name": "Agent 63",
+      "phone": "+39 795 305 4819",
+      "email": "agent43@iwrealty.com",
+      "photo": "/images/icons/png/ny-skyline-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": false,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-01-08T10:50:47.223Z",
+    "updatedAt": "2025-11-13T10:50:47.223Z",
+    "storeId": "store-008"
+  },
+  {
+    "id": "P04373",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Müstakil Ev - Jordan City",
+    "slug": "satilik-müstakil-ev-jordan-city-P04373",
+    "description": "Jordan City, Jordan bölgesinde müstakil ev. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 4747845,
+    "location": {
+      "country": "JO",
+      "city": "Jordan City",
+      "district": "Jordan City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 939",
+      "coordinates": {
+        "lat": 30.979868362052983,
+        "lng": 36.368633985552684
+      }
+    },
+    "specs": {
+      "netSize": 350,
+      "grossSize": 420,
+      "rooms": "3+0",
+      "bathrooms": 2,
+      "age": 8,
+      "floor": 15,
+      "totalFloors": 16,
+      "heating": "Kombi",
+      "furnishing": "Unfurnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500081573802?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500971490719?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500918098348?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500091165478?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500659122670?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500102813972?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500213269520?w=800&q=80&category=building"
+    ],
+    "agent": {
+      "id": "A4",
+      "name": "Agent 20",
+      "phone": "+18 684 244 4953",
+      "email": "agent76@iwrealty.com",
+      "photo": "/images/icons/png/sydney-coastal-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-10-26T10:50:47.223Z",
+    "updatedAt": "2025-11-13T10:50:47.223Z",
+    "storeId": "store-012"
+  },
+  {
+    "id": "P04374",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Müstakil Ev - Jordan Central",
+    "slug": "kiralik-müstakil-ev-jordan-central-P04374",
+    "description": "Jordan Central, Jordan bölgesinde müstakil ev. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 3792712,
+    "location": {
+      "country": "JO",
+      "city": "Jordan Central",
+      "district": "Jordan Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 729",
+      "coordinates": {
+        "lat": 31.35038644039467,
+        "lng": 36.28098813682991
+      }
+    },
+    "specs": {
+      "netSize": 203,
+      "grossSize": 244,
+      "rooms": "5+1",
+      "bathrooms": 2,
+      "age": 18,
+      "floor": 3,
+      "totalFloors": 14,
+      "heating": "Merkezi",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500897252532?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500855276864?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500395601578?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500116320007?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500040694943?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500155054491?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500898492461?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500711042832?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500839649866?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500255620803?w=800&q=80&category=architecture"
+    ],
+    "agent": {
+      "id": "A81",
+      "name": "Agent 81",
+      "phone": "+49 878 761 8774",
+      "email": "agent13@iwrealty.com",
+      "photo": "/images/icons/png/luxury-homes-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-05-21T10:50:47.223Z",
+    "updatedAt": "2025-11-13T10:50:47.223Z",
+    "storeId": "store-002"
+  },
+  {
+    "id": "P04375",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Müstakil Ev - Jordan City",
+    "slug": "satilik-müstakil-ev-jordan-city-P04375",
+    "description": "Jordan City, Jordan bölgesinde müstakil ev. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 1771096,
+    "location": {
+      "country": "JO",
+      "city": "Jordan City",
+      "district": "Jordan City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 583",
+      "coordinates": {
+        "lat": 30.514930845286457,
+        "lng": 36.06778806689904
+      }
+    },
+    "specs": {
+      "netSize": 119,
+      "grossSize": 143,
+      "rooms": "2+2",
+      "bathrooms": 4,
+      "age": 15,
+      "floor": 2,
+      "totalFloors": 9,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Unfurnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500200348081?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500596856230?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500362040179?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500566193288?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500973842151?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500756749637?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500640381880?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500861096062?w=800&q=80&category=house"
+    ],
+    "agent": {
+      "id": "A83",
+      "name": "Agent 30",
+      "phone": "+97 124 428 8018",
+      "email": "agent28@iwrealty.com",
+      "photo": "/images/icons/png/ny-skyline-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-10-17T10:50:47.223Z",
+    "updatedAt": "2025-11-13T10:50:47.223Z",
+    "storeId": "store-008"
+  },
+  {
+    "id": "P04376",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Villa - Jordan Central",
+    "slug": "kiralik-villa-jordan-central-P04376",
+    "description": "Jordan Central, Jordan bölgesinde villa. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 2480768,
+    "location": {
+      "country": "JO",
+      "city": "Jordan Central",
+      "district": "Jordan Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 996",
+      "coordinates": {
+        "lat": 31.448236574169453,
+        "lng": 35.79096549840095
+      }
+    },
+    "specs": {
+      "netSize": 174,
+      "grossSize": 209,
+      "rooms": "1+1",
+      "bathrooms": 3,
+      "age": 2,
+      "floor": 13,
+      "totalFloors": 5,
+      "heating": "Kombi",
+      "furnishing": "Unfurnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500523961499?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500802882175?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500739903656?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500875052379?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500637218640?w=800&q=80&category=interior"
+    ],
+    "agent": {
+      "id": "A29",
+      "name": "Agent 90",
+      "phone": "+86 293 651 9359",
+      "email": "agent5@iwrealty.com",
+      "photo": "/images/icons/png/luxury-homes-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-04-27T10:50:47.223Z",
+    "updatedAt": "2025-11-13T10:50:47.223Z",
+    "storeId": "store-002"
+  },
+  {
+    "id": "P04377",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Müstakil Ev - Jordan City",
+    "slug": "satilik-müstakil-ev-jordan-city-P04377",
+    "description": "Jordan City, Jordan bölgesinde müstakil ev. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 9478029,
+    "location": {
+      "country": "JO",
+      "city": "Jordan City",
+      "district": "Jordan City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 754",
+      "coordinates": {
+        "lat": 30.93806425350375,
+        "lng": 36.27818811898969
+      }
+    },
+    "specs": {
+      "netSize": 348,
+      "grossSize": 418,
+      "rooms": "3+0",
+      "bathrooms": 4,
+      "age": 4,
+      "floor": 6,
+      "totalFloors": 10,
+      "heating": "Kombi",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500010997019?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500598629835?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500694380883?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500770730728?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500818972011?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500543714385?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500230329746?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500695344656?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500094070120?w=800&q=80&category=house"
+    ],
+    "agent": {
+      "id": "A5",
+      "name": "Agent 17",
+      "phone": "+88 931 425 8550",
+      "email": "agent99@iwrealty.com",
+      "photo": "/images/icons/png/dubai-property-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": true,
+      "hasSecurity": true
+    },
+    "createdAt": "2024-11-17T10:50:47.223Z",
+    "updatedAt": "2025-11-13T10:50:47.223Z",
+    "storeId": "store-004"
+  },
+  {
+    "id": "P04378",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Daire - Jordan Central",
+    "slug": "kiralik-daire-jordan-central-P04378",
+    "description": "Jordan Central, Jordan bölgesinde daire. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 1993476,
+    "location": {
+      "country": "JO",
+      "city": "Jordan Central",
+      "district": "Jordan Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 202",
+      "coordinates": {
+        "lat": 31.322875857332512,
+        "lng": 35.64856836369007
+      }
+    },
+    "specs": {
+      "netSize": 170,
+      "grossSize": 204,
+      "rooms": "1+1",
+      "bathrooms": 4,
+      "age": 18,
+      "floor": 13,
+      "totalFloors": 12,
+      "heating": "Kombi",
+      "furnishing": "Furnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500240734638?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500072585880?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500664607767?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500759724022?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500556415210?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500353165573?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500095578014?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500495981723?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500513467550?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500917755004?w=800&q=80&category=house"
+    ],
+    "agent": {
+      "id": "A40",
+      "name": "Agent 16",
+      "phone": "+33 256 417 8502",
+      "email": "agent88@iwrealty.com",
+      "photo": "/images/icons/png/luxury-homes-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": true,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-11-11T10:50:47.223Z",
+    "updatedAt": "2025-11-13T10:50:47.223Z",
+    "storeId": "store-002"
+  },
+  {
+    "id": "P04379",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Daire - New Jordan",
+    "slug": "satilik-daire-new-jordan-P04379",
+    "description": "New Jordan, Jordan bölgesinde daire. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 7464349,
+    "location": {
+      "country": "JO",
+      "city": "New Jordan",
+      "district": "New Jordan Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 230",
+      "coordinates": {
+        "lat": 31.085819311567466,
+        "lng": 36.258709926406226
+      }
+    },
+    "specs": {
+      "netSize": 289,
+      "grossSize": 347,
+      "rooms": "1+0",
+      "bathrooms": 3,
+      "age": 1,
+      "floor": 1,
+      "totalFloors": 13,
+      "heating": "Klima",
+      "furnishing": "Furnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500331485257?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500896034947?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500754058789?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500210596340?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500923503699?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500486506769?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500051709740?w=800&q=80&category=house"
+    ],
+    "agent": {
+      "id": "A65",
+      "name": "Agent 6",
+      "phone": "+23 287 943 5286",
+      "email": "agent88@iwrealty.com",
+      "photo": "/images/icons/png/sg-harbour-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-04-29T10:50:47.223Z",
+    "updatedAt": "2025-11-13T10:50:47.224Z",
+    "storeId": "store-011"
+  },
+  {
+    "id": "P04380",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Daire - Jordan City",
+    "slug": "kiralik-daire-jordan-city-P04380",
+    "description": "Jordan City, Jordan bölgesinde daire. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 6510658,
+    "location": {
+      "country": "JO",
+      "city": "Jordan City",
+      "district": "Jordan City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 958",
+      "coordinates": {
+        "lat": 31.19082650090421,
+        "lng": 36.395720866088375
+      }
+    },
+    "specs": {
+      "netSize": 258,
+      "grossSize": 310,
+      "rooms": "4+2",
+      "bathrooms": 2,
+      "age": 14,
+      "floor": 14,
+      "totalFloors": 20,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Furnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500370186115?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500967394375?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500896145360?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500179061463?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500793677785?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500409902694?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500113663019?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500344123846?w=800&q=80&category=building"
+    ],
+    "agent": {
+      "id": "A52",
+      "name": "Agent 16",
+      "phone": "+19 305 425 9844",
+      "email": "agent60@iwrealty.com",
+      "photo": "/images/icons/png/london-prime-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": true,
+      "hasSecurity": false
+    },
+    "createdAt": "2024-12-07T10:50:47.224Z",
+    "updatedAt": "2025-11-13T10:50:47.224Z",
+    "storeId": "store-007"
+  },
+  {
+    "id": "P04381",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Villa - Amman",
+    "slug": "satilik-villa-amman-P04381",
+    "description": "Amman, Jordan bölgesinde villa. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 14869627,
+    "location": {
+      "country": "JO",
+      "city": "Amman",
+      "district": "Amman Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 781",
+      "coordinates": {
+        "lat": 31.11086047236679,
+        "lng": 35.64743719416399
+      }
+    },
+    "specs": {
+      "netSize": 254,
+      "grossSize": 305,
+      "rooms": "3+2",
+      "bathrooms": 2,
+      "age": 17,
+      "floor": 13,
+      "totalFloors": 9,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Unfurnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500584869546?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500537438896?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500461975599?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500739172206?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500428659587?w=800&q=80&category=architecture"
+    ],
+    "agent": {
+      "id": "A23",
+      "name": "Agent 89",
+      "phone": "+37 888 435 7018",
+      "email": "agent19@iwrealty.com",
+      "photo": "/images/icons/png/sydney-coastal-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-05-22T10:50:47.224Z",
+    "updatedAt": "2025-11-13T10:50:47.224Z",
+    "storeId": "store-012"
+  },
+  {
+    "id": "P04382",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Villa - Jordan City",
+    "slug": "kiralik-villa-jordan-city-P04382",
+    "description": "Jordan City, Jordan bölgesinde villa. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 14383940,
+    "location": {
+      "country": "JO",
+      "city": "Jordan City",
+      "district": "Jordan City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 228",
+      "coordinates": {
+        "lat": 31.296516054898095,
+        "lng": 35.59858156711644
+      }
+    },
+    "specs": {
+      "netSize": 418,
+      "grossSize": 502,
+      "rooms": "3+2",
+      "bathrooms": 1,
+      "age": 11,
+      "floor": 2,
+      "totalFloors": 10,
+      "heating": "Merkezi",
+      "furnishing": "Unfurnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500721782936?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500913535358?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500663628363?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500812575943?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500962045338?w=800&q=80&category=real-estate"
+    ],
+    "agent": {
+      "id": "A100",
+      "name": "Agent 93",
+      "phone": "+95 111 634 2709",
+      "email": "agent33@iwrealty.com",
+      "photo": "/images/icons/png/izmir-sahil-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": true,
+      "hasPool": true,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-03-14T10:50:47.224Z",
+    "updatedAt": "2025-11-13T10:50:47.224Z",
+    "storeId": "store-005"
+  },
+  {
+    "id": "P04383",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Residence - Amman",
+    "slug": "satilik-residence-amman-P04383",
+    "description": "Amman, Jordan bölgesinde residence. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 11782074,
+    "location": {
+      "country": "JO",
+      "city": "Amman",
+      "district": "Amman Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 977",
+      "coordinates": {
+        "lat": 31.128812728996692,
+        "lng": 35.549850429760504
+      }
+    },
+    "specs": {
+      "netSize": 124,
+      "grossSize": 149,
+      "rooms": "4+0",
+      "bathrooms": 1,
+      "age": 6,
+      "floor": 4,
+      "totalFloors": 8,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Unfurnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500944469696?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500421241657?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500496911594?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500623699892?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500537796127?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500959477593?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500227302298?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500538459616?w=800&q=80&category=house"
+    ],
+    "agent": {
+      "id": "A100",
+      "name": "Agent 98",
+      "phone": "+27 736 578 5164",
+      "email": "agent52@iwrealty.com",
+      "photo": "/images/icons/png/sg-harbour-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": false,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": true,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-10-14T10:50:47.224Z",
+    "updatedAt": "2025-11-13T10:50:47.224Z",
+    "storeId": "store-011"
+  },
+  {
+    "id": "P04384",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Müstakil Ev - Jordan Central",
+    "slug": "kiralik-müstakil-ev-jordan-central-P04384",
+    "description": "Jordan Central, Jordan bölgesinde müstakil ev. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 14889386,
+    "location": {
+      "country": "JO",
+      "city": "Jordan Central",
+      "district": "Jordan Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 607",
+      "coordinates": {
+        "lat": 31.239078547420622,
+        "lng": 35.87125093776925
+      }
+    },
+    "specs": {
+      "netSize": 270,
+      "grossSize": 324,
+      "rooms": "3+2",
+      "bathrooms": 3,
+      "age": 16,
+      "floor": 15,
+      "totalFloors": 7,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500044181340?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500665344867?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500861612681?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500744208009?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500590777619?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500916382897?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500705750719?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500037924417?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500853915790?w=800&q=80&category=house"
+    ],
+    "agent": {
+      "id": "A38",
+      "name": "Agent 70",
+      "phone": "+12 921 762 5389",
+      "email": "agent62@iwrealty.com",
+      "photo": "/images/icons/png/dubai-property-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-02-14T10:50:47.224Z",
+    "updatedAt": "2025-11-13T10:50:47.224Z",
+    "storeId": "store-004"
+  },
+  {
+    "id": "P04385",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Daire - Amman",
+    "slug": "satilik-daire-amman-P04385",
+    "description": "Amman, Jordan bölgesinde daire. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 11344391,
+    "location": {
+      "country": "JO",
+      "city": "Amman",
+      "district": "Amman Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 884",
+      "coordinates": {
+        "lat": 31.482651568423965,
+        "lng": 35.99946356493161
+      }
+    },
+    "specs": {
+      "netSize": 307,
+      "grossSize": 368,
+      "rooms": "4+1",
+      "bathrooms": 2,
+      "age": 11,
+      "floor": 8,
+      "totalFloors": 15,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Furnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500492642484?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500064169906?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500549213721?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500103646625?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500325009425?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500719482730?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500168724862?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500326387853?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500017465301?w=800&q=80&category=building"
+    ],
+    "agent": {
+      "id": "A72",
+      "name": "Agent 19",
+      "phone": "+14 612 456 4014",
+      "email": "agent43@iwrealty.com",
+      "photo": "/images/icons/png/sydney-coastal-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-09-24T10:50:47.224Z",
+    "updatedAt": "2025-11-13T10:50:47.224Z",
+    "storeId": "store-012"
+  },
+  {
+    "id": "P04386",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Residence - Amman",
+    "slug": "kiralik-residence-amman-P04386",
+    "description": "Amman, Jordan bölgesinde residence. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 8962804,
+    "location": {
+      "country": "JO",
+      "city": "Amman",
+      "district": "Amman Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 856",
+      "coordinates": {
+        "lat": 30.99783781187334,
+        "lng": 36.40270342777657
+      }
+    },
+    "specs": {
+      "netSize": 359,
+      "grossSize": 431,
+      "rooms": "3+1",
+      "bathrooms": 4,
+      "age": 0,
+      "floor": 3,
+      "totalFloors": 14,
+      "heating": "Kombi",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500500960374?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500157433595?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500150929544?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500881639979?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500522511834?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500936237921?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500189294017?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500638058299?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500866999547?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500844487140?w=800&q=80&category=interior"
+    ],
+    "agent": {
+      "id": "A60",
+      "name": "Agent 85",
+      "phone": "+75 268 946 9535",
+      "email": "agent23@iwrealty.com",
+      "photo": "/images/icons/png/london-prime-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-01-29T10:50:47.224Z",
+    "updatedAt": "2025-11-13T10:50:47.224Z",
+    "storeId": "store-007"
+  },
+  {
+    "id": "P04387",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Daire - Jordan Central",
+    "slug": "satilik-daire-jordan-central-P04387",
+    "description": "Jordan Central, Jordan bölgesinde daire. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 11474647,
+    "location": {
+      "country": "JO",
+      "city": "Jordan Central",
+      "district": "Jordan Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 757",
+      "coordinates": {
+        "lat": 30.65930402849766,
+        "lng": 36.415135998173476
+      }
+    },
+    "specs": {
+      "netSize": 457,
+      "grossSize": 548,
+      "rooms": "5+1",
+      "bathrooms": 2,
+      "age": 11,
+      "floor": 13,
+      "totalFloors": 19,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500173514408?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500870591891?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500626148634?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500020880537?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500386356710?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500980891131?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500985526927?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500699047316?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500639278723?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500603080477?w=800&q=80&category=house"
+    ],
+    "agent": {
+      "id": "A67",
+      "name": "Agent 6",
+      "phone": "+66 791 222 9878",
+      "email": "agent73@iwrealty.com",
+      "photo": "/images/icons/png/dubai-property-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": true,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-04-29T10:50:47.224Z",
+    "updatedAt": "2025-11-13T10:50:47.224Z",
+    "storeId": "store-004"
+  },
+  {
+    "id": "P04388",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Müstakil Ev - Jordan City",
+    "slug": "kiralik-müstakil-ev-jordan-city-P04388",
+    "description": "Jordan City, Jordan bölgesinde müstakil ev. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 11357558,
+    "location": {
+      "country": "JO",
+      "city": "Jordan City",
+      "district": "Jordan City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 144",
+      "coordinates": {
+        "lat": 31.462374162881304,
+        "lng": 36.394698709570434
+      }
+    },
+    "specs": {
+      "netSize": 428,
+      "grossSize": 514,
+      "rooms": "3+2",
+      "bathrooms": 3,
+      "age": 11,
+      "floor": 14,
+      "totalFloors": 18,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500905745908?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500846573738?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500008475739?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500564883126?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500660208783?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500740585657?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500251670645?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500774589649?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500845954430?w=800&q=80&category=house"
+    ],
+    "agent": {
+      "id": "A62",
+      "name": "Agent 34",
+      "phone": "+78 860 149 4792",
+      "email": "agent15@iwrealty.com",
+      "photo": "/images/icons/png/dubai-property-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-10-29T10:50:47.224Z",
+    "updatedAt": "2025-11-13T10:50:47.224Z",
+    "storeId": "store-004"
+  },
+  {
+    "id": "P04389",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Müstakil Ev - New Jordan",
+    "slug": "satilik-müstakil-ev-new-jordan-P04389",
+    "description": "New Jordan, Jordan bölgesinde müstakil ev. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 12859639,
+    "location": {
+      "country": "JO",
+      "city": "New Jordan",
+      "district": "New Jordan Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 472",
+      "coordinates": {
+        "lat": 30.87450579061501,
+        "lng": 36.15843811250727
+      }
+    },
+    "specs": {
+      "netSize": 396,
+      "grossSize": 475,
+      "rooms": "5+0",
+      "bathrooms": 2,
+      "age": 16,
+      "floor": 2,
+      "totalFloors": 9,
+      "heating": "Klima",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500255479420?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500088453940?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500261808217?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500711388389?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500967413906?w=800&q=80&category=house"
+    ],
+    "agent": {
+      "id": "A30",
+      "name": "Agent 49",
+      "phone": "+38 979 717 7800",
+      "email": "agent89@iwrealty.com",
+      "photo": "/images/icons/png/paris-heritage-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-03-30T10:50:47.224Z",
+    "updatedAt": "2025-11-13T10:50:47.224Z",
+    "storeId": "store-010"
+  },
+  {
+    "id": "P04390",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Müstakil Ev - Jordan Central",
+    "slug": "kiralik-müstakil-ev-jordan-central-P04390",
+    "description": "Jordan Central, Jordan bölgesinde müstakil ev. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 6618365,
+    "location": {
+      "country": "JO",
+      "city": "Jordan Central",
+      "district": "Jordan Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 863",
+      "coordinates": {
+        "lat": 31.463264912743437,
+        "lng": 36.17619240368532
+      }
+    },
+    "specs": {
+      "netSize": 228,
+      "grossSize": 274,
+      "rooms": "4+2",
+      "bathrooms": 3,
+      "age": 10,
+      "floor": 7,
+      "totalFloors": 6,
+      "heating": "Kombi",
+      "furnishing": "Furnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500611291202?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500271575930?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500023293404?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500612811088?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500253700563?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500398946269?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500153239740?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500954298868?w=800&q=80&category=real-estate"
+    ],
+    "agent": {
+      "id": "A4",
+      "name": "Agent 11",
+      "phone": "+39 965 446 7988",
+      "email": "agent13@iwrealty.com",
+      "photo": "/images/icons/png/paris-heritage-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-08-16T10:50:47.224Z",
+    "updatedAt": "2025-11-13T10:50:47.224Z",
+    "storeId": "store-010"
+  },
+  {
+    "id": "P04391",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Daire - Jordan Central",
+    "slug": "satilik-daire-jordan-central-P04391",
+    "description": "Jordan Central, Jordan bölgesinde daire. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 9152463,
+    "location": {
+      "country": "JO",
+      "city": "Jordan Central",
+      "district": "Jordan Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 375",
+      "coordinates": {
+        "lat": 30.965708193910615,
+        "lng": 35.78179617774849
+      }
+    },
+    "specs": {
+      "netSize": 324,
+      "grossSize": 389,
+      "rooms": "5+2",
+      "bathrooms": 2,
+      "age": 17,
+      "floor": 2,
+      "totalFloors": 11,
+      "heating": "Merkezi",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500363010677?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500409247208?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500442551640?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500014604191?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500857383437?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500058241755?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500498449581?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500714430910?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500902925107?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500565862442?w=800&q=80&category=real-estate"
+    ],
+    "agent": {
+      "id": "A59",
+      "name": "Agent 95",
+      "phone": "+59 894 280 5403",
+      "email": "agent33@iwrealty.com",
+      "photo": "/images/icons/png/ankara-modern-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": false,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-09-07T10:50:47.224Z",
+    "updatedAt": "2025-11-13T10:50:47.224Z",
+    "storeId": "store-003"
+  },
+  {
+    "id": "P04392",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Müstakil Ev - Jordan Central",
+    "slug": "kiralik-müstakil-ev-jordan-central-P04392",
+    "description": "Jordan Central, Jordan bölgesinde müstakil ev. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 9670210,
+    "location": {
+      "country": "JO",
+      "city": "Jordan Central",
+      "district": "Jordan Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 515",
+      "coordinates": {
+        "lat": 30.715164199004196,
+        "lng": 35.76023638133369
+      }
+    },
+    "specs": {
+      "netSize": 303,
+      "grossSize": 364,
+      "rooms": "3+1",
+      "bathrooms": 2,
+      "age": 13,
+      "floor": 9,
+      "totalFloors": 7,
+      "heating": "Kombi",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500605066700?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500170450040?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500298643390?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500976610334?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500232806942?w=800&q=80&category=building"
+    ],
+    "agent": {
+      "id": "A27",
+      "name": "Agent 2",
+      "phone": "+92 859 367 1750",
+      "email": "agent85@iwrealty.com",
+      "photo": "/images/icons/png/luxury-homes-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-02-13T10:50:47.224Z",
+    "updatedAt": "2025-11-13T10:50:47.224Z",
+    "storeId": "store-002"
+  },
+  {
+    "id": "P04393",
+    "type": "sale",
+    "category": {
+      "main": "commercial",
+      "sub": "hospital"
+    },
+    "title": "Satılık Hastane - Jordan City",
+    "slug": "satilik-hastane-jordan-city-P04393",
+    "description": "Jordan City, Jordan bölgesinde hastane. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 79736117,
+    "location": {
+      "country": "JO",
+      "city": "Jordan City",
+      "district": "Jordan City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 132",
+      "coordinates": {
+        "lat": 31.257664910498644,
+        "lng": 35.504414816635425
+      }
+    },
+    "specs": {
+      "netSize": 18480,
+      "grossSize": 22176,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 17,
+      "floor": 4,
+      "totalFloors": 12,
+      "heating": "Kombi",
+      "furnishing": "Furnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500260194856?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500284568372?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500275812746?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500447532322?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500049584192?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500987880022?w=800&q=80&category=interior"
+    ],
+    "agent": {
+      "id": "A25",
+      "name": "Agent 44",
+      "phone": "+62 305 771 2093",
+      "email": "agent22@iwrealty.com",
+      "photo": "/images/icons/png/dubai-property-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": false,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-08-12T10:50:47.224Z",
+    "updatedAt": "2025-11-13T10:50:47.224Z",
+    "storeId": "store-004"
+  },
+  {
+    "id": "P04394",
+    "type": "rent",
+    "category": {
+      "main": "commercial",
+      "sub": "hospital"
+    },
+    "title": "Kiralık Hastane - Amman",
+    "slug": "kiralik-hastane-amman-P04394",
+    "description": "Amman, Jordan bölgesinde hastane. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 78514151,
+    "location": {
+      "country": "JO",
+      "city": "Amman",
+      "district": "Amman Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 966",
+      "coordinates": {
+        "lat": 31.45657318488805,
+        "lng": 36.045817994485866
+      }
+    },
+    "specs": {
+      "netSize": 7531,
+      "grossSize": 9037,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 17,
+      "floor": 9,
+      "totalFloors": 9,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Furnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500725401286?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500616487787?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500190761331?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500132295555?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500952584973?w=800&q=80&category=real-estate"
+    ],
+    "agent": {
+      "id": "A50",
+      "name": "Agent 48",
+      "phone": "+17 213 526 9550",
+      "email": "agent97@iwrealty.com",
+      "photo": "/images/icons/png/london-prime-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": false,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-08-13T10:50:47.224Z",
+    "updatedAt": "2025-11-13T10:50:47.224Z",
+    "storeId": "store-007"
+  },
+  {
+    "id": "P04395",
+    "type": "sale",
+    "category": {
+      "main": "commercial",
+      "sub": "clinic"
+    },
+    "title": "Satılık Klinik - Jordan City",
+    "slug": "satilik-klinik-jordan-city-P04395",
+    "description": "Jordan City, Jordan bölgesinde klinik. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 7396498,
+    "location": {
+      "country": "JO",
+      "city": "Jordan City",
+      "district": "Jordan City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 19",
+      "coordinates": {
+        "lat": 30.588131978122487,
+        "lng": 35.947934465267714
+      }
+    },
+    "specs": {
+      "netSize": 1604,
+      "grossSize": 1925,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 19,
+      "floor": 12,
+      "totalFloors": 9,
+      "heating": "Merkezi",
+      "furnishing": "Furnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500753459792?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500593921860?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500217044253?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500055605252?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500649756704?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500426547528?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500754337953?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500631692527?w=800&q=80&category=building"
+    ],
+    "agent": {
+      "id": "A59",
+      "name": "Agent 28",
+      "phone": "+43 701 398 8323",
+      "email": "agent52@iwrealty.com",
+      "photo": "/images/icons/png/dubai-property-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-03-18T10:50:47.224Z",
+    "updatedAt": "2025-11-13T10:50:47.224Z",
+    "storeId": "store-004"
+  },
+  {
+    "id": "P04396",
+    "type": "rent",
+    "category": {
+      "main": "commercial",
+      "sub": "clinic"
+    },
+    "title": "Kiralık Klinik - Amman",
+    "slug": "kiralik-klinik-amman-P04396",
+    "description": "Amman, Jordan bölgesinde klinik. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 10754380,
+    "location": {
+      "country": "JO",
+      "city": "Amman",
+      "district": "Amman Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 933",
+      "coordinates": {
+        "lat": 30.524028582160447,
+        "lng": 36.15762550365901
+      }
+    },
+    "specs": {
+      "netSize": 438,
+      "grossSize": 526,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 11,
+      "floor": 10,
+      "totalFloors": 15,
+      "heating": "Klima",
+      "furnishing": "Furnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500337740902?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500596079463?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500968800754?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500711480412?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500236632301?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500309904848?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500073660013?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500710191151?w=800&q=80&category=architecture"
+    ],
+    "agent": {
+      "id": "A59",
+      "name": "Agent 73",
+      "phone": "+54 599 128 7630",
+      "email": "agent36@iwrealty.com",
+      "photo": "/images/icons/png/ny-skyline-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2024-11-28T10:50:47.224Z",
+    "updatedAt": "2025-11-13T10:50:47.224Z",
+    "storeId": "store-008"
+  },
+  {
+    "id": "P04397",
+    "type": "sale",
+    "category": {
+      "main": "commercial",
+      "sub": "shop"
+    },
+    "title": "Satılık Dükkan - Jordan Central",
+    "slug": "satilik-dükkan-jordan-central-P04397",
+    "description": "Jordan Central, Jordan bölgesinde dükkan. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 3590177,
+    "location": {
+      "country": "JO",
+      "city": "Jordan Central",
+      "district": "Jordan Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 712",
+      "coordinates": {
+        "lat": 31.06865582451875,
+        "lng": 35.72139317910474
+      }
+    },
+    "specs": {
+      "netSize": 160,
+      "grossSize": 192,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 12,
+      "floor": 2,
+      "totalFloors": 6,
+      "heating": "Klima",
+      "furnishing": "Furnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500497672295?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500582547997?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500710721443?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500783310721?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500348825230?w=800&q=80&category=interior"
+    ],
+    "agent": {
+      "id": "A55",
+      "name": "Agent 100",
+      "phone": "+34 199 927 4363",
+      "email": "agent72@iwrealty.com",
+      "photo": "/images/icons/png/sydney-coastal-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-03-28T10:50:47.224Z",
+    "updatedAt": "2025-11-13T10:50:47.224Z",
+    "storeId": "store-012"
+  },
+  {
+    "id": "P04398",
+    "type": "rent",
+    "category": {
+      "main": "commercial",
+      "sub": "shop"
+    },
+    "title": "Kiralık Dükkan - Amman",
+    "slug": "kiralik-dükkan-amman-P04398",
+    "description": "Amman, Jordan bölgesinde dükkan. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 2646839,
+    "location": {
+      "country": "JO",
+      "city": "Amman",
+      "district": "Amman Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 702",
+      "coordinates": {
+        "lat": 30.767781330556318,
+        "lng": 36.237495834597816
+      }
+    },
+    "specs": {
+      "netSize": 346,
+      "grossSize": 415,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 11,
+      "floor": 14,
+      "totalFloors": 16,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Unfurnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500515173319?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500978184852?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500135574089?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500080409871?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500474248014?w=800&q=80&category=house"
+    ],
+    "agent": {
+      "id": "A95",
+      "name": "Agent 87",
+      "phone": "+85 677 394 3335",
+      "email": "agent54@iwrealty.com",
+      "photo": "/images/icons/png/paris-heritage-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": false,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-09-12T10:50:47.224Z",
+    "updatedAt": "2025-11-13T10:50:47.224Z",
+    "storeId": "store-010"
+  },
+  {
+    "id": "P04399",
+    "type": "sale",
+    "category": {
+      "main": "commercial",
+      "sub": "office"
+    },
+    "title": "Satılık Ofis - Amman",
+    "slug": "satilik-ofis-amman-P04399",
+    "description": "Amman, Jordan bölgesinde ofis. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 4394708,
+    "location": {
+      "country": "JO",
+      "city": "Amman",
+      "district": "Amman Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 787",
+      "coordinates": {
+        "lat": 31.04151650236624,
+        "lng": 35.561593957631956
+      }
+    },
+    "specs": {
+      "netSize": 176,
+      "grossSize": 211,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 7,
+      "floor": 8,
+      "totalFloors": 6,
+      "heating": "Merkezi",
+      "furnishing": "Furnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500145812478?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500537585231?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500143509198?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500442008912?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500169556163?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500127044591?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500673588164?w=800&q=80&category=interior"
+    ],
+    "agent": {
+      "id": "A78",
+      "name": "Agent 26",
+      "phone": "+72 668 717 9912",
+      "email": "agent18@iwrealty.com",
+      "photo": "/images/icons/png/dubai-property-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": false,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-08-23T10:50:47.224Z",
+    "updatedAt": "2025-11-13T10:50:47.224Z",
+    "storeId": "store-004"
+  },
+  {
+    "id": "P04400",
+    "type": "rent",
+    "category": {
+      "main": "commercial",
+      "sub": "office"
+    },
+    "title": "Kiralık Ofis - New Jordan",
+    "slug": "kiralik-ofis-new-jordan-P04400",
+    "description": "New Jordan, Jordan bölgesinde ofis. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 4939382,
+    "location": {
+      "country": "JO",
+      "city": "New Jordan",
+      "district": "New Jordan Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 450",
+      "coordinates": {
+        "lat": 31.457855947708538,
+        "lng": 36.491228303024435
+      }
+    },
+    "specs": {
+      "netSize": 680,
+      "grossSize": 816,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 20,
+      "floor": 7,
+      "totalFloors": 10,
+      "heating": "Merkezi",
+      "furnishing": "Unfurnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500737351171?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500479183739?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500962370542?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500681341151?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500410985592?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500372809308?w=800&q=80&category=architecture"
+    ],
+    "agent": {
+      "id": "A55",
+      "name": "Agent 17",
+      "phone": "+60 435 769 3316",
+      "email": "agent19@iwrealty.com",
+      "photo": "/images/icons/png/luxury-homes-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-04-19T10:50:47.224Z",
+    "updatedAt": "2025-11-13T10:50:47.224Z",
+    "storeId": "store-002"
+  },
+  {
+    "id": "P04401",
+    "type": "sale",
+    "category": {
+      "main": "commercial",
+      "sub": "mall"
+    },
+    "title": "Satılık AVM - Amman",
+    "slug": "satilik-avm-amman-P04401",
+    "description": "Amman, Jordan bölgesinde avm. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 291597735,
+    "location": {
+      "country": "JO",
+      "city": "Amman",
+      "district": "Amman Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 123",
+      "coordinates": {
+        "lat": 30.629297986941868,
+        "lng": 35.8886511077335
+      }
+    },
+    "specs": {
+      "netSize": 29042,
+      "grossSize": 34850,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 17,
+      "floor": 5,
+      "totalFloors": 16,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500550871281?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500802111440?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500589481733?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500732042748?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500466529855?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500061376253?w=800&q=80&category=interior"
+    ],
+    "agent": {
+      "id": "A67",
+      "name": "Agent 88",
+      "phone": "+41 333 257 2182",
+      "email": "agent99@iwrealty.com",
+      "photo": "/images/icons/png/ankara-modern-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": true,
+      "hasSecurity": true
+    },
+    "createdAt": "2024-11-30T10:50:47.224Z",
+    "updatedAt": "2025-11-13T10:50:47.224Z",
+    "storeId": "store-003"
+  },
+  {
+    "id": "P04402",
+    "type": "rent",
+    "category": {
+      "main": "commercial",
+      "sub": "mall"
+    },
+    "title": "Kiralık AVM - Jordan City",
+    "slug": "kiralik-avm-jordan-city-P04402",
+    "description": "Jordan City, Jordan bölgesinde avm. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 358524905,
+    "location": {
+      "country": "JO",
+      "city": "Jordan City",
+      "district": "Jordan City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 489",
+      "coordinates": {
+        "lat": 30.746250393541445,
+        "lng": 36.38941196038905
+      }
+    },
+    "specs": {
+      "netSize": 31367,
+      "grossSize": 37640,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 6,
+      "floor": 1,
+      "totalFloors": 13,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Furnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500453403927?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500931398909?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500126175870?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500924954144?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500033730373?w=800&q=80&category=building"
+    ],
+    "agent": {
+      "id": "A32",
+      "name": "Agent 21",
+      "phone": "+81 754 564 3703",
+      "email": "agent20@iwrealty.com",
+      "photo": "/images/icons/png/berlin-urban-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-03-19T10:50:47.224Z",
+    "updatedAt": "2025-11-13T10:50:47.224Z",
+    "storeId": "store-009"
+  },
+  {
+    "id": "P04403",
+    "type": "sale",
+    "category": {
+      "main": "commercial",
+      "sub": "hotel"
+    },
+    "title": "Satılık Otel - New Jordan",
+    "slug": "satilik-otel-new-jordan-P04403",
+    "description": "New Jordan, Jordan bölgesinde otel. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 165423877,
+    "location": {
+      "country": "JO",
+      "city": "New Jordan",
+      "district": "New Jordan Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 733",
+      "coordinates": {
+        "lat": 30.99340400428317,
+        "lng": 36.129546569146115
+      }
+    },
+    "specs": {
+      "netSize": 22988,
+      "grossSize": 27586,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 1,
+      "floor": 1,
+      "totalFloors": 13,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500442327159?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500268491663?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500153127142?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500954152984?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500989102628?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500721373174?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500816330039?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500372962755?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500136869847?w=800&q=80&category=interior"
+    ],
+    "agent": {
+      "id": "A34",
+      "name": "Agent 35",
+      "phone": "+52 522 829 1858",
+      "email": "agent88@iwrealty.com",
+      "photo": "/images/icons/png/ny-skyline-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": false,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": true,
+      "hasSecurity": true
+    },
+    "createdAt": "2024-12-02T10:50:47.224Z",
+    "updatedAt": "2025-11-13T10:50:47.224Z",
+    "storeId": "store-008"
+  },
+  {
+    "id": "P04404",
+    "type": "rent",
+    "category": {
+      "main": "commercial",
+      "sub": "hotel"
+    },
+    "title": "Kiralık Otel - Amman",
+    "slug": "kiralik-otel-amman-P04404",
+    "description": "Amman, Jordan bölgesinde otel. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 91332438,
+    "location": {
+      "country": "JO",
+      "city": "Amman",
+      "district": "Amman Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 598",
+      "coordinates": {
+        "lat": 30.73485065636427,
+        "lng": 35.508013784532395
+      }
+    },
+    "specs": {
+      "netSize": 9875,
+      "grossSize": 11850,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 9,
+      "floor": 9,
+      "totalFloors": 16,
+      "heating": "Kombi",
+      "furnishing": "Unfurnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500991193777?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500772565685?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500079127465?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500873121536?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500691639152?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500387350033?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500526804541?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500571091871?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500690626305?w=800&q=80&category=architecture"
+    ],
+    "agent": {
+      "id": "A67",
+      "name": "Agent 33",
+      "phone": "+17 345 987 6645",
+      "email": "agent10@iwrealty.com",
+      "photo": "/images/icons/png/antalya-investment-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-01-23T10:50:47.224Z",
+    "updatedAt": "2025-11-13T10:50:47.224Z",
+    "storeId": "store-006"
+  },
+  {
+    "id": "P04405",
+    "type": "sale",
+    "category": {
+      "main": "commercial",
+      "sub": "restaurant"
+    },
+    "title": "Satılık Restoran - Amman",
+    "slug": "satilik-restoran-amman-P04405",
+    "description": "Amman, Jordan bölgesinde restoran. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 4525977,
+    "location": {
+      "country": "JO",
+      "city": "Amman",
+      "district": "Amman Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 560",
+      "coordinates": {
+        "lat": 30.749388225953556,
+        "lng": 35.54993968910772
+      }
+    },
+    "specs": {
+      "netSize": 543,
+      "grossSize": 652,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 19,
+      "floor": 4,
+      "totalFloors": 12,
+      "heating": "Kombi",
+      "furnishing": "Furnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500018668441?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500141661089?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500074011834?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500396946992?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500956960198?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500420038467?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500751296235?w=800&q=80&category=interior"
+    ],
+    "agent": {
+      "id": "A68",
+      "name": "Agent 67",
+      "phone": "+59 359 731 3915",
+      "email": "agent43@iwrealty.com",
+      "photo": "/images/icons/png/dubai-property-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": false,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": true,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-01-31T10:50:47.224Z",
+    "updatedAt": "2025-11-13T10:50:47.224Z",
+    "storeId": "store-004"
+  },
+  {
+    "id": "P04406",
+    "type": "rent",
+    "category": {
+      "main": "commercial",
+      "sub": "restaurant"
+    },
+    "title": "Kiralık Restoran - Jordan Central",
+    "slug": "kiralik-restoran-jordan-central-P04406",
+    "description": "Jordan Central, Jordan bölgesinde restoran. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 7772407,
+    "location": {
+      "country": "JO",
+      "city": "Jordan Central",
+      "district": "Jordan Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 379",
+      "coordinates": {
+        "lat": 30.93017360536854,
+        "lng": 36.2888260735335
+      }
+    },
+    "specs": {
+      "netSize": 244,
+      "grossSize": 293,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 1,
+      "floor": 10,
+      "totalFloors": 18,
+      "heating": "Klima",
+      "furnishing": "Unfurnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500359328081?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500855522419?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500070556848?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500307293047?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500693912785?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500020682148?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500825508908?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500274808284?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500582775235?w=800&q=80&category=interior"
+    ],
+    "agent": {
+      "id": "A47",
+      "name": "Agent 21",
+      "phone": "+56 273 706 8651",
+      "email": "agent82@iwrealty.com",
+      "photo": "/images/icons/png/ny-skyline-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-08-19T10:50:47.224Z",
+    "updatedAt": "2025-11-13T10:50:47.224Z",
+    "storeId": "store-008"
+  },
+  {
+    "id": "P04407",
+    "type": "sale",
+    "category": {
+      "main": "commercial",
+      "sub": "warehouse"
+    },
+    "title": "Satılık Depo - Amman",
+    "slug": "satilik-depo-amman-P04407",
+    "description": "Amman, Jordan bölgesinde depo. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 8301282,
+    "location": {
+      "country": "JO",
+      "city": "Amman",
+      "district": "Amman Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 442",
+      "coordinates": {
+        "lat": 30.801477441724828,
+        "lng": 36.3035498762885
+      }
+    },
+    "specs": {
+      "netSize": 4478,
+      "grossSize": 5374,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 12,
+      "floor": 3,
+      "totalFloors": 8,
+      "heating": "Merkezi",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500580515733?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500128430042?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500964158673?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500235633438?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500982993372?w=800&q=80&category=house"
+    ],
+    "agent": {
+      "id": "A95",
+      "name": "Agent 66",
+      "phone": "+78 633 907 2402",
+      "email": "agent46@iwrealty.com",
+      "photo": "/images/icons/png/ankara-modern-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": false,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": true,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-06-07T10:50:47.224Z",
+    "updatedAt": "2025-11-13T10:50:47.224Z",
+    "storeId": "store-003"
+  },
+  {
+    "id": "P04408",
+    "type": "rent",
+    "category": {
+      "main": "commercial",
+      "sub": "warehouse"
+    },
+    "title": "Kiralık Depo - Jordan City",
+    "slug": "kiralik-depo-jordan-city-P04408",
+    "description": "Jordan City, Jordan bölgesinde depo. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 13389082,
+    "location": {
+      "country": "JO",
+      "city": "Jordan City",
+      "district": "Jordan City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 493",
+      "coordinates": {
+        "lat": 30.61979360673654,
+        "lng": 36.48990774361367
+      }
+    },
+    "specs": {
+      "netSize": 9098,
+      "grossSize": 10918,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 9,
+      "floor": 4,
+      "totalFloors": 8,
+      "heating": "Merkezi",
+      "furnishing": "Unfurnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500477470923?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500146673408?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500670509860?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500501748167?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500305230939?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500925456171?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500221075677?w=800&q=80&category=real-estate"
+    ],
+    "agent": {
+      "id": "A47",
+      "name": "Agent 57",
+      "phone": "+13 802 782 7977",
+      "email": "agent32@iwrealty.com",
+      "photo": "/images/icons/png/ankara-modern-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": true,
+      "hasSecurity": true
+    },
+    "createdAt": "2024-12-17T10:50:47.224Z",
+    "updatedAt": "2025-11-13T10:50:47.224Z",
+    "storeId": "store-003"
+  }
+]

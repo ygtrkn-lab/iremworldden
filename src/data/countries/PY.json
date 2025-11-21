@@ -1,0 +1,2356 @@
+[
+  {
+    "id": "P07031",
+    "type": "sale",
+    "category": {
+      "main": "government"
+    },
+    "title": "Satılık Belediye Binası - Asunción",
+    "slug": "satilik-belediye-binası-asunción-P07031",
+    "description": "Asunción, Paraguay bölgesinde belediye binası. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 23313070,
+    "location": {
+      "country": "PY",
+      "city": "Asunción",
+      "district": "Asunción Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 418",
+      "coordinates": {
+        "lat": -23.14912083585208,
+        "lng": -58.28888277835367
+      }
+    },
+    "specs": {
+      "netSize": 4764,
+      "grossSize": 5717,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 19,
+      "floor": 2,
+      "totalFloors": 9,
+      "heating": "Klima",
+      "furnishing": "Unfurnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500968723549?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500038302405?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500942091284?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500905664325?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500346433683?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500102758613?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500463433677?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500858890456?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500023853046?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500167624153?w=800&q=80&category=house"
+    ],
+    "agent": {
+      "id": "A88",
+      "name": "Agent 28",
+      "phone": "+85 967 103 7047",
+      "email": "agent8@iwrealty.com",
+      "photo": "/images/icons/png/sg-harbour-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-05-21T10:50:47.253Z",
+    "updatedAt": "2025-11-13T10:50:47.253Z",
+    "storeId": "store-011"
+  },
+  {
+    "id": "P07032",
+    "type": "rent",
+    "category": {
+      "main": "government"
+    },
+    "title": "Kiralık Hastane - Paraguay City",
+    "slug": "kiralik-hastane-paraguay-city-P07032",
+    "description": "Paraguay City, Paraguay bölgesinde hastane. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 35384855,
+    "location": {
+      "country": "PY",
+      "city": "Paraguay City",
+      "district": "Paraguay City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 616",
+      "coordinates": {
+        "lat": -22.807703323044954,
+        "lng": -57.869395436298845
+      }
+    },
+    "specs": {
+      "netSize": 2411,
+      "grossSize": 2893,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 15,
+      "floor": 12,
+      "totalFloors": 5,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500213762058?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500411332085?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500481968295?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500708818528?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500974233427?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500568512905?w=800&q=80&category=building"
+    ],
+    "agent": {
+      "id": "A32",
+      "name": "Agent 72",
+      "phone": "+42 705 847 8962",
+      "email": "agent15@iwrealty.com",
+      "photo": "/images/icons/png/ny-skyline-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": true,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-02-20T10:50:47.253Z",
+    "updatedAt": "2025-11-13T10:50:47.253Z",
+    "storeId": "store-008"
+  },
+  {
+    "id": "P07033",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Villa - New Paraguay",
+    "slug": "satilik-villa-new-paraguay-P07033",
+    "description": "New Paraguay, Paraguay bölgesinde villa. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 3440228,
+    "location": {
+      "country": "PY",
+      "city": "New Paraguay",
+      "district": "New Paraguay Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 304",
+      "coordinates": {
+        "lat": -22.676141992643775,
+        "lng": -58.10925846873475
+      }
+    },
+    "specs": {
+      "netSize": 182,
+      "grossSize": 218,
+      "rooms": "4+0",
+      "bathrooms": 3,
+      "age": 0,
+      "floor": 1,
+      "totalFloors": 5,
+      "heating": "Kombi",
+      "furnishing": "Furnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500300291889?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500395902462?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500554668991?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500793102959?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500777362657?w=800&q=80&category=interior"
+    ],
+    "agent": {
+      "id": "A83",
+      "name": "Agent 72",
+      "phone": "+93 152 999 8326",
+      "email": "agent2@iwrealty.com",
+      "photo": "/images/icons/png/antalya-investment-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-02-02T10:50:47.253Z",
+    "updatedAt": "2025-11-13T10:50:47.253Z",
+    "storeId": "store-006"
+  },
+  {
+    "id": "P07034",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Villa - New Paraguay",
+    "slug": "kiralik-villa-new-paraguay-P07034",
+    "description": "New Paraguay, Paraguay bölgesinde villa. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 4912685,
+    "location": {
+      "country": "PY",
+      "city": "New Paraguay",
+      "district": "New Paraguay Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 971",
+      "coordinates": {
+        "lat": -22.508952996856717,
+        "lng": -57.50272579350832
+      }
+    },
+    "specs": {
+      "netSize": 241,
+      "grossSize": 289,
+      "rooms": "4+1",
+      "bathrooms": 4,
+      "age": 15,
+      "floor": 3,
+      "totalFloors": 7,
+      "heating": "Merkezi",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500175762377?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500082027379?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500345732112?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500406448249?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500903657333?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500834189499?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500020550628?w=800&q=80&category=interior"
+    ],
+    "agent": {
+      "id": "A16",
+      "name": "Agent 15",
+      "phone": "+62 805 487 3982",
+      "email": "agent50@iwrealty.com",
+      "photo": "/images/icons/png/paris-heritage-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": true,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-01-10T10:50:47.253Z",
+    "updatedAt": "2025-11-13T10:50:47.253Z",
+    "storeId": "store-010"
+  },
+  {
+    "id": "P07035",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Villa - Paraguay City",
+    "slug": "satilik-villa-paraguay-city-P07035",
+    "description": "Paraguay City, Paraguay bölgesinde villa. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 8921198,
+    "location": {
+      "country": "PY",
+      "city": "Paraguay City",
+      "district": "Paraguay City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 216",
+      "coordinates": {
+        "lat": -23.470135445316803,
+        "lng": -57.51646192106579
+      }
+    },
+    "specs": {
+      "netSize": 333,
+      "grossSize": 400,
+      "rooms": "4+2",
+      "bathrooms": 4,
+      "age": 19,
+      "floor": 15,
+      "totalFloors": 6,
+      "heating": "Kombi",
+      "furnishing": "Unfurnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500280404970?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500921893916?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500160075885?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500717461133?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500176640642?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500517603830?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500267213213?w=800&q=80&category=house"
+    ],
+    "agent": {
+      "id": "A69",
+      "name": "Agent 53",
+      "phone": "+33 589 196 4058",
+      "email": "agent94@iwrealty.com",
+      "photo": "/images/icons/png/berlin-urban-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": false,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-04-25T10:50:47.253Z",
+    "updatedAt": "2025-11-13T10:50:47.253Z",
+    "storeId": "store-009"
+  },
+  {
+    "id": "P07036",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Daire - Paraguay City",
+    "slug": "kiralik-daire-paraguay-city-P07036",
+    "description": "Paraguay City, Paraguay bölgesinde daire. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 13678132,
+    "location": {
+      "country": "PY",
+      "city": "Paraguay City",
+      "district": "Paraguay City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 669",
+      "coordinates": {
+        "lat": -23.307404982216156,
+        "lng": -57.96864098505781
+      }
+    },
+    "specs": {
+      "netSize": 399,
+      "grossSize": 479,
+      "rooms": "1+2",
+      "bathrooms": 3,
+      "age": 19,
+      "floor": 3,
+      "totalFloors": 8,
+      "heating": "Klima",
+      "furnishing": "Furnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500028934607?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500314324619?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500685300980?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500739012721?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500073981776?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500803925429?w=800&q=80&category=interior"
+    ],
+    "agent": {
+      "id": "A24",
+      "name": "Agent 76",
+      "phone": "+93 693 922 9665",
+      "email": "agent91@iwrealty.com",
+      "photo": "/images/icons/png/antalya-investment-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": false,
+      "hasBalcony": false,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-02-18T10:50:47.253Z",
+    "updatedAt": "2025-11-13T10:50:47.253Z",
+    "storeId": "store-006"
+  },
+  {
+    "id": "P07037",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Müstakil Ev - Paraguay Central",
+    "slug": "satilik-müstakil-ev-paraguay-central-P07037",
+    "description": "Paraguay Central, Paraguay bölgesinde müstakil ev. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 14574279,
+    "location": {
+      "country": "PY",
+      "city": "Paraguay Central",
+      "district": "Paraguay Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 43",
+      "coordinates": {
+        "lat": -22.599678687165717,
+        "lng": -57.88695884226311
+      }
+    },
+    "specs": {
+      "netSize": 315,
+      "grossSize": 378,
+      "rooms": "4+1",
+      "bathrooms": 3,
+      "age": 8,
+      "floor": 9,
+      "totalFloors": 8,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Unfurnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500781405167?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500802094698?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500909205488?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500262281007?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500275974716?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500437809148?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500792219621?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500438214695?w=800&q=80&category=architecture"
+    ],
+    "agent": {
+      "id": "A39",
+      "name": "Agent 53",
+      "phone": "+37 412 857 1226",
+      "email": "agent26@iwrealty.com",
+      "photo": "/images/icons/png/luxury-homes-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": false,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": true,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-08-04T10:50:47.253Z",
+    "updatedAt": "2025-11-13T10:50:47.253Z",
+    "storeId": "store-002"
+  },
+  {
+    "id": "P07038",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Residence - Paraguay Central",
+    "slug": "kiralik-residence-paraguay-central-P07038",
+    "description": "Paraguay Central, Paraguay bölgesinde residence. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 7554095,
+    "location": {
+      "country": "PY",
+      "city": "Paraguay Central",
+      "district": "Paraguay Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 241",
+      "coordinates": {
+        "lat": -22.610571107602976,
+        "lng": -57.747069247907426
+      }
+    },
+    "specs": {
+      "netSize": 417,
+      "grossSize": 500,
+      "rooms": "1+1",
+      "bathrooms": 4,
+      "age": 0,
+      "floor": 12,
+      "totalFloors": 6,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500267538122?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500360548932?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500141411247?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500019649059?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500216989839?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500020081721?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500122487898?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500749431871?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500127545064?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500443890020?w=800&q=80&category=interior"
+    ],
+    "agent": {
+      "id": "A12",
+      "name": "Agent 18",
+      "phone": "+70 188 624 3882",
+      "email": "agent48@iwrealty.com",
+      "photo": "/images/icons/png/dubai-property-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-06-17T10:50:47.253Z",
+    "updatedAt": "2025-11-13T10:50:47.253Z",
+    "storeId": "store-004"
+  },
+  {
+    "id": "P07039",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Daire - Paraguay City",
+    "slug": "satilik-daire-paraguay-city-P07039",
+    "description": "Paraguay City, Paraguay bölgesinde daire. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 5576119,
+    "location": {
+      "country": "PY",
+      "city": "Paraguay City",
+      "district": "Paraguay City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 66",
+      "coordinates": {
+        "lat": -23.0176159687343,
+        "lng": -58.081295880668186
+      }
+    },
+    "specs": {
+      "netSize": 359,
+      "grossSize": 431,
+      "rooms": "4+0",
+      "bathrooms": 4,
+      "age": 12,
+      "floor": 10,
+      "totalFloors": 13,
+      "heating": "Merkezi",
+      "furnishing": "Furnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500782949966?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500030435048?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500224184380?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500498669781?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500334023079?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500542402304?w=800&q=80&category=real-estate"
+    ],
+    "agent": {
+      "id": "A62",
+      "name": "Agent 37",
+      "phone": "+77 199 964 8991",
+      "email": "agent69@iwrealty.com",
+      "photo": "/images/icons/png/paris-heritage-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": false,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-04-24T10:50:47.253Z",
+    "updatedAt": "2025-11-13T10:50:47.253Z",
+    "storeId": "store-010"
+  },
+  {
+    "id": "P07040",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Residence - Paraguay Central",
+    "slug": "kiralik-residence-paraguay-central-P07040",
+    "description": "Paraguay Central, Paraguay bölgesinde residence. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 8223609,
+    "location": {
+      "country": "PY",
+      "city": "Paraguay Central",
+      "district": "Paraguay Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 130",
+      "coordinates": {
+        "lat": -23.4293308461274,
+        "lng": -57.93711497816206
+      }
+    },
+    "specs": {
+      "netSize": 208,
+      "grossSize": 250,
+      "rooms": "4+2",
+      "bathrooms": 2,
+      "age": 5,
+      "floor": 14,
+      "totalFloors": 14,
+      "heating": "Kombi",
+      "furnishing": "Furnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500849930325?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500846899992?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500626187820?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500893052941?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500167094317?w=800&q=80&category=interior"
+    ],
+    "agent": {
+      "id": "A35",
+      "name": "Agent 20",
+      "phone": "+88 902 346 1652",
+      "email": "agent24@iwrealty.com",
+      "photo": "/images/icons/png/berlin-urban-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-09-01T10:50:47.253Z",
+    "updatedAt": "2025-11-13T10:50:47.253Z",
+    "storeId": "store-009"
+  },
+  {
+    "id": "P07041",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Daire - New Paraguay",
+    "slug": "satilik-daire-new-paraguay-P07041",
+    "description": "New Paraguay, Paraguay bölgesinde daire. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 1721128,
+    "location": {
+      "country": "PY",
+      "city": "New Paraguay",
+      "district": "New Paraguay Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 341",
+      "coordinates": {
+        "lat": -22.62426779954007,
+        "lng": -58.0747154514176
+      }
+    },
+    "specs": {
+      "netSize": 423,
+      "grossSize": 508,
+      "rooms": "3+2",
+      "bathrooms": 3,
+      "age": 6,
+      "floor": 13,
+      "totalFloors": 14,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500984061879?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500461144950?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500467136560?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500827438053?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500645587408?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500177728977?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500305389169?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500544987989?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500761234182?w=800&q=80&category=building"
+    ],
+    "agent": {
+      "id": "A99",
+      "name": "Agent 69",
+      "phone": "+17 394 329 5028",
+      "email": "agent78@iwrealty.com",
+      "photo": "/images/icons/png/luxury-homes-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": false,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": true,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-05-25T10:50:47.253Z",
+    "updatedAt": "2025-11-13T10:50:47.253Z",
+    "storeId": "store-002"
+  },
+  {
+    "id": "P07042",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Villa - New Paraguay",
+    "slug": "kiralik-villa-new-paraguay-P07042",
+    "description": "New Paraguay, Paraguay bölgesinde villa. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 13664768,
+    "location": {
+      "country": "PY",
+      "city": "New Paraguay",
+      "district": "New Paraguay Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 975",
+      "coordinates": {
+        "lat": -23.015139678078597,
+        "lng": -57.7943031265636
+      }
+    },
+    "specs": {
+      "netSize": 383,
+      "grossSize": 460,
+      "rooms": "1+1",
+      "bathrooms": 1,
+      "age": 8,
+      "floor": 7,
+      "totalFloors": 12,
+      "heating": "Merkezi",
+      "furnishing": "Furnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500712478256?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500350472494?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500294605854?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500520450584?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500626774825?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500412781927?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500230286624?w=800&q=80&category=real-estate"
+    ],
+    "agent": {
+      "id": "A37",
+      "name": "Agent 36",
+      "phone": "+93 847 773 7683",
+      "email": "agent97@iwrealty.com",
+      "photo": "/images/icons/png/ny-skyline-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-07-23T10:50:47.253Z",
+    "updatedAt": "2025-11-13T10:50:47.253Z",
+    "storeId": "store-008"
+  },
+  {
+    "id": "P07043",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Residence - Asunción",
+    "slug": "satilik-residence-asunción-P07043",
+    "description": "Asunción, Paraguay bölgesinde residence. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 13455913,
+    "location": {
+      "country": "PY",
+      "city": "Asunción",
+      "district": "Asunción Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 110",
+      "coordinates": {
+        "lat": -23.012793007689584,
+        "lng": -57.994491921286496
+      }
+    },
+    "specs": {
+      "netSize": 450,
+      "grossSize": 540,
+      "rooms": "3+2",
+      "bathrooms": 4,
+      "age": 1,
+      "floor": 15,
+      "totalFloors": 10,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Unfurnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500810695141?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500333952743?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500985754707?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500603002958?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500694895685?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500248204850?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500087892538?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500536345288?w=800&q=80&category=house"
+    ],
+    "agent": {
+      "id": "A20",
+      "name": "Agent 20",
+      "phone": "+24 613 609 7000",
+      "email": "agent15@iwrealty.com",
+      "photo": "/images/icons/png/izmir-sahil-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-09-05T10:50:47.253Z",
+    "updatedAt": "2025-11-13T10:50:47.253Z",
+    "storeId": "store-005"
+  },
+  {
+    "id": "P07044",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Villa - New Paraguay",
+    "slug": "kiralik-villa-new-paraguay-P07044",
+    "description": "New Paraguay, Paraguay bölgesinde villa. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 6119977,
+    "location": {
+      "country": "PY",
+      "city": "New Paraguay",
+      "district": "New Paraguay Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 505",
+      "coordinates": {
+        "lat": -22.842487777078894,
+        "lng": -58.110465849012904
+      }
+    },
+    "specs": {
+      "netSize": 291,
+      "grossSize": 349,
+      "rooms": "2+0",
+      "bathrooms": 4,
+      "age": 0,
+      "floor": 14,
+      "totalFloors": 17,
+      "heating": "Klima",
+      "furnishing": "Unfurnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500698156564?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500718524442?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500851623493?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500834486806?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500270595632?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500528641296?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500145887802?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500503524288?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500577611852?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500855087573?w=800&q=80&category=interior"
+    ],
+    "agent": {
+      "id": "A55",
+      "name": "Agent 45",
+      "phone": "+91 528 572 4052",
+      "email": "agent63@iwrealty.com",
+      "photo": "/images/icons/png/sydney-coastal-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-06-10T10:50:47.253Z",
+    "updatedAt": "2025-11-13T10:50:47.253Z",
+    "storeId": "store-012"
+  },
+  {
+    "id": "P07045",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Müstakil Ev - Asunción",
+    "slug": "satilik-müstakil-ev-asunción-P07045",
+    "description": "Asunción, Paraguay bölgesinde müstakil ev. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 4871587,
+    "location": {
+      "country": "PY",
+      "city": "Asunción",
+      "district": "Asunción Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 957",
+      "coordinates": {
+        "lat": -23.134784561695596,
+        "lng": -58.185721251831126
+      }
+    },
+    "specs": {
+      "netSize": 168,
+      "grossSize": 202,
+      "rooms": "4+2",
+      "bathrooms": 1,
+      "age": 18,
+      "floor": 12,
+      "totalFloors": 6,
+      "heating": "Merkezi",
+      "furnishing": "Unfurnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500593274376?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500514314837?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500516206187?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500858029245?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500287936232?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500484458636?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500697097750?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500378351544?w=800&q=80&category=building"
+    ],
+    "agent": {
+      "id": "A85",
+      "name": "Agent 56",
+      "phone": "+78 278 269 5486",
+      "email": "agent82@iwrealty.com",
+      "photo": "/images/icons/png/antalya-investment-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2024-11-14T10:50:47.253Z",
+    "updatedAt": "2025-11-13T10:50:47.253Z",
+    "storeId": "store-006"
+  },
+  {
+    "id": "P07046",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Daire - New Paraguay",
+    "slug": "kiralik-daire-new-paraguay-P07046",
+    "description": "New Paraguay, Paraguay bölgesinde daire. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 6306998,
+    "location": {
+      "country": "PY",
+      "city": "New Paraguay",
+      "district": "New Paraguay Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 701",
+      "coordinates": {
+        "lat": -22.685085708009012,
+        "lng": -57.77584870743546
+      }
+    },
+    "specs": {
+      "netSize": 176,
+      "grossSize": 211,
+      "rooms": "5+2",
+      "bathrooms": 4,
+      "age": 13,
+      "floor": 6,
+      "totalFloors": 20,
+      "heating": "Kombi",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500447384034?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500011470134?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500992390801?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500343958909?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500250126620?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500363523387?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500095418948?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500543814580?w=800&q=80&category=real-estate"
+    ],
+    "agent": {
+      "id": "A46",
+      "name": "Agent 76",
+      "phone": "+98 411 569 4624",
+      "email": "agent35@iwrealty.com",
+      "photo": "/images/icons/png/sydney-coastal-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2024-12-19T10:50:47.253Z",
+    "updatedAt": "2025-11-13T10:50:47.253Z",
+    "storeId": "store-012"
+  },
+  {
+    "id": "P07047",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Residence - Paraguay City",
+    "slug": "satilik-residence-paraguay-city-P07047",
+    "description": "Paraguay City, Paraguay bölgesinde residence. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 8505508,
+    "location": {
+      "country": "PY",
+      "city": "Paraguay City",
+      "district": "Paraguay City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 829",
+      "coordinates": {
+        "lat": -22.958234818998733,
+        "lng": -58.13207216181082
+      }
+    },
+    "specs": {
+      "netSize": 390,
+      "grossSize": 468,
+      "rooms": "5+2",
+      "bathrooms": 2,
+      "age": 5,
+      "floor": 9,
+      "totalFloors": 16,
+      "heating": "Kombi",
+      "furnishing": "Furnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500938829947?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500382407016?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500970574933?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500319889733?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500016637517?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500803513574?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500210326439?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500920808759?w=800&q=80&category=real-estate"
+    ],
+    "agent": {
+      "id": "A26",
+      "name": "Agent 75",
+      "phone": "+29 214 259 1342",
+      "email": "agent67@iwrealty.com",
+      "photo": "/images/icons/png/london-prime-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-03-21T10:50:47.253Z",
+    "updatedAt": "2025-11-13T10:50:47.253Z",
+    "storeId": "store-007"
+  },
+  {
+    "id": "P07048",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Residence - Paraguay Central",
+    "slug": "kiralik-residence-paraguay-central-P07048",
+    "description": "Paraguay Central, Paraguay bölgesinde residence. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 14577788,
+    "location": {
+      "country": "PY",
+      "city": "Paraguay Central",
+      "district": "Paraguay Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 23",
+      "coordinates": {
+        "lat": -23.34549439776806,
+        "lng": -57.695616977655696
+      }
+    },
+    "specs": {
+      "netSize": 161,
+      "grossSize": 193,
+      "rooms": "3+1",
+      "bathrooms": 2,
+      "age": 0,
+      "floor": 14,
+      "totalFloors": 10,
+      "heating": "Kombi",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500530827953?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500393303517?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500716610314?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500730649703?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500004042291?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500060008063?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500928336705?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500723633139?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500887562790?w=800&q=80&category=real-estate"
+    ],
+    "agent": {
+      "id": "A18",
+      "name": "Agent 65",
+      "phone": "+39 268 549 6887",
+      "email": "agent15@iwrealty.com",
+      "photo": "/images/icons/png/sydney-coastal-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-03-29T10:50:47.253Z",
+    "updatedAt": "2025-11-13T10:50:47.253Z",
+    "storeId": "store-012"
+  },
+  {
+    "id": "P07049",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Villa - Paraguay City",
+    "slug": "satilik-villa-paraguay-city-P07049",
+    "description": "Paraguay City, Paraguay bölgesinde villa. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 13541036,
+    "location": {
+      "country": "PY",
+      "city": "Paraguay City",
+      "district": "Paraguay City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 915",
+      "coordinates": {
+        "lat": -23.305553603183586,
+        "lng": -57.86842991504727
+      }
+    },
+    "specs": {
+      "netSize": 208,
+      "grossSize": 250,
+      "rooms": "3+1",
+      "bathrooms": 2,
+      "age": 15,
+      "floor": 6,
+      "totalFloors": 20,
+      "heating": "Kombi",
+      "furnishing": "Unfurnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500544191577?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500944356049?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500088226297?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500500003844?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500744877961?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500131904186?w=800&q=80&category=real-estate"
+    ],
+    "agent": {
+      "id": "A24",
+      "name": "Agent 49",
+      "phone": "+38 920 464 4202",
+      "email": "agent30@iwrealty.com",
+      "photo": "/images/icons/png/ankara-modern-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-05-29T10:50:47.253Z",
+    "updatedAt": "2025-11-13T10:50:47.253Z",
+    "storeId": "store-003"
+  },
+  {
+    "id": "P07050",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Müstakil Ev - Paraguay City",
+    "slug": "kiralik-müstakil-ev-paraguay-city-P07050",
+    "description": "Paraguay City, Paraguay bölgesinde müstakil ev. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 1612259,
+    "location": {
+      "country": "PY",
+      "city": "Paraguay City",
+      "district": "Paraguay City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 918",
+      "coordinates": {
+        "lat": -23.36682815057296,
+        "lng": -57.87470570080596
+      }
+    },
+    "specs": {
+      "netSize": 186,
+      "grossSize": 223,
+      "rooms": "5+2",
+      "bathrooms": 3,
+      "age": 14,
+      "floor": 3,
+      "totalFloors": 14,
+      "heating": "Klima",
+      "furnishing": "Furnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500761934568?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500441201425?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500509551287?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500201915548?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500111301571?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500223940575?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500373337452?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500980474812?w=800&q=80&category=house"
+    ],
+    "agent": {
+      "id": "A50",
+      "name": "Agent 4",
+      "phone": "+48 832 916 3047",
+      "email": "agent79@iwrealty.com",
+      "photo": "/images/icons/png/ny-skyline-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": true,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-04-30T10:50:47.253Z",
+    "updatedAt": "2025-11-13T10:50:47.253Z",
+    "storeId": "store-008"
+  },
+  {
+    "id": "P07051",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Residence - Paraguay Central",
+    "slug": "satilik-residence-paraguay-central-P07051",
+    "description": "Paraguay Central, Paraguay bölgesinde residence. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 11782912,
+    "location": {
+      "country": "PY",
+      "city": "Paraguay Central",
+      "district": "Paraguay Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 314",
+      "coordinates": {
+        "lat": -22.621472718125876,
+        "lng": -57.88708786296413
+      }
+    },
+    "specs": {
+      "netSize": 441,
+      "grossSize": 529,
+      "rooms": "3+1",
+      "bathrooms": 1,
+      "age": 0,
+      "floor": 8,
+      "totalFloors": 5,
+      "heating": "Klima",
+      "furnishing": "Furnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500994475000?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500851762033?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500039546726?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500600980636?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500688667404?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500507693908?w=800&q=80&category=real-estate"
+    ],
+    "agent": {
+      "id": "A31",
+      "name": "Agent 70",
+      "phone": "+16 550 112 3832",
+      "email": "agent67@iwrealty.com",
+      "photo": "/images/icons/png/paris-heritage-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-06-22T10:50:47.253Z",
+    "updatedAt": "2025-11-13T10:50:47.253Z",
+    "storeId": "store-010"
+  },
+  {
+    "id": "P07052",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Müstakil Ev - Asunción",
+    "slug": "kiralik-müstakil-ev-asunción-P07052",
+    "description": "Asunción, Paraguay bölgesinde müstakil ev. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 8248774,
+    "location": {
+      "country": "PY",
+      "city": "Asunción",
+      "district": "Asunción Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 462",
+      "coordinates": {
+        "lat": -22.530917181492487,
+        "lng": -58.291036322717055
+      }
+    },
+    "specs": {
+      "netSize": 321,
+      "grossSize": 385,
+      "rooms": "5+0",
+      "bathrooms": 4,
+      "age": 18,
+      "floor": 3,
+      "totalFloors": 9,
+      "heating": "Klima",
+      "furnishing": "Unfurnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500158345612?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500993639895?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500227414771?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500393346974?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500634952303?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500298033744?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500116285100?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500061929852?w=800&q=80&category=interior"
+    ],
+    "agent": {
+      "id": "A74",
+      "name": "Agent 84",
+      "phone": "+34 400 330 6056",
+      "email": "agent10@iwrealty.com",
+      "photo": "/images/icons/png/paris-heritage-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-08-03T10:50:47.253Z",
+    "updatedAt": "2025-11-13T10:50:47.253Z",
+    "storeId": "store-010"
+  },
+  {
+    "id": "P07053",
+    "type": "sale",
+    "category": {
+      "main": "commercial",
+      "sub": "hospital"
+    },
+    "title": "Satılık Hastane - New Paraguay",
+    "slug": "satilik-hastane-new-paraguay-P07053",
+    "description": "New Paraguay, Paraguay bölgesinde hastane. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 47804842,
+    "location": {
+      "country": "PY",
+      "city": "New Paraguay",
+      "district": "New Paraguay Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 201",
+      "coordinates": {
+        "lat": -22.907413898951578,
+        "lng": -57.55766581337118
+      }
+    },
+    "specs": {
+      "netSize": 10874,
+      "grossSize": 13049,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 20,
+      "floor": 4,
+      "totalFloors": 9,
+      "heating": "Kombi",
+      "furnishing": "Furnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500223948098?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500898564467?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500200602887?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500547036277?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500138163977?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500557293661?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500954301724?w=800&q=80&category=architecture"
+    ],
+    "agent": {
+      "id": "A23",
+      "name": "Agent 82",
+      "phone": "+51 177 359 9198",
+      "email": "agent46@iwrealty.com",
+      "photo": "/images/icons/png/luxury-homes-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-05-23T10:50:47.253Z",
+    "updatedAt": "2025-11-13T10:50:47.253Z",
+    "storeId": "store-002"
+  },
+  {
+    "id": "P07054",
+    "type": "rent",
+    "category": {
+      "main": "commercial",
+      "sub": "hospital"
+    },
+    "title": "Kiralık Hastane - Asunción",
+    "slug": "kiralik-hastane-asunción-P07054",
+    "description": "Asunción, Paraguay bölgesinde hastane. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 35327886,
+    "location": {
+      "country": "PY",
+      "city": "Asunción",
+      "district": "Asunción Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 998",
+      "coordinates": {
+        "lat": -23.318786436699575,
+        "lng": -57.82131654847955
+      }
+    },
+    "specs": {
+      "netSize": 18705,
+      "grossSize": 22446,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 10,
+      "floor": 11,
+      "totalFloors": 10,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Unfurnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500639072765?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500529637372?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500402003644?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500368275804?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500527547941?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500287569923?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500205946316?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500203519771?w=800&q=80&category=real-estate"
+    ],
+    "agent": {
+      "id": "A63",
+      "name": "Agent 84",
+      "phone": "+61 281 304 8208",
+      "email": "agent79@iwrealty.com",
+      "photo": "/images/icons/png/ankara-modern-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": false,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2024-12-11T10:50:47.253Z",
+    "updatedAt": "2025-11-13T10:50:47.253Z",
+    "storeId": "store-003"
+  },
+  {
+    "id": "P07055",
+    "type": "sale",
+    "category": {
+      "main": "commercial",
+      "sub": "clinic"
+    },
+    "title": "Satılık Klinik - New Paraguay",
+    "slug": "satilik-klinik-new-paraguay-P07055",
+    "description": "New Paraguay, Paraguay bölgesinde klinik. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 12309248,
+    "location": {
+      "country": "PY",
+      "city": "New Paraguay",
+      "district": "New Paraguay Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 346",
+      "coordinates": {
+        "lat": -22.538416156984315,
+        "lng": -57.8048004170835
+      }
+    },
+    "specs": {
+      "netSize": 1211,
+      "grossSize": 1453,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 17,
+      "floor": 7,
+      "totalFloors": 10,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500347766710?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500287374183?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500013510650?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500284957495?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500147762834?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500927116913?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500091334835?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500924199813?w=800&q=80&category=interior"
+    ],
+    "agent": {
+      "id": "A88",
+      "name": "Agent 88",
+      "phone": "+55 252 681 8408",
+      "email": "agent100@iwrealty.com",
+      "photo": "/images/icons/png/izmir-sahil-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": true,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-07-18T10:50:47.253Z",
+    "updatedAt": "2025-11-13T10:50:47.253Z",
+    "storeId": "store-005"
+  },
+  {
+    "id": "P07056",
+    "type": "rent",
+    "category": {
+      "main": "commercial",
+      "sub": "clinic"
+    },
+    "title": "Kiralık Klinik - Paraguay City",
+    "slug": "kiralik-klinik-paraguay-city-P07056",
+    "description": "Paraguay City, Paraguay bölgesinde klinik. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 11346438,
+    "location": {
+      "country": "PY",
+      "city": "Paraguay City",
+      "district": "Paraguay City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 125",
+      "coordinates": {
+        "lat": -22.74210488138121,
+        "lng": -57.88448404177868
+      }
+    },
+    "specs": {
+      "netSize": 712,
+      "grossSize": 854,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 8,
+      "floor": 1,
+      "totalFloors": 13,
+      "heating": "Kombi",
+      "furnishing": "Furnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500530110707?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500254998255?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500168468176?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500325149997?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500606562916?w=800&q=80&category=interior"
+    ],
+    "agent": {
+      "id": "A42",
+      "name": "Agent 72",
+      "phone": "+51 863 417 9429",
+      "email": "agent67@iwrealty.com",
+      "photo": "/images/icons/png/luxury-homes-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": false,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": true,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-09-28T10:50:47.253Z",
+    "updatedAt": "2025-11-13T10:50:47.253Z",
+    "storeId": "store-002"
+  },
+  {
+    "id": "P07057",
+    "type": "sale",
+    "category": {
+      "main": "commercial",
+      "sub": "shop"
+    },
+    "title": "Satılık Dükkan - Paraguay Central",
+    "slug": "satilik-dükkan-paraguay-central-P07057",
+    "description": "Paraguay Central, Paraguay bölgesinde dükkan. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 2965781,
+    "location": {
+      "country": "PY",
+      "city": "Paraguay Central",
+      "district": "Paraguay Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 44",
+      "coordinates": {
+        "lat": -22.55358767860318,
+        "lng": -57.81448458412364
+      }
+    },
+    "specs": {
+      "netSize": 175,
+      "grossSize": 210,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 6,
+      "floor": 8,
+      "totalFloors": 14,
+      "heating": "Merkezi",
+      "furnishing": "Unfurnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500934154953?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500809668395?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500575069189?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500145666886?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500675885667?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500462920101?w=800&q=80&category=house"
+    ],
+    "agent": {
+      "id": "A96",
+      "name": "Agent 46",
+      "phone": "+15 790 102 5755",
+      "email": "agent87@iwrealty.com",
+      "photo": "/images/icons/png/paris-heritage-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-07-15T10:50:47.253Z",
+    "updatedAt": "2025-11-13T10:50:47.253Z",
+    "storeId": "store-010"
+  },
+  {
+    "id": "P07058",
+    "type": "rent",
+    "category": {
+      "main": "commercial",
+      "sub": "shop"
+    },
+    "title": "Kiralık Dükkan - Paraguay Central",
+    "slug": "kiralik-dükkan-paraguay-central-P07058",
+    "description": "Paraguay Central, Paraguay bölgesinde dükkan. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 6293020,
+    "location": {
+      "country": "PY",
+      "city": "Paraguay Central",
+      "district": "Paraguay Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 106",
+      "coordinates": {
+        "lat": -23.429026393404495,
+        "lng": -58.25595343344862
+      }
+    },
+    "specs": {
+      "netSize": 465,
+      "grossSize": 558,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 0,
+      "floor": 14,
+      "totalFloors": 12,
+      "heating": "Klima",
+      "furnishing": "Furnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500116945836?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500377298986?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500777626485?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500307645281?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500964341060?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500991871634?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500455406116?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500885404017?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500972406911?w=800&q=80&category=interior"
+    ],
+    "agent": {
+      "id": "A64",
+      "name": "Agent 83",
+      "phone": "+70 794 222 1402",
+      "email": "agent49@iwrealty.com",
+      "photo": "/images/icons/png/sg-harbour-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-09-05T10:50:47.253Z",
+    "updatedAt": "2025-11-13T10:50:47.253Z",
+    "storeId": "store-011"
+  },
+  {
+    "id": "P07059",
+    "type": "sale",
+    "category": {
+      "main": "commercial",
+      "sub": "office"
+    },
+    "title": "Satılık Ofis - Paraguay City",
+    "slug": "satilik-ofis-paraguay-city-P07059",
+    "description": "Paraguay City, Paraguay bölgesinde ofis. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 5846134,
+    "location": {
+      "country": "PY",
+      "city": "Paraguay City",
+      "district": "Paraguay City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 719",
+      "coordinates": {
+        "lat": -23.452309441061008,
+        "lng": -58.30020487019685
+      }
+    },
+    "specs": {
+      "netSize": 301,
+      "grossSize": 361,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 3,
+      "floor": 7,
+      "totalFloors": 5,
+      "heating": "Merkezi",
+      "furnishing": "Unfurnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500656393904?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500278428704?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500503145114?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500247682360?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500089859259?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500629511527?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500306724926?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500001021546?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500796593654?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500474625577?w=800&q=80&category=building"
+    ],
+    "agent": {
+      "id": "A80",
+      "name": "Agent 51",
+      "phone": "+64 390 716 4355",
+      "email": "agent50@iwrealty.com",
+      "photo": "/images/icons/png/london-prime-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": true,
+      "hasPool": true,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-06-30T10:50:47.253Z",
+    "updatedAt": "2025-11-13T10:50:47.253Z",
+    "storeId": "store-007"
+  },
+  {
+    "id": "P07060",
+    "type": "rent",
+    "category": {
+      "main": "commercial",
+      "sub": "office"
+    },
+    "title": "Kiralık Ofis - Asunción",
+    "slug": "kiralik-ofis-asunción-P07060",
+    "description": "Asunción, Paraguay bölgesinde ofis. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 5677011,
+    "location": {
+      "country": "PY",
+      "city": "Asunción",
+      "district": "Asunción Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 445",
+      "coordinates": {
+        "lat": -22.801803261940883,
+        "lng": -57.65991674076383
+      }
+    },
+    "specs": {
+      "netSize": 337,
+      "grossSize": 404,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 1,
+      "floor": 13,
+      "totalFloors": 11,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Furnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500282184362?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500780913890?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500753570851?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500983999952?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500810114508?w=800&q=80&category=architecture"
+    ],
+    "agent": {
+      "id": "A27",
+      "name": "Agent 43",
+      "phone": "+48 115 740 5996",
+      "email": "agent30@iwrealty.com",
+      "photo": "/images/icons/png/antalya-investment-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-08-30T10:50:47.253Z",
+    "updatedAt": "2025-11-13T10:50:47.253Z",
+    "storeId": "store-006"
+  },
+  {
+    "id": "P07061",
+    "type": "sale",
+    "category": {
+      "main": "commercial",
+      "sub": "mall"
+    },
+    "title": "Satılık AVM - Asunción",
+    "slug": "satilik-avm-asunción-P07061",
+    "description": "Asunción, Paraguay bölgesinde avm. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 428533179,
+    "location": {
+      "country": "PY",
+      "city": "Asunción",
+      "district": "Asunción Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 938",
+      "coordinates": {
+        "lat": -23.016679538284933,
+        "lng": -58.25723308263475
+      }
+    },
+    "specs": {
+      "netSize": 39595,
+      "grossSize": 47514,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 4,
+      "floor": 13,
+      "totalFloors": 6,
+      "heating": "Merkezi",
+      "furnishing": "Unfurnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500123023701?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500379254785?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500649654605?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500197723337?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500530806348?w=800&q=80&category=building"
+    ],
+    "agent": {
+      "id": "A47",
+      "name": "Agent 28",
+      "phone": "+15 479 203 4335",
+      "email": "agent89@iwrealty.com",
+      "photo": "/images/icons/png/sydney-coastal-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": false,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2024-12-06T10:50:47.253Z",
+    "updatedAt": "2025-11-13T10:50:47.253Z",
+    "storeId": "store-012"
+  },
+  {
+    "id": "P07062",
+    "type": "rent",
+    "category": {
+      "main": "commercial",
+      "sub": "mall"
+    },
+    "title": "Kiralık AVM - Paraguay City",
+    "slug": "kiralik-avm-paraguay-city-P07062",
+    "description": "Paraguay City, Paraguay bölgesinde avm. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 472737345,
+    "location": {
+      "country": "PY",
+      "city": "Paraguay City",
+      "district": "Paraguay City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 447",
+      "coordinates": {
+        "lat": -23.343032638796963,
+        "lng": -57.94272496196129
+      }
+    },
+    "specs": {
+      "netSize": 24890,
+      "grossSize": 29868,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 8,
+      "floor": 12,
+      "totalFloors": 11,
+      "heating": "Klima",
+      "furnishing": "Furnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500096667932?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500764231325?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500005387508?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500521037637?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500684279830?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500594574541?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500906708265?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500108145874?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500519247314?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500005272519?w=800&q=80&category=house"
+    ],
+    "agent": {
+      "id": "A20",
+      "name": "Agent 70",
+      "phone": "+17 317 512 7199",
+      "email": "agent82@iwrealty.com",
+      "photo": "/images/icons/png/london-prime-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-02-07T10:50:47.253Z",
+    "updatedAt": "2025-11-13T10:50:47.253Z",
+    "storeId": "store-007"
+  },
+  {
+    "id": "P07063",
+    "type": "sale",
+    "category": {
+      "main": "commercial",
+      "sub": "hotel"
+    },
+    "title": "Satılık Otel - Asunción",
+    "slug": "satilik-otel-asunción-P07063",
+    "description": "Asunción, Paraguay bölgesinde otel. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 185604758,
+    "location": {
+      "country": "PY",
+      "city": "Asunción",
+      "district": "Asunción Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 510",
+      "coordinates": {
+        "lat": -22.87815533527853,
+        "lng": -57.79963618803556
+      }
+    },
+    "specs": {
+      "netSize": 12032,
+      "grossSize": 14438,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 1,
+      "floor": 11,
+      "totalFloors": 5,
+      "heating": "Klima",
+      "furnishing": "Furnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500894076124?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500519084406?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500180246863?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500441122955?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500122388077?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500347996505?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500352680790?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500455697628?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500119113647?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500582006010?w=800&q=80&category=architecture"
+    ],
+    "agent": {
+      "id": "A13",
+      "name": "Agent 18",
+      "phone": "+72 566 369 4840",
+      "email": "agent33@iwrealty.com",
+      "photo": "/images/icons/png/antalya-investment-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-08-08T10:50:47.253Z",
+    "updatedAt": "2025-11-13T10:50:47.253Z",
+    "storeId": "store-006"
+  },
+  {
+    "id": "P07064",
+    "type": "rent",
+    "category": {
+      "main": "commercial",
+      "sub": "hotel"
+    },
+    "title": "Kiralık Otel - Asunción",
+    "slug": "kiralik-otel-asunción-P07064",
+    "description": "Asunción, Paraguay bölgesinde otel. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 94516595,
+    "location": {
+      "country": "PY",
+      "city": "Asunción",
+      "district": "Asunción Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 106",
+      "coordinates": {
+        "lat": -22.686396520779752,
+        "lng": -57.871027894590156
+      }
+    },
+    "specs": {
+      "netSize": 6179,
+      "grossSize": 7415,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 16,
+      "floor": 6,
+      "totalFloors": 12,
+      "heating": "Kombi",
+      "furnishing": "Furnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500730221747?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500839227570?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500826182194?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500354497603?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500082259401?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500431502303?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500144279111?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500052612432?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500624150430?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500190965150?w=800&q=80&category=architecture"
+    ],
+    "agent": {
+      "id": "A83",
+      "name": "Agent 49",
+      "phone": "+36 639 864 8755",
+      "email": "agent9@iwrealty.com",
+      "photo": "/images/icons/png/berlin-urban-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": true,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-05-16T10:50:47.253Z",
+    "updatedAt": "2025-11-13T10:50:47.253Z",
+    "storeId": "store-009"
+  },
+  {
+    "id": "P07065",
+    "type": "sale",
+    "category": {
+      "main": "commercial",
+      "sub": "restaurant"
+    },
+    "title": "Satılık Restoran - Asunción",
+    "slug": "satilik-restoran-asunción-P07065",
+    "description": "Asunción, Paraguay bölgesinde restoran. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 5978398,
+    "location": {
+      "country": "PY",
+      "city": "Asunción",
+      "district": "Asunción Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 502",
+      "coordinates": {
+        "lat": -23.450622316222752,
+        "lng": -57.60303397454737
+      }
+    },
+    "specs": {
+      "netSize": 874,
+      "grossSize": 1049,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 13,
+      "floor": 1,
+      "totalFloors": 13,
+      "heating": "Merkezi",
+      "furnishing": "Furnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500995091407?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500515821614?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500780231036?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500965724770?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500041337201?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500264300062?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500664658116?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500837168248?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500994310845?w=800&q=80&category=real-estate"
+    ],
+    "agent": {
+      "id": "A78",
+      "name": "Agent 71",
+      "phone": "+93 883 772 1206",
+      "email": "agent20@iwrealty.com",
+      "photo": "/images/icons/png/dubai-property-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": true,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-09-04T10:50:47.253Z",
+    "updatedAt": "2025-11-13T10:50:47.253Z",
+    "storeId": "store-004"
+  },
+  {
+    "id": "P07066",
+    "type": "rent",
+    "category": {
+      "main": "commercial",
+      "sub": "restaurant"
+    },
+    "title": "Kiralık Restoran - New Paraguay",
+    "slug": "kiralik-restoran-new-paraguay-P07066",
+    "description": "New Paraguay, Paraguay bölgesinde restoran. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 1795921,
+    "location": {
+      "country": "PY",
+      "city": "New Paraguay",
+      "district": "New Paraguay Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 276",
+      "coordinates": {
+        "lat": -23.475117886632884,
+        "lng": -57.69718485292902
+      }
+    },
+    "specs": {
+      "netSize": 632,
+      "grossSize": 758,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 13,
+      "floor": 5,
+      "totalFloors": 20,
+      "heating": "Klima",
+      "furnishing": "Unfurnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500517926248?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500062567749?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500687799241?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500937441928?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500046347623?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500079093145?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500870415799?w=800&q=80&category=building"
+    ],
+    "agent": {
+      "id": "A12",
+      "name": "Agent 48",
+      "phone": "+78 176 855 3124",
+      "email": "agent51@iwrealty.com",
+      "photo": "/images/icons/png/dubai-property-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": false,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-05-24T10:50:47.253Z",
+    "updatedAt": "2025-11-13T10:50:47.253Z",
+    "storeId": "store-004"
+  },
+  {
+    "id": "P07067",
+    "type": "sale",
+    "category": {
+      "main": "commercial",
+      "sub": "warehouse"
+    },
+    "title": "Satılık Depo - New Paraguay",
+    "slug": "satilik-depo-new-paraguay-P07067",
+    "description": "New Paraguay, Paraguay bölgesinde depo. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 14891852,
+    "location": {
+      "country": "PY",
+      "city": "New Paraguay",
+      "district": "New Paraguay Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 516",
+      "coordinates": {
+        "lat": -22.698924250825364,
+        "lng": -58.17341442990681
+      }
+    },
+    "specs": {
+      "netSize": 8144,
+      "grossSize": 9773,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 10,
+      "floor": 2,
+      "totalFloors": 19,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Unfurnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500827138881?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500511057909?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500182312518?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500180902925?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500015550583?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500189589802?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500273868686?w=800&q=80&category=house"
+    ],
+    "agent": {
+      "id": "A99",
+      "name": "Agent 89",
+      "phone": "+21 404 514 9729",
+      "email": "agent39@iwrealty.com",
+      "photo": "/images/icons/png/dubai-property-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": true,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-01-23T10:50:47.253Z",
+    "updatedAt": "2025-11-13T10:50:47.253Z",
+    "storeId": "store-004"
+  },
+  {
+    "id": "P07068",
+    "type": "rent",
+    "category": {
+      "main": "commercial",
+      "sub": "warehouse"
+    },
+    "title": "Kiralık Depo - Paraguay Central",
+    "slug": "kiralik-depo-paraguay-central-P07068",
+    "description": "Paraguay Central, Paraguay bölgesinde depo. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 17034392,
+    "location": {
+      "country": "PY",
+      "city": "Paraguay Central",
+      "district": "Paraguay Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 506",
+      "coordinates": {
+        "lat": -22.668710627204405,
+        "lng": -58.07398864310455
+      }
+    },
+    "specs": {
+      "netSize": 9965,
+      "grossSize": 11958,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 6,
+      "floor": 4,
+      "totalFloors": 16,
+      "heating": "Kombi",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500632686075?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500916554072?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500439908870?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500322112826?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500795821022?w=800&q=80&category=house"
+    ],
+    "agent": {
+      "id": "A79",
+      "name": "Agent 91",
+      "phone": "+85 876 251 6656",
+      "email": "agent98@iwrealty.com",
+      "photo": "/images/icons/png/dubai-property-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-08-06T10:50:47.253Z",
+    "updatedAt": "2025-11-13T10:50:47.253Z",
+    "storeId": "store-004"
+  }
+]

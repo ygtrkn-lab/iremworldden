@@ -1,0 +1,2377 @@
+[
+  {
+    "id": "P05625",
+    "type": "sale",
+    "category": {
+      "main": "government"
+    },
+    "title": "Satılık Devlet Binası - Valletta",
+    "slug": "satilik-devlet-binası-valletta-P05625",
+    "description": "Valletta, Malta bölgesinde devlet binası. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 30135242,
+    "location": {
+      "country": "MT",
+      "city": "Valletta",
+      "district": "Valletta Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 627",
+      "coordinates": {
+        "lat": 35.97161186128022,
+        "lng": 14.589460856822502
+      }
+    },
+    "specs": {
+      "netSize": 1789,
+      "grossSize": 2147,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 6,
+      "floor": 4,
+      "totalFloors": 13,
+      "heating": "Kombi",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500838533690?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500371010084?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500454515962?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500048244710?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500218921615?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500952497738?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500383199453?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500315054366?w=800&q=80&category=house"
+    ],
+    "agent": {
+      "id": "A92",
+      "name": "Agent 35",
+      "phone": "+47 932 294 1381",
+      "email": "agent1@iwrealty.com",
+      "photo": "/images/icons/png/berlin-urban-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-07-08T10:50:47.239Z",
+    "updatedAt": "2025-11-13T10:50:47.239Z",
+    "storeId": "store-009"
+  },
+  {
+    "id": "P05626",
+    "type": "rent",
+    "category": {
+      "main": "government"
+    },
+    "title": "Kiralık Devlet Binası - Malta City",
+    "slug": "kiralik-devlet-binası-malta-city-P05626",
+    "description": "Malta City, Malta bölgesinde devlet binası. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 29208491,
+    "location": {
+      "country": "MT",
+      "city": "Malta City",
+      "district": "Malta City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 844",
+      "coordinates": {
+        "lat": 36.32381878362373,
+        "lng": 14.688017459491311
+      }
+    },
+    "specs": {
+      "netSize": 1749,
+      "grossSize": 2099,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 8,
+      "floor": 13,
+      "totalFloors": 17,
+      "heating": "Klima",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500788847624?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500852144060?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500103172092?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500729816848?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500618755015?w=800&q=80&category=building"
+    ],
+    "agent": {
+      "id": "A29",
+      "name": "Agent 73",
+      "phone": "+46 307 515 6773",
+      "email": "agent68@iwrealty.com",
+      "photo": "/images/icons/png/izmir-sahil-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-11-06T10:50:47.239Z",
+    "updatedAt": "2025-11-13T10:50:47.239Z",
+    "storeId": "store-005"
+  },
+  {
+    "id": "P05627",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Daire - Malta Central",
+    "slug": "satilik-daire-malta-central-P05627",
+    "description": "Malta Central, Malta bölgesinde daire. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 3106791,
+    "location": {
+      "country": "MT",
+      "city": "Malta Central",
+      "district": "Malta Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 687",
+      "coordinates": {
+        "lat": 35.97143650074195,
+        "lng": 14.845925966913235
+      }
+    },
+    "specs": {
+      "netSize": 424,
+      "grossSize": 509,
+      "rooms": "2+0",
+      "bathrooms": 2,
+      "age": 14,
+      "floor": 14,
+      "totalFloors": 16,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Unfurnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500497545340?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500769999803?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500410422341?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500419697488?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500882005859?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500328691749?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500074082429?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500098046949?w=800&q=80&category=architecture"
+    ],
+    "agent": {
+      "id": "A72",
+      "name": "Agent 55",
+      "phone": "+32 979 500 7376",
+      "email": "agent6@iwrealty.com",
+      "photo": "/images/icons/png/dubai-property-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2024-12-29T10:50:47.239Z",
+    "updatedAt": "2025-11-13T10:50:47.239Z",
+    "storeId": "store-004"
+  },
+  {
+    "id": "P05628",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Villa - Malta Central",
+    "slug": "kiralik-villa-malta-central-P05628",
+    "description": "Malta Central, Malta bölgesinde villa. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 10313191,
+    "location": {
+      "country": "MT",
+      "city": "Malta Central",
+      "district": "Malta Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 396",
+      "coordinates": {
+        "lat": 35.9566720778261,
+        "lng": 14.190505088166208
+      }
+    },
+    "specs": {
+      "netSize": 229,
+      "grossSize": 275,
+      "rooms": "1+1",
+      "bathrooms": 3,
+      "age": 0,
+      "floor": 15,
+      "totalFloors": 18,
+      "heating": "Kombi",
+      "furnishing": "Furnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500132905976?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500628286367?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500767058839?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500694542138?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500364372089?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500068961374?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500388955029?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500841570067?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500563539770?w=800&q=80&category=building"
+    ],
+    "agent": {
+      "id": "A67",
+      "name": "Agent 46",
+      "phone": "+67 738 206 6851",
+      "email": "agent64@iwrealty.com",
+      "photo": "/images/icons/png/ny-skyline-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-07-14T10:50:47.239Z",
+    "updatedAt": "2025-11-13T10:50:47.239Z",
+    "storeId": "store-008"
+  },
+  {
+    "id": "P05629",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Villa - Valletta",
+    "slug": "satilik-villa-valletta-P05629",
+    "description": "Valletta, Malta bölgesinde villa. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 7251067,
+    "location": {
+      "country": "MT",
+      "city": "Valletta",
+      "district": "Valletta Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 157",
+      "coordinates": {
+        "lat": 35.44921111630295,
+        "lng": 14.414273152263135
+      }
+    },
+    "specs": {
+      "netSize": 175,
+      "grossSize": 210,
+      "rooms": "1+2",
+      "bathrooms": 2,
+      "age": 2,
+      "floor": 12,
+      "totalFloors": 16,
+      "heating": "Kombi",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500560856891?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500723129116?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500186279075?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500530035690?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500863519235?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500399396488?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500930340482?w=800&q=80&category=real-estate"
+    ],
+    "agent": {
+      "id": "A30",
+      "name": "Agent 29",
+      "phone": "+27 630 976 7222",
+      "email": "agent21@iwrealty.com",
+      "photo": "/images/icons/png/berlin-urban-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-05-24T10:50:47.239Z",
+    "updatedAt": "2025-11-13T10:50:47.239Z",
+    "storeId": "store-009"
+  },
+  {
+    "id": "P05630",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Residence - Valletta",
+    "slug": "kiralik-residence-valletta-P05630",
+    "description": "Valletta, Malta bölgesinde residence. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 7906361,
+    "location": {
+      "country": "MT",
+      "city": "Valletta",
+      "district": "Valletta Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 686",
+      "coordinates": {
+        "lat": 36.10419329187488,
+        "lng": 14.303639570781352
+      }
+    },
+    "specs": {
+      "netSize": 205,
+      "grossSize": 246,
+      "rooms": "2+1",
+      "bathrooms": 2,
+      "age": 10,
+      "floor": 13,
+      "totalFloors": 19,
+      "heating": "Merkezi",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500213020116?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500713859717?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500742971178?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500017756619?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500682326714?w=800&q=80&category=house"
+    ],
+    "agent": {
+      "id": "A61",
+      "name": "Agent 98",
+      "phone": "+89 912 994 4791",
+      "email": "agent35@iwrealty.com",
+      "photo": "/images/icons/png/sg-harbour-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": false,
+      "hasBalcony": false,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-08-30T10:50:47.239Z",
+    "updatedAt": "2025-11-13T10:50:47.239Z",
+    "storeId": "store-011"
+  },
+  {
+    "id": "P05631",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Müstakil Ev - New Malta",
+    "slug": "satilik-müstakil-ev-new-malta-P05631",
+    "description": "New Malta, Malta bölgesinde müstakil ev. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 7975786,
+    "location": {
+      "country": "MT",
+      "city": "New Malta",
+      "district": "New Malta Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 596",
+      "coordinates": {
+        "lat": 35.43930337903578,
+        "lng": 14.288415808014575
+      }
+    },
+    "specs": {
+      "netSize": 362,
+      "grossSize": 434,
+      "rooms": "4+2",
+      "bathrooms": 4,
+      "age": 10,
+      "floor": 7,
+      "totalFloors": 19,
+      "heating": "Kombi",
+      "furnishing": "Unfurnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500737798990?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500421599950?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500653214907?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500676866542?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500901866448?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500914956277?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500089143210?w=800&q=80&category=house"
+    ],
+    "agent": {
+      "id": "A75",
+      "name": "Agent 62",
+      "phone": "+94 626 749 7020",
+      "email": "agent38@iwrealty.com",
+      "photo": "/images/icons/png/izmir-sahil-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-10-08T10:50:47.239Z",
+    "updatedAt": "2025-11-13T10:50:47.239Z",
+    "storeId": "store-005"
+  },
+  {
+    "id": "P05632",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Villa - Malta City",
+    "slug": "kiralik-villa-malta-city-P05632",
+    "description": "Malta City, Malta bölgesinde villa. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 10692327,
+    "location": {
+      "country": "MT",
+      "city": "Malta City",
+      "district": "Malta City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 314",
+      "coordinates": {
+        "lat": 35.96767915915139,
+        "lng": 15.043014629094326
+      }
+    },
+    "specs": {
+      "netSize": 262,
+      "grossSize": 314,
+      "rooms": "5+2",
+      "bathrooms": 2,
+      "age": 12,
+      "floor": 9,
+      "totalFloors": 19,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500656486404?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500403384662?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500682691487?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500872231646?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500788904020?w=800&q=80&category=architecture"
+    ],
+    "agent": {
+      "id": "A31",
+      "name": "Agent 21",
+      "phone": "+24 754 447 3688",
+      "email": "agent65@iwrealty.com",
+      "photo": "/images/icons/png/antalya-investment-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": false,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-10-17T10:50:47.239Z",
+    "updatedAt": "2025-11-13T10:50:47.239Z",
+    "storeId": "store-006"
+  },
+  {
+    "id": "P05633",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Residence - New Malta",
+    "slug": "satilik-residence-new-malta-P05633",
+    "description": "New Malta, Malta bölgesinde residence. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 14381115,
+    "location": {
+      "country": "MT",
+      "city": "New Malta",
+      "district": "New Malta Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 675",
+      "coordinates": {
+        "lat": 35.417712217218764,
+        "lng": 15.063964490815291
+      }
+    },
+    "specs": {
+      "netSize": 303,
+      "grossSize": 364,
+      "rooms": "5+2",
+      "bathrooms": 4,
+      "age": 11,
+      "floor": 12,
+      "totalFloors": 19,
+      "heating": "Klima",
+      "furnishing": "Furnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500320454972?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500221233031?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500023687756?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500842775797?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500877626897?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500650979178?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500091454158?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500867419219?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500070625082?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500126583978?w=800&q=80&category=house"
+    ],
+    "agent": {
+      "id": "A73",
+      "name": "Agent 34",
+      "phone": "+90 743 523 8900",
+      "email": "agent78@iwrealty.com",
+      "photo": "/images/icons/png/izmir-sahil-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2024-11-28T10:50:47.239Z",
+    "updatedAt": "2025-11-13T10:50:47.239Z",
+    "storeId": "store-005"
+  },
+  {
+    "id": "P05634",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Müstakil Ev - Malta City",
+    "slug": "kiralik-müstakil-ev-malta-city-P05634",
+    "description": "Malta City, Malta bölgesinde müstakil ev. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 6157941,
+    "location": {
+      "country": "MT",
+      "city": "Malta City",
+      "district": "Malta City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 18",
+      "coordinates": {
+        "lat": 35.47455359632157,
+        "lng": 14.64056637764932
+      }
+    },
+    "specs": {
+      "netSize": 164,
+      "grossSize": 197,
+      "rooms": "4+0",
+      "bathrooms": 4,
+      "age": 20,
+      "floor": 2,
+      "totalFloors": 8,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Furnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500607108550?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500637768879?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500530085842?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500272887282?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500997689509?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500913978410?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500229061263?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500474377990?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500589633965?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500053830250?w=800&q=80&category=house"
+    ],
+    "agent": {
+      "id": "A40",
+      "name": "Agent 19",
+      "phone": "+22 548 345 5141",
+      "email": "agent36@iwrealty.com",
+      "photo": "/images/icons/png/sydney-coastal-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": true,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-08-13T10:50:47.239Z",
+    "updatedAt": "2025-11-13T10:50:47.239Z",
+    "storeId": "store-012"
+  },
+  {
+    "id": "P05635",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Müstakil Ev - Malta Central",
+    "slug": "satilik-müstakil-ev-malta-central-P05635",
+    "description": "Malta Central, Malta bölgesinde müstakil ev. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 7411149,
+    "location": {
+      "country": "MT",
+      "city": "Malta Central",
+      "district": "Malta Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 677",
+      "coordinates": {
+        "lat": 35.93679005408418,
+        "lng": 14.204367059881745
+      }
+    },
+    "specs": {
+      "netSize": 91,
+      "grossSize": 109,
+      "rooms": "4+0",
+      "bathrooms": 4,
+      "age": 11,
+      "floor": 6,
+      "totalFloors": 8,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Unfurnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500421598497?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500294058719?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500380409063?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500683820746?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500312173673?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500780813379?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500518681455?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500803389223?w=800&q=80&category=building"
+    ],
+    "agent": {
+      "id": "A93",
+      "name": "Agent 63",
+      "phone": "+80 689 872 3283",
+      "email": "agent21@iwrealty.com",
+      "photo": "/images/icons/png/sg-harbour-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-07-06T10:50:47.239Z",
+    "updatedAt": "2025-11-13T10:50:47.239Z",
+    "storeId": "store-011"
+  },
+  {
+    "id": "P05636",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Villa - New Malta",
+    "slug": "kiralik-villa-new-malta-P05636",
+    "description": "New Malta, Malta bölgesinde villa. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 4238517,
+    "location": {
+      "country": "MT",
+      "city": "New Malta",
+      "district": "New Malta Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 981",
+      "coordinates": {
+        "lat": 35.91160426984336,
+        "lng": 14.548581444645244
+      }
+    },
+    "specs": {
+      "netSize": 470,
+      "grossSize": 564,
+      "rooms": "3+0",
+      "bathrooms": 2,
+      "age": 6,
+      "floor": 9,
+      "totalFloors": 10,
+      "heating": "Merkezi",
+      "furnishing": "Unfurnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500187901310?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500917520870?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500396063638?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500302370106?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500185574377?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500958713519?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500451183521?w=800&q=80&category=real-estate"
+    ],
+    "agent": {
+      "id": "A40",
+      "name": "Agent 19",
+      "phone": "+96 572 890 1931",
+      "email": "agent6@iwrealty.com",
+      "photo": "/images/icons/png/sg-harbour-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": false,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-10-07T10:50:47.239Z",
+    "updatedAt": "2025-11-13T10:50:47.239Z",
+    "storeId": "store-011"
+  },
+  {
+    "id": "P05637",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Villa - Malta Central",
+    "slug": "satilik-villa-malta-central-P05637",
+    "description": "Malta Central, Malta bölgesinde villa. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 3677815,
+    "location": {
+      "country": "MT",
+      "city": "Malta Central",
+      "district": "Malta Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 456",
+      "coordinates": {
+        "lat": 35.66401801732198,
+        "lng": 14.321991782247657
+      }
+    },
+    "specs": {
+      "netSize": 228,
+      "grossSize": 274,
+      "rooms": "4+1",
+      "bathrooms": 3,
+      "age": 17,
+      "floor": 9,
+      "totalFloors": 18,
+      "heating": "Kombi",
+      "furnishing": "Unfurnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500724417768?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500800605270?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500606423892?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500997760734?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500912664767?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500655822223?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500523656170?w=800&q=80&category=building"
+    ],
+    "agent": {
+      "id": "A98",
+      "name": "Agent 60",
+      "phone": "+24 338 713 7115",
+      "email": "agent42@iwrealty.com",
+      "photo": "/images/icons/png/ankara-modern-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2024-12-19T10:50:47.239Z",
+    "updatedAt": "2025-11-13T10:50:47.239Z",
+    "storeId": "store-003"
+  },
+  {
+    "id": "P05638",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Daire - Valletta",
+    "slug": "kiralik-daire-valletta-P05638",
+    "description": "Valletta, Malta bölgesinde daire. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 2868412,
+    "location": {
+      "country": "MT",
+      "city": "Valletta",
+      "district": "Valletta Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 209",
+      "coordinates": {
+        "lat": 35.76210985403551,
+        "lng": 14.24565301177872
+      }
+    },
+    "specs": {
+      "netSize": 254,
+      "grossSize": 305,
+      "rooms": "2+0",
+      "bathrooms": 1,
+      "age": 2,
+      "floor": 1,
+      "totalFloors": 15,
+      "heating": "Kombi",
+      "furnishing": "Unfurnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500366326299?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500238898084?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500653320552?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500323396834?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500187545337?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500845607026?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500886893642?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500670686915?w=800&q=80&category=building"
+    ],
+    "agent": {
+      "id": "A68",
+      "name": "Agent 26",
+      "phone": "+32 482 328 6772",
+      "email": "agent10@iwrealty.com",
+      "photo": "/images/icons/png/dubai-property-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-01-12T10:50:47.239Z",
+    "updatedAt": "2025-11-13T10:50:47.239Z",
+    "storeId": "store-004"
+  },
+  {
+    "id": "P05639",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Daire - Malta City",
+    "slug": "satilik-daire-malta-city-P05639",
+    "description": "Malta City, Malta bölgesinde daire. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 9105389,
+    "location": {
+      "country": "MT",
+      "city": "Malta City",
+      "district": "Malta City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 261",
+      "coordinates": {
+        "lat": 35.36160305415424,
+        "lng": 14.68773595362931
+      }
+    },
+    "specs": {
+      "netSize": 163,
+      "grossSize": 196,
+      "rooms": "5+0",
+      "bathrooms": 2,
+      "age": 6,
+      "floor": 1,
+      "totalFloors": 8,
+      "heating": "Klima",
+      "furnishing": "Unfurnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500500663007?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500830800091?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500303554217?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500850034055?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500275267628?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500274013107?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500294164844?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500466126660?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500847877253?w=800&q=80&category=interior"
+    ],
+    "agent": {
+      "id": "A11",
+      "name": "Agent 57",
+      "phone": "+11 707 808 3802",
+      "email": "agent20@iwrealty.com",
+      "photo": "/images/icons/png/ankara-modern-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-11-13T10:50:47.239Z",
+    "updatedAt": "2025-11-13T10:50:47.239Z",
+    "storeId": "store-003"
+  },
+  {
+    "id": "P05640",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Müstakil Ev - Malta City",
+    "slug": "kiralik-müstakil-ev-malta-city-P05640",
+    "description": "Malta City, Malta bölgesinde müstakil ev. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 11204678,
+    "location": {
+      "country": "MT",
+      "city": "Malta City",
+      "district": "Malta City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 943",
+      "coordinates": {
+        "lat": 35.64943705734488,
+        "lng": 14.610362782668359
+      }
+    },
+    "specs": {
+      "netSize": 365,
+      "grossSize": 438,
+      "rooms": "5+0",
+      "bathrooms": 3,
+      "age": 17,
+      "floor": 12,
+      "totalFloors": 13,
+      "heating": "Kombi",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500929678965?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500192879652?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500553626761?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500141628391?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500952088484?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500310951664?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500410171912?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500370299164?w=800&q=80&category=architecture"
+    ],
+    "agent": {
+      "id": "A35",
+      "name": "Agent 50",
+      "phone": "+70 983 974 7680",
+      "email": "agent63@iwrealty.com",
+      "photo": "/images/icons/png/antalya-investment-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2024-12-26T10:50:47.239Z",
+    "updatedAt": "2025-11-13T10:50:47.239Z",
+    "storeId": "store-006"
+  },
+  {
+    "id": "P05641",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Villa - New Malta",
+    "slug": "satilik-villa-new-malta-P05641",
+    "description": "New Malta, Malta bölgesinde villa. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 3038749,
+    "location": {
+      "country": "MT",
+      "city": "New Malta",
+      "district": "New Malta Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 751",
+      "coordinates": {
+        "lat": 35.40132444831966,
+        "lng": 14.950962755604516
+      }
+    },
+    "specs": {
+      "netSize": 467,
+      "grossSize": 560,
+      "rooms": "3+0",
+      "bathrooms": 4,
+      "age": 14,
+      "floor": 7,
+      "totalFloors": 13,
+      "heating": "Merkezi",
+      "furnishing": "Unfurnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500157427159?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500108033976?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500054226808?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500558957596?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500415133022?w=800&q=80&category=building"
+    ],
+    "agent": {
+      "id": "A83",
+      "name": "Agent 54",
+      "phone": "+17 922 400 4975",
+      "email": "agent71@iwrealty.com",
+      "photo": "/images/icons/png/luxury-homes-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": true,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-05-15T10:50:47.239Z",
+    "updatedAt": "2025-11-13T10:50:47.239Z",
+    "storeId": "store-002"
+  },
+  {
+    "id": "P05642",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Müstakil Ev - Valletta",
+    "slug": "kiralik-müstakil-ev-valletta-P05642",
+    "description": "Valletta, Malta bölgesinde müstakil ev. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 13295305,
+    "location": {
+      "country": "MT",
+      "city": "Valletta",
+      "district": "Valletta Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 321",
+      "coordinates": {
+        "lat": 36.009020187243806,
+        "lng": 14.674457907297866
+      }
+    },
+    "specs": {
+      "netSize": 237,
+      "grossSize": 284,
+      "rooms": "5+0",
+      "bathrooms": 4,
+      "age": 12,
+      "floor": 12,
+      "totalFloors": 8,
+      "heating": "Klima",
+      "furnishing": "Furnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500318178285?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500807769895?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500768786503?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500310183588?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500500046989?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500867557788?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500085912733?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500004717547?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500752309545?w=800&q=80&category=building"
+    ],
+    "agent": {
+      "id": "A86",
+      "name": "Agent 81",
+      "phone": "+45 218 388 4194",
+      "email": "agent71@iwrealty.com",
+      "photo": "/images/icons/png/izmir-sahil-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2024-12-11T10:50:47.239Z",
+    "updatedAt": "2025-11-13T10:50:47.239Z",
+    "storeId": "store-005"
+  },
+  {
+    "id": "P05643",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Residence - New Malta",
+    "slug": "satilik-residence-new-malta-P05643",
+    "description": "New Malta, Malta bölgesinde residence. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 7894827,
+    "location": {
+      "country": "MT",
+      "city": "New Malta",
+      "district": "New Malta Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 246",
+      "coordinates": {
+        "lat": 35.69063750550605,
+        "lng": 14.27701338979245
+      }
+    },
+    "specs": {
+      "netSize": 270,
+      "grossSize": 324,
+      "rooms": "3+1",
+      "bathrooms": 1,
+      "age": 18,
+      "floor": 12,
+      "totalFloors": 20,
+      "heating": "Klima",
+      "furnishing": "Furnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500549724359?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500818651860?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500808604474?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500115035811?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500847379113?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500303866601?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500370287457?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500858924460?w=800&q=80&category=real-estate"
+    ],
+    "agent": {
+      "id": "A84",
+      "name": "Agent 52",
+      "phone": "+19 145 646 3575",
+      "email": "agent98@iwrealty.com",
+      "photo": "/images/icons/png/dubai-property-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-09-09T10:50:47.239Z",
+    "updatedAt": "2025-11-13T10:50:47.239Z",
+    "storeId": "store-004"
+  },
+  {
+    "id": "P05644",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Residence - New Malta",
+    "slug": "kiralik-residence-new-malta-P05644",
+    "description": "New Malta, Malta bölgesinde residence. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 9097208,
+    "location": {
+      "country": "MT",
+      "city": "New Malta",
+      "district": "New Malta Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 441",
+      "coordinates": {
+        "lat": 36.20771560763809,
+        "lng": 14.661322334279689
+      }
+    },
+    "specs": {
+      "netSize": 243,
+      "grossSize": 292,
+      "rooms": "3+0",
+      "bathrooms": 3,
+      "age": 12,
+      "floor": 4,
+      "totalFloors": 17,
+      "heating": "Kombi",
+      "furnishing": "Unfurnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500173729477?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500610972192?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500452012665?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500254746899?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500323725447?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500354552232?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500609709176?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500168961925?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500302864465?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500940864974?w=800&q=80&category=house"
+    ],
+    "agent": {
+      "id": "A59",
+      "name": "Agent 59",
+      "phone": "+63 429 937 2497",
+      "email": "agent28@iwrealty.com",
+      "photo": "/images/icons/png/dubai-property-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": true,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-06-08T10:50:47.239Z",
+    "updatedAt": "2025-11-13T10:50:47.239Z",
+    "storeId": "store-004"
+  },
+  {
+    "id": "P05645",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Müstakil Ev - Malta Central",
+    "slug": "satilik-müstakil-ev-malta-central-P05645",
+    "description": "Malta Central, Malta bölgesinde müstakil ev. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 2370051,
+    "location": {
+      "country": "MT",
+      "city": "Malta Central",
+      "district": "Malta Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 244",
+      "coordinates": {
+        "lat": 35.381312976605706,
+        "lng": 14.88028255246029
+      }
+    },
+    "specs": {
+      "netSize": 237,
+      "grossSize": 284,
+      "rooms": "3+0",
+      "bathrooms": 2,
+      "age": 10,
+      "floor": 3,
+      "totalFloors": 6,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Unfurnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500565649937?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500782198581?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500076968578?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500325968422?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500594207144?w=800&q=80&category=architecture"
+    ],
+    "agent": {
+      "id": "A49",
+      "name": "Agent 64",
+      "phone": "+73 870 828 5886",
+      "email": "agent83@iwrealty.com",
+      "photo": "/images/icons/png/ny-skyline-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-04-27T10:50:47.239Z",
+    "updatedAt": "2025-11-13T10:50:47.239Z",
+    "storeId": "store-008"
+  },
+  {
+    "id": "P05646",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Residence - Malta City",
+    "slug": "kiralik-residence-malta-city-P05646",
+    "description": "Malta City, Malta bölgesinde residence. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 11499829,
+    "location": {
+      "country": "MT",
+      "city": "Malta City",
+      "district": "Malta City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 585",
+      "coordinates": {
+        "lat": 36.261157987927696,
+        "lng": 14.64759679830962
+      }
+    },
+    "specs": {
+      "netSize": 275,
+      "grossSize": 330,
+      "rooms": "3+0",
+      "bathrooms": 1,
+      "age": 13,
+      "floor": 3,
+      "totalFloors": 13,
+      "heating": "Klima",
+      "furnishing": "Unfurnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500688311408?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500914934619?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500271431751?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500360320018?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500200400684?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500413931266?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500777523002?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500181062337?w=800&q=80&category=real-estate"
+    ],
+    "agent": {
+      "id": "A51",
+      "name": "Agent 49",
+      "phone": "+81 456 488 5657",
+      "email": "agent13@iwrealty.com",
+      "photo": "/images/icons/png/ny-skyline-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-06-20T10:50:47.239Z",
+    "updatedAt": "2025-11-13T10:50:47.239Z",
+    "storeId": "store-008"
+  },
+  {
+    "id": "P05647",
+    "type": "sale",
+    "category": {
+      "main": "commercial",
+      "sub": "hospital"
+    },
+    "title": "Satılık Hastane - New Malta",
+    "slug": "satilik-hastane-new-malta-P05647",
+    "description": "New Malta, Malta bölgesinde hastane. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 41115241,
+    "location": {
+      "country": "MT",
+      "city": "New Malta",
+      "district": "New Malta Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 983",
+      "coordinates": {
+        "lat": 35.425308855678104,
+        "lng": 15.048979365440271
+      }
+    },
+    "specs": {
+      "netSize": 18762,
+      "grossSize": 22514,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 15,
+      "floor": 5,
+      "totalFloors": 10,
+      "heating": "Merkezi",
+      "furnishing": "Furnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500725180036?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500950370869?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500418492009?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500817937280?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500510164785?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500548083692?w=800&q=80&category=architecture"
+    ],
+    "agent": {
+      "id": "A77",
+      "name": "Agent 70",
+      "phone": "+81 862 432 1056",
+      "email": "agent7@iwrealty.com",
+      "photo": "/images/icons/png/sg-harbour-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-06-18T10:50:47.239Z",
+    "updatedAt": "2025-11-13T10:50:47.239Z",
+    "storeId": "store-011"
+  },
+  {
+    "id": "P05648",
+    "type": "rent",
+    "category": {
+      "main": "commercial",
+      "sub": "hospital"
+    },
+    "title": "Kiralık Hastane - Valletta",
+    "slug": "kiralik-hastane-valletta-P05648",
+    "description": "Valletta, Malta bölgesinde hastane. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 83297120,
+    "location": {
+      "country": "MT",
+      "city": "Valletta",
+      "district": "Valletta Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 81",
+      "coordinates": {
+        "lat": 35.647749120105544,
+        "lng": 14.84008656570833
+      }
+    },
+    "specs": {
+      "netSize": 3157,
+      "grossSize": 3788,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 12,
+      "floor": 2,
+      "totalFloors": 5,
+      "heating": "Merkezi",
+      "furnishing": "Furnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500925174443?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500572775189?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500890470381?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500181052439?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500359841764?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500801365651?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500677300976?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500603912026?w=800&q=80&category=real-estate"
+    ],
+    "agent": {
+      "id": "A4",
+      "name": "Agent 59",
+      "phone": "+73 659 810 6002",
+      "email": "agent38@iwrealty.com",
+      "photo": "/images/icons/png/antalya-investment-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-09-14T10:50:47.239Z",
+    "updatedAt": "2025-11-13T10:50:47.239Z",
+    "storeId": "store-006"
+  },
+  {
+    "id": "P05649",
+    "type": "sale",
+    "category": {
+      "main": "commercial",
+      "sub": "clinic"
+    },
+    "title": "Satılık Klinik - Malta Central",
+    "slug": "satilik-klinik-malta-central-P05649",
+    "description": "Malta Central, Malta bölgesinde klinik. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 4324640,
+    "location": {
+      "country": "MT",
+      "city": "Malta Central",
+      "district": "Malta Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 910",
+      "coordinates": {
+        "lat": 35.95936686602022,
+        "lng": 14.405120761306474
+      }
+    },
+    "specs": {
+      "netSize": 966,
+      "grossSize": 1159,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 18,
+      "floor": 10,
+      "totalFloors": 9,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Unfurnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500627241116?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500682206316?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500405628860?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500025360021?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500416893011?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500166256740?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500534142603?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500082184197?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500067082829?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500585373380?w=800&q=80&category=building"
+    ],
+    "agent": {
+      "id": "A71",
+      "name": "Agent 62",
+      "phone": "+97 721 665 3412",
+      "email": "agent91@iwrealty.com",
+      "photo": "/images/icons/png/ankara-modern-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-06-18T10:50:47.239Z",
+    "updatedAt": "2025-11-13T10:50:47.239Z",
+    "storeId": "store-003"
+  },
+  {
+    "id": "P05650",
+    "type": "rent",
+    "category": {
+      "main": "commercial",
+      "sub": "clinic"
+    },
+    "title": "Kiralık Klinik - Malta City",
+    "slug": "kiralik-klinik-malta-city-P05650",
+    "description": "Malta City, Malta bölgesinde klinik. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 19380281,
+    "location": {
+      "country": "MT",
+      "city": "Malta City",
+      "district": "Malta City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 819",
+      "coordinates": {
+        "lat": 35.39629212091826,
+        "lng": 14.124652387466476
+      }
+    },
+    "specs": {
+      "netSize": 1063,
+      "grossSize": 1276,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 2,
+      "floor": 2,
+      "totalFloors": 13,
+      "heating": "Kombi",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500807329989?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500715683818?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500582315270?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500074633553?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500080719816?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500627903442?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500135667695?w=800&q=80&category=house"
+    ],
+    "agent": {
+      "id": "A76",
+      "name": "Agent 36",
+      "phone": "+31 924 656 7851",
+      "email": "agent31@iwrealty.com",
+      "photo": "/images/icons/png/antalya-investment-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-03-09T10:50:47.239Z",
+    "updatedAt": "2025-11-13T10:50:47.239Z",
+    "storeId": "store-006"
+  },
+  {
+    "id": "P05651",
+    "type": "sale",
+    "category": {
+      "main": "commercial",
+      "sub": "shop"
+    },
+    "title": "Satılık Dükkan - New Malta",
+    "slug": "satilik-dükkan-new-malta-P05651",
+    "description": "New Malta, Malta bölgesinde dükkan. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 5151275,
+    "location": {
+      "country": "MT",
+      "city": "New Malta",
+      "district": "New Malta Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 235",
+      "coordinates": {
+        "lat": 35.96522358498253,
+        "lng": 14.800510665539239
+      }
+    },
+    "specs": {
+      "netSize": 329,
+      "grossSize": 395,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 1,
+      "floor": 7,
+      "totalFloors": 19,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500233119203?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500592325544?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500057590416?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500267507689?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500973548692?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500048350360?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500778994986?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500637698247?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500441860657?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500958047854?w=800&q=80&category=real-estate"
+    ],
+    "agent": {
+      "id": "A58",
+      "name": "Agent 22",
+      "phone": "+54 606 428 5189",
+      "email": "agent67@iwrealty.com",
+      "photo": "/images/icons/png/dubai-property-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": false,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-08-05T10:50:47.239Z",
+    "updatedAt": "2025-11-13T10:50:47.239Z",
+    "storeId": "store-004"
+  },
+  {
+    "id": "P05652",
+    "type": "rent",
+    "category": {
+      "main": "commercial",
+      "sub": "shop"
+    },
+    "title": "Kiralık Dükkan - Malta City",
+    "slug": "kiralik-dükkan-malta-city-P05652",
+    "description": "Malta City, Malta bölgesinde dükkan. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 5702712,
+    "location": {
+      "country": "MT",
+      "city": "Malta City",
+      "district": "Malta City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 220",
+      "coordinates": {
+        "lat": 35.590776363474134,
+        "lng": 14.085095853576384
+      }
+    },
+    "specs": {
+      "netSize": 217,
+      "grossSize": 260,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 1,
+      "floor": 9,
+      "totalFloors": 5,
+      "heating": "Klima",
+      "furnishing": "Furnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500425845065?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500804514016?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500156910961?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500683489121?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500910960824?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500472379290?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500397871615?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500897365824?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500383978083?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500843792542?w=800&q=80&category=real-estate"
+    ],
+    "agent": {
+      "id": "A85",
+      "name": "Agent 18",
+      "phone": "+61 183 779 4854",
+      "email": "agent5@iwrealty.com",
+      "photo": "/images/icons/png/london-prime-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": true,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-02-02T10:50:47.239Z",
+    "updatedAt": "2025-11-13T10:50:47.239Z",
+    "storeId": "store-007"
+  },
+  {
+    "id": "P05653",
+    "type": "sale",
+    "category": {
+      "main": "commercial",
+      "sub": "office"
+    },
+    "title": "Satılık Ofis - Malta Central",
+    "slug": "satilik-ofis-malta-central-P05653",
+    "description": "Malta Central, Malta bölgesinde ofis. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 3218517,
+    "location": {
+      "country": "MT",
+      "city": "Malta Central",
+      "district": "Malta Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 133",
+      "coordinates": {
+        "lat": 35.36357746834855,
+        "lng": 14.523137694251611
+      }
+    },
+    "specs": {
+      "netSize": 211,
+      "grossSize": 253,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 17,
+      "floor": 5,
+      "totalFloors": 14,
+      "heating": "Merkezi",
+      "furnishing": "Unfurnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500063187112?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500344427147?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500817780167?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500180427758?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500581097553?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500403296086?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500201168540?w=800&q=80&category=interior"
+    ],
+    "agent": {
+      "id": "A12",
+      "name": "Agent 14",
+      "phone": "+99 337 589 3121",
+      "email": "agent28@iwrealty.com",
+      "photo": "/images/icons/png/izmir-sahil-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": false,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-09-25T10:50:47.239Z",
+    "updatedAt": "2025-11-13T10:50:47.239Z",
+    "storeId": "store-005"
+  },
+  {
+    "id": "P05654",
+    "type": "rent",
+    "category": {
+      "main": "commercial",
+      "sub": "office"
+    },
+    "title": "Kiralık Ofis - Malta City",
+    "slug": "kiralik-ofis-malta-city-P05654",
+    "description": "Malta City, Malta bölgesinde ofis. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 6026912,
+    "location": {
+      "country": "MT",
+      "city": "Malta City",
+      "district": "Malta City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 479",
+      "coordinates": {
+        "lat": 35.898597580600175,
+        "lng": 14.609107915884946
+      }
+    },
+    "specs": {
+      "netSize": 957,
+      "grossSize": 1148,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 10,
+      "floor": 5,
+      "totalFloors": 9,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Furnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500035052368?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500713447316?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500141210669?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500717424442?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500986080280?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500452798970?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500527069951?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500583219979?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500043652389?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500495564921?w=800&q=80&category=architecture"
+    ],
+    "agent": {
+      "id": "A98",
+      "name": "Agent 42",
+      "phone": "+50 190 467 9593",
+      "email": "agent14@iwrealty.com",
+      "photo": "/images/icons/png/london-prime-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-07-25T10:50:47.239Z",
+    "updatedAt": "2025-11-13T10:50:47.239Z",
+    "storeId": "store-007"
+  },
+  {
+    "id": "P05655",
+    "type": "sale",
+    "category": {
+      "main": "commercial",
+      "sub": "mall"
+    },
+    "title": "Satılık AVM - Valletta",
+    "slug": "satilik-avm-valletta-P05655",
+    "description": "Valletta, Malta bölgesinde avm. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 150532753,
+    "location": {
+      "country": "MT",
+      "city": "Valletta",
+      "district": "Valletta Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 762",
+      "coordinates": {
+        "lat": 35.50721538516075,
+        "lng": 14.906584762657092
+      }
+    },
+    "specs": {
+      "netSize": 25315,
+      "grossSize": 30378,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 6,
+      "floor": 14,
+      "totalFloors": 12,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Furnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500648005895?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500729303828?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500013328121?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500013933604?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500390721781?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500255738849?w=800&q=80&category=architecture"
+    ],
+    "agent": {
+      "id": "A67",
+      "name": "Agent 46",
+      "phone": "+90 755 351 2671",
+      "email": "agent64@iwrealty.com",
+      "photo": "/images/icons/png/sg-harbour-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2024-12-20T10:50:47.239Z",
+    "updatedAt": "2025-11-13T10:50:47.239Z",
+    "storeId": "store-011"
+  },
+  {
+    "id": "P05656",
+    "type": "rent",
+    "category": {
+      "main": "commercial",
+      "sub": "mall"
+    },
+    "title": "Kiralık AVM - Malta City",
+    "slug": "kiralik-avm-malta-city-P05656",
+    "description": "Malta City, Malta bölgesinde avm. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 228482126,
+    "location": {
+      "country": "MT",
+      "city": "Malta City",
+      "district": "Malta City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 845",
+      "coordinates": {
+        "lat": 36.257164682193476,
+        "lng": 14.317033163978879
+      }
+    },
+    "specs": {
+      "netSize": 32302,
+      "grossSize": 38762,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 0,
+      "floor": 15,
+      "totalFloors": 19,
+      "heating": "Klima",
+      "furnishing": "Unfurnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500591175556?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500899748162?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500196861390?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500380831772?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500616267427?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500899435599?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500723384893?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500862784207?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500960281546?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500849697193?w=800&q=80&category=real-estate"
+    ],
+    "agent": {
+      "id": "A62",
+      "name": "Agent 78",
+      "phone": "+91 385 424 5368",
+      "email": "agent14@iwrealty.com",
+      "photo": "/images/icons/png/ankara-modern-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-07-21T10:50:47.239Z",
+    "updatedAt": "2025-11-13T10:50:47.239Z",
+    "storeId": "store-003"
+  },
+  {
+    "id": "P05657",
+    "type": "sale",
+    "category": {
+      "main": "commercial",
+      "sub": "hotel"
+    },
+    "title": "Satılık Otel - Malta City",
+    "slug": "satilik-otel-malta-city-P05657",
+    "description": "Malta City, Malta bölgesinde otel. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 60572684,
+    "location": {
+      "country": "MT",
+      "city": "Malta City",
+      "district": "Malta City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 96",
+      "coordinates": {
+        "lat": 36.31843269939322,
+        "lng": 14.45533916046597
+      }
+    },
+    "specs": {
+      "netSize": 22297,
+      "grossSize": 26756,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 16,
+      "floor": 5,
+      "totalFloors": 15,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Unfurnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500478279859?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500046271093?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500473975296?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500250911132?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500999422684?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500121835387?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500987683311?w=800&q=80&category=building"
+    ],
+    "agent": {
+      "id": "A90",
+      "name": "Agent 77",
+      "phone": "+85 184 401 2182",
+      "email": "agent12@iwrealty.com",
+      "photo": "/images/icons/png/ny-skyline-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": false,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-09-01T10:50:47.239Z",
+    "updatedAt": "2025-11-13T10:50:47.239Z",
+    "storeId": "store-008"
+  },
+  {
+    "id": "P05658",
+    "type": "rent",
+    "category": {
+      "main": "commercial",
+      "sub": "hotel"
+    },
+    "title": "Kiralık Otel - Malta Central",
+    "slug": "kiralik-otel-malta-central-P05658",
+    "description": "Malta Central, Malta bölgesinde otel. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 154003019,
+    "location": {
+      "country": "MT",
+      "city": "Malta Central",
+      "district": "Malta Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 987",
+      "coordinates": {
+        "lat": 35.715726755975666,
+        "lng": 14.533775555046402
+      }
+    },
+    "specs": {
+      "netSize": 11656,
+      "grossSize": 13987,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 17,
+      "floor": 5,
+      "totalFloors": 19,
+      "heating": "Kombi",
+      "furnishing": "Furnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500795361856?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500033087543?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500751690062?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500207337705?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500616865853?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500856389112?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500314991015?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500003829104?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500881027731?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500731354754?w=800&q=80&category=house"
+    ],
+    "agent": {
+      "id": "A98",
+      "name": "Agent 16",
+      "phone": "+18 571 391 1945",
+      "email": "agent50@iwrealty.com",
+      "photo": "/images/icons/png/izmir-sahil-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": false,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-06-29T10:50:47.239Z",
+    "updatedAt": "2025-11-13T10:50:47.239Z",
+    "storeId": "store-005"
+  },
+  {
+    "id": "P05659",
+    "type": "sale",
+    "category": {
+      "main": "commercial",
+      "sub": "restaurant"
+    },
+    "title": "Satılık Restoran - Malta City",
+    "slug": "satilik-restoran-malta-city-P05659",
+    "description": "Malta City, Malta bölgesinde restoran. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 1780131,
+    "location": {
+      "country": "MT",
+      "city": "Malta City",
+      "district": "Malta City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 389",
+      "coordinates": {
+        "lat": 35.43444735056155,
+        "lng": 14.834539277139152
+      }
+    },
+    "specs": {
+      "netSize": 1408,
+      "grossSize": 1690,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 18,
+      "floor": 12,
+      "totalFloors": 11,
+      "heating": "Merkezi",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500462085306?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500565639583?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500625632640?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500226550176?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500093386346?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500282282356?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500148772654?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500662665297?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500494707270?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500793892539?w=800&q=80&category=building"
+    ],
+    "agent": {
+      "id": "A77",
+      "name": "Agent 48",
+      "phone": "+62 745 403 4382",
+      "email": "agent58@iwrealty.com",
+      "photo": "/images/icons/png/sydney-coastal-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": false,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-11-10T10:50:47.239Z",
+    "updatedAt": "2025-11-13T10:50:47.239Z",
+    "storeId": "store-012"
+  },
+  {
+    "id": "P05660",
+    "type": "rent",
+    "category": {
+      "main": "commercial",
+      "sub": "restaurant"
+    },
+    "title": "Kiralık Restoran - Malta City",
+    "slug": "kiralik-restoran-malta-city-P05660",
+    "description": "Malta City, Malta bölgesinde restoran. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 2028813,
+    "location": {
+      "country": "MT",
+      "city": "Malta City",
+      "district": "Malta City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 118",
+      "coordinates": {
+        "lat": 35.773498892163495,
+        "lng": 14.58064757131634
+      }
+    },
+    "specs": {
+      "netSize": 439,
+      "grossSize": 527,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 15,
+      "floor": 1,
+      "totalFloors": 13,
+      "heating": "Klima",
+      "furnishing": "Unfurnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500835528837?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500972540468?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500528169061?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500842992035?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500652637151?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500441680176?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500922322552?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500892314182?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500149190083?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500897688959?w=800&q=80&category=house"
+    ],
+    "agent": {
+      "id": "A34",
+      "name": "Agent 47",
+      "phone": "+30 336 281 1972",
+      "email": "agent97@iwrealty.com",
+      "photo": "/images/icons/png/ankara-modern-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": false,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-09-04T10:50:47.239Z",
+    "updatedAt": "2025-11-13T10:50:47.239Z",
+    "storeId": "store-003"
+  },
+  {
+    "id": "P05661",
+    "type": "sale",
+    "category": {
+      "main": "commercial",
+      "sub": "warehouse"
+    },
+    "title": "Satılık Depo - Malta Central",
+    "slug": "satilik-depo-malta-central-P05661",
+    "description": "Malta Central, Malta bölgesinde depo. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 5213916,
+    "location": {
+      "country": "MT",
+      "city": "Malta Central",
+      "district": "Malta Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 265",
+      "coordinates": {
+        "lat": 35.38281670951751,
+        "lng": 14.315749067523743
+      }
+    },
+    "specs": {
+      "netSize": 7182,
+      "grossSize": 8618,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 14,
+      "floor": 1,
+      "totalFloors": 10,
+      "heating": "Kombi",
+      "furnishing": "Furnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500325493822?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500972423253?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500047991878?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500457184622?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500568670851?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500906255845?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500436925744?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500742291172?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500150460079?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500689640543?w=800&q=80&category=architecture"
+    ],
+    "agent": {
+      "id": "A73",
+      "name": "Agent 38",
+      "phone": "+30 381 375 4673",
+      "email": "agent11@iwrealty.com",
+      "photo": "/images/icons/png/izmir-sahil-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-04-19T10:50:47.239Z",
+    "updatedAt": "2025-11-13T10:50:47.239Z",
+    "storeId": "store-005"
+  },
+  {
+    "id": "P05662",
+    "type": "rent",
+    "category": {
+      "main": "commercial",
+      "sub": "warehouse"
+    },
+    "title": "Kiralık Depo - Valletta",
+    "slug": "kiralik-depo-valletta-P05662",
+    "description": "Valletta, Malta bölgesinde depo. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 20391169,
+    "location": {
+      "country": "MT",
+      "city": "Valletta",
+      "district": "Valletta Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 370",
+      "coordinates": {
+        "lat": 35.615890470592596,
+        "lng": 14.704794861585436
+      }
+    },
+    "specs": {
+      "netSize": 9842,
+      "grossSize": 11810,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 3,
+      "floor": 6,
+      "totalFloors": 19,
+      "heating": "Klima",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500574857835?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500944687184?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500612905641?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500940769204?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500084024060?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500415582435?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500657025057?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500733169183?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500399298355?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500745429996?w=800&q=80&category=interior"
+    ],
+    "agent": {
+      "id": "A87",
+      "name": "Agent 73",
+      "phone": "+74 405 537 9232",
+      "email": "agent32@iwrealty.com",
+      "photo": "/images/icons/png/berlin-urban-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-11-12T10:50:47.239Z",
+    "updatedAt": "2025-11-13T10:50:47.239Z",
+    "storeId": "store-009"
+  }
+]

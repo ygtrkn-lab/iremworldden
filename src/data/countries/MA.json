@@ -1,0 +1,2355 @@
+[
+  {
+    "id": "P05283",
+    "type": "sale",
+    "category": {
+      "main": "government"
+    },
+    "title": "Satılık Devlet Binası - Morocco City",
+    "slug": "satilik-devlet-binası-morocco-city-P05283",
+    "description": "Morocco City, Morocco bölgesinde devlet binası. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 28361991,
+    "location": {
+      "country": "MA",
+      "city": "Morocco City",
+      "district": "Morocco City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 546",
+      "coordinates": {
+        "lat": 32.49307732713798,
+        "lng": -4.538371192319836
+      }
+    },
+    "specs": {
+      "netSize": 849,
+      "grossSize": 1019,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 17,
+      "floor": 10,
+      "totalFloors": 7,
+      "heating": "Klima",
+      "furnishing": "Furnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500029505734?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500771224313?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500385278017?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500023596078?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500062941156?w=800&q=80&category=architecture"
+    ],
+    "agent": {
+      "id": "A3",
+      "name": "Agent 35",
+      "phone": "+30 933 792 6772",
+      "email": "agent15@iwrealty.com",
+      "photo": "/images/icons/png/izmir-sahil-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-09-19T10:50:47.235Z",
+    "updatedAt": "2025-11-13T10:50:47.235Z",
+    "storeId": "store-005"
+  },
+  {
+    "id": "P05284",
+    "type": "rent",
+    "category": {
+      "main": "government"
+    },
+    "title": "Kiralık Devlet Binası - Morocco City",
+    "slug": "kiralik-devlet-binası-morocco-city-P05284",
+    "description": "Morocco City, Morocco bölgesinde devlet binası. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 15147244,
+    "location": {
+      "country": "MA",
+      "city": "Morocco City",
+      "district": "Morocco City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 853",
+      "coordinates": {
+        "lat": 32.43288241567108,
+        "lng": -4.6304864873947365
+      }
+    },
+    "specs": {
+      "netSize": 1383,
+      "grossSize": 1660,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 8,
+      "floor": 1,
+      "totalFloors": 8,
+      "heating": "Merkezi",
+      "furnishing": "Unfurnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500230067319?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500136632239?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500083209994?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500960893079?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500262877122?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500993328098?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500911103647?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500134447516?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500309172431?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500376893183?w=800&q=80&category=building"
+    ],
+    "agent": {
+      "id": "A27",
+      "name": "Agent 25",
+      "phone": "+81 919 680 6340",
+      "email": "agent38@iwrealty.com",
+      "photo": "/images/icons/png/berlin-urban-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": true,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-06-09T10:50:47.235Z",
+    "updatedAt": "2025-11-13T10:50:47.235Z",
+    "storeId": "store-009"
+  },
+  {
+    "id": "P05285",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Residence - New Morocco",
+    "slug": "satilik-residence-new-morocco-P05285",
+    "description": "New Morocco, Morocco bölgesinde residence. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 902436,
+    "location": {
+      "country": "MA",
+      "city": "New Morocco",
+      "district": "New Morocco Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 374",
+      "coordinates": {
+        "lat": 31.753703720491774,
+        "lng": -4.822113794444871
+      }
+    },
+    "specs": {
+      "netSize": 199,
+      "grossSize": 239,
+      "rooms": "5+1",
+      "bathrooms": 1,
+      "age": 14,
+      "floor": 14,
+      "totalFloors": 10,
+      "heating": "Merkezi",
+      "furnishing": "Furnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500464413657?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500830998978?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500245883481?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500778375524?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500890397790?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500584017998?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500036201541?w=800&q=80&category=interior"
+    ],
+    "agent": {
+      "id": "A52",
+      "name": "Agent 95",
+      "phone": "+51 611 126 2807",
+      "email": "agent64@iwrealty.com",
+      "photo": "/images/icons/png/paris-heritage-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": false,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2024-12-30T10:50:47.236Z",
+    "updatedAt": "2025-11-13T10:50:47.236Z",
+    "storeId": "store-010"
+  },
+  {
+    "id": "P05286",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Residence - Morocco Central",
+    "slug": "kiralik-residence-morocco-central-P05286",
+    "description": "Morocco Central, Morocco bölgesinde residence. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 916113,
+    "location": {
+      "country": "MA",
+      "city": "Morocco Central",
+      "district": "Morocco Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 985",
+      "coordinates": {
+        "lat": 31.99606302784484,
+        "lng": -5.260037249605147
+      }
+    },
+    "specs": {
+      "netSize": 160,
+      "grossSize": 192,
+      "rooms": "3+0",
+      "bathrooms": 2,
+      "age": 17,
+      "floor": 12,
+      "totalFloors": 12,
+      "heating": "Kombi",
+      "furnishing": "Unfurnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500004117741?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500190787123?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500938740313?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500871516293?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500602295309?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500924530064?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500209641875?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500549808331?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500905142949?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500934353850?w=800&q=80&category=house"
+    ],
+    "agent": {
+      "id": "A46",
+      "name": "Agent 27",
+      "phone": "+96 695 567 9108",
+      "email": "agent28@iwrealty.com",
+      "photo": "/images/icons/png/sydney-coastal-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": false,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": true,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-01-15T10:50:47.236Z",
+    "updatedAt": "2025-11-13T10:50:47.236Z",
+    "storeId": "store-012"
+  },
+  {
+    "id": "P05287",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Residence - New Morocco",
+    "slug": "satilik-residence-new-morocco-P05287",
+    "description": "New Morocco, Morocco bölgesinde residence. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 14239317,
+    "location": {
+      "country": "MA",
+      "city": "New Morocco",
+      "district": "New Morocco Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 91",
+      "coordinates": {
+        "lat": 31.714659943838075,
+        "lng": -5.2993478930843825
+      }
+    },
+    "specs": {
+      "netSize": 440,
+      "grossSize": 528,
+      "rooms": "2+1",
+      "bathrooms": 4,
+      "age": 6,
+      "floor": 2,
+      "totalFloors": 13,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Furnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500270729444?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500820685442?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500944424571?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500056494216?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500588950124?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500708307447?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500551831073?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500522458957?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500075018839?w=800&q=80&category=architecture"
+    ],
+    "agent": {
+      "id": "A91",
+      "name": "Agent 59",
+      "phone": "+43 203 530 2048",
+      "email": "agent96@iwrealty.com",
+      "photo": "/images/icons/png/antalya-investment-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": true,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-10-20T10:50:47.236Z",
+    "updatedAt": "2025-11-13T10:50:47.236Z",
+    "storeId": "store-006"
+  },
+  {
+    "id": "P05288",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Müstakil Ev - Rabat",
+    "slug": "kiralik-müstakil-ev-rabat-P05288",
+    "description": "Rabat, Morocco bölgesinde müstakil ev. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 8410980,
+    "location": {
+      "country": "MA",
+      "city": "Rabat",
+      "district": "Rabat Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 152",
+      "coordinates": {
+        "lat": 32.002938561208424,
+        "lng": -4.798493709367325
+      }
+    },
+    "specs": {
+      "netSize": 282,
+      "grossSize": 338,
+      "rooms": "2+1",
+      "bathrooms": 4,
+      "age": 3,
+      "floor": 13,
+      "totalFloors": 14,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500448625899?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500513588734?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500692614296?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500721173714?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500603288202?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500841136791?w=800&q=80&category=building"
+    ],
+    "agent": {
+      "id": "A36",
+      "name": "Agent 28",
+      "phone": "+51 139 122 4593",
+      "email": "agent31@iwrealty.com",
+      "photo": "/images/icons/png/sydney-coastal-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": false,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": true,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-05-12T10:50:47.236Z",
+    "updatedAt": "2025-11-13T10:50:47.236Z",
+    "storeId": "store-012"
+  },
+  {
+    "id": "P05289",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Residence - Morocco City",
+    "slug": "satilik-residence-morocco-city-P05289",
+    "description": "Morocco City, Morocco bölgesinde residence. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 4607551,
+    "location": {
+      "country": "MA",
+      "city": "Morocco City",
+      "district": "Morocco City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 484",
+      "coordinates": {
+        "lat": 31.59013675442562,
+        "lng": -5.476453583357327
+      }
+    },
+    "specs": {
+      "netSize": 385,
+      "grossSize": 462,
+      "rooms": "5+0",
+      "bathrooms": 2,
+      "age": 6,
+      "floor": 3,
+      "totalFloors": 13,
+      "heating": "Klima",
+      "furnishing": "Furnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500444927362?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500633096775?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500066028402?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500934819843?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500730648237?w=800&q=80&category=architecture"
+    ],
+    "agent": {
+      "id": "A78",
+      "name": "Agent 74",
+      "phone": "+29 708 876 4137",
+      "email": "agent37@iwrealty.com",
+      "photo": "/images/icons/png/ankara-modern-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": false,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-08-14T10:50:47.236Z",
+    "updatedAt": "2025-11-13T10:50:47.236Z",
+    "storeId": "store-003"
+  },
+  {
+    "id": "P05290",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Daire - Morocco Central",
+    "slug": "kiralik-daire-morocco-central-P05290",
+    "description": "Morocco Central, Morocco bölgesinde daire. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 10913665,
+    "location": {
+      "country": "MA",
+      "city": "Morocco Central",
+      "district": "Morocco Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 262",
+      "coordinates": {
+        "lat": 32.18681762798554,
+        "lng": -5.371689879212063
+      }
+    },
+    "specs": {
+      "netSize": 397,
+      "grossSize": 476,
+      "rooms": "4+0",
+      "bathrooms": 3,
+      "age": 10,
+      "floor": 10,
+      "totalFloors": 16,
+      "heating": "Kombi",
+      "furnishing": "Furnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500803528013?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500686700694?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500566688157?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500161916003?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500606707566?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500933551414?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500736758233?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500965810118?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500848073099?w=800&q=80&category=real-estate"
+    ],
+    "agent": {
+      "id": "A24",
+      "name": "Agent 28",
+      "phone": "+10 295 728 8856",
+      "email": "agent65@iwrealty.com",
+      "photo": "/images/icons/png/ny-skyline-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": false,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-08-27T10:50:47.236Z",
+    "updatedAt": "2025-11-13T10:50:47.236Z",
+    "storeId": "store-008"
+  },
+  {
+    "id": "P05291",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Residence - Morocco Central",
+    "slug": "satilik-residence-morocco-central-P05291",
+    "description": "Morocco Central, Morocco bölgesinde residence. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 12649540,
+    "location": {
+      "country": "MA",
+      "city": "Morocco Central",
+      "district": "Morocco Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 575",
+      "coordinates": {
+        "lat": 32.23737524310947,
+        "lng": -5.0285369813392835
+      }
+    },
+    "specs": {
+      "netSize": 381,
+      "grossSize": 457,
+      "rooms": "1+1",
+      "bathrooms": 1,
+      "age": 5,
+      "floor": 15,
+      "totalFloors": 17,
+      "heating": "Kombi",
+      "furnishing": "Furnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500368809073?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500978595452?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500512010722?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500560213359?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500560493526?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500183364824?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500554972221?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500608612572?w=800&q=80&category=building"
+    ],
+    "agent": {
+      "id": "A31",
+      "name": "Agent 79",
+      "phone": "+95 825 140 5974",
+      "email": "agent96@iwrealty.com",
+      "photo": "/images/icons/png/sydney-coastal-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-07-15T10:50:47.236Z",
+    "updatedAt": "2025-11-13T10:50:47.236Z",
+    "storeId": "store-012"
+  },
+  {
+    "id": "P05292",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Daire - Morocco City",
+    "slug": "kiralik-daire-morocco-city-P05292",
+    "description": "Morocco City, Morocco bölgesinde daire. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 12338037,
+    "location": {
+      "country": "MA",
+      "city": "Morocco City",
+      "district": "Morocco City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 295",
+      "coordinates": {
+        "lat": 31.895034545066324,
+        "lng": -4.702632912994864
+      }
+    },
+    "specs": {
+      "netSize": 194,
+      "grossSize": 233,
+      "rooms": "3+2",
+      "bathrooms": 4,
+      "age": 12,
+      "floor": 4,
+      "totalFloors": 8,
+      "heating": "Merkezi",
+      "furnishing": "Unfurnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500338466064?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500326670478?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500351823807?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500126256190?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500332449825?w=800&q=80&category=house"
+    ],
+    "agent": {
+      "id": "A24",
+      "name": "Agent 70",
+      "phone": "+65 644 791 1366",
+      "email": "agent2@iwrealty.com",
+      "photo": "/images/icons/png/antalya-investment-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": false,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-09-12T10:50:47.236Z",
+    "updatedAt": "2025-11-13T10:50:47.236Z",
+    "storeId": "store-006"
+  },
+  {
+    "id": "P05293",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Daire - New Morocco",
+    "slug": "satilik-daire-new-morocco-P05293",
+    "description": "New Morocco, Morocco bölgesinde daire. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 5344289,
+    "location": {
+      "country": "MA",
+      "city": "New Morocco",
+      "district": "New Morocco Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 837",
+      "coordinates": {
+        "lat": 31.755705513694245,
+        "lng": -4.793246544796191
+      }
+    },
+    "specs": {
+      "netSize": 194,
+      "grossSize": 233,
+      "rooms": "2+2",
+      "bathrooms": 2,
+      "age": 5,
+      "floor": 3,
+      "totalFloors": 7,
+      "heating": "Kombi",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500770248615?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500549032760?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500991064832?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500229686029?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500078996906?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500167682497?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500000153448?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500357515448?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500047298021?w=800&q=80&category=real-estate"
+    ],
+    "agent": {
+      "id": "A37",
+      "name": "Agent 63",
+      "phone": "+67 256 358 2093",
+      "email": "agent9@iwrealty.com",
+      "photo": "/images/icons/png/paris-heritage-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": false,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-02-26T10:50:47.236Z",
+    "updatedAt": "2025-11-13T10:50:47.236Z",
+    "storeId": "store-010"
+  },
+  {
+    "id": "P05294",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Müstakil Ev - New Morocco",
+    "slug": "kiralik-müstakil-ev-new-morocco-P05294",
+    "description": "New Morocco, Morocco bölgesinde müstakil ev. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 13571162,
+    "location": {
+      "country": "MA",
+      "city": "New Morocco",
+      "district": "New Morocco Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 705",
+      "coordinates": {
+        "lat": 31.825284645916874,
+        "lng": -5.4378747291986205
+      }
+    },
+    "specs": {
+      "netSize": 434,
+      "grossSize": 521,
+      "rooms": "2+1",
+      "bathrooms": 3,
+      "age": 6,
+      "floor": 4,
+      "totalFloors": 14,
+      "heating": "Klima",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500860050040?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500292163945?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500816155996?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500682462787?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500262856487?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500923076204?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500192578471?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500638465868?w=800&q=80&category=house"
+    ],
+    "agent": {
+      "id": "A43",
+      "name": "Agent 77",
+      "phone": "+29 492 366 6264",
+      "email": "agent79@iwrealty.com",
+      "photo": "/images/icons/png/berlin-urban-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": false,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": true,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-10-25T10:50:47.236Z",
+    "updatedAt": "2025-11-13T10:50:47.236Z",
+    "storeId": "store-009"
+  },
+  {
+    "id": "P05295",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Müstakil Ev - Morocco Central",
+    "slug": "satilik-müstakil-ev-morocco-central-P05295",
+    "description": "Morocco Central, Morocco bölgesinde müstakil ev. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 756845,
+    "location": {
+      "country": "MA",
+      "city": "Morocco Central",
+      "district": "Morocco Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 784",
+      "coordinates": {
+        "lat": 31.94835947077327,
+        "lng": -4.723325004005233
+      }
+    },
+    "specs": {
+      "netSize": 345,
+      "grossSize": 414,
+      "rooms": "3+2",
+      "bathrooms": 1,
+      "age": 13,
+      "floor": 13,
+      "totalFloors": 9,
+      "heating": "Kombi",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500334833999?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500671462945?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500740131237?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500317678385?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500655865239?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500744070992?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500498230950?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500955087473?w=800&q=80&category=building"
+    ],
+    "agent": {
+      "id": "A16",
+      "name": "Agent 5",
+      "phone": "+38 800 823 5890",
+      "email": "agent14@iwrealty.com",
+      "photo": "/images/icons/png/dubai-property-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2024-12-22T10:50:47.236Z",
+    "updatedAt": "2025-11-13T10:50:47.236Z",
+    "storeId": "store-004"
+  },
+  {
+    "id": "P05296",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Daire - Rabat",
+    "slug": "kiralik-daire-rabat-P05296",
+    "description": "Rabat, Morocco bölgesinde daire. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 7745544,
+    "location": {
+      "country": "MA",
+      "city": "Rabat",
+      "district": "Rabat Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 704",
+      "coordinates": {
+        "lat": 32.22983077861009,
+        "lng": -4.874224714457819
+      }
+    },
+    "specs": {
+      "netSize": 310,
+      "grossSize": 372,
+      "rooms": "3+1",
+      "bathrooms": 3,
+      "age": 15,
+      "floor": 15,
+      "totalFloors": 9,
+      "heating": "Klima",
+      "furnishing": "Unfurnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500410102009?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500706211395?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500076157051?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500509360724?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500690039257?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500911430783?w=800&q=80&category=real-estate"
+    ],
+    "agent": {
+      "id": "A63",
+      "name": "Agent 82",
+      "phone": "+38 189 362 3653",
+      "email": "agent21@iwrealty.com",
+      "photo": "/images/icons/png/antalya-investment-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": false,
+      "hasBalcony": false,
+      "hasGarden": true,
+      "hasPool": true,
+      "hasSecurity": true
+    },
+    "createdAt": "2024-12-23T10:50:47.236Z",
+    "updatedAt": "2025-11-13T10:50:47.236Z",
+    "storeId": "store-006"
+  },
+  {
+    "id": "P05297",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Daire - Rabat",
+    "slug": "satilik-daire-rabat-P05297",
+    "description": "Rabat, Morocco bölgesinde daire. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 12194277,
+    "location": {
+      "country": "MA",
+      "city": "Rabat",
+      "district": "Rabat Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 257",
+      "coordinates": {
+        "lat": 32.29079331483384,
+        "lng": -4.6250754366624225
+      }
+    },
+    "specs": {
+      "netSize": 140,
+      "grossSize": 168,
+      "rooms": "1+1",
+      "bathrooms": 3,
+      "age": 10,
+      "floor": 12,
+      "totalFloors": 16,
+      "heating": "Kombi",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500139948664?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500222561905?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500899301685?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500561566846?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500471486877?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500184438615?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500685047890?w=800&q=80&category=building"
+    ],
+    "agent": {
+      "id": "A61",
+      "name": "Agent 71",
+      "phone": "+26 823 351 4047",
+      "email": "agent74@iwrealty.com",
+      "photo": "/images/icons/png/paris-heritage-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": true,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-11-09T10:50:47.236Z",
+    "updatedAt": "2025-11-13T10:50:47.236Z",
+    "storeId": "store-010"
+  },
+  {
+    "id": "P05298",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Villa - Morocco City",
+    "slug": "kiralik-villa-morocco-city-P05298",
+    "description": "Morocco City, Morocco bölgesinde villa. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 8259407,
+    "location": {
+      "country": "MA",
+      "city": "Morocco City",
+      "district": "Morocco City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 948",
+      "coordinates": {
+        "lat": 31.766153647767435,
+        "lng": -4.637471603378582
+      }
+    },
+    "specs": {
+      "netSize": 85,
+      "grossSize": 102,
+      "rooms": "1+2",
+      "bathrooms": 2,
+      "age": 20,
+      "floor": 11,
+      "totalFloors": 6,
+      "heating": "Merkezi",
+      "furnishing": "Unfurnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500620321904?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500955350739?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500066016867?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500538297583?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500847615864?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500090561999?w=800&q=80&category=architecture"
+    ],
+    "agent": {
+      "id": "A5",
+      "name": "Agent 60",
+      "phone": "+24 450 107 6000",
+      "email": "agent27@iwrealty.com",
+      "photo": "/images/icons/png/antalya-investment-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": false,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-02-10T10:50:47.236Z",
+    "updatedAt": "2025-11-13T10:50:47.236Z",
+    "storeId": "store-006"
+  },
+  {
+    "id": "P05299",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Residence - Rabat",
+    "slug": "satilik-residence-rabat-P05299",
+    "description": "Rabat, Morocco bölgesinde residence. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 12447994,
+    "location": {
+      "country": "MA",
+      "city": "Rabat",
+      "district": "Rabat Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 887",
+      "coordinates": {
+        "lat": 32.464337986246754,
+        "lng": -5.435154365862713
+      }
+    },
+    "specs": {
+      "netSize": 285,
+      "grossSize": 342,
+      "rooms": "2+1",
+      "bathrooms": 2,
+      "age": 17,
+      "floor": 2,
+      "totalFloors": 11,
+      "heating": "Klima",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500675432152?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500662878440?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500339477571?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500441660427?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500048732816?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500138515994?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500728874309?w=800&q=80&category=building"
+    ],
+    "agent": {
+      "id": "A33",
+      "name": "Agent 10",
+      "phone": "+46 432 392 1886",
+      "email": "agent95@iwrealty.com",
+      "photo": "/images/icons/png/ny-skyline-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": true,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-01-15T10:50:47.236Z",
+    "updatedAt": "2025-11-13T10:50:47.236Z",
+    "storeId": "store-008"
+  },
+  {
+    "id": "P05300",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Residence - Morocco Central",
+    "slug": "kiralik-residence-morocco-central-P05300",
+    "description": "Morocco Central, Morocco bölgesinde residence. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 14861531,
+    "location": {
+      "country": "MA",
+      "city": "Morocco Central",
+      "district": "Morocco Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 205",
+      "coordinates": {
+        "lat": 31.529660449650425,
+        "lng": -4.606058003477517
+      }
+    },
+    "specs": {
+      "netSize": 120,
+      "grossSize": 144,
+      "rooms": "5+0",
+      "bathrooms": 4,
+      "age": 0,
+      "floor": 9,
+      "totalFloors": 16,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500728145323?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500681386681?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500172305745?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500317985625?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500617210519?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500346039964?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500354967995?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500223185574?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500021195640?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500581037257?w=800&q=80&category=architecture"
+    ],
+    "agent": {
+      "id": "A69",
+      "name": "Agent 17",
+      "phone": "+62 771 268 8631",
+      "email": "agent55@iwrealty.com",
+      "photo": "/images/icons/png/london-prime-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-10-24T10:50:47.236Z",
+    "updatedAt": "2025-11-13T10:50:47.236Z",
+    "storeId": "store-007"
+  },
+  {
+    "id": "P05301",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Residence - New Morocco",
+    "slug": "satilik-residence-new-morocco-P05301",
+    "description": "New Morocco, Morocco bölgesinde residence. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 829680,
+    "location": {
+      "country": "MA",
+      "city": "New Morocco",
+      "district": "New Morocco Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 518",
+      "coordinates": {
+        "lat": 31.61034562533871,
+        "lng": -5.316904413967974
+      }
+    },
+    "specs": {
+      "netSize": 152,
+      "grossSize": 182,
+      "rooms": "2+2",
+      "bathrooms": 2,
+      "age": 9,
+      "floor": 4,
+      "totalFloors": 19,
+      "heating": "Kombi",
+      "furnishing": "Unfurnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500431490859?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500472673344?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500549253705?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500477853902?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500040904153?w=800&q=80&category=house"
+    ],
+    "agent": {
+      "id": "A33",
+      "name": "Agent 93",
+      "phone": "+56 710 784 8338",
+      "email": "agent98@iwrealty.com",
+      "photo": "/images/icons/png/sg-harbour-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": true,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-08-27T10:50:47.236Z",
+    "updatedAt": "2025-11-13T10:50:47.236Z",
+    "storeId": "store-011"
+  },
+  {
+    "id": "P05302",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Müstakil Ev - New Morocco",
+    "slug": "kiralik-müstakil-ev-new-morocco-P05302",
+    "description": "New Morocco, Morocco bölgesinde müstakil ev. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 10225570,
+    "location": {
+      "country": "MA",
+      "city": "New Morocco",
+      "district": "New Morocco Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 787",
+      "coordinates": {
+        "lat": 32.47098062506759,
+        "lng": -5.470948639324613
+      }
+    },
+    "specs": {
+      "netSize": 300,
+      "grossSize": 360,
+      "rooms": "5+1",
+      "bathrooms": 4,
+      "age": 12,
+      "floor": 15,
+      "totalFloors": 16,
+      "heating": "Kombi",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500131818821?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500837962338?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500625160143?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500566794458?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500752527404?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500590284888?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500970473546?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500529984971?w=800&q=80&category=building"
+    ],
+    "agent": {
+      "id": "A27",
+      "name": "Agent 13",
+      "phone": "+95 564 760 9381",
+      "email": "agent44@iwrealty.com",
+      "photo": "/images/icons/png/paris-heritage-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-05-10T10:50:47.236Z",
+    "updatedAt": "2025-11-13T10:50:47.236Z",
+    "storeId": "store-010"
+  },
+  {
+    "id": "P05303",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Residence - Morocco City",
+    "slug": "satilik-residence-morocco-city-P05303",
+    "description": "Morocco City, Morocco bölgesinde residence. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 8914315,
+    "location": {
+      "country": "MA",
+      "city": "Morocco City",
+      "district": "Morocco City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 300",
+      "coordinates": {
+        "lat": 32.2509936561506,
+        "lng": -4.673707230314164
+      }
+    },
+    "specs": {
+      "netSize": 159,
+      "grossSize": 191,
+      "rooms": "1+2",
+      "bathrooms": 4,
+      "age": 4,
+      "floor": 15,
+      "totalFloors": 17,
+      "heating": "Merkezi",
+      "furnishing": "Unfurnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500209883976?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500896464217?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500915944238?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500108404148?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500779888722?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500565640636?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500222147857?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500808464063?w=800&q=80&category=interior"
+    ],
+    "agent": {
+      "id": "A62",
+      "name": "Agent 3",
+      "phone": "+92 755 699 3894",
+      "email": "agent41@iwrealty.com",
+      "photo": "/images/icons/png/dubai-property-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": false,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": true,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-03-02T10:50:47.236Z",
+    "updatedAt": "2025-11-13T10:50:47.236Z",
+    "storeId": "store-004"
+  },
+  {
+    "id": "P05304",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Villa - New Morocco",
+    "slug": "kiralik-villa-new-morocco-P05304",
+    "description": "New Morocco, Morocco bölgesinde villa. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 12618538,
+    "location": {
+      "country": "MA",
+      "city": "New Morocco",
+      "district": "New Morocco Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 194",
+      "coordinates": {
+        "lat": 32.45445725346078,
+        "lng": -5.121048753871582
+      }
+    },
+    "specs": {
+      "netSize": 450,
+      "grossSize": 540,
+      "rooms": "2+1",
+      "bathrooms": 1,
+      "age": 20,
+      "floor": 4,
+      "totalFloors": 7,
+      "heating": "Merkezi",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500229454874?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500260712095?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500546984053?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500210566223?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500306073231?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500705054040?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500859327094?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500831135211?w=800&q=80&category=house"
+    ],
+    "agent": {
+      "id": "A70",
+      "name": "Agent 30",
+      "phone": "+17 737 324 2625",
+      "email": "agent56@iwrealty.com",
+      "photo": "/images/icons/png/antalya-investment-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-11-05T10:50:47.236Z",
+    "updatedAt": "2025-11-13T10:50:47.236Z",
+    "storeId": "store-006"
+  },
+  {
+    "id": "P05305",
+    "type": "sale",
+    "category": {
+      "main": "commercial",
+      "sub": "hospital"
+    },
+    "title": "Satılık Hastane - New Morocco",
+    "slug": "satilik-hastane-new-morocco-P05305",
+    "description": "New Morocco, Morocco bölgesinde hastane. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 19610480,
+    "location": {
+      "country": "MA",
+      "city": "New Morocco",
+      "district": "New Morocco Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 963",
+      "coordinates": {
+        "lat": 32.328179318389914,
+        "lng": -4.905385536205289
+      }
+    },
+    "specs": {
+      "netSize": 18446,
+      "grossSize": 22135,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 1,
+      "floor": 2,
+      "totalFloors": 6,
+      "heating": "Merkezi",
+      "furnishing": "Furnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500396536744?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500497750016?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500100331740?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500621073496?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500233797332?w=800&q=80&category=real-estate"
+    ],
+    "agent": {
+      "id": "A89",
+      "name": "Agent 73",
+      "phone": "+57 862 162 8291",
+      "email": "agent50@iwrealty.com",
+      "photo": "/images/icons/png/antalya-investment-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2024-12-24T10:50:47.236Z",
+    "updatedAt": "2025-11-13T10:50:47.236Z",
+    "storeId": "store-006"
+  },
+  {
+    "id": "P05306",
+    "type": "rent",
+    "category": {
+      "main": "commercial",
+      "sub": "hospital"
+    },
+    "title": "Kiralık Hastane - Morocco City",
+    "slug": "kiralik-hastane-morocco-city-P05306",
+    "description": "Morocco City, Morocco bölgesinde hastane. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 75154731,
+    "location": {
+      "country": "MA",
+      "city": "Morocco City",
+      "district": "Morocco City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 479",
+      "coordinates": {
+        "lat": 31.557066633294134,
+        "lng": -4.945292751047663
+      }
+    },
+    "specs": {
+      "netSize": 4959,
+      "grossSize": 5951,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 2,
+      "floor": 5,
+      "totalFloors": 8,
+      "heating": "Klima",
+      "furnishing": "Unfurnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500298729573?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500966961919?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500765129646?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500060951415?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500048438813?w=800&q=80&category=house"
+    ],
+    "agent": {
+      "id": "A16",
+      "name": "Agent 68",
+      "phone": "+83 214 110 8145",
+      "email": "agent41@iwrealty.com",
+      "photo": "/images/icons/png/paris-heritage-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": false,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2024-12-20T10:50:47.236Z",
+    "updatedAt": "2025-11-13T10:50:47.236Z",
+    "storeId": "store-010"
+  },
+  {
+    "id": "P05307",
+    "type": "sale",
+    "category": {
+      "main": "commercial",
+      "sub": "clinic"
+    },
+    "title": "Satılık Klinik - Morocco Central",
+    "slug": "satilik-klinik-morocco-central-P05307",
+    "description": "Morocco Central, Morocco bölgesinde klinik. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 14306569,
+    "location": {
+      "country": "MA",
+      "city": "Morocco Central",
+      "district": "Morocco Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 836",
+      "coordinates": {
+        "lat": 32.26291587672249,
+        "lng": -4.971036664029394
+      }
+    },
+    "specs": {
+      "netSize": 806,
+      "grossSize": 967,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 20,
+      "floor": 13,
+      "totalFloors": 14,
+      "heating": "Kombi",
+      "furnishing": "Furnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500973005027?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500254329868?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500677984189?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500880909730?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500143170500?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500527998762?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500067063104?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500579087969?w=800&q=80&category=real-estate"
+    ],
+    "agent": {
+      "id": "A83",
+      "name": "Agent 89",
+      "phone": "+92 443 695 9432",
+      "email": "agent63@iwrealty.com",
+      "photo": "/images/icons/png/ankara-modern-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": true,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-09-25T10:50:47.236Z",
+    "updatedAt": "2025-11-13T10:50:47.236Z",
+    "storeId": "store-003"
+  },
+  {
+    "id": "P05308",
+    "type": "rent",
+    "category": {
+      "main": "commercial",
+      "sub": "clinic"
+    },
+    "title": "Kiralık Klinik - Morocco Central",
+    "slug": "kiralik-klinik-morocco-central-P05308",
+    "description": "Morocco Central, Morocco bölgesinde klinik. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 5529179,
+    "location": {
+      "country": "MA",
+      "city": "Morocco Central",
+      "district": "Morocco Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 584",
+      "coordinates": {
+        "lat": 32.41742198224189,
+        "lng": -5.29579276994267
+      }
+    },
+    "specs": {
+      "netSize": 1506,
+      "grossSize": 1807,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 0,
+      "floor": 3,
+      "totalFloors": 10,
+      "heating": "Klima",
+      "furnishing": "Unfurnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500546559228?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500043927959?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500900858956?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500675748488?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500426652184?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500179222784?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500950984385?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500208869893?w=800&q=80&category=real-estate"
+    ],
+    "agent": {
+      "id": "A88",
+      "name": "Agent 46",
+      "phone": "+33 943 867 3621",
+      "email": "agent12@iwrealty.com",
+      "photo": "/images/icons/png/london-prime-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-06-03T10:50:47.236Z",
+    "updatedAt": "2025-11-13T10:50:47.236Z",
+    "storeId": "store-007"
+  },
+  {
+    "id": "P05309",
+    "type": "sale",
+    "category": {
+      "main": "commercial",
+      "sub": "shop"
+    },
+    "title": "Satılık Dükkan - New Morocco",
+    "slug": "satilik-dükkan-new-morocco-P05309",
+    "description": "New Morocco, Morocco bölgesinde dükkan. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 2384259,
+    "location": {
+      "country": "MA",
+      "city": "New Morocco",
+      "district": "New Morocco Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 457",
+      "coordinates": {
+        "lat": 32.198761509139516,
+        "lng": -4.676564272430906
+      }
+    },
+    "specs": {
+      "netSize": 458,
+      "grossSize": 550,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 4,
+      "floor": 13,
+      "totalFloors": 10,
+      "heating": "Merkezi",
+      "furnishing": "Unfurnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500375658590?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500877322467?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500428968503?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500419099973?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500868546808?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500109478806?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500755648332?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500828610931?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500664719657?w=800&q=80&category=building"
+    ],
+    "agent": {
+      "id": "A27",
+      "name": "Agent 56",
+      "phone": "+93 400 240 7916",
+      "email": "agent13@iwrealty.com",
+      "photo": "/images/icons/png/dubai-property-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": false,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": true,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-04-04T10:50:47.236Z",
+    "updatedAt": "2025-11-13T10:50:47.236Z",
+    "storeId": "store-004"
+  },
+  {
+    "id": "P05310",
+    "type": "rent",
+    "category": {
+      "main": "commercial",
+      "sub": "shop"
+    },
+    "title": "Kiralık Dükkan - Morocco Central",
+    "slug": "kiralik-dükkan-morocco-central-P05310",
+    "description": "Morocco Central, Morocco bölgesinde dükkan. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 4286761,
+    "location": {
+      "country": "MA",
+      "city": "Morocco Central",
+      "district": "Morocco Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 443",
+      "coordinates": {
+        "lat": 32.48185821134921,
+        "lng": -4.557656266139809
+      }
+    },
+    "specs": {
+      "netSize": 115,
+      "grossSize": 138,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 7,
+      "floor": 1,
+      "totalFloors": 18,
+      "heating": "Klima",
+      "furnishing": "Unfurnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500558349562?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500226500446?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500540935229?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500510369298?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500544978597?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500997377475?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500046967393?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500574951703?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500746294872?w=800&q=80&category=architecture"
+    ],
+    "agent": {
+      "id": "A21",
+      "name": "Agent 23",
+      "phone": "+98 447 872 7180",
+      "email": "agent27@iwrealty.com",
+      "photo": "/images/icons/png/antalya-investment-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": false,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-09-09T10:50:47.236Z",
+    "updatedAt": "2025-11-13T10:50:47.236Z",
+    "storeId": "store-006"
+  },
+  {
+    "id": "P05311",
+    "type": "sale",
+    "category": {
+      "main": "commercial",
+      "sub": "office"
+    },
+    "title": "Satılık Ofis - Morocco City",
+    "slug": "satilik-ofis-morocco-city-P05311",
+    "description": "Morocco City, Morocco bölgesinde ofis. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 6071493,
+    "location": {
+      "country": "MA",
+      "city": "Morocco City",
+      "district": "Morocco City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 29",
+      "coordinates": {
+        "lat": 31.735096540843372,
+        "lng": -4.741257407867598
+      }
+    },
+    "specs": {
+      "netSize": 845,
+      "grossSize": 1014,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 11,
+      "floor": 1,
+      "totalFloors": 12,
+      "heating": "Kombi",
+      "furnishing": "Furnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500280724363?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500990326985?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500406422275?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500335592597?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500355619085?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500299173683?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500943385566?w=800&q=80&category=real-estate"
+    ],
+    "agent": {
+      "id": "A51",
+      "name": "Agent 88",
+      "phone": "+69 569 486 3775",
+      "email": "agent56@iwrealty.com",
+      "photo": "/images/icons/png/izmir-sahil-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": false,
+      "hasBalcony": false,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-10-15T10:50:47.236Z",
+    "updatedAt": "2025-11-13T10:50:47.236Z",
+    "storeId": "store-005"
+  },
+  {
+    "id": "P05312",
+    "type": "rent",
+    "category": {
+      "main": "commercial",
+      "sub": "office"
+    },
+    "title": "Kiralık Ofis - New Morocco",
+    "slug": "kiralik-ofis-new-morocco-P05312",
+    "description": "New Morocco, Morocco bölgesinde ofis. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 8432219,
+    "location": {
+      "country": "MA",
+      "city": "New Morocco",
+      "district": "New Morocco Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 668",
+      "coordinates": {
+        "lat": 31.516043623267866,
+        "lng": -4.786231801230308
+      }
+    },
+    "specs": {
+      "netSize": 261,
+      "grossSize": 313,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 14,
+      "floor": 7,
+      "totalFloors": 5,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Unfurnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500326785122?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500238312335?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500331552748?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500683075258?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500756771386?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500418404791?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500627814390?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500787958101?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500136964276?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500954120406?w=800&q=80&category=building"
+    ],
+    "agent": {
+      "id": "A29",
+      "name": "Agent 25",
+      "phone": "+10 625 364 1949",
+      "email": "agent21@iwrealty.com",
+      "photo": "/images/icons/png/london-prime-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": false,
+      "hasBalcony": false,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-10-17T10:50:47.236Z",
+    "updatedAt": "2025-11-13T10:50:47.236Z",
+    "storeId": "store-007"
+  },
+  {
+    "id": "P05313",
+    "type": "sale",
+    "category": {
+      "main": "commercial",
+      "sub": "mall"
+    },
+    "title": "Satılık AVM - Rabat",
+    "slug": "satilik-avm-rabat-P05313",
+    "description": "Rabat, Morocco bölgesinde avm. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 97852546,
+    "location": {
+      "country": "MA",
+      "city": "Rabat",
+      "district": "Rabat Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 776",
+      "coordinates": {
+        "lat": 31.644291908141728,
+        "lng": -4.794694550826346
+      }
+    },
+    "specs": {
+      "netSize": 27245,
+      "grossSize": 32694,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 1,
+      "floor": 15,
+      "totalFloors": 7,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Unfurnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500973276205?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500183802932?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500328553215?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500207207078?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500467293672?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500172300956?w=800&q=80&category=interior"
+    ],
+    "agent": {
+      "id": "A76",
+      "name": "Agent 55",
+      "phone": "+39 673 188 9407",
+      "email": "agent68@iwrealty.com",
+      "photo": "/images/icons/png/sydney-coastal-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-08-26T10:50:47.236Z",
+    "updatedAt": "2025-11-13T10:50:47.236Z",
+    "storeId": "store-012"
+  },
+  {
+    "id": "P05314",
+    "type": "rent",
+    "category": {
+      "main": "commercial",
+      "sub": "mall"
+    },
+    "title": "Kiralık AVM - New Morocco",
+    "slug": "kiralik-avm-new-morocco-P05314",
+    "description": "New Morocco, Morocco bölgesinde avm. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 374978013,
+    "location": {
+      "country": "MA",
+      "city": "New Morocco",
+      "district": "New Morocco Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 440",
+      "coordinates": {
+        "lat": 31.590585163417828,
+        "lng": -5.222733548300194
+      }
+    },
+    "specs": {
+      "netSize": 39256,
+      "grossSize": 47107,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 8,
+      "floor": 13,
+      "totalFloors": 13,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500158715551?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500956551459?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500964397575?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500486028525?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500921860505?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500146442591?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500181018799?w=800&q=80&category=architecture"
+    ],
+    "agent": {
+      "id": "A33",
+      "name": "Agent 4",
+      "phone": "+83 607 538 1491",
+      "email": "agent100@iwrealty.com",
+      "photo": "/images/icons/png/izmir-sahil-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-06-26T10:50:47.236Z",
+    "updatedAt": "2025-11-13T10:50:47.236Z",
+    "storeId": "store-005"
+  },
+  {
+    "id": "P05315",
+    "type": "sale",
+    "category": {
+      "main": "commercial",
+      "sub": "hotel"
+    },
+    "title": "Satılık Otel - New Morocco",
+    "slug": "satilik-otel-new-morocco-P05315",
+    "description": "New Morocco, Morocco bölgesinde otel. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 93426858,
+    "location": {
+      "country": "MA",
+      "city": "New Morocco",
+      "district": "New Morocco Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 422",
+      "coordinates": {
+        "lat": 32.42202238277057,
+        "lng": -4.713234071121149
+      }
+    },
+    "specs": {
+      "netSize": 25196,
+      "grossSize": 30235,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 11,
+      "floor": 12,
+      "totalFloors": 5,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Furnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500962315004?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500377715723?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500768180178?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500738334488?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500979776166?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500729320807?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500115910756?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500077780196?w=800&q=80&category=interior"
+    ],
+    "agent": {
+      "id": "A62",
+      "name": "Agent 88",
+      "phone": "+30 647 725 6351",
+      "email": "agent25@iwrealty.com",
+      "photo": "/images/icons/png/ny-skyline-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": true,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-03-18T10:50:47.236Z",
+    "updatedAt": "2025-11-13T10:50:47.236Z",
+    "storeId": "store-008"
+  },
+  {
+    "id": "P05316",
+    "type": "rent",
+    "category": {
+      "main": "commercial",
+      "sub": "hotel"
+    },
+    "title": "Kiralık Otel - New Morocco",
+    "slug": "kiralik-otel-new-morocco-P05316",
+    "description": "New Morocco, Morocco bölgesinde otel. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 171560044,
+    "location": {
+      "country": "MA",
+      "city": "New Morocco",
+      "district": "New Morocco Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 866",
+      "coordinates": {
+        "lat": 32.06925446371145,
+        "lng": -4.802745471859195
+      }
+    },
+    "specs": {
+      "netSize": 24348,
+      "grossSize": 29218,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 2,
+      "floor": 4,
+      "totalFloors": 18,
+      "heating": "Kombi",
+      "furnishing": "Unfurnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500734392545?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500275193037?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500724803076?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500771734866?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500463526072?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500839760793?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500397040214?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500363039673?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500368234286?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500903904410?w=800&q=80&category=building"
+    ],
+    "agent": {
+      "id": "A5",
+      "name": "Agent 81",
+      "phone": "+30 306 168 2583",
+      "email": "agent26@iwrealty.com",
+      "photo": "/images/icons/png/luxury-homes-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": false,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-11-08T10:50:47.236Z",
+    "updatedAt": "2025-11-13T10:50:47.236Z",
+    "storeId": "store-002"
+  },
+  {
+    "id": "P05317",
+    "type": "sale",
+    "category": {
+      "main": "commercial",
+      "sub": "restaurant"
+    },
+    "title": "Satılık Restoran - Morocco City",
+    "slug": "satilik-restoran-morocco-city-P05317",
+    "description": "Morocco City, Morocco bölgesinde restoran. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 7490405,
+    "location": {
+      "country": "MA",
+      "city": "Morocco City",
+      "district": "Morocco City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 605",
+      "coordinates": {
+        "lat": 32.25748003466529,
+        "lng": -4.898561333635106
+      }
+    },
+    "specs": {
+      "netSize": 727,
+      "grossSize": 872,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 2,
+      "floor": 14,
+      "totalFloors": 7,
+      "heating": "Kombi",
+      "furnishing": "Furnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500798349365?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500183404741?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500449746796?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500906078935?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500436076186?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500440473719?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500536634102?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500636475861?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500474137486?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500109904331?w=800&q=80&category=building"
+    ],
+    "agent": {
+      "id": "A46",
+      "name": "Agent 17",
+      "phone": "+30 898 164 6823",
+      "email": "agent18@iwrealty.com",
+      "photo": "/images/icons/png/antalya-investment-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": true,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-06-21T10:50:47.236Z",
+    "updatedAt": "2025-11-13T10:50:47.236Z",
+    "storeId": "store-006"
+  },
+  {
+    "id": "P05318",
+    "type": "rent",
+    "category": {
+      "main": "commercial",
+      "sub": "restaurant"
+    },
+    "title": "Kiralık Restoran - Morocco City",
+    "slug": "kiralik-restoran-morocco-city-P05318",
+    "description": "Morocco City, Morocco bölgesinde restoran. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 2474105,
+    "location": {
+      "country": "MA",
+      "city": "Morocco City",
+      "district": "Morocco City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 973",
+      "coordinates": {
+        "lat": 32.287623052686065,
+        "lng": -5.005789832669491
+      }
+    },
+    "specs": {
+      "netSize": 1385,
+      "grossSize": 1662,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 6,
+      "floor": 13,
+      "totalFloors": 9,
+      "heating": "Kombi",
+      "furnishing": "Unfurnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500448250813?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500137014838?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500848754234?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500319677631?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500088646416?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500461554739?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500200579571?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500152645501?w=800&q=80&category=architecture"
+    ],
+    "agent": {
+      "id": "A97",
+      "name": "Agent 62",
+      "phone": "+47 353 857 1282",
+      "email": "agent54@iwrealty.com",
+      "photo": "/images/icons/png/ankara-modern-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": true,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-07-17T10:50:47.236Z",
+    "updatedAt": "2025-11-13T10:50:47.236Z",
+    "storeId": "store-003"
+  },
+  {
+    "id": "P05319",
+    "type": "sale",
+    "category": {
+      "main": "commercial",
+      "sub": "warehouse"
+    },
+    "title": "Satılık Depo - New Morocco",
+    "slug": "satilik-depo-new-morocco-P05319",
+    "description": "New Morocco, Morocco bölgesinde depo. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 21095134,
+    "location": {
+      "country": "MA",
+      "city": "New Morocco",
+      "district": "New Morocco Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 503",
+      "coordinates": {
+        "lat": 31.71725432027621,
+        "lng": -5.413922916237672
+      }
+    },
+    "specs": {
+      "netSize": 7933,
+      "grossSize": 9520,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 7,
+      "floor": 14,
+      "totalFloors": 10,
+      "heating": "Klima",
+      "furnishing": "Furnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500390699743?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500644600968?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500213984422?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500612331958?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500010589026?w=800&q=80&category=architecture"
+    ],
+    "agent": {
+      "id": "A52",
+      "name": "Agent 2",
+      "phone": "+79 544 376 4697",
+      "email": "agent3@iwrealty.com",
+      "photo": "/images/icons/png/paris-heritage-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": false,
+      "hasBalcony": false,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-08-26T10:50:47.236Z",
+    "updatedAt": "2025-11-13T10:50:47.236Z",
+    "storeId": "store-010"
+  },
+  {
+    "id": "P05320",
+    "type": "rent",
+    "category": {
+      "main": "commercial",
+      "sub": "warehouse"
+    },
+    "title": "Kiralık Depo - Morocco Central",
+    "slug": "kiralik-depo-morocco-central-P05320",
+    "description": "Morocco Central, Morocco bölgesinde depo. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 26232119,
+    "location": {
+      "country": "MA",
+      "city": "Morocco Central",
+      "district": "Morocco Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 255",
+      "coordinates": {
+        "lat": 32.24376169042209,
+        "lng": -5.176971341125142
+      }
+    },
+    "specs": {
+      "netSize": 1912,
+      "grossSize": 2294,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 16,
+      "floor": 2,
+      "totalFloors": 9,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Furnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500615952638?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500174688713?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500433376044?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500961789320?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500160413673?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500215072489?w=800&q=80&category=interior"
+    ],
+    "agent": {
+      "id": "A43",
+      "name": "Agent 32",
+      "phone": "+58 600 313 3043",
+      "email": "agent85@iwrealty.com",
+      "photo": "/images/icons/png/sg-harbour-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": true,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-08-13T10:50:47.236Z",
+    "updatedAt": "2025-11-13T10:50:47.236Z",
+    "storeId": "store-011"
+  }
+]

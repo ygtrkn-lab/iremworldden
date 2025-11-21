@@ -1,0 +1,2344 @@
+[
+  {
+    "id": "P04789",
+    "type": "sale",
+    "category": {
+      "main": "government"
+    },
+    "title": "Satılık Hastane - Vientiane",
+    "slug": "satilik-hastane-vientiane-P04789",
+    "description": "Vientiane, Laos bölgesinde hastane. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 6134244,
+    "location": {
+      "country": "LA",
+      "city": "Vientiane",
+      "district": "Vientiane Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 486",
+      "coordinates": {
+        "lat": 18.450261451586062,
+        "lng": 104.91556987005328
+      }
+    },
+    "specs": {
+      "netSize": 1162,
+      "grossSize": 1394,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 9,
+      "floor": 10,
+      "totalFloors": 11,
+      "heating": "Klima",
+      "furnishing": "Furnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500238351475?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500844426260?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500726680401?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500522786240?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500152706772?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500838975292?w=800&q=80&category=real-estate"
+    ],
+    "agent": {
+      "id": "A1",
+      "name": "Agent 73",
+      "phone": "+36 322 456 7105",
+      "email": "agent72@iwrealty.com",
+      "photo": "/images/icons/png/london-prime-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-05-06T10:50:47.231Z",
+    "updatedAt": "2025-11-13T10:50:47.231Z",
+    "storeId": "store-007"
+  },
+  {
+    "id": "P04790",
+    "type": "rent",
+    "category": {
+      "main": "government"
+    },
+    "title": "Kiralık Hastane - Vientiane",
+    "slug": "kiralik-hastane-vientiane-P04790",
+    "description": "Vientiane, Laos bölgesinde hastane. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 16471046,
+    "location": {
+      "country": "LA",
+      "city": "Vientiane",
+      "district": "Vientiane Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 257",
+      "coordinates": {
+        "lat": 18.21665499865758,
+        "lng": 104.57405800065862
+      }
+    },
+    "specs": {
+      "netSize": 1289,
+      "grossSize": 1547,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 7,
+      "floor": 11,
+      "totalFloors": 17,
+      "heating": "Merkezi",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500179757213?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500686256709?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500736184806?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500755058667?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500383175203?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500376066233?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500875996697?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500019360799?w=800&q=80&category=building"
+    ],
+    "agent": {
+      "id": "A72",
+      "name": "Agent 49",
+      "phone": "+64 739 202 2617",
+      "email": "agent52@iwrealty.com",
+      "photo": "/images/icons/png/luxury-homes-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-10-21T10:50:47.231Z",
+    "updatedAt": "2025-11-13T10:50:47.231Z",
+    "storeId": "store-002"
+  },
+  {
+    "id": "P04791",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Müstakil Ev - New Laos",
+    "slug": "satilik-müstakil-ev-new-laos-P04791",
+    "description": "New Laos, Laos bölgesinde müstakil ev. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 5520673,
+    "location": {
+      "country": "LA",
+      "city": "New Laos",
+      "district": "New Laos Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 231",
+      "coordinates": {
+        "lat": 17.556033528436373,
+        "lng": 104.78070012547208
+      }
+    },
+    "specs": {
+      "netSize": 121,
+      "grossSize": 145,
+      "rooms": "2+1",
+      "bathrooms": 4,
+      "age": 16,
+      "floor": 2,
+      "totalFloors": 5,
+      "heating": "Kombi",
+      "furnishing": "Unfurnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500523578664?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500398231825?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500590921888?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500748181209?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500795907031?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500981631279?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500978056448?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500250354371?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500800578028?w=800&q=80&category=architecture"
+    ],
+    "agent": {
+      "id": "A67",
+      "name": "Agent 11",
+      "phone": "+97 937 976 6306",
+      "email": "agent67@iwrealty.com",
+      "photo": "/images/icons/png/paris-heritage-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-09-17T10:50:47.231Z",
+    "updatedAt": "2025-11-13T10:50:47.231Z",
+    "storeId": "store-010"
+  },
+  {
+    "id": "P04792",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Villa - New Laos",
+    "slug": "kiralik-villa-new-laos-P04792",
+    "description": "New Laos, Laos bölgesinde villa. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 1656268,
+    "location": {
+      "country": "LA",
+      "city": "New Laos",
+      "district": "New Laos Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 321",
+      "coordinates": {
+        "lat": 18.46322485359179,
+        "lng": 105.42061403843523
+      }
+    },
+    "specs": {
+      "netSize": 219,
+      "grossSize": 263,
+      "rooms": "5+0",
+      "bathrooms": 4,
+      "age": 3,
+      "floor": 14,
+      "totalFloors": 11,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Furnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500801556214?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500709532913?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500411347130?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500726645387?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500750926206?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500542943069?w=800&q=80&category=real-estate"
+    ],
+    "agent": {
+      "id": "A31",
+      "name": "Agent 72",
+      "phone": "+65 609 476 5346",
+      "email": "agent12@iwrealty.com",
+      "photo": "/images/icons/png/london-prime-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": false,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-01-12T10:50:47.231Z",
+    "updatedAt": "2025-11-13T10:50:47.231Z",
+    "storeId": "store-007"
+  },
+  {
+    "id": "P04793",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Villa - Laos City",
+    "slug": "satilik-villa-laos-city-P04793",
+    "description": "Laos City, Laos bölgesinde villa. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 1697340,
+    "location": {
+      "country": "LA",
+      "city": "Laos City",
+      "district": "Laos City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 622",
+      "coordinates": {
+        "lat": 18.20721874713917,
+        "lng": 105.17809157806691
+      }
+    },
+    "specs": {
+      "netSize": 275,
+      "grossSize": 330,
+      "rooms": "4+1",
+      "bathrooms": 1,
+      "age": 8,
+      "floor": 12,
+      "totalFloors": 6,
+      "heating": "Merkezi",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500839586775?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500693378736?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500652940418?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500387548640?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500208612034?w=800&q=80&category=house"
+    ],
+    "agent": {
+      "id": "A40",
+      "name": "Agent 55",
+      "phone": "+30 660 360 5761",
+      "email": "agent67@iwrealty.com",
+      "photo": "/images/icons/png/ankara-modern-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-04-05T10:50:47.231Z",
+    "updatedAt": "2025-11-13T10:50:47.231Z",
+    "storeId": "store-003"
+  },
+  {
+    "id": "P04794",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Daire - Laos Central",
+    "slug": "kiralik-daire-laos-central-P04794",
+    "description": "Laos Central, Laos bölgesinde daire. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 14042183,
+    "location": {
+      "country": "LA",
+      "city": "Laos Central",
+      "district": "Laos Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 160",
+      "coordinates": {
+        "lat": 17.676047604121106,
+        "lng": 104.57085116681154
+      }
+    },
+    "specs": {
+      "netSize": 325,
+      "grossSize": 390,
+      "rooms": "5+1",
+      "bathrooms": 1,
+      "age": 15,
+      "floor": 15,
+      "totalFloors": 10,
+      "heating": "Merkezi",
+      "furnishing": "Furnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500125687759?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500042593354?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500262262266?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500550676396?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500350607862?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500081070350?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500432155269?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500560557758?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500025665046?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500080286152?w=800&q=80&category=building"
+    ],
+    "agent": {
+      "id": "A75",
+      "name": "Agent 78",
+      "phone": "+89 409 817 9697",
+      "email": "agent44@iwrealty.com",
+      "photo": "/images/icons/png/sydney-coastal-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-02-03T10:50:47.231Z",
+    "updatedAt": "2025-11-13T10:50:47.231Z",
+    "storeId": "store-012"
+  },
+  {
+    "id": "P04795",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Residence - Laos Central",
+    "slug": "satilik-residence-laos-central-P04795",
+    "description": "Laos Central, Laos bölgesinde residence. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 12375875,
+    "location": {
+      "country": "LA",
+      "city": "Laos Central",
+      "district": "Laos Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 813",
+      "coordinates": {
+        "lat": 18.456160845186606,
+        "lng": 104.66636389160712
+      }
+    },
+    "specs": {
+      "netSize": 353,
+      "grossSize": 424,
+      "rooms": "5+1",
+      "bathrooms": 2,
+      "age": 17,
+      "floor": 15,
+      "totalFloors": 13,
+      "heating": "Klima",
+      "furnishing": "Furnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500757670131?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500174711122?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500743867255?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500171995016?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500429832111?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500808071174?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500122519651?w=800&q=80&category=interior"
+    ],
+    "agent": {
+      "id": "A34",
+      "name": "Agent 32",
+      "phone": "+18 919 187 5926",
+      "email": "agent52@iwrealty.com",
+      "photo": "/images/icons/png/luxury-homes-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-01-30T10:50:47.231Z",
+    "updatedAt": "2025-11-13T10:50:47.231Z",
+    "storeId": "store-002"
+  },
+  {
+    "id": "P04796",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Daire - Laos City",
+    "slug": "kiralik-daire-laos-city-P04796",
+    "description": "Laos City, Laos bölgesinde daire. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 7418560,
+    "location": {
+      "country": "LA",
+      "city": "Laos City",
+      "district": "Laos City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 2",
+      "coordinates": {
+        "lat": 18.29606541445091,
+        "lng": 104.7650453512218
+      }
+    },
+    "specs": {
+      "netSize": 89,
+      "grossSize": 107,
+      "rooms": "2+0",
+      "bathrooms": 3,
+      "age": 12,
+      "floor": 5,
+      "totalFloors": 8,
+      "heating": "Klima",
+      "furnishing": "Furnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500025028028?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500341095661?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500319330506?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500312891538?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500939928734?w=800&q=80&category=architecture"
+    ],
+    "agent": {
+      "id": "A90",
+      "name": "Agent 72",
+      "phone": "+96 615 217 8574",
+      "email": "agent54@iwrealty.com",
+      "photo": "/images/icons/png/sydney-coastal-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-01-08T10:50:47.231Z",
+    "updatedAt": "2025-11-13T10:50:47.231Z",
+    "storeId": "store-012"
+  },
+  {
+    "id": "P04797",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Daire - Laos Central",
+    "slug": "satilik-daire-laos-central-P04797",
+    "description": "Laos Central, Laos bölgesinde daire. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 2513112,
+    "location": {
+      "country": "LA",
+      "city": "Laos Central",
+      "district": "Laos Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 909",
+      "coordinates": {
+        "lat": 17.520074364826687,
+        "lng": 105.08007994911017
+      }
+    },
+    "specs": {
+      "netSize": 442,
+      "grossSize": 530,
+      "rooms": "5+0",
+      "bathrooms": 1,
+      "age": 13,
+      "floor": 5,
+      "totalFloors": 10,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Unfurnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500987875187?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500032630482?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500802552557?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500603659084?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500847608111?w=800&q=80&category=interior"
+    ],
+    "agent": {
+      "id": "A24",
+      "name": "Agent 66",
+      "phone": "+95 807 912 3319",
+      "email": "agent32@iwrealty.com",
+      "photo": "/images/icons/png/london-prime-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": false,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-08-28T10:50:47.231Z",
+    "updatedAt": "2025-11-13T10:50:47.231Z",
+    "storeId": "store-007"
+  },
+  {
+    "id": "P04798",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Müstakil Ev - Vientiane",
+    "slug": "kiralik-müstakil-ev-vientiane-P04798",
+    "description": "Vientiane, Laos bölgesinde müstakil ev. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 13710386,
+    "location": {
+      "country": "LA",
+      "city": "Vientiane",
+      "district": "Vientiane Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 590",
+      "coordinates": {
+        "lat": 17.952554071590633,
+        "lng": 105.35430783364296
+      }
+    },
+    "specs": {
+      "netSize": 156,
+      "grossSize": 187,
+      "rooms": "3+0",
+      "bathrooms": 3,
+      "age": 7,
+      "floor": 13,
+      "totalFloors": 11,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Unfurnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500738763234?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500937728812?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500227975406?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500189492503?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500185193725?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500569943704?w=800&q=80&category=architecture"
+    ],
+    "agent": {
+      "id": "A29",
+      "name": "Agent 9",
+      "phone": "+10 926 396 7136",
+      "email": "agent85@iwrealty.com",
+      "photo": "/images/icons/png/izmir-sahil-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-06-06T10:50:47.231Z",
+    "updatedAt": "2025-11-13T10:50:47.231Z",
+    "storeId": "store-005"
+  },
+  {
+    "id": "P04799",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Daire - Laos Central",
+    "slug": "satilik-daire-laos-central-P04799",
+    "description": "Laos Central, Laos bölgesinde daire. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 3748186,
+    "location": {
+      "country": "LA",
+      "city": "Laos Central",
+      "district": "Laos Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 614",
+      "coordinates": {
+        "lat": 18.232557024508576,
+        "lng": 105.10511184712982
+      }
+    },
+    "specs": {
+      "netSize": 168,
+      "grossSize": 202,
+      "rooms": "5+0",
+      "bathrooms": 3,
+      "age": 3,
+      "floor": 4,
+      "totalFloors": 6,
+      "heating": "Kombi",
+      "furnishing": "Unfurnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500222920949?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500373385821?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500240348065?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500846478879?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500285000584?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500275643137?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500480288178?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500703030024?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500808810095?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500721496239?w=800&q=80&category=real-estate"
+    ],
+    "agent": {
+      "id": "A20",
+      "name": "Agent 26",
+      "phone": "+16 720 121 5973",
+      "email": "agent69@iwrealty.com",
+      "photo": "/images/icons/png/ankara-modern-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-10-15T10:50:47.231Z",
+    "updatedAt": "2025-11-13T10:50:47.231Z",
+    "storeId": "store-003"
+  },
+  {
+    "id": "P04800",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Müstakil Ev - Laos Central",
+    "slug": "kiralik-müstakil-ev-laos-central-P04800",
+    "description": "Laos Central, Laos bölgesinde müstakil ev. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 3394589,
+    "location": {
+      "country": "LA",
+      "city": "Laos Central",
+      "district": "Laos Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 897",
+      "coordinates": {
+        "lat": 18.14777264938725,
+        "lng": 105.3181437506672
+      }
+    },
+    "specs": {
+      "netSize": 189,
+      "grossSize": 227,
+      "rooms": "5+0",
+      "bathrooms": 3,
+      "age": 10,
+      "floor": 3,
+      "totalFloors": 19,
+      "heating": "Klima",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500442703561?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500156414821?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500827354663?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500467188174?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500276885702?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500363124380?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500530484891?w=800&q=80&category=interior"
+    ],
+    "agent": {
+      "id": "A95",
+      "name": "Agent 42",
+      "phone": "+26 905 660 5339",
+      "email": "agent52@iwrealty.com",
+      "photo": "/images/icons/png/london-prime-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": false,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": true,
+      "hasSecurity": false
+    },
+    "createdAt": "2024-12-02T10:50:47.231Z",
+    "updatedAt": "2025-11-13T10:50:47.231Z",
+    "storeId": "store-007"
+  },
+  {
+    "id": "P04801",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Residence - Laos City",
+    "slug": "satilik-residence-laos-city-P04801",
+    "description": "Laos City, Laos bölgesinde residence. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 4892054,
+    "location": {
+      "country": "LA",
+      "city": "Laos City",
+      "district": "Laos City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 819",
+      "coordinates": {
+        "lat": 17.685368987318036,
+        "lng": 105.026731736146
+      }
+    },
+    "specs": {
+      "netSize": 356,
+      "grossSize": 427,
+      "rooms": "2+2",
+      "bathrooms": 4,
+      "age": 4,
+      "floor": 14,
+      "totalFloors": 7,
+      "heating": "Merkezi",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500385596164?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500315589148?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500550366549?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500886261322?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500237296352?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500743162062?w=800&q=80&category=interior"
+    ],
+    "agent": {
+      "id": "A33",
+      "name": "Agent 39",
+      "phone": "+24 128 239 8747",
+      "email": "agent62@iwrealty.com",
+      "photo": "/images/icons/png/sg-harbour-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-05-09T10:50:47.231Z",
+    "updatedAt": "2025-11-13T10:50:47.231Z",
+    "storeId": "store-011"
+  },
+  {
+    "id": "P04802",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Daire - Laos City",
+    "slug": "kiralik-daire-laos-city-P04802",
+    "description": "Laos City, Laos bölgesinde daire. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 3335962,
+    "location": {
+      "country": "LA",
+      "city": "Laos City",
+      "district": "Laos City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 935",
+      "coordinates": {
+        "lat": 18.007555773891745,
+        "lng": 105.11364612165038
+      }
+    },
+    "specs": {
+      "netSize": 446,
+      "grossSize": 535,
+      "rooms": "3+1",
+      "bathrooms": 3,
+      "age": 3,
+      "floor": 15,
+      "totalFloors": 15,
+      "heating": "Klima",
+      "furnishing": "Furnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500375518214?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500660699291?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500546806548?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500650001242?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500059744319?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500335774669?w=800&q=80&category=interior"
+    ],
+    "agent": {
+      "id": "A74",
+      "name": "Agent 35",
+      "phone": "+23 127 763 9398",
+      "email": "agent59@iwrealty.com",
+      "photo": "/images/icons/png/luxury-homes-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": false,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-05-31T10:50:47.231Z",
+    "updatedAt": "2025-11-13T10:50:47.231Z",
+    "storeId": "store-002"
+  },
+  {
+    "id": "P04803",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Villa - Laos City",
+    "slug": "satilik-villa-laos-city-P04803",
+    "description": "Laos City, Laos bölgesinde villa. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 8546251,
+    "location": {
+      "country": "LA",
+      "city": "Laos City",
+      "district": "Laos City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 386",
+      "coordinates": {
+        "lat": 18.436557248745597,
+        "lng": 104.55826987418723
+      }
+    },
+    "specs": {
+      "netSize": 397,
+      "grossSize": 476,
+      "rooms": "4+0",
+      "bathrooms": 4,
+      "age": 10,
+      "floor": 8,
+      "totalFloors": 10,
+      "heating": "Kombi",
+      "furnishing": "Unfurnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500277276883?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500219992748?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500570332289?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500804024960?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500987757716?w=800&q=80&category=real-estate"
+    ],
+    "agent": {
+      "id": "A20",
+      "name": "Agent 14",
+      "phone": "+77 347 235 5009",
+      "email": "agent16@iwrealty.com",
+      "photo": "/images/icons/png/berlin-urban-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": false,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-06-26T10:50:47.231Z",
+    "updatedAt": "2025-11-13T10:50:47.231Z",
+    "storeId": "store-009"
+  },
+  {
+    "id": "P04804",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Daire - New Laos",
+    "slug": "kiralik-daire-new-laos-P04804",
+    "description": "New Laos, Laos bölgesinde daire. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 9348886,
+    "location": {
+      "country": "LA",
+      "city": "New Laos",
+      "district": "New Laos Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 393",
+      "coordinates": {
+        "lat": 18.21484913111275,
+        "lng": 105.31609743043978
+      }
+    },
+    "specs": {
+      "netSize": 94,
+      "grossSize": 113,
+      "rooms": "1+2",
+      "bathrooms": 2,
+      "age": 3,
+      "floor": 13,
+      "totalFloors": 9,
+      "heating": "Kombi",
+      "furnishing": "Furnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500151380797?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500829012926?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500554725415?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500612914569?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500272026996?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500815601489?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500884999496?w=800&q=80&category=interior"
+    ],
+    "agent": {
+      "id": "A8",
+      "name": "Agent 34",
+      "phone": "+92 145 635 2026",
+      "email": "agent58@iwrealty.com",
+      "photo": "/images/icons/png/sg-harbour-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": false,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": true,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-07-03T10:50:47.231Z",
+    "updatedAt": "2025-11-13T10:50:47.231Z",
+    "storeId": "store-011"
+  },
+  {
+    "id": "P04805",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Daire - Laos Central",
+    "slug": "satilik-daire-laos-central-P04805",
+    "description": "Laos Central, Laos bölgesinde daire. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 11118881,
+    "location": {
+      "country": "LA",
+      "city": "Laos Central",
+      "district": "Laos Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 567",
+      "coordinates": {
+        "lat": 18.470039689921943,
+        "lng": 105.10940618230406
+      }
+    },
+    "specs": {
+      "netSize": 486,
+      "grossSize": 583,
+      "rooms": "5+2",
+      "bathrooms": 2,
+      "age": 0,
+      "floor": 3,
+      "totalFloors": 16,
+      "heating": "Klima",
+      "furnishing": "Furnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500959192314?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500386114601?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500653857394?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500571461511?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500291519410?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500341204035?w=800&q=80&category=architecture"
+    ],
+    "agent": {
+      "id": "A9",
+      "name": "Agent 75",
+      "phone": "+31 889 329 6526",
+      "email": "agent31@iwrealty.com",
+      "photo": "/images/icons/png/ny-skyline-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-02-14T10:50:47.231Z",
+    "updatedAt": "2025-11-13T10:50:47.231Z",
+    "storeId": "store-008"
+  },
+  {
+    "id": "P04806",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Müstakil Ev - Vientiane",
+    "slug": "kiralik-müstakil-ev-vientiane-P04806",
+    "description": "Vientiane, Laos bölgesinde müstakil ev. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 10095389,
+    "location": {
+      "country": "LA",
+      "city": "Vientiane",
+      "district": "Vientiane Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 657",
+      "coordinates": {
+        "lat": 17.862922594229104,
+        "lng": 104.80350893934332
+      }
+    },
+    "specs": {
+      "netSize": 325,
+      "grossSize": 390,
+      "rooms": "3+0",
+      "bathrooms": 3,
+      "age": 7,
+      "floor": 13,
+      "totalFloors": 12,
+      "heating": "Merkezi",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500395840919?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500669213805?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500108926726?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500159052536?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500118613252?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500072779759?w=800&q=80&category=building"
+    ],
+    "agent": {
+      "id": "A28",
+      "name": "Agent 31",
+      "phone": "+30 607 785 9354",
+      "email": "agent12@iwrealty.com",
+      "photo": "/images/icons/png/berlin-urban-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": true,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-04-20T10:50:47.231Z",
+    "updatedAt": "2025-11-13T10:50:47.231Z",
+    "storeId": "store-009"
+  },
+  {
+    "id": "P04807",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Daire - New Laos",
+    "slug": "satilik-daire-new-laos-P04807",
+    "description": "New Laos, Laos bölgesinde daire. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 2611833,
+    "location": {
+      "country": "LA",
+      "city": "New Laos",
+      "district": "New Laos Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 42",
+      "coordinates": {
+        "lat": 18.12917822291699,
+        "lng": 104.93727424175773
+      }
+    },
+    "specs": {
+      "netSize": 496,
+      "grossSize": 595,
+      "rooms": "5+1",
+      "bathrooms": 1,
+      "age": 4,
+      "floor": 2,
+      "totalFloors": 6,
+      "heating": "Kombi",
+      "furnishing": "Unfurnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500091907648?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500534147192?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500605516870?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500283744891?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500662064161?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500945691755?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500039119773?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500199772366?w=800&q=80&category=building"
+    ],
+    "agent": {
+      "id": "A86",
+      "name": "Agent 39",
+      "phone": "+45 173 524 7958",
+      "email": "agent24@iwrealty.com",
+      "photo": "/images/icons/png/paris-heritage-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-07-13T10:50:47.231Z",
+    "updatedAt": "2025-11-13T10:50:47.231Z",
+    "storeId": "store-010"
+  },
+  {
+    "id": "P04808",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Müstakil Ev - Vientiane",
+    "slug": "kiralik-müstakil-ev-vientiane-P04808",
+    "description": "Vientiane, Laos bölgesinde müstakil ev. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 11185819,
+    "location": {
+      "country": "LA",
+      "city": "Vientiane",
+      "district": "Vientiane Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 652",
+      "coordinates": {
+        "lat": 18.321808580161488,
+        "lng": 104.5460669625556
+      }
+    },
+    "specs": {
+      "netSize": 253,
+      "grossSize": 304,
+      "rooms": "1+1",
+      "bathrooms": 2,
+      "age": 18,
+      "floor": 15,
+      "totalFloors": 19,
+      "heating": "Merkezi",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500209464634?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500381133079?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500188704579?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500375845861?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500986402214?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500156075394?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500585079422?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500570077912?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500620578598?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500267080333?w=800&q=80&category=building"
+    ],
+    "agent": {
+      "id": "A85",
+      "name": "Agent 39",
+      "phone": "+14 769 751 4844",
+      "email": "agent31@iwrealty.com",
+      "photo": "/images/icons/png/paris-heritage-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": true,
+      "hasSecurity": true
+    },
+    "createdAt": "2024-12-22T10:50:47.231Z",
+    "updatedAt": "2025-11-13T10:50:47.231Z",
+    "storeId": "store-010"
+  },
+  {
+    "id": "P04809",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Müstakil Ev - New Laos",
+    "slug": "satilik-müstakil-ev-new-laos-P04809",
+    "description": "New Laos, Laos bölgesinde müstakil ev. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 4807873,
+    "location": {
+      "country": "LA",
+      "city": "New Laos",
+      "district": "New Laos Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 95",
+      "coordinates": {
+        "lat": 18.155535353401557,
+        "lng": 104.5985532147633
+      }
+    },
+    "specs": {
+      "netSize": 487,
+      "grossSize": 584,
+      "rooms": "2+2",
+      "bathrooms": 2,
+      "age": 12,
+      "floor": 3,
+      "totalFloors": 7,
+      "heating": "Klima",
+      "furnishing": "Unfurnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500415016869?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500713478815?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500270417693?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500378624333?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500018063590?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500352528048?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500184102648?w=800&q=80&category=real-estate"
+    ],
+    "agent": {
+      "id": "A78",
+      "name": "Agent 21",
+      "phone": "+30 230 251 5712",
+      "email": "agent56@iwrealty.com",
+      "photo": "/images/icons/png/luxury-homes-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-01-23T10:50:47.231Z",
+    "updatedAt": "2025-11-13T10:50:47.231Z",
+    "storeId": "store-002"
+  },
+  {
+    "id": "P04810",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Residence - Laos City",
+    "slug": "kiralik-residence-laos-city-P04810",
+    "description": "Laos City, Laos bölgesinde residence. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 7539515,
+    "location": {
+      "country": "LA",
+      "city": "Laos City",
+      "district": "Laos City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 379",
+      "coordinates": {
+        "lat": 17.764570857814594,
+        "lng": 105.3355687406357
+      }
+    },
+    "specs": {
+      "netSize": 94,
+      "grossSize": 113,
+      "rooms": "4+2",
+      "bathrooms": 2,
+      "age": 3,
+      "floor": 8,
+      "totalFloors": 6,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Furnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500994793874?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500992800076?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500255606471?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500934659417?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500521826344?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500295354757?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500743864273?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500715089904?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500629926976?w=800&q=80&category=real-estate"
+    ],
+    "agent": {
+      "id": "A50",
+      "name": "Agent 64",
+      "phone": "+77 441 272 3557",
+      "email": "agent61@iwrealty.com",
+      "photo": "/images/icons/png/antalya-investment-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-09-28T10:50:47.231Z",
+    "updatedAt": "2025-11-13T10:50:47.231Z",
+    "storeId": "store-006"
+  },
+  {
+    "id": "P04811",
+    "type": "sale",
+    "category": {
+      "main": "commercial",
+      "sub": "hospital"
+    },
+    "title": "Satılık Hastane - Vientiane",
+    "slug": "satilik-hastane-vientiane-P04811",
+    "description": "Vientiane, Laos bölgesinde hastane. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 45575396,
+    "location": {
+      "country": "LA",
+      "city": "Vientiane",
+      "district": "Vientiane Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 910",
+      "coordinates": {
+        "lat": 17.60359662690879,
+        "lng": 104.75231234537348
+      }
+    },
+    "specs": {
+      "netSize": 2136,
+      "grossSize": 2563,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 6,
+      "floor": 13,
+      "totalFloors": 16,
+      "heating": "Klima",
+      "furnishing": "Furnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500192463035?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500225859704?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500496820567?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500387120880?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500375897096?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500124069928?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500111617688?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500899406372?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500980332963?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500894960481?w=800&q=80&category=real-estate"
+    ],
+    "agent": {
+      "id": "A98",
+      "name": "Agent 27",
+      "phone": "+81 181 358 7189",
+      "email": "agent44@iwrealty.com",
+      "photo": "/images/icons/png/sydney-coastal-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": false,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": true,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-06-25T10:50:47.231Z",
+    "updatedAt": "2025-11-13T10:50:47.231Z",
+    "storeId": "store-012"
+  },
+  {
+    "id": "P04812",
+    "type": "rent",
+    "category": {
+      "main": "commercial",
+      "sub": "hospital"
+    },
+    "title": "Kiralık Hastane - Laos Central",
+    "slug": "kiralik-hastane-laos-central-P04812",
+    "description": "Laos Central, Laos bölgesinde hastane. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 69368391,
+    "location": {
+      "country": "LA",
+      "city": "Laos Central",
+      "district": "Laos Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 674",
+      "coordinates": {
+        "lat": 18.192357918728582,
+        "lng": 104.70172425659791
+      }
+    },
+    "specs": {
+      "netSize": 5720,
+      "grossSize": 6864,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 5,
+      "floor": 3,
+      "totalFloors": 6,
+      "heating": "Klima",
+      "furnishing": "Furnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500679628368?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500170163274?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500729146006?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500876233259?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500662119300?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500916592236?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500126983475?w=800&q=80&category=real-estate"
+    ],
+    "agent": {
+      "id": "A76",
+      "name": "Agent 38",
+      "phone": "+22 785 803 3088",
+      "email": "agent46@iwrealty.com",
+      "photo": "/images/icons/png/sg-harbour-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": true,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-05-05T10:50:47.231Z",
+    "updatedAt": "2025-11-13T10:50:47.231Z",
+    "storeId": "store-011"
+  },
+  {
+    "id": "P04813",
+    "type": "sale",
+    "category": {
+      "main": "commercial",
+      "sub": "clinic"
+    },
+    "title": "Satılık Klinik - Laos City",
+    "slug": "satilik-klinik-laos-city-P04813",
+    "description": "Laos City, Laos bölgesinde klinik. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 18558258,
+    "location": {
+      "country": "LA",
+      "city": "Laos City",
+      "district": "Laos City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 966",
+      "coordinates": {
+        "lat": 17.92395698244009,
+        "lng": 104.59954215457358
+      }
+    },
+    "specs": {
+      "netSize": 937,
+      "grossSize": 1124,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 13,
+      "floor": 9,
+      "totalFloors": 12,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Unfurnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500336224561?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500956986291?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500759583539?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500905397006?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500395291797?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500215678459?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500587828276?w=800&q=80&category=interior"
+    ],
+    "agent": {
+      "id": "A50",
+      "name": "Agent 45",
+      "phone": "+13 616 917 1991",
+      "email": "agent57@iwrealty.com",
+      "photo": "/images/icons/png/london-prime-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-02-02T10:50:47.231Z",
+    "updatedAt": "2025-11-13T10:50:47.231Z",
+    "storeId": "store-007"
+  },
+  {
+    "id": "P04814",
+    "type": "rent",
+    "category": {
+      "main": "commercial",
+      "sub": "clinic"
+    },
+    "title": "Kiralık Klinik - Laos City",
+    "slug": "kiralik-klinik-laos-city-P04814",
+    "description": "Laos City, Laos bölgesinde klinik. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 8189624,
+    "location": {
+      "country": "LA",
+      "city": "Laos City",
+      "district": "Laos City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 247",
+      "coordinates": {
+        "lat": 18.38736967726442,
+        "lng": 104.8392625234374
+      }
+    },
+    "specs": {
+      "netSize": 1807,
+      "grossSize": 2168,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 7,
+      "floor": 12,
+      "totalFloors": 5,
+      "heating": "Klima",
+      "furnishing": "Furnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500986016334?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500707720646?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500032763523?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500752615293?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500342496224?w=800&q=80&category=house"
+    ],
+    "agent": {
+      "id": "A75",
+      "name": "Agent 85",
+      "phone": "+65 195 508 7368",
+      "email": "agent52@iwrealty.com",
+      "photo": "/images/icons/png/ny-skyline-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": false,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2024-11-26T10:50:47.231Z",
+    "updatedAt": "2025-11-13T10:50:47.231Z",
+    "storeId": "store-008"
+  },
+  {
+    "id": "P04815",
+    "type": "sale",
+    "category": {
+      "main": "commercial",
+      "sub": "shop"
+    },
+    "title": "Satılık Dükkan - Laos Central",
+    "slug": "satilik-dükkan-laos-central-P04815",
+    "description": "Laos Central, Laos bölgesinde dükkan. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 5054132,
+    "location": {
+      "country": "LA",
+      "city": "Laos Central",
+      "district": "Laos Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 269",
+      "coordinates": {
+        "lat": 17.95021320038573,
+        "lng": 104.61182242914805
+      }
+    },
+    "specs": {
+      "netSize": 462,
+      "grossSize": 554,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 11,
+      "floor": 4,
+      "totalFloors": 14,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500437970176?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500756877946?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500190809379?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500254874393?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500918577664?w=800&q=80&category=house"
+    ],
+    "agent": {
+      "id": "A93",
+      "name": "Agent 32",
+      "phone": "+25 413 234 5101",
+      "email": "agent97@iwrealty.com",
+      "photo": "/images/icons/png/paris-heritage-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": false,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-07-21T10:50:47.231Z",
+    "updatedAt": "2025-11-13T10:50:47.231Z",
+    "storeId": "store-010"
+  },
+  {
+    "id": "P04816",
+    "type": "rent",
+    "category": {
+      "main": "commercial",
+      "sub": "shop"
+    },
+    "title": "Kiralık Dükkan - New Laos",
+    "slug": "kiralik-dükkan-new-laos-P04816",
+    "description": "New Laos, Laos bölgesinde dükkan. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 4073352,
+    "location": {
+      "country": "LA",
+      "city": "New Laos",
+      "district": "New Laos Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 109",
+      "coordinates": {
+        "lat": 18.467637388440338,
+        "lng": 104.94321080753207
+      }
+    },
+    "specs": {
+      "netSize": 161,
+      "grossSize": 193,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 20,
+      "floor": 13,
+      "totalFloors": 13,
+      "heating": "Merkezi",
+      "furnishing": "Furnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500204448584?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500024804635?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500321255521?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500180879059?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500420751384?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500954166818?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500922010432?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500314400260?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500434927576?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500376580793?w=800&q=80&category=interior"
+    ],
+    "agent": {
+      "id": "A36",
+      "name": "Agent 40",
+      "phone": "+40 813 530 7752",
+      "email": "agent65@iwrealty.com",
+      "photo": "/images/icons/png/ny-skyline-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": false,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": true,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-04-26T10:50:47.231Z",
+    "updatedAt": "2025-11-13T10:50:47.231Z",
+    "storeId": "store-008"
+  },
+  {
+    "id": "P04817",
+    "type": "sale",
+    "category": {
+      "main": "commercial",
+      "sub": "office"
+    },
+    "title": "Satılık Ofis - Laos City",
+    "slug": "satilik-ofis-laos-city-P04817",
+    "description": "Laos City, Laos bölgesinde ofis. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 11820624,
+    "location": {
+      "country": "LA",
+      "city": "Laos City",
+      "district": "Laos City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 405",
+      "coordinates": {
+        "lat": 17.844536677501058,
+        "lng": 105.11160796797492
+      }
+    },
+    "specs": {
+      "netSize": 756,
+      "grossSize": 907,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 7,
+      "floor": 9,
+      "totalFloors": 8,
+      "heating": "Klima",
+      "furnishing": "Unfurnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500880147349?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500087665648?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500027087572?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500145161787?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500534700210?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500784289227?w=800&q=80&category=architecture"
+    ],
+    "agent": {
+      "id": "A71",
+      "name": "Agent 30",
+      "phone": "+75 320 986 5522",
+      "email": "agent58@iwrealty.com",
+      "photo": "/images/icons/png/izmir-sahil-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": false,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-08-13T10:50:47.231Z",
+    "updatedAt": "2025-11-13T10:50:47.231Z",
+    "storeId": "store-005"
+  },
+  {
+    "id": "P04818",
+    "type": "rent",
+    "category": {
+      "main": "commercial",
+      "sub": "office"
+    },
+    "title": "Kiralık Ofis - Laos Central",
+    "slug": "kiralik-ofis-laos-central-P04818",
+    "description": "Laos Central, Laos bölgesinde ofis. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 1992002,
+    "location": {
+      "country": "LA",
+      "city": "Laos Central",
+      "district": "Laos Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 496",
+      "coordinates": {
+        "lat": 17.772570784981234,
+        "lng": 105.35047741573335
+      }
+    },
+    "specs": {
+      "netSize": 308,
+      "grossSize": 370,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 8,
+      "floor": 2,
+      "totalFloors": 6,
+      "heating": "Merkezi",
+      "furnishing": "Furnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500068687660?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500874376912?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500378240733?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500412471826?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500777752020?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500974801658?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500950787361?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500631417053?w=800&q=80&category=house"
+    ],
+    "agent": {
+      "id": "A50",
+      "name": "Agent 47",
+      "phone": "+36 191 916 2798",
+      "email": "agent38@iwrealty.com",
+      "photo": "/images/icons/png/sg-harbour-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-09-23T10:50:47.231Z",
+    "updatedAt": "2025-11-13T10:50:47.231Z",
+    "storeId": "store-011"
+  },
+  {
+    "id": "P04819",
+    "type": "sale",
+    "category": {
+      "main": "commercial",
+      "sub": "mall"
+    },
+    "title": "Satılık AVM - Laos City",
+    "slug": "satilik-avm-laos-city-P04819",
+    "description": "Laos City, Laos bölgesinde avm. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 391032936,
+    "location": {
+      "country": "LA",
+      "city": "Laos City",
+      "district": "Laos City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 509",
+      "coordinates": {
+        "lat": 17.83163211667668,
+        "lng": 105.40759932711876
+      }
+    },
+    "specs": {
+      "netSize": 17185,
+      "grossSize": 20622,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 13,
+      "floor": 8,
+      "totalFloors": 9,
+      "heating": "Merkezi",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500913298197?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500280551907?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500132498955?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500654090900?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500727003719?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500225563123?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500991315199?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500224846472?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500107854453?w=800&q=80&category=building"
+    ],
+    "agent": {
+      "id": "A37",
+      "name": "Agent 73",
+      "phone": "+34 109 418 8415",
+      "email": "agent17@iwrealty.com",
+      "photo": "/images/icons/png/dubai-property-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": false,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-06-28T10:50:47.231Z",
+    "updatedAt": "2025-11-13T10:50:47.231Z",
+    "storeId": "store-004"
+  },
+  {
+    "id": "P04820",
+    "type": "rent",
+    "category": {
+      "main": "commercial",
+      "sub": "mall"
+    },
+    "title": "Kiralık AVM - Laos Central",
+    "slug": "kiralik-avm-laos-central-P04820",
+    "description": "Laos Central, Laos bölgesinde avm. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 249782513,
+    "location": {
+      "country": "LA",
+      "city": "Laos Central",
+      "district": "Laos Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 27",
+      "coordinates": {
+        "lat": 17.556133927684705,
+        "lng": 104.68815574154839
+      }
+    },
+    "specs": {
+      "netSize": 49334,
+      "grossSize": 59201,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 5,
+      "floor": 1,
+      "totalFloors": 20,
+      "heating": "Klima",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500624405077?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500886608989?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500357929784?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500177056612?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500807568555?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500212532784?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500614137835?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500665299228?w=800&q=80&category=architecture"
+    ],
+    "agent": {
+      "id": "A52",
+      "name": "Agent 80",
+      "phone": "+67 995 181 4838",
+      "email": "agent89@iwrealty.com",
+      "photo": "/images/icons/png/antalya-investment-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2024-11-22T10:50:47.231Z",
+    "updatedAt": "2025-11-13T10:50:47.231Z",
+    "storeId": "store-006"
+  },
+  {
+    "id": "P04821",
+    "type": "sale",
+    "category": {
+      "main": "commercial",
+      "sub": "hotel"
+    },
+    "title": "Satılık Otel - Laos City",
+    "slug": "satilik-otel-laos-city-P04821",
+    "description": "Laos City, Laos bölgesinde otel. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 58865886,
+    "location": {
+      "country": "LA",
+      "city": "Laos City",
+      "district": "Laos City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 530",
+      "coordinates": {
+        "lat": 18.05957495842551,
+        "lng": 105.32135332937155
+      }
+    },
+    "specs": {
+      "netSize": 9859,
+      "grossSize": 11831,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 13,
+      "floor": 8,
+      "totalFloors": 6,
+      "heating": "Kombi",
+      "furnishing": "Unfurnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500517432610?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500805166680?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500013531299?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500272052214?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500066555422?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500181661342?w=800&q=80&category=house"
+    ],
+    "agent": {
+      "id": "A2",
+      "name": "Agent 50",
+      "phone": "+64 917 778 5591",
+      "email": "agent44@iwrealty.com",
+      "photo": "/images/icons/png/dubai-property-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-04-01T10:50:47.231Z",
+    "updatedAt": "2025-11-13T10:50:47.231Z",
+    "storeId": "store-004"
+  },
+  {
+    "id": "P04822",
+    "type": "rent",
+    "category": {
+      "main": "commercial",
+      "sub": "hotel"
+    },
+    "title": "Kiralık Otel - Vientiane",
+    "slug": "kiralik-otel-vientiane-P04822",
+    "description": "Vientiane, Laos bölgesinde otel. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 54603726,
+    "location": {
+      "country": "LA",
+      "city": "Vientiane",
+      "district": "Vientiane Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 382",
+      "coordinates": {
+        "lat": 18.491208454128078,
+        "lng": 104.75064770685839
+      }
+    },
+    "specs": {
+      "netSize": 27307,
+      "grossSize": 32768,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 16,
+      "floor": 1,
+      "totalFloors": 15,
+      "heating": "Kombi",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500510146048?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500819137288?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500740559608?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500878650925?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500591684905?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500748424186?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500101732887?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500060448789?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500365267017?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500787647988?w=800&q=80&category=real-estate"
+    ],
+    "agent": {
+      "id": "A45",
+      "name": "Agent 67",
+      "phone": "+82 167 207 2152",
+      "email": "agent43@iwrealty.com",
+      "photo": "/images/icons/png/berlin-urban-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": true,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-01-08T10:50:47.231Z",
+    "updatedAt": "2025-11-13T10:50:47.231Z",
+    "storeId": "store-009"
+  },
+  {
+    "id": "P04823",
+    "type": "sale",
+    "category": {
+      "main": "commercial",
+      "sub": "restaurant"
+    },
+    "title": "Satılık Restoran - New Laos",
+    "slug": "satilik-restoran-new-laos-P04823",
+    "description": "New Laos, Laos bölgesinde restoran. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 3965457,
+    "location": {
+      "country": "LA",
+      "city": "New Laos",
+      "district": "New Laos Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 310",
+      "coordinates": {
+        "lat": 18.414593416990343,
+        "lng": 104.65677486171958
+      }
+    },
+    "specs": {
+      "netSize": 286,
+      "grossSize": 343,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 1,
+      "floor": 15,
+      "totalFloors": 19,
+      "heating": "Kombi",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500387661858?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500305433809?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500883561145?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500587928582?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500214312675?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500478338780?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500367833685?w=800&q=80&category=house"
+    ],
+    "agent": {
+      "id": "A14",
+      "name": "Agent 20",
+      "phone": "+72 170 808 4106",
+      "email": "agent96@iwrealty.com",
+      "photo": "/images/icons/png/antalya-investment-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-03-13T10:50:47.231Z",
+    "updatedAt": "2025-11-13T10:50:47.231Z",
+    "storeId": "store-006"
+  },
+  {
+    "id": "P04824",
+    "type": "rent",
+    "category": {
+      "main": "commercial",
+      "sub": "restaurant"
+    },
+    "title": "Kiralık Restoran - Vientiane",
+    "slug": "kiralik-restoran-vientiane-P04824",
+    "description": "Vientiane, Laos bölgesinde restoran. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 1445450,
+    "location": {
+      "country": "LA",
+      "city": "Vientiane",
+      "district": "Vientiane Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 459",
+      "coordinates": {
+        "lat": 18.246064021272147,
+        "lng": 105.05502940561311
+      }
+    },
+    "specs": {
+      "netSize": 384,
+      "grossSize": 461,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 0,
+      "floor": 4,
+      "totalFloors": 8,
+      "heating": "Merkezi",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500500303042?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500641239315?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500572531320?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500762245083?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500114897747?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500704298160?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500059886296?w=800&q=80&category=building"
+    ],
+    "agent": {
+      "id": "A38",
+      "name": "Agent 74",
+      "phone": "+98 144 159 2943",
+      "email": "agent62@iwrealty.com",
+      "photo": "/images/icons/png/berlin-urban-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-11-09T10:50:47.231Z",
+    "updatedAt": "2025-11-13T10:50:47.231Z",
+    "storeId": "store-009"
+  },
+  {
+    "id": "P04825",
+    "type": "sale",
+    "category": {
+      "main": "commercial",
+      "sub": "warehouse"
+    },
+    "title": "Satılık Depo - Vientiane",
+    "slug": "satilik-depo-vientiane-P04825",
+    "description": "Vientiane, Laos bölgesinde depo. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 20134386,
+    "location": {
+      "country": "LA",
+      "city": "Vientiane",
+      "district": "Vientiane Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 942",
+      "coordinates": {
+        "lat": 17.54550943800753,
+        "lng": 105.3849991061905
+      }
+    },
+    "specs": {
+      "netSize": 5106,
+      "grossSize": 6127,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 10,
+      "floor": 4,
+      "totalFloors": 11,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500975135367?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500439968431?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500402873150?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500060727393?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500191305982?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500399662641?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500128108765?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500648357072?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500268419320?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500779364144?w=800&q=80&category=real-estate"
+    ],
+    "agent": {
+      "id": "A33",
+      "name": "Agent 28",
+      "phone": "+81 431 391 8124",
+      "email": "agent92@iwrealty.com",
+      "photo": "/images/icons/png/london-prime-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": true,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-01-29T10:50:47.231Z",
+    "updatedAt": "2025-11-13T10:50:47.231Z",
+    "storeId": "store-007"
+  },
+  {
+    "id": "P04826",
+    "type": "rent",
+    "category": {
+      "main": "commercial",
+      "sub": "warehouse"
+    },
+    "title": "Kiralık Depo - Laos Central",
+    "slug": "kiralik-depo-laos-central-P04826",
+    "description": "Laos Central, Laos bölgesinde depo. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 29386519,
+    "location": {
+      "country": "LA",
+      "city": "Laos Central",
+      "district": "Laos Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 739",
+      "coordinates": {
+        "lat": 18.02421147971981,
+        "lng": 105.20578060405762
+      }
+    },
+    "specs": {
+      "netSize": 8844,
+      "grossSize": 10613,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 10,
+      "floor": 15,
+      "totalFloors": 15,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Unfurnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500608324094?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500397079773?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500560719371?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500321851662?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500784209300?w=800&q=80&category=real-estate"
+    ],
+    "agent": {
+      "id": "A99",
+      "name": "Agent 77",
+      "phone": "+49 679 334 7632",
+      "email": "agent56@iwrealty.com",
+      "photo": "/images/icons/png/ny-skyline-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-03-18T10:50:47.231Z",
+    "updatedAt": "2025-11-13T10:50:47.231Z",
+    "storeId": "store-008"
+  }
+]

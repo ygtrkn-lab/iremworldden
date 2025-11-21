@@ -1,0 +1,2346 @@
+[
+  {
+    "id": "P06651",
+    "type": "sale",
+    "category": {
+      "main": "government"
+    },
+    "title": "Satılık Hastane - New Panama",
+    "slug": "satilik-hastane-new-panama-P06651",
+    "description": "New Panama, Panama bölgesinde hastane. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 13586620,
+    "location": {
+      "country": "PA",
+      "city": "New Panama",
+      "district": "New Panama Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 233",
+      "coordinates": {
+        "lat": 9.202235139155512,
+        "lng": -79.74060228612917
+      }
+    },
+    "specs": {
+      "netSize": 4113,
+      "grossSize": 4936,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 16,
+      "floor": 10,
+      "totalFloors": 5,
+      "heating": "Merkezi",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500902429503?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500903265169?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500703059921?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500309160790?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500377854231?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500516451444?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500929998371?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500480715641?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500269655900?w=800&q=80&category=house"
+    ],
+    "agent": {
+      "id": "A84",
+      "name": "Agent 2",
+      "phone": "+78 745 230 7865",
+      "email": "agent96@iwrealty.com",
+      "photo": "/images/icons/png/ny-skyline-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": false,
+      "hasBalcony": false,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-07-01T10:50:47.249Z",
+    "updatedAt": "2025-11-13T10:50:47.249Z",
+    "storeId": "store-008"
+  },
+  {
+    "id": "P06652",
+    "type": "rent",
+    "category": {
+      "main": "government"
+    },
+    "title": "Kiralık Devlet Binası - Panama City",
+    "slug": "kiralik-devlet-binası-panama-city-P06652",
+    "description": "Panama City, Panama bölgesinde devlet binası. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 26454111,
+    "location": {
+      "country": "PA",
+      "city": "Panama City",
+      "district": "Panama City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 595",
+      "coordinates": {
+        "lat": 8.825682944180242,
+        "lng": -79.56441198638406
+      }
+    },
+    "specs": {
+      "netSize": 3389,
+      "grossSize": 4067,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 11,
+      "floor": 14,
+      "totalFloors": 19,
+      "heating": "Kombi",
+      "furnishing": "Unfurnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500530863477?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500198877150?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500546022064?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500443903485?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500918212224?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500366090156?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500535490088?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500097280219?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500130105399?w=800&q=80&category=architecture"
+    ],
+    "agent": {
+      "id": "A25",
+      "name": "Agent 84",
+      "phone": "+80 490 536 7998",
+      "email": "agent51@iwrealty.com",
+      "photo": "/images/icons/png/luxury-homes-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-04-03T10:50:47.249Z",
+    "updatedAt": "2025-11-13T10:50:47.249Z",
+    "storeId": "store-002"
+  },
+  {
+    "id": "P06653",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Villa - New Panama",
+    "slug": "satilik-villa-new-panama-P06653",
+    "description": "New Panama, Panama bölgesinde villa. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 4566852,
+    "location": {
+      "country": "PA",
+      "city": "New Panama",
+      "district": "New Panama Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 779",
+      "coordinates": {
+        "lat": 8.656699603202812,
+        "lng": -79.59499261719411
+      }
+    },
+    "specs": {
+      "netSize": 455,
+      "grossSize": 546,
+      "rooms": "2+0",
+      "bathrooms": 1,
+      "age": 17,
+      "floor": 12,
+      "totalFloors": 17,
+      "heating": "Klima",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500480961739?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500829881301?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500965958746?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500019877917?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500295680962?w=800&q=80&category=architecture"
+    ],
+    "agent": {
+      "id": "A97",
+      "name": "Agent 81",
+      "phone": "+59 944 559 6250",
+      "email": "agent86@iwrealty.com",
+      "photo": "/images/icons/png/berlin-urban-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2024-12-09T10:50:47.249Z",
+    "updatedAt": "2025-11-13T10:50:47.249Z",
+    "storeId": "store-009"
+  },
+  {
+    "id": "P06654",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Villa - Panama City",
+    "slug": "kiralik-villa-panama-city-P06654",
+    "description": "Panama City, Panama bölgesinde villa. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 11799938,
+    "location": {
+      "country": "PA",
+      "city": "Panama City",
+      "district": "Panama City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 141",
+      "coordinates": {
+        "lat": 8.690630384609136,
+        "lng": -79.8887942087794
+      }
+    },
+    "specs": {
+      "netSize": 248,
+      "grossSize": 298,
+      "rooms": "1+2",
+      "bathrooms": 2,
+      "age": 14,
+      "floor": 8,
+      "totalFloors": 9,
+      "heating": "Kombi",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500391333046?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500240746111?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500949094761?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500178034108?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500489391773?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500119993426?w=800&q=80&category=architecture"
+    ],
+    "agent": {
+      "id": "A65",
+      "name": "Agent 75",
+      "phone": "+77 985 895 6063",
+      "email": "agent71@iwrealty.com",
+      "photo": "/images/icons/png/sydney-coastal-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-03-13T10:50:47.249Z",
+    "updatedAt": "2025-11-13T10:50:47.249Z",
+    "storeId": "store-012"
+  },
+  {
+    "id": "P06655",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Villa - Panama City",
+    "slug": "satilik-villa-panama-city-P06655",
+    "description": "Panama City, Panama bölgesinde villa. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 9742556,
+    "location": {
+      "country": "PA",
+      "city": "Panama City",
+      "district": "Panama City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 150",
+      "coordinates": {
+        "lat": 8.988530857190685,
+        "lng": -80.36398001264784
+      }
+    },
+    "specs": {
+      "netSize": 88,
+      "grossSize": 106,
+      "rooms": "1+1",
+      "bathrooms": 2,
+      "age": 11,
+      "floor": 9,
+      "totalFloors": 7,
+      "heating": "Merkezi",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500007399441?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500450072543?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500704038944?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500005802076?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500696133697?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500833515768?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500673510648?w=800&q=80&category=real-estate"
+    ],
+    "agent": {
+      "id": "A90",
+      "name": "Agent 29",
+      "phone": "+23 930 679 7681",
+      "email": "agent68@iwrealty.com",
+      "photo": "/images/icons/png/london-prime-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-02-16T10:50:47.249Z",
+    "updatedAt": "2025-11-13T10:50:47.249Z",
+    "storeId": "store-007"
+  },
+  {
+    "id": "P06656",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Müstakil Ev - Panama Central",
+    "slug": "kiralik-müstakil-ev-panama-central-P06656",
+    "description": "Panama Central, Panama bölgesinde müstakil ev. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 10183753,
+    "location": {
+      "country": "PA",
+      "city": "Panama Central",
+      "district": "Panama Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 626",
+      "coordinates": {
+        "lat": 9.050202055856719,
+        "lng": -80.31025448236228
+      }
+    },
+    "specs": {
+      "netSize": 277,
+      "grossSize": 332,
+      "rooms": "4+0",
+      "bathrooms": 4,
+      "age": 2,
+      "floor": 14,
+      "totalFloors": 5,
+      "heating": "Klima",
+      "furnishing": "Furnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500310800080?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500332295828?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500030054125?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500715246328?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500843026724?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500252325247?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500360476875?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500949644494?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500911357451?w=800&q=80&category=building"
+    ],
+    "agent": {
+      "id": "A14",
+      "name": "Agent 39",
+      "phone": "+30 260 348 9147",
+      "email": "agent64@iwrealty.com",
+      "photo": "/images/icons/png/ny-skyline-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2024-12-07T10:50:47.249Z",
+    "updatedAt": "2025-11-13T10:50:47.249Z",
+    "storeId": "store-008"
+  },
+  {
+    "id": "P06657",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Villa - Panama Central",
+    "slug": "satilik-villa-panama-central-P06657",
+    "description": "Panama Central, Panama bölgesinde villa. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 13236249,
+    "location": {
+      "country": "PA",
+      "city": "Panama Central",
+      "district": "Panama Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 787",
+      "coordinates": {
+        "lat": 9.23708195659391,
+        "lng": -80.10573755334296
+      }
+    },
+    "specs": {
+      "netSize": 404,
+      "grossSize": 485,
+      "rooms": "5+0",
+      "bathrooms": 2,
+      "age": 11,
+      "floor": 1,
+      "totalFloors": 9,
+      "heating": "Klima",
+      "furnishing": "Furnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500254812440?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500132551487?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500893606798?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500654209720?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500763766596?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500074283061?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500936077166?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500669622774?w=800&q=80&category=real-estate"
+    ],
+    "agent": {
+      "id": "A96",
+      "name": "Agent 28",
+      "phone": "+50 428 348 8378",
+      "email": "agent28@iwrealty.com",
+      "photo": "/images/icons/png/ankara-modern-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": true,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-04-17T10:50:47.249Z",
+    "updatedAt": "2025-11-13T10:50:47.249Z",
+    "storeId": "store-003"
+  },
+  {
+    "id": "P06658",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Müstakil Ev - Panama City",
+    "slug": "kiralik-müstakil-ev-panama-city-P06658",
+    "description": "Panama City, Panama bölgesinde müstakil ev. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 4161407,
+    "location": {
+      "country": "PA",
+      "city": "Panama City",
+      "district": "Panama City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 273",
+      "coordinates": {
+        "lat": 9.112277610227272,
+        "lng": -79.69905718121741
+      }
+    },
+    "specs": {
+      "netSize": 92,
+      "grossSize": 110,
+      "rooms": "1+2",
+      "bathrooms": 4,
+      "age": 13,
+      "floor": 5,
+      "totalFloors": 15,
+      "heating": "Merkezi",
+      "furnishing": "Furnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500146815471?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500143767400?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500766213440?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500059276104?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500854342154?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500340537886?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500843666491?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500008026829?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500175030749?w=800&q=80&category=house"
+    ],
+    "agent": {
+      "id": "A22",
+      "name": "Agent 42",
+      "phone": "+34 526 578 5166",
+      "email": "agent10@iwrealty.com",
+      "photo": "/images/icons/png/london-prime-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-08-30T10:50:47.249Z",
+    "updatedAt": "2025-11-13T10:50:47.249Z",
+    "storeId": "store-007"
+  },
+  {
+    "id": "P06659",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Villa - Panama City",
+    "slug": "satilik-villa-panama-city-P06659",
+    "description": "Panama City, Panama bölgesinde villa. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 1553561,
+    "location": {
+      "country": "PA",
+      "city": "Panama City",
+      "district": "Panama City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 39",
+      "coordinates": {
+        "lat": 8.68572491219881,
+        "lng": -79.59627156787191
+      }
+    },
+    "specs": {
+      "netSize": 196,
+      "grossSize": 235,
+      "rooms": "3+2",
+      "bathrooms": 4,
+      "age": 11,
+      "floor": 6,
+      "totalFloors": 10,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Furnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500740524915?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500121325688?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500371680981?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500816492070?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500294337396?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500662663104?w=800&q=80&category=interior"
+    ],
+    "agent": {
+      "id": "A10",
+      "name": "Agent 41",
+      "phone": "+93 489 585 6526",
+      "email": "agent63@iwrealty.com",
+      "photo": "/images/icons/png/ankara-modern-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": false,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-09-01T10:50:47.249Z",
+    "updatedAt": "2025-11-13T10:50:47.249Z",
+    "storeId": "store-003"
+  },
+  {
+    "id": "P06660",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Villa - Panama City",
+    "slug": "kiralik-villa-panama-city-P06660",
+    "description": "Panama City, Panama bölgesinde villa. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 11606604,
+    "location": {
+      "country": "PA",
+      "city": "Panama City",
+      "district": "Panama City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 126",
+      "coordinates": {
+        "lat": 8.69995244718893,
+        "lng": -80.25612732357696
+      }
+    },
+    "specs": {
+      "netSize": 194,
+      "grossSize": 233,
+      "rooms": "5+1",
+      "bathrooms": 3,
+      "age": 17,
+      "floor": 11,
+      "totalFloors": 6,
+      "heating": "Klima",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500816130014?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500060554064?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500765106791?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500226744698?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500750679041?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500729805638?w=800&q=80&category=house"
+    ],
+    "agent": {
+      "id": "A86",
+      "name": "Agent 20",
+      "phone": "+26 359 325 6140",
+      "email": "agent50@iwrealty.com",
+      "photo": "/images/icons/png/sg-harbour-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-10-24T10:50:47.249Z",
+    "updatedAt": "2025-11-13T10:50:47.249Z",
+    "storeId": "store-011"
+  },
+  {
+    "id": "P06661",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Residence - Panama City",
+    "slug": "satilik-residence-panama-city-P06661",
+    "description": "Panama City, Panama bölgesinde residence. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 10641189,
+    "location": {
+      "country": "PA",
+      "city": "Panama City",
+      "district": "Panama City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 589",
+      "coordinates": {
+        "lat": 8.964465643590698,
+        "lng": -79.5654074648023
+      }
+    },
+    "specs": {
+      "netSize": 480,
+      "grossSize": 576,
+      "rooms": "3+1",
+      "bathrooms": 2,
+      "age": 5,
+      "floor": 10,
+      "totalFloors": 17,
+      "heating": "Merkezi",
+      "furnishing": "Unfurnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500301293014?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500490539023?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500251670251?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500971064085?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500481067236?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500082749378?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500168674032?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500598202158?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500144398660?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500826817866?w=800&q=80&category=real-estate"
+    ],
+    "agent": {
+      "id": "A24",
+      "name": "Agent 60",
+      "phone": "+45 645 374 7312",
+      "email": "agent35@iwrealty.com",
+      "photo": "/images/icons/png/paris-heritage-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-01-13T10:50:47.249Z",
+    "updatedAt": "2025-11-13T10:50:47.249Z",
+    "storeId": "store-010"
+  },
+  {
+    "id": "P06662",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Daire - Panama Central",
+    "slug": "kiralik-daire-panama-central-P06662",
+    "description": "Panama Central, Panama bölgesinde daire. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 7605447,
+    "location": {
+      "country": "PA",
+      "city": "Panama Central",
+      "district": "Panama Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 235",
+      "coordinates": {
+        "lat": 8.670711279956489,
+        "lng": -79.87598124201824
+      }
+    },
+    "specs": {
+      "netSize": 219,
+      "grossSize": 263,
+      "rooms": "4+2",
+      "bathrooms": 4,
+      "age": 1,
+      "floor": 10,
+      "totalFloors": 20,
+      "heating": "Kombi",
+      "furnishing": "Unfurnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500758617319?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500130170517?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500079984343?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500250720361?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500084614283?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500641889158?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500837626067?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500547051624?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500918328791?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500209174290?w=800&q=80&category=building"
+    ],
+    "agent": {
+      "id": "A10",
+      "name": "Agent 89",
+      "phone": "+35 771 894 3344",
+      "email": "agent33@iwrealty.com",
+      "photo": "/images/icons/png/antalya-investment-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-01-04T10:50:47.249Z",
+    "updatedAt": "2025-11-13T10:50:47.249Z",
+    "storeId": "store-006"
+  },
+  {
+    "id": "P06663",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Daire - Panama Central",
+    "slug": "satilik-daire-panama-central-P06663",
+    "description": "Panama Central, Panama bölgesinde daire. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 3649810,
+    "location": {
+      "country": "PA",
+      "city": "Panama Central",
+      "district": "Panama Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 849",
+      "coordinates": {
+        "lat": 9.45333329036916,
+        "lng": -80.20834455214818
+      }
+    },
+    "specs": {
+      "netSize": 303,
+      "grossSize": 364,
+      "rooms": "1+2",
+      "bathrooms": 1,
+      "age": 14,
+      "floor": 13,
+      "totalFloors": 8,
+      "heating": "Kombi",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500364826052?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500143636668?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500402044393?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500455331968?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500972625231?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500301159388?w=800&q=80&category=interior"
+    ],
+    "agent": {
+      "id": "A48",
+      "name": "Agent 18",
+      "phone": "+21 440 879 5805",
+      "email": "agent72@iwrealty.com",
+      "photo": "/images/icons/png/sg-harbour-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-03-14T10:50:47.249Z",
+    "updatedAt": "2025-11-13T10:50:47.249Z",
+    "storeId": "store-011"
+  },
+  {
+    "id": "P06664",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Villa - New Panama",
+    "slug": "kiralik-villa-new-panama-P06664",
+    "description": "New Panama, Panama bölgesinde villa. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 3292598,
+    "location": {
+      "country": "PA",
+      "city": "New Panama",
+      "district": "New Panama Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 108",
+      "coordinates": {
+        "lat": 9.393256842221149,
+        "lng": -79.88599183305584
+      }
+    },
+    "specs": {
+      "netSize": 362,
+      "grossSize": 434,
+      "rooms": "1+0",
+      "bathrooms": 3,
+      "age": 18,
+      "floor": 1,
+      "totalFloors": 11,
+      "heating": "Klima",
+      "furnishing": "Furnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500658468740?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500319886397?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500710407041?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500743085521?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500696664678?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500058920468?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500835562694?w=800&q=80&category=building"
+    ],
+    "agent": {
+      "id": "A45",
+      "name": "Agent 21",
+      "phone": "+48 313 193 6688",
+      "email": "agent93@iwrealty.com",
+      "photo": "/images/icons/png/ankara-modern-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": false,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2024-11-21T10:50:47.249Z",
+    "updatedAt": "2025-11-13T10:50:47.249Z",
+    "storeId": "store-003"
+  },
+  {
+    "id": "P06665",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Müstakil Ev - Panama City",
+    "slug": "satilik-müstakil-ev-panama-city-P06665",
+    "description": "Panama City, Panama bölgesinde müstakil ev. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 9321645,
+    "location": {
+      "country": "PA",
+      "city": "Panama City",
+      "district": "Panama City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 389",
+      "coordinates": {
+        "lat": 9.044659464232252,
+        "lng": -80.12361523191905
+      }
+    },
+    "specs": {
+      "netSize": 366,
+      "grossSize": 439,
+      "rooms": "5+1",
+      "bathrooms": 4,
+      "age": 7,
+      "floor": 12,
+      "totalFloors": 9,
+      "heating": "Merkezi",
+      "furnishing": "Furnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500523092365?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500927929896?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500016892670?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500143601768?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500392057125?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500854124769?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500946185630?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500016311084?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500314127425?w=800&q=80&category=real-estate"
+    ],
+    "agent": {
+      "id": "A17",
+      "name": "Agent 88",
+      "phone": "+40 260 978 6745",
+      "email": "agent25@iwrealty.com",
+      "photo": "/images/icons/png/sydney-coastal-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": true,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-02-04T10:50:47.249Z",
+    "updatedAt": "2025-11-13T10:50:47.249Z",
+    "storeId": "store-012"
+  },
+  {
+    "id": "P06666",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Daire - New Panama",
+    "slug": "kiralik-daire-new-panama-P06666",
+    "description": "New Panama, Panama bölgesinde daire. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 7095450,
+    "location": {
+      "country": "PA",
+      "city": "New Panama",
+      "district": "New Panama Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 757",
+      "coordinates": {
+        "lat": 9.171021752814438,
+        "lng": -80.18226357329362
+      }
+    },
+    "specs": {
+      "netSize": 366,
+      "grossSize": 439,
+      "rooms": "3+2",
+      "bathrooms": 3,
+      "age": 12,
+      "floor": 5,
+      "totalFloors": 19,
+      "heating": "Kombi",
+      "furnishing": "Unfurnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500463378056?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500229552025?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500410194045?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500312720950?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500323836053?w=800&q=80&category=interior"
+    ],
+    "agent": {
+      "id": "A2",
+      "name": "Agent 48",
+      "phone": "+21 336 604 4687",
+      "email": "agent64@iwrealty.com",
+      "photo": "/images/icons/png/london-prime-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": false,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": true,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-05-15T10:50:47.249Z",
+    "updatedAt": "2025-11-13T10:50:47.249Z",
+    "storeId": "store-007"
+  },
+  {
+    "id": "P06667",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Daire - Panama City",
+    "slug": "satilik-daire-panama-city-P06667",
+    "description": "Panama City, Panama bölgesinde daire. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 5691860,
+    "location": {
+      "country": "PA",
+      "city": "Panama City",
+      "district": "Panama City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 885",
+      "coordinates": {
+        "lat": 8.777777927594897,
+        "lng": -80.1237860775158
+      }
+    },
+    "specs": {
+      "netSize": 175,
+      "grossSize": 210,
+      "rooms": "3+1",
+      "bathrooms": 4,
+      "age": 4,
+      "floor": 5,
+      "totalFloors": 7,
+      "heating": "Kombi",
+      "furnishing": "Unfurnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500928626020?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500985663762?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500546651082?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500111536999?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500826696766?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500797511065?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500769081331?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500324697956?w=800&q=80&category=house"
+    ],
+    "agent": {
+      "id": "A42",
+      "name": "Agent 55",
+      "phone": "+29 920 404 9815",
+      "email": "agent93@iwrealty.com",
+      "photo": "/images/icons/png/ny-skyline-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": true,
+      "hasPool": true,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-02-21T10:50:47.249Z",
+    "updatedAt": "2025-11-13T10:50:47.249Z",
+    "storeId": "store-008"
+  },
+  {
+    "id": "P06668",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Villa - Panama City",
+    "slug": "kiralik-villa-panama-city-P06668",
+    "description": "Panama City, Panama bölgesinde villa. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 9491716,
+    "location": {
+      "country": "PA",
+      "city": "Panama City",
+      "district": "Panama City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 485",
+      "coordinates": {
+        "lat": 8.547471953138825,
+        "lng": -80.15675350184408
+      }
+    },
+    "specs": {
+      "netSize": 96,
+      "grossSize": 115,
+      "rooms": "2+2",
+      "bathrooms": 2,
+      "age": 8,
+      "floor": 5,
+      "totalFloors": 17,
+      "heating": "Merkezi",
+      "furnishing": "Unfurnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500412462861?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500991020520?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500594245854?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500992707077?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500350878218?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500171884809?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500940513296?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500809448299?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500275393149?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500948927324?w=800&q=80&category=house"
+    ],
+    "agent": {
+      "id": "A2",
+      "name": "Agent 17",
+      "phone": "+28 519 742 2179",
+      "email": "agent18@iwrealty.com",
+      "photo": "/images/icons/png/ankara-modern-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-05-19T10:50:47.249Z",
+    "updatedAt": "2025-11-13T10:50:47.249Z",
+    "storeId": "store-003"
+  },
+  {
+    "id": "P06669",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Müstakil Ev - Panama City",
+    "slug": "satilik-müstakil-ev-panama-city-P06669",
+    "description": "Panama City, Panama bölgesinde müstakil ev. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 5550970,
+    "location": {
+      "country": "PA",
+      "city": "Panama City",
+      "district": "Panama City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 721",
+      "coordinates": {
+        "lat": 8.676341274247472,
+        "lng": -80.42231624194001
+      }
+    },
+    "specs": {
+      "netSize": 354,
+      "grossSize": 425,
+      "rooms": "1+1",
+      "bathrooms": 2,
+      "age": 15,
+      "floor": 4,
+      "totalFloors": 15,
+      "heating": "Klima",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500889199914?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500451015938?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500015916120?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500149271611?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500538499041?w=800&q=80&category=real-estate"
+    ],
+    "agent": {
+      "id": "A53",
+      "name": "Agent 45",
+      "phone": "+54 270 952 2706",
+      "email": "agent92@iwrealty.com",
+      "photo": "/images/icons/png/antalya-investment-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-04-24T10:50:47.249Z",
+    "updatedAt": "2025-11-13T10:50:47.249Z",
+    "storeId": "store-006"
+  },
+  {
+    "id": "P06670",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Villa - Panama Central",
+    "slug": "kiralik-villa-panama-central-P06670",
+    "description": "Panama Central, Panama bölgesinde villa. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 2892462,
+    "location": {
+      "country": "PA",
+      "city": "Panama Central",
+      "district": "Panama Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 61",
+      "coordinates": {
+        "lat": 8.806992797525796,
+        "lng": -80.41044151763033
+      }
+    },
+    "specs": {
+      "netSize": 224,
+      "grossSize": 269,
+      "rooms": "1+0",
+      "bathrooms": 2,
+      "age": 14,
+      "floor": 6,
+      "totalFloors": 7,
+      "heating": "Kombi",
+      "furnishing": "Unfurnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500835333282?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500264250088?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500110527008?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500963035006?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500565629329?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500575167805?w=800&q=80&category=architecture"
+    ],
+    "agent": {
+      "id": "A13",
+      "name": "Agent 82",
+      "phone": "+20 443 371 1889",
+      "email": "agent99@iwrealty.com",
+      "photo": "/images/icons/png/sydney-coastal-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": false,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-10-07T10:50:47.249Z",
+    "updatedAt": "2025-11-13T10:50:47.249Z",
+    "storeId": "store-012"
+  },
+  {
+    "id": "P06671",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Villa - Panama City",
+    "slug": "satilik-villa-panama-city-P06671",
+    "description": "Panama City, Panama bölgesinde villa. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 5368375,
+    "location": {
+      "country": "PA",
+      "city": "Panama City",
+      "district": "Panama City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 880",
+      "coordinates": {
+        "lat": 9.007736948115204,
+        "lng": -80.04305385397738
+      }
+    },
+    "specs": {
+      "netSize": 470,
+      "grossSize": 564,
+      "rooms": "2+2",
+      "bathrooms": 4,
+      "age": 14,
+      "floor": 7,
+      "totalFloors": 12,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Unfurnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500797766478?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500867238806?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500188881015?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500673501184?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500571765682?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500022943762?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500101681787?w=800&q=80&category=architecture"
+    ],
+    "agent": {
+      "id": "A96",
+      "name": "Agent 97",
+      "phone": "+96 320 479 8700",
+      "email": "agent60@iwrealty.com",
+      "photo": "/images/icons/png/sg-harbour-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-08-15T10:50:47.249Z",
+    "updatedAt": "2025-11-13T10:50:47.249Z",
+    "storeId": "store-011"
+  },
+  {
+    "id": "P06672",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Müstakil Ev - New Panama",
+    "slug": "kiralik-müstakil-ev-new-panama-P06672",
+    "description": "New Panama, Panama bölgesinde müstakil ev. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 12044738,
+    "location": {
+      "country": "PA",
+      "city": "New Panama",
+      "district": "New Panama Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 100",
+      "coordinates": {
+        "lat": 9.337967209882152,
+        "lng": -79.5934097380132
+      }
+    },
+    "specs": {
+      "netSize": 260,
+      "grossSize": 312,
+      "rooms": "4+2",
+      "bathrooms": 3,
+      "age": 7,
+      "floor": 7,
+      "totalFloors": 10,
+      "heating": "Klima",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500882641875?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500146864069?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500777114301?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500370307476?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500634619853?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500791122948?w=800&q=80&category=house"
+    ],
+    "agent": {
+      "id": "A58",
+      "name": "Agent 90",
+      "phone": "+83 824 660 6326",
+      "email": "agent55@iwrealty.com",
+      "photo": "/images/icons/png/sg-harbour-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": false,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-05-26T10:50:47.249Z",
+    "updatedAt": "2025-11-13T10:50:47.249Z",
+    "storeId": "store-011"
+  },
+  {
+    "id": "P06673",
+    "type": "sale",
+    "category": {
+      "main": "commercial",
+      "sub": "hospital"
+    },
+    "title": "Satılık Hastane - Panama City",
+    "slug": "satilik-hastane-panama-city-P06673",
+    "description": "Panama City, Panama bölgesinde hastane. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 89705520,
+    "location": {
+      "country": "PA",
+      "city": "Panama City",
+      "district": "Panama City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 903",
+      "coordinates": {
+        "lat": 9.059053675916175,
+        "lng": -80.2246026362592
+      }
+    },
+    "specs": {
+      "netSize": 7540,
+      "grossSize": 9048,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 3,
+      "floor": 11,
+      "totalFloors": 8,
+      "heating": "Merkezi",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500128359857?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500315604960?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500249725812?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500804769613?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500619908734?w=800&q=80&category=building"
+    ],
+    "agent": {
+      "id": "A12",
+      "name": "Agent 93",
+      "phone": "+75 684 666 1001",
+      "email": "agent7@iwrealty.com",
+      "photo": "/images/icons/png/luxury-homes-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": false,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-06-02T10:50:47.249Z",
+    "updatedAt": "2025-11-13T10:50:47.249Z",
+    "storeId": "store-002"
+  },
+  {
+    "id": "P06674",
+    "type": "rent",
+    "category": {
+      "main": "commercial",
+      "sub": "hospital"
+    },
+    "title": "Kiralık Hastane - Panama City",
+    "slug": "kiralik-hastane-panama-city-P06674",
+    "description": "Panama City, Panama bölgesinde hastane. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 35227206,
+    "location": {
+      "country": "PA",
+      "city": "Panama City",
+      "district": "Panama City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 75",
+      "coordinates": {
+        "lat": 9.132877608020928,
+        "lng": -80.20525787451214
+      }
+    },
+    "specs": {
+      "netSize": 16602,
+      "grossSize": 19922,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 1,
+      "floor": 1,
+      "totalFloors": 6,
+      "heating": "Kombi",
+      "furnishing": "Furnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500156517421?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500788277192?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500008240664?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500803609292?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500514304475?w=800&q=80&category=architecture"
+    ],
+    "agent": {
+      "id": "A20",
+      "name": "Agent 73",
+      "phone": "+49 388 669 2288",
+      "email": "agent84@iwrealty.com",
+      "photo": "/images/icons/png/ankara-modern-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": true,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-07-10T10:50:47.249Z",
+    "updatedAt": "2025-11-13T10:50:47.249Z",
+    "storeId": "store-003"
+  },
+  {
+    "id": "P06675",
+    "type": "sale",
+    "category": {
+      "main": "commercial",
+      "sub": "clinic"
+    },
+    "title": "Satılık Klinik - Panama City",
+    "slug": "satilik-klinik-panama-city-P06675",
+    "description": "Panama City, Panama bölgesinde klinik. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 5844634,
+    "location": {
+      "country": "PA",
+      "city": "Panama City",
+      "district": "Panama City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 222",
+      "coordinates": {
+        "lat": 8.778350267726053,
+        "lng": -80.26163407976131
+      }
+    },
+    "specs": {
+      "netSize": 606,
+      "grossSize": 727,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 12,
+      "floor": 7,
+      "totalFloors": 13,
+      "heating": "Kombi",
+      "furnishing": "Furnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500019005071?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500900592174?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500255270037?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500643296544?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500456775051?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500637876540?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500764472298?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500245552203?w=800&q=80&category=architecture"
+    ],
+    "agent": {
+      "id": "A39",
+      "name": "Agent 58",
+      "phone": "+23 383 995 7890",
+      "email": "agent32@iwrealty.com",
+      "photo": "/images/icons/png/sydney-coastal-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": true,
+      "hasSecurity": true
+    },
+    "createdAt": "2024-12-23T10:50:47.249Z",
+    "updatedAt": "2025-11-13T10:50:47.249Z",
+    "storeId": "store-012"
+  },
+  {
+    "id": "P06676",
+    "type": "rent",
+    "category": {
+      "main": "commercial",
+      "sub": "clinic"
+    },
+    "title": "Kiralık Klinik - Panama Central",
+    "slug": "kiralik-klinik-panama-central-P06676",
+    "description": "Panama Central, Panama bölgesinde klinik. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 13443297,
+    "location": {
+      "country": "PA",
+      "city": "Panama Central",
+      "district": "Panama Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 663",
+      "coordinates": {
+        "lat": 8.547030852528435,
+        "lng": -80.02225330742007
+      }
+    },
+    "specs": {
+      "netSize": 1638,
+      "grossSize": 1966,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 5,
+      "floor": 8,
+      "totalFloors": 14,
+      "heating": "Kombi",
+      "furnishing": "Unfurnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500656147128?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500763770181?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500238812458?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500346117486?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500794607296?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500501600160?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500191400470?w=800&q=80&category=architecture"
+    ],
+    "agent": {
+      "id": "A16",
+      "name": "Agent 60",
+      "phone": "+89 283 585 4092",
+      "email": "agent90@iwrealty.com",
+      "photo": "/images/icons/png/luxury-homes-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-09-18T10:50:47.249Z",
+    "updatedAt": "2025-11-13T10:50:47.249Z",
+    "storeId": "store-002"
+  },
+  {
+    "id": "P06677",
+    "type": "sale",
+    "category": {
+      "main": "commercial",
+      "sub": "shop"
+    },
+    "title": "Satılık Dükkan - New Panama",
+    "slug": "satilik-dükkan-new-panama-P06677",
+    "description": "New Panama, Panama bölgesinde dükkan. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 5393409,
+    "location": {
+      "country": "PA",
+      "city": "New Panama",
+      "district": "New Panama Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 395",
+      "coordinates": {
+        "lat": 8.510626135118711,
+        "lng": -80.06136707568477
+      }
+    },
+    "specs": {
+      "netSize": 434,
+      "grossSize": 521,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 6,
+      "floor": 8,
+      "totalFloors": 17,
+      "heating": "Klima",
+      "furnishing": "Furnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500453107727?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500354127009?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500104834060?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500888542060?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500437571005?w=800&q=80&category=real-estate"
+    ],
+    "agent": {
+      "id": "A77",
+      "name": "Agent 46",
+      "phone": "+56 389 196 9635",
+      "email": "agent8@iwrealty.com",
+      "photo": "/images/icons/png/ny-skyline-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-01-19T10:50:47.249Z",
+    "updatedAt": "2025-11-13T10:50:47.249Z",
+    "storeId": "store-008"
+  },
+  {
+    "id": "P06678",
+    "type": "rent",
+    "category": {
+      "main": "commercial",
+      "sub": "shop"
+    },
+    "title": "Kiralık Dükkan - Panama Central",
+    "slug": "kiralik-dükkan-panama-central-P06678",
+    "description": "Panama Central, Panama bölgesinde dükkan. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 1862705,
+    "location": {
+      "country": "PA",
+      "city": "Panama Central",
+      "district": "Panama Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 228",
+      "coordinates": {
+        "lat": 8.909561643357014,
+        "lng": -80.26792656754517
+      }
+    },
+    "specs": {
+      "netSize": 217,
+      "grossSize": 260,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 5,
+      "floor": 7,
+      "totalFloors": 5,
+      "heating": "Merkezi",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500290859076?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500607850473?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500521839964?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500227666918?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500386030984?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500670090293?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500748894062?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500107687459?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500780794496?w=800&q=80&category=real-estate"
+    ],
+    "agent": {
+      "id": "A71",
+      "name": "Agent 85",
+      "phone": "+14 829 262 6367",
+      "email": "agent100@iwrealty.com",
+      "photo": "/images/icons/png/paris-heritage-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-10-28T10:50:47.249Z",
+    "updatedAt": "2025-11-13T10:50:47.249Z",
+    "storeId": "store-010"
+  },
+  {
+    "id": "P06679",
+    "type": "sale",
+    "category": {
+      "main": "commercial",
+      "sub": "office"
+    },
+    "title": "Satılık Ofis - Panama Central",
+    "slug": "satilik-ofis-panama-central-P06679",
+    "description": "Panama Central, Panama bölgesinde ofis. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 6312692,
+    "location": {
+      "country": "PA",
+      "city": "Panama Central",
+      "district": "Panama Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 595",
+      "coordinates": {
+        "lat": 8.504472663115743,
+        "lng": -79.90215806259907
+      }
+    },
+    "specs": {
+      "netSize": 270,
+      "grossSize": 324,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 1,
+      "floor": 9,
+      "totalFloors": 10,
+      "heating": "Klima",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500598436928?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500857586095?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500424354675?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500865102596?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500354213629?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500358302222?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500931298323?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500348840379?w=800&q=80&category=real-estate"
+    ],
+    "agent": {
+      "id": "A48",
+      "name": "Agent 61",
+      "phone": "+40 138 159 4723",
+      "email": "agent66@iwrealty.com",
+      "photo": "/images/icons/png/dubai-property-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-10-07T10:50:47.249Z",
+    "updatedAt": "2025-11-13T10:50:47.249Z",
+    "storeId": "store-004"
+  },
+  {
+    "id": "P06680",
+    "type": "rent",
+    "category": {
+      "main": "commercial",
+      "sub": "office"
+    },
+    "title": "Kiralık Ofis - New Panama",
+    "slug": "kiralik-ofis-new-panama-P06680",
+    "description": "New Panama, Panama bölgesinde ofis. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 12781200,
+    "location": {
+      "country": "PA",
+      "city": "New Panama",
+      "district": "New Panama Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 907",
+      "coordinates": {
+        "lat": 8.584982877109539,
+        "lng": -80.36330568889177
+      }
+    },
+    "specs": {
+      "netSize": 814,
+      "grossSize": 977,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 14,
+      "floor": 8,
+      "totalFloors": 20,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500882172768?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500301776045?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500053097193?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500878773889?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500483257545?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500855266440?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500959896219?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500376554126?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500449933259?w=800&q=80&category=interior"
+    ],
+    "agent": {
+      "id": "A13",
+      "name": "Agent 69",
+      "phone": "+41 152 897 4543",
+      "email": "agent50@iwrealty.com",
+      "photo": "/images/icons/png/dubai-property-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-10-31T10:50:47.249Z",
+    "updatedAt": "2025-11-13T10:50:47.249Z",
+    "storeId": "store-004"
+  },
+  {
+    "id": "P06681",
+    "type": "sale",
+    "category": {
+      "main": "commercial",
+      "sub": "mall"
+    },
+    "title": "Satılık AVM - Panama City",
+    "slug": "satilik-avm-panama-city-P06681",
+    "description": "Panama City, Panama bölgesinde avm. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 361332515,
+    "location": {
+      "country": "PA",
+      "city": "Panama City",
+      "district": "Panama City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 327",
+      "coordinates": {
+        "lat": 9.142902694771767,
+        "lng": -80.05159384591266
+      }
+    },
+    "specs": {
+      "netSize": 34146,
+      "grossSize": 40975,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 1,
+      "floor": 9,
+      "totalFloors": 17,
+      "heating": "Merkezi",
+      "furnishing": "Furnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500200041063?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500144327003?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500253564676?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500884660703?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500051910107?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500865563434?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500770610527?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500947450193?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500166987112?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500090947103?w=800&q=80&category=interior"
+    ],
+    "agent": {
+      "id": "A55",
+      "name": "Agent 26",
+      "phone": "+52 154 357 2886",
+      "email": "agent85@iwrealty.com",
+      "photo": "/images/icons/png/berlin-urban-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": false,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-05-07T10:50:47.249Z",
+    "updatedAt": "2025-11-13T10:50:47.249Z",
+    "storeId": "store-009"
+  },
+  {
+    "id": "P06682",
+    "type": "rent",
+    "category": {
+      "main": "commercial",
+      "sub": "mall"
+    },
+    "title": "Kiralık AVM - New Panama",
+    "slug": "kiralik-avm-new-panama-P06682",
+    "description": "New Panama, Panama bölgesinde avm. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 71264984,
+    "location": {
+      "country": "PA",
+      "city": "New Panama",
+      "district": "New Panama Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 541",
+      "coordinates": {
+        "lat": 8.822593654349404,
+        "lng": -80.33634655907355
+      }
+    },
+    "specs": {
+      "netSize": 46334,
+      "grossSize": 55601,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 1,
+      "floor": 12,
+      "totalFloors": 13,
+      "heating": "Klima",
+      "furnishing": "Unfurnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500547851297?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500428121582?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500201756419?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500648812789?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500812105873?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500544560775?w=800&q=80&category=building"
+    ],
+    "agent": {
+      "id": "A66",
+      "name": "Agent 82",
+      "phone": "+41 501 811 9914",
+      "email": "agent10@iwrealty.com",
+      "photo": "/images/icons/png/ny-skyline-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": true,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-02-24T10:50:47.249Z",
+    "updatedAt": "2025-11-13T10:50:47.249Z",
+    "storeId": "store-008"
+  },
+  {
+    "id": "P06683",
+    "type": "sale",
+    "category": {
+      "main": "commercial",
+      "sub": "hotel"
+    },
+    "title": "Satılık Otel - Panama Central",
+    "slug": "satilik-otel-panama-central-P06683",
+    "description": "Panama Central, Panama bölgesinde otel. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 53776659,
+    "location": {
+      "country": "PA",
+      "city": "Panama Central",
+      "district": "Panama Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 563",
+      "coordinates": {
+        "lat": 8.598085437776486,
+        "lng": -80.17285094668667
+      }
+    },
+    "specs": {
+      "netSize": 13197,
+      "grossSize": 15836,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 20,
+      "floor": 4,
+      "totalFloors": 6,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Unfurnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500815694230?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500805264381?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500915013155?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500944541034?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500900507716?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500187158518?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500708171994?w=800&q=80&category=building"
+    ],
+    "agent": {
+      "id": "A73",
+      "name": "Agent 73",
+      "phone": "+16 728 570 4729",
+      "email": "agent6@iwrealty.com",
+      "photo": "/images/icons/png/london-prime-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": false,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": true,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-03-23T10:50:47.249Z",
+    "updatedAt": "2025-11-13T10:50:47.249Z",
+    "storeId": "store-007"
+  },
+  {
+    "id": "P06684",
+    "type": "rent",
+    "category": {
+      "main": "commercial",
+      "sub": "hotel"
+    },
+    "title": "Kiralık Otel - Panama Central",
+    "slug": "kiralik-otel-panama-central-P06684",
+    "description": "Panama Central, Panama bölgesinde otel. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 191762973,
+    "location": {
+      "country": "PA",
+      "city": "Panama Central",
+      "district": "Panama Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 751",
+      "coordinates": {
+        "lat": 9.337331014490706,
+        "lng": -80.36201793581286
+      }
+    },
+    "specs": {
+      "netSize": 17294,
+      "grossSize": 20753,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 6,
+      "floor": 11,
+      "totalFloors": 6,
+      "heating": "Kombi",
+      "furnishing": "Furnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500251471294?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500765408354?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500693043557?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500868908484?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500586384318?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500434874407?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500319137174?w=800&q=80&category=building"
+    ],
+    "agent": {
+      "id": "A14",
+      "name": "Agent 21",
+      "phone": "+59 559 803 4685",
+      "email": "agent56@iwrealty.com",
+      "photo": "/images/icons/png/antalya-investment-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": true,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-07-21T10:50:47.249Z",
+    "updatedAt": "2025-11-13T10:50:47.249Z",
+    "storeId": "store-006"
+  },
+  {
+    "id": "P06685",
+    "type": "sale",
+    "category": {
+      "main": "commercial",
+      "sub": "restaurant"
+    },
+    "title": "Satılık Restoran - New Panama",
+    "slug": "satilik-restoran-new-panama-P06685",
+    "description": "New Panama, Panama bölgesinde restoran. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 9780159,
+    "location": {
+      "country": "PA",
+      "city": "New Panama",
+      "district": "New Panama Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 428",
+      "coordinates": {
+        "lat": 9.462505864120457,
+        "lng": -79.62763056036565
+      }
+    },
+    "specs": {
+      "netSize": 717,
+      "grossSize": 860,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 5,
+      "floor": 4,
+      "totalFloors": 12,
+      "heating": "Merkezi",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500550013779?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500506135013?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500570623835?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500108692843?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500153856456?w=800&q=80&category=architecture"
+    ],
+    "agent": {
+      "id": "A30",
+      "name": "Agent 91",
+      "phone": "+83 275 998 8324",
+      "email": "agent74@iwrealty.com",
+      "photo": "/images/icons/png/paris-heritage-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-01-23T10:50:47.249Z",
+    "updatedAt": "2025-11-13T10:50:47.249Z",
+    "storeId": "store-010"
+  },
+  {
+    "id": "P06686",
+    "type": "rent",
+    "category": {
+      "main": "commercial",
+      "sub": "restaurant"
+    },
+    "title": "Kiralık Restoran - Panama City",
+    "slug": "kiralik-restoran-panama-city-P06686",
+    "description": "Panama City, Panama bölgesinde restoran. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 9312293,
+    "location": {
+      "country": "PA",
+      "city": "Panama City",
+      "district": "Panama City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 611",
+      "coordinates": {
+        "lat": 8.86942292294248,
+        "lng": -80.27492251812953
+      }
+    },
+    "specs": {
+      "netSize": 1019,
+      "grossSize": 1223,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 1,
+      "floor": 1,
+      "totalFloors": 11,
+      "heating": "Kombi",
+      "furnishing": "Furnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500966254813?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500663666286?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500147330781?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500575136999?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500867486135?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500066820451?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500525757370?w=800&q=80&category=real-estate"
+    ],
+    "agent": {
+      "id": "A54",
+      "name": "Agent 18",
+      "phone": "+34 651 901 1274",
+      "email": "agent36@iwrealty.com",
+      "photo": "/images/icons/png/antalya-investment-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-09-01T10:50:47.249Z",
+    "updatedAt": "2025-11-13T10:50:47.249Z",
+    "storeId": "store-006"
+  },
+  {
+    "id": "P06687",
+    "type": "sale",
+    "category": {
+      "main": "commercial",
+      "sub": "warehouse"
+    },
+    "title": "Satılık Depo - Panama Central",
+    "slug": "satilik-depo-panama-central-P06687",
+    "description": "Panama Central, Panama bölgesinde depo. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 23183942,
+    "location": {
+      "country": "PA",
+      "city": "Panama Central",
+      "district": "Panama Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 238",
+      "coordinates": {
+        "lat": 8.601261536646113,
+        "lng": -79.77638789243211
+      }
+    },
+    "specs": {
+      "netSize": 9432,
+      "grossSize": 11318,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 19,
+      "floor": 8,
+      "totalFloors": 17,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Unfurnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500751032808?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500604393901?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500681497762?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500516067151?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500284066229?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500230408777?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500741058754?w=800&q=80&category=architecture"
+    ],
+    "agent": {
+      "id": "A34",
+      "name": "Agent 4",
+      "phone": "+89 162 822 7468",
+      "email": "agent44@iwrealty.com",
+      "photo": "/images/icons/png/london-prime-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": true,
+      "hasPool": true,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-07-28T10:50:47.249Z",
+    "updatedAt": "2025-11-13T10:50:47.249Z",
+    "storeId": "store-007"
+  },
+  {
+    "id": "P06688",
+    "type": "rent",
+    "category": {
+      "main": "commercial",
+      "sub": "warehouse"
+    },
+    "title": "Kiralık Depo - New Panama",
+    "slug": "kiralik-depo-new-panama-P06688",
+    "description": "New Panama, Panama bölgesinde depo. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 7079578,
+    "location": {
+      "country": "PA",
+      "city": "New Panama",
+      "district": "New Panama Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 766",
+      "coordinates": {
+        "lat": 9.118368132609662,
+        "lng": -80.27520206472573
+      }
+    },
+    "specs": {
+      "netSize": 4280,
+      "grossSize": 5136,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 2,
+      "floor": 15,
+      "totalFloors": 9,
+      "heating": "Klima",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500048021452?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500956468969?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500570448059?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500987477136?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500108825808?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500672219850?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500307955092?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500298054834?w=800&q=80&category=architecture"
+    ],
+    "agent": {
+      "id": "A59",
+      "name": "Agent 96",
+      "phone": "+77 153 399 4145",
+      "email": "agent60@iwrealty.com",
+      "photo": "/images/icons/png/berlin-urban-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-06-17T10:50:47.249Z",
+    "updatedAt": "2025-11-13T10:50:47.249Z",
+    "storeId": "store-009"
+  }
+]

@@ -1,0 +1,2362 @@
+[
+  {
+    "id": "P03953",
+    "type": "sale",
+    "category": {
+      "main": "government"
+    },
+    "title": "Satılık Hastane - New Isle of Man",
+    "slug": "satilik-hastane-new-isle-of-man-P03953",
+    "description": "New Isle of Man, Isle of Man bölgesinde hastane. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 10984759,
+    "location": {
+      "country": "IM",
+      "city": "New Isle of Man",
+      "district": "New Isle of Man Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 707",
+      "coordinates": {
+        "lat": 53.865362268278815,
+        "lng": -4.697665605767361
+      }
+    },
+    "specs": {
+      "netSize": 4565,
+      "grossSize": 5478,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 1,
+      "floor": 15,
+      "totalFloors": 10,
+      "heating": "Merkezi",
+      "furnishing": "Furnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500246257282?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500631984375?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500661305535?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500586582380?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500091890922?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500808566686?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500077003098?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500326237217?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500898962687?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500176469390?w=800&q=80&category=house"
+    ],
+    "agent": {
+      "id": "A65",
+      "name": "Agent 94",
+      "phone": "+19 494 952 9006",
+      "email": "agent73@iwrealty.com",
+      "photo": "/images/icons/png/paris-heritage-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-07-17T10:50:47.220Z",
+    "updatedAt": "2025-11-13T10:50:47.220Z",
+    "storeId": "store-010"
+  },
+  {
+    "id": "P03954",
+    "type": "rent",
+    "category": {
+      "main": "government"
+    },
+    "title": "Kiralık Okul - Isle of Man Central",
+    "slug": "kiralik-okul-isle-of-man-central-P03954",
+    "description": "Isle of Man Central, Isle of Man bölgesinde okul. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 5722558,
+    "location": {
+      "country": "IM",
+      "city": "Isle of Man Central",
+      "district": "Isle of Man Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 58",
+      "coordinates": {
+        "lat": 53.9726832019906,
+        "lng": -4.685443908070932
+      }
+    },
+    "specs": {
+      "netSize": 2992,
+      "grossSize": 3590,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 13,
+      "floor": 11,
+      "totalFloors": 6,
+      "heating": "Kombi",
+      "furnishing": "Unfurnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500795605480?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500393429402?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500091549820?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500238162745?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500471400556?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500247806782?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500151498250?w=800&q=80&category=real-estate"
+    ],
+    "agent": {
+      "id": "A91",
+      "name": "Agent 65",
+      "phone": "+40 942 199 4409",
+      "email": "agent83@iwrealty.com",
+      "photo": "/images/icons/png/london-prime-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": false,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": true,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-07-19T10:50:47.220Z",
+    "updatedAt": "2025-11-13T10:50:47.220Z",
+    "storeId": "store-007"
+  },
+  {
+    "id": "P03955",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Villa - Douglas",
+    "slug": "satilik-villa-douglas-P03955",
+    "description": "Douglas, Isle of Man bölgesinde villa. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 8239796,
+    "location": {
+      "country": "IM",
+      "city": "Douglas",
+      "district": "Douglas Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 453",
+      "coordinates": {
+        "lat": 54.5081634104478,
+        "lng": -4.25968115622023
+      }
+    },
+    "specs": {
+      "netSize": 469,
+      "grossSize": 563,
+      "rooms": "4+0",
+      "bathrooms": 2,
+      "age": 20,
+      "floor": 4,
+      "totalFloors": 11,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Unfurnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500271971363?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500153363012?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500491806529?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500241570006?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500316218640?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500268775865?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500880969133?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500120360603?w=800&q=80&category=building"
+    ],
+    "agent": {
+      "id": "A65",
+      "name": "Agent 98",
+      "phone": "+11 634 862 4175",
+      "email": "agent6@iwrealty.com",
+      "photo": "/images/icons/png/sg-harbour-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-03-09T10:50:47.220Z",
+    "updatedAt": "2025-11-13T10:50:47.220Z",
+    "storeId": "store-011"
+  },
+  {
+    "id": "P03956",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Villa - New Isle of Man",
+    "slug": "kiralik-villa-new-isle-of-man-P03956",
+    "description": "New Isle of Man, Isle of Man bölgesinde villa. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 1125997,
+    "location": {
+      "country": "IM",
+      "city": "New Isle of Man",
+      "district": "New Isle of Man Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 977",
+      "coordinates": {
+        "lat": 54.52174487037647,
+        "lng": -4.026478437833789
+      }
+    },
+    "specs": {
+      "netSize": 499,
+      "grossSize": 599,
+      "rooms": "5+0",
+      "bathrooms": 4,
+      "age": 10,
+      "floor": 1,
+      "totalFloors": 5,
+      "heating": "Klima",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500180681325?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500726560585?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500137115994?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500256653893?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500693611473?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500015446394?w=800&q=80&category=real-estate"
+    ],
+    "agent": {
+      "id": "A63",
+      "name": "Agent 31",
+      "phone": "+39 640 983 6704",
+      "email": "agent59@iwrealty.com",
+      "photo": "/images/icons/png/izmir-sahil-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-01-11T10:50:47.220Z",
+    "updatedAt": "2025-11-13T10:50:47.220Z",
+    "storeId": "store-005"
+  },
+  {
+    "id": "P03957",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Residence - New Isle of Man",
+    "slug": "satilik-residence-new-isle-of-man-P03957",
+    "description": "New Isle of Man, Isle of Man bölgesinde residence. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 5839650,
+    "location": {
+      "country": "IM",
+      "city": "New Isle of Man",
+      "district": "New Isle of Man Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 241",
+      "coordinates": {
+        "lat": 53.86472421085975,
+        "lng": -4.098690410085552
+      }
+    },
+    "specs": {
+      "netSize": 155,
+      "grossSize": 186,
+      "rooms": "1+2",
+      "bathrooms": 4,
+      "age": 10,
+      "floor": 9,
+      "totalFloors": 5,
+      "heating": "Klima",
+      "furnishing": "Furnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500278252429?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500896372165?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500421507797?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500693216049?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500421678542?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500120680378?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500541097814?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500689105657?w=800&q=80&category=house"
+    ],
+    "agent": {
+      "id": "A100",
+      "name": "Agent 28",
+      "phone": "+98 563 331 8706",
+      "email": "agent42@iwrealty.com",
+      "photo": "/images/icons/png/luxury-homes-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2024-12-23T10:50:47.220Z",
+    "updatedAt": "2025-11-13T10:50:47.220Z",
+    "storeId": "store-002"
+  },
+  {
+    "id": "P03958",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Müstakil Ev - Isle of Man City",
+    "slug": "kiralik-müstakil-ev-isle-of-man-city-P03958",
+    "description": "Isle of Man City, Isle of Man bölgesinde müstakil ev. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 5637317,
+    "location": {
+      "country": "IM",
+      "city": "Isle of Man City",
+      "district": "Isle of Man City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 542",
+      "coordinates": {
+        "lat": 54.49835575694193,
+        "lng": -4.18232576686697
+      }
+    },
+    "specs": {
+      "netSize": 480,
+      "grossSize": 576,
+      "rooms": "2+1",
+      "bathrooms": 1,
+      "age": 11,
+      "floor": 6,
+      "totalFloors": 18,
+      "heating": "Kombi",
+      "furnishing": "Unfurnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500045183159?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500355307394?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500800688816?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500480145141?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500246653423?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500706520867?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500685487354?w=800&q=80&category=interior"
+    ],
+    "agent": {
+      "id": "A2",
+      "name": "Agent 29",
+      "phone": "+12 798 642 8397",
+      "email": "agent26@iwrealty.com",
+      "photo": "/images/icons/png/berlin-urban-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-10-25T10:50:47.220Z",
+    "updatedAt": "2025-11-13T10:50:47.220Z",
+    "storeId": "store-009"
+  },
+  {
+    "id": "P03959",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Müstakil Ev - Isle of Man City",
+    "slug": "satilik-müstakil-ev-isle-of-man-city-P03959",
+    "description": "Isle of Man City, Isle of Man bölgesinde müstakil ev. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 7062914,
+    "location": {
+      "country": "IM",
+      "city": "Isle of Man City",
+      "district": "Isle of Man City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 650",
+      "coordinates": {
+        "lat": 54.22013611609795,
+        "lng": -4.640891821313547
+      }
+    },
+    "specs": {
+      "netSize": 340,
+      "grossSize": 408,
+      "rooms": "5+0",
+      "bathrooms": 3,
+      "age": 5,
+      "floor": 5,
+      "totalFloors": 12,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Furnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500044922388?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500357040680?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500673367023?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500878276126?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500605478556?w=800&q=80&category=building"
+    ],
+    "agent": {
+      "id": "A79",
+      "name": "Agent 26",
+      "phone": "+81 857 288 1261",
+      "email": "agent98@iwrealty.com",
+      "photo": "/images/icons/png/ny-skyline-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": false,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-09-17T10:50:47.220Z",
+    "updatedAt": "2025-11-13T10:50:47.220Z",
+    "storeId": "store-008"
+  },
+  {
+    "id": "P03960",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Daire - Isle of Man Central",
+    "slug": "kiralik-daire-isle-of-man-central-P03960",
+    "description": "Isle of Man Central, Isle of Man bölgesinde daire. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 5110217,
+    "location": {
+      "country": "IM",
+      "city": "Isle of Man Central",
+      "district": "Isle of Man Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 87",
+      "coordinates": {
+        "lat": 53.9920906203192,
+        "lng": -4.057449705742122
+      }
+    },
+    "specs": {
+      "netSize": 180,
+      "grossSize": 216,
+      "rooms": "5+2",
+      "bathrooms": 4,
+      "age": 18,
+      "floor": 8,
+      "totalFloors": 15,
+      "heating": "Klima",
+      "furnishing": "Unfurnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500023211304?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500629744764?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500758015347?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500927803952?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500830527177?w=800&q=80&category=interior"
+    ],
+    "agent": {
+      "id": "A78",
+      "name": "Agent 98",
+      "phone": "+37 652 793 6589",
+      "email": "agent4@iwrealty.com",
+      "photo": "/images/icons/png/paris-heritage-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-09-22T10:50:47.220Z",
+    "updatedAt": "2025-11-13T10:50:47.220Z",
+    "storeId": "store-010"
+  },
+  {
+    "id": "P03961",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Villa - Isle of Man City",
+    "slug": "satilik-villa-isle-of-man-city-P03961",
+    "description": "Isle of Man City, Isle of Man bölgesinde villa. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 1926998,
+    "location": {
+      "country": "IM",
+      "city": "Isle of Man City",
+      "district": "Isle of Man City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 531",
+      "coordinates": {
+        "lat": 53.93928322905246,
+        "lng": -4.425917354882236
+      }
+    },
+    "specs": {
+      "netSize": 459,
+      "grossSize": 551,
+      "rooms": "1+1",
+      "bathrooms": 4,
+      "age": 11,
+      "floor": 9,
+      "totalFloors": 10,
+      "heating": "Merkezi",
+      "furnishing": "Furnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500783657770?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500245826297?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500281459524?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500220801377?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500248563032?w=800&q=80&category=house"
+    ],
+    "agent": {
+      "id": "A85",
+      "name": "Agent 66",
+      "phone": "+77 625 146 2310",
+      "email": "agent96@iwrealty.com",
+      "photo": "/images/icons/png/ankara-modern-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": true,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-09-29T10:50:47.220Z",
+    "updatedAt": "2025-11-13T10:50:47.220Z",
+    "storeId": "store-003"
+  },
+  {
+    "id": "P03962",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Villa - New Isle of Man",
+    "slug": "kiralik-villa-new-isle-of-man-P03962",
+    "description": "New Isle of Man, Isle of Man bölgesinde villa. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 10497702,
+    "location": {
+      "country": "IM",
+      "city": "New Isle of Man",
+      "district": "New Isle of Man Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 939",
+      "coordinates": {
+        "lat": 54.742534269690594,
+        "lng": -4.504114730142074
+      }
+    },
+    "specs": {
+      "netSize": 350,
+      "grossSize": 420,
+      "rooms": "2+2",
+      "bathrooms": 3,
+      "age": 18,
+      "floor": 10,
+      "totalFloors": 15,
+      "heating": "Kombi",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500834410189?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500541753910?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500940628653?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500436219740?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500082136432?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500678327520?w=800&q=80&category=architecture"
+    ],
+    "agent": {
+      "id": "A5",
+      "name": "Agent 71",
+      "phone": "+36 565 825 9552",
+      "email": "agent82@iwrealty.com",
+      "photo": "/images/icons/png/sg-harbour-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": false,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-09-22T10:50:47.220Z",
+    "updatedAt": "2025-11-13T10:50:47.220Z",
+    "storeId": "store-011"
+  },
+  {
+    "id": "P03963",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Müstakil Ev - New Isle of Man",
+    "slug": "satilik-müstakil-ev-new-isle-of-man-P03963",
+    "description": "New Isle of Man, Isle of Man bölgesinde müstakil ev. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 5953830,
+    "location": {
+      "country": "IM",
+      "city": "New Isle of Man",
+      "district": "New Isle of Man Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 235",
+      "coordinates": {
+        "lat": 54.17916035035619,
+        "lng": -4.544708979303795
+      }
+    },
+    "specs": {
+      "netSize": 499,
+      "grossSize": 599,
+      "rooms": "4+1",
+      "bathrooms": 2,
+      "age": 13,
+      "floor": 7,
+      "totalFloors": 9,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Furnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500215476649?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500395687034?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500942723220?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500888302035?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500211494664?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500201752051?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500613058198?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500758853016?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500384369317?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500461502088?w=800&q=80&category=house"
+    ],
+    "agent": {
+      "id": "A19",
+      "name": "Agent 95",
+      "phone": "+94 359 192 2720",
+      "email": "agent61@iwrealty.com",
+      "photo": "/images/icons/png/berlin-urban-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-02-23T10:50:47.220Z",
+    "updatedAt": "2025-11-13T10:50:47.220Z",
+    "storeId": "store-009"
+  },
+  {
+    "id": "P03964",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Daire - Isle of Man City",
+    "slug": "kiralik-daire-isle-of-man-city-P03964",
+    "description": "Isle of Man City, Isle of Man bölgesinde daire. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 4844978,
+    "location": {
+      "country": "IM",
+      "city": "Isle of Man City",
+      "district": "Isle of Man City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 313",
+      "coordinates": {
+        "lat": 54.50457091646671,
+        "lng": -4.993434557097725
+      }
+    },
+    "specs": {
+      "netSize": 155,
+      "grossSize": 186,
+      "rooms": "2+2",
+      "bathrooms": 1,
+      "age": 18,
+      "floor": 8,
+      "totalFloors": 11,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Unfurnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500110259004?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500544133235?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500317157309?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500461337048?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500799644436?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500128123896?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500392855875?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500657729300?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500885796280?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500751230663?w=800&q=80&category=interior"
+    ],
+    "agent": {
+      "id": "A13",
+      "name": "Agent 90",
+      "phone": "+58 404 241 9066",
+      "email": "agent15@iwrealty.com",
+      "photo": "/images/icons/png/berlin-urban-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-04-25T10:50:47.220Z",
+    "updatedAt": "2025-11-13T10:50:47.220Z",
+    "storeId": "store-009"
+  },
+  {
+    "id": "P03965",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Villa - New Isle of Man",
+    "slug": "satilik-villa-new-isle-of-man-P03965",
+    "description": "New Isle of Man, Isle of Man bölgesinde villa. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 9800314,
+    "location": {
+      "country": "IM",
+      "city": "New Isle of Man",
+      "district": "New Isle of Man Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 966",
+      "coordinates": {
+        "lat": 54.30646168272227,
+        "lng": -4.945407477364928
+      }
+    },
+    "specs": {
+      "netSize": 405,
+      "grossSize": 486,
+      "rooms": "2+2",
+      "bathrooms": 1,
+      "age": 3,
+      "floor": 10,
+      "totalFloors": 7,
+      "heating": "Merkezi",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500481891020?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500965291077?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500337046091?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500604066092?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500724480552?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500573511711?w=800&q=80&category=architecture"
+    ],
+    "agent": {
+      "id": "A11",
+      "name": "Agent 17",
+      "phone": "+13 485 658 5218",
+      "email": "agent81@iwrealty.com",
+      "photo": "/images/icons/png/ny-skyline-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": true,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-08-12T10:50:47.220Z",
+    "updatedAt": "2025-11-13T10:50:47.220Z",
+    "storeId": "store-008"
+  },
+  {
+    "id": "P03966",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Residence - Isle of Man City",
+    "slug": "kiralik-residence-isle-of-man-city-P03966",
+    "description": "Isle of Man City, Isle of Man bölgesinde residence. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 3247569,
+    "location": {
+      "country": "IM",
+      "city": "Isle of Man City",
+      "district": "Isle of Man City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 922",
+      "coordinates": {
+        "lat": 53.784287947830656,
+        "lng": -4.698062377742384
+      }
+    },
+    "specs": {
+      "netSize": 131,
+      "grossSize": 157,
+      "rooms": "5+1",
+      "bathrooms": 4,
+      "age": 16,
+      "floor": 15,
+      "totalFloors": 15,
+      "heating": "Merkezi",
+      "furnishing": "Unfurnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500253892094?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500356652431?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500051876096?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500227510748?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500556427760?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500841650886?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500844180191?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500872004313?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500731605634?w=800&q=80&category=architecture"
+    ],
+    "agent": {
+      "id": "A13",
+      "name": "Agent 99",
+      "phone": "+29 916 419 1567",
+      "email": "agent91@iwrealty.com",
+      "photo": "/images/icons/png/ny-skyline-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-09-09T10:50:47.220Z",
+    "updatedAt": "2025-11-13T10:50:47.220Z",
+    "storeId": "store-008"
+  },
+  {
+    "id": "P03967",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Daire - New Isle of Man",
+    "slug": "satilik-daire-new-isle-of-man-P03967",
+    "description": "New Isle of Man, Isle of Man bölgesinde daire. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 11536161,
+    "location": {
+      "country": "IM",
+      "city": "New Isle of Man",
+      "district": "New Isle of Man Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 342",
+      "coordinates": {
+        "lat": 53.9976865700346,
+        "lng": -4.303922536752495
+      }
+    },
+    "specs": {
+      "netSize": 276,
+      "grossSize": 331,
+      "rooms": "3+0",
+      "bathrooms": 2,
+      "age": 16,
+      "floor": 7,
+      "totalFloors": 6,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Unfurnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500133542180?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500285364330?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500339331682?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500894842085?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500903375449?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500549267467?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500388862926?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500208739722?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500877529047?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500361500388?w=800&q=80&category=interior"
+    ],
+    "agent": {
+      "id": "A41",
+      "name": "Agent 33",
+      "phone": "+16 656 491 6640",
+      "email": "agent74@iwrealty.com",
+      "photo": "/images/icons/png/london-prime-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-06-17T10:50:47.220Z",
+    "updatedAt": "2025-11-13T10:50:47.220Z",
+    "storeId": "store-007"
+  },
+  {
+    "id": "P03968",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Residence - Isle of Man Central",
+    "slug": "kiralik-residence-isle-of-man-central-P03968",
+    "description": "Isle of Man Central, Isle of Man bölgesinde residence. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 6370659,
+    "location": {
+      "country": "IM",
+      "city": "Isle of Man Central",
+      "district": "Isle of Man Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 688",
+      "coordinates": {
+        "lat": 54.11427542436543,
+        "lng": -4.670257144144321
+      }
+    },
+    "specs": {
+      "netSize": 303,
+      "grossSize": 364,
+      "rooms": "5+1",
+      "bathrooms": 4,
+      "age": 18,
+      "floor": 3,
+      "totalFloors": 5,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Furnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500805827789?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500975482521?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500547629181?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500368677827?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500344896563?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500075963318?w=800&q=80&category=real-estate"
+    ],
+    "agent": {
+      "id": "A71",
+      "name": "Agent 61",
+      "phone": "+95 329 107 6488",
+      "email": "agent67@iwrealty.com",
+      "photo": "/images/icons/png/luxury-homes-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": true,
+      "hasSecurity": true
+    },
+    "createdAt": "2024-11-19T10:50:47.220Z",
+    "updatedAt": "2025-11-13T10:50:47.220Z",
+    "storeId": "store-002"
+  },
+  {
+    "id": "P03969",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Residence - New Isle of Man",
+    "slug": "satilik-residence-new-isle-of-man-P03969",
+    "description": "New Isle of Man, Isle of Man bölgesinde residence. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 13998100,
+    "location": {
+      "country": "IM",
+      "city": "New Isle of Man",
+      "district": "New Isle of Man Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 883",
+      "coordinates": {
+        "lat": 53.81825791482672,
+        "lng": -4.491131834734657
+      }
+    },
+    "specs": {
+      "netSize": 127,
+      "grossSize": 152,
+      "rooms": "2+0",
+      "bathrooms": 2,
+      "age": 19,
+      "floor": 5,
+      "totalFloors": 12,
+      "heating": "Merkezi",
+      "furnishing": "Unfurnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500829108483?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500238961999?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500369198152?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500364218766?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500325703831?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500581467236?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500430630491?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500915361205?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500048206416?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500445617165?w=800&q=80&category=house"
+    ],
+    "agent": {
+      "id": "A58",
+      "name": "Agent 81",
+      "phone": "+52 974 722 7759",
+      "email": "agent93@iwrealty.com",
+      "photo": "/images/icons/png/berlin-urban-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": false,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": true,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-02-17T10:50:47.220Z",
+    "updatedAt": "2025-11-13T10:50:47.220Z",
+    "storeId": "store-009"
+  },
+  {
+    "id": "P03970",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Müstakil Ev - Douglas",
+    "slug": "kiralik-müstakil-ev-douglas-P03970",
+    "description": "Douglas, Isle of Man bölgesinde müstakil ev. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 2864124,
+    "location": {
+      "country": "IM",
+      "city": "Douglas",
+      "district": "Douglas Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 775",
+      "coordinates": {
+        "lat": 54.74587217715531,
+        "lng": -4.16851977138351
+      }
+    },
+    "specs": {
+      "netSize": 331,
+      "grossSize": 397,
+      "rooms": "1+2",
+      "bathrooms": 2,
+      "age": 20,
+      "floor": 12,
+      "totalFloors": 8,
+      "heating": "Klima",
+      "furnishing": "Unfurnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500009280533?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500397292800?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500374458933?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500109049373?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500956546303?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500574287586?w=800&q=80&category=real-estate"
+    ],
+    "agent": {
+      "id": "A16",
+      "name": "Agent 11",
+      "phone": "+45 818 538 6193",
+      "email": "agent6@iwrealty.com",
+      "photo": "/images/icons/png/berlin-urban-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-10-04T10:50:47.220Z",
+    "updatedAt": "2025-11-13T10:50:47.220Z",
+    "storeId": "store-009"
+  },
+  {
+    "id": "P03971",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Müstakil Ev - Douglas",
+    "slug": "satilik-müstakil-ev-douglas-P03971",
+    "description": "Douglas, Isle of Man bölgesinde müstakil ev. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 10854487,
+    "location": {
+      "country": "IM",
+      "city": "Douglas",
+      "district": "Douglas Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 61",
+      "coordinates": {
+        "lat": 54.44222516597355,
+        "lng": -4.179012423245066
+      }
+    },
+    "specs": {
+      "netSize": 328,
+      "grossSize": 394,
+      "rooms": "4+2",
+      "bathrooms": 2,
+      "age": 7,
+      "floor": 10,
+      "totalFloors": 15,
+      "heating": "Merkezi",
+      "furnishing": "Unfurnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500057564421?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500621934708?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500292773549?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500719161804?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500803526613?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500913432850?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500976758930?w=800&q=80&category=architecture"
+    ],
+    "agent": {
+      "id": "A2",
+      "name": "Agent 86",
+      "phone": "+86 940 674 1991",
+      "email": "agent83@iwrealty.com",
+      "photo": "/images/icons/png/london-prime-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-05-20T10:50:47.220Z",
+    "updatedAt": "2025-11-13T10:50:47.220Z",
+    "storeId": "store-007"
+  },
+  {
+    "id": "P03972",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Villa - Isle of Man Central",
+    "slug": "kiralik-villa-isle-of-man-central-P03972",
+    "description": "Isle of Man Central, Isle of Man bölgesinde villa. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 3185673,
+    "location": {
+      "country": "IM",
+      "city": "Isle of Man Central",
+      "district": "Isle of Man Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 451",
+      "coordinates": {
+        "lat": 54.67939176943688,
+        "lng": -4.67783769668256
+      }
+    },
+    "specs": {
+      "netSize": 491,
+      "grossSize": 589,
+      "rooms": "1+0",
+      "bathrooms": 2,
+      "age": 3,
+      "floor": 3,
+      "totalFloors": 12,
+      "heating": "Kombi",
+      "furnishing": "Furnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500435035774?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500955907286?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500626827788?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500429617798?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500388898299?w=800&q=80&category=interior"
+    ],
+    "agent": {
+      "id": "A48",
+      "name": "Agent 32",
+      "phone": "+46 101 605 2357",
+      "email": "agent95@iwrealty.com",
+      "photo": "/images/icons/png/ankara-modern-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": false,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-06-01T10:50:47.220Z",
+    "updatedAt": "2025-11-13T10:50:47.220Z",
+    "storeId": "store-003"
+  },
+  {
+    "id": "P03973",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Residence - Isle of Man Central",
+    "slug": "satilik-residence-isle-of-man-central-P03973",
+    "description": "Isle of Man Central, Isle of Man bölgesinde residence. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 2440679,
+    "location": {
+      "country": "IM",
+      "city": "Isle of Man Central",
+      "district": "Isle of Man Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 124",
+      "coordinates": {
+        "lat": 53.99081364858899,
+        "lng": -4.177307279620849
+      }
+    },
+    "specs": {
+      "netSize": 217,
+      "grossSize": 260,
+      "rooms": "4+2",
+      "bathrooms": 2,
+      "age": 8,
+      "floor": 11,
+      "totalFloors": 12,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Unfurnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500632004907?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500015189559?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500684114081?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500298963345?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500685588577?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500706941106?w=800&q=80&category=architecture"
+    ],
+    "agent": {
+      "id": "A43",
+      "name": "Agent 35",
+      "phone": "+96 107 263 5629",
+      "email": "agent50@iwrealty.com",
+      "photo": "/images/icons/png/sg-harbour-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-01-19T10:50:47.220Z",
+    "updatedAt": "2025-11-13T10:50:47.220Z",
+    "storeId": "store-011"
+  },
+  {
+    "id": "P03974",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Residence - New Isle of Man",
+    "slug": "kiralik-residence-new-isle-of-man-P03974",
+    "description": "New Isle of Man, Isle of Man bölgesinde residence. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 8945615,
+    "location": {
+      "country": "IM",
+      "city": "New Isle of Man",
+      "district": "New Isle of Man Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 984",
+      "coordinates": {
+        "lat": 54.32792765455532,
+        "lng": -4.731014567359002
+      }
+    },
+    "specs": {
+      "netSize": 311,
+      "grossSize": 373,
+      "rooms": "5+0",
+      "bathrooms": 4,
+      "age": 0,
+      "floor": 1,
+      "totalFloors": 14,
+      "heating": "Merkezi",
+      "furnishing": "Unfurnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500969398893?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500742723444?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500885767888?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500184520427?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500255445933?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500450774478?w=800&q=80&category=building"
+    ],
+    "agent": {
+      "id": "A11",
+      "name": "Agent 35",
+      "phone": "+43 739 426 3960",
+      "email": "agent84@iwrealty.com",
+      "photo": "/images/icons/png/london-prime-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": false,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-05-31T10:50:47.220Z",
+    "updatedAt": "2025-11-13T10:50:47.220Z",
+    "storeId": "store-007"
+  },
+  {
+    "id": "P03975",
+    "type": "sale",
+    "category": {
+      "main": "commercial",
+      "sub": "hospital"
+    },
+    "title": "Satılık Hastane - Isle of Man City",
+    "slug": "satilik-hastane-isle-of-man-city-P03975",
+    "description": "Isle of Man City, Isle of Man bölgesinde hastane. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 92252803,
+    "location": {
+      "country": "IM",
+      "city": "Isle of Man City",
+      "district": "Isle of Man City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 972",
+      "coordinates": {
+        "lat": 54.331684521396674,
+        "lng": -4.464433544748206
+      }
+    },
+    "specs": {
+      "netSize": 3187,
+      "grossSize": 3824,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 13,
+      "floor": 4,
+      "totalFloors": 18,
+      "heating": "Kombi",
+      "furnishing": "Unfurnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500255292826?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500774546599?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500632132125?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500059782010?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500888636081?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500342123908?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500955042357?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500070194479?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500762727425?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500469571613?w=800&q=80&category=house"
+    ],
+    "agent": {
+      "id": "A65",
+      "name": "Agent 52",
+      "phone": "+87 835 548 8969",
+      "email": "agent64@iwrealty.com",
+      "photo": "/images/icons/png/london-prime-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": true,
+      "hasPool": true,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-10-10T10:50:47.220Z",
+    "updatedAt": "2025-11-13T10:50:47.220Z",
+    "storeId": "store-007"
+  },
+  {
+    "id": "P03976",
+    "type": "rent",
+    "category": {
+      "main": "commercial",
+      "sub": "hospital"
+    },
+    "title": "Kiralık Hastane - Isle of Man Central",
+    "slug": "kiralik-hastane-isle-of-man-central-P03976",
+    "description": "Isle of Man Central, Isle of Man bölgesinde hastane. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 90054714,
+    "location": {
+      "country": "IM",
+      "city": "Isle of Man Central",
+      "district": "Isle of Man Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 860",
+      "coordinates": {
+        "lat": 54.16769098617315,
+        "lng": -4.33005765333963
+      }
+    },
+    "specs": {
+      "netSize": 10711,
+      "grossSize": 12853,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 18,
+      "floor": 15,
+      "totalFloors": 16,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500999101542?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500025795584?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500501219383?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500156760025?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500561720058?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500948854730?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500466618672?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500845277527?w=800&q=80&category=building"
+    ],
+    "agent": {
+      "id": "A83",
+      "name": "Agent 46",
+      "phone": "+99 652 492 8809",
+      "email": "agent68@iwrealty.com",
+      "photo": "/images/icons/png/berlin-urban-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": false,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": true,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-08-14T10:50:47.220Z",
+    "updatedAt": "2025-11-13T10:50:47.220Z",
+    "storeId": "store-009"
+  },
+  {
+    "id": "P03977",
+    "type": "sale",
+    "category": {
+      "main": "commercial",
+      "sub": "clinic"
+    },
+    "title": "Satılık Klinik - Isle of Man City",
+    "slug": "satilik-klinik-isle-of-man-city-P03977",
+    "description": "Isle of Man City, Isle of Man bölgesinde klinik. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 12434909,
+    "location": {
+      "country": "IM",
+      "city": "Isle of Man City",
+      "district": "Isle of Man City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 170",
+      "coordinates": {
+        "lat": 53.96277323828367,
+        "lng": -4.618521721941412
+      }
+    },
+    "specs": {
+      "netSize": 1859,
+      "grossSize": 2231,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 0,
+      "floor": 3,
+      "totalFloors": 19,
+      "heating": "Kombi",
+      "furnishing": "Unfurnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500183401268?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500968698951?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500790162002?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500121680133?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500369082969?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500408871785?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500815451379?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500672363692?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500853945549?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500929032714?w=800&q=80&category=real-estate"
+    ],
+    "agent": {
+      "id": "A98",
+      "name": "Agent 65",
+      "phone": "+34 870 798 3121",
+      "email": "agent78@iwrealty.com",
+      "photo": "/images/icons/png/izmir-sahil-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-01-21T10:50:47.220Z",
+    "updatedAt": "2025-11-13T10:50:47.220Z",
+    "storeId": "store-005"
+  },
+  {
+    "id": "P03978",
+    "type": "rent",
+    "category": {
+      "main": "commercial",
+      "sub": "clinic"
+    },
+    "title": "Kiralık Klinik - Isle of Man Central",
+    "slug": "kiralik-klinik-isle-of-man-central-P03978",
+    "description": "Isle of Man Central, Isle of Man bölgesinde klinik. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 9040793,
+    "location": {
+      "country": "IM",
+      "city": "Isle of Man Central",
+      "district": "Isle of Man Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 948",
+      "coordinates": {
+        "lat": 54.208936808966065,
+        "lng": -4.685834910269671
+      }
+    },
+    "specs": {
+      "netSize": 1873,
+      "grossSize": 2248,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 13,
+      "floor": 14,
+      "totalFloors": 6,
+      "heating": "Merkezi",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500305451476?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500559947240?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500507132927?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500362213546?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500429884856?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500105221267?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500491374540?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500336547854?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500869361982?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500996310573?w=800&q=80&category=building"
+    ],
+    "agent": {
+      "id": "A82",
+      "name": "Agent 52",
+      "phone": "+56 406 695 1299",
+      "email": "agent39@iwrealty.com",
+      "photo": "/images/icons/png/ny-skyline-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": false,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-02-11T10:50:47.220Z",
+    "updatedAt": "2025-11-13T10:50:47.220Z",
+    "storeId": "store-008"
+  },
+  {
+    "id": "P03979",
+    "type": "sale",
+    "category": {
+      "main": "commercial",
+      "sub": "shop"
+    },
+    "title": "Satılık Dükkan - Douglas",
+    "slug": "satilik-dükkan-douglas-P03979",
+    "description": "Douglas, Isle of Man bölgesinde dükkan. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 2644194,
+    "location": {
+      "country": "IM",
+      "city": "Douglas",
+      "district": "Douglas Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 242",
+      "coordinates": {
+        "lat": 54.67859327630828,
+        "lng": -4.667459618211931
+      }
+    },
+    "specs": {
+      "netSize": 192,
+      "grossSize": 230,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 8,
+      "floor": 6,
+      "totalFloors": 13,
+      "heating": "Merkezi",
+      "furnishing": "Unfurnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500967036367?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500421028822?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500887744953?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500127038472?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500264415738?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500432076467?w=800&q=80&category=real-estate"
+    ],
+    "agent": {
+      "id": "A83",
+      "name": "Agent 15",
+      "phone": "+49 518 730 3358",
+      "email": "agent35@iwrealty.com",
+      "photo": "/images/icons/png/paris-heritage-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-05-29T10:50:47.220Z",
+    "updatedAt": "2025-11-13T10:50:47.220Z",
+    "storeId": "store-010"
+  },
+  {
+    "id": "P03980",
+    "type": "rent",
+    "category": {
+      "main": "commercial",
+      "sub": "shop"
+    },
+    "title": "Kiralık Dükkan - Isle of Man Central",
+    "slug": "kiralik-dükkan-isle-of-man-central-P03980",
+    "description": "Isle of Man Central, Isle of Man bölgesinde dükkan. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 6644272,
+    "location": {
+      "country": "IM",
+      "city": "Isle of Man Central",
+      "district": "Isle of Man Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 858",
+      "coordinates": {
+        "lat": 53.82021191491036,
+        "lng": -4.090961562311097
+      }
+    },
+    "specs": {
+      "netSize": 453,
+      "grossSize": 544,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 2,
+      "floor": 4,
+      "totalFloors": 8,
+      "heating": "Klima",
+      "furnishing": "Furnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500980253100?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500029107493?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500379000154?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500145691446?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500334717416?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500427242173?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500103847572?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500246059144?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500575033630?w=800&q=80&category=real-estate"
+    ],
+    "agent": {
+      "id": "A28",
+      "name": "Agent 44",
+      "phone": "+84 296 692 1590",
+      "email": "agent15@iwrealty.com",
+      "photo": "/images/icons/png/london-prime-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": true,
+      "hasSecurity": true
+    },
+    "createdAt": "2024-12-21T10:50:47.220Z",
+    "updatedAt": "2025-11-13T10:50:47.220Z",
+    "storeId": "store-007"
+  },
+  {
+    "id": "P03981",
+    "type": "sale",
+    "category": {
+      "main": "commercial",
+      "sub": "office"
+    },
+    "title": "Satılık Ofis - Isle of Man Central",
+    "slug": "satilik-ofis-isle-of-man-central-P03981",
+    "description": "Isle of Man Central, Isle of Man bölgesinde ofis. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 7988743,
+    "location": {
+      "country": "IM",
+      "city": "Isle of Man Central",
+      "district": "Isle of Man Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 130",
+      "coordinates": {
+        "lat": 54.30982896492971,
+        "lng": -4.637644814288139
+      }
+    },
+    "specs": {
+      "netSize": 379,
+      "grossSize": 455,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 18,
+      "floor": 8,
+      "totalFloors": 15,
+      "heating": "Klima",
+      "furnishing": "Unfurnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500443749320?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500985911591?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500965804582?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500084303353?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500407203350?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500210012190?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500040674401?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500076830769?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500042619991?w=800&q=80&category=building"
+    ],
+    "agent": {
+      "id": "A25",
+      "name": "Agent 65",
+      "phone": "+25 494 689 3094",
+      "email": "agent66@iwrealty.com",
+      "photo": "/images/icons/png/sg-harbour-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": false,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2024-12-09T10:50:47.220Z",
+    "updatedAt": "2025-11-13T10:50:47.220Z",
+    "storeId": "store-011"
+  },
+  {
+    "id": "P03982",
+    "type": "rent",
+    "category": {
+      "main": "commercial",
+      "sub": "office"
+    },
+    "title": "Kiralık Ofis - Isle of Man City",
+    "slug": "kiralik-ofis-isle-of-man-city-P03982",
+    "description": "Isle of Man City, Isle of Man bölgesinde ofis. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 5848986,
+    "location": {
+      "country": "IM",
+      "city": "Isle of Man City",
+      "district": "Isle of Man City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 200",
+      "coordinates": {
+        "lat": 54.51441545943515,
+        "lng": -4.617152264777511
+      }
+    },
+    "specs": {
+      "netSize": 278,
+      "grossSize": 334,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 1,
+      "floor": 13,
+      "totalFloors": 10,
+      "heating": "Kombi",
+      "furnishing": "Unfurnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500728170099?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500195192341?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500882353317?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500144520025?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500629151342?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500820009980?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500500445758?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500307005821?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500715856143?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500985980957?w=800&q=80&category=interior"
+    ],
+    "agent": {
+      "id": "A66",
+      "name": "Agent 92",
+      "phone": "+61 298 717 5071",
+      "email": "agent92@iwrealty.com",
+      "photo": "/images/icons/png/luxury-homes-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": false,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-03-13T10:50:47.220Z",
+    "updatedAt": "2025-11-13T10:50:47.220Z",
+    "storeId": "store-002"
+  },
+  {
+    "id": "P03983",
+    "type": "sale",
+    "category": {
+      "main": "commercial",
+      "sub": "mall"
+    },
+    "title": "Satılık AVM - Isle of Man City",
+    "slug": "satilik-avm-isle-of-man-city-P03983",
+    "description": "Isle of Man City, Isle of Man bölgesinde avm. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 222728714,
+    "location": {
+      "country": "IM",
+      "city": "Isle of Man City",
+      "district": "Isle of Man City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 674",
+      "coordinates": {
+        "lat": 54.128709291536936,
+        "lng": -4.852197819624086
+      }
+    },
+    "specs": {
+      "netSize": 40220,
+      "grossSize": 48264,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 14,
+      "floor": 8,
+      "totalFloors": 6,
+      "heating": "Klima",
+      "furnishing": "Furnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500478091590?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500123000084?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500071100460?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500416109757?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500670410797?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500994419663?w=800&q=80&category=real-estate"
+    ],
+    "agent": {
+      "id": "A65",
+      "name": "Agent 3",
+      "phone": "+49 533 793 7066",
+      "email": "agent33@iwrealty.com",
+      "photo": "/images/icons/png/berlin-urban-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": true,
+      "hasPool": true,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-02-19T10:50:47.220Z",
+    "updatedAt": "2025-11-13T10:50:47.220Z",
+    "storeId": "store-009"
+  },
+  {
+    "id": "P03984",
+    "type": "rent",
+    "category": {
+      "main": "commercial",
+      "sub": "mall"
+    },
+    "title": "Kiralık AVM - Isle of Man City",
+    "slug": "kiralik-avm-isle-of-man-city-P03984",
+    "description": "Isle of Man City, Isle of Man bölgesinde avm. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 345857766,
+    "location": {
+      "country": "IM",
+      "city": "Isle of Man City",
+      "district": "Isle of Man City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 712",
+      "coordinates": {
+        "lat": 54.56715193148102,
+        "lng": -4.506114610977294
+      }
+    },
+    "specs": {
+      "netSize": 16902,
+      "grossSize": 20282,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 11,
+      "floor": 9,
+      "totalFloors": 12,
+      "heating": "Kombi",
+      "furnishing": "Furnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500539526205?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500889983706?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500710747429?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500304243950?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500125313753?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500944297973?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500391377306?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500024602974?w=800&q=80&category=house"
+    ],
+    "agent": {
+      "id": "A10",
+      "name": "Agent 78",
+      "phone": "+74 330 741 7631",
+      "email": "agent59@iwrealty.com",
+      "photo": "/images/icons/png/london-prime-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-04-14T10:50:47.220Z",
+    "updatedAt": "2025-11-13T10:50:47.220Z",
+    "storeId": "store-007"
+  },
+  {
+    "id": "P03985",
+    "type": "sale",
+    "category": {
+      "main": "commercial",
+      "sub": "hotel"
+    },
+    "title": "Satılık Otel - New Isle of Man",
+    "slug": "satilik-otel-new-isle-of-man-P03985",
+    "description": "New Isle of Man, Isle of Man bölgesinde otel. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 194340751,
+    "location": {
+      "country": "IM",
+      "city": "New Isle of Man",
+      "district": "New Isle of Man Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 645",
+      "coordinates": {
+        "lat": 54.38035701920186,
+        "lng": -4.6693868281074
+      }
+    },
+    "specs": {
+      "netSize": 22571,
+      "grossSize": 27085,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 9,
+      "floor": 7,
+      "totalFloors": 7,
+      "heating": "Merkezi",
+      "furnishing": "Furnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500196735514?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500141238905?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500650378510?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500349781088?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500326736017?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500536985485?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500528638570?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500690665235?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500013111958?w=800&q=80&category=interior"
+    ],
+    "agent": {
+      "id": "A73",
+      "name": "Agent 72",
+      "phone": "+20 559 304 7422",
+      "email": "agent3@iwrealty.com",
+      "photo": "/images/icons/png/ny-skyline-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": true,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-11-07T10:50:47.220Z",
+    "updatedAt": "2025-11-13T10:50:47.220Z",
+    "storeId": "store-008"
+  },
+  {
+    "id": "P03986",
+    "type": "rent",
+    "category": {
+      "main": "commercial",
+      "sub": "hotel"
+    },
+    "title": "Kiralık Otel - Isle of Man City",
+    "slug": "kiralik-otel-isle-of-man-city-P03986",
+    "description": "Isle of Man City, Isle of Man bölgesinde otel. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 169358544,
+    "location": {
+      "country": "IM",
+      "city": "Isle of Man City",
+      "district": "Isle of Man City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 997",
+      "coordinates": {
+        "lat": 54.45500459567079,
+        "lng": -4.02657674360947
+      }
+    },
+    "specs": {
+      "netSize": 11533,
+      "grossSize": 13840,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 20,
+      "floor": 9,
+      "totalFloors": 15,
+      "heating": "Merkezi",
+      "furnishing": "Furnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500868924215?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500017835249?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500891695516?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500430455614?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500065481949?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500766352171?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500152337975?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500842741081?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500557964359?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500446708766?w=800&q=80&category=house"
+    ],
+    "agent": {
+      "id": "A100",
+      "name": "Agent 31",
+      "phone": "+24 471 840 4669",
+      "email": "agent26@iwrealty.com",
+      "photo": "/images/icons/png/berlin-urban-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-08-23T10:50:47.220Z",
+    "updatedAt": "2025-11-13T10:50:47.220Z",
+    "storeId": "store-009"
+  },
+  {
+    "id": "P03987",
+    "type": "sale",
+    "category": {
+      "main": "commercial",
+      "sub": "restaurant"
+    },
+    "title": "Satılık Restoran - Douglas",
+    "slug": "satilik-restoran-douglas-P03987",
+    "description": "Douglas, Isle of Man bölgesinde restoran. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 8216135,
+    "location": {
+      "country": "IM",
+      "city": "Douglas",
+      "district": "Douglas Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 967",
+      "coordinates": {
+        "lat": 53.80948228576115,
+        "lng": -4.53605208568495
+      }
+    },
+    "specs": {
+      "netSize": 606,
+      "grossSize": 727,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 8,
+      "floor": 13,
+      "totalFloors": 8,
+      "heating": "Merkezi",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500331230659?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500816878904?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500853638752?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500374157457?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500325960014?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500999799586?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500954710229?w=800&q=80&category=real-estate"
+    ],
+    "agent": {
+      "id": "A68",
+      "name": "Agent 99",
+      "phone": "+90 991 735 5057",
+      "email": "agent21@iwrealty.com",
+      "photo": "/images/icons/png/sg-harbour-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": false,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": true,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-02-21T10:50:47.220Z",
+    "updatedAt": "2025-11-13T10:50:47.220Z",
+    "storeId": "store-011"
+  },
+  {
+    "id": "P03988",
+    "type": "rent",
+    "category": {
+      "main": "commercial",
+      "sub": "restaurant"
+    },
+    "title": "Kiralık Restoran - Isle of Man Central",
+    "slug": "kiralik-restoran-isle-of-man-central-P03988",
+    "description": "Isle of Man Central, Isle of Man bölgesinde restoran. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 9794084,
+    "location": {
+      "country": "IM",
+      "city": "Isle of Man Central",
+      "district": "Isle of Man Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 930",
+      "coordinates": {
+        "lat": 53.932054743067795,
+        "lng": -4.657127804053818
+      }
+    },
+    "specs": {
+      "netSize": 210,
+      "grossSize": 252,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 18,
+      "floor": 7,
+      "totalFloors": 16,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Furnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500565266254?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500507877975?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500675794683?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500121156296?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500492391703?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500886792570?w=800&q=80&category=architecture"
+    ],
+    "agent": {
+      "id": "A64",
+      "name": "Agent 46",
+      "phone": "+22 535 268 2167",
+      "email": "agent95@iwrealty.com",
+      "photo": "/images/icons/png/izmir-sahil-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": true,
+      "hasPool": true,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-09-16T10:50:47.220Z",
+    "updatedAt": "2025-11-13T10:50:47.220Z",
+    "storeId": "store-005"
+  },
+  {
+    "id": "P03989",
+    "type": "sale",
+    "category": {
+      "main": "commercial",
+      "sub": "warehouse"
+    },
+    "title": "Satılık Depo - New Isle of Man",
+    "slug": "satilik-depo-new-isle-of-man-P03989",
+    "description": "New Isle of Man, Isle of Man bölgesinde depo. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 21575739,
+    "location": {
+      "country": "IM",
+      "city": "New Isle of Man",
+      "district": "New Isle of Man Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 199",
+      "coordinates": {
+        "lat": 54.55485841302573,
+        "lng": -4.366953174229298
+      }
+    },
+    "specs": {
+      "netSize": 7877,
+      "grossSize": 9452,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 5,
+      "floor": 6,
+      "totalFloors": 6,
+      "heating": "Merkezi",
+      "furnishing": "Furnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500126856681?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500563332625?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500014034720?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500302431085?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500373396773?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500183422908?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500437332974?w=800&q=80&category=building"
+    ],
+    "agent": {
+      "id": "A16",
+      "name": "Agent 37",
+      "phone": "+87 371 551 1510",
+      "email": "agent18@iwrealty.com",
+      "photo": "/images/icons/png/ankara-modern-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-03-16T10:50:47.220Z",
+    "updatedAt": "2025-11-13T10:50:47.220Z",
+    "storeId": "store-003"
+  },
+  {
+    "id": "P03990",
+    "type": "rent",
+    "category": {
+      "main": "commercial",
+      "sub": "warehouse"
+    },
+    "title": "Kiralık Depo - Isle of Man City",
+    "slug": "kiralik-depo-isle-of-man-city-P03990",
+    "description": "Isle of Man City, Isle of Man bölgesinde depo. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 29414979,
+    "location": {
+      "country": "IM",
+      "city": "Isle of Man City",
+      "district": "Isle of Man City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 442",
+      "coordinates": {
+        "lat": 54.359396656515585,
+        "lng": -4.550468786439386
+      }
+    },
+    "specs": {
+      "netSize": 8125,
+      "grossSize": 9750,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 1,
+      "floor": 1,
+      "totalFloors": 15,
+      "heating": "Klima",
+      "furnishing": "Unfurnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500092272893?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500965418399?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500356810491?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500919174808?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500085087068?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500557535245?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500025633789?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500580919450?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500349687854?w=800&q=80&category=architecture"
+    ],
+    "agent": {
+      "id": "A75",
+      "name": "Agent 74",
+      "phone": "+17 723 216 6110",
+      "email": "agent34@iwrealty.com",
+      "photo": "/images/icons/png/sydney-coastal-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-10-29T10:50:47.220Z",
+    "updatedAt": "2025-11-13T10:50:47.220Z",
+    "storeId": "store-012"
+  }
+]

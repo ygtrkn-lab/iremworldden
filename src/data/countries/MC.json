@@ -1,0 +1,2351 @@
+[
+  {
+    "id": "P05321",
+    "type": "sale",
+    "category": {
+      "main": "government"
+    },
+    "title": "Satılık Belediye Binası - New Monaco",
+    "slug": "satilik-belediye-binası-new-monaco-P05321",
+    "description": "New Monaco, Monaco bölgesinde belediye binası. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 21119546,
+    "location": {
+      "country": "MC",
+      "city": "New Monaco",
+      "district": "New Monaco Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 342",
+      "coordinates": {
+        "lat": 43.34628129320834,
+        "lng": 7.890553568218427
+      }
+    },
+    "specs": {
+      "netSize": 2597,
+      "grossSize": 3116,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 6,
+      "floor": 1,
+      "totalFloors": 18,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Unfurnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500790929069?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500099647644?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500872297743?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500205415086?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500950791426?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500224474296?w=800&q=80&category=real-estate"
+    ],
+    "agent": {
+      "id": "A65",
+      "name": "Agent 93",
+      "phone": "+81 684 572 2942",
+      "email": "agent8@iwrealty.com",
+      "photo": "/images/icons/png/london-prime-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": true,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-06-10T10:50:47.236Z",
+    "updatedAt": "2025-11-13T10:50:47.236Z",
+    "storeId": "store-007"
+  },
+  {
+    "id": "P05322",
+    "type": "rent",
+    "category": {
+      "main": "government"
+    },
+    "title": "Kiralık Belediye Binası - New Monaco",
+    "slug": "kiralik-belediye-binası-new-monaco-P05322",
+    "description": "New Monaco, Monaco bölgesinde belediye binası. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 25572850,
+    "location": {
+      "country": "MC",
+      "city": "New Monaco",
+      "district": "New Monaco Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 611",
+      "coordinates": {
+        "lat": 43.89177633159467,
+        "lng": 7.2644653648736925
+      }
+    },
+    "specs": {
+      "netSize": 4554,
+      "grossSize": 5465,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 9,
+      "floor": 10,
+      "totalFloors": 5,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Furnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500603323920?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500601020526?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500107692477?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500766399757?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500372442776?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500423790996?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500237360601?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500437346415?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500682046313?w=800&q=80&category=house"
+    ],
+    "agent": {
+      "id": "A80",
+      "name": "Agent 100",
+      "phone": "+61 344 181 4369",
+      "email": "agent73@iwrealty.com",
+      "photo": "/images/icons/png/paris-heritage-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": false,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": true,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-01-24T10:50:47.236Z",
+    "updatedAt": "2025-11-13T10:50:47.236Z",
+    "storeId": "store-010"
+  },
+  {
+    "id": "P05323",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Villa - New Monaco",
+    "slug": "satilik-villa-new-monaco-P05323",
+    "description": "New Monaco, Monaco bölgesinde villa. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 13621631,
+    "location": {
+      "country": "MC",
+      "city": "New Monaco",
+      "district": "New Monaco Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 202",
+      "coordinates": {
+        "lat": 43.52699317251961,
+        "lng": 7.592395938109679
+      }
+    },
+    "specs": {
+      "netSize": 450,
+      "grossSize": 540,
+      "rooms": "2+0",
+      "bathrooms": 4,
+      "age": 8,
+      "floor": 10,
+      "totalFloors": 7,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500179930275?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500874992709?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500343183522?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500361754166?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500112001701?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500091700315?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500862453551?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500810911012?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500799118495?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500594607303?w=800&q=80&category=interior"
+    ],
+    "agent": {
+      "id": "A86",
+      "name": "Agent 67",
+      "phone": "+35 765 192 3315",
+      "email": "agent54@iwrealty.com",
+      "photo": "/images/icons/png/berlin-urban-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-08-01T10:50:47.236Z",
+    "updatedAt": "2025-11-13T10:50:47.236Z",
+    "storeId": "store-009"
+  },
+  {
+    "id": "P05324",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Villa - New Monaco",
+    "slug": "kiralik-villa-new-monaco-P05324",
+    "description": "New Monaco, Monaco bölgesinde villa. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 6482148,
+    "location": {
+      "country": "MC",
+      "city": "New Monaco",
+      "district": "New Monaco Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 706",
+      "coordinates": {
+        "lat": 43.452385257662094,
+        "lng": 7.184902677764844
+      }
+    },
+    "specs": {
+      "netSize": 318,
+      "grossSize": 382,
+      "rooms": "3+2",
+      "bathrooms": 3,
+      "age": 10,
+      "floor": 3,
+      "totalFloors": 19,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500418500512?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500497144925?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500620376515?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500995826450?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500583811226?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500058392090?w=800&q=80&category=real-estate"
+    ],
+    "agent": {
+      "id": "A60",
+      "name": "Agent 99",
+      "phone": "+47 110 353 7195",
+      "email": "agent27@iwrealty.com",
+      "photo": "/images/icons/png/izmir-sahil-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2024-11-29T10:50:47.236Z",
+    "updatedAt": "2025-11-13T10:50:47.236Z",
+    "storeId": "store-005"
+  },
+  {
+    "id": "P05325",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Müstakil Ev - Monaco City",
+    "slug": "satilik-müstakil-ev-monaco-city-P05325",
+    "description": "Monaco City, Monaco bölgesinde müstakil ev. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 8581983,
+    "location": {
+      "country": "MC",
+      "city": "Monaco City",
+      "district": "Monaco City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 628",
+      "coordinates": {
+        "lat": 43.322588386850825,
+        "lng": 7.365919773502218
+      }
+    },
+    "specs": {
+      "netSize": 171,
+      "grossSize": 205,
+      "rooms": "4+0",
+      "bathrooms": 1,
+      "age": 3,
+      "floor": 8,
+      "totalFloors": 15,
+      "heating": "Klima",
+      "furnishing": "Unfurnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500357049389?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500056089222?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500940307678?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500676872164?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500227452043?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500791583577?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500693850759?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500964992768?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500570536060?w=800&q=80&category=real-estate"
+    ],
+    "agent": {
+      "id": "A99",
+      "name": "Agent 78",
+      "phone": "+92 586 401 2051",
+      "email": "agent34@iwrealty.com",
+      "photo": "/images/icons/png/berlin-urban-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": false,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": true,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-09-16T10:50:47.236Z",
+    "updatedAt": "2025-11-13T10:50:47.236Z",
+    "storeId": "store-009"
+  },
+  {
+    "id": "P05326",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Müstakil Ev - New Monaco",
+    "slug": "kiralik-müstakil-ev-new-monaco-P05326",
+    "description": "New Monaco, Monaco bölgesinde müstakil ev. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 1805263,
+    "location": {
+      "country": "MC",
+      "city": "New Monaco",
+      "district": "New Monaco Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 148",
+      "coordinates": {
+        "lat": 43.68479793236077,
+        "lng": 7.427360202370346
+      }
+    },
+    "specs": {
+      "netSize": 487,
+      "grossSize": 584,
+      "rooms": "5+0",
+      "bathrooms": 4,
+      "age": 7,
+      "floor": 6,
+      "totalFloors": 14,
+      "heating": "Klima",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500397111753?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500541807293?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500131749109?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500058812659?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500699174596?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500865040166?w=800&q=80&category=house"
+    ],
+    "agent": {
+      "id": "A99",
+      "name": "Agent 57",
+      "phone": "+64 190 599 1751",
+      "email": "agent41@iwrealty.com",
+      "photo": "/images/icons/png/luxury-homes-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-04-20T10:50:47.236Z",
+    "updatedAt": "2025-11-13T10:50:47.236Z",
+    "storeId": "store-002"
+  },
+  {
+    "id": "P05327",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Villa - Monaco Central",
+    "slug": "satilik-villa-monaco-central-P05327",
+    "description": "Monaco Central, Monaco bölgesinde villa. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 12342006,
+    "location": {
+      "country": "MC",
+      "city": "Monaco Central",
+      "district": "Monaco Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 753",
+      "coordinates": {
+        "lat": 43.50379862847045,
+        "lng": 7.584488313260589
+      }
+    },
+    "specs": {
+      "netSize": 412,
+      "grossSize": 494,
+      "rooms": "4+0",
+      "bathrooms": 3,
+      "age": 14,
+      "floor": 4,
+      "totalFloors": 6,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Unfurnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500345504648?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500254071815?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500604160172?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500517085089?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500991714294?w=800&q=80&category=real-estate"
+    ],
+    "agent": {
+      "id": "A9",
+      "name": "Agent 91",
+      "phone": "+62 381 352 1416",
+      "email": "agent69@iwrealty.com",
+      "photo": "/images/icons/png/london-prime-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": false,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": true,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-05-23T10:50:47.236Z",
+    "updatedAt": "2025-11-13T10:50:47.236Z",
+    "storeId": "store-007"
+  },
+  {
+    "id": "P05328",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Müstakil Ev - New Monaco",
+    "slug": "kiralik-müstakil-ev-new-monaco-P05328",
+    "description": "New Monaco, Monaco bölgesinde müstakil ev. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 5099517,
+    "location": {
+      "country": "MC",
+      "city": "New Monaco",
+      "district": "New Monaco Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 926",
+      "coordinates": {
+        "lat": 43.952453033662835,
+        "lng": 6.925820864005743
+      }
+    },
+    "specs": {
+      "netSize": 352,
+      "grossSize": 422,
+      "rooms": "2+2",
+      "bathrooms": 4,
+      "age": 5,
+      "floor": 9,
+      "totalFloors": 11,
+      "heating": "Merkezi",
+      "furnishing": "Furnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500302649266?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500347530041?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500930584727?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500495552882?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500391483740?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500559391615?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500552768887?w=800&q=80&category=interior"
+    ],
+    "agent": {
+      "id": "A59",
+      "name": "Agent 43",
+      "phone": "+36 196 623 5189",
+      "email": "agent11@iwrealty.com",
+      "photo": "/images/icons/png/paris-heritage-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": true,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-04-16T10:50:47.236Z",
+    "updatedAt": "2025-11-13T10:50:47.236Z",
+    "storeId": "store-010"
+  },
+  {
+    "id": "P05329",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Daire - New Monaco",
+    "slug": "satilik-daire-new-monaco-P05329",
+    "description": "New Monaco, Monaco bölgesinde daire. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 1315980,
+    "location": {
+      "country": "MC",
+      "city": "New Monaco",
+      "district": "New Monaco Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 895",
+      "coordinates": {
+        "lat": 43.94763322803983,
+        "lng": 7.717178253822514
+      }
+    },
+    "specs": {
+      "netSize": 261,
+      "grossSize": 313,
+      "rooms": "1+0",
+      "bathrooms": 4,
+      "age": 1,
+      "floor": 15,
+      "totalFloors": 11,
+      "heating": "Kombi",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500881619918?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500438360587?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500492834993?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500545730257?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500486128065?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500889708077?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500237815205?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500658182405?w=800&q=80&category=house"
+    ],
+    "agent": {
+      "id": "A58",
+      "name": "Agent 55",
+      "phone": "+84 299 412 2280",
+      "email": "agent64@iwrealty.com",
+      "photo": "/images/icons/png/paris-heritage-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": false,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-10-30T10:50:47.236Z",
+    "updatedAt": "2025-11-13T10:50:47.236Z",
+    "storeId": "store-010"
+  },
+  {
+    "id": "P05330",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Residence - Monaco Central",
+    "slug": "kiralik-residence-monaco-central-P05330",
+    "description": "Monaco Central, Monaco bölgesinde residence. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 3770127,
+    "location": {
+      "country": "MC",
+      "city": "Monaco Central",
+      "district": "Monaco Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 664",
+      "coordinates": {
+        "lat": 43.432078125241496,
+        "lng": 7.772840618324649
+      }
+    },
+    "specs": {
+      "netSize": 143,
+      "grossSize": 172,
+      "rooms": "5+0",
+      "bathrooms": 1,
+      "age": 6,
+      "floor": 15,
+      "totalFloors": 10,
+      "heating": "Kombi",
+      "furnishing": "Furnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500866216018?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500236274336?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500680953003?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500907323748?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500646292962?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500760318245?w=800&q=80&category=building"
+    ],
+    "agent": {
+      "id": "A31",
+      "name": "Agent 3",
+      "phone": "+16 139 956 4362",
+      "email": "agent77@iwrealty.com",
+      "photo": "/images/icons/png/berlin-urban-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-05-12T10:50:47.236Z",
+    "updatedAt": "2025-11-13T10:50:47.236Z",
+    "storeId": "store-009"
+  },
+  {
+    "id": "P05331",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Residence - Monaco City",
+    "slug": "satilik-residence-monaco-city-P05331",
+    "description": "Monaco City, Monaco bölgesinde residence. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 7197736,
+    "location": {
+      "country": "MC",
+      "city": "Monaco City",
+      "district": "Monaco City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 255",
+      "coordinates": {
+        "lat": 43.42943636300758,
+        "lng": 7.340975367282522
+      }
+    },
+    "specs": {
+      "netSize": 179,
+      "grossSize": 215,
+      "rooms": "2+1",
+      "bathrooms": 4,
+      "age": 16,
+      "floor": 4,
+      "totalFloors": 19,
+      "heating": "Kombi",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500132971607?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500103135005?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500676027265?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500562544332?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500549088719?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500028944381?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500825948816?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500890437552?w=800&q=80&category=interior"
+    ],
+    "agent": {
+      "id": "A62",
+      "name": "Agent 8",
+      "phone": "+93 353 218 1779",
+      "email": "agent42@iwrealty.com",
+      "photo": "/images/icons/png/berlin-urban-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": true,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-02-06T10:50:47.236Z",
+    "updatedAt": "2025-11-13T10:50:47.236Z",
+    "storeId": "store-009"
+  },
+  {
+    "id": "P05332",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Villa - Monaco",
+    "slug": "kiralik-villa-monaco-P05332",
+    "description": "Monaco, Monaco bölgesinde villa. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 752928,
+    "location": {
+      "country": "MC",
+      "city": "Monaco",
+      "district": "Monaco Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 960",
+      "coordinates": {
+        "lat": 43.390569392065764,
+        "lng": 7.535792385142771
+      }
+    },
+    "specs": {
+      "netSize": 336,
+      "grossSize": 403,
+      "rooms": "5+2",
+      "bathrooms": 2,
+      "age": 12,
+      "floor": 5,
+      "totalFloors": 14,
+      "heating": "Klima",
+      "furnishing": "Unfurnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500369562985?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500916738274?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500824583187?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500628437573?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500027805291?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500158393215?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500737455425?w=800&q=80&category=real-estate"
+    ],
+    "agent": {
+      "id": "A51",
+      "name": "Agent 19",
+      "phone": "+14 953 439 8371",
+      "email": "agent35@iwrealty.com",
+      "photo": "/images/icons/png/berlin-urban-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": true,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-02-20T10:50:47.236Z",
+    "updatedAt": "2025-11-13T10:50:47.236Z",
+    "storeId": "store-009"
+  },
+  {
+    "id": "P05333",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Residence - Monaco",
+    "slug": "satilik-residence-monaco-P05333",
+    "description": "Monaco, Monaco bölgesinde residence. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 3496262,
+    "location": {
+      "country": "MC",
+      "city": "Monaco",
+      "district": "Monaco Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 84",
+      "coordinates": {
+        "lat": 43.69828426132027,
+        "lng": 7.2982815775232766
+      }
+    },
+    "specs": {
+      "netSize": 412,
+      "grossSize": 494,
+      "rooms": "4+0",
+      "bathrooms": 4,
+      "age": 14,
+      "floor": 7,
+      "totalFloors": 6,
+      "heating": "Kombi",
+      "furnishing": "Furnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500426724016?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500216485516?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500132096447?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500941444032?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500393777834?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500322208997?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500254786800?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500027175601?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500697590646?w=800&q=80&category=house"
+    ],
+    "agent": {
+      "id": "A40",
+      "name": "Agent 88",
+      "phone": "+34 233 300 4351",
+      "email": "agent87@iwrealty.com",
+      "photo": "/images/icons/png/dubai-property-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": false,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": true,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-01-31T10:50:47.236Z",
+    "updatedAt": "2025-11-13T10:50:47.236Z",
+    "storeId": "store-004"
+  },
+  {
+    "id": "P05334",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Villa - New Monaco",
+    "slug": "kiralik-villa-new-monaco-P05334",
+    "description": "New Monaco, Monaco bölgesinde villa. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 5944541,
+    "location": {
+      "country": "MC",
+      "city": "New Monaco",
+      "district": "New Monaco Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 537",
+      "coordinates": {
+        "lat": 43.78184898879583,
+        "lng": 7.45319002011291
+      }
+    },
+    "specs": {
+      "netSize": 178,
+      "grossSize": 214,
+      "rooms": "4+2",
+      "bathrooms": 4,
+      "age": 12,
+      "floor": 5,
+      "totalFloors": 20,
+      "heating": "Kombi",
+      "furnishing": "Furnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500534482891?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500496100265?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500230706451?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500240672298?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500955282232?w=800&q=80&category=building"
+    ],
+    "agent": {
+      "id": "A20",
+      "name": "Agent 55",
+      "phone": "+75 237 103 4773",
+      "email": "agent57@iwrealty.com",
+      "photo": "/images/icons/png/luxury-homes-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-11-08T10:50:47.236Z",
+    "updatedAt": "2025-11-13T10:50:47.236Z",
+    "storeId": "store-002"
+  },
+  {
+    "id": "P05335",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Müstakil Ev - Monaco City",
+    "slug": "satilik-müstakil-ev-monaco-city-P05335",
+    "description": "Monaco City, Monaco bölgesinde müstakil ev. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 5442903,
+    "location": {
+      "country": "MC",
+      "city": "Monaco City",
+      "district": "Monaco City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 329",
+      "coordinates": {
+        "lat": 43.39321413557672,
+        "lng": 7.602631534546499
+      }
+    },
+    "specs": {
+      "netSize": 119,
+      "grossSize": 143,
+      "rooms": "3+1",
+      "bathrooms": 4,
+      "age": 9,
+      "floor": 5,
+      "totalFloors": 15,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500522252312?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500805011412?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500284954374?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500779609596?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500909826760?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500086345961?w=800&q=80&category=architecture"
+    ],
+    "agent": {
+      "id": "A50",
+      "name": "Agent 83",
+      "phone": "+31 423 391 8125",
+      "email": "agent14@iwrealty.com",
+      "photo": "/images/icons/png/dubai-property-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-08-28T10:50:47.236Z",
+    "updatedAt": "2025-11-13T10:50:47.236Z",
+    "storeId": "store-004"
+  },
+  {
+    "id": "P05336",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Daire - Monaco City",
+    "slug": "kiralik-daire-monaco-city-P05336",
+    "description": "Monaco City, Monaco bölgesinde daire. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 5688506,
+    "location": {
+      "country": "MC",
+      "city": "Monaco City",
+      "district": "Monaco City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 489",
+      "coordinates": {
+        "lat": 43.926574701326686,
+        "lng": 7.37366133323837
+      }
+    },
+    "specs": {
+      "netSize": 487,
+      "grossSize": 584,
+      "rooms": "1+0",
+      "bathrooms": 4,
+      "age": 5,
+      "floor": 13,
+      "totalFloors": 19,
+      "heating": "Merkezi",
+      "furnishing": "Unfurnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500157317492?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500118788258?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500733222760?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500023628918?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500191080935?w=800&q=80&category=building"
+    ],
+    "agent": {
+      "id": "A90",
+      "name": "Agent 81",
+      "phone": "+29 574 884 8779",
+      "email": "agent67@iwrealty.com",
+      "photo": "/images/icons/png/ankara-modern-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-06-26T10:50:47.236Z",
+    "updatedAt": "2025-11-13T10:50:47.236Z",
+    "storeId": "store-003"
+  },
+  {
+    "id": "P05337",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Residence - Monaco City",
+    "slug": "satilik-residence-monaco-city-P05337",
+    "description": "Monaco City, Monaco bölgesinde residence. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 7313374,
+    "location": {
+      "country": "MC",
+      "city": "Monaco City",
+      "district": "Monaco City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 405",
+      "coordinates": {
+        "lat": 43.23961389434704,
+        "lng": 7.4888556091992475
+      }
+    },
+    "specs": {
+      "netSize": 199,
+      "grossSize": 239,
+      "rooms": "3+0",
+      "bathrooms": 3,
+      "age": 8,
+      "floor": 2,
+      "totalFloors": 9,
+      "heating": "Merkezi",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500773622950?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500108736455?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500470515223?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500176489679?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500128867649?w=800&q=80&category=real-estate"
+    ],
+    "agent": {
+      "id": "A10",
+      "name": "Agent 83",
+      "phone": "+50 884 758 5312",
+      "email": "agent39@iwrealty.com",
+      "photo": "/images/icons/png/berlin-urban-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": true,
+      "hasSecurity": true
+    },
+    "createdAt": "2024-12-09T10:50:47.236Z",
+    "updatedAt": "2025-11-13T10:50:47.236Z",
+    "storeId": "store-009"
+  },
+  {
+    "id": "P05338",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Daire - Monaco",
+    "slug": "kiralik-daire-monaco-P05338",
+    "description": "Monaco, Monaco bölgesinde daire. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 8746406,
+    "location": {
+      "country": "MC",
+      "city": "Monaco",
+      "district": "Monaco Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 962",
+      "coordinates": {
+        "lat": 43.256355410082215,
+        "lng": 7.132654645392456
+      }
+    },
+    "specs": {
+      "netSize": 344,
+      "grossSize": 413,
+      "rooms": "1+0",
+      "bathrooms": 1,
+      "age": 0,
+      "floor": 11,
+      "totalFloors": 18,
+      "heating": "Kombi",
+      "furnishing": "Unfurnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500346901405?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500127730319?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500410257243?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500326007743?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500456217430?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500565730389?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500230041111?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500868925828?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500117056650?w=800&q=80&category=real-estate"
+    ],
+    "agent": {
+      "id": "A48",
+      "name": "Agent 16",
+      "phone": "+43 311 182 5193",
+      "email": "agent27@iwrealty.com",
+      "photo": "/images/icons/png/antalya-investment-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-07-16T10:50:47.236Z",
+    "updatedAt": "2025-11-13T10:50:47.236Z",
+    "storeId": "store-006"
+  },
+  {
+    "id": "P05339",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Müstakil Ev - Monaco",
+    "slug": "satilik-müstakil-ev-monaco-P05339",
+    "description": "Monaco, Monaco bölgesinde müstakil ev. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 5132851,
+    "location": {
+      "country": "MC",
+      "city": "Monaco",
+      "district": "Monaco Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 811",
+      "coordinates": {
+        "lat": 43.51776703235763,
+        "lng": 7.837652880795113
+      }
+    },
+    "specs": {
+      "netSize": 418,
+      "grossSize": 502,
+      "rooms": "1+0",
+      "bathrooms": 4,
+      "age": 13,
+      "floor": 7,
+      "totalFloors": 10,
+      "heating": "Merkezi",
+      "furnishing": "Furnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500356950778?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500950946317?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500781987197?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500854696266?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500750861600?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500286666442?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500442941193?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500615876266?w=800&q=80&category=interior"
+    ],
+    "agent": {
+      "id": "A48",
+      "name": "Agent 57",
+      "phone": "+56 547 643 3412",
+      "email": "agent87@iwrealty.com",
+      "photo": "/images/icons/png/izmir-sahil-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-01-20T10:50:47.236Z",
+    "updatedAt": "2025-11-13T10:50:47.236Z",
+    "storeId": "store-005"
+  },
+  {
+    "id": "P05340",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Villa - Monaco Central",
+    "slug": "kiralik-villa-monaco-central-P05340",
+    "description": "Monaco Central, Monaco bölgesinde villa. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 584077,
+    "location": {
+      "country": "MC",
+      "city": "Monaco Central",
+      "district": "Monaco Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 442",
+      "coordinates": {
+        "lat": 43.452752790639245,
+        "lng": 7.648405147893203
+      }
+    },
+    "specs": {
+      "netSize": 472,
+      "grossSize": 566,
+      "rooms": "5+0",
+      "bathrooms": 4,
+      "age": 17,
+      "floor": 5,
+      "totalFloors": 19,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Unfurnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500156331562?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500243129163?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500293962857?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500331013658?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500069417605?w=800&q=80&category=architecture"
+    ],
+    "agent": {
+      "id": "A61",
+      "name": "Agent 74",
+      "phone": "+71 744 179 4355",
+      "email": "agent97@iwrealty.com",
+      "photo": "/images/icons/png/paris-heritage-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": false,
+      "hasBalcony": false,
+      "hasGarden": true,
+      "hasPool": true,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-07-29T10:50:47.236Z",
+    "updatedAt": "2025-11-13T10:50:47.236Z",
+    "storeId": "store-010"
+  },
+  {
+    "id": "P05341",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Daire - Monaco",
+    "slug": "satilik-daire-monaco-P05341",
+    "description": "Monaco, Monaco bölgesinde daire. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 8273199,
+    "location": {
+      "country": "MC",
+      "city": "Monaco",
+      "district": "Monaco Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 820",
+      "coordinates": {
+        "lat": 44.00103199034534,
+        "lng": 7.365882764122222
+      }
+    },
+    "specs": {
+      "netSize": 214,
+      "grossSize": 257,
+      "rooms": "4+1",
+      "bathrooms": 1,
+      "age": 12,
+      "floor": 3,
+      "totalFloors": 11,
+      "heating": "Kombi",
+      "furnishing": "Furnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500143013759?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500390026190?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500094151151?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500634863238?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500841946226?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500127283430?w=800&q=80&category=house"
+    ],
+    "agent": {
+      "id": "A27",
+      "name": "Agent 2",
+      "phone": "+23 895 255 9740",
+      "email": "agent18@iwrealty.com",
+      "photo": "/images/icons/png/izmir-sahil-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": false,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-10-23T10:50:47.236Z",
+    "updatedAt": "2025-11-13T10:50:47.236Z",
+    "storeId": "store-005"
+  },
+  {
+    "id": "P05342",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Residence - New Monaco",
+    "slug": "kiralik-residence-new-monaco-P05342",
+    "description": "New Monaco, Monaco bölgesinde residence. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 12492169,
+    "location": {
+      "country": "MC",
+      "city": "New Monaco",
+      "district": "New Monaco Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 528",
+      "coordinates": {
+        "lat": 43.62414477115288,
+        "lng": 7.68584681534253
+      }
+    },
+    "specs": {
+      "netSize": 206,
+      "grossSize": 247,
+      "rooms": "1+0",
+      "bathrooms": 2,
+      "age": 11,
+      "floor": 6,
+      "totalFloors": 11,
+      "heating": "Klima",
+      "furnishing": "Furnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500286556886?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500514457967?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500870855949?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500887997017?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500952627887?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500175824976?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500948600623?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500520594510?w=800&q=80&category=house"
+    ],
+    "agent": {
+      "id": "A52",
+      "name": "Agent 66",
+      "phone": "+63 749 747 7848",
+      "email": "agent31@iwrealty.com",
+      "photo": "/images/icons/png/antalya-investment-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": false,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-04-15T10:50:47.236Z",
+    "updatedAt": "2025-11-13T10:50:47.236Z",
+    "storeId": "store-006"
+  },
+  {
+    "id": "P05343",
+    "type": "sale",
+    "category": {
+      "main": "commercial",
+      "sub": "hospital"
+    },
+    "title": "Satılık Hastane - Monaco Central",
+    "slug": "satilik-hastane-monaco-central-P05343",
+    "description": "Monaco Central, Monaco bölgesinde hastane. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 43661112,
+    "location": {
+      "country": "MC",
+      "city": "Monaco Central",
+      "district": "Monaco Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 365",
+      "coordinates": {
+        "lat": 44.23272919161954,
+        "lng": 7.863222708375098
+      }
+    },
+    "specs": {
+      "netSize": 15418,
+      "grossSize": 18502,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 14,
+      "floor": 1,
+      "totalFloors": 10,
+      "heating": "Klima",
+      "furnishing": "Unfurnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500695505194?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500523216777?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500113600689?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500930050311?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500271386156?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500811034828?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500957168542?w=800&q=80&category=architecture"
+    ],
+    "agent": {
+      "id": "A59",
+      "name": "Agent 56",
+      "phone": "+19 551 206 2258",
+      "email": "agent52@iwrealty.com",
+      "photo": "/images/icons/png/dubai-property-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-10-07T10:50:47.236Z",
+    "updatedAt": "2025-11-13T10:50:47.236Z",
+    "storeId": "store-004"
+  },
+  {
+    "id": "P05344",
+    "type": "rent",
+    "category": {
+      "main": "commercial",
+      "sub": "hospital"
+    },
+    "title": "Kiralık Hastane - Monaco",
+    "slug": "kiralik-hastane-monaco-P05344",
+    "description": "Monaco, Monaco bölgesinde hastane. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 17020758,
+    "location": {
+      "country": "MC",
+      "city": "Monaco",
+      "district": "Monaco Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 386",
+      "coordinates": {
+        "lat": 43.26573716384683,
+        "lng": 7.793562432570189
+      }
+    },
+    "specs": {
+      "netSize": 3468,
+      "grossSize": 4162,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 7,
+      "floor": 7,
+      "totalFloors": 13,
+      "heating": "Kombi",
+      "furnishing": "Furnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500602407753?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500488366852?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500576471647?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500896635224?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500925738381?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500818846929?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500101339666?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500848794479?w=800&q=80&category=architecture"
+    ],
+    "agent": {
+      "id": "A45",
+      "name": "Agent 81",
+      "phone": "+60 600 522 3119",
+      "email": "agent75@iwrealty.com",
+      "photo": "/images/icons/png/ny-skyline-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-03-26T10:50:47.236Z",
+    "updatedAt": "2025-11-13T10:50:47.236Z",
+    "storeId": "store-008"
+  },
+  {
+    "id": "P05345",
+    "type": "sale",
+    "category": {
+      "main": "commercial",
+      "sub": "clinic"
+    },
+    "title": "Satılık Klinik - Monaco Central",
+    "slug": "satilik-klinik-monaco-central-P05345",
+    "description": "Monaco Central, Monaco bölgesinde klinik. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 4367428,
+    "location": {
+      "country": "MC",
+      "city": "Monaco Central",
+      "district": "Monaco Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 897",
+      "coordinates": {
+        "lat": 44.136060349096226,
+        "lng": 7.7813717179429345
+      }
+    },
+    "specs": {
+      "netSize": 1766,
+      "grossSize": 2119,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 12,
+      "floor": 4,
+      "totalFloors": 8,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Unfurnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500100922192?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500484996659?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500119488877?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500163051731?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500194877456?w=800&q=80&category=architecture"
+    ],
+    "agent": {
+      "id": "A47",
+      "name": "Agent 98",
+      "phone": "+69 268 628 6184",
+      "email": "agent84@iwrealty.com",
+      "photo": "/images/icons/png/london-prime-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-08-18T10:50:47.236Z",
+    "updatedAt": "2025-11-13T10:50:47.236Z",
+    "storeId": "store-007"
+  },
+  {
+    "id": "P05346",
+    "type": "rent",
+    "category": {
+      "main": "commercial",
+      "sub": "clinic"
+    },
+    "title": "Kiralık Klinik - Monaco",
+    "slug": "kiralik-klinik-monaco-P05346",
+    "description": "Monaco, Monaco bölgesinde klinik. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 3863614,
+    "location": {
+      "country": "MC",
+      "city": "Monaco",
+      "district": "Monaco Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 804",
+      "coordinates": {
+        "lat": 43.43891158348889,
+        "lng": 7.09950786620694
+      }
+    },
+    "specs": {
+      "netSize": 761,
+      "grossSize": 913,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 5,
+      "floor": 2,
+      "totalFloors": 19,
+      "heating": "Merkezi",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500630319317?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500974889401?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500561471979?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500507370110?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500965368465?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500950394911?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500902561000?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500115856531?w=800&q=80&category=interior"
+    ],
+    "agent": {
+      "id": "A49",
+      "name": "Agent 8",
+      "phone": "+28 684 822 5331",
+      "email": "agent83@iwrealty.com",
+      "photo": "/images/icons/png/ny-skyline-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": false,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-01-15T10:50:47.236Z",
+    "updatedAt": "2025-11-13T10:50:47.236Z",
+    "storeId": "store-008"
+  },
+  {
+    "id": "P05347",
+    "type": "sale",
+    "category": {
+      "main": "commercial",
+      "sub": "shop"
+    },
+    "title": "Satılık Dükkan - Monaco Central",
+    "slug": "satilik-dükkan-monaco-central-P05347",
+    "description": "Monaco Central, Monaco bölgesinde dükkan. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 3412609,
+    "location": {
+      "country": "MC",
+      "city": "Monaco Central",
+      "district": "Monaco Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 733",
+      "coordinates": {
+        "lat": 43.440854493016865,
+        "lng": 6.9721982711374695
+      }
+    },
+    "specs": {
+      "netSize": 433,
+      "grossSize": 520,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 4,
+      "floor": 11,
+      "totalFloors": 16,
+      "heating": "Merkezi",
+      "furnishing": "Furnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500403357081?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500267764570?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500385244253?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500603169453?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500279684858?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500674532520?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500221219260?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500602183304?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500841807178?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500723384672?w=800&q=80&category=house"
+    ],
+    "agent": {
+      "id": "A58",
+      "name": "Agent 30",
+      "phone": "+97 678 280 1345",
+      "email": "agent94@iwrealty.com",
+      "photo": "/images/icons/png/ankara-modern-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2024-11-29T10:50:47.236Z",
+    "updatedAt": "2025-11-13T10:50:47.236Z",
+    "storeId": "store-003"
+  },
+  {
+    "id": "P05348",
+    "type": "rent",
+    "category": {
+      "main": "commercial",
+      "sub": "shop"
+    },
+    "title": "Kiralık Dükkan - Monaco Central",
+    "slug": "kiralik-dükkan-monaco-central-P05348",
+    "description": "Monaco Central, Monaco bölgesinde dükkan. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 4310052,
+    "location": {
+      "country": "MC",
+      "city": "Monaco Central",
+      "district": "Monaco Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 18",
+      "coordinates": {
+        "lat": 43.38855496263731,
+        "lng": 6.937131917043774
+      }
+    },
+    "specs": {
+      "netSize": 146,
+      "grossSize": 175,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 3,
+      "floor": 2,
+      "totalFloors": 10,
+      "heating": "Merkezi",
+      "furnishing": "Furnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500141059844?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500269462454?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500453350032?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500859445001?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500868380093?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500308956014?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500472485212?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500030154926?w=800&q=80&category=architecture"
+    ],
+    "agent": {
+      "id": "A22",
+      "name": "Agent 96",
+      "phone": "+79 341 732 8646",
+      "email": "agent39@iwrealty.com",
+      "photo": "/images/icons/png/london-prime-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-07-14T10:50:47.236Z",
+    "updatedAt": "2025-11-13T10:50:47.236Z",
+    "storeId": "store-007"
+  },
+  {
+    "id": "P05349",
+    "type": "sale",
+    "category": {
+      "main": "commercial",
+      "sub": "office"
+    },
+    "title": "Satılık Ofis - Monaco",
+    "slug": "satilik-ofis-monaco-P05349",
+    "description": "Monaco, Monaco bölgesinde ofis. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 10605003,
+    "location": {
+      "country": "MC",
+      "city": "Monaco",
+      "district": "Monaco Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 454",
+      "coordinates": {
+        "lat": 44.17236336428602,
+        "lng": 7.627088546886304
+      }
+    },
+    "specs": {
+      "netSize": 576,
+      "grossSize": 691,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 19,
+      "floor": 15,
+      "totalFloors": 9,
+      "heating": "Merkezi",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500566385392?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500974955962?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500748661100?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500845249907?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500008996842?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500637550253?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500905479700?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500955810134?w=800&q=80&category=interior"
+    ],
+    "agent": {
+      "id": "A62",
+      "name": "Agent 54",
+      "phone": "+10 945 109 1579",
+      "email": "agent94@iwrealty.com",
+      "photo": "/images/icons/png/london-prime-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": false,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-04-18T10:50:47.236Z",
+    "updatedAt": "2025-11-13T10:50:47.236Z",
+    "storeId": "store-007"
+  },
+  {
+    "id": "P05350",
+    "type": "rent",
+    "category": {
+      "main": "commercial",
+      "sub": "office"
+    },
+    "title": "Kiralık Ofis - Monaco Central",
+    "slug": "kiralik-ofis-monaco-central-P05350",
+    "description": "Monaco Central, Monaco bölgesinde ofis. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 14294953,
+    "location": {
+      "country": "MC",
+      "city": "Monaco Central",
+      "district": "Monaco Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 233",
+      "coordinates": {
+        "lat": 44.07237387093248,
+        "lng": 7.721522005497853
+      }
+    },
+    "specs": {
+      "netSize": 176,
+      "grossSize": 211,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 2,
+      "floor": 10,
+      "totalFloors": 6,
+      "heating": "Kombi",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500391942080?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500212213637?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500275257750?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500964109515?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500812991858?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500858572427?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500615985705?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500048946459?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500410759896?w=800&q=80&category=architecture"
+    ],
+    "agent": {
+      "id": "A93",
+      "name": "Agent 24",
+      "phone": "+53 804 683 7610",
+      "email": "agent48@iwrealty.com",
+      "photo": "/images/icons/png/sydney-coastal-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": true,
+      "hasPool": true,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-06-11T10:50:47.236Z",
+    "updatedAt": "2025-11-13T10:50:47.236Z",
+    "storeId": "store-012"
+  },
+  {
+    "id": "P05351",
+    "type": "sale",
+    "category": {
+      "main": "commercial",
+      "sub": "mall"
+    },
+    "title": "Satılık AVM - Monaco City",
+    "slug": "satilik-avm-monaco-city-P05351",
+    "description": "Monaco City, Monaco bölgesinde avm. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 220359242,
+    "location": {
+      "country": "MC",
+      "city": "Monaco City",
+      "district": "Monaco City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 898",
+      "coordinates": {
+        "lat": 44.16324350258535,
+        "lng": 7.259034994034631
+      }
+    },
+    "specs": {
+      "netSize": 23166,
+      "grossSize": 27799,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 19,
+      "floor": 4,
+      "totalFloors": 12,
+      "heating": "Klima",
+      "furnishing": "Unfurnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500301375479?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500578383467?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500990830575?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500882584176?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500567550566?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500547322807?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500387234306?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500327119990?w=800&q=80&category=house"
+    ],
+    "agent": {
+      "id": "A66",
+      "name": "Agent 62",
+      "phone": "+61 639 667 1085",
+      "email": "agent57@iwrealty.com",
+      "photo": "/images/icons/png/ny-skyline-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-05-01T10:50:47.236Z",
+    "updatedAt": "2025-11-13T10:50:47.236Z",
+    "storeId": "store-008"
+  },
+  {
+    "id": "P05352",
+    "type": "rent",
+    "category": {
+      "main": "commercial",
+      "sub": "mall"
+    },
+    "title": "Kiralık AVM - Monaco",
+    "slug": "kiralik-avm-monaco-P05352",
+    "description": "Monaco, Monaco bölgesinde avm. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 136401927,
+    "location": {
+      "country": "MC",
+      "city": "Monaco",
+      "district": "Monaco Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 802",
+      "coordinates": {
+        "lat": 43.87654150658578,
+        "lng": 7.096457893628121
+      }
+    },
+    "specs": {
+      "netSize": 42434,
+      "grossSize": 50921,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 0,
+      "floor": 13,
+      "totalFloors": 5,
+      "heating": "Klima",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500892633029?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500736210071?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500706416877?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500850256369?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500401202682?w=800&q=80&category=house"
+    ],
+    "agent": {
+      "id": "A65",
+      "name": "Agent 70",
+      "phone": "+28 940 554 2408",
+      "email": "agent12@iwrealty.com",
+      "photo": "/images/icons/png/luxury-homes-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-08-09T10:50:47.236Z",
+    "updatedAt": "2025-11-13T10:50:47.236Z",
+    "storeId": "store-002"
+  },
+  {
+    "id": "P05353",
+    "type": "sale",
+    "category": {
+      "main": "commercial",
+      "sub": "hotel"
+    },
+    "title": "Satılık Otel - Monaco",
+    "slug": "satilik-otel-monaco-P05353",
+    "description": "Monaco, Monaco bölgesinde otel. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 179346659,
+    "location": {
+      "country": "MC",
+      "city": "Monaco",
+      "district": "Monaco Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 40",
+      "coordinates": {
+        "lat": 43.67795786322943,
+        "lng": 7.108626894899885
+      }
+    },
+    "specs": {
+      "netSize": 15860,
+      "grossSize": 19032,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 9,
+      "floor": 5,
+      "totalFloors": 12,
+      "heating": "Kombi",
+      "furnishing": "Furnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500506348053?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500207468811?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500119940832?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500357044399?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500644239875?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500831465114?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500555945319?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500135472205?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500721220451?w=800&q=80&category=building"
+    ],
+    "agent": {
+      "id": "A31",
+      "name": "Agent 43",
+      "phone": "+86 630 180 5769",
+      "email": "agent50@iwrealty.com",
+      "photo": "/images/icons/png/luxury-homes-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-05-25T10:50:47.236Z",
+    "updatedAt": "2025-11-13T10:50:47.236Z",
+    "storeId": "store-002"
+  },
+  {
+    "id": "P05354",
+    "type": "rent",
+    "category": {
+      "main": "commercial",
+      "sub": "hotel"
+    },
+    "title": "Kiralık Otel - Monaco",
+    "slug": "kiralik-otel-monaco-P05354",
+    "description": "Monaco, Monaco bölgesinde otel. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 143461540,
+    "location": {
+      "country": "MC",
+      "city": "Monaco",
+      "district": "Monaco Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 709",
+      "coordinates": {
+        "lat": 43.92850629497096,
+        "lng": 7.062800308763013
+      }
+    },
+    "specs": {
+      "netSize": 13197,
+      "grossSize": 15836,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 16,
+      "floor": 4,
+      "totalFloors": 11,
+      "heating": "Kombi",
+      "furnishing": "Unfurnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500473047792?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500781859208?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500024173191?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500449006750?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500714594382?w=800&q=80&category=building"
+    ],
+    "agent": {
+      "id": "A92",
+      "name": "Agent 51",
+      "phone": "+40 636 360 2552",
+      "email": "agent59@iwrealty.com",
+      "photo": "/images/icons/png/ankara-modern-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": false,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-07-01T10:50:47.236Z",
+    "updatedAt": "2025-11-13T10:50:47.236Z",
+    "storeId": "store-003"
+  },
+  {
+    "id": "P05355",
+    "type": "sale",
+    "category": {
+      "main": "commercial",
+      "sub": "restaurant"
+    },
+    "title": "Satılık Restoran - New Monaco",
+    "slug": "satilik-restoran-new-monaco-P05355",
+    "description": "New Monaco, Monaco bölgesinde restoran. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 2368371,
+    "location": {
+      "country": "MC",
+      "city": "New Monaco",
+      "district": "New Monaco Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 17",
+      "coordinates": {
+        "lat": 43.98382062388812,
+        "lng": 7.265201210707923
+      }
+    },
+    "specs": {
+      "netSize": 579,
+      "grossSize": 695,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 1,
+      "floor": 8,
+      "totalFloors": 14,
+      "heating": "Kombi",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500163886243?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500749930750?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500057781533?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500096121689?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500627624732?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500811928110?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500555957138?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500667087325?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500169805202?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500467046213?w=800&q=80&category=building"
+    ],
+    "agent": {
+      "id": "A77",
+      "name": "Agent 30",
+      "phone": "+15 214 938 9514",
+      "email": "agent77@iwrealty.com",
+      "photo": "/images/icons/png/dubai-property-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-04-16T10:50:47.236Z",
+    "updatedAt": "2025-11-13T10:50:47.236Z",
+    "storeId": "store-004"
+  },
+  {
+    "id": "P05356",
+    "type": "rent",
+    "category": {
+      "main": "commercial",
+      "sub": "restaurant"
+    },
+    "title": "Kiralık Restoran - Monaco City",
+    "slug": "kiralik-restoran-monaco-city-P05356",
+    "description": "Monaco City, Monaco bölgesinde restoran. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 8068251,
+    "location": {
+      "country": "MC",
+      "city": "Monaco City",
+      "district": "Monaco City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 989",
+      "coordinates": {
+        "lat": 43.843749211392456,
+        "lng": 7.4384586802979005
+      }
+    },
+    "specs": {
+      "netSize": 1324,
+      "grossSize": 1589,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 5,
+      "floor": 8,
+      "totalFloors": 15,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500455903341?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500084528733?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500921277531?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500107293243?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500030812122?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500426870817?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500995287827?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500308879838?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500264428657?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500838435547?w=800&q=80&category=architecture"
+    ],
+    "agent": {
+      "id": "A14",
+      "name": "Agent 58",
+      "phone": "+95 480 676 7305",
+      "email": "agent14@iwrealty.com",
+      "photo": "/images/icons/png/paris-heritage-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": false,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-05-17T10:50:47.236Z",
+    "updatedAt": "2025-11-13T10:50:47.236Z",
+    "storeId": "store-010"
+  },
+  {
+    "id": "P05357",
+    "type": "sale",
+    "category": {
+      "main": "commercial",
+      "sub": "warehouse"
+    },
+    "title": "Satılık Depo - Monaco City",
+    "slug": "satilik-depo-monaco-city-P05357",
+    "description": "Monaco City, Monaco bölgesinde depo. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 19747862,
+    "location": {
+      "country": "MC",
+      "city": "Monaco City",
+      "district": "Monaco City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 347",
+      "coordinates": {
+        "lat": 44.20287112147284,
+        "lng": 7.2274342661456865
+      }
+    },
+    "specs": {
+      "netSize": 1677,
+      "grossSize": 2012,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 13,
+      "floor": 8,
+      "totalFloors": 8,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Unfurnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500482279701?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500068627543?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500160200784?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500403055737?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500527890698?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500266896871?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500712805091?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500542663675?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500226173764?w=800&q=80&category=house"
+    ],
+    "agent": {
+      "id": "A55",
+      "name": "Agent 25",
+      "phone": "+39 350 898 5059",
+      "email": "agent97@iwrealty.com",
+      "photo": "/images/icons/png/ny-skyline-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": false,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-03-28T10:50:47.236Z",
+    "updatedAt": "2025-11-13T10:50:47.236Z",
+    "storeId": "store-008"
+  },
+  {
+    "id": "P05358",
+    "type": "rent",
+    "category": {
+      "main": "commercial",
+      "sub": "warehouse"
+    },
+    "title": "Kiralık Depo - Monaco",
+    "slug": "kiralik-depo-monaco-P05358",
+    "description": "Monaco, Monaco bölgesinde depo. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 10770248,
+    "location": {
+      "country": "MC",
+      "city": "Monaco",
+      "district": "Monaco Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 371",
+      "coordinates": {
+        "lat": 43.970634066680674,
+        "lng": 7.740574892786982
+      }
+    },
+    "specs": {
+      "netSize": 2234,
+      "grossSize": 2681,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 7,
+      "floor": 6,
+      "totalFloors": 13,
+      "heating": "Kombi",
+      "furnishing": "Furnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500755640138?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500881784570?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500895133221?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500323312401?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500844190278?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500087494467?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500163193472?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500655288853?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500565848076?w=800&q=80&category=real-estate"
+    ],
+    "agent": {
+      "id": "A15",
+      "name": "Agent 78",
+      "phone": "+34 513 199 4786",
+      "email": "agent78@iwrealty.com",
+      "photo": "/images/icons/png/izmir-sahil-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": false,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2024-12-26T10:50:47.236Z",
+    "updatedAt": "2025-11-13T10:50:47.236Z",
+    "storeId": "store-005"
+  }
+]

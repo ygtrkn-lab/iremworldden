@@ -1,0 +1,2355 @@
+[
+  {
+    "id": "P07677",
+    "type": "sale",
+    "category": {
+      "main": "government"
+    },
+    "title": "Satılık Belediye Binası - New San Marino",
+    "slug": "satilik-belediye-binası-new-san-marino-P07677",
+    "description": "New San Marino, San Marino bölgesinde belediye binası. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 10647225,
+    "location": {
+      "country": "SM",
+      "city": "New San Marino",
+      "district": "New San Marino Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 994",
+      "coordinates": {
+        "lat": 44.21149357874593,
+        "lng": 12.762885290066771
+      }
+    },
+    "specs": {
+      "netSize": 2608,
+      "grossSize": 3130,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 0,
+      "floor": 12,
+      "totalFloors": 16,
+      "heating": "Klima",
+      "furnishing": "Furnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500148672426?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500227116245?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500831225627?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500642049121?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500441655290?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500804458656?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500192087149?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500133003681?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500379073332?w=800&q=80&category=real-estate"
+    ],
+    "agent": {
+      "id": "A32",
+      "name": "Agent 99",
+      "phone": "+55 701 693 2992",
+      "email": "agent35@iwrealty.com",
+      "photo": "/images/icons/png/sg-harbour-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": true,
+      "hasPool": true,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-05-14T10:50:47.259Z",
+    "updatedAt": "2025-11-13T10:50:47.259Z",
+    "storeId": "store-011"
+  },
+  {
+    "id": "P07678",
+    "type": "rent",
+    "category": {
+      "main": "government"
+    },
+    "title": "Kiralık Belediye Binası - San Marino Central",
+    "slug": "kiralik-belediye-binası-san-marino-central-P07678",
+    "description": "San Marino Central, San Marino bölgesinde belediye binası. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 15064094,
+    "location": {
+      "country": "SM",
+      "city": "San Marino Central",
+      "district": "San Marino Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 579",
+      "coordinates": {
+        "lat": 43.88740123638652,
+        "lng": 12.734480757079902
+      }
+    },
+    "specs": {
+      "netSize": 3579,
+      "grossSize": 4295,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 11,
+      "floor": 7,
+      "totalFloors": 10,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Unfurnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500582894433?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500290916668?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500870286644?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500196993085?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500625365092?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500530965666?w=800&q=80&category=interior"
+    ],
+    "agent": {
+      "id": "A85",
+      "name": "Agent 51",
+      "phone": "+50 778 835 8051",
+      "email": "agent63@iwrealty.com",
+      "photo": "/images/icons/png/paris-heritage-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": false,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": true,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-03-06T10:50:47.259Z",
+    "updatedAt": "2025-11-13T10:50:47.259Z",
+    "storeId": "store-010"
+  },
+  {
+    "id": "P07679",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Müstakil Ev - San Marino Central",
+    "slug": "satilik-müstakil-ev-san-marino-central-P07679",
+    "description": "San Marino Central, San Marino bölgesinde müstakil ev. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 7179482,
+    "location": {
+      "country": "SM",
+      "city": "San Marino Central",
+      "district": "San Marino Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 981",
+      "coordinates": {
+        "lat": 43.74128457591365,
+        "lng": 12.160450126046953
+      }
+    },
+    "specs": {
+      "netSize": 358,
+      "grossSize": 430,
+      "rooms": "2+0",
+      "bathrooms": 2,
+      "age": 18,
+      "floor": 9,
+      "totalFloors": 7,
+      "heating": "Kombi",
+      "furnishing": "Unfurnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500250692468?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500411570664?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500439127252?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500839314240?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500036276786?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500270137915?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500001069025?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500471759474?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500428110572?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500911609251?w=800&q=80&category=architecture"
+    ],
+    "agent": {
+      "id": "A28",
+      "name": "Agent 28",
+      "phone": "+66 737 554 8983",
+      "email": "agent91@iwrealty.com",
+      "photo": "/images/icons/png/london-prime-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": false,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-10-20T10:50:47.259Z",
+    "updatedAt": "2025-11-13T10:50:47.259Z",
+    "storeId": "store-007"
+  },
+  {
+    "id": "P07680",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Villa - San Marino Central",
+    "slug": "kiralik-villa-san-marino-central-P07680",
+    "description": "San Marino Central, San Marino bölgesinde villa. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 505917,
+    "location": {
+      "country": "SM",
+      "city": "San Marino Central",
+      "district": "San Marino Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 890",
+      "coordinates": {
+        "lat": 43.69579908077013,
+        "lng": 12.365151182631346
+      }
+    },
+    "specs": {
+      "netSize": 405,
+      "grossSize": 486,
+      "rooms": "2+0",
+      "bathrooms": 3,
+      "age": 18,
+      "floor": 1,
+      "totalFloors": 7,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Furnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500018813092?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500448304124?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500401312968?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500036056301?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500147736314?w=800&q=80&category=building"
+    ],
+    "agent": {
+      "id": "A85",
+      "name": "Agent 63",
+      "phone": "+69 409 732 3962",
+      "email": "agent86@iwrealty.com",
+      "photo": "/images/icons/png/antalya-investment-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-10-29T10:50:47.259Z",
+    "updatedAt": "2025-11-13T10:50:47.259Z",
+    "storeId": "store-006"
+  },
+  {
+    "id": "P07681",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Daire - City of San Marino",
+    "slug": "satilik-daire-city-of-san-marino-P07681",
+    "description": "City of San Marino, San Marino bölgesinde daire. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 9003260,
+    "location": {
+      "country": "SM",
+      "city": "City of San Marino",
+      "district": "City of San Marino Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 656",
+      "coordinates": {
+        "lat": 43.88640397394153,
+        "lng": 12.603577092893536
+      }
+    },
+    "specs": {
+      "netSize": 256,
+      "grossSize": 307,
+      "rooms": "4+0",
+      "bathrooms": 4,
+      "age": 8,
+      "floor": 6,
+      "totalFloors": 12,
+      "heating": "Klima",
+      "furnishing": "Unfurnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500061633592?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500766959815?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500737834925?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500956351135?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500936012842?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500531570593?w=800&q=80&category=architecture"
+    ],
+    "agent": {
+      "id": "A8",
+      "name": "Agent 82",
+      "phone": "+18 992 279 2894",
+      "email": "agent63@iwrealty.com",
+      "photo": "/images/icons/png/london-prime-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": false,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-02-13T10:50:47.259Z",
+    "updatedAt": "2025-11-13T10:50:47.259Z",
+    "storeId": "store-007"
+  },
+  {
+    "id": "P07682",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Residence - San Marino City",
+    "slug": "kiralik-residence-san-marino-city-P07682",
+    "description": "San Marino City, San Marino bölgesinde residence. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 9723859,
+    "location": {
+      "country": "SM",
+      "city": "San Marino City",
+      "district": "San Marino City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 297",
+      "coordinates": {
+        "lat": 43.75075233054969,
+        "lng": 11.961684053720532
+      }
+    },
+    "specs": {
+      "netSize": 166,
+      "grossSize": 199,
+      "rooms": "1+1",
+      "bathrooms": 3,
+      "age": 15,
+      "floor": 14,
+      "totalFloors": 13,
+      "heating": "Klima",
+      "furnishing": "Unfurnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500758079414?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500875391284?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500954191491?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500723540750?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500417601938?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500927267891?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500374370126?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500185701668?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500791466339?w=800&q=80&category=interior"
+    ],
+    "agent": {
+      "id": "A90",
+      "name": "Agent 21",
+      "phone": "+70 290 351 6569",
+      "email": "agent86@iwrealty.com",
+      "photo": "/images/icons/png/ankara-modern-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": false,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-03-08T10:50:47.259Z",
+    "updatedAt": "2025-11-13T10:50:47.259Z",
+    "storeId": "store-003"
+  },
+  {
+    "id": "P07683",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Müstakil Ev - City of San Marino",
+    "slug": "satilik-müstakil-ev-city-of-san-marino-P07683",
+    "description": "City of San Marino, San Marino bölgesinde müstakil ev. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 13962746,
+    "location": {
+      "country": "SM",
+      "city": "City of San Marino",
+      "district": "City of San Marino Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 752",
+      "coordinates": {
+        "lat": 43.90373680778798,
+        "lng": 12.32475572817921
+      }
+    },
+    "specs": {
+      "netSize": 480,
+      "grossSize": 576,
+      "rooms": "3+0",
+      "bathrooms": 3,
+      "age": 12,
+      "floor": 3,
+      "totalFloors": 17,
+      "heating": "Kombi",
+      "furnishing": "Unfurnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500632813684?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500748365602?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500955088810?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500352523480?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500255248194?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500369884554?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500131628736?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500425010116?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500968438831?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500640876181?w=800&q=80&category=building"
+    ],
+    "agent": {
+      "id": "A1",
+      "name": "Agent 47",
+      "phone": "+54 259 394 4743",
+      "email": "agent61@iwrealty.com",
+      "photo": "/images/icons/png/london-prime-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-04-10T10:50:47.259Z",
+    "updatedAt": "2025-11-13T10:50:47.259Z",
+    "storeId": "store-007"
+  },
+  {
+    "id": "P07684",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Residence - San Marino City",
+    "slug": "kiralik-residence-san-marino-city-P07684",
+    "description": "San Marino City, San Marino bölgesinde residence. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 11892282,
+    "location": {
+      "country": "SM",
+      "city": "San Marino City",
+      "district": "San Marino City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 649",
+      "coordinates": {
+        "lat": 43.367850658975854,
+        "lng": 12.840669636432457
+      }
+    },
+    "specs": {
+      "netSize": 172,
+      "grossSize": 206,
+      "rooms": "5+0",
+      "bathrooms": 4,
+      "age": 12,
+      "floor": 4,
+      "totalFloors": 14,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500926375991?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500201023172?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500144596934?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500807957005?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500004779787?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500113806583?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500569672581?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500267267166?w=800&q=80&category=house"
+    ],
+    "agent": {
+      "id": "A60",
+      "name": "Agent 38",
+      "phone": "+42 498 138 8749",
+      "email": "agent4@iwrealty.com",
+      "photo": "/images/icons/png/ny-skyline-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": false,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": true,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-05-04T10:50:47.259Z",
+    "updatedAt": "2025-11-13T10:50:47.259Z",
+    "storeId": "store-008"
+  },
+  {
+    "id": "P07685",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Villa - San Marino City",
+    "slug": "satilik-villa-san-marino-city-P07685",
+    "description": "San Marino City, San Marino bölgesinde villa. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 1890801,
+    "location": {
+      "country": "SM",
+      "city": "San Marino City",
+      "district": "San Marino City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 528",
+      "coordinates": {
+        "lat": 43.635401901048944,
+        "lng": 12.706040261790937
+      }
+    },
+    "specs": {
+      "netSize": 136,
+      "grossSize": 163,
+      "rooms": "3+2",
+      "bathrooms": 3,
+      "age": 15,
+      "floor": 5,
+      "totalFloors": 9,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Unfurnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500392859304?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500547568352?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500704756452?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500323203330?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500800564030?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500430747952?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500669253932?w=800&q=80&category=architecture"
+    ],
+    "agent": {
+      "id": "A19",
+      "name": "Agent 13",
+      "phone": "+90 411 436 7567",
+      "email": "agent28@iwrealty.com",
+      "photo": "/images/icons/png/ankara-modern-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": false,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2024-11-18T10:50:47.259Z",
+    "updatedAt": "2025-11-13T10:50:47.259Z",
+    "storeId": "store-003"
+  },
+  {
+    "id": "P07686",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Residence - New San Marino",
+    "slug": "kiralik-residence-new-san-marino-P07686",
+    "description": "New San Marino, San Marino bölgesinde residence. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 6296242,
+    "location": {
+      "country": "SM",
+      "city": "New San Marino",
+      "district": "New San Marino Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 976",
+      "coordinates": {
+        "lat": 44.12242598375822,
+        "lng": 12.424907288139508
+      }
+    },
+    "specs": {
+      "netSize": 183,
+      "grossSize": 220,
+      "rooms": "5+2",
+      "bathrooms": 2,
+      "age": 14,
+      "floor": 7,
+      "totalFloors": 11,
+      "heating": "Klima",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500816132102?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500676906268?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500401386851?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500421321495?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500958603455?w=800&q=80&category=architecture"
+    ],
+    "agent": {
+      "id": "A55",
+      "name": "Agent 73",
+      "phone": "+28 540 779 3177",
+      "email": "agent20@iwrealty.com",
+      "photo": "/images/icons/png/sydney-coastal-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": true,
+      "hasSecurity": false
+    },
+    "createdAt": "2024-12-22T10:50:47.259Z",
+    "updatedAt": "2025-11-13T10:50:47.259Z",
+    "storeId": "store-012"
+  },
+  {
+    "id": "P07687",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Müstakil Ev - San Marino City",
+    "slug": "satilik-müstakil-ev-san-marino-city-P07687",
+    "description": "San Marino City, San Marino bölgesinde müstakil ev. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 4569271,
+    "location": {
+      "country": "SM",
+      "city": "San Marino City",
+      "district": "San Marino City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 896",
+      "coordinates": {
+        "lat": 43.291303810283424,
+        "lng": 12.429720748626927
+      }
+    },
+    "specs": {
+      "netSize": 140,
+      "grossSize": 168,
+      "rooms": "3+2",
+      "bathrooms": 2,
+      "age": 19,
+      "floor": 13,
+      "totalFloors": 15,
+      "heating": "Klima",
+      "furnishing": "Furnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500234508846?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500526672761?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500283468059?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500834208175?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500129823304?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500364827670?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500972555605?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500143113897?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500183179871?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500297712925?w=800&q=80&category=architecture"
+    ],
+    "agent": {
+      "id": "A60",
+      "name": "Agent 63",
+      "phone": "+84 660 232 6944",
+      "email": "agent44@iwrealty.com",
+      "photo": "/images/icons/png/sg-harbour-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-05-15T10:50:47.259Z",
+    "updatedAt": "2025-11-13T10:50:47.259Z",
+    "storeId": "store-011"
+  },
+  {
+    "id": "P07688",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Residence - City of San Marino",
+    "slug": "kiralik-residence-city-of-san-marino-P07688",
+    "description": "City of San Marino, San Marino bölgesinde residence. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 8204992,
+    "location": {
+      "country": "SM",
+      "city": "City of San Marino",
+      "district": "City of San Marino Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 115",
+      "coordinates": {
+        "lat": 43.93481764701859,
+        "lng": 12.843909513831235
+      }
+    },
+    "specs": {
+      "netSize": 323,
+      "grossSize": 388,
+      "rooms": "1+0",
+      "bathrooms": 4,
+      "age": 17,
+      "floor": 13,
+      "totalFloors": 6,
+      "heating": "Merkezi",
+      "furnishing": "Furnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500999554585?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500199860119?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500931412886?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500683729535?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500946230525?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500378007570?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500515670723?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500996966910?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500195532118?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500937458279?w=800&q=80&category=house"
+    ],
+    "agent": {
+      "id": "A28",
+      "name": "Agent 57",
+      "phone": "+98 454 969 9528",
+      "email": "agent79@iwrealty.com",
+      "photo": "/images/icons/png/ankara-modern-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": false,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-08-21T10:50:47.259Z",
+    "updatedAt": "2025-11-13T10:50:47.259Z",
+    "storeId": "store-003"
+  },
+  {
+    "id": "P07689",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Residence - New San Marino",
+    "slug": "satilik-residence-new-san-marino-P07689",
+    "description": "New San Marino, San Marino bölgesinde residence. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 2433956,
+    "location": {
+      "country": "SM",
+      "city": "New San Marino",
+      "district": "New San Marino Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 577",
+      "coordinates": {
+        "lat": 44.07338159052296,
+        "lng": 12.81972776164743
+      }
+    },
+    "specs": {
+      "netSize": 391,
+      "grossSize": 469,
+      "rooms": "3+1",
+      "bathrooms": 3,
+      "age": 2,
+      "floor": 14,
+      "totalFloors": 12,
+      "heating": "Kombi",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500584940256?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500381873993?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500178365692?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500294415273?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500839506335?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500080136143?w=800&q=80&category=building"
+    ],
+    "agent": {
+      "id": "A48",
+      "name": "Agent 85",
+      "phone": "+62 662 381 2801",
+      "email": "agent45@iwrealty.com",
+      "photo": "/images/icons/png/ny-skyline-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": false,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-02-01T10:50:47.259Z",
+    "updatedAt": "2025-11-13T10:50:47.259Z",
+    "storeId": "store-008"
+  },
+  {
+    "id": "P07690",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Villa - New San Marino",
+    "slug": "kiralik-villa-new-san-marino-P07690",
+    "description": "New San Marino, San Marino bölgesinde villa. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 5497869,
+    "location": {
+      "country": "SM",
+      "city": "New San Marino",
+      "district": "New San Marino Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 121",
+      "coordinates": {
+        "lat": 44.09379782509889,
+        "lng": 12.633200792427893
+      }
+    },
+    "specs": {
+      "netSize": 317,
+      "grossSize": 380,
+      "rooms": "2+2",
+      "bathrooms": 1,
+      "age": 18,
+      "floor": 5,
+      "totalFloors": 10,
+      "heating": "Merkezi",
+      "furnishing": "Furnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500506810405?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500943216307?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500618931300?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500246482686?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500932992750?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500305821929?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500713411801?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500696399337?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500552236828?w=800&q=80&category=house"
+    ],
+    "agent": {
+      "id": "A100",
+      "name": "Agent 7",
+      "phone": "+64 947 822 1579",
+      "email": "agent14@iwrealty.com",
+      "photo": "/images/icons/png/sydney-coastal-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": false,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": true,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-06-17T10:50:47.259Z",
+    "updatedAt": "2025-11-13T10:50:47.259Z",
+    "storeId": "store-012"
+  },
+  {
+    "id": "P07691",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Müstakil Ev - San Marino Central",
+    "slug": "satilik-müstakil-ev-san-marino-central-P07691",
+    "description": "San Marino Central, San Marino bölgesinde müstakil ev. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 13040078,
+    "location": {
+      "country": "SM",
+      "city": "San Marino Central",
+      "district": "San Marino Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 241",
+      "coordinates": {
+        "lat": 43.38297550930644,
+        "lng": 12.319735427064757
+      }
+    },
+    "specs": {
+      "netSize": 331,
+      "grossSize": 397,
+      "rooms": "2+2",
+      "bathrooms": 4,
+      "age": 8,
+      "floor": 4,
+      "totalFloors": 11,
+      "heating": "Merkezi",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500871761203?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500906545997?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500798841785?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500863889377?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500555237098?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500734602267?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500458319357?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500762783240?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500195536619?w=800&q=80&category=interior"
+    ],
+    "agent": {
+      "id": "A45",
+      "name": "Agent 26",
+      "phone": "+88 692 476 1410",
+      "email": "agent46@iwrealty.com",
+      "photo": "/images/icons/png/sg-harbour-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-05-08T10:50:47.259Z",
+    "updatedAt": "2025-11-13T10:50:47.259Z",
+    "storeId": "store-011"
+  },
+  {
+    "id": "P07692",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Villa - City of San Marino",
+    "slug": "kiralik-villa-city-of-san-marino-P07692",
+    "description": "City of San Marino, San Marino bölgesinde villa. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 14032148,
+    "location": {
+      "country": "SM",
+      "city": "City of San Marino",
+      "district": "City of San Marino Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 838",
+      "coordinates": {
+        "lat": 43.53101335222934,
+        "lng": 12.349597996942496
+      }
+    },
+    "specs": {
+      "netSize": 257,
+      "grossSize": 308,
+      "rooms": "5+0",
+      "bathrooms": 2,
+      "age": 18,
+      "floor": 7,
+      "totalFloors": 5,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Unfurnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500188640759?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500040015764?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500617040298?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500249067862?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500248463060?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500888933342?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500125129784?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500986566683?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500065870599?w=800&q=80&category=interior"
+    ],
+    "agent": {
+      "id": "A93",
+      "name": "Agent 70",
+      "phone": "+22 465 673 3872",
+      "email": "agent91@iwrealty.com",
+      "photo": "/images/icons/png/dubai-property-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-09-13T10:50:47.259Z",
+    "updatedAt": "2025-11-13T10:50:47.259Z",
+    "storeId": "store-004"
+  },
+  {
+    "id": "P07693",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Müstakil Ev - San Marino City",
+    "slug": "satilik-müstakil-ev-san-marino-city-P07693",
+    "description": "San Marino City, San Marino bölgesinde müstakil ev. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 939265,
+    "location": {
+      "country": "SM",
+      "city": "San Marino City",
+      "district": "San Marino City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 376",
+      "coordinates": {
+        "lat": 43.3522364917064,
+        "lng": 11.970279344894449
+      }
+    },
+    "specs": {
+      "netSize": 429,
+      "grossSize": 515,
+      "rooms": "3+0",
+      "bathrooms": 1,
+      "age": 16,
+      "floor": 6,
+      "totalFloors": 11,
+      "heating": "Klima",
+      "furnishing": "Furnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500681629876?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500456771742?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500658257638?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500566729629?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500883326805?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500443039222?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500592948355?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500267850976?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500061528863?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500069881019?w=800&q=80&category=architecture"
+    ],
+    "agent": {
+      "id": "A27",
+      "name": "Agent 22",
+      "phone": "+87 505 734 1310",
+      "email": "agent45@iwrealty.com",
+      "photo": "/images/icons/png/sg-harbour-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": true,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-06-03T10:50:47.259Z",
+    "updatedAt": "2025-11-13T10:50:47.259Z",
+    "storeId": "store-011"
+  },
+  {
+    "id": "P07694",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Villa - City of San Marino",
+    "slug": "kiralik-villa-city-of-san-marino-P07694",
+    "description": "City of San Marino, San Marino bölgesinde villa. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 8292905,
+    "location": {
+      "country": "SM",
+      "city": "City of San Marino",
+      "district": "City of San Marino Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 938",
+      "coordinates": {
+        "lat": 43.683288254795144,
+        "lng": 12.331841724417245
+      }
+    },
+    "specs": {
+      "netSize": 443,
+      "grossSize": 532,
+      "rooms": "3+1",
+      "bathrooms": 3,
+      "age": 10,
+      "floor": 4,
+      "totalFloors": 8,
+      "heating": "Merkezi",
+      "furnishing": "Furnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500792082602?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500635936683?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500615965238?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500992182749?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500959554154?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500051423639?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500032466614?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500836254070?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500405106292?w=800&q=80&category=building"
+    ],
+    "agent": {
+      "id": "A72",
+      "name": "Agent 33",
+      "phone": "+16 292 758 6377",
+      "email": "agent75@iwrealty.com",
+      "photo": "/images/icons/png/izmir-sahil-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": false,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2024-12-20T10:50:47.259Z",
+    "updatedAt": "2025-11-13T10:50:47.259Z",
+    "storeId": "store-005"
+  },
+  {
+    "id": "P07695",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Daire - City of San Marino",
+    "slug": "satilik-daire-city-of-san-marino-P07695",
+    "description": "City of San Marino, San Marino bölgesinde daire. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 3241776,
+    "location": {
+      "country": "SM",
+      "city": "City of San Marino",
+      "district": "City of San Marino Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 465",
+      "coordinates": {
+        "lat": 43.67946091954948,
+        "lng": 12.42649433748568
+      }
+    },
+    "specs": {
+      "netSize": 243,
+      "grossSize": 292,
+      "rooms": "5+0",
+      "bathrooms": 4,
+      "age": 12,
+      "floor": 4,
+      "totalFloors": 10,
+      "heating": "Merkezi",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500531154570?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500860019369?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500809995527?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500777365552?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500674147117?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500016964023?w=800&q=80&category=building"
+    ],
+    "agent": {
+      "id": "A16",
+      "name": "Agent 69",
+      "phone": "+18 380 287 2505",
+      "email": "agent58@iwrealty.com",
+      "photo": "/images/icons/png/izmir-sahil-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": true,
+      "hasSecurity": false
+    },
+    "createdAt": "2024-12-10T10:50:47.259Z",
+    "updatedAt": "2025-11-13T10:50:47.259Z",
+    "storeId": "store-005"
+  },
+  {
+    "id": "P07696",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Residence - City of San Marino",
+    "slug": "kiralik-residence-city-of-san-marino-P07696",
+    "description": "City of San Marino, San Marino bölgesinde residence. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 2752438,
+    "location": {
+      "country": "SM",
+      "city": "City of San Marino",
+      "district": "City of San Marino Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 572",
+      "coordinates": {
+        "lat": 43.98797109775285,
+        "lng": 12.666368244408378
+      }
+    },
+    "specs": {
+      "netSize": 373,
+      "grossSize": 448,
+      "rooms": "3+2",
+      "bathrooms": 3,
+      "age": 9,
+      "floor": 12,
+      "totalFloors": 7,
+      "heating": "Klima",
+      "furnishing": "Furnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500234221935?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500719455794?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500458150479?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500307545140?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500375312916?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500213395426?w=800&q=80&category=real-estate"
+    ],
+    "agent": {
+      "id": "A13",
+      "name": "Agent 69",
+      "phone": "+24 432 743 6642",
+      "email": "agent95@iwrealty.com",
+      "photo": "/images/icons/png/sg-harbour-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-10-24T10:50:47.259Z",
+    "updatedAt": "2025-11-13T10:50:47.259Z",
+    "storeId": "store-011"
+  },
+  {
+    "id": "P07697",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Müstakil Ev - New San Marino",
+    "slug": "satilik-müstakil-ev-new-san-marino-P07697",
+    "description": "New San Marino, San Marino bölgesinde müstakil ev. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 6706019,
+    "location": {
+      "country": "SM",
+      "city": "New San Marino",
+      "district": "New San Marino Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 768",
+      "coordinates": {
+        "lat": 43.349399753798295,
+        "lng": 12.716469782518207
+      }
+    },
+    "specs": {
+      "netSize": 90,
+      "grossSize": 108,
+      "rooms": "2+1",
+      "bathrooms": 3,
+      "age": 17,
+      "floor": 11,
+      "totalFloors": 20,
+      "heating": "Kombi",
+      "furnishing": "Unfurnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500382974126?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500330088215?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500917172168?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500040071191?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500729860177?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500025973651?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500878368169?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500998684646?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500931541510?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500732343580?w=800&q=80&category=interior"
+    ],
+    "agent": {
+      "id": "A5",
+      "name": "Agent 45",
+      "phone": "+67 318 807 4953",
+      "email": "agent47@iwrealty.com",
+      "photo": "/images/icons/png/ny-skyline-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-01-13T10:50:47.259Z",
+    "updatedAt": "2025-11-13T10:50:47.259Z",
+    "storeId": "store-008"
+  },
+  {
+    "id": "P07698",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Müstakil Ev - New San Marino",
+    "slug": "kiralik-müstakil-ev-new-san-marino-P07698",
+    "description": "New San Marino, San Marino bölgesinde müstakil ev. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 4630910,
+    "location": {
+      "country": "SM",
+      "city": "New San Marino",
+      "district": "New San Marino Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 652",
+      "coordinates": {
+        "lat": 43.783195625065915,
+        "lng": 12.489365473048409
+      }
+    },
+    "specs": {
+      "netSize": 420,
+      "grossSize": 504,
+      "rooms": "1+1",
+      "bathrooms": 4,
+      "age": 19,
+      "floor": 14,
+      "totalFloors": 19,
+      "heating": "Kombi",
+      "furnishing": "Unfurnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500504152585?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500176904362?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500076720883?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500862137001?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500971074107?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500336567103?w=800&q=80&category=architecture"
+    ],
+    "agent": {
+      "id": "A11",
+      "name": "Agent 76",
+      "phone": "+57 171 677 4146",
+      "email": "agent39@iwrealty.com",
+      "photo": "/images/icons/png/paris-heritage-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": false,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-09-26T10:50:47.259Z",
+    "updatedAt": "2025-11-13T10:50:47.259Z",
+    "storeId": "store-010"
+  },
+  {
+    "id": "P07699",
+    "type": "sale",
+    "category": {
+      "main": "commercial",
+      "sub": "hospital"
+    },
+    "title": "Satılık Hastane - San Marino City",
+    "slug": "satilik-hastane-san-marino-city-P07699",
+    "description": "San Marino City, San Marino bölgesinde hastane. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 97522189,
+    "location": {
+      "country": "SM",
+      "city": "San Marino City",
+      "district": "San Marino City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 24",
+      "coordinates": {
+        "lat": 44.22602692201109,
+        "lng": 12.66025980777047
+      }
+    },
+    "specs": {
+      "netSize": 4698,
+      "grossSize": 5638,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 8,
+      "floor": 14,
+      "totalFloors": 15,
+      "heating": "Merkezi",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500761696751?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500158553166?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500690783345?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500540037352?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500423990168?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500152193229?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500233745370?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500949312955?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500993752443?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500821814846?w=800&q=80&category=building"
+    ],
+    "agent": {
+      "id": "A53",
+      "name": "Agent 31",
+      "phone": "+50 572 787 3823",
+      "email": "agent60@iwrealty.com",
+      "photo": "/images/icons/png/london-prime-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2024-11-17T10:50:47.259Z",
+    "updatedAt": "2025-11-13T10:50:47.259Z",
+    "storeId": "store-007"
+  },
+  {
+    "id": "P07700",
+    "type": "rent",
+    "category": {
+      "main": "commercial",
+      "sub": "hospital"
+    },
+    "title": "Kiralık Hastane - San Marino Central",
+    "slug": "kiralik-hastane-san-marino-central-P07700",
+    "description": "San Marino Central, San Marino bölgesinde hastane. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 22564487,
+    "location": {
+      "country": "SM",
+      "city": "San Marino Central",
+      "district": "San Marino Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 83",
+      "coordinates": {
+        "lat": 43.4169931988772,
+        "lng": 12.787650210959049
+      }
+    },
+    "specs": {
+      "netSize": 9725,
+      "grossSize": 11670,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 3,
+      "floor": 7,
+      "totalFloors": 5,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500024532126?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500072144962?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500649174846?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500182448842?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500129026152?w=800&q=80&category=interior"
+    ],
+    "agent": {
+      "id": "A28",
+      "name": "Agent 94",
+      "phone": "+29 551 704 7439",
+      "email": "agent37@iwrealty.com",
+      "photo": "/images/icons/png/sg-harbour-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": false,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-07-19T10:50:47.259Z",
+    "updatedAt": "2025-11-13T10:50:47.259Z",
+    "storeId": "store-011"
+  },
+  {
+    "id": "P07701",
+    "type": "sale",
+    "category": {
+      "main": "commercial",
+      "sub": "clinic"
+    },
+    "title": "Satılık Klinik - San Marino Central",
+    "slug": "satilik-klinik-san-marino-central-P07701",
+    "description": "San Marino Central, San Marino bölgesinde klinik. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 14633411,
+    "location": {
+      "country": "SM",
+      "city": "San Marino Central",
+      "district": "San Marino Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 916",
+      "coordinates": {
+        "lat": 44.258459488236504,
+        "lng": 12.697765527092791
+      }
+    },
+    "specs": {
+      "netSize": 302,
+      "grossSize": 362,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 9,
+      "floor": 1,
+      "totalFloors": 10,
+      "heating": "Merkezi",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500132911396?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500799973499?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500506562487?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500965261034?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500767186648?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500203438095?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500085928817?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500347773241?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500521887135?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500052051015?w=800&q=80&category=real-estate"
+    ],
+    "agent": {
+      "id": "A29",
+      "name": "Agent 47",
+      "phone": "+58 101 615 5107",
+      "email": "agent62@iwrealty.com",
+      "photo": "/images/icons/png/berlin-urban-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-06-13T10:50:47.259Z",
+    "updatedAt": "2025-11-13T10:50:47.259Z",
+    "storeId": "store-009"
+  },
+  {
+    "id": "P07702",
+    "type": "rent",
+    "category": {
+      "main": "commercial",
+      "sub": "clinic"
+    },
+    "title": "Kiralık Klinik - New San Marino",
+    "slug": "kiralik-klinik-new-san-marino-P07702",
+    "description": "New San Marino, San Marino bölgesinde klinik. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 11985378,
+    "location": {
+      "country": "SM",
+      "city": "New San Marino",
+      "district": "New San Marino Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 125",
+      "coordinates": {
+        "lat": 43.778378469311214,
+        "lng": 12.458378319326679
+      }
+    },
+    "specs": {
+      "netSize": 1621,
+      "grossSize": 1945,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 18,
+      "floor": 14,
+      "totalFloors": 8,
+      "heating": "Klima",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500724819905?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500443945741?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500632892047?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500949980584?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500273791393?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500790053813?w=800&q=80&category=interior"
+    ],
+    "agent": {
+      "id": "A85",
+      "name": "Agent 76",
+      "phone": "+39 203 145 3908",
+      "email": "agent30@iwrealty.com",
+      "photo": "/images/icons/png/sg-harbour-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": false,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-04-01T10:50:47.259Z",
+    "updatedAt": "2025-11-13T10:50:47.259Z",
+    "storeId": "store-011"
+  },
+  {
+    "id": "P07703",
+    "type": "sale",
+    "category": {
+      "main": "commercial",
+      "sub": "shop"
+    },
+    "title": "Satılık Dükkan - New San Marino",
+    "slug": "satilik-dükkan-new-san-marino-P07703",
+    "description": "New San Marino, San Marino bölgesinde dükkan. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 7431712,
+    "location": {
+      "country": "SM",
+      "city": "New San Marino",
+      "district": "New San Marino Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 96",
+      "coordinates": {
+        "lat": 43.9992581809051,
+        "lng": 12.267705312400215
+      }
+    },
+    "specs": {
+      "netSize": 176,
+      "grossSize": 211,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 8,
+      "floor": 11,
+      "totalFloors": 9,
+      "heating": "Kombi",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500062532386?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500854476707?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500979117090?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500933770118?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500107070331?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500873622154?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500290303008?w=800&q=80&category=house"
+    ],
+    "agent": {
+      "id": "A7",
+      "name": "Agent 1",
+      "phone": "+27 913 893 4149",
+      "email": "agent12@iwrealty.com",
+      "photo": "/images/icons/png/dubai-property-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-05-17T10:50:47.259Z",
+    "updatedAt": "2025-11-13T10:50:47.259Z",
+    "storeId": "store-004"
+  },
+  {
+    "id": "P07704",
+    "type": "rent",
+    "category": {
+      "main": "commercial",
+      "sub": "shop"
+    },
+    "title": "Kiralık Dükkan - City of San Marino",
+    "slug": "kiralik-dükkan-city-of-san-marino-P07704",
+    "description": "City of San Marino, San Marino bölgesinde dükkan. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 5193676,
+    "location": {
+      "country": "SM",
+      "city": "City of San Marino",
+      "district": "City of San Marino Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 988",
+      "coordinates": {
+        "lat": 43.44625423283481,
+        "lng": 12.230484405259787
+      }
+    },
+    "specs": {
+      "netSize": 250,
+      "grossSize": 300,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 3,
+      "floor": 13,
+      "totalFloors": 14,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500061596021?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500574124644?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500671720043?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500871802924?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500040869743?w=800&q=80&category=building"
+    ],
+    "agent": {
+      "id": "A91",
+      "name": "Agent 18",
+      "phone": "+10 353 627 9144",
+      "email": "agent6@iwrealty.com",
+      "photo": "/images/icons/png/izmir-sahil-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": false,
+      "hasBalcony": false,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-07-10T10:50:47.259Z",
+    "updatedAt": "2025-11-13T10:50:47.259Z",
+    "storeId": "store-005"
+  },
+  {
+    "id": "P07705",
+    "type": "sale",
+    "category": {
+      "main": "commercial",
+      "sub": "office"
+    },
+    "title": "Satılık Ofis - New San Marino",
+    "slug": "satilik-ofis-new-san-marino-P07705",
+    "description": "New San Marino, San Marino bölgesinde ofis. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 12880265,
+    "location": {
+      "country": "SM",
+      "city": "New San Marino",
+      "district": "New San Marino Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 422",
+      "coordinates": {
+        "lat": 43.94266590392165,
+        "lng": 12.694991231867643
+      }
+    },
+    "specs": {
+      "netSize": 834,
+      "grossSize": 1001,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 0,
+      "floor": 11,
+      "totalFloors": 12,
+      "heating": "Merkezi",
+      "furnishing": "Furnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500369314371?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500098574871?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500630638232?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500574698521?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500461359077?w=800&q=80&category=building"
+    ],
+    "agent": {
+      "id": "A84",
+      "name": "Agent 9",
+      "phone": "+95 692 742 1915",
+      "email": "agent33@iwrealty.com",
+      "photo": "/images/icons/png/london-prime-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-01-17T10:50:47.259Z",
+    "updatedAt": "2025-11-13T10:50:47.259Z",
+    "storeId": "store-007"
+  },
+  {
+    "id": "P07706",
+    "type": "rent",
+    "category": {
+      "main": "commercial",
+      "sub": "office"
+    },
+    "title": "Kiralık Ofis - San Marino Central",
+    "slug": "kiralik-ofis-san-marino-central-P07706",
+    "description": "San Marino Central, San Marino bölgesinde ofis. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 3094191,
+    "location": {
+      "country": "SM",
+      "city": "San Marino Central",
+      "district": "San Marino Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 919",
+      "coordinates": {
+        "lat": 43.68070870680996,
+        "lng": 12.458067924129796
+      }
+    },
+    "specs": {
+      "netSize": 194,
+      "grossSize": 233,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 19,
+      "floor": 5,
+      "totalFloors": 5,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Unfurnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500246303574?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500782385366?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500643685651?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500902306988?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500858168370?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500046499995?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500878905805?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500033243991?w=800&q=80&category=house"
+    ],
+    "agent": {
+      "id": "A100",
+      "name": "Agent 63",
+      "phone": "+62 596 524 9659",
+      "email": "agent56@iwrealty.com",
+      "photo": "/images/icons/png/izmir-sahil-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": false,
+      "hasBalcony": false,
+      "hasGarden": true,
+      "hasPool": true,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-07-10T10:50:47.259Z",
+    "updatedAt": "2025-11-13T10:50:47.259Z",
+    "storeId": "store-005"
+  },
+  {
+    "id": "P07707",
+    "type": "sale",
+    "category": {
+      "main": "commercial",
+      "sub": "mall"
+    },
+    "title": "Satılık AVM - City of San Marino",
+    "slug": "satilik-avm-city-of-san-marino-P07707",
+    "description": "City of San Marino, San Marino bölgesinde avm. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 386623504,
+    "location": {
+      "country": "SM",
+      "city": "City of San Marino",
+      "district": "City of San Marino Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 684",
+      "coordinates": {
+        "lat": 43.27441076246761,
+        "lng": 12.501926823631484
+      }
+    },
+    "specs": {
+      "netSize": 28039,
+      "grossSize": 33647,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 16,
+      "floor": 9,
+      "totalFloors": 7,
+      "heating": "Merkezi",
+      "furnishing": "Furnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500689183322?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500627131537?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500164432798?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500923245844?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500918198814?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500633749253?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500203722163?w=800&q=80&category=house"
+    ],
+    "agent": {
+      "id": "A37",
+      "name": "Agent 52",
+      "phone": "+21 106 771 7950",
+      "email": "agent6@iwrealty.com",
+      "photo": "/images/icons/png/ny-skyline-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-06-30T10:50:47.259Z",
+    "updatedAt": "2025-11-13T10:50:47.259Z",
+    "storeId": "store-008"
+  },
+  {
+    "id": "P07708",
+    "type": "rent",
+    "category": {
+      "main": "commercial",
+      "sub": "mall"
+    },
+    "title": "Kiralık AVM - City of San Marino",
+    "slug": "kiralik-avm-city-of-san-marino-P07708",
+    "description": "City of San Marino, San Marino bölgesinde avm. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 109375701,
+    "location": {
+      "country": "SM",
+      "city": "City of San Marino",
+      "district": "City of San Marino Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 804",
+      "coordinates": {
+        "lat": 43.45772969165795,
+        "lng": 12.842330390607005
+      }
+    },
+    "specs": {
+      "netSize": 47380,
+      "grossSize": 56856,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 15,
+      "floor": 9,
+      "totalFloors": 17,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Furnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500215617798?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500681790339?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500645873961?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500527892492?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500452799837?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500311617730?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500923248890?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500610490532?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500024847784?w=800&q=80&category=architecture"
+    ],
+    "agent": {
+      "id": "A70",
+      "name": "Agent 87",
+      "phone": "+76 236 479 3272",
+      "email": "agent94@iwrealty.com",
+      "photo": "/images/icons/png/luxury-homes-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": true,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-08-12T10:50:47.259Z",
+    "updatedAt": "2025-11-13T10:50:47.259Z",
+    "storeId": "store-002"
+  },
+  {
+    "id": "P07709",
+    "type": "sale",
+    "category": {
+      "main": "commercial",
+      "sub": "hotel"
+    },
+    "title": "Satılık Otel - San Marino City",
+    "slug": "satilik-otel-san-marino-city-P07709",
+    "description": "San Marino City, San Marino bölgesinde otel. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 103628946,
+    "location": {
+      "country": "SM",
+      "city": "San Marino City",
+      "district": "San Marino City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 724",
+      "coordinates": {
+        "lat": 43.34889583651536,
+        "lng": 12.03338640924272
+      }
+    },
+    "specs": {
+      "netSize": 8066,
+      "grossSize": 9679,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 3,
+      "floor": 12,
+      "totalFloors": 13,
+      "heating": "Merkezi",
+      "furnishing": "Furnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500945113855?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500602812887?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500953165158?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500267136002?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500551381529?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500364445118?w=800&q=80&category=architecture"
+    ],
+    "agent": {
+      "id": "A39",
+      "name": "Agent 73",
+      "phone": "+66 993 714 8291",
+      "email": "agent78@iwrealty.com",
+      "photo": "/images/icons/png/london-prime-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": true,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-03-03T10:50:47.259Z",
+    "updatedAt": "2025-11-13T10:50:47.259Z",
+    "storeId": "store-007"
+  },
+  {
+    "id": "P07710",
+    "type": "rent",
+    "category": {
+      "main": "commercial",
+      "sub": "hotel"
+    },
+    "title": "Kiralık Otel - San Marino City",
+    "slug": "kiralik-otel-san-marino-city-P07710",
+    "description": "San Marino City, San Marino bölgesinde otel. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 53160085,
+    "location": {
+      "country": "SM",
+      "city": "San Marino City",
+      "district": "San Marino City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 597",
+      "coordinates": {
+        "lat": 43.99736447893965,
+        "lng": 12.085745795020893
+      }
+    },
+    "specs": {
+      "netSize": 3624,
+      "grossSize": 4349,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 18,
+      "floor": 6,
+      "totalFloors": 8,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500809593389?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500928944272?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500163979249?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500222240847?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500739281041?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500731560574?w=800&q=80&category=house"
+    ],
+    "agent": {
+      "id": "A31",
+      "name": "Agent 22",
+      "phone": "+56 586 763 9763",
+      "email": "agent24@iwrealty.com",
+      "photo": "/images/icons/png/ny-skyline-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-04-21T10:50:47.259Z",
+    "updatedAt": "2025-11-13T10:50:47.259Z",
+    "storeId": "store-008"
+  },
+  {
+    "id": "P07711",
+    "type": "sale",
+    "category": {
+      "main": "commercial",
+      "sub": "restaurant"
+    },
+    "title": "Satılık Restoran - City of San Marino",
+    "slug": "satilik-restoran-city-of-san-marino-P07711",
+    "description": "City of San Marino, San Marino bölgesinde restoran. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 9146061,
+    "location": {
+      "country": "SM",
+      "city": "City of San Marino",
+      "district": "City of San Marino Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 187",
+      "coordinates": {
+        "lat": 43.46058407398708,
+        "lng": 12.08736517216871
+      }
+    },
+    "specs": {
+      "netSize": 1487,
+      "grossSize": 1784,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 2,
+      "floor": 8,
+      "totalFloors": 11,
+      "heating": "Klima",
+      "furnishing": "Unfurnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500776319107?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500265360117?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500945003441?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500061046092?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500495096930?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500051315718?w=800&q=80&category=architecture"
+    ],
+    "agent": {
+      "id": "A52",
+      "name": "Agent 27",
+      "phone": "+83 863 419 2164",
+      "email": "agent9@iwrealty.com",
+      "photo": "/images/icons/png/dubai-property-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": true,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-01-29T10:50:47.259Z",
+    "updatedAt": "2025-11-13T10:50:47.259Z",
+    "storeId": "store-004"
+  },
+  {
+    "id": "P07712",
+    "type": "rent",
+    "category": {
+      "main": "commercial",
+      "sub": "restaurant"
+    },
+    "title": "Kiralık Restoran - City of San Marino",
+    "slug": "kiralik-restoran-city-of-san-marino-P07712",
+    "description": "City of San Marino, San Marino bölgesinde restoran. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 5696848,
+    "location": {
+      "country": "SM",
+      "city": "City of San Marino",
+      "district": "City of San Marino Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 898",
+      "coordinates": {
+        "lat": 43.91162730851315,
+        "lng": 12.595577648436649
+      }
+    },
+    "specs": {
+      "netSize": 396,
+      "grossSize": 475,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 6,
+      "floor": 4,
+      "totalFloors": 13,
+      "heating": "Kombi",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500718346951?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500072665297?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500997414706?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500710277856?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500979250180?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500879211242?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500569906979?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500820092378?w=800&q=80&category=house"
+    ],
+    "agent": {
+      "id": "A81",
+      "name": "Agent 60",
+      "phone": "+55 620 997 7946",
+      "email": "agent41@iwrealty.com",
+      "photo": "/images/icons/png/izmir-sahil-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-01-31T10:50:47.259Z",
+    "updatedAt": "2025-11-13T10:50:47.259Z",
+    "storeId": "store-005"
+  },
+  {
+    "id": "P07713",
+    "type": "sale",
+    "category": {
+      "main": "commercial",
+      "sub": "warehouse"
+    },
+    "title": "Satılık Depo - City of San Marino",
+    "slug": "satilik-depo-city-of-san-marino-P07713",
+    "description": "City of San Marino, San Marino bölgesinde depo. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 10699262,
+    "location": {
+      "country": "SM",
+      "city": "City of San Marino",
+      "district": "City of San Marino Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 709",
+      "coordinates": {
+        "lat": 43.31351168730463,
+        "lng": 12.79739215541831
+      }
+    },
+    "specs": {
+      "netSize": 694,
+      "grossSize": 833,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 12,
+      "floor": 1,
+      "totalFloors": 13,
+      "heating": "Kombi",
+      "furnishing": "Unfurnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500933907948?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500284432095?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500834616919?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500021178660?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500600794353?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500684091234?w=800&q=80&category=interior"
+    ],
+    "agent": {
+      "id": "A99",
+      "name": "Agent 94",
+      "phone": "+83 349 512 5793",
+      "email": "agent33@iwrealty.com",
+      "photo": "/images/icons/png/antalya-investment-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-09-18T10:50:47.259Z",
+    "updatedAt": "2025-11-13T10:50:47.259Z",
+    "storeId": "store-006"
+  },
+  {
+    "id": "P07714",
+    "type": "rent",
+    "category": {
+      "main": "commercial",
+      "sub": "warehouse"
+    },
+    "title": "Kiralık Depo - San Marino City",
+    "slug": "kiralik-depo-san-marino-city-P07714",
+    "description": "San Marino City, San Marino bölgesinde depo. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 18400420,
+    "location": {
+      "country": "SM",
+      "city": "San Marino City",
+      "district": "San Marino City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 890",
+      "coordinates": {
+        "lat": 43.33069178933431,
+        "lng": 12.715475700432908
+      }
+    },
+    "specs": {
+      "netSize": 2435,
+      "grossSize": 2922,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 8,
+      "floor": 4,
+      "totalFloors": 5,
+      "heating": "Kombi",
+      "furnishing": "Furnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500570653509?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500380698953?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500318333663?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500997696770?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500223355093?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500538961083?w=800&q=80&category=interior"
+    ],
+    "agent": {
+      "id": "A46",
+      "name": "Agent 8",
+      "phone": "+17 556 197 2436",
+      "email": "agent7@iwrealty.com",
+      "photo": "/images/icons/png/luxury-homes-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-01-19T10:50:47.259Z",
+    "updatedAt": "2025-11-13T10:50:47.259Z",
+    "storeId": "store-002"
+  }
+]

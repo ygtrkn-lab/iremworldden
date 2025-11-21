@@ -1,0 +1,2344 @@
+[
+  {
+    "id": "P00001",
+    "type": "sale",
+    "category": {
+      "main": "government"
+    },
+    "title": "Satılık Belediye Binası - New Aruba",
+    "slug": "satilik-belediye-binası-new-aruba-P00001",
+    "description": "New Aruba, Aruba bölgesinde belediye binası. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 26287078,
+    "location": {
+      "country": "AW",
+      "city": "New Aruba",
+      "district": "New Aruba Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 713",
+      "coordinates": {
+        "lat": 12.340682358499008,
+        "lng": -70.2889810907618
+      }
+    },
+    "specs": {
+      "netSize": 4652,
+      "grossSize": 5582,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 18,
+      "floor": 5,
+      "totalFloors": 9,
+      "heating": "Kombi",
+      "furnishing": "Furnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500440906379?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500615105748?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500886260556?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500770694915?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500040112123?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500515977635?w=800&q=80&category=building"
+    ],
+    "agent": {
+      "id": "A25",
+      "name": "Agent 21",
+      "phone": "+28 918 614 1565",
+      "email": "agent88@iwrealty.com",
+      "photo": "/images/icons/png/izmir-sahil-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": true,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-06-21T10:50:47.171Z",
+    "updatedAt": "2025-11-13T10:50:47.171Z",
+    "storeId": "store-005"
+  },
+  {
+    "id": "P00002",
+    "type": "rent",
+    "category": {
+      "main": "government"
+    },
+    "title": "Kiralık Belediye Binası - Oranjestad",
+    "slug": "kiralik-belediye-binası-oranjestad-P00002",
+    "description": "Oranjestad, Aruba bölgesinde belediye binası. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 45377032,
+    "location": {
+      "country": "AW",
+      "city": "Oranjestad",
+      "district": "Oranjestad Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 362",
+      "coordinates": {
+        "lat": 12.160259112871028,
+        "lng": -70.08437350819997
+      }
+    },
+    "specs": {
+      "netSize": 1289,
+      "grossSize": 1547,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 2,
+      "floor": 3,
+      "totalFloors": 18,
+      "heating": "Merkezi",
+      "furnishing": "Unfurnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500475923093?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500910415297?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500385282936?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500095479482?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500418095414?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500849973605?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500171338317?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500143092555?w=800&q=80&category=architecture"
+    ],
+    "agent": {
+      "id": "A75",
+      "name": "Agent 47",
+      "phone": "+33 524 858 7741",
+      "email": "agent10@iwrealty.com",
+      "photo": "/images/icons/png/ny-skyline-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-02-16T10:50:47.171Z",
+    "updatedAt": "2025-11-13T10:50:47.171Z",
+    "storeId": "store-008"
+  },
+  {
+    "id": "P00003",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Villa - Oranjestad",
+    "slug": "satilik-villa-oranjestad-P00003",
+    "description": "Oranjestad, Aruba bölgesinde villa. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 7417363,
+    "location": {
+      "country": "AW",
+      "city": "Oranjestad",
+      "district": "Oranjestad Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 93",
+      "coordinates": {
+        "lat": 12.920797433014584,
+        "lng": -70.38414845787128
+      }
+    },
+    "specs": {
+      "netSize": 144,
+      "grossSize": 173,
+      "rooms": "5+1",
+      "bathrooms": 3,
+      "age": 15,
+      "floor": 13,
+      "totalFloors": 12,
+      "heating": "Klima",
+      "furnishing": "Unfurnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500805134398?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500235131657?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500564489231?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500477333778?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500199315835?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500199354256?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500647101049?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500217852607?w=800&q=80&category=real-estate"
+    ],
+    "agent": {
+      "id": "A65",
+      "name": "Agent 83",
+      "phone": "+75 525 410 2811",
+      "email": "agent34@iwrealty.com",
+      "photo": "/images/icons/png/izmir-sahil-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": false,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": true,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-06-29T10:50:47.172Z",
+    "updatedAt": "2025-11-13T10:50:47.172Z",
+    "storeId": "store-005"
+  },
+  {
+    "id": "P00004",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Residence - Aruba City",
+    "slug": "kiralik-residence-aruba-city-P00004",
+    "description": "Aruba City, Aruba bölgesinde residence. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 11242095,
+    "location": {
+      "country": "AW",
+      "city": "Aruba City",
+      "district": "Aruba City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 117",
+      "coordinates": {
+        "lat": 12.103204506551775,
+        "lng": -70.08359476358427
+      }
+    },
+    "specs": {
+      "netSize": 293,
+      "grossSize": 352,
+      "rooms": "4+0",
+      "bathrooms": 4,
+      "age": 0,
+      "floor": 8,
+      "totalFloors": 15,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500067691721?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500940454412?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500398756693?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500101623760?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500157156548?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500976200757?w=800&q=80&category=architecture"
+    ],
+    "agent": {
+      "id": "A46",
+      "name": "Agent 48",
+      "phone": "+48 103 609 1236",
+      "email": "agent49@iwrealty.com",
+      "photo": "/images/icons/png/dubai-property-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": false,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-04-18T10:50:47.172Z",
+    "updatedAt": "2025-11-13T10:50:47.172Z",
+    "storeId": "store-004"
+  },
+  {
+    "id": "P00005",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Residence - Oranjestad",
+    "slug": "satilik-residence-oranjestad-P00005",
+    "description": "Oranjestad, Aruba bölgesinde residence. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 11391164,
+    "location": {
+      "country": "AW",
+      "city": "Oranjestad",
+      "district": "Oranjestad Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 298",
+      "coordinates": {
+        "lat": 12.207472677382869,
+        "lng": -69.54732225108678
+      }
+    },
+    "specs": {
+      "netSize": 85,
+      "grossSize": 102,
+      "rooms": "1+0",
+      "bathrooms": 1,
+      "age": 4,
+      "floor": 10,
+      "totalFloors": 5,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500631269103?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500626740488?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500063753473?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500427921386?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500506791964?w=800&q=80&category=real-estate"
+    ],
+    "agent": {
+      "id": "A37",
+      "name": "Agent 75",
+      "phone": "+75 103 872 3050",
+      "email": "agent92@iwrealty.com",
+      "photo": "/images/icons/png/ankara-modern-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-04-01T10:50:47.172Z",
+    "updatedAt": "2025-11-13T10:50:47.172Z",
+    "storeId": "store-003"
+  },
+  {
+    "id": "P00006",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Daire - Oranjestad",
+    "slug": "kiralik-daire-oranjestad-P00006",
+    "description": "Oranjestad, Aruba bölgesinde daire. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 3427602,
+    "location": {
+      "country": "AW",
+      "city": "Oranjestad",
+      "district": "Oranjestad Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 491",
+      "coordinates": {
+        "lat": 12.812927612907602,
+        "lng": -69.66309234489779
+      }
+    },
+    "specs": {
+      "netSize": 474,
+      "grossSize": 569,
+      "rooms": "5+0",
+      "bathrooms": 2,
+      "age": 20,
+      "floor": 8,
+      "totalFloors": 15,
+      "heating": "Merkezi",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500879361848?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500289964610?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500178072079?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500915045445?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500282732166?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500791629565?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500804082492?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500818111237?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500810212627?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500543108533?w=800&q=80&category=real-estate"
+    ],
+    "agent": {
+      "id": "A29",
+      "name": "Agent 75",
+      "phone": "+48 493 520 8347",
+      "email": "agent89@iwrealty.com",
+      "photo": "/images/icons/png/london-prime-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": true,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-02-10T10:50:47.172Z",
+    "updatedAt": "2025-11-13T10:50:47.172Z",
+    "storeId": "store-007"
+  },
+  {
+    "id": "P00007",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Villa - New Aruba",
+    "slug": "satilik-villa-new-aruba-P00007",
+    "description": "New Aruba, Aruba bölgesinde villa. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 777187,
+    "location": {
+      "country": "AW",
+      "city": "New Aruba",
+      "district": "New Aruba Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 957",
+      "coordinates": {
+        "lat": 12.918147701560619,
+        "lng": -69.60551866065065
+      }
+    },
+    "specs": {
+      "netSize": 409,
+      "grossSize": 491,
+      "rooms": "4+1",
+      "bathrooms": 1,
+      "age": 8,
+      "floor": 11,
+      "totalFloors": 20,
+      "heating": "Merkezi",
+      "furnishing": "Furnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500477391574?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500323778376?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500772701367?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500524476646?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500602981223?w=800&q=80&category=house"
+    ],
+    "agent": {
+      "id": "A75",
+      "name": "Agent 64",
+      "phone": "+64 199 279 5577",
+      "email": "agent90@iwrealty.com",
+      "photo": "/images/icons/png/dubai-property-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-08-12T10:50:47.172Z",
+    "updatedAt": "2025-11-13T10:50:47.172Z",
+    "storeId": "store-004"
+  },
+  {
+    "id": "P00008",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Villa - Oranjestad",
+    "slug": "kiralik-villa-oranjestad-P00008",
+    "description": "Oranjestad, Aruba bölgesinde villa. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 12577109,
+    "location": {
+      "country": "AW",
+      "city": "Oranjestad",
+      "district": "Oranjestad Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 829",
+      "coordinates": {
+        "lat": 12.324964706149663,
+        "lng": -69.71076393933828
+      }
+    },
+    "specs": {
+      "netSize": 104,
+      "grossSize": 125,
+      "rooms": "3+0",
+      "bathrooms": 3,
+      "age": 14,
+      "floor": 1,
+      "totalFloors": 6,
+      "heating": "Merkezi",
+      "furnishing": "Unfurnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500512969905?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500185474320?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500876613376?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500939617800?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500157532969?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500991354297?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500732022135?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500421416674?w=800&q=80&category=house"
+    ],
+    "agent": {
+      "id": "A92",
+      "name": "Agent 23",
+      "phone": "+35 482 517 8928",
+      "email": "agent67@iwrealty.com",
+      "photo": "/images/icons/png/luxury-homes-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": true,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-10-24T10:50:47.172Z",
+    "updatedAt": "2025-11-13T10:50:47.172Z",
+    "storeId": "store-002"
+  },
+  {
+    "id": "P00009",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Daire - New Aruba",
+    "slug": "satilik-daire-new-aruba-P00009",
+    "description": "New Aruba, Aruba bölgesinde daire. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 12237451,
+    "location": {
+      "country": "AW",
+      "city": "New Aruba",
+      "district": "New Aruba Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 48",
+      "coordinates": {
+        "lat": 12.005940289911447,
+        "lng": -70.25189834214522
+      }
+    },
+    "specs": {
+      "netSize": 102,
+      "grossSize": 122,
+      "rooms": "1+0",
+      "bathrooms": 4,
+      "age": 18,
+      "floor": 5,
+      "totalFloors": 13,
+      "heating": "Klima",
+      "furnishing": "Unfurnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500333782255?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500898699105?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500881877679?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500603823157?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500124111530?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500228541378?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500122490908?w=800&q=80&category=real-estate"
+    ],
+    "agent": {
+      "id": "A9",
+      "name": "Agent 39",
+      "phone": "+19 966 873 5553",
+      "email": "agent15@iwrealty.com",
+      "photo": "/images/icons/png/luxury-homes-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-03-29T10:50:47.172Z",
+    "updatedAt": "2025-11-13T10:50:47.172Z",
+    "storeId": "store-002"
+  },
+  {
+    "id": "P00010",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Residence - Oranjestad",
+    "slug": "kiralik-residence-oranjestad-P00010",
+    "description": "Oranjestad, Aruba bölgesinde residence. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 4679154,
+    "location": {
+      "country": "AW",
+      "city": "Oranjestad",
+      "district": "Oranjestad Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 521",
+      "coordinates": {
+        "lat": 12.400529588807602,
+        "lng": -69.87951448764305
+      }
+    },
+    "specs": {
+      "netSize": 332,
+      "grossSize": 398,
+      "rooms": "4+0",
+      "bathrooms": 3,
+      "age": 4,
+      "floor": 12,
+      "totalFloors": 19,
+      "heating": "Kombi",
+      "furnishing": "Unfurnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500566031235?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500860646492?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500927822763?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500583549230?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500284571046?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500097424061?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500560284781?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500261554039?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500227069450?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500318790697?w=800&q=80&category=building"
+    ],
+    "agent": {
+      "id": "A99",
+      "name": "Agent 66",
+      "phone": "+96 493 921 8876",
+      "email": "agent70@iwrealty.com",
+      "photo": "/images/icons/png/paris-heritage-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-07-15T10:50:47.172Z",
+    "updatedAt": "2025-11-13T10:50:47.172Z",
+    "storeId": "store-010"
+  },
+  {
+    "id": "P00011",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Residence - Aruba City",
+    "slug": "satilik-residence-aruba-city-P00011",
+    "description": "Aruba City, Aruba bölgesinde residence. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 9249905,
+    "location": {
+      "country": "AW",
+      "city": "Aruba City",
+      "district": "Aruba City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 792",
+      "coordinates": {
+        "lat": 12.671127875419986,
+        "lng": -69.86032545659376
+      }
+    },
+    "specs": {
+      "netSize": 335,
+      "grossSize": 402,
+      "rooms": "1+1",
+      "bathrooms": 1,
+      "age": 18,
+      "floor": 3,
+      "totalFloors": 12,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Furnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500615105861?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500569010433?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500920128701?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500672984660?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500290258576?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500259495675?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500445264788?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500925854175?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500340872194?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500716066384?w=800&q=80&category=house"
+    ],
+    "agent": {
+      "id": "A79",
+      "name": "Agent 85",
+      "phone": "+91 327 471 8618",
+      "email": "agent31@iwrealty.com",
+      "photo": "/images/icons/png/dubai-property-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": true,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-05-12T10:50:47.172Z",
+    "updatedAt": "2025-11-13T10:50:47.172Z",
+    "storeId": "store-004"
+  },
+  {
+    "id": "P00012",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Müstakil Ev - Oranjestad",
+    "slug": "kiralik-müstakil-ev-oranjestad-P00012",
+    "description": "Oranjestad, Aruba bölgesinde müstakil ev. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 11170961,
+    "location": {
+      "country": "AW",
+      "city": "Oranjestad",
+      "district": "Oranjestad Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 722",
+      "coordinates": {
+        "lat": 12.009743726158323,
+        "lng": -69.6426944189452
+      }
+    },
+    "specs": {
+      "netSize": 478,
+      "grossSize": 574,
+      "rooms": "2+0",
+      "bathrooms": 1,
+      "age": 11,
+      "floor": 11,
+      "totalFloors": 20,
+      "heating": "Merkezi",
+      "furnishing": "Furnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500680867754?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500850851236?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500405412204?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500903719954?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500183891171?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500115748716?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500165578674?w=800&q=80&category=architecture"
+    ],
+    "agent": {
+      "id": "A7",
+      "name": "Agent 50",
+      "phone": "+94 772 235 4021",
+      "email": "agent32@iwrealty.com",
+      "photo": "/images/icons/png/izmir-sahil-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": true,
+      "hasSecurity": true
+    },
+    "createdAt": "2024-12-30T10:50:47.172Z",
+    "updatedAt": "2025-11-13T10:50:47.172Z",
+    "storeId": "store-005"
+  },
+  {
+    "id": "P00013",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Residence - Aruba Central",
+    "slug": "satilik-residence-aruba-central-P00013",
+    "description": "Aruba Central, Aruba bölgesinde residence. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 1164110,
+    "location": {
+      "country": "AW",
+      "city": "Aruba Central",
+      "district": "Aruba Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 123",
+      "coordinates": {
+        "lat": 12.324161226575985,
+        "lng": -69.58157742819999
+      }
+    },
+    "specs": {
+      "netSize": 152,
+      "grossSize": 182,
+      "rooms": "4+1",
+      "bathrooms": 2,
+      "age": 7,
+      "floor": 9,
+      "totalFloors": 14,
+      "heating": "Klima",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500138015021?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500544940977?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500569798668?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500163996578?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500337995226?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500499063679?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500694978928?w=800&q=80&category=building"
+    ],
+    "agent": {
+      "id": "A59",
+      "name": "Agent 51",
+      "phone": "+53 829 892 4013",
+      "email": "agent41@iwrealty.com",
+      "photo": "/images/icons/png/sg-harbour-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": false,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2024-12-19T10:50:47.172Z",
+    "updatedAt": "2025-11-13T10:50:47.172Z",
+    "storeId": "store-011"
+  },
+  {
+    "id": "P00014",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Daire - Oranjestad",
+    "slug": "kiralik-daire-oranjestad-P00014",
+    "description": "Oranjestad, Aruba bölgesinde daire. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 13858173,
+    "location": {
+      "country": "AW",
+      "city": "Oranjestad",
+      "district": "Oranjestad Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 969",
+      "coordinates": {
+        "lat": 12.843422747189544,
+        "lng": -69.6254548709485
+      }
+    },
+    "specs": {
+      "netSize": 477,
+      "grossSize": 572,
+      "rooms": "1+1",
+      "bathrooms": 1,
+      "age": 10,
+      "floor": 3,
+      "totalFloors": 15,
+      "heating": "Kombi",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500424961370?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500187827706?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500756285064?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500852318112?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500659807486?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500200716276?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500655409392?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500936734339?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500552796334?w=800&q=80&category=architecture"
+    ],
+    "agent": {
+      "id": "A12",
+      "name": "Agent 29",
+      "phone": "+13 283 713 7357",
+      "email": "agent89@iwrealty.com",
+      "photo": "/images/icons/png/ankara-modern-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": false,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": true,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-09-27T10:50:47.172Z",
+    "updatedAt": "2025-11-13T10:50:47.172Z",
+    "storeId": "store-003"
+  },
+  {
+    "id": "P00015",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Müstakil Ev - Oranjestad",
+    "slug": "satilik-müstakil-ev-oranjestad-P00015",
+    "description": "Oranjestad, Aruba bölgesinde müstakil ev. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 4193577,
+    "location": {
+      "country": "AW",
+      "city": "Oranjestad",
+      "district": "Oranjestad Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 316",
+      "coordinates": {
+        "lat": 12.936465522556423,
+        "lng": -70.31825547157818
+      }
+    },
+    "specs": {
+      "netSize": 293,
+      "grossSize": 352,
+      "rooms": "3+1",
+      "bathrooms": 4,
+      "age": 12,
+      "floor": 10,
+      "totalFloors": 14,
+      "heating": "Kombi",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500819426699?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500957652743?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500069487663?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500281506428?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500157224797?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500009254626?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500901786757?w=800&q=80&category=building"
+    ],
+    "agent": {
+      "id": "A12",
+      "name": "Agent 35",
+      "phone": "+68 439 463 8123",
+      "email": "agent70@iwrealty.com",
+      "photo": "/images/icons/png/sydney-coastal-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": false,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-11-01T10:50:47.172Z",
+    "updatedAt": "2025-11-13T10:50:47.172Z",
+    "storeId": "store-012"
+  },
+  {
+    "id": "P00016",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Müstakil Ev - Oranjestad",
+    "slug": "kiralik-müstakil-ev-oranjestad-P00016",
+    "description": "Oranjestad, Aruba bölgesinde müstakil ev. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 4821770,
+    "location": {
+      "country": "AW",
+      "city": "Oranjestad",
+      "district": "Oranjestad Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 708",
+      "coordinates": {
+        "lat": 12.693738588244333,
+        "lng": -69.55520510220535
+      }
+    },
+    "specs": {
+      "netSize": 474,
+      "grossSize": 569,
+      "rooms": "1+0",
+      "bathrooms": 4,
+      "age": 18,
+      "floor": 4,
+      "totalFloors": 11,
+      "heating": "Merkezi",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500728886566?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500707944777?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500006275274?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500836201055?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500409769080?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500739328531?w=800&q=80&category=building"
+    ],
+    "agent": {
+      "id": "A15",
+      "name": "Agent 70",
+      "phone": "+55 908 108 8480",
+      "email": "agent33@iwrealty.com",
+      "photo": "/images/icons/png/sydney-coastal-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": true,
+      "hasPool": true,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-08-29T10:50:47.172Z",
+    "updatedAt": "2025-11-13T10:50:47.172Z",
+    "storeId": "store-012"
+  },
+  {
+    "id": "P00017",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Daire - Aruba City",
+    "slug": "satilik-daire-aruba-city-P00017",
+    "description": "Aruba City, Aruba bölgesinde daire. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 7053479,
+    "location": {
+      "country": "AW",
+      "city": "Aruba City",
+      "district": "Aruba City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 57",
+      "coordinates": {
+        "lat": 12.195981941399769,
+        "lng": -70.36509095395046
+      }
+    },
+    "specs": {
+      "netSize": 474,
+      "grossSize": 569,
+      "rooms": "5+1",
+      "bathrooms": 3,
+      "age": 9,
+      "floor": 4,
+      "totalFloors": 12,
+      "heating": "Kombi",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500748995895?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500904535234?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500378358262?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500127166619?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500000260083?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500881132056?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500242428704?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500527752560?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500213018348?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500261091393?w=800&q=80&category=interior"
+    ],
+    "agent": {
+      "id": "A59",
+      "name": "Agent 30",
+      "phone": "+52 253 278 2306",
+      "email": "agent87@iwrealty.com",
+      "photo": "/images/icons/png/sg-harbour-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-02-08T10:50:47.172Z",
+    "updatedAt": "2025-11-13T10:50:47.172Z",
+    "storeId": "store-011"
+  },
+  {
+    "id": "P00018",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Residence - Aruba Central",
+    "slug": "kiralik-residence-aruba-central-P00018",
+    "description": "Aruba Central, Aruba bölgesinde residence. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 10758036,
+    "location": {
+      "country": "AW",
+      "city": "Aruba Central",
+      "district": "Aruba Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 46",
+      "coordinates": {
+        "lat": 12.925909230321084,
+        "lng": -69.70263907697728
+      }
+    },
+    "specs": {
+      "netSize": 415,
+      "grossSize": 498,
+      "rooms": "3+1",
+      "bathrooms": 4,
+      "age": 7,
+      "floor": 15,
+      "totalFloors": 14,
+      "heating": "Klima",
+      "furnishing": "Furnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500692959772?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500851695920?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500951352296?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500836053221?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500467367766?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500490450421?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500940046821?w=800&q=80&category=house"
+    ],
+    "agent": {
+      "id": "A98",
+      "name": "Agent 35",
+      "phone": "+67 591 120 9315",
+      "email": "agent2@iwrealty.com",
+      "photo": "/images/icons/png/luxury-homes-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": true,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-07-21T10:50:47.172Z",
+    "updatedAt": "2025-11-13T10:50:47.172Z",
+    "storeId": "store-002"
+  },
+  {
+    "id": "P00019",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Müstakil Ev - New Aruba",
+    "slug": "satilik-müstakil-ev-new-aruba-P00019",
+    "description": "New Aruba, Aruba bölgesinde müstakil ev. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 3463599,
+    "location": {
+      "country": "AW",
+      "city": "New Aruba",
+      "district": "New Aruba Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 102",
+      "coordinates": {
+        "lat": 12.450339667273052,
+        "lng": -70.01168727770337
+      }
+    },
+    "specs": {
+      "netSize": 357,
+      "grossSize": 428,
+      "rooms": "3+0",
+      "bathrooms": 2,
+      "age": 10,
+      "floor": 1,
+      "totalFloors": 8,
+      "heating": "Kombi",
+      "furnishing": "Unfurnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500368739055?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500312863332?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500046583941?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500363405589?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500171680178?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500627129003?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500912726484?w=800&q=80&category=interior"
+    ],
+    "agent": {
+      "id": "A71",
+      "name": "Agent 52",
+      "phone": "+36 177 805 8879",
+      "email": "agent67@iwrealty.com",
+      "photo": "/images/icons/png/sydney-coastal-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": true,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-09-15T10:50:47.172Z",
+    "updatedAt": "2025-11-13T10:50:47.172Z",
+    "storeId": "store-012"
+  },
+  {
+    "id": "P00020",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Müstakil Ev - Aruba City",
+    "slug": "kiralik-müstakil-ev-aruba-city-P00020",
+    "description": "Aruba City, Aruba bölgesinde müstakil ev. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 6097613,
+    "location": {
+      "country": "AW",
+      "city": "Aruba City",
+      "district": "Aruba City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 256",
+      "coordinates": {
+        "lat": 12.936643688546376,
+        "lng": -69.61891551617127
+      }
+    },
+    "specs": {
+      "netSize": 159,
+      "grossSize": 191,
+      "rooms": "3+1",
+      "bathrooms": 4,
+      "age": 2,
+      "floor": 4,
+      "totalFloors": 16,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Unfurnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500182413171?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500653281584?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500140159509?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500555021291?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500095375457?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500982191653?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500301210316?w=800&q=80&category=building"
+    ],
+    "agent": {
+      "id": "A4",
+      "name": "Agent 53",
+      "phone": "+36 466 860 5347",
+      "email": "agent27@iwrealty.com",
+      "photo": "/images/icons/png/izmir-sahil-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": false,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-01-10T10:50:47.172Z",
+    "updatedAt": "2025-11-13T10:50:47.172Z",
+    "storeId": "store-005"
+  },
+  {
+    "id": "P00021",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Residence - Oranjestad",
+    "slug": "satilik-residence-oranjestad-P00021",
+    "description": "Oranjestad, Aruba bölgesinde residence. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 5993981,
+    "location": {
+      "country": "AW",
+      "city": "Oranjestad",
+      "district": "Oranjestad Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 645",
+      "coordinates": {
+        "lat": 12.463729341022805,
+        "lng": -69.56298202186304
+      }
+    },
+    "specs": {
+      "netSize": 393,
+      "grossSize": 472,
+      "rooms": "2+2",
+      "bathrooms": 3,
+      "age": 3,
+      "floor": 13,
+      "totalFloors": 13,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Unfurnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500337288501?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500467349047?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500238099098?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500128821609?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500356192770?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500231380643?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500071170340?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500716254203?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500293540113?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500063823263?w=800&q=80&category=architecture"
+    ],
+    "agent": {
+      "id": "A95",
+      "name": "Agent 8",
+      "phone": "+57 189 648 7466",
+      "email": "agent98@iwrealty.com",
+      "photo": "/images/icons/png/antalya-investment-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": false,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": true,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-08-19T10:50:47.172Z",
+    "updatedAt": "2025-11-13T10:50:47.172Z",
+    "storeId": "store-006"
+  },
+  {
+    "id": "P00022",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Müstakil Ev - Oranjestad",
+    "slug": "kiralik-müstakil-ev-oranjestad-P00022",
+    "description": "Oranjestad, Aruba bölgesinde müstakil ev. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 3185561,
+    "location": {
+      "country": "AW",
+      "city": "Oranjestad",
+      "district": "Oranjestad Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 79",
+      "coordinates": {
+        "lat": 12.95450598091511,
+        "lng": -70.3322159203207
+      }
+    },
+    "specs": {
+      "netSize": 229,
+      "grossSize": 275,
+      "rooms": "5+2",
+      "bathrooms": 2,
+      "age": 5,
+      "floor": 12,
+      "totalFloors": 17,
+      "heating": "Kombi",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500055870313?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500052106127?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500310524451?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500556195390?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500515476825?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500827419483?w=800&q=80&category=interior"
+    ],
+    "agent": {
+      "id": "A95",
+      "name": "Agent 36",
+      "phone": "+25 352 111 1479",
+      "email": "agent19@iwrealty.com",
+      "photo": "/images/icons/png/izmir-sahil-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-06-09T10:50:47.172Z",
+    "updatedAt": "2025-11-13T10:50:47.172Z",
+    "storeId": "store-005"
+  },
+  {
+    "id": "P00023",
+    "type": "sale",
+    "category": {
+      "main": "commercial",
+      "sub": "hospital"
+    },
+    "title": "Satılık Hastane - New Aruba",
+    "slug": "satilik-hastane-new-aruba-P00023",
+    "description": "New Aruba, Aruba bölgesinde hastane. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 18040200,
+    "location": {
+      "country": "AW",
+      "city": "New Aruba",
+      "district": "New Aruba Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 272",
+      "coordinates": {
+        "lat": 12.774191291692958,
+        "lng": -69.62056995944288
+      }
+    },
+    "specs": {
+      "netSize": 12387,
+      "grossSize": 14864,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 12,
+      "floor": 3,
+      "totalFloors": 11,
+      "heating": "Klima",
+      "furnishing": "Furnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500169631722?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500833647259?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500730508445?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500914099739?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500748336606?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500311775335?w=800&q=80&category=house"
+    ],
+    "agent": {
+      "id": "A67",
+      "name": "Agent 34",
+      "phone": "+27 218 122 6985",
+      "email": "agent56@iwrealty.com",
+      "photo": "/images/icons/png/ankara-modern-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": false,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": true,
+      "hasSecurity": false
+    },
+    "createdAt": "2024-12-25T10:50:47.172Z",
+    "updatedAt": "2025-11-13T10:50:47.172Z",
+    "storeId": "store-003"
+  },
+  {
+    "id": "P00024",
+    "type": "rent",
+    "category": {
+      "main": "commercial",
+      "sub": "hospital"
+    },
+    "title": "Kiralık Hastane - Aruba City",
+    "slug": "kiralik-hastane-aruba-city-P00024",
+    "description": "Aruba City, Aruba bölgesinde hastane. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 97517405,
+    "location": {
+      "country": "AW",
+      "city": "Aruba City",
+      "district": "Aruba City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 891",
+      "coordinates": {
+        "lat": 12.653410332192971,
+        "lng": -69.55331486206302
+      }
+    },
+    "specs": {
+      "netSize": 10746,
+      "grossSize": 12895,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 15,
+      "floor": 2,
+      "totalFloors": 14,
+      "heating": "Klima",
+      "furnishing": "Unfurnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500714285534?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500089517578?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500690870553?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500922682931?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500938203823?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500945091276?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500884809098?w=800&q=80&category=house"
+    ],
+    "agent": {
+      "id": "A80",
+      "name": "Agent 2",
+      "phone": "+71 450 439 3548",
+      "email": "agent39@iwrealty.com",
+      "photo": "/images/icons/png/ny-skyline-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": false,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": true,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-05-14T10:50:47.172Z",
+    "updatedAt": "2025-11-13T10:50:47.172Z",
+    "storeId": "store-008"
+  },
+  {
+    "id": "P00025",
+    "type": "sale",
+    "category": {
+      "main": "commercial",
+      "sub": "clinic"
+    },
+    "title": "Satılık Klinik - New Aruba",
+    "slug": "satilik-klinik-new-aruba-P00025",
+    "description": "New Aruba, Aruba bölgesinde klinik. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 13336379,
+    "location": {
+      "country": "AW",
+      "city": "New Aruba",
+      "district": "New Aruba Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 497",
+      "coordinates": {
+        "lat": 12.729426630411659,
+        "lng": -69.85568851279056
+      }
+    },
+    "specs": {
+      "netSize": 275,
+      "grossSize": 330,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 3,
+      "floor": 6,
+      "totalFloors": 9,
+      "heating": "Klima",
+      "furnishing": "Unfurnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500292205424?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500758381969?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500252942706?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500742133375?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500317670762?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500851949881?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500423501491?w=800&q=80&category=house"
+    ],
+    "agent": {
+      "id": "A65",
+      "name": "Agent 23",
+      "phone": "+26 197 111 6228",
+      "email": "agent11@iwrealty.com",
+      "photo": "/images/icons/png/sydney-coastal-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2024-12-14T10:50:47.172Z",
+    "updatedAt": "2025-11-13T10:50:47.172Z",
+    "storeId": "store-012"
+  },
+  {
+    "id": "P00026",
+    "type": "rent",
+    "category": {
+      "main": "commercial",
+      "sub": "clinic"
+    },
+    "title": "Kiralık Klinik - Oranjestad",
+    "slug": "kiralik-klinik-oranjestad-P00026",
+    "description": "Oranjestad, Aruba bölgesinde klinik. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 12085409,
+    "location": {
+      "country": "AW",
+      "city": "Oranjestad",
+      "district": "Oranjestad Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 704",
+      "coordinates": {
+        "lat": 12.737189517069208,
+        "lng": -69.51451397669211
+      }
+    },
+    "specs": {
+      "netSize": 1682,
+      "grossSize": 2018,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 18,
+      "floor": 2,
+      "totalFloors": 6,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Furnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500851265469?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500583330196?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500339030170?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500808673499?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500798947474?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500334332856?w=800&q=80&category=real-estate"
+    ],
+    "agent": {
+      "id": "A56",
+      "name": "Agent 30",
+      "phone": "+12 596 782 2620",
+      "email": "agent33@iwrealty.com",
+      "photo": "/images/icons/png/berlin-urban-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-10-26T10:50:47.172Z",
+    "updatedAt": "2025-11-13T10:50:47.172Z",
+    "storeId": "store-009"
+  },
+  {
+    "id": "P00027",
+    "type": "sale",
+    "category": {
+      "main": "commercial",
+      "sub": "shop"
+    },
+    "title": "Satılık Dükkan - New Aruba",
+    "slug": "satilik-dükkan-new-aruba-P00027",
+    "description": "New Aruba, Aruba bölgesinde dükkan. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 2560820,
+    "location": {
+      "country": "AW",
+      "city": "New Aruba",
+      "district": "New Aruba Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 358",
+      "coordinates": {
+        "lat": 12.38578380424703,
+        "lng": -69.5624091526191
+      }
+    },
+    "specs": {
+      "netSize": 175,
+      "grossSize": 210,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 19,
+      "floor": 5,
+      "totalFloors": 17,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Unfurnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500261429604?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500173040556?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500991554959?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500420126936?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500417860669?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500265686691?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500323332074?w=800&q=80&category=house"
+    ],
+    "agent": {
+      "id": "A36",
+      "name": "Agent 43",
+      "phone": "+92 196 800 7807",
+      "email": "agent3@iwrealty.com",
+      "photo": "/images/icons/png/ny-skyline-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-10-05T10:50:47.172Z",
+    "updatedAt": "2025-11-13T10:50:47.172Z",
+    "storeId": "store-008"
+  },
+  {
+    "id": "P00028",
+    "type": "rent",
+    "category": {
+      "main": "commercial",
+      "sub": "shop"
+    },
+    "title": "Kiralık Dükkan - Oranjestad",
+    "slug": "kiralik-dükkan-oranjestad-P00028",
+    "description": "Oranjestad, Aruba bölgesinde dükkan. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 2771369,
+    "location": {
+      "country": "AW",
+      "city": "Oranjestad",
+      "district": "Oranjestad Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 646",
+      "coordinates": {
+        "lat": 12.736511338997367,
+        "lng": -69.92703503755882
+      }
+    },
+    "specs": {
+      "netSize": 84,
+      "grossSize": 101,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 11,
+      "floor": 9,
+      "totalFloors": 10,
+      "heating": "Merkezi",
+      "furnishing": "Furnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500799179684?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500202934528?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500598989539?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500307422488?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500313827774?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500762741206?w=800&q=80&category=architecture"
+    ],
+    "agent": {
+      "id": "A42",
+      "name": "Agent 69",
+      "phone": "+75 989 185 1125",
+      "email": "agent30@iwrealty.com",
+      "photo": "/images/icons/png/berlin-urban-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": false,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-05-31T10:50:47.172Z",
+    "updatedAt": "2025-11-13T10:50:47.172Z",
+    "storeId": "store-009"
+  },
+  {
+    "id": "P00029",
+    "type": "sale",
+    "category": {
+      "main": "commercial",
+      "sub": "office"
+    },
+    "title": "Satılık Ofis - Aruba City",
+    "slug": "satilik-ofis-aruba-city-P00029",
+    "description": "Aruba City, Aruba bölgesinde ofis. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 13072777,
+    "location": {
+      "country": "AW",
+      "city": "Aruba City",
+      "district": "Aruba City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 999",
+      "coordinates": {
+        "lat": 12.809654541228829,
+        "lng": -69.99753028186099
+      }
+    },
+    "specs": {
+      "netSize": 648,
+      "grossSize": 778,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 17,
+      "floor": 7,
+      "totalFloors": 11,
+      "heating": "Merkezi",
+      "furnishing": "Unfurnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500703463196?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500759743795?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500501061291?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500549557250?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500950749462?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500646746732?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500056156223?w=800&q=80&category=interior"
+    ],
+    "agent": {
+      "id": "A77",
+      "name": "Agent 85",
+      "phone": "+77 923 985 9237",
+      "email": "agent80@iwrealty.com",
+      "photo": "/images/icons/png/antalya-investment-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-11-06T10:50:47.172Z",
+    "updatedAt": "2025-11-13T10:50:47.172Z",
+    "storeId": "store-006"
+  },
+  {
+    "id": "P00030",
+    "type": "rent",
+    "category": {
+      "main": "commercial",
+      "sub": "office"
+    },
+    "title": "Kiralık Ofis - Oranjestad",
+    "slug": "kiralik-ofis-oranjestad-P00030",
+    "description": "Oranjestad, Aruba bölgesinde ofis. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 3298930,
+    "location": {
+      "country": "AW",
+      "city": "Oranjestad",
+      "district": "Oranjestad Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 756",
+      "coordinates": {
+        "lat": 12.658876190600806,
+        "lng": -70.44228464175144
+      }
+    },
+    "specs": {
+      "netSize": 662,
+      "grossSize": 794,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 7,
+      "floor": 4,
+      "totalFloors": 13,
+      "heating": "Kombi",
+      "furnishing": "Furnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500029964968?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500264566141?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500493722301?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500589257264?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500262761018?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500237023013?w=800&q=80&category=real-estate"
+    ],
+    "agent": {
+      "id": "A24",
+      "name": "Agent 45",
+      "phone": "+79 383 471 4814",
+      "email": "agent78@iwrealty.com",
+      "photo": "/images/icons/png/sg-harbour-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": false,
+      "hasBalcony": false,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-05-29T10:50:47.172Z",
+    "updatedAt": "2025-11-13T10:50:47.172Z",
+    "storeId": "store-011"
+  },
+  {
+    "id": "P00031",
+    "type": "sale",
+    "category": {
+      "main": "commercial",
+      "sub": "mall"
+    },
+    "title": "Satılık AVM - New Aruba",
+    "slug": "satilik-avm-new-aruba-P00031",
+    "description": "New Aruba, Aruba bölgesinde avm. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 213818154,
+    "location": {
+      "country": "AW",
+      "city": "New Aruba",
+      "district": "New Aruba Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 960",
+      "coordinates": {
+        "lat": 12.054705052153176,
+        "lng": -69.85058399335402
+      }
+    },
+    "specs": {
+      "netSize": 24648,
+      "grossSize": 29578,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 13,
+      "floor": 1,
+      "totalFloors": 10,
+      "heating": "Kombi",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500633902987?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500191232036?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500144749309?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500081433024?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500449003747?w=800&q=80&category=interior"
+    ],
+    "agent": {
+      "id": "A77",
+      "name": "Agent 97",
+      "phone": "+47 517 997 7112",
+      "email": "agent51@iwrealty.com",
+      "photo": "/images/icons/png/ny-skyline-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": false,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": true,
+      "hasSecurity": true
+    },
+    "createdAt": "2024-12-12T10:50:47.172Z",
+    "updatedAt": "2025-11-13T10:50:47.172Z",
+    "storeId": "store-008"
+  },
+  {
+    "id": "P00032",
+    "type": "rent",
+    "category": {
+      "main": "commercial",
+      "sub": "mall"
+    },
+    "title": "Kiralık AVM - Aruba Central",
+    "slug": "kiralik-avm-aruba-central-P00032",
+    "description": "Aruba Central, Aruba bölgesinde avm. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 401932314,
+    "location": {
+      "country": "AW",
+      "city": "Aruba Central",
+      "district": "Aruba Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 23",
+      "coordinates": {
+        "lat": 12.006127055774845,
+        "lng": -69.58403877709188
+      }
+    },
+    "specs": {
+      "netSize": 36236,
+      "grossSize": 43483,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 5,
+      "floor": 15,
+      "totalFloors": 8,
+      "heating": "Kombi",
+      "furnishing": "Unfurnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500635039235?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500783178231?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500400000281?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500541579684?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500232054469?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500462320050?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500892461939?w=800&q=80&category=interior"
+    ],
+    "agent": {
+      "id": "A84",
+      "name": "Agent 53",
+      "phone": "+54 895 985 1111",
+      "email": "agent34@iwrealty.com",
+      "photo": "/images/icons/png/ankara-modern-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-10-13T10:50:47.172Z",
+    "updatedAt": "2025-11-13T10:50:47.172Z",
+    "storeId": "store-003"
+  },
+  {
+    "id": "P00033",
+    "type": "sale",
+    "category": {
+      "main": "commercial",
+      "sub": "hotel"
+    },
+    "title": "Satılık Otel - Aruba City",
+    "slug": "satilik-otel-aruba-city-P00033",
+    "description": "Aruba City, Aruba bölgesinde otel. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 149872002,
+    "location": {
+      "country": "AW",
+      "city": "Aruba City",
+      "district": "Aruba City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 726",
+      "coordinates": {
+        "lat": 12.915257242101562,
+        "lng": -70.2192420901882
+      }
+    },
+    "specs": {
+      "netSize": 14477,
+      "grossSize": 17372,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 18,
+      "floor": 15,
+      "totalFloors": 18,
+      "heating": "Kombi",
+      "furnishing": "Unfurnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500034593221?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500374840488?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500547659815?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500170361523?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500617204804?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500848589367?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500086823765?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500602057591?w=800&q=80&category=architecture"
+    ],
+    "agent": {
+      "id": "A57",
+      "name": "Agent 84",
+      "phone": "+18 912 841 4313",
+      "email": "agent56@iwrealty.com",
+      "photo": "/images/icons/png/izmir-sahil-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-07-27T10:50:47.172Z",
+    "updatedAt": "2025-11-13T10:50:47.172Z",
+    "storeId": "store-005"
+  },
+  {
+    "id": "P00034",
+    "type": "rent",
+    "category": {
+      "main": "commercial",
+      "sub": "hotel"
+    },
+    "title": "Kiralık Otel - Aruba City",
+    "slug": "kiralik-otel-aruba-city-P00034",
+    "description": "Aruba City, Aruba bölgesinde otel. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 82280577,
+    "location": {
+      "country": "AW",
+      "city": "Aruba City",
+      "district": "Aruba City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 817",
+      "coordinates": {
+        "lat": 12.118141313962745,
+        "lng": -70.2562325479135
+      }
+    },
+    "specs": {
+      "netSize": 14528,
+      "grossSize": 17434,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 2,
+      "floor": 3,
+      "totalFloors": 17,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500605483078?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500609837306?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500280718178?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500354669773?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500308637886?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500520083069?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500057406042?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500146875671?w=800&q=80&category=building"
+    ],
+    "agent": {
+      "id": "A1",
+      "name": "Agent 89",
+      "phone": "+11 567 746 1053",
+      "email": "agent67@iwrealty.com",
+      "photo": "/images/icons/png/sydney-coastal-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-07-01T10:50:47.172Z",
+    "updatedAt": "2025-11-13T10:50:47.172Z",
+    "storeId": "store-012"
+  },
+  {
+    "id": "P00035",
+    "type": "sale",
+    "category": {
+      "main": "commercial",
+      "sub": "restaurant"
+    },
+    "title": "Satılık Restoran - Oranjestad",
+    "slug": "satilik-restoran-oranjestad-P00035",
+    "description": "Oranjestad, Aruba bölgesinde restoran. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 9566965,
+    "location": {
+      "country": "AW",
+      "city": "Oranjestad",
+      "district": "Oranjestad Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 433",
+      "coordinates": {
+        "lat": 12.423762227408059,
+        "lng": -70.22984453405948
+      }
+    },
+    "specs": {
+      "netSize": 1048,
+      "grossSize": 1258,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 5,
+      "floor": 12,
+      "totalFloors": 19,
+      "heating": "Merkezi",
+      "furnishing": "Unfurnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500837998081?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500996936911?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500984091849?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500964231315?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500915155587?w=800&q=80&category=architecture"
+    ],
+    "agent": {
+      "id": "A1",
+      "name": "Agent 37",
+      "phone": "+90 139 576 1995",
+      "email": "agent67@iwrealty.com",
+      "photo": "/images/icons/png/berlin-urban-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": true,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-11-03T10:50:47.172Z",
+    "updatedAt": "2025-11-13T10:50:47.172Z",
+    "storeId": "store-009"
+  },
+  {
+    "id": "P00036",
+    "type": "rent",
+    "category": {
+      "main": "commercial",
+      "sub": "restaurant"
+    },
+    "title": "Kiralık Restoran - Oranjestad",
+    "slug": "kiralik-restoran-oranjestad-P00036",
+    "description": "Oranjestad, Aruba bölgesinde restoran. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 1440863,
+    "location": {
+      "country": "AW",
+      "city": "Oranjestad",
+      "district": "Oranjestad Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 308",
+      "coordinates": {
+        "lat": 12.66838747280702,
+        "lng": -69.79093224430704
+      }
+    },
+    "specs": {
+      "netSize": 360,
+      "grossSize": 432,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 15,
+      "floor": 15,
+      "totalFloors": 17,
+      "heating": "Merkezi",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500723428768?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500567936514?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500459321654?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500246761513?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500018264220?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500564606970?w=800&q=80&category=house"
+    ],
+    "agent": {
+      "id": "A94",
+      "name": "Agent 41",
+      "phone": "+21 950 635 3897",
+      "email": "agent11@iwrealty.com",
+      "photo": "/images/icons/png/ankara-modern-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": true,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-11-07T10:50:47.172Z",
+    "updatedAt": "2025-11-13T10:50:47.172Z",
+    "storeId": "store-003"
+  },
+  {
+    "id": "P00037",
+    "type": "sale",
+    "category": {
+      "main": "commercial",
+      "sub": "warehouse"
+    },
+    "title": "Satılık Depo - New Aruba",
+    "slug": "satilik-depo-new-aruba-P00037",
+    "description": "New Aruba, Aruba bölgesinde depo. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 28168371,
+    "location": {
+      "country": "AW",
+      "city": "New Aruba",
+      "district": "New Aruba Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 11",
+      "coordinates": {
+        "lat": 12.080144461395802,
+        "lng": -70.43101061023636
+      }
+    },
+    "specs": {
+      "netSize": 5341,
+      "grossSize": 6409,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 1,
+      "floor": 5,
+      "totalFloors": 14,
+      "heating": "Klima",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500245134728?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500302338184?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500714114783?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500929852172?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500000286118?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500069314865?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500140638964?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500860793582?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500388545003?w=800&q=80&category=house"
+    ],
+    "agent": {
+      "id": "A22",
+      "name": "Agent 100",
+      "phone": "+19 933 555 4886",
+      "email": "agent82@iwrealty.com",
+      "photo": "/images/icons/png/izmir-sahil-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-10-27T10:50:47.172Z",
+    "updatedAt": "2025-11-13T10:50:47.172Z",
+    "storeId": "store-005"
+  },
+  {
+    "id": "P00038",
+    "type": "rent",
+    "category": {
+      "main": "commercial",
+      "sub": "warehouse"
+    },
+    "title": "Kiralık Depo - Aruba City",
+    "slug": "kiralik-depo-aruba-city-P00038",
+    "description": "Aruba City, Aruba bölgesinde depo. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 6864754,
+    "location": {
+      "country": "AW",
+      "city": "Aruba City",
+      "district": "Aruba City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 537",
+      "coordinates": {
+        "lat": 12.662671301135534,
+        "lng": -69.72033897829265
+      }
+    },
+    "specs": {
+      "netSize": 3253,
+      "grossSize": 3904,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 11,
+      "floor": 3,
+      "totalFloors": 12,
+      "heating": "Merkezi",
+      "furnishing": "Unfurnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500667067123?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500792227931?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500611398035?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500516213745?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500269560949?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500778209025?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500571093469?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500999011514?w=800&q=80&category=interior"
+    ],
+    "agent": {
+      "id": "A61",
+      "name": "Agent 48",
+      "phone": "+92 675 322 5792",
+      "email": "agent49@iwrealty.com",
+      "photo": "/images/icons/png/sg-harbour-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": false,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-07-17T10:50:47.172Z",
+    "updatedAt": "2025-11-13T10:50:47.172Z",
+    "storeId": "store-011"
+  }
+]

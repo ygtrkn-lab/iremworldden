@@ -1,0 +1,2362 @@
+[
+  {
+    "id": "P00343",
+    "type": "sale",
+    "category": {
+      "main": "government"
+    },
+    "title": "Satılık Devlet Binası - Yerevan",
+    "slug": "satilik-devlet-binası-yerevan-P00343",
+    "description": "Yerevan, Armenia bölgesinde devlet binası. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 38014542,
+    "location": {
+      "country": "AM",
+      "city": "Yerevan",
+      "district": "Yerevan Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 624",
+      "coordinates": {
+        "lat": 40.233247589877045,
+        "lng": 45.200273581619605
+      }
+    },
+    "specs": {
+      "netSize": 3195,
+      "grossSize": 3834,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 17,
+      "floor": 7,
+      "totalFloors": 16,
+      "heating": "Merkezi",
+      "furnishing": "Unfurnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500180103846?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500621249661?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500654736183?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500293266544?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500396064545?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500778396262?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500179847753?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500806365796?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500730484432?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500852350052?w=800&q=80&category=house"
+    ],
+    "agent": {
+      "id": "A84",
+      "name": "Agent 65",
+      "phone": "+74 831 578 6998",
+      "email": "agent60@iwrealty.com",
+      "photo": "/images/icons/png/izmir-sahil-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2024-12-06T10:50:47.177Z",
+    "updatedAt": "2025-11-13T10:50:47.177Z",
+    "storeId": "store-005"
+  },
+  {
+    "id": "P00344",
+    "type": "rent",
+    "category": {
+      "main": "government"
+    },
+    "title": "Kiralık Hastane - Yerevan",
+    "slug": "kiralik-hastane-yerevan-P00344",
+    "description": "Yerevan, Armenia bölgesinde hastane. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 48575535,
+    "location": {
+      "country": "AM",
+      "city": "Yerevan",
+      "district": "Yerevan Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 162",
+      "coordinates": {
+        "lat": 40.2613961773286,
+        "lng": 44.65785977988414
+      }
+    },
+    "specs": {
+      "netSize": 1158,
+      "grossSize": 1390,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 20,
+      "floor": 5,
+      "totalFloors": 17,
+      "heating": "Merkezi",
+      "furnishing": "Unfurnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500889855413?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500209255002?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500165393929?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500092498018?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500849605278?w=800&q=80&category=interior"
+    ],
+    "agent": {
+      "id": "A56",
+      "name": "Agent 33",
+      "phone": "+13 385 153 3530",
+      "email": "agent91@iwrealty.com",
+      "photo": "/images/icons/png/izmir-sahil-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": true,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-01-14T10:50:47.177Z",
+    "updatedAt": "2025-11-13T10:50:47.177Z",
+    "storeId": "store-005"
+  },
+  {
+    "id": "P00345",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Müstakil Ev - Armenia Central",
+    "slug": "satilik-müstakil-ev-armenia-central-P00345",
+    "description": "Armenia Central, Armenia bölgesinde müstakil ev. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 14631017,
+    "location": {
+      "country": "AM",
+      "city": "Armenia Central",
+      "district": "Armenia Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 365",
+      "coordinates": {
+        "lat": 40.28236198727328,
+        "lng": 44.91208405350051
+      }
+    },
+    "specs": {
+      "netSize": 170,
+      "grossSize": 204,
+      "rooms": "1+1",
+      "bathrooms": 3,
+      "age": 3,
+      "floor": 2,
+      "totalFloors": 7,
+      "heating": "Merkezi",
+      "furnishing": "Unfurnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500970531147?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500039040919?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500827773659?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500909514580?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500011262983?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500672972970?w=800&q=80&category=house"
+    ],
+    "agent": {
+      "id": "A20",
+      "name": "Agent 47",
+      "phone": "+82 931 327 8339",
+      "email": "agent61@iwrealty.com",
+      "photo": "/images/icons/png/sydney-coastal-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": false,
+      "hasBalcony": false,
+      "hasGarden": true,
+      "hasPool": true,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-01-21T10:50:47.177Z",
+    "updatedAt": "2025-11-13T10:50:47.177Z",
+    "storeId": "store-012"
+  },
+  {
+    "id": "P00346",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Residence - New Armenia",
+    "slug": "kiralik-residence-new-armenia-P00346",
+    "description": "New Armenia, Armenia bölgesinde residence. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 5093808,
+    "location": {
+      "country": "AM",
+      "city": "New Armenia",
+      "district": "New Armenia Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 110",
+      "coordinates": {
+        "lat": 39.56858691477336,
+        "lng": 45.08130579825161
+      }
+    },
+    "specs": {
+      "netSize": 496,
+      "grossSize": 595,
+      "rooms": "4+0",
+      "bathrooms": 3,
+      "age": 7,
+      "floor": 11,
+      "totalFloors": 7,
+      "heating": "Kombi",
+      "furnishing": "Unfurnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500791618591?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500077808567?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500404818827?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500726375653?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500857175162?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500845229929?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500547207642?w=800&q=80&category=interior"
+    ],
+    "agent": {
+      "id": "A91",
+      "name": "Agent 96",
+      "phone": "+76 853 875 3313",
+      "email": "agent17@iwrealty.com",
+      "photo": "/images/icons/png/paris-heritage-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-04-17T10:50:47.177Z",
+    "updatedAt": "2025-11-13T10:50:47.177Z",
+    "storeId": "store-010"
+  },
+  {
+    "id": "P00347",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Residence - Armenia Central",
+    "slug": "satilik-residence-armenia-central-P00347",
+    "description": "Armenia Central, Armenia bölgesinde residence. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 8021741,
+    "location": {
+      "country": "AM",
+      "city": "Armenia Central",
+      "district": "Armenia Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 685",
+      "coordinates": {
+        "lat": 40.330707844642724,
+        "lng": 44.57781707473167
+      }
+    },
+    "specs": {
+      "netSize": 147,
+      "grossSize": 176,
+      "rooms": "2+0",
+      "bathrooms": 2,
+      "age": 1,
+      "floor": 11,
+      "totalFloors": 7,
+      "heating": "Merkezi",
+      "furnishing": "Unfurnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500492224863?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500186717801?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500533421049?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500055281722?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500702306496?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500075730920?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500190391347?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500247833953?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500284825261?w=800&q=80&category=real-estate"
+    ],
+    "agent": {
+      "id": "A21",
+      "name": "Agent 75",
+      "phone": "+40 225 122 8433",
+      "email": "agent99@iwrealty.com",
+      "photo": "/images/icons/png/sydney-coastal-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-01-01T10:50:47.177Z",
+    "updatedAt": "2025-11-13T10:50:47.177Z",
+    "storeId": "store-012"
+  },
+  {
+    "id": "P00348",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Villa - Armenia Central",
+    "slug": "kiralik-villa-armenia-central-P00348",
+    "description": "Armenia Central, Armenia bölgesinde villa. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 5523232,
+    "location": {
+      "country": "AM",
+      "city": "Armenia Central",
+      "district": "Armenia Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 513",
+      "coordinates": {
+        "lat": 39.71976517637452,
+        "lng": 45.21591270215076
+      }
+    },
+    "specs": {
+      "netSize": 307,
+      "grossSize": 368,
+      "rooms": "4+2",
+      "bathrooms": 4,
+      "age": 17,
+      "floor": 15,
+      "totalFloors": 11,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Unfurnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500701807813?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500453617528?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500836747469?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500850245599?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500533190263?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500841843881?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500199542240?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500243648566?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500013500762?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500827675516?w=800&q=80&category=building"
+    ],
+    "agent": {
+      "id": "A30",
+      "name": "Agent 56",
+      "phone": "+57 459 271 5903",
+      "email": "agent100@iwrealty.com",
+      "photo": "/images/icons/png/luxury-homes-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-10-06T10:50:47.177Z",
+    "updatedAt": "2025-11-13T10:50:47.177Z",
+    "storeId": "store-002"
+  },
+  {
+    "id": "P00349",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Residence - New Armenia",
+    "slug": "satilik-residence-new-armenia-P00349",
+    "description": "New Armenia, Armenia bölgesinde residence. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 11570697,
+    "location": {
+      "country": "AM",
+      "city": "New Armenia",
+      "district": "New Armenia Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 515",
+      "coordinates": {
+        "lat": 40.08718800459587,
+        "lng": 45.12515874082951
+      }
+    },
+    "specs": {
+      "netSize": 361,
+      "grossSize": 433,
+      "rooms": "2+0",
+      "bathrooms": 1,
+      "age": 10,
+      "floor": 9,
+      "totalFloors": 12,
+      "heating": "Kombi",
+      "furnishing": "Furnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500610052755?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500125968448?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500732029785?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500194082814?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500043431141?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500609604569?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500877027176?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500900676387?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500475197587?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500089451426?w=800&q=80&category=building"
+    ],
+    "agent": {
+      "id": "A71",
+      "name": "Agent 68",
+      "phone": "+59 913 462 6414",
+      "email": "agent28@iwrealty.com",
+      "photo": "/images/icons/png/luxury-homes-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": false,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": true,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-10-26T10:50:47.177Z",
+    "updatedAt": "2025-11-13T10:50:47.177Z",
+    "storeId": "store-002"
+  },
+  {
+    "id": "P00350",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Müstakil Ev - Yerevan",
+    "slug": "kiralik-müstakil-ev-yerevan-P00350",
+    "description": "Yerevan, Armenia bölgesinde müstakil ev. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 13487936,
+    "location": {
+      "country": "AM",
+      "city": "Yerevan",
+      "district": "Yerevan Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 980",
+      "coordinates": {
+        "lat": 39.85989004361607,
+        "lng": 44.97173701328604
+      }
+    },
+    "specs": {
+      "netSize": 406,
+      "grossSize": 487,
+      "rooms": "2+2",
+      "bathrooms": 1,
+      "age": 2,
+      "floor": 12,
+      "totalFloors": 8,
+      "heating": "Merkezi",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500051847834?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500871415269?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500008045521?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500302667067?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500206011117?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500272777834?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500777618024?w=800&q=80&category=house"
+    ],
+    "agent": {
+      "id": "A61",
+      "name": "Agent 18",
+      "phone": "+33 647 577 1860",
+      "email": "agent36@iwrealty.com",
+      "photo": "/images/icons/png/london-prime-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-01-31T10:50:47.177Z",
+    "updatedAt": "2025-11-13T10:50:47.177Z",
+    "storeId": "store-007"
+  },
+  {
+    "id": "P00351",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Villa - Armenia Central",
+    "slug": "satilik-villa-armenia-central-P00351",
+    "description": "Armenia Central, Armenia bölgesinde villa. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 13063633,
+    "location": {
+      "country": "AM",
+      "city": "Armenia Central",
+      "district": "Armenia Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 284",
+      "coordinates": {
+        "lat": 40.28986170372212,
+        "lng": 45.169424564759446
+      }
+    },
+    "specs": {
+      "netSize": 137,
+      "grossSize": 164,
+      "rooms": "3+0",
+      "bathrooms": 3,
+      "age": 1,
+      "floor": 1,
+      "totalFloors": 18,
+      "heating": "Merkezi",
+      "furnishing": "Unfurnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500178780931?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500726851152?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500797816843?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500144364061?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500342141099?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500687279775?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500009296996?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500519390234?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500677148408?w=800&q=80&category=building"
+    ],
+    "agent": {
+      "id": "A22",
+      "name": "Agent 97",
+      "phone": "+67 831 826 4544",
+      "email": "agent95@iwrealty.com",
+      "photo": "/images/icons/png/luxury-homes-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-09-25T10:50:47.177Z",
+    "updatedAt": "2025-11-13T10:50:47.177Z",
+    "storeId": "store-002"
+  },
+  {
+    "id": "P00352",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Müstakil Ev - Armenia City",
+    "slug": "kiralik-müstakil-ev-armenia-city-P00352",
+    "description": "Armenia City, Armenia bölgesinde müstakil ev. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 12676824,
+    "location": {
+      "country": "AM",
+      "city": "Armenia City",
+      "district": "Armenia City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 301",
+      "coordinates": {
+        "lat": 39.90567309480591,
+        "lng": 44.732184348650954
+      }
+    },
+    "specs": {
+      "netSize": 133,
+      "grossSize": 160,
+      "rooms": "3+2",
+      "bathrooms": 3,
+      "age": 13,
+      "floor": 1,
+      "totalFloors": 19,
+      "heating": "Kombi",
+      "furnishing": "Unfurnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500234489373?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500604314666?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500335068820?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500891611501?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500943805360?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500972655957?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500342939825?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500073213812?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500679976220?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500532817460?w=800&q=80&category=real-estate"
+    ],
+    "agent": {
+      "id": "A43",
+      "name": "Agent 60",
+      "phone": "+51 590 517 7060",
+      "email": "agent35@iwrealty.com",
+      "photo": "/images/icons/png/izmir-sahil-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-03-17T10:50:47.177Z",
+    "updatedAt": "2025-11-13T10:50:47.177Z",
+    "storeId": "store-005"
+  },
+  {
+    "id": "P00353",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Daire - New Armenia",
+    "slug": "satilik-daire-new-armenia-P00353",
+    "description": "New Armenia, Armenia bölgesinde daire. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 4335509,
+    "location": {
+      "country": "AM",
+      "city": "New Armenia",
+      "district": "New Armenia Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 804",
+      "coordinates": {
+        "lat": 39.600049849691864,
+        "lng": 44.5554052245187
+      }
+    },
+    "specs": {
+      "netSize": 346,
+      "grossSize": 415,
+      "rooms": "5+2",
+      "bathrooms": 3,
+      "age": 11,
+      "floor": 6,
+      "totalFloors": 8,
+      "heating": "Kombi",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500770014387?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500540698063?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500584861653?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500675439163?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500998911306?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500754868738?w=800&q=80&category=house"
+    ],
+    "agent": {
+      "id": "A81",
+      "name": "Agent 22",
+      "phone": "+46 542 433 6852",
+      "email": "agent44@iwrealty.com",
+      "photo": "/images/icons/png/berlin-urban-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": false,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-10-06T10:50:47.177Z",
+    "updatedAt": "2025-11-13T10:50:47.177Z",
+    "storeId": "store-009"
+  },
+  {
+    "id": "P00354",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Villa - New Armenia",
+    "slug": "kiralik-villa-new-armenia-P00354",
+    "description": "New Armenia, Armenia bölgesinde villa. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 10950364,
+    "location": {
+      "country": "AM",
+      "city": "New Armenia",
+      "district": "New Armenia Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 954",
+      "coordinates": {
+        "lat": 39.532853859927776,
+        "lng": 45.36109081005109
+      }
+    },
+    "specs": {
+      "netSize": 326,
+      "grossSize": 391,
+      "rooms": "1+0",
+      "bathrooms": 4,
+      "age": 3,
+      "floor": 9,
+      "totalFloors": 13,
+      "heating": "Kombi",
+      "furnishing": "Furnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500694959722?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500858256985?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500046620261?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500207040453?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500004559982?w=800&q=80&category=interior"
+    ],
+    "agent": {
+      "id": "A50",
+      "name": "Agent 93",
+      "phone": "+54 107 319 5652",
+      "email": "agent42@iwrealty.com",
+      "photo": "/images/icons/png/izmir-sahil-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-06-24T10:50:47.177Z",
+    "updatedAt": "2025-11-13T10:50:47.177Z",
+    "storeId": "store-005"
+  },
+  {
+    "id": "P00355",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Daire - New Armenia",
+    "slug": "satilik-daire-new-armenia-P00355",
+    "description": "New Armenia, Armenia bölgesinde daire. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 7621333,
+    "location": {
+      "country": "AM",
+      "city": "New Armenia",
+      "district": "New Armenia Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 320",
+      "coordinates": {
+        "lat": 39.61206088230472,
+        "lng": 45.412371428914454
+      }
+    },
+    "specs": {
+      "netSize": 371,
+      "grossSize": 445,
+      "rooms": "1+1",
+      "bathrooms": 2,
+      "age": 5,
+      "floor": 14,
+      "totalFloors": 13,
+      "heating": "Kombi",
+      "furnishing": "Unfurnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500802870848?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500552660858?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500871345553?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500677166958?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500198093712?w=800&q=80&category=real-estate"
+    ],
+    "agent": {
+      "id": "A77",
+      "name": "Agent 68",
+      "phone": "+79 246 918 8470",
+      "email": "agent72@iwrealty.com",
+      "photo": "/images/icons/png/london-prime-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2024-12-31T10:50:47.178Z",
+    "updatedAt": "2025-11-13T10:50:47.178Z",
+    "storeId": "store-007"
+  },
+  {
+    "id": "P00356",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Müstakil Ev - Armenia City",
+    "slug": "kiralik-müstakil-ev-armenia-city-P00356",
+    "description": "Armenia City, Armenia bölgesinde müstakil ev. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 7465362,
+    "location": {
+      "country": "AM",
+      "city": "Armenia City",
+      "district": "Armenia City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 632",
+      "coordinates": {
+        "lat": 39.60568197333925,
+        "lng": 44.52499888522568
+      }
+    },
+    "specs": {
+      "netSize": 402,
+      "grossSize": 482,
+      "rooms": "3+1",
+      "bathrooms": 4,
+      "age": 11,
+      "floor": 6,
+      "totalFloors": 14,
+      "heating": "Klima",
+      "furnishing": "Furnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500711724676?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500497291956?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500503514929?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500876806586?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500645094040?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500411454668?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500184774373?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500015178356?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500518050650?w=800&q=80&category=architecture"
+    ],
+    "agent": {
+      "id": "A99",
+      "name": "Agent 16",
+      "phone": "+50 276 950 4229",
+      "email": "agent58@iwrealty.com",
+      "photo": "/images/icons/png/ny-skyline-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-04-12T10:50:47.178Z",
+    "updatedAt": "2025-11-13T10:50:47.178Z",
+    "storeId": "store-008"
+  },
+  {
+    "id": "P00357",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Daire - Armenia Central",
+    "slug": "satilik-daire-armenia-central-P00357",
+    "description": "Armenia Central, Armenia bölgesinde daire. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 9847887,
+    "location": {
+      "country": "AM",
+      "city": "Armenia Central",
+      "district": "Armenia Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 502",
+      "coordinates": {
+        "lat": 39.979543451109784,
+        "lng": 44.51549239514403
+      }
+    },
+    "specs": {
+      "netSize": 435,
+      "grossSize": 522,
+      "rooms": "3+1",
+      "bathrooms": 2,
+      "age": 1,
+      "floor": 1,
+      "totalFloors": 17,
+      "heating": "Kombi",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500508615248?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500606364077?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500935719384?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500562084101?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500542498579?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500466999249?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500489108016?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500963892118?w=800&q=80&category=interior"
+    ],
+    "agent": {
+      "id": "A81",
+      "name": "Agent 76",
+      "phone": "+61 918 226 4386",
+      "email": "agent82@iwrealty.com",
+      "photo": "/images/icons/png/london-prime-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": false,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2024-12-03T10:50:47.178Z",
+    "updatedAt": "2025-11-13T10:50:47.178Z",
+    "storeId": "store-007"
+  },
+  {
+    "id": "P00358",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Müstakil Ev - New Armenia",
+    "slug": "kiralik-müstakil-ev-new-armenia-P00358",
+    "description": "New Armenia, Armenia bölgesinde müstakil ev. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 943893,
+    "location": {
+      "country": "AM",
+      "city": "New Armenia",
+      "district": "New Armenia Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 474",
+      "coordinates": {
+        "lat": 39.97706462681664,
+        "lng": 44.56550397826212
+      }
+    },
+    "specs": {
+      "netSize": 226,
+      "grossSize": 271,
+      "rooms": "4+2",
+      "bathrooms": 4,
+      "age": 15,
+      "floor": 3,
+      "totalFloors": 20,
+      "heating": "Klima",
+      "furnishing": "Furnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500388418100?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500238637892?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500996894100?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500115722953?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500162637072?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500144893900?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500633660529?w=800&q=80&category=architecture"
+    ],
+    "agent": {
+      "id": "A6",
+      "name": "Agent 21",
+      "phone": "+53 186 897 2034",
+      "email": "agent5@iwrealty.com",
+      "photo": "/images/icons/png/sydney-coastal-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": true,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-06-30T10:50:47.178Z",
+    "updatedAt": "2025-11-13T10:50:47.178Z",
+    "storeId": "store-012"
+  },
+  {
+    "id": "P00359",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Residence - Armenia City",
+    "slug": "satilik-residence-armenia-city-P00359",
+    "description": "Armenia City, Armenia bölgesinde residence. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 2891206,
+    "location": {
+      "country": "AM",
+      "city": "Armenia City",
+      "district": "Armenia City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 33",
+      "coordinates": {
+        "lat": 40.030005510766074,
+        "lng": 44.99692084022108
+      }
+    },
+    "specs": {
+      "netSize": 438,
+      "grossSize": 526,
+      "rooms": "3+1",
+      "bathrooms": 2,
+      "age": 5,
+      "floor": 12,
+      "totalFloors": 9,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500013332718?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500973967630?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500107738847?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500073483203?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500094483324?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500770130275?w=800&q=80&category=building"
+    ],
+    "agent": {
+      "id": "A54",
+      "name": "Agent 39",
+      "phone": "+72 247 930 8229",
+      "email": "agent73@iwrealty.com",
+      "photo": "/images/icons/png/dubai-property-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": false,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-08-11T10:50:47.178Z",
+    "updatedAt": "2025-11-13T10:50:47.178Z",
+    "storeId": "store-004"
+  },
+  {
+    "id": "P00360",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Residence - Armenia Central",
+    "slug": "kiralik-residence-armenia-central-P00360",
+    "description": "Armenia Central, Armenia bölgesinde residence. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 14492914,
+    "location": {
+      "country": "AM",
+      "city": "Armenia Central",
+      "district": "Armenia Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 920",
+      "coordinates": {
+        "lat": 40.023306091287004,
+        "lng": 44.6921330019023
+      }
+    },
+    "specs": {
+      "netSize": 440,
+      "grossSize": 528,
+      "rooms": "5+2",
+      "bathrooms": 4,
+      "age": 11,
+      "floor": 4,
+      "totalFloors": 13,
+      "heating": "Klima",
+      "furnishing": "Furnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500406641126?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500954342198?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500812138805?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500351051830?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500579337329?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500495549954?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500914108529?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500377800650?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500173614200?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500360006931?w=800&q=80&category=interior"
+    ],
+    "agent": {
+      "id": "A57",
+      "name": "Agent 47",
+      "phone": "+26 640 219 7388",
+      "email": "agent26@iwrealty.com",
+      "photo": "/images/icons/png/ankara-modern-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": true,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-03-31T10:50:47.178Z",
+    "updatedAt": "2025-11-13T10:50:47.178Z",
+    "storeId": "store-003"
+  },
+  {
+    "id": "P00361",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Daire - Armenia Central",
+    "slug": "satilik-daire-armenia-central-P00361",
+    "description": "Armenia Central, Armenia bölgesinde daire. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 2631423,
+    "location": {
+      "country": "AM",
+      "city": "Armenia Central",
+      "district": "Armenia Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 217",
+      "coordinates": {
+        "lat": 39.83204097134208,
+        "lng": 44.974597312834135
+      }
+    },
+    "specs": {
+      "netSize": 495,
+      "grossSize": 594,
+      "rooms": "5+1",
+      "bathrooms": 3,
+      "age": 16,
+      "floor": 3,
+      "totalFloors": 5,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Furnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500108381667?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500313326165?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500375417718?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500717157026?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500088605659?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500045518427?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500940321792?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500503273014?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500597322432?w=800&q=80&category=interior"
+    ],
+    "agent": {
+      "id": "A46",
+      "name": "Agent 23",
+      "phone": "+68 492 537 3914",
+      "email": "agent42@iwrealty.com",
+      "photo": "/images/icons/png/berlin-urban-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": false,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2024-12-29T10:50:47.178Z",
+    "updatedAt": "2025-11-13T10:50:47.178Z",
+    "storeId": "store-009"
+  },
+  {
+    "id": "P00362",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Villa - Yerevan",
+    "slug": "kiralik-villa-yerevan-P00362",
+    "description": "Yerevan, Armenia bölgesinde villa. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 744443,
+    "location": {
+      "country": "AM",
+      "city": "Yerevan",
+      "district": "Yerevan Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 249",
+      "coordinates": {
+        "lat": 40.126114767473574,
+        "lng": 44.69079189581047
+      }
+    },
+    "specs": {
+      "netSize": 495,
+      "grossSize": 594,
+      "rooms": "3+0",
+      "bathrooms": 2,
+      "age": 9,
+      "floor": 1,
+      "totalFloors": 7,
+      "heating": "Klima",
+      "furnishing": "Unfurnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500654822579?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500267151988?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500560754734?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500885774054?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500130261912?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500374797395?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500796051375?w=800&q=80&category=interior"
+    ],
+    "agent": {
+      "id": "A50",
+      "name": "Agent 50",
+      "phone": "+94 635 676 6115",
+      "email": "agent99@iwrealty.com",
+      "photo": "/images/icons/png/ny-skyline-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-07-04T10:50:47.178Z",
+    "updatedAt": "2025-11-13T10:50:47.178Z",
+    "storeId": "store-008"
+  },
+  {
+    "id": "P00363",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Müstakil Ev - Armenia Central",
+    "slug": "satilik-müstakil-ev-armenia-central-P00363",
+    "description": "Armenia Central, Armenia bölgesinde müstakil ev. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 14400897,
+    "location": {
+      "country": "AM",
+      "city": "Armenia Central",
+      "district": "Armenia Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 344",
+      "coordinates": {
+        "lat": 39.95107737494601,
+        "lng": 44.92366228984018
+      }
+    },
+    "specs": {
+      "netSize": 396,
+      "grossSize": 475,
+      "rooms": "3+1",
+      "bathrooms": 1,
+      "age": 8,
+      "floor": 8,
+      "totalFloors": 10,
+      "heating": "Kombi",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500831990951?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500966294473?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500391226329?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500644068848?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500672360420?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500282262983?w=800&q=80&category=house"
+    ],
+    "agent": {
+      "id": "A70",
+      "name": "Agent 71",
+      "phone": "+31 791 122 1829",
+      "email": "agent39@iwrealty.com",
+      "photo": "/images/icons/png/antalya-investment-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": false,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": true,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-08-27T10:50:47.178Z",
+    "updatedAt": "2025-11-13T10:50:47.178Z",
+    "storeId": "store-006"
+  },
+  {
+    "id": "P00364",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Daire - Armenia Central",
+    "slug": "kiralik-daire-armenia-central-P00364",
+    "description": "Armenia Central, Armenia bölgesinde daire. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 770460,
+    "location": {
+      "country": "AM",
+      "city": "Armenia Central",
+      "district": "Armenia Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 728",
+      "coordinates": {
+        "lat": 40.36218221613415,
+        "lng": 45.385720523434486
+      }
+    },
+    "specs": {
+      "netSize": 281,
+      "grossSize": 337,
+      "rooms": "4+2",
+      "bathrooms": 2,
+      "age": 10,
+      "floor": 1,
+      "totalFloors": 19,
+      "heating": "Kombi",
+      "furnishing": "Furnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500833808601?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500263849049?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500647458464?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500501682086?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500006725790?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500942966158?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500482914925?w=800&q=80&category=building"
+    ],
+    "agent": {
+      "id": "A4",
+      "name": "Agent 60",
+      "phone": "+38 313 843 4799",
+      "email": "agent50@iwrealty.com",
+      "photo": "/images/icons/png/berlin-urban-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-11-11T10:50:47.178Z",
+    "updatedAt": "2025-11-13T10:50:47.178Z",
+    "storeId": "store-009"
+  },
+  {
+    "id": "P00365",
+    "type": "sale",
+    "category": {
+      "main": "commercial",
+      "sub": "hospital"
+    },
+    "title": "Satılık Hastane - Armenia Central",
+    "slug": "satilik-hastane-armenia-central-P00365",
+    "description": "Armenia Central, Armenia bölgesinde hastane. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 77824603,
+    "location": {
+      "country": "AM",
+      "city": "Armenia Central",
+      "district": "Armenia Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 418",
+      "coordinates": {
+        "lat": 40.159380818270236,
+        "lng": 45.43679763107474
+      }
+    },
+    "specs": {
+      "netSize": 8551,
+      "grossSize": 10261,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 9,
+      "floor": 4,
+      "totalFloors": 19,
+      "heating": "Klima",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500511469767?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500395187841?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500661862072?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500769466988?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500663277361?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500443921223?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500935482369?w=800&q=80&category=house"
+    ],
+    "agent": {
+      "id": "A74",
+      "name": "Agent 57",
+      "phone": "+51 806 639 4708",
+      "email": "agent52@iwrealty.com",
+      "photo": "/images/icons/png/sg-harbour-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": false,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-01-27T10:50:47.178Z",
+    "updatedAt": "2025-11-13T10:50:47.178Z",
+    "storeId": "store-011"
+  },
+  {
+    "id": "P00366",
+    "type": "rent",
+    "category": {
+      "main": "commercial",
+      "sub": "hospital"
+    },
+    "title": "Kiralık Hastane - Yerevan",
+    "slug": "kiralik-hastane-yerevan-P00366",
+    "description": "Yerevan, Armenia bölgesinde hastane. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 79153862,
+    "location": {
+      "country": "AM",
+      "city": "Yerevan",
+      "district": "Yerevan Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 463",
+      "coordinates": {
+        "lat": 39.62469712960796,
+        "lng": 45.1363488662082
+      }
+    },
+    "specs": {
+      "netSize": 11954,
+      "grossSize": 14345,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 8,
+      "floor": 10,
+      "totalFloors": 14,
+      "heating": "Klima",
+      "furnishing": "Unfurnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500670411882?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500347694445?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500343693781?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500710906841?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500239028372?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500321134034?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500811338514?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500617299904?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500857675182?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500290212396?w=800&q=80&category=interior"
+    ],
+    "agent": {
+      "id": "A63",
+      "name": "Agent 99",
+      "phone": "+48 643 997 4420",
+      "email": "agent8@iwrealty.com",
+      "photo": "/images/icons/png/luxury-homes-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-08-20T10:50:47.178Z",
+    "updatedAt": "2025-11-13T10:50:47.178Z",
+    "storeId": "store-002"
+  },
+  {
+    "id": "P00367",
+    "type": "sale",
+    "category": {
+      "main": "commercial",
+      "sub": "clinic"
+    },
+    "title": "Satılık Klinik - Yerevan",
+    "slug": "satilik-klinik-yerevan-P00367",
+    "description": "Yerevan, Armenia bölgesinde klinik. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 5377642,
+    "location": {
+      "country": "AM",
+      "city": "Yerevan",
+      "district": "Yerevan Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 221",
+      "coordinates": {
+        "lat": 39.92695948165771,
+        "lng": 45.44879644916009
+      }
+    },
+    "specs": {
+      "netSize": 1807,
+      "grossSize": 2168,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 15,
+      "floor": 1,
+      "totalFloors": 11,
+      "heating": "Kombi",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500350076323?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500673847283?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500441810133?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500575040355?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500615228999?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500143198054?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500343459103?w=800&q=80&category=house"
+    ],
+    "agent": {
+      "id": "A8",
+      "name": "Agent 50",
+      "phone": "+80 384 482 4558",
+      "email": "agent89@iwrealty.com",
+      "photo": "/images/icons/png/berlin-urban-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": true,
+      "hasSecurity": false
+    },
+    "createdAt": "2024-12-06T10:50:47.178Z",
+    "updatedAt": "2025-11-13T10:50:47.178Z",
+    "storeId": "store-009"
+  },
+  {
+    "id": "P00368",
+    "type": "rent",
+    "category": {
+      "main": "commercial",
+      "sub": "clinic"
+    },
+    "title": "Kiralık Klinik - Armenia City",
+    "slug": "kiralik-klinik-armenia-city-P00368",
+    "description": "Armenia City, Armenia bölgesinde klinik. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 5740490,
+    "location": {
+      "country": "AM",
+      "city": "Armenia City",
+      "district": "Armenia City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 800",
+      "coordinates": {
+        "lat": 39.50384155042459,
+        "lng": 44.84896602429077
+      }
+    },
+    "specs": {
+      "netSize": 1040,
+      "grossSize": 1248,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 13,
+      "floor": 8,
+      "totalFloors": 12,
+      "heating": "Kombi",
+      "furnishing": "Furnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500135576096?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500148724705?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500194781335?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500287551170?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500176708768?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500452436871?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500468376435?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500281146857?w=800&q=80&category=building"
+    ],
+    "agent": {
+      "id": "A5",
+      "name": "Agent 99",
+      "phone": "+27 777 898 5766",
+      "email": "agent72@iwrealty.com",
+      "photo": "/images/icons/png/sg-harbour-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": true,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-10-11T10:50:47.178Z",
+    "updatedAt": "2025-11-13T10:50:47.178Z",
+    "storeId": "store-011"
+  },
+  {
+    "id": "P00369",
+    "type": "sale",
+    "category": {
+      "main": "commercial",
+      "sub": "shop"
+    },
+    "title": "Satılık Dükkan - Armenia Central",
+    "slug": "satilik-dükkan-armenia-central-P00369",
+    "description": "Armenia Central, Armenia bölgesinde dükkan. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 7206518,
+    "location": {
+      "country": "AM",
+      "city": "Armenia Central",
+      "district": "Armenia Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 130",
+      "coordinates": {
+        "lat": 39.51776861081613,
+        "lng": 44.76917067824479
+      }
+    },
+    "specs": {
+      "netSize": 75,
+      "grossSize": 90,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 2,
+      "floor": 1,
+      "totalFloors": 16,
+      "heating": "Klima",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500004869200?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500307680530?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500307897928?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500217835344?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500758392472?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500020663252?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500451048744?w=800&q=80&category=real-estate"
+    ],
+    "agent": {
+      "id": "A61",
+      "name": "Agent 11",
+      "phone": "+69 308 358 2181",
+      "email": "agent30@iwrealty.com",
+      "photo": "/images/icons/png/ny-skyline-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": true,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-06-23T10:50:47.178Z",
+    "updatedAt": "2025-11-13T10:50:47.178Z",
+    "storeId": "store-008"
+  },
+  {
+    "id": "P00370",
+    "type": "rent",
+    "category": {
+      "main": "commercial",
+      "sub": "shop"
+    },
+    "title": "Kiralık Dükkan - Yerevan",
+    "slug": "kiralik-dükkan-yerevan-P00370",
+    "description": "Yerevan, Armenia bölgesinde dükkan. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 3702627,
+    "location": {
+      "country": "AM",
+      "city": "Yerevan",
+      "district": "Yerevan Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 208",
+      "coordinates": {
+        "lat": 39.76971355773319,
+        "lng": 44.67442477003246
+      }
+    },
+    "specs": {
+      "netSize": 241,
+      "grossSize": 289,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 8,
+      "floor": 4,
+      "totalFloors": 17,
+      "heating": "Kombi",
+      "furnishing": "Furnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500047494282?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500160714357?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500999232635?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500197596463?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500243357503?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500102396130?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500048051609?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500898632678?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500716874444?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500373498459?w=800&q=80&category=architecture"
+    ],
+    "agent": {
+      "id": "A59",
+      "name": "Agent 22",
+      "phone": "+98 754 800 4574",
+      "email": "agent77@iwrealty.com",
+      "photo": "/images/icons/png/berlin-urban-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": true,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-04-02T10:50:47.178Z",
+    "updatedAt": "2025-11-13T10:50:47.178Z",
+    "storeId": "store-009"
+  },
+  {
+    "id": "P00371",
+    "type": "sale",
+    "category": {
+      "main": "commercial",
+      "sub": "office"
+    },
+    "title": "Satılık Ofis - New Armenia",
+    "slug": "satilik-ofis-new-armenia-P00371",
+    "description": "New Armenia, Armenia bölgesinde ofis. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 13891064,
+    "location": {
+      "country": "AM",
+      "city": "New Armenia",
+      "district": "New Armenia Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 112",
+      "coordinates": {
+        "lat": 40.18024083764522,
+        "lng": 45.30399571914024
+      }
+    },
+    "specs": {
+      "netSize": 998,
+      "grossSize": 1198,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 6,
+      "floor": 8,
+      "totalFloors": 7,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500095151876?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500108512451?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500991505375?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500738433345?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500934928487?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500628828105?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500945256582?w=800&q=80&category=real-estate"
+    ],
+    "agent": {
+      "id": "A19",
+      "name": "Agent 94",
+      "phone": "+86 468 586 9757",
+      "email": "agent49@iwrealty.com",
+      "photo": "/images/icons/png/london-prime-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": true,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-07-18T10:50:47.178Z",
+    "updatedAt": "2025-11-13T10:50:47.178Z",
+    "storeId": "store-007"
+  },
+  {
+    "id": "P00372",
+    "type": "rent",
+    "category": {
+      "main": "commercial",
+      "sub": "office"
+    },
+    "title": "Kiralık Ofis - Armenia Central",
+    "slug": "kiralik-ofis-armenia-central-P00372",
+    "description": "Armenia Central, Armenia bölgesinde ofis. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 8585276,
+    "location": {
+      "country": "AM",
+      "city": "Armenia Central",
+      "district": "Armenia Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 861",
+      "coordinates": {
+        "lat": 40.33860980228525,
+        "lng": 44.95115578934298
+      }
+    },
+    "specs": {
+      "netSize": 738,
+      "grossSize": 886,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 16,
+      "floor": 10,
+      "totalFloors": 9,
+      "heating": "Merkezi",
+      "furnishing": "Furnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500682630325?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500993788130?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500720375837?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500480435295?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500766406223?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500438946898?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500095441407?w=800&q=80&category=interior"
+    ],
+    "agent": {
+      "id": "A92",
+      "name": "Agent 46",
+      "phone": "+95 238 749 3345",
+      "email": "agent4@iwrealty.com",
+      "photo": "/images/icons/png/ny-skyline-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": true,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-07-30T10:50:47.178Z",
+    "updatedAt": "2025-11-13T10:50:47.178Z",
+    "storeId": "store-008"
+  },
+  {
+    "id": "P00373",
+    "type": "sale",
+    "category": {
+      "main": "commercial",
+      "sub": "mall"
+    },
+    "title": "Satılık AVM - Yerevan",
+    "slug": "satilik-avm-yerevan-P00373",
+    "description": "Yerevan, Armenia bölgesinde avm. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 312213492,
+    "location": {
+      "country": "AM",
+      "city": "Yerevan",
+      "district": "Yerevan Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 959",
+      "coordinates": {
+        "lat": 39.59807300472575,
+        "lng": 45.08095156979029
+      }
+    },
+    "specs": {
+      "netSize": 24999,
+      "grossSize": 29999,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 13,
+      "floor": 3,
+      "totalFloors": 12,
+      "heating": "Kombi",
+      "furnishing": "Furnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500777840164?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500596673331?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500966818055?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500686618171?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500001020033?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500444437675?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500275655527?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500009638063?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500396706991?w=800&q=80&category=architecture"
+    ],
+    "agent": {
+      "id": "A72",
+      "name": "Agent 32",
+      "phone": "+48 706 304 2613",
+      "email": "agent28@iwrealty.com",
+      "photo": "/images/icons/png/sg-harbour-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": true,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-04-12T10:50:47.178Z",
+    "updatedAt": "2025-11-13T10:50:47.178Z",
+    "storeId": "store-011"
+  },
+  {
+    "id": "P00374",
+    "type": "rent",
+    "category": {
+      "main": "commercial",
+      "sub": "mall"
+    },
+    "title": "Kiralık AVM - New Armenia",
+    "slug": "kiralik-avm-new-armenia-P00374",
+    "description": "New Armenia, Armenia bölgesinde avm. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 218056405,
+    "location": {
+      "country": "AM",
+      "city": "New Armenia",
+      "district": "New Armenia Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 58",
+      "coordinates": {
+        "lat": 40.05662764058002,
+        "lng": 45.15734802371115
+      }
+    },
+    "specs": {
+      "netSize": 39771,
+      "grossSize": 47725,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 6,
+      "floor": 4,
+      "totalFloors": 17,
+      "heating": "Kombi",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500649534929?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500288202284?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500317238420?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500733608395?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500209222393?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500404023478?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500965687300?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500595725254?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500225446415?w=800&q=80&category=architecture"
+    ],
+    "agent": {
+      "id": "A14",
+      "name": "Agent 76",
+      "phone": "+32 223 303 1806",
+      "email": "agent10@iwrealty.com",
+      "photo": "/images/icons/png/ankara-modern-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-02-13T10:50:47.178Z",
+    "updatedAt": "2025-11-13T10:50:47.178Z",
+    "storeId": "store-003"
+  },
+  {
+    "id": "P00375",
+    "type": "sale",
+    "category": {
+      "main": "commercial",
+      "sub": "hotel"
+    },
+    "title": "Satılık Otel - Yerevan",
+    "slug": "satilik-otel-yerevan-P00375",
+    "description": "Yerevan, Armenia bölgesinde otel. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 53824473,
+    "location": {
+      "country": "AM",
+      "city": "Yerevan",
+      "district": "Yerevan Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 158",
+      "coordinates": {
+        "lat": 39.96479094403565,
+        "lng": 44.512773899041456
+      }
+    },
+    "specs": {
+      "netSize": 11323,
+      "grossSize": 13588,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 15,
+      "floor": 6,
+      "totalFloors": 11,
+      "heating": "Merkezi",
+      "furnishing": "Furnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500091820111?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500877940654?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500572834794?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500803067306?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500031526338?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500442054492?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500119584692?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500279745389?w=800&q=80&category=real-estate"
+    ],
+    "agent": {
+      "id": "A25",
+      "name": "Agent 21",
+      "phone": "+83 934 868 4869",
+      "email": "agent34@iwrealty.com",
+      "photo": "/images/icons/png/paris-heritage-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-08-03T10:50:47.178Z",
+    "updatedAt": "2025-11-13T10:50:47.178Z",
+    "storeId": "store-010"
+  },
+  {
+    "id": "P00376",
+    "type": "rent",
+    "category": {
+      "main": "commercial",
+      "sub": "hotel"
+    },
+    "title": "Kiralık Otel - Yerevan",
+    "slug": "kiralik-otel-yerevan-P00376",
+    "description": "Yerevan, Armenia bölgesinde otel. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 140882159,
+    "location": {
+      "country": "AM",
+      "city": "Yerevan",
+      "district": "Yerevan Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 472",
+      "coordinates": {
+        "lat": 39.57041286846947,
+        "lng": 45.1125255546074
+      }
+    },
+    "specs": {
+      "netSize": 10834,
+      "grossSize": 13001,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 16,
+      "floor": 6,
+      "totalFloors": 9,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Furnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500079659504?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500661553293?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500981033296?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500714430497?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500476832431?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500510058791?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500930983350?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500909159167?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500167385506?w=800&q=80&category=real-estate"
+    ],
+    "agent": {
+      "id": "A85",
+      "name": "Agent 50",
+      "phone": "+29 966 964 4574",
+      "email": "agent12@iwrealty.com",
+      "photo": "/images/icons/png/izmir-sahil-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2024-12-09T10:50:47.178Z",
+    "updatedAt": "2025-11-13T10:50:47.178Z",
+    "storeId": "store-005"
+  },
+  {
+    "id": "P00377",
+    "type": "sale",
+    "category": {
+      "main": "commercial",
+      "sub": "restaurant"
+    },
+    "title": "Satılık Restoran - New Armenia",
+    "slug": "satilik-restoran-new-armenia-P00377",
+    "description": "New Armenia, Armenia bölgesinde restoran. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 3013869,
+    "location": {
+      "country": "AM",
+      "city": "New Armenia",
+      "district": "New Armenia Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 940",
+      "coordinates": {
+        "lat": 40.353788376236864,
+        "lng": 44.876568597734156
+      }
+    },
+    "specs": {
+      "netSize": 1348,
+      "grossSize": 1618,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 0,
+      "floor": 3,
+      "totalFloors": 17,
+      "heating": "Klima",
+      "furnishing": "Furnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500247857387?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500056540253?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500072093512?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500012833950?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500268887255?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500492053425?w=800&q=80&category=building"
+    ],
+    "agent": {
+      "id": "A41",
+      "name": "Agent 37",
+      "phone": "+89 539 117 1780",
+      "email": "agent70@iwrealty.com",
+      "photo": "/images/icons/png/izmir-sahil-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-08-31T10:50:47.178Z",
+    "updatedAt": "2025-11-13T10:50:47.178Z",
+    "storeId": "store-005"
+  },
+  {
+    "id": "P00378",
+    "type": "rent",
+    "category": {
+      "main": "commercial",
+      "sub": "restaurant"
+    },
+    "title": "Kiralık Restoran - New Armenia",
+    "slug": "kiralik-restoran-new-armenia-P00378",
+    "description": "New Armenia, Armenia bölgesinde restoran. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 9643817,
+    "location": {
+      "country": "AM",
+      "city": "New Armenia",
+      "district": "New Armenia Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 251",
+      "coordinates": {
+        "lat": 39.6407279191643,
+        "lng": 44.67674702492074
+      }
+    },
+    "specs": {
+      "netSize": 872,
+      "grossSize": 1046,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 8,
+      "floor": 11,
+      "totalFloors": 11,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500913215638?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500088252976?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500429803727?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500458912750?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500516843254?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500208438951?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500071089955?w=800&q=80&category=building"
+    ],
+    "agent": {
+      "id": "A62",
+      "name": "Agent 84",
+      "phone": "+62 498 323 7812",
+      "email": "agent97@iwrealty.com",
+      "photo": "/images/icons/png/ankara-modern-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": false,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-03-24T10:50:47.178Z",
+    "updatedAt": "2025-11-13T10:50:47.178Z",
+    "storeId": "store-003"
+  },
+  {
+    "id": "P00379",
+    "type": "sale",
+    "category": {
+      "main": "commercial",
+      "sub": "warehouse"
+    },
+    "title": "Satılık Depo - Yerevan",
+    "slug": "satilik-depo-yerevan-P00379",
+    "description": "Yerevan, Armenia bölgesinde depo. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 14260240,
+    "location": {
+      "country": "AM",
+      "city": "Yerevan",
+      "district": "Yerevan Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 473",
+      "coordinates": {
+        "lat": 39.87988133538575,
+        "lng": 44.50105380333359
+      }
+    },
+    "specs": {
+      "netSize": 5847,
+      "grossSize": 7016,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 2,
+      "floor": 4,
+      "totalFloors": 12,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500031162201?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500409476539?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500736613199?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500433095659?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500529124396?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500625260692?w=800&q=80&category=architecture"
+    ],
+    "agent": {
+      "id": "A2",
+      "name": "Agent 85",
+      "phone": "+86 677 402 1914",
+      "email": "agent17@iwrealty.com",
+      "photo": "/images/icons/png/sydney-coastal-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-02-20T10:50:47.178Z",
+    "updatedAt": "2025-11-13T10:50:47.178Z",
+    "storeId": "store-012"
+  },
+  {
+    "id": "P00380",
+    "type": "rent",
+    "category": {
+      "main": "commercial",
+      "sub": "warehouse"
+    },
+    "title": "Kiralık Depo - New Armenia",
+    "slug": "kiralik-depo-new-armenia-P00380",
+    "description": "New Armenia, Armenia bölgesinde depo. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 3781414,
+    "location": {
+      "country": "AM",
+      "city": "New Armenia",
+      "district": "New Armenia Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 462",
+      "coordinates": {
+        "lat": 39.75572833306978,
+        "lng": 45.32978754425967
+      }
+    },
+    "specs": {
+      "netSize": 9835,
+      "grossSize": 11802,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 2,
+      "floor": 9,
+      "totalFloors": 12,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Unfurnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500832394547?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500210116693?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500655946318?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500510654589?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500007475670?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500075939250?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500388254869?w=800&q=80&category=real-estate"
+    ],
+    "agent": {
+      "id": "A88",
+      "name": "Agent 92",
+      "phone": "+41 408 964 4142",
+      "email": "agent98@iwrealty.com",
+      "photo": "/images/icons/png/paris-heritage-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-07-15T10:50:47.178Z",
+    "updatedAt": "2025-11-13T10:50:47.178Z",
+    "storeId": "store-010"
+  }
+]

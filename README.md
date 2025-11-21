@@ -1,0 +1,93 @@
+# IREMWORLD (irem)
+
+This repository contains the IREMWORLD Next.js web application for real estate listings and services.
+
+## Quick start (local)
+
+1. Install dependencies
+
+```powershell
+npm ci
+```
+
+2. Run development server
+
+```powershell
+npm run dev
+```
+
+3. Build for production
+
+```powershell
+npm run build
+```
+
+## Prepare for GitHub (create new repo)
+
+If you want me to create a GitHub repo named `iremworldproject`, you can run the following (replace `<GITHUB_USER>` with your GitHub username):
+
+```powershell
+# Optional: install and authenticate GitHub CLI
+gh auth login
+
+# Create repo and push current folder
+gh repo create <GITHUB_USER>/iremworldproject --public --source=. --remote=origin --push
+
+# Or, using git directly
+git remote add origin https://github.com/<GITHUB_USER>/iremworldproject.git
+git branch -M main
+git push -u origin main
+```
+
+> NOTE: `gh repo create` will create the repo under your account and optionally push the code automatically.
+
+## GitHub Actions (CI)
+
+This repo includes a minimal GitHub Actions workflow at `.github/workflows/ci.yml` to run a build check on push. If you want, you can enable additional test steps.
+
+## Deploy to Vercel
+
+Vercel is the recommended way to deploy this Next.js site. Two approaches:
+
+1. Vercel Dashboard: Connect your GitHub account, choose the `iremworldproject` repository, and enable auto-deploy on push. Configure environment variables in Vercel dashboard if needed.
+
+2. Vercel CLI (PowerShell):
+
+```powershell
+# Install vercel CLI globally (or use npx)
+npm i -g vercel
+vercel login
+
+# Run vercel to link or create a new project, then deploy
+vercel --prod
+```
+
+For production builds, Vercel detects this is a Next.js app and runs `npm run build` automatically.
+
+## Environment variables
+
+If your app requires secrets (e.g., database, cloudinary keys), add them in the Vercel dashboard for the project. Use `VERCEL_PROJECT_ID` and `VERCEL_ORG_ID` when configuring GitHub Actions for deployment (optional).
+
+### Google Sign-in
+
+The `/api/auth/google` flow expects these keys (store them in `.env.local` locally and in your hosting provider’s environment settings):
+
+```bash
+GOOGLE_CLIENT_ID=594638373214-4ngd1vh6426025gh9ihihp11ocfqjhg4.apps.googleusercontent.com
+GOOGLE_CLIENT_SECRET=<your_google_client_secret>
+# Optional – override only if you use a custom domain/callback URL
+GOOGLE_REDIRECT_URI=https://your-domain.com/api/auth/google/callback
+```
+
+- `GOOGLE_CLIENT_ID` / `GOOGLE_CLIENT_SECRET`: created in Google Cloud Console → OAuth consent screen / Credentials.
+- `GOOGLE_REDIRECT_URI`: defaults to `https://<host>/api/auth/google/callback`; set this value exactly in the Google console’s “Authorized redirect URIs” list.
+- After deploying, ensure the production origin matches the redirect URI or update the env accordingly.
+
+## Post-deploy checks
+
+- Open the Vercel project dashboard -> Domains -> Add a domain if you have one
+- Verify that pages such as `https://<project>.vercel.app/property`, `/store` route and `/api/stores` work.
+
+## Contact
+
+If you want me to finish and push to GitHub and connect Vercel for you, share your GitHub username and whether the repository should be public or private. I can then provide exact commands to run on your machine.

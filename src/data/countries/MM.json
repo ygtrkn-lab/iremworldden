@@ -1,0 +1,2346 @@
+[
+  {
+    "id": "P05663",
+    "type": "sale",
+    "category": {
+      "main": "government"
+    },
+    "title": "Satılık Belediye Binası - Naypyidaw",
+    "slug": "satilik-belediye-binası-naypyidaw-P05663",
+    "description": "Naypyidaw, Myanmar bölgesinde belediye binası. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 32357821,
+    "location": {
+      "country": "MM",
+      "city": "Naypyidaw",
+      "district": "Naypyidaw Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 936",
+      "coordinates": {
+        "lat": 21.711997008253334,
+        "lng": 98.21997772871094
+      }
+    },
+    "specs": {
+      "netSize": 2209,
+      "grossSize": 2651,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 7,
+      "floor": 5,
+      "totalFloors": 18,
+      "heating": "Merkezi",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500671907383?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500089107862?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500512444106?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500962576596?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500336063704?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500730670486?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500762728731?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500344050923?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500646575590?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500363633016?w=800&q=80&category=real-estate"
+    ],
+    "agent": {
+      "id": "A12",
+      "name": "Agent 62",
+      "phone": "+51 797 435 2367",
+      "email": "agent62@iwrealty.com",
+      "photo": "/images/icons/png/london-prime-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": true,
+      "hasPool": true,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-05-20T10:50:47.239Z",
+    "updatedAt": "2025-11-13T10:50:47.239Z",
+    "storeId": "store-007"
+  },
+  {
+    "id": "P05664",
+    "type": "rent",
+    "category": {
+      "main": "government"
+    },
+    "title": "Kiralık Okul - Myanmar City",
+    "slug": "kiralik-okul-myanmar-city-P05664",
+    "description": "Myanmar City, Myanmar bölgesinde okul. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 38894319,
+    "location": {
+      "country": "MM",
+      "city": "Myanmar City",
+      "district": "Myanmar City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 931",
+      "coordinates": {
+        "lat": 22.498993736402284,
+        "lng": 97.70707263643338
+      }
+    },
+    "specs": {
+      "netSize": 4544,
+      "grossSize": 5453,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 9,
+      "floor": 14,
+      "totalFloors": 20,
+      "heating": "Kombi",
+      "furnishing": "Furnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500427584304?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500211053164?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500386442627?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500345976793?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500993172215?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500262551447?w=800&q=80&category=house"
+    ],
+    "agent": {
+      "id": "A97",
+      "name": "Agent 30",
+      "phone": "+59 504 335 8663",
+      "email": "agent70@iwrealty.com",
+      "photo": "/images/icons/png/london-prime-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-06-11T10:50:47.239Z",
+    "updatedAt": "2025-11-13T10:50:47.239Z",
+    "storeId": "store-007"
+  },
+  {
+    "id": "P05665",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Residence - Myanmar Central",
+    "slug": "satilik-residence-myanmar-central-P05665",
+    "description": "Myanmar Central, Myanmar bölgesinde residence. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 6227613,
+    "location": {
+      "country": "MM",
+      "city": "Myanmar Central",
+      "district": "Myanmar Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 233",
+      "coordinates": {
+        "lat": 21.939480649146436,
+        "lng": 97.85870955764555
+      }
+    },
+    "specs": {
+      "netSize": 484,
+      "grossSize": 581,
+      "rooms": "4+1",
+      "bathrooms": 2,
+      "age": 16,
+      "floor": 15,
+      "totalFloors": 15,
+      "heating": "Merkezi",
+      "furnishing": "Furnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500254514641?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500583474152?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500184061959?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500538976449?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500854276604?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500272568201?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500754997346?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500386346471?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500592305683?w=800&q=80&category=building"
+    ],
+    "agent": {
+      "id": "A19",
+      "name": "Agent 11",
+      "phone": "+56 369 895 1828",
+      "email": "agent60@iwrealty.com",
+      "photo": "/images/icons/png/antalya-investment-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": true,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-08-06T10:50:47.239Z",
+    "updatedAt": "2025-11-13T10:50:47.239Z",
+    "storeId": "store-006"
+  },
+  {
+    "id": "P05666",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Müstakil Ev - New Myanmar",
+    "slug": "kiralik-müstakil-ev-new-myanmar-P05666",
+    "description": "New Myanmar, Myanmar bölgesinde müstakil ev. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 12819623,
+    "location": {
+      "country": "MM",
+      "city": "New Myanmar",
+      "district": "New Myanmar Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 707",
+      "coordinates": {
+        "lat": 22.220255846174695,
+        "lng": 97.57251229840047
+      }
+    },
+    "specs": {
+      "netSize": 326,
+      "grossSize": 391,
+      "rooms": "5+0",
+      "bathrooms": 1,
+      "age": 11,
+      "floor": 13,
+      "totalFloors": 5,
+      "heating": "Klima",
+      "furnishing": "Furnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500681995532?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500662442212?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500111698882?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500545674080?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500401413211?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500552581295?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500121614070?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500122628258?w=800&q=80&category=house"
+    ],
+    "agent": {
+      "id": "A60",
+      "name": "Agent 10",
+      "phone": "+72 752 204 1512",
+      "email": "agent99@iwrealty.com",
+      "photo": "/images/icons/png/sg-harbour-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2024-11-19T10:50:47.239Z",
+    "updatedAt": "2025-11-13T10:50:47.239Z",
+    "storeId": "store-011"
+  },
+  {
+    "id": "P05667",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Daire - Myanmar City",
+    "slug": "satilik-daire-myanmar-city-P05667",
+    "description": "Myanmar City, Myanmar bölgesinde daire. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 1798718,
+    "location": {
+      "country": "MM",
+      "city": "Myanmar City",
+      "district": "Myanmar City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 913",
+      "coordinates": {
+        "lat": 21.7708551242805,
+        "lng": 98.47358341215248
+      }
+    },
+    "specs": {
+      "netSize": 142,
+      "grossSize": 170,
+      "rooms": "1+0",
+      "bathrooms": 4,
+      "age": 3,
+      "floor": 7,
+      "totalFloors": 15,
+      "heating": "Merkezi",
+      "furnishing": "Unfurnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500893078426?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500465493007?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500639891958?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500033745040?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500228846089?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500223539985?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500880416866?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500484103929?w=800&q=80&category=building"
+    ],
+    "agent": {
+      "id": "A65",
+      "name": "Agent 74",
+      "phone": "+81 474 815 2340",
+      "email": "agent72@iwrealty.com",
+      "photo": "/images/icons/png/ankara-modern-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-09-16T10:50:47.239Z",
+    "updatedAt": "2025-11-13T10:50:47.239Z",
+    "storeId": "store-003"
+  },
+  {
+    "id": "P05668",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Müstakil Ev - Naypyidaw",
+    "slug": "kiralik-müstakil-ev-naypyidaw-P05668",
+    "description": "Naypyidaw, Myanmar bölgesinde müstakil ev. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 3222028,
+    "location": {
+      "country": "MM",
+      "city": "Naypyidaw",
+      "district": "Naypyidaw Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 427",
+      "coordinates": {
+        "lat": 21.607001607931043,
+        "lng": 97.51105829773047
+      }
+    },
+    "specs": {
+      "netSize": 343,
+      "grossSize": 412,
+      "rooms": "1+1",
+      "bathrooms": 2,
+      "age": 3,
+      "floor": 9,
+      "totalFloors": 5,
+      "heating": "Klima",
+      "furnishing": "Furnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500855044134?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500730998924?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500576787366?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500957502659?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500400785548?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500685500878?w=800&q=80&category=architecture"
+    ],
+    "agent": {
+      "id": "A11",
+      "name": "Agent 64",
+      "phone": "+99 705 962 9707",
+      "email": "agent13@iwrealty.com",
+      "photo": "/images/icons/png/antalya-investment-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": true,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-02-04T10:50:47.239Z",
+    "updatedAt": "2025-11-13T10:50:47.239Z",
+    "storeId": "store-006"
+  },
+  {
+    "id": "P05669",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Residence - Myanmar Central",
+    "slug": "satilik-residence-myanmar-central-P05669",
+    "description": "Myanmar Central, Myanmar bölgesinde residence. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 5599824,
+    "location": {
+      "country": "MM",
+      "city": "Myanmar Central",
+      "district": "Myanmar Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 602",
+      "coordinates": {
+        "lat": 21.80892881530289,
+        "lng": 98.12649145776632
+      }
+    },
+    "specs": {
+      "netSize": 366,
+      "grossSize": 439,
+      "rooms": "4+2",
+      "bathrooms": 2,
+      "age": 1,
+      "floor": 12,
+      "totalFloors": 20,
+      "heating": "Klima",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500511029539?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500761410612?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500584763546?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500268315825?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500239638664?w=800&q=80&category=house"
+    ],
+    "agent": {
+      "id": "A87",
+      "name": "Agent 59",
+      "phone": "+50 752 506 9729",
+      "email": "agent80@iwrealty.com",
+      "photo": "/images/icons/png/paris-heritage-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-10-26T10:50:47.239Z",
+    "updatedAt": "2025-11-13T10:50:47.239Z",
+    "storeId": "store-010"
+  },
+  {
+    "id": "P05670",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Daire - Myanmar Central",
+    "slug": "kiralik-daire-myanmar-central-P05670",
+    "description": "Myanmar Central, Myanmar bölgesinde daire. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 5476846,
+    "location": {
+      "country": "MM",
+      "city": "Myanmar Central",
+      "district": "Myanmar Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 381",
+      "coordinates": {
+        "lat": 21.69111882090886,
+        "lng": 98.29492607848007
+      }
+    },
+    "specs": {
+      "netSize": 385,
+      "grossSize": 462,
+      "rooms": "3+2",
+      "bathrooms": 4,
+      "age": 11,
+      "floor": 13,
+      "totalFloors": 10,
+      "heating": "Klima",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500830478651?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500604332054?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500874712530?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500728904510?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500535573423?w=800&q=80&category=real-estate"
+    ],
+    "agent": {
+      "id": "A94",
+      "name": "Agent 33",
+      "phone": "+84 887 724 9729",
+      "email": "agent1@iwrealty.com",
+      "photo": "/images/icons/png/sg-harbour-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": true,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-02-21T10:50:47.239Z",
+    "updatedAt": "2025-11-13T10:50:47.239Z",
+    "storeId": "store-011"
+  },
+  {
+    "id": "P05671",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Residence - Myanmar Central",
+    "slug": "satilik-residence-myanmar-central-P05671",
+    "description": "Myanmar Central, Myanmar bölgesinde residence. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 5273054,
+    "location": {
+      "country": "MM",
+      "city": "Myanmar Central",
+      "district": "Myanmar Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 536",
+      "coordinates": {
+        "lat": 22.11846777525894,
+        "lng": 98.17298856477015
+      }
+    },
+    "specs": {
+      "netSize": 264,
+      "grossSize": 317,
+      "rooms": "1+2",
+      "bathrooms": 1,
+      "age": 12,
+      "floor": 6,
+      "totalFloors": 18,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500393725662?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500337958560?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500650180647?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500046771586?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500925913940?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500817664016?w=800&q=80&category=house"
+    ],
+    "agent": {
+      "id": "A33",
+      "name": "Agent 53",
+      "phone": "+16 950 988 1880",
+      "email": "agent54@iwrealty.com",
+      "photo": "/images/icons/png/berlin-urban-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": true,
+      "hasSecurity": true
+    },
+    "createdAt": "2024-12-15T10:50:47.239Z",
+    "updatedAt": "2025-11-13T10:50:47.239Z",
+    "storeId": "store-009"
+  },
+  {
+    "id": "P05672",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Residence - Myanmar Central",
+    "slug": "kiralik-residence-myanmar-central-P05672",
+    "description": "Myanmar Central, Myanmar bölgesinde residence. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 9791254,
+    "location": {
+      "country": "MM",
+      "city": "Myanmar Central",
+      "district": "Myanmar Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 369",
+      "coordinates": {
+        "lat": 22.32806280843166,
+        "lng": 97.9936823355812
+      }
+    },
+    "specs": {
+      "netSize": 177,
+      "grossSize": 212,
+      "rooms": "2+0",
+      "bathrooms": 3,
+      "age": 3,
+      "floor": 14,
+      "totalFloors": 5,
+      "heating": "Merkezi",
+      "furnishing": "Unfurnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500535848173?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500939159606?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500928190950?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500016983089?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500463352120?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500151937037?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500853984994?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500193408711?w=800&q=80&category=architecture"
+    ],
+    "agent": {
+      "id": "A80",
+      "name": "Agent 30",
+      "phone": "+12 359 822 5412",
+      "email": "agent1@iwrealty.com",
+      "photo": "/images/icons/png/antalya-investment-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": false,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": true,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-05-06T10:50:47.239Z",
+    "updatedAt": "2025-11-13T10:50:47.239Z",
+    "storeId": "store-006"
+  },
+  {
+    "id": "P05673",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Daire - New Myanmar",
+    "slug": "satilik-daire-new-myanmar-P05673",
+    "description": "New Myanmar, Myanmar bölgesinde daire. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 14033074,
+    "location": {
+      "country": "MM",
+      "city": "New Myanmar",
+      "district": "New Myanmar Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 135",
+      "coordinates": {
+        "lat": 22.426399356618724,
+        "lng": 97.5763399529933
+      }
+    },
+    "specs": {
+      "netSize": 103,
+      "grossSize": 124,
+      "rooms": "3+0",
+      "bathrooms": 3,
+      "age": 8,
+      "floor": 13,
+      "totalFloors": 19,
+      "heating": "Merkezi",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500995268225?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500147768018?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500297388573?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500495502895?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500408594106?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500413345054?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500663949041?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500860028424?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500820190879?w=800&q=80&category=interior"
+    ],
+    "agent": {
+      "id": "A21",
+      "name": "Agent 54",
+      "phone": "+72 258 733 9279",
+      "email": "agent57@iwrealty.com",
+      "photo": "/images/icons/png/dubai-property-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": false,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": true,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-03-22T10:50:47.239Z",
+    "updatedAt": "2025-11-13T10:50:47.239Z",
+    "storeId": "store-004"
+  },
+  {
+    "id": "P05674",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Villa - Naypyidaw",
+    "slug": "kiralik-villa-naypyidaw-P05674",
+    "description": "Naypyidaw, Myanmar bölgesinde villa. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 5762676,
+    "location": {
+      "country": "MM",
+      "city": "Naypyidaw",
+      "district": "Naypyidaw Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 164",
+      "coordinates": {
+        "lat": 22.219687245038834,
+        "lng": 98.05620539045766
+      }
+    },
+    "specs": {
+      "netSize": 413,
+      "grossSize": 496,
+      "rooms": "3+1",
+      "bathrooms": 3,
+      "age": 15,
+      "floor": 3,
+      "totalFloors": 14,
+      "heating": "Klima",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500599248917?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500022299386?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500612002931?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500035484046?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500363562453?w=800&q=80&category=house"
+    ],
+    "agent": {
+      "id": "A21",
+      "name": "Agent 72",
+      "phone": "+95 800 922 5764",
+      "email": "agent80@iwrealty.com",
+      "photo": "/images/icons/png/paris-heritage-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-01-13T10:50:47.239Z",
+    "updatedAt": "2025-11-13T10:50:47.239Z",
+    "storeId": "store-010"
+  },
+  {
+    "id": "P05675",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Villa - Myanmar Central",
+    "slug": "satilik-villa-myanmar-central-P05675",
+    "description": "Myanmar Central, Myanmar bölgesinde villa. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 7593194,
+    "location": {
+      "country": "MM",
+      "city": "Myanmar Central",
+      "district": "Myanmar Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 486",
+      "coordinates": {
+        "lat": 22.245894839391273,
+        "lng": 97.85927621111256
+      }
+    },
+    "specs": {
+      "netSize": 358,
+      "grossSize": 430,
+      "rooms": "4+2",
+      "bathrooms": 1,
+      "age": 7,
+      "floor": 12,
+      "totalFloors": 10,
+      "heating": "Kombi",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500430276274?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500260615180?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500608012842?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500344135984?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500733697532?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500434707760?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500662855335?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500682255324?w=800&q=80&category=real-estate"
+    ],
+    "agent": {
+      "id": "A38",
+      "name": "Agent 79",
+      "phone": "+55 812 835 1104",
+      "email": "agent58@iwrealty.com",
+      "photo": "/images/icons/png/berlin-urban-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-09-29T10:50:47.239Z",
+    "updatedAt": "2025-11-13T10:50:47.239Z",
+    "storeId": "store-009"
+  },
+  {
+    "id": "P05676",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Müstakil Ev - Myanmar City",
+    "slug": "kiralik-müstakil-ev-myanmar-city-P05676",
+    "description": "Myanmar City, Myanmar bölgesinde müstakil ev. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 1728142,
+    "location": {
+      "country": "MM",
+      "city": "Myanmar City",
+      "district": "Myanmar City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 794",
+      "coordinates": {
+        "lat": 21.69186024014198,
+        "lng": 98.07532332770401
+      }
+    },
+    "specs": {
+      "netSize": 285,
+      "grossSize": 342,
+      "rooms": "4+2",
+      "bathrooms": 2,
+      "age": 18,
+      "floor": 10,
+      "totalFloors": 7,
+      "heating": "Kombi",
+      "furnishing": "Furnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500802267219?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500124653292?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500128359871?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500309682029?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500452591999?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500925783445?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500410492201?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500595633512?w=800&q=80&category=house"
+    ],
+    "agent": {
+      "id": "A49",
+      "name": "Agent 87",
+      "phone": "+43 692 557 6454",
+      "email": "agent7@iwrealty.com",
+      "photo": "/images/icons/png/ny-skyline-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-06-01T10:50:47.239Z",
+    "updatedAt": "2025-11-13T10:50:47.239Z",
+    "storeId": "store-008"
+  },
+  {
+    "id": "P05677",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Residence - New Myanmar",
+    "slug": "satilik-residence-new-myanmar-P05677",
+    "description": "New Myanmar, Myanmar bölgesinde residence. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 2441077,
+    "location": {
+      "country": "MM",
+      "city": "New Myanmar",
+      "district": "New Myanmar Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 204",
+      "coordinates": {
+        "lat": 22.02459663981321,
+        "lng": 98.25824063344423
+      }
+    },
+    "specs": {
+      "netSize": 168,
+      "grossSize": 202,
+      "rooms": "5+0",
+      "bathrooms": 1,
+      "age": 13,
+      "floor": 10,
+      "totalFloors": 8,
+      "heating": "Merkezi",
+      "furnishing": "Unfurnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500461608421?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500536869341?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500730600610?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500314894433?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500421390206?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500267490359?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500397392422?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500804462733?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500102383485?w=800&q=80&category=interior"
+    ],
+    "agent": {
+      "id": "A36",
+      "name": "Agent 29",
+      "phone": "+52 410 918 8145",
+      "email": "agent50@iwrealty.com",
+      "photo": "/images/icons/png/luxury-homes-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": true,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-08-21T10:50:47.239Z",
+    "updatedAt": "2025-11-13T10:50:47.239Z",
+    "storeId": "store-002"
+  },
+  {
+    "id": "P05678",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Müstakil Ev - Myanmar Central",
+    "slug": "kiralik-müstakil-ev-myanmar-central-P05678",
+    "description": "Myanmar Central, Myanmar bölgesinde müstakil ev. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 4602418,
+    "location": {
+      "country": "MM",
+      "city": "Myanmar Central",
+      "district": "Myanmar Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 156",
+      "coordinates": {
+        "lat": 22.47823361505786,
+        "lng": 97.74480165658403
+      }
+    },
+    "specs": {
+      "netSize": 458,
+      "grossSize": 550,
+      "rooms": "1+1",
+      "bathrooms": 1,
+      "age": 4,
+      "floor": 13,
+      "totalFloors": 8,
+      "heating": "Klima",
+      "furnishing": "Furnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500644025743?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500589922820?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500298908932?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500780720949?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500751791593?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500374279541?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500588673056?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500715535135?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500270564650?w=800&q=80&category=real-estate"
+    ],
+    "agent": {
+      "id": "A53",
+      "name": "Agent 72",
+      "phone": "+53 347 390 3755",
+      "email": "agent46@iwrealty.com",
+      "photo": "/images/icons/png/antalya-investment-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-03-04T10:50:47.239Z",
+    "updatedAt": "2025-11-13T10:50:47.239Z",
+    "storeId": "store-006"
+  },
+  {
+    "id": "P05679",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Residence - Naypyidaw",
+    "slug": "satilik-residence-naypyidaw-P05679",
+    "description": "Naypyidaw, Myanmar bölgesinde residence. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 5700394,
+    "location": {
+      "country": "MM",
+      "city": "Naypyidaw",
+      "district": "Naypyidaw Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 617",
+      "coordinates": {
+        "lat": 22.22617560941659,
+        "lng": 97.51961443950351
+      }
+    },
+    "specs": {
+      "netSize": 246,
+      "grossSize": 295,
+      "rooms": "1+0",
+      "bathrooms": 1,
+      "age": 20,
+      "floor": 15,
+      "totalFloors": 10,
+      "heating": "Merkezi",
+      "furnishing": "Furnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500101655322?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500793136615?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500558932735?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500132448710?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500907773601?w=800&q=80&category=real-estate"
+    ],
+    "agent": {
+      "id": "A24",
+      "name": "Agent 4",
+      "phone": "+36 415 779 4854",
+      "email": "agent97@iwrealty.com",
+      "photo": "/images/icons/png/paris-heritage-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": false,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-09-19T10:50:47.239Z",
+    "updatedAt": "2025-11-13T10:50:47.239Z",
+    "storeId": "store-010"
+  },
+  {
+    "id": "P05680",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Müstakil Ev - Myanmar City",
+    "slug": "kiralik-müstakil-ev-myanmar-city-P05680",
+    "description": "Myanmar City, Myanmar bölgesinde müstakil ev. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 11776612,
+    "location": {
+      "country": "MM",
+      "city": "Myanmar City",
+      "district": "Myanmar City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 369",
+      "coordinates": {
+        "lat": 22.100759285038624,
+        "lng": 97.85218569275271
+      }
+    },
+    "specs": {
+      "netSize": 283,
+      "grossSize": 340,
+      "rooms": "1+1",
+      "bathrooms": 2,
+      "age": 1,
+      "floor": 13,
+      "totalFloors": 20,
+      "heating": "Kombi",
+      "furnishing": "Unfurnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500677656930?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500687588996?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500771260124?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500269781400?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500891717465?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500700789467?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500306820952?w=800&q=80&category=real-estate"
+    ],
+    "agent": {
+      "id": "A14",
+      "name": "Agent 49",
+      "phone": "+45 689 967 5286",
+      "email": "agent69@iwrealty.com",
+      "photo": "/images/icons/png/antalya-investment-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-04-13T10:50:47.239Z",
+    "updatedAt": "2025-11-13T10:50:47.239Z",
+    "storeId": "store-006"
+  },
+  {
+    "id": "P05681",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Müstakil Ev - Naypyidaw",
+    "slug": "satilik-müstakil-ev-naypyidaw-P05681",
+    "description": "Naypyidaw, Myanmar bölgesinde müstakil ev. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 7503812,
+    "location": {
+      "country": "MM",
+      "city": "Naypyidaw",
+      "district": "Naypyidaw Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 423",
+      "coordinates": {
+        "lat": 22.254922824674658,
+        "lng": 97.77479095408125
+      }
+    },
+    "specs": {
+      "netSize": 131,
+      "grossSize": 157,
+      "rooms": "4+1",
+      "bathrooms": 3,
+      "age": 8,
+      "floor": 8,
+      "totalFloors": 10,
+      "heating": "Klima",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500947383637?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500134516709?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500223312394?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500452984791?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500460259877?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500536765512?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500142310740?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500982888662?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500862079402?w=800&q=80&category=architecture"
+    ],
+    "agent": {
+      "id": "A24",
+      "name": "Agent 99",
+      "phone": "+27 820 252 7783",
+      "email": "agent99@iwrealty.com",
+      "photo": "/images/icons/png/sydney-coastal-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-01-19T10:50:47.239Z",
+    "updatedAt": "2025-11-13T10:50:47.239Z",
+    "storeId": "store-012"
+  },
+  {
+    "id": "P05682",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Residence - New Myanmar",
+    "slug": "kiralik-residence-new-myanmar-P05682",
+    "description": "New Myanmar, Myanmar bölgesinde residence. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 4769789,
+    "location": {
+      "country": "MM",
+      "city": "New Myanmar",
+      "district": "New Myanmar Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 366",
+      "coordinates": {
+        "lat": 21.85973410497466,
+        "lng": 97.5461137465387
+      }
+    },
+    "specs": {
+      "netSize": 269,
+      "grossSize": 323,
+      "rooms": "5+2",
+      "bathrooms": 3,
+      "age": 5,
+      "floor": 14,
+      "totalFloors": 5,
+      "heating": "Klima",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500153676338?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500646531957?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500202331631?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500422288166?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500347145200?w=800&q=80&category=real-estate"
+    ],
+    "agent": {
+      "id": "A47",
+      "name": "Agent 49",
+      "phone": "+15 677 958 2464",
+      "email": "agent9@iwrealty.com",
+      "photo": "/images/icons/png/ankara-modern-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": false,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-11-04T10:50:47.239Z",
+    "updatedAt": "2025-11-13T10:50:47.239Z",
+    "storeId": "store-003"
+  },
+  {
+    "id": "P05683",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Müstakil Ev - New Myanmar",
+    "slug": "satilik-müstakil-ev-new-myanmar-P05683",
+    "description": "New Myanmar, Myanmar bölgesinde müstakil ev. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 7391892,
+    "location": {
+      "country": "MM",
+      "city": "New Myanmar",
+      "district": "New Myanmar Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 308",
+      "coordinates": {
+        "lat": 21.771582302138665,
+        "lng": 97.52617586029336
+      }
+    },
+    "specs": {
+      "netSize": 193,
+      "grossSize": 232,
+      "rooms": "1+1",
+      "bathrooms": 2,
+      "age": 17,
+      "floor": 6,
+      "totalFloors": 13,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Furnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500495314050?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500229970470?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500367249960?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500562935960?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500490870013?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500706385214?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500118564533?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500019324905?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500981596755?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500916699405?w=800&q=80&category=house"
+    ],
+    "agent": {
+      "id": "A90",
+      "name": "Agent 88",
+      "phone": "+21 683 891 3589",
+      "email": "agent14@iwrealty.com",
+      "photo": "/images/icons/png/izmir-sahil-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": false,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2024-12-20T10:50:47.239Z",
+    "updatedAt": "2025-11-13T10:50:47.239Z",
+    "storeId": "store-005"
+  },
+  {
+    "id": "P05684",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Daire - Myanmar City",
+    "slug": "kiralik-daire-myanmar-city-P05684",
+    "description": "Myanmar City, Myanmar bölgesinde daire. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 5054274,
+    "location": {
+      "country": "MM",
+      "city": "Myanmar City",
+      "district": "Myanmar City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 799",
+      "coordinates": {
+        "lat": 22.10673661921857,
+        "lng": 98.44383180589043
+      }
+    },
+    "specs": {
+      "netSize": 243,
+      "grossSize": 292,
+      "rooms": "4+0",
+      "bathrooms": 4,
+      "age": 7,
+      "floor": 15,
+      "totalFloors": 9,
+      "heating": "Merkezi",
+      "furnishing": "Furnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500538225453?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500887930565?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500693640559?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500810769184?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500772387585?w=800&q=80&category=real-estate"
+    ],
+    "agent": {
+      "id": "A25",
+      "name": "Agent 91",
+      "phone": "+51 935 906 6528",
+      "email": "agent71@iwrealty.com",
+      "photo": "/images/icons/png/paris-heritage-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-06-30T10:50:47.239Z",
+    "updatedAt": "2025-11-13T10:50:47.239Z",
+    "storeId": "store-010"
+  },
+  {
+    "id": "P05685",
+    "type": "sale",
+    "category": {
+      "main": "commercial",
+      "sub": "hospital"
+    },
+    "title": "Satılık Hastane - Myanmar Central",
+    "slug": "satilik-hastane-myanmar-central-P05685",
+    "description": "Myanmar Central, Myanmar bölgesinde hastane. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 29311075,
+    "location": {
+      "country": "MM",
+      "city": "Myanmar Central",
+      "district": "Myanmar Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 603",
+      "coordinates": {
+        "lat": 22.002445522384832,
+        "lng": 97.68455465069253
+      }
+    },
+    "specs": {
+      "netSize": 5452,
+      "grossSize": 6542,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 8,
+      "floor": 10,
+      "totalFloors": 10,
+      "heating": "Merkezi",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500358159511?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500828392817?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500444409995?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500321211961?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500133175036?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500773286254?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500417737088?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500337260273?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500399918218?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500993453140?w=800&q=80&category=house"
+    ],
+    "agent": {
+      "id": "A79",
+      "name": "Agent 72",
+      "phone": "+34 892 969 4998",
+      "email": "agent74@iwrealty.com",
+      "photo": "/images/icons/png/luxury-homes-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": false,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-02-06T10:50:47.239Z",
+    "updatedAt": "2025-11-13T10:50:47.239Z",
+    "storeId": "store-002"
+  },
+  {
+    "id": "P05686",
+    "type": "rent",
+    "category": {
+      "main": "commercial",
+      "sub": "hospital"
+    },
+    "title": "Kiralık Hastane - Myanmar Central",
+    "slug": "kiralik-hastane-myanmar-central-P05686",
+    "description": "Myanmar Central, Myanmar bölgesinde hastane. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 29296981,
+    "location": {
+      "country": "MM",
+      "city": "Myanmar Central",
+      "district": "Myanmar Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 300",
+      "coordinates": {
+        "lat": 22.192484000953318,
+        "lng": 97.70363221611181
+      }
+    },
+    "specs": {
+      "netSize": 7847,
+      "grossSize": 9416,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 8,
+      "floor": 11,
+      "totalFloors": 11,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500455235233?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500252311580?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500168521620?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500629695862?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500330061213?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500484175228?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500678976912?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500281566209?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500614807691?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500887987350?w=800&q=80&category=real-estate"
+    ],
+    "agent": {
+      "id": "A70",
+      "name": "Agent 8",
+      "phone": "+36 270 105 4315",
+      "email": "agent86@iwrealty.com",
+      "photo": "/images/icons/png/izmir-sahil-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": false,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-03-04T10:50:47.239Z",
+    "updatedAt": "2025-11-13T10:50:47.239Z",
+    "storeId": "store-005"
+  },
+  {
+    "id": "P05687",
+    "type": "sale",
+    "category": {
+      "main": "commercial",
+      "sub": "clinic"
+    },
+    "title": "Satılık Klinik - Naypyidaw",
+    "slug": "satilik-klinik-naypyidaw-P05687",
+    "description": "Naypyidaw, Myanmar bölgesinde klinik. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 8838208,
+    "location": {
+      "country": "MM",
+      "city": "Naypyidaw",
+      "district": "Naypyidaw Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 346",
+      "coordinates": {
+        "lat": 22.149263216338994,
+        "lng": 97.85419519605095
+      }
+    },
+    "specs": {
+      "netSize": 841,
+      "grossSize": 1009,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 8,
+      "floor": 8,
+      "totalFloors": 17,
+      "heating": "Kombi",
+      "furnishing": "Unfurnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500925631454?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500941417291?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500773910344?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500700271197?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500988293554?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500302573209?w=800&q=80&category=house"
+    ],
+    "agent": {
+      "id": "A85",
+      "name": "Agent 1",
+      "phone": "+71 991 483 8995",
+      "email": "agent60@iwrealty.com",
+      "photo": "/images/icons/png/antalya-investment-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-09-02T10:50:47.239Z",
+    "updatedAt": "2025-11-13T10:50:47.239Z",
+    "storeId": "store-006"
+  },
+  {
+    "id": "P05688",
+    "type": "rent",
+    "category": {
+      "main": "commercial",
+      "sub": "clinic"
+    },
+    "title": "Kiralık Klinik - New Myanmar",
+    "slug": "kiralik-klinik-new-myanmar-P05688",
+    "description": "New Myanmar, Myanmar bölgesinde klinik. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 9954247,
+    "location": {
+      "country": "MM",
+      "city": "New Myanmar",
+      "district": "New Myanmar Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 530",
+      "coordinates": {
+        "lat": 22.197781824362014,
+        "lng": 97.90546442911004
+      }
+    },
+    "specs": {
+      "netSize": 1903,
+      "grossSize": 2284,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 2,
+      "floor": 5,
+      "totalFloors": 17,
+      "heating": "Merkezi",
+      "furnishing": "Furnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500761347920?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500738469214?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500765466317?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500759305293?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500284829538?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500104362051?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500501607714?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500673578719?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500542228582?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500033541682?w=800&q=80&category=building"
+    ],
+    "agent": {
+      "id": "A61",
+      "name": "Agent 87",
+      "phone": "+75 931 788 5053",
+      "email": "agent12@iwrealty.com",
+      "photo": "/images/icons/png/london-prime-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-09-18T10:50:47.239Z",
+    "updatedAt": "2025-11-13T10:50:47.239Z",
+    "storeId": "store-007"
+  },
+  {
+    "id": "P05689",
+    "type": "sale",
+    "category": {
+      "main": "commercial",
+      "sub": "shop"
+    },
+    "title": "Satılık Dükkan - Myanmar Central",
+    "slug": "satilik-dükkan-myanmar-central-P05689",
+    "description": "Myanmar Central, Myanmar bölgesinde dükkan. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 5259079,
+    "location": {
+      "country": "MM",
+      "city": "Myanmar Central",
+      "district": "Myanmar Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 574",
+      "coordinates": {
+        "lat": 21.80364171683945,
+        "lng": 97.74415933610315
+      }
+    },
+    "specs": {
+      "netSize": 287,
+      "grossSize": 344,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 10,
+      "floor": 14,
+      "totalFloors": 14,
+      "heating": "Klima",
+      "furnishing": "Furnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500274925217?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500331470447?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500999105991?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500378897242?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500288368875?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500640862688?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500280585078?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500783001432?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500113081163?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500857354992?w=800&q=80&category=interior"
+    ],
+    "agent": {
+      "id": "A100",
+      "name": "Agent 58",
+      "phone": "+77 492 888 5814",
+      "email": "agent3@iwrealty.com",
+      "photo": "/images/icons/png/paris-heritage-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": true,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-10-19T10:50:47.239Z",
+    "updatedAt": "2025-11-13T10:50:47.239Z",
+    "storeId": "store-010"
+  },
+  {
+    "id": "P05690",
+    "type": "rent",
+    "category": {
+      "main": "commercial",
+      "sub": "shop"
+    },
+    "title": "Kiralık Dükkan - New Myanmar",
+    "slug": "kiralik-dükkan-new-myanmar-P05690",
+    "description": "New Myanmar, Myanmar bölgesinde dükkan. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 6484185,
+    "location": {
+      "country": "MM",
+      "city": "New Myanmar",
+      "district": "New Myanmar Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 432",
+      "coordinates": {
+        "lat": 22.490973504757207,
+        "lng": 97.77220353979773
+      }
+    },
+    "specs": {
+      "netSize": 252,
+      "grossSize": 302,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 5,
+      "floor": 9,
+      "totalFloors": 10,
+      "heating": "Merkezi",
+      "furnishing": "Furnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500019613116?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500933163109?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500983764536?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500739078664?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500605081061?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500564644519?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500820510952?w=800&q=80&category=house"
+    ],
+    "agent": {
+      "id": "A19",
+      "name": "Agent 44",
+      "phone": "+77 645 912 7723",
+      "email": "agent88@iwrealty.com",
+      "photo": "/images/icons/png/sydney-coastal-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": false,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": true,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-05-19T10:50:47.239Z",
+    "updatedAt": "2025-11-13T10:50:47.239Z",
+    "storeId": "store-012"
+  },
+  {
+    "id": "P05691",
+    "type": "sale",
+    "category": {
+      "main": "commercial",
+      "sub": "office"
+    },
+    "title": "Satılık Ofis - Myanmar Central",
+    "slug": "satilik-ofis-myanmar-central-P05691",
+    "description": "Myanmar Central, Myanmar bölgesinde ofis. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 2713874,
+    "location": {
+      "country": "MM",
+      "city": "Myanmar Central",
+      "district": "Myanmar Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 939",
+      "coordinates": {
+        "lat": 21.721660545243857,
+        "lng": 98.08429502637944
+      }
+    },
+    "specs": {
+      "netSize": 339,
+      "grossSize": 407,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 5,
+      "floor": 10,
+      "totalFloors": 9,
+      "heating": "Merkezi",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500500123421?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500117325582?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500591974170?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500103936575?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500105982281?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500553385354?w=800&q=80&category=house"
+    ],
+    "agent": {
+      "id": "A92",
+      "name": "Agent 67",
+      "phone": "+88 610 802 8087",
+      "email": "agent76@iwrealty.com",
+      "photo": "/images/icons/png/luxury-homes-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": true,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-10-19T10:50:47.239Z",
+    "updatedAt": "2025-11-13T10:50:47.239Z",
+    "storeId": "store-002"
+  },
+  {
+    "id": "P05692",
+    "type": "rent",
+    "category": {
+      "main": "commercial",
+      "sub": "office"
+    },
+    "title": "Kiralık Ofis - Myanmar Central",
+    "slug": "kiralik-ofis-myanmar-central-P05692",
+    "description": "Myanmar Central, Myanmar bölgesinde ofis. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 7796879,
+    "location": {
+      "country": "MM",
+      "city": "Myanmar Central",
+      "district": "Myanmar Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 915",
+      "coordinates": {
+        "lat": 22.212818992892217,
+        "lng": 97.80940725067404
+      }
+    },
+    "specs": {
+      "netSize": 867,
+      "grossSize": 1040,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 6,
+      "floor": 7,
+      "totalFloors": 12,
+      "heating": "Kombi",
+      "furnishing": "Unfurnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500789208159?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500287673418?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500688989964?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500092431377?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500412449577?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500334002586?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500836651055?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500268248575?w=800&q=80&category=house"
+    ],
+    "agent": {
+      "id": "A80",
+      "name": "Agent 48",
+      "phone": "+95 680 374 7244",
+      "email": "agent58@iwrealty.com",
+      "photo": "/images/icons/png/paris-heritage-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": true,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-07-12T10:50:47.239Z",
+    "updatedAt": "2025-11-13T10:50:47.239Z",
+    "storeId": "store-010"
+  },
+  {
+    "id": "P05693",
+    "type": "sale",
+    "category": {
+      "main": "commercial",
+      "sub": "mall"
+    },
+    "title": "Satılık AVM - Naypyidaw",
+    "slug": "satilik-avm-naypyidaw-P05693",
+    "description": "Naypyidaw, Myanmar bölgesinde avm. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 452027063,
+    "location": {
+      "country": "MM",
+      "city": "Naypyidaw",
+      "district": "Naypyidaw Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 14",
+      "coordinates": {
+        "lat": 21.81893041825427,
+        "lng": 98.08538379677981
+      }
+    },
+    "specs": {
+      "netSize": 48438,
+      "grossSize": 58126,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 20,
+      "floor": 11,
+      "totalFloors": 18,
+      "heating": "Merkezi",
+      "furnishing": "Furnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500947766812?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500986182268?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500175195451?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500623833413?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500388200353?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500965192353?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500009670653?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500781737725?w=800&q=80&category=interior"
+    ],
+    "agent": {
+      "id": "A78",
+      "name": "Agent 28",
+      "phone": "+90 350 970 8888",
+      "email": "agent17@iwrealty.com",
+      "photo": "/images/icons/png/luxury-homes-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2024-12-08T10:50:47.239Z",
+    "updatedAt": "2025-11-13T10:50:47.239Z",
+    "storeId": "store-002"
+  },
+  {
+    "id": "P05694",
+    "type": "rent",
+    "category": {
+      "main": "commercial",
+      "sub": "mall"
+    },
+    "title": "Kiralık AVM - Myanmar City",
+    "slug": "kiralik-avm-myanmar-city-P05694",
+    "description": "Myanmar City, Myanmar bölgesinde avm. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 237618475,
+    "location": {
+      "country": "MM",
+      "city": "Myanmar City",
+      "district": "Myanmar City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 938",
+      "coordinates": {
+        "lat": 21.673248787418448,
+        "lng": 97.61896340492964
+      }
+    },
+    "specs": {
+      "netSize": 24142,
+      "grossSize": 28970,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 20,
+      "floor": 4,
+      "totalFloors": 8,
+      "heating": "Klima",
+      "furnishing": "Furnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500871603621?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500925059986?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500995530649?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500290406346?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500669721199?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500209656249?w=800&q=80&category=interior"
+    ],
+    "agent": {
+      "id": "A68",
+      "name": "Agent 52",
+      "phone": "+91 351 176 4399",
+      "email": "agent37@iwrealty.com",
+      "photo": "/images/icons/png/ny-skyline-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-04-10T10:50:47.239Z",
+    "updatedAt": "2025-11-13T10:50:47.239Z",
+    "storeId": "store-008"
+  },
+  {
+    "id": "P05695",
+    "type": "sale",
+    "category": {
+      "main": "commercial",
+      "sub": "hotel"
+    },
+    "title": "Satılık Otel - Myanmar City",
+    "slug": "satilik-otel-myanmar-city-P05695",
+    "description": "Myanmar City, Myanmar bölgesinde otel. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 118763794,
+    "location": {
+      "country": "MM",
+      "city": "Myanmar City",
+      "district": "Myanmar City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 492",
+      "coordinates": {
+        "lat": 22.0579600811592,
+        "lng": 98.4952640627632
+      }
+    },
+    "specs": {
+      "netSize": 13563,
+      "grossSize": 16276,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 8,
+      "floor": 12,
+      "totalFloors": 10,
+      "heating": "Merkezi",
+      "furnishing": "Unfurnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500026163581?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500349509684?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500218260478?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500915217911?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500431705892?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500156742839?w=800&q=80&category=real-estate"
+    ],
+    "agent": {
+      "id": "A88",
+      "name": "Agent 36",
+      "phone": "+29 793 839 5785",
+      "email": "agent8@iwrealty.com",
+      "photo": "/images/icons/png/sg-harbour-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-04-15T10:50:47.239Z",
+    "updatedAt": "2025-11-13T10:50:47.239Z",
+    "storeId": "store-011"
+  },
+  {
+    "id": "P05696",
+    "type": "rent",
+    "category": {
+      "main": "commercial",
+      "sub": "hotel"
+    },
+    "title": "Kiralık Otel - New Myanmar",
+    "slug": "kiralik-otel-new-myanmar-P05696",
+    "description": "New Myanmar, Myanmar bölgesinde otel. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 112279035,
+    "location": {
+      "country": "MM",
+      "city": "New Myanmar",
+      "district": "New Myanmar Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 707",
+      "coordinates": {
+        "lat": 22.039527357125795,
+        "lng": 97.61355496908023
+      }
+    },
+    "specs": {
+      "netSize": 17364,
+      "grossSize": 20837,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 5,
+      "floor": 11,
+      "totalFloors": 19,
+      "heating": "Klima",
+      "furnishing": "Unfurnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500003995219?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500550987265?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500437834574?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500900181953?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500538087378?w=800&q=80&category=real-estate"
+    ],
+    "agent": {
+      "id": "A55",
+      "name": "Agent 66",
+      "phone": "+49 921 136 5720",
+      "email": "agent50@iwrealty.com",
+      "photo": "/images/icons/png/ny-skyline-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-05-08T10:50:47.239Z",
+    "updatedAt": "2025-11-13T10:50:47.239Z",
+    "storeId": "store-008"
+  },
+  {
+    "id": "P05697",
+    "type": "sale",
+    "category": {
+      "main": "commercial",
+      "sub": "restaurant"
+    },
+    "title": "Satılık Restoran - New Myanmar",
+    "slug": "satilik-restoran-new-myanmar-P05697",
+    "description": "New Myanmar, Myanmar bölgesinde restoran. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 2985183,
+    "location": {
+      "country": "MM",
+      "city": "New Myanmar",
+      "district": "New Myanmar Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 329",
+      "coordinates": {
+        "lat": 21.920027115055603,
+        "lng": 98.44667638623388
+      }
+    },
+    "specs": {
+      "netSize": 839,
+      "grossSize": 1007,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 8,
+      "floor": 9,
+      "totalFloors": 10,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Unfurnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500860767354?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500660861885?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500879846243?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500774412230?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500938352933?w=800&q=80&category=building"
+    ],
+    "agent": {
+      "id": "A97",
+      "name": "Agent 98",
+      "phone": "+25 962 167 5839",
+      "email": "agent81@iwrealty.com",
+      "photo": "/images/icons/png/paris-heritage-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": false,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-02-28T10:50:47.239Z",
+    "updatedAt": "2025-11-13T10:50:47.239Z",
+    "storeId": "store-010"
+  },
+  {
+    "id": "P05698",
+    "type": "rent",
+    "category": {
+      "main": "commercial",
+      "sub": "restaurant"
+    },
+    "title": "Kiralık Restoran - Naypyidaw",
+    "slug": "kiralik-restoran-naypyidaw-P05698",
+    "description": "Naypyidaw, Myanmar bölgesinde restoran. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 9695373,
+    "location": {
+      "country": "MM",
+      "city": "Naypyidaw",
+      "district": "Naypyidaw Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 661",
+      "coordinates": {
+        "lat": 21.99991283037366,
+        "lng": 97.75144892356988
+      }
+    },
+    "specs": {
+      "netSize": 551,
+      "grossSize": 661,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 1,
+      "floor": 11,
+      "totalFloors": 19,
+      "heating": "Kombi",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500106679967?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500944827296?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500141203665?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500985453130?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500799661335?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500058694907?w=800&q=80&category=interior"
+    ],
+    "agent": {
+      "id": "A32",
+      "name": "Agent 32",
+      "phone": "+70 606 898 2017",
+      "email": "agent86@iwrealty.com",
+      "photo": "/images/icons/png/izmir-sahil-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-02-08T10:50:47.239Z",
+    "updatedAt": "2025-11-13T10:50:47.239Z",
+    "storeId": "store-005"
+  },
+  {
+    "id": "P05699",
+    "type": "sale",
+    "category": {
+      "main": "commercial",
+      "sub": "warehouse"
+    },
+    "title": "Satılık Depo - Myanmar Central",
+    "slug": "satilik-depo-myanmar-central-P05699",
+    "description": "Myanmar Central, Myanmar bölgesinde depo. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 22750281,
+    "location": {
+      "country": "MM",
+      "city": "Myanmar Central",
+      "district": "Myanmar Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 306",
+      "coordinates": {
+        "lat": 21.557508741062385,
+        "lng": 97.82959933867032
+      }
+    },
+    "specs": {
+      "netSize": 9888,
+      "grossSize": 11866,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 2,
+      "floor": 2,
+      "totalFloors": 18,
+      "heating": "Merkezi",
+      "furnishing": "Unfurnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500888318801?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500823590284?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500222043723?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500005085989?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500319329210?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500153040960?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500000312522?w=800&q=80&category=house"
+    ],
+    "agent": {
+      "id": "A92",
+      "name": "Agent 61",
+      "phone": "+52 390 858 1587",
+      "email": "agent29@iwrealty.com",
+      "photo": "/images/icons/png/luxury-homes-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-05-02T10:50:47.239Z",
+    "updatedAt": "2025-11-13T10:50:47.239Z",
+    "storeId": "store-002"
+  },
+  {
+    "id": "P05700",
+    "type": "rent",
+    "category": {
+      "main": "commercial",
+      "sub": "warehouse"
+    },
+    "title": "Kiralık Depo - Myanmar City",
+    "slug": "kiralik-depo-myanmar-city-P05700",
+    "description": "Myanmar City, Myanmar bölgesinde depo. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 5636354,
+    "location": {
+      "country": "MM",
+      "city": "Myanmar City",
+      "district": "Myanmar City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 194",
+      "coordinates": {
+        "lat": 21.67028287047813,
+        "lng": 97.76544444491775
+      }
+    },
+    "specs": {
+      "netSize": 965,
+      "grossSize": 1158,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 18,
+      "floor": 13,
+      "totalFloors": 18,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500644714556?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500455764582?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500178953666?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500093122214?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500301516533?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500391351511?w=800&q=80&category=house"
+    ],
+    "agent": {
+      "id": "A23",
+      "name": "Agent 95",
+      "phone": "+14 446 269 2237",
+      "email": "agent24@iwrealty.com",
+      "photo": "/images/icons/png/paris-heritage-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-11-07T10:50:47.239Z",
+    "updatedAt": "2025-11-13T10:50:47.239Z",
+    "storeId": "store-010"
+  }
+]

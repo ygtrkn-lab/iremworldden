@@ -1,0 +1,2353 @@
+[
+  {
+    "id": "P07145",
+    "type": "sale",
+    "category": {
+      "main": "government"
+    },
+    "title": "Satılık Hastane - New Qatar",
+    "slug": "satilik-hastane-new-qatar-P07145",
+    "description": "New Qatar, Qatar bölgesinde hastane. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 35411742,
+    "location": {
+      "country": "QA",
+      "city": "New Qatar",
+      "district": "New Qatar Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 163",
+      "coordinates": {
+        "lat": 25.96588288584863,
+        "lng": 51.27824399481811
+      }
+    },
+    "specs": {
+      "netSize": 3831,
+      "grossSize": 4597,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 15,
+      "floor": 13,
+      "totalFloors": 5,
+      "heating": "Kombi",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500736127533?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500430137800?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500574453315?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500947249599?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500694251098?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500393448670?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500298530875?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500244110148?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500711835921?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500840907857?w=800&q=80&category=interior"
+    ],
+    "agent": {
+      "id": "A93",
+      "name": "Agent 91",
+      "phone": "+57 637 205 6543",
+      "email": "agent40@iwrealty.com",
+      "photo": "/images/icons/png/sg-harbour-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": true,
+      "hasPool": true,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-07-17T10:50:47.254Z",
+    "updatedAt": "2025-11-13T10:50:47.254Z",
+    "storeId": "store-011"
+  },
+  {
+    "id": "P07146",
+    "type": "rent",
+    "category": {
+      "main": "government"
+    },
+    "title": "Kiralık Hastane - Qatar City",
+    "slug": "kiralik-hastane-qatar-city-P07146",
+    "description": "Qatar City, Qatar bölgesinde hastane. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 13883116,
+    "location": {
+      "country": "QA",
+      "city": "Qatar City",
+      "district": "Qatar City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 983",
+      "coordinates": {
+        "lat": 25.871199451778473,
+        "lng": 50.81613678610592
+      }
+    },
+    "specs": {
+      "netSize": 2141,
+      "grossSize": 2569,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 13,
+      "floor": 9,
+      "totalFloors": 19,
+      "heating": "Merkezi",
+      "furnishing": "Unfurnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500859724333?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500738221223?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500869448067?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500596517841?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500961387314?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500422489063?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500075442476?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500002148775?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500149529160?w=800&q=80&category=architecture"
+    ],
+    "agent": {
+      "id": "A45",
+      "name": "Agent 89",
+      "phone": "+65 108 244 6527",
+      "email": "agent94@iwrealty.com",
+      "photo": "/images/icons/png/sydney-coastal-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2024-12-07T10:50:47.254Z",
+    "updatedAt": "2025-11-13T10:50:47.254Z",
+    "storeId": "store-012"
+  },
+  {
+    "id": "P07147",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Müstakil Ev - New Qatar",
+    "slug": "satilik-müstakil-ev-new-qatar-P07147",
+    "description": "New Qatar, Qatar bölgesinde müstakil ev. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 6627682,
+    "location": {
+      "country": "QA",
+      "city": "New Qatar",
+      "district": "New Qatar Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 534",
+      "coordinates": {
+        "lat": 25.086129857637353,
+        "lng": 51.603223224466994
+      }
+    },
+    "specs": {
+      "netSize": 459,
+      "grossSize": 551,
+      "rooms": "2+2",
+      "bathrooms": 4,
+      "age": 15,
+      "floor": 2,
+      "totalFloors": 20,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Unfurnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500105962383?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500693062124?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500301569147?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500284969440?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500140624933?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500809985865?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500364728378?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500380709049?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500675211225?w=800&q=80&category=interior"
+    ],
+    "agent": {
+      "id": "A2",
+      "name": "Agent 43",
+      "phone": "+99 824 703 4806",
+      "email": "agent66@iwrealty.com",
+      "photo": "/images/icons/png/sg-harbour-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-03-27T10:50:47.254Z",
+    "updatedAt": "2025-11-13T10:50:47.254Z",
+    "storeId": "store-011"
+  },
+  {
+    "id": "P07148",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Müstakil Ev - Doha",
+    "slug": "kiralik-müstakil-ev-doha-P07148",
+    "description": "Doha, Qatar bölgesinde müstakil ev. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 2958646,
+    "location": {
+      "country": "QA",
+      "city": "Doha",
+      "district": "Doha Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 535",
+      "coordinates": {
+        "lat": 25.676918966883758,
+        "lng": 51.01048978680085
+      }
+    },
+    "specs": {
+      "netSize": 228,
+      "grossSize": 274,
+      "rooms": "3+2",
+      "bathrooms": 2,
+      "age": 2,
+      "floor": 14,
+      "totalFloors": 10,
+      "heating": "Kombi",
+      "furnishing": "Unfurnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500409908948?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500287729374?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500521441498?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500810591873?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500041791811?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500310535091?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500765298564?w=800&q=80&category=architecture"
+    ],
+    "agent": {
+      "id": "A70",
+      "name": "Agent 17",
+      "phone": "+94 164 694 6076",
+      "email": "agent29@iwrealty.com",
+      "photo": "/images/icons/png/sydney-coastal-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-05-06T10:50:47.254Z",
+    "updatedAt": "2025-11-13T10:50:47.254Z",
+    "storeId": "store-012"
+  },
+  {
+    "id": "P07149",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Villa - New Qatar",
+    "slug": "satilik-villa-new-qatar-P07149",
+    "description": "New Qatar, Qatar bölgesinde villa. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 3949546,
+    "location": {
+      "country": "QA",
+      "city": "New Qatar",
+      "district": "New Qatar Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 571",
+      "coordinates": {
+        "lat": 25.431868744575958,
+        "lng": 51.47527278878722
+      }
+    },
+    "specs": {
+      "netSize": 411,
+      "grossSize": 493,
+      "rooms": "4+1",
+      "bathrooms": 4,
+      "age": 9,
+      "floor": 15,
+      "totalFloors": 18,
+      "heating": "Klima",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500535623391?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500293867005?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500564134019?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500381720187?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500167318596?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500294193522?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500399093266?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500442123863?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500668137476?w=800&q=80&category=architecture"
+    ],
+    "agent": {
+      "id": "A5",
+      "name": "Agent 72",
+      "phone": "+37 320 523 8857",
+      "email": "agent18@iwrealty.com",
+      "photo": "/images/icons/png/paris-heritage-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": false,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-01-20T10:50:47.254Z",
+    "updatedAt": "2025-11-13T10:50:47.254Z",
+    "storeId": "store-010"
+  },
+  {
+    "id": "P07150",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Residence - Qatar City",
+    "slug": "kiralik-residence-qatar-city-P07150",
+    "description": "Qatar City, Qatar bölgesinde residence. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 3537386,
+    "location": {
+      "country": "QA",
+      "city": "Qatar City",
+      "district": "Qatar City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 3",
+      "coordinates": {
+        "lat": 25.344888979852616,
+        "lng": 51.14576436784981
+      }
+    },
+    "specs": {
+      "netSize": 121,
+      "grossSize": 145,
+      "rooms": "2+1",
+      "bathrooms": 4,
+      "age": 12,
+      "floor": 1,
+      "totalFloors": 6,
+      "heating": "Klima",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500456118306?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500259860617?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500286320254?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500055413317?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500876775974?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500643756736?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500593885325?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500974255261?w=800&q=80&category=house"
+    ],
+    "agent": {
+      "id": "A98",
+      "name": "Agent 61",
+      "phone": "+25 165 424 1252",
+      "email": "agent67@iwrealty.com",
+      "photo": "/images/icons/png/london-prime-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": false,
+      "hasBalcony": false,
+      "hasGarden": true,
+      "hasPool": true,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-02-12T10:50:47.254Z",
+    "updatedAt": "2025-11-13T10:50:47.254Z",
+    "storeId": "store-007"
+  },
+  {
+    "id": "P07151",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Villa - Qatar Central",
+    "slug": "satilik-villa-qatar-central-P07151",
+    "description": "Qatar Central, Qatar bölgesinde villa. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 7394276,
+    "location": {
+      "country": "QA",
+      "city": "Qatar Central",
+      "district": "Qatar Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 698",
+      "coordinates": {
+        "lat": 25.47757029418881,
+        "lng": 51.18828498758701
+      }
+    },
+    "specs": {
+      "netSize": 498,
+      "grossSize": 598,
+      "rooms": "2+1",
+      "bathrooms": 2,
+      "age": 3,
+      "floor": 1,
+      "totalFloors": 18,
+      "heating": "Kombi",
+      "furnishing": "Unfurnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500309899920?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500515251684?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500867542220?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500049537835?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500785935616?w=800&q=80&category=building"
+    ],
+    "agent": {
+      "id": "A94",
+      "name": "Agent 25",
+      "phone": "+52 306 381 5532",
+      "email": "agent4@iwrealty.com",
+      "photo": "/images/icons/png/luxury-homes-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": false,
+      "hasBalcony": false,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-09-17T10:50:47.254Z",
+    "updatedAt": "2025-11-13T10:50:47.254Z",
+    "storeId": "store-002"
+  },
+  {
+    "id": "P07152",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Daire - New Qatar",
+    "slug": "kiralik-daire-new-qatar-P07152",
+    "description": "New Qatar, Qatar bölgesinde daire. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 2481468,
+    "location": {
+      "country": "QA",
+      "city": "New Qatar",
+      "district": "New Qatar Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 349",
+      "coordinates": {
+        "lat": 25.02273257865157,
+        "lng": 50.96697266661518
+      }
+    },
+    "specs": {
+      "netSize": 329,
+      "grossSize": 395,
+      "rooms": "1+2",
+      "bathrooms": 1,
+      "age": 3,
+      "floor": 12,
+      "totalFloors": 9,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Furnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500476740214?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500130578528?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500021059021?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500340535044?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500686162039?w=800&q=80&category=house"
+    ],
+    "agent": {
+      "id": "A70",
+      "name": "Agent 27",
+      "phone": "+54 218 340 4147",
+      "email": "agent3@iwrealty.com",
+      "photo": "/images/icons/png/izmir-sahil-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": false,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-09-29T10:50:47.254Z",
+    "updatedAt": "2025-11-13T10:50:47.254Z",
+    "storeId": "store-005"
+  },
+  {
+    "id": "P07153",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Daire - Qatar City",
+    "slug": "satilik-daire-qatar-city-P07153",
+    "description": "Qatar City, Qatar bölgesinde daire. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 6290299,
+    "location": {
+      "country": "QA",
+      "city": "Qatar City",
+      "district": "Qatar City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 878",
+      "coordinates": {
+        "lat": 25.163913202253557,
+        "lng": 50.81429468830322
+      }
+    },
+    "specs": {
+      "netSize": 432,
+      "grossSize": 518,
+      "rooms": "2+2",
+      "bathrooms": 4,
+      "age": 17,
+      "floor": 9,
+      "totalFloors": 10,
+      "heating": "Merkezi",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500937206879?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500724644317?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500329846078?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500742107452?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500005791367?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500106178526?w=800&q=80&category=architecture"
+    ],
+    "agent": {
+      "id": "A69",
+      "name": "Agent 53",
+      "phone": "+56 795 603 3843",
+      "email": "agent72@iwrealty.com",
+      "photo": "/images/icons/png/ankara-modern-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": true,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-02-25T10:50:47.254Z",
+    "updatedAt": "2025-11-13T10:50:47.254Z",
+    "storeId": "store-003"
+  },
+  {
+    "id": "P07154",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Müstakil Ev - Qatar Central",
+    "slug": "kiralik-müstakil-ev-qatar-central-P07154",
+    "description": "Qatar Central, Qatar bölgesinde müstakil ev. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 8655131,
+    "location": {
+      "country": "QA",
+      "city": "Qatar Central",
+      "district": "Qatar Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 419",
+      "coordinates": {
+        "lat": 25.59311598371031,
+        "lng": 51.24710709455065
+      }
+    },
+    "specs": {
+      "netSize": 244,
+      "grossSize": 293,
+      "rooms": "1+1",
+      "bathrooms": 4,
+      "age": 6,
+      "floor": 6,
+      "totalFloors": 16,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Unfurnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500352803999?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500228887380?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500587378538?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500673414444?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500484019950?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500649455515?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500239173783?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500679923519?w=800&q=80&category=architecture"
+    ],
+    "agent": {
+      "id": "A62",
+      "name": "Agent 55",
+      "phone": "+87 872 983 4442",
+      "email": "agent45@iwrealty.com",
+      "photo": "/images/icons/png/luxury-homes-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2024-12-16T10:50:47.254Z",
+    "updatedAt": "2025-11-13T10:50:47.254Z",
+    "storeId": "store-002"
+  },
+  {
+    "id": "P07155",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Müstakil Ev - Qatar Central",
+    "slug": "satilik-müstakil-ev-qatar-central-P07155",
+    "description": "Qatar Central, Qatar bölgesinde müstakil ev. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 9518671,
+    "location": {
+      "country": "QA",
+      "city": "Qatar Central",
+      "district": "Qatar Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 313",
+      "coordinates": {
+        "lat": 25.23320024299472,
+        "lng": 51.14151210688925
+      }
+    },
+    "specs": {
+      "netSize": 408,
+      "grossSize": 490,
+      "rooms": "5+1",
+      "bathrooms": 3,
+      "age": 7,
+      "floor": 2,
+      "totalFloors": 18,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Unfurnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500941285704?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500627334525?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500936989454?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500352777909?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500228820815?w=800&q=80&category=real-estate"
+    ],
+    "agent": {
+      "id": "A2",
+      "name": "Agent 31",
+      "phone": "+65 800 759 8492",
+      "email": "agent31@iwrealty.com",
+      "photo": "/images/icons/png/sydney-coastal-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-06-25T10:50:47.254Z",
+    "updatedAt": "2025-11-13T10:50:47.254Z",
+    "storeId": "store-012"
+  },
+  {
+    "id": "P07156",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Villa - Doha",
+    "slug": "kiralik-villa-doha-P07156",
+    "description": "Doha, Qatar bölgesinde villa. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 2071880,
+    "location": {
+      "country": "QA",
+      "city": "Doha",
+      "district": "Doha Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 735",
+      "coordinates": {
+        "lat": 25.14063818143314,
+        "lng": 50.88082178324908
+      }
+    },
+    "specs": {
+      "netSize": 364,
+      "grossSize": 437,
+      "rooms": "1+1",
+      "bathrooms": 2,
+      "age": 13,
+      "floor": 4,
+      "totalFloors": 20,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Unfurnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500686665847?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500438654130?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500040301477?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500759140343?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500113751376?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500681839251?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500496188662?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500763343614?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500236027688?w=800&q=80&category=building"
+    ],
+    "agent": {
+      "id": "A7",
+      "name": "Agent 66",
+      "phone": "+90 927 655 2721",
+      "email": "agent25@iwrealty.com",
+      "photo": "/images/icons/png/luxury-homes-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": true,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-09-02T10:50:47.254Z",
+    "updatedAt": "2025-11-13T10:50:47.254Z",
+    "storeId": "store-002"
+  },
+  {
+    "id": "P07157",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Müstakil Ev - Qatar City",
+    "slug": "satilik-müstakil-ev-qatar-city-P07157",
+    "description": "Qatar City, Qatar bölgesinde müstakil ev. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 11891843,
+    "location": {
+      "country": "QA",
+      "city": "Qatar City",
+      "district": "Qatar City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 412",
+      "coordinates": {
+        "lat": 25.232253199292778,
+        "lng": 51.07613772983141
+      }
+    },
+    "specs": {
+      "netSize": 490,
+      "grossSize": 588,
+      "rooms": "5+2",
+      "bathrooms": 4,
+      "age": 12,
+      "floor": 4,
+      "totalFloors": 5,
+      "heating": "Kombi",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500517908609?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500975171622?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500002792463?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500379376089?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500522351320?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500619724974?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500998244083?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500668932175?w=800&q=80&category=house"
+    ],
+    "agent": {
+      "id": "A90",
+      "name": "Agent 77",
+      "phone": "+80 634 334 9760",
+      "email": "agent91@iwrealty.com",
+      "photo": "/images/icons/png/izmir-sahil-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-07-18T10:50:47.254Z",
+    "updatedAt": "2025-11-13T10:50:47.254Z",
+    "storeId": "store-005"
+  },
+  {
+    "id": "P07158",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Müstakil Ev - Qatar City",
+    "slug": "kiralik-müstakil-ev-qatar-city-P07158",
+    "description": "Qatar City, Qatar bölgesinde müstakil ev. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 831368,
+    "location": {
+      "country": "QA",
+      "city": "Qatar City",
+      "district": "Qatar City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 800",
+      "coordinates": {
+        "lat": 25.385683079150848,
+        "lng": 51.05695800600399
+      }
+    },
+    "specs": {
+      "netSize": 209,
+      "grossSize": 251,
+      "rooms": "4+0",
+      "bathrooms": 2,
+      "age": 19,
+      "floor": 6,
+      "totalFloors": 10,
+      "heating": "Merkezi",
+      "furnishing": "Unfurnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500262893941?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500352933633?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500381659720?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500946153511?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500789450929?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500774287746?w=800&q=80&category=house"
+    ],
+    "agent": {
+      "id": "A29",
+      "name": "Agent 29",
+      "phone": "+36 978 991 4052",
+      "email": "agent28@iwrealty.com",
+      "photo": "/images/icons/png/london-prime-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-06-28T10:50:47.254Z",
+    "updatedAt": "2025-11-13T10:50:47.254Z",
+    "storeId": "store-007"
+  },
+  {
+    "id": "P07159",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Müstakil Ev - Doha",
+    "slug": "satilik-müstakil-ev-doha-P07159",
+    "description": "Doha, Qatar bölgesinde müstakil ev. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 9920990,
+    "location": {
+      "country": "QA",
+      "city": "Doha",
+      "district": "Doha Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 341",
+      "coordinates": {
+        "lat": 25.91642124028202,
+        "lng": 51.319249359776784
+      }
+    },
+    "specs": {
+      "netSize": 397,
+      "grossSize": 476,
+      "rooms": "1+0",
+      "bathrooms": 4,
+      "age": 12,
+      "floor": 14,
+      "totalFloors": 10,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Furnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500209151073?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500734314221?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500258183419?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500099754541?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500146634061?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500777547322?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500761833140?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500549384377?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500915598176?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500861816559?w=800&q=80&category=architecture"
+    ],
+    "agent": {
+      "id": "A75",
+      "name": "Agent 39",
+      "phone": "+81 839 226 4864",
+      "email": "agent51@iwrealty.com",
+      "photo": "/images/icons/png/sg-harbour-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": true,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-01-17T10:50:47.254Z",
+    "updatedAt": "2025-11-13T10:50:47.254Z",
+    "storeId": "store-011"
+  },
+  {
+    "id": "P07160",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Residence - Qatar City",
+    "slug": "kiralik-residence-qatar-city-P07160",
+    "description": "Qatar City, Qatar bölgesinde residence. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 8284126,
+    "location": {
+      "country": "QA",
+      "city": "Qatar City",
+      "district": "Qatar City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 896",
+      "coordinates": {
+        "lat": 25.25873884657313,
+        "lng": 50.80156401091416
+      }
+    },
+    "specs": {
+      "netSize": 95,
+      "grossSize": 114,
+      "rooms": "4+2",
+      "bathrooms": 1,
+      "age": 11,
+      "floor": 7,
+      "totalFloors": 16,
+      "heating": "Merkezi",
+      "furnishing": "Furnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500799371455?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500799299890?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500125871473?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500917925710?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500939977236?w=800&q=80&category=building"
+    ],
+    "agent": {
+      "id": "A60",
+      "name": "Agent 30",
+      "phone": "+46 814 485 6602",
+      "email": "agent26@iwrealty.com",
+      "photo": "/images/icons/png/dubai-property-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2024-12-19T10:50:47.254Z",
+    "updatedAt": "2025-11-13T10:50:47.254Z",
+    "storeId": "store-004"
+  },
+  {
+    "id": "P07161",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Müstakil Ev - Doha",
+    "slug": "satilik-müstakil-ev-doha-P07161",
+    "description": "Doha, Qatar bölgesinde müstakil ev. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 7980345,
+    "location": {
+      "country": "QA",
+      "city": "Doha",
+      "district": "Doha Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 156",
+      "coordinates": {
+        "lat": 25.18677905257329,
+        "lng": 50.779999346734115
+      }
+    },
+    "specs": {
+      "netSize": 466,
+      "grossSize": 559,
+      "rooms": "1+1",
+      "bathrooms": 1,
+      "age": 19,
+      "floor": 14,
+      "totalFloors": 20,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Furnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500901071556?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500298480268?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500895806437?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500166651372?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500241220820?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500285604630?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500737136255?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500100454708?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500094843443?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500780429445?w=800&q=80&category=architecture"
+    ],
+    "agent": {
+      "id": "A66",
+      "name": "Agent 1",
+      "phone": "+33 788 595 8091",
+      "email": "agent34@iwrealty.com",
+      "photo": "/images/icons/png/sydney-coastal-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-02-20T10:50:47.254Z",
+    "updatedAt": "2025-11-13T10:50:47.254Z",
+    "storeId": "store-012"
+  },
+  {
+    "id": "P07162",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Müstakil Ev - Doha",
+    "slug": "kiralik-müstakil-ev-doha-P07162",
+    "description": "Doha, Qatar bölgesinde müstakil ev. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 1853998,
+    "location": {
+      "country": "QA",
+      "city": "Doha",
+      "district": "Doha Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 183",
+      "coordinates": {
+        "lat": 25.69696076520612,
+        "lng": 51.30134180016598
+      }
+    },
+    "specs": {
+      "netSize": 85,
+      "grossSize": 102,
+      "rooms": "3+1",
+      "bathrooms": 4,
+      "age": 20,
+      "floor": 14,
+      "totalFloors": 13,
+      "heating": "Klima",
+      "furnishing": "Furnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500771515904?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500899034814?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500303869061?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500061043821?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500601782414?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500007463051?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500045835063?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500770127993?w=800&q=80&category=house"
+    ],
+    "agent": {
+      "id": "A67",
+      "name": "Agent 94",
+      "phone": "+26 564 711 6427",
+      "email": "agent75@iwrealty.com",
+      "photo": "/images/icons/png/berlin-urban-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": false,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": true,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-06-14T10:50:47.254Z",
+    "updatedAt": "2025-11-13T10:50:47.254Z",
+    "storeId": "store-009"
+  },
+  {
+    "id": "P07163",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Müstakil Ev - Qatar City",
+    "slug": "satilik-müstakil-ev-qatar-city-P07163",
+    "description": "Qatar City, Qatar bölgesinde müstakil ev. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 11565186,
+    "location": {
+      "country": "QA",
+      "city": "Qatar City",
+      "district": "Qatar City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 472",
+      "coordinates": {
+        "lat": 25.312751040828875,
+        "lng": 51.344627466724745
+      }
+    },
+    "specs": {
+      "netSize": 266,
+      "grossSize": 319,
+      "rooms": "1+0",
+      "bathrooms": 2,
+      "age": 16,
+      "floor": 10,
+      "totalFloors": 7,
+      "heating": "Kombi",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500763948707?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500954051915?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500837663762?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500530939552?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500551190651?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500233075999?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500917192848?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500916605459?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500742790709?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500097864841?w=800&q=80&category=house"
+    ],
+    "agent": {
+      "id": "A1",
+      "name": "Agent 79",
+      "phone": "+87 401 131 1044",
+      "email": "agent90@iwrealty.com",
+      "photo": "/images/icons/png/antalya-investment-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": false,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-09-09T10:50:47.254Z",
+    "updatedAt": "2025-11-13T10:50:47.254Z",
+    "storeId": "store-006"
+  },
+  {
+    "id": "P07164",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Daire - Qatar City",
+    "slug": "kiralik-daire-qatar-city-P07164",
+    "description": "Qatar City, Qatar bölgesinde daire. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 2302608,
+    "location": {
+      "country": "QA",
+      "city": "Qatar City",
+      "district": "Qatar City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 399",
+      "coordinates": {
+        "lat": 25.322695179406267,
+        "lng": 50.77067628853613
+      }
+    },
+    "specs": {
+      "netSize": 106,
+      "grossSize": 127,
+      "rooms": "3+2",
+      "bathrooms": 2,
+      "age": 9,
+      "floor": 8,
+      "totalFloors": 15,
+      "heating": "Merkezi",
+      "furnishing": "Unfurnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500266579202?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500147908490?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500240055107?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500739751176?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500724296383?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500410566740?w=800&q=80&category=house"
+    ],
+    "agent": {
+      "id": "A32",
+      "name": "Agent 85",
+      "phone": "+35 416 481 1506",
+      "email": "agent93@iwrealty.com",
+      "photo": "/images/icons/png/sydney-coastal-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": false,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-05-11T10:50:47.254Z",
+    "updatedAt": "2025-11-13T10:50:47.254Z",
+    "storeId": "store-012"
+  },
+  {
+    "id": "P07165",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Müstakil Ev - Qatar City",
+    "slug": "satilik-müstakil-ev-qatar-city-P07165",
+    "description": "Qatar City, Qatar bölgesinde müstakil ev. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 14669702,
+    "location": {
+      "country": "QA",
+      "city": "Qatar City",
+      "district": "Qatar City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 215",
+      "coordinates": {
+        "lat": 25.778827916789716,
+        "lng": 51.36890094899375
+      }
+    },
+    "specs": {
+      "netSize": 150,
+      "grossSize": 180,
+      "rooms": "2+0",
+      "bathrooms": 1,
+      "age": 4,
+      "floor": 3,
+      "totalFloors": 15,
+      "heating": "Kombi",
+      "furnishing": "Furnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500152438860?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500621869728?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500842084742?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500774319837?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500773473471?w=800&q=80&category=house"
+    ],
+    "agent": {
+      "id": "A36",
+      "name": "Agent 83",
+      "phone": "+74 189 295 5777",
+      "email": "agent77@iwrealty.com",
+      "photo": "/images/icons/png/london-prime-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-07-28T10:50:47.254Z",
+    "updatedAt": "2025-11-13T10:50:47.254Z",
+    "storeId": "store-007"
+  },
+  {
+    "id": "P07166",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Residence - Qatar Central",
+    "slug": "kiralik-residence-qatar-central-P07166",
+    "description": "Qatar Central, Qatar bölgesinde residence. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 3865098,
+    "location": {
+      "country": "QA",
+      "city": "Qatar Central",
+      "district": "Qatar Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 54",
+      "coordinates": {
+        "lat": 25.682964257690486,
+        "lng": 51.701318222766545
+      }
+    },
+    "specs": {
+      "netSize": 491,
+      "grossSize": 589,
+      "rooms": "2+0",
+      "bathrooms": 3,
+      "age": 4,
+      "floor": 9,
+      "totalFloors": 11,
+      "heating": "Klima",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500683204693?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500336278636?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500129492487?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500783817113?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500753878695?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500021595603?w=800&q=80&category=building"
+    ],
+    "agent": {
+      "id": "A16",
+      "name": "Agent 53",
+      "phone": "+73 380 784 3212",
+      "email": "agent66@iwrealty.com",
+      "photo": "/images/icons/png/berlin-urban-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-11-12T10:50:47.254Z",
+    "updatedAt": "2025-11-13T10:50:47.254Z",
+    "storeId": "store-009"
+  },
+  {
+    "id": "P07167",
+    "type": "sale",
+    "category": {
+      "main": "commercial",
+      "sub": "hospital"
+    },
+    "title": "Satılık Hastane - Doha",
+    "slug": "satilik-hastane-doha-P07167",
+    "description": "Doha, Qatar bölgesinde hastane. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 72937880,
+    "location": {
+      "country": "QA",
+      "city": "Doha",
+      "district": "Doha Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 870",
+      "coordinates": {
+        "lat": 25.6192136206175,
+        "lng": 51.01105754442049
+      }
+    },
+    "specs": {
+      "netSize": 15185,
+      "grossSize": 18222,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 4,
+      "floor": 14,
+      "totalFloors": 13,
+      "heating": "Kombi",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500109215284?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500213486700?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500116470721?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500335649183?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500150630789?w=800&q=80&category=architecture"
+    ],
+    "agent": {
+      "id": "A62",
+      "name": "Agent 17",
+      "phone": "+73 561 269 9410",
+      "email": "agent59@iwrealty.com",
+      "photo": "/images/icons/png/antalya-investment-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": false,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-10-11T10:50:47.254Z",
+    "updatedAt": "2025-11-13T10:50:47.254Z",
+    "storeId": "store-006"
+  },
+  {
+    "id": "P07168",
+    "type": "rent",
+    "category": {
+      "main": "commercial",
+      "sub": "hospital"
+    },
+    "title": "Kiralık Hastane - Qatar City",
+    "slug": "kiralik-hastane-qatar-city-P07168",
+    "description": "Qatar City, Qatar bölgesinde hastane. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 62705953,
+    "location": {
+      "country": "QA",
+      "city": "Qatar City",
+      "district": "Qatar City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 482",
+      "coordinates": {
+        "lat": 25.69137969763926,
+        "lng": 51.34608963798249
+      }
+    },
+    "specs": {
+      "netSize": 9183,
+      "grossSize": 11020,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 15,
+      "floor": 8,
+      "totalFloors": 11,
+      "heating": "Merkezi",
+      "furnishing": "Unfurnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500095500238?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500247705586?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500413148210?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500962971197?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500728835576?w=800&q=80&category=house"
+    ],
+    "agent": {
+      "id": "A16",
+      "name": "Agent 74",
+      "phone": "+75 293 620 6124",
+      "email": "agent16@iwrealty.com",
+      "photo": "/images/icons/png/sg-harbour-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-03-07T10:50:47.254Z",
+    "updatedAt": "2025-11-13T10:50:47.254Z",
+    "storeId": "store-011"
+  },
+  {
+    "id": "P07169",
+    "type": "sale",
+    "category": {
+      "main": "commercial",
+      "sub": "clinic"
+    },
+    "title": "Satılık Klinik - Qatar City",
+    "slug": "satilik-klinik-qatar-city-P07169",
+    "description": "Qatar City, Qatar bölgesinde klinik. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 14856833,
+    "location": {
+      "country": "QA",
+      "city": "Qatar City",
+      "district": "Qatar City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 444",
+      "coordinates": {
+        "lat": 25.833602415073276,
+        "lng": 51.3105798783177
+      }
+    },
+    "specs": {
+      "netSize": 1107,
+      "grossSize": 1328,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 4,
+      "floor": 13,
+      "totalFloors": 16,
+      "heating": "Kombi",
+      "furnishing": "Unfurnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500277699443?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500064334609?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500729609742?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500138301208?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500783262734?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500884852596?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500330810777?w=800&q=80&category=interior"
+    ],
+    "agent": {
+      "id": "A7",
+      "name": "Agent 4",
+      "phone": "+67 105 357 7469",
+      "email": "agent99@iwrealty.com",
+      "photo": "/images/icons/png/sydney-coastal-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": true,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-10-13T10:50:47.254Z",
+    "updatedAt": "2025-11-13T10:50:47.254Z",
+    "storeId": "store-012"
+  },
+  {
+    "id": "P07170",
+    "type": "rent",
+    "category": {
+      "main": "commercial",
+      "sub": "clinic"
+    },
+    "title": "Kiralık Klinik - Doha",
+    "slug": "kiralik-klinik-doha-P07170",
+    "description": "Doha, Qatar bölgesinde klinik. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 5984314,
+    "location": {
+      "country": "QA",
+      "city": "Doha",
+      "district": "Doha Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 235",
+      "coordinates": {
+        "lat": 25.238301544449985,
+        "lng": 51.46970614670687
+      }
+    },
+    "specs": {
+      "netSize": 596,
+      "grossSize": 715,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 0,
+      "floor": 8,
+      "totalFloors": 6,
+      "heating": "Klima",
+      "furnishing": "Unfurnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500046594128?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500823958189?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500524531321?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500692677371?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500725563927?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500397074586?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500077057477?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500639932509?w=800&q=80&category=real-estate"
+    ],
+    "agent": {
+      "id": "A4",
+      "name": "Agent 94",
+      "phone": "+42 545 149 7669",
+      "email": "agent98@iwrealty.com",
+      "photo": "/images/icons/png/antalya-investment-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": true,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-09-29T10:50:47.254Z",
+    "updatedAt": "2025-11-13T10:50:47.254Z",
+    "storeId": "store-006"
+  },
+  {
+    "id": "P07171",
+    "type": "sale",
+    "category": {
+      "main": "commercial",
+      "sub": "shop"
+    },
+    "title": "Satılık Dükkan - Doha",
+    "slug": "satilik-dükkan-doha-P07171",
+    "description": "Doha, Qatar bölgesinde dükkan. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 3291473,
+    "location": {
+      "country": "QA",
+      "city": "Doha",
+      "district": "Doha Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 485",
+      "coordinates": {
+        "lat": 25.7226876555509,
+        "lng": 51.08410209416255
+      }
+    },
+    "specs": {
+      "netSize": 309,
+      "grossSize": 371,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 8,
+      "floor": 4,
+      "totalFloors": 13,
+      "heating": "Merkezi",
+      "furnishing": "Furnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500303080712?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500268037675?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500931222892?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500031685098?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500326562058?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500409140611?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500840623829?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500425459990?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500076054925?w=800&q=80&category=building"
+    ],
+    "agent": {
+      "id": "A71",
+      "name": "Agent 20",
+      "phone": "+10 834 324 4296",
+      "email": "agent17@iwrealty.com",
+      "photo": "/images/icons/png/izmir-sahil-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-07-13T10:50:47.254Z",
+    "updatedAt": "2025-11-13T10:50:47.254Z",
+    "storeId": "store-005"
+  },
+  {
+    "id": "P07172",
+    "type": "rent",
+    "category": {
+      "main": "commercial",
+      "sub": "shop"
+    },
+    "title": "Kiralık Dükkan - Qatar Central",
+    "slug": "kiralik-dükkan-qatar-central-P07172",
+    "description": "Qatar Central, Qatar bölgesinde dükkan. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 7352930,
+    "location": {
+      "country": "QA",
+      "city": "Qatar Central",
+      "district": "Qatar Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 35",
+      "coordinates": {
+        "lat": 25.92193151666556,
+        "lng": 51.50135507445438
+      }
+    },
+    "specs": {
+      "netSize": 99,
+      "grossSize": 119,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 14,
+      "floor": 12,
+      "totalFloors": 14,
+      "heating": "Merkezi",
+      "furnishing": "Furnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500905113276?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500628851871?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500930926322?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500206437675?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500644875863?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500829703633?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500214037877?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500739843626?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500920510622?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500088591230?w=800&q=80&category=interior"
+    ],
+    "agent": {
+      "id": "A58",
+      "name": "Agent 23",
+      "phone": "+91 635 196 1072",
+      "email": "agent67@iwrealty.com",
+      "photo": "/images/icons/png/ny-skyline-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": true,
+      "hasPool": true,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-09-12T10:50:47.254Z",
+    "updatedAt": "2025-11-13T10:50:47.254Z",
+    "storeId": "store-008"
+  },
+  {
+    "id": "P07173",
+    "type": "sale",
+    "category": {
+      "main": "commercial",
+      "sub": "office"
+    },
+    "title": "Satılık Ofis - Qatar Central",
+    "slug": "satilik-ofis-qatar-central-P07173",
+    "description": "Qatar Central, Qatar bölgesinde ofis. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 14882914,
+    "location": {
+      "country": "QA",
+      "city": "Qatar Central",
+      "district": "Qatar Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 817",
+      "coordinates": {
+        "lat": 25.86056079628198,
+        "lng": 51.143208708291716
+      }
+    },
+    "specs": {
+      "netSize": 155,
+      "grossSize": 186,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 1,
+      "floor": 10,
+      "totalFloors": 17,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500589920210?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500335682001?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500684949825?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500024602955?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500494517817?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500458381524?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500719340666?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500990667277?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500173214031?w=800&q=80&category=real-estate"
+    ],
+    "agent": {
+      "id": "A55",
+      "name": "Agent 27",
+      "phone": "+42 338 979 2481",
+      "email": "agent17@iwrealty.com",
+      "photo": "/images/icons/png/ankara-modern-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-08-06T10:50:47.254Z",
+    "updatedAt": "2025-11-13T10:50:47.254Z",
+    "storeId": "store-003"
+  },
+  {
+    "id": "P07174",
+    "type": "rent",
+    "category": {
+      "main": "commercial",
+      "sub": "office"
+    },
+    "title": "Kiralık Ofis - New Qatar",
+    "slug": "kiralik-ofis-new-qatar-P07174",
+    "description": "New Qatar, Qatar bölgesinde ofis. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 13369113,
+    "location": {
+      "country": "QA",
+      "city": "New Qatar",
+      "district": "New Qatar Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 931",
+      "coordinates": {
+        "lat": 25.88274914288802,
+        "lng": 50.939099351339465
+      }
+    },
+    "specs": {
+      "netSize": 569,
+      "grossSize": 683,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 1,
+      "floor": 7,
+      "totalFloors": 11,
+      "heating": "Kombi",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500141361165?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500516424993?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500505520210?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500980688445?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500813259138?w=800&q=80&category=house"
+    ],
+    "agent": {
+      "id": "A68",
+      "name": "Agent 7",
+      "phone": "+91 247 379 8387",
+      "email": "agent63@iwrealty.com",
+      "photo": "/images/icons/png/sydney-coastal-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": false,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": true,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-10-28T10:50:47.254Z",
+    "updatedAt": "2025-11-13T10:50:47.254Z",
+    "storeId": "store-012"
+  },
+  {
+    "id": "P07175",
+    "type": "sale",
+    "category": {
+      "main": "commercial",
+      "sub": "mall"
+    },
+    "title": "Satılık AVM - Doha",
+    "slug": "satilik-avm-doha-P07175",
+    "description": "Doha, Qatar bölgesinde avm. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 192627768,
+    "location": {
+      "country": "QA",
+      "city": "Doha",
+      "district": "Doha Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 327",
+      "coordinates": {
+        "lat": 25.77934211046329,
+        "lng": 51.350455969103585
+      }
+    },
+    "specs": {
+      "netSize": 44515,
+      "grossSize": 53418,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 10,
+      "floor": 13,
+      "totalFloors": 15,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Unfurnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500892438093?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500348266452?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500405702077?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500973653983?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500683368989?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500091175587?w=800&q=80&category=architecture"
+    ],
+    "agent": {
+      "id": "A28",
+      "name": "Agent 86",
+      "phone": "+89 849 984 9938",
+      "email": "agent83@iwrealty.com",
+      "photo": "/images/icons/png/luxury-homes-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": true,
+      "hasSecurity": false
+    },
+    "createdAt": "2024-12-08T10:50:47.254Z",
+    "updatedAt": "2025-11-13T10:50:47.254Z",
+    "storeId": "store-002"
+  },
+  {
+    "id": "P07176",
+    "type": "rent",
+    "category": {
+      "main": "commercial",
+      "sub": "mall"
+    },
+    "title": "Kiralık AVM - New Qatar",
+    "slug": "kiralik-avm-new-qatar-P07176",
+    "description": "New Qatar, Qatar bölgesinde avm. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 474382530,
+    "location": {
+      "country": "QA",
+      "city": "New Qatar",
+      "district": "New Qatar Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 403",
+      "coordinates": {
+        "lat": 25.300853677237384,
+        "lng": 51.62138304030181
+      }
+    },
+    "specs": {
+      "netSize": 12761,
+      "grossSize": 15313,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 1,
+      "floor": 6,
+      "totalFloors": 12,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Unfurnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500769794503?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500850916091?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500590437096?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500504013314?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500068565799?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500173110822?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500300427665?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500139597851?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500244629233?w=800&q=80&category=architecture"
+    ],
+    "agent": {
+      "id": "A42",
+      "name": "Agent 48",
+      "phone": "+55 378 131 9954",
+      "email": "agent77@iwrealty.com",
+      "photo": "/images/icons/png/london-prime-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": false,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": true,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-03-07T10:50:47.254Z",
+    "updatedAt": "2025-11-13T10:50:47.254Z",
+    "storeId": "store-007"
+  },
+  {
+    "id": "P07177",
+    "type": "sale",
+    "category": {
+      "main": "commercial",
+      "sub": "hotel"
+    },
+    "title": "Satılık Otel - Qatar Central",
+    "slug": "satilik-otel-qatar-central-P07177",
+    "description": "Qatar Central, Qatar bölgesinde otel. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 24495221,
+    "location": {
+      "country": "QA",
+      "city": "Qatar Central",
+      "district": "Qatar Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 911",
+      "coordinates": {
+        "lat": 25.704164423513877,
+        "lng": 51.62258059251025
+      }
+    },
+    "specs": {
+      "netSize": 26928,
+      "grossSize": 32314,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 1,
+      "floor": 6,
+      "totalFloors": 9,
+      "heating": "Kombi",
+      "furnishing": "Furnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500770650468?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500149632593?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500667982948?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500051204569?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500898424280?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500858784773?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500607814984?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500441042150?w=800&q=80&category=building"
+    ],
+    "agent": {
+      "id": "A71",
+      "name": "Agent 39",
+      "phone": "+57 679 805 3443",
+      "email": "agent44@iwrealty.com",
+      "photo": "/images/icons/png/berlin-urban-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-06-27T10:50:47.254Z",
+    "updatedAt": "2025-11-13T10:50:47.254Z",
+    "storeId": "store-009"
+  },
+  {
+    "id": "P07178",
+    "type": "rent",
+    "category": {
+      "main": "commercial",
+      "sub": "hotel"
+    },
+    "title": "Kiralık Otel - New Qatar",
+    "slug": "kiralik-otel-new-qatar-P07178",
+    "description": "New Qatar, Qatar bölgesinde otel. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 170796927,
+    "location": {
+      "country": "QA",
+      "city": "New Qatar",
+      "district": "New Qatar Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 847",
+      "coordinates": {
+        "lat": 25.2663925921683,
+        "lng": 51.174272863796716
+      }
+    },
+    "specs": {
+      "netSize": 18809,
+      "grossSize": 22571,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 15,
+      "floor": 2,
+      "totalFloors": 5,
+      "heating": "Merkezi",
+      "furnishing": "Unfurnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500387491049?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500822013443?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500981590676?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500808928502?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500284832674?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500522646552?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500460227952?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500315749467?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500112979198?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500687518554?w=800&q=80&category=house"
+    ],
+    "agent": {
+      "id": "A80",
+      "name": "Agent 76",
+      "phone": "+87 872 609 5656",
+      "email": "agent19@iwrealty.com",
+      "photo": "/images/icons/png/sydney-coastal-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": false,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-02-05T10:50:47.254Z",
+    "updatedAt": "2025-11-13T10:50:47.254Z",
+    "storeId": "store-012"
+  },
+  {
+    "id": "P07179",
+    "type": "sale",
+    "category": {
+      "main": "commercial",
+      "sub": "restaurant"
+    },
+    "title": "Satılık Restoran - Doha",
+    "slug": "satilik-restoran-doha-P07179",
+    "description": "Doha, Qatar bölgesinde restoran. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 7609011,
+    "location": {
+      "country": "QA",
+      "city": "Doha",
+      "district": "Doha Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 941",
+      "coordinates": {
+        "lat": 25.44329544684421,
+        "lng": 51.055315411883754
+      }
+    },
+    "specs": {
+      "netSize": 750,
+      "grossSize": 900,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 5,
+      "floor": 2,
+      "totalFloors": 10,
+      "heating": "Klima",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500059606791?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500537913721?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500254206041?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500225219632?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500052334448?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500906200229?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500709510240?w=800&q=80&category=real-estate"
+    ],
+    "agent": {
+      "id": "A76",
+      "name": "Agent 100",
+      "phone": "+47 729 385 6363",
+      "email": "agent75@iwrealty.com",
+      "photo": "/images/icons/png/london-prime-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-04-18T10:50:47.254Z",
+    "updatedAt": "2025-11-13T10:50:47.254Z",
+    "storeId": "store-007"
+  },
+  {
+    "id": "P07180",
+    "type": "rent",
+    "category": {
+      "main": "commercial",
+      "sub": "restaurant"
+    },
+    "title": "Kiralık Restoran - New Qatar",
+    "slug": "kiralik-restoran-new-qatar-P07180",
+    "description": "New Qatar, Qatar bölgesinde restoran. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 2762639,
+    "location": {
+      "country": "QA",
+      "city": "New Qatar",
+      "district": "New Qatar Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 563",
+      "coordinates": {
+        "lat": 25.88329305340558,
+        "lng": 51.73019920492062
+      }
+    },
+    "specs": {
+      "netSize": 1483,
+      "grossSize": 1780,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 9,
+      "floor": 8,
+      "totalFloors": 10,
+      "heating": "Kombi",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500476567751?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500108178820?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500943494711?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500005274269?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500989188985?w=800&q=80&category=interior"
+    ],
+    "agent": {
+      "id": "A16",
+      "name": "Agent 39",
+      "phone": "+70 165 667 1585",
+      "email": "agent58@iwrealty.com",
+      "photo": "/images/icons/png/london-prime-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-04-29T10:50:47.254Z",
+    "updatedAt": "2025-11-13T10:50:47.254Z",
+    "storeId": "store-007"
+  },
+  {
+    "id": "P07181",
+    "type": "sale",
+    "category": {
+      "main": "commercial",
+      "sub": "warehouse"
+    },
+    "title": "Satılık Depo - Qatar City",
+    "slug": "satilik-depo-qatar-city-P07181",
+    "description": "Qatar City, Qatar bölgesinde depo. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 25106699,
+    "location": {
+      "country": "QA",
+      "city": "Qatar City",
+      "district": "Qatar City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 602",
+      "coordinates": {
+        "lat": 25.233356526851168,
+        "lng": 51.579668093674215
+      }
+    },
+    "specs": {
+      "netSize": 5536,
+      "grossSize": 6643,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 10,
+      "floor": 1,
+      "totalFloors": 15,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500020056886?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500316954427?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500788131320?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500837819530?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500974726383?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500888212576?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500590953133?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500107659053?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500048956128?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500711438081?w=800&q=80&category=house"
+    ],
+    "agent": {
+      "id": "A40",
+      "name": "Agent 39",
+      "phone": "+83 926 743 6852",
+      "email": "agent75@iwrealty.com",
+      "photo": "/images/icons/png/sydney-coastal-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-04-29T10:50:47.254Z",
+    "updatedAt": "2025-11-13T10:50:47.254Z",
+    "storeId": "store-012"
+  },
+  {
+    "id": "P07182",
+    "type": "rent",
+    "category": {
+      "main": "commercial",
+      "sub": "warehouse"
+    },
+    "title": "Kiralık Depo - New Qatar",
+    "slug": "kiralik-depo-new-qatar-P07182",
+    "description": "New Qatar, Qatar bölgesinde depo. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 6405986,
+    "location": {
+      "country": "QA",
+      "city": "New Qatar",
+      "district": "New Qatar Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 45",
+      "coordinates": {
+        "lat": 25.155575131566945,
+        "lng": 51.09337279049058
+      }
+    },
+    "specs": {
+      "netSize": 8091,
+      "grossSize": 9709,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 3,
+      "floor": 1,
+      "totalFloors": 9,
+      "heating": "Merkezi",
+      "furnishing": "Unfurnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500036206546?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500606405523?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500007921753?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500947311670?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500977159733?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500301200576?w=800&q=80&category=interior"
+    ],
+    "agent": {
+      "id": "A56",
+      "name": "Agent 76",
+      "phone": "+99 279 255 4984",
+      "email": "agent12@iwrealty.com",
+      "photo": "/images/icons/png/ny-skyline-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-07-20T10:50:47.254Z",
+    "updatedAt": "2025-11-13T10:50:47.254Z",
+    "storeId": "store-008"
+  }
+]

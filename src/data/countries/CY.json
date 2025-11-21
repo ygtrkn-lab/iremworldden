@@ -1,0 +1,2367 @@
+[
+  {
+    "id": "P02205",
+    "type": "sale",
+    "category": {
+      "main": "government"
+    },
+    "title": "Satılık Hastane - Cyprus City",
+    "slug": "satilik-hastane-cyprus-city-P02205",
+    "description": "Cyprus City, Cyprus bölgesinde hastane. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 28006564,
+    "location": {
+      "country": "CY",
+      "city": "Cyprus City",
+      "district": "Cyprus City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 984",
+      "coordinates": {
+        "lat": 34.502982413123064,
+        "lng": 32.80084473106404
+      }
+    },
+    "specs": {
+      "netSize": 4039,
+      "grossSize": 4847,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 4,
+      "floor": 7,
+      "totalFloors": 11,
+      "heating": "Kombi",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500391164392?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500694951610?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500290088813?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500588739124?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500358794624?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500351020782?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500701359234?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500283269483?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500044435310?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500452440825?w=800&q=80&category=real-estate"
+    ],
+    "agent": {
+      "id": "A33",
+      "name": "Agent 10",
+      "phone": "+59 571 926 1010",
+      "email": "agent8@iwrealty.com",
+      "photo": "/images/icons/png/izmir-sahil-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": false,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-05-09T10:50:47.201Z",
+    "updatedAt": "2025-11-13T10:50:47.201Z",
+    "storeId": "store-005"
+  },
+  {
+    "id": "P02206",
+    "type": "rent",
+    "category": {
+      "main": "government"
+    },
+    "title": "Kiralık Devlet Binası - Cyprus Central",
+    "slug": "kiralik-devlet-binası-cyprus-central-P02206",
+    "description": "Cyprus Central, Cyprus bölgesinde devlet binası. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 5982315,
+    "location": {
+      "country": "CY",
+      "city": "Cyprus Central",
+      "district": "Cyprus Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 249",
+      "coordinates": {
+        "lat": 35.451847191842305,
+        "lng": 32.870826563144604
+      }
+    },
+    "specs": {
+      "netSize": 532,
+      "grossSize": 638,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 17,
+      "floor": 2,
+      "totalFloors": 15,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500526462445?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500864771828?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500315793607?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500877912763?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500790594719?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500317539315?w=800&q=80&category=interior"
+    ],
+    "agent": {
+      "id": "A20",
+      "name": "Agent 14",
+      "phone": "+89 498 575 2022",
+      "email": "agent77@iwrealty.com",
+      "photo": "/images/icons/png/ny-skyline-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": true,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-01-17T10:50:47.201Z",
+    "updatedAt": "2025-11-13T10:50:47.201Z",
+    "storeId": "store-008"
+  },
+  {
+    "id": "P02207",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Residence - Cyprus City",
+    "slug": "satilik-residence-cyprus-city-P02207",
+    "description": "Cyprus City, Cyprus bölgesinde residence. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 12509576,
+    "location": {
+      "country": "CY",
+      "city": "Cyprus City",
+      "district": "Cyprus City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 359",
+      "coordinates": {
+        "lat": 34.976431837122966,
+        "lng": 33.275153276474946
+      }
+    },
+    "specs": {
+      "netSize": 195,
+      "grossSize": 234,
+      "rooms": "3+2",
+      "bathrooms": 3,
+      "age": 15,
+      "floor": 4,
+      "totalFloors": 17,
+      "heating": "Klima",
+      "furnishing": "Furnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500089602812?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500774946679?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500046564783?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500451562891?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500918333098?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500463910358?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500819223047?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500729825639?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500496754024?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500237945374?w=800&q=80&category=building"
+    ],
+    "agent": {
+      "id": "A73",
+      "name": "Agent 68",
+      "phone": "+74 692 684 4571",
+      "email": "agent27@iwrealty.com",
+      "photo": "/images/icons/png/dubai-property-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": false,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": true,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-05-24T10:50:47.201Z",
+    "updatedAt": "2025-11-13T10:50:47.201Z",
+    "storeId": "store-004"
+  },
+  {
+    "id": "P02208",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Villa - Nicosia",
+    "slug": "kiralik-villa-nicosia-P02208",
+    "description": "Nicosia, Cyprus bölgesinde villa. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 11130473,
+    "location": {
+      "country": "CY",
+      "city": "Nicosia",
+      "district": "Nicosia Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 130",
+      "coordinates": {
+        "lat": 35.281323656697516,
+        "lng": 32.99414064252645
+      }
+    },
+    "specs": {
+      "netSize": 322,
+      "grossSize": 386,
+      "rooms": "3+1",
+      "bathrooms": 3,
+      "age": 8,
+      "floor": 1,
+      "totalFloors": 20,
+      "heating": "Kombi",
+      "furnishing": "Furnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500686813493?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500599588886?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500482633093?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500426935939?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500944523695?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500466991767?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500074973712?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500547299681?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500691828642?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500427823486?w=800&q=80&category=real-estate"
+    ],
+    "agent": {
+      "id": "A30",
+      "name": "Agent 30",
+      "phone": "+28 653 245 3865",
+      "email": "agent86@iwrealty.com",
+      "photo": "/images/icons/png/ny-skyline-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": false,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-09-12T10:50:47.201Z",
+    "updatedAt": "2025-11-13T10:50:47.201Z",
+    "storeId": "store-008"
+  },
+  {
+    "id": "P02209",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Villa - Cyprus City",
+    "slug": "satilik-villa-cyprus-city-P02209",
+    "description": "Cyprus City, Cyprus bölgesinde villa. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 3158234,
+    "location": {
+      "country": "CY",
+      "city": "Cyprus City",
+      "district": "Cyprus City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 305",
+      "coordinates": {
+        "lat": 35.413688718017035,
+        "lng": 33.25690288208672
+      }
+    },
+    "specs": {
+      "netSize": 386,
+      "grossSize": 463,
+      "rooms": "4+2",
+      "bathrooms": 2,
+      "age": 17,
+      "floor": 5,
+      "totalFloors": 5,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Unfurnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500141270411?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500066798143?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500448800540?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500706433387?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500286026148?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500439857654?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500624866705?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500031395185?w=800&q=80&category=interior"
+    ],
+    "agent": {
+      "id": "A47",
+      "name": "Agent 6",
+      "phone": "+21 472 821 6171",
+      "email": "agent97@iwrealty.com",
+      "photo": "/images/icons/png/luxury-homes-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-06-07T10:50:47.201Z",
+    "updatedAt": "2025-11-13T10:50:47.201Z",
+    "storeId": "store-002"
+  },
+  {
+    "id": "P02210",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Residence - Cyprus Central",
+    "slug": "kiralik-residence-cyprus-central-P02210",
+    "description": "Cyprus Central, Cyprus bölgesinde residence. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 10356517,
+    "location": {
+      "country": "CY",
+      "city": "Cyprus Central",
+      "district": "Cyprus Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 588",
+      "coordinates": {
+        "lat": 35.18163572562398,
+        "lng": 33.36892182699853
+      }
+    },
+    "specs": {
+      "netSize": 459,
+      "grossSize": 551,
+      "rooms": "3+1",
+      "bathrooms": 3,
+      "age": 0,
+      "floor": 14,
+      "totalFloors": 11,
+      "heating": "Klima",
+      "furnishing": "Furnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500745622911?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500901582568?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500674406725?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500019433542?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500423244328?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500801050017?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500603399021?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500890424237?w=800&q=80&category=architecture"
+    ],
+    "agent": {
+      "id": "A75",
+      "name": "Agent 9",
+      "phone": "+25 107 216 3896",
+      "email": "agent57@iwrealty.com",
+      "photo": "/images/icons/png/berlin-urban-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": false,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-05-26T10:50:47.201Z",
+    "updatedAt": "2025-11-13T10:50:47.201Z",
+    "storeId": "store-009"
+  },
+  {
+    "id": "P02211",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Residence - Cyprus City",
+    "slug": "satilik-residence-cyprus-city-P02211",
+    "description": "Cyprus City, Cyprus bölgesinde residence. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 2724098,
+    "location": {
+      "country": "CY",
+      "city": "Cyprus City",
+      "district": "Cyprus City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 791",
+      "coordinates": {
+        "lat": 35.380106419297576,
+        "lng": 33.29177323822925
+      }
+    },
+    "specs": {
+      "netSize": 280,
+      "grossSize": 336,
+      "rooms": "2+2",
+      "bathrooms": 1,
+      "age": 1,
+      "floor": 13,
+      "totalFloors": 9,
+      "heating": "Merkezi",
+      "furnishing": "Furnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500019921950?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500296626886?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500756485101?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500788997247?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500351197348?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500311519107?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500315957377?w=800&q=80&category=interior"
+    ],
+    "agent": {
+      "id": "A80",
+      "name": "Agent 6",
+      "phone": "+44 785 213 9430",
+      "email": "agent47@iwrealty.com",
+      "photo": "/images/icons/png/london-prime-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": false,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": true,
+      "hasSecurity": true
+    },
+    "createdAt": "2024-12-09T10:50:47.201Z",
+    "updatedAt": "2025-11-13T10:50:47.201Z",
+    "storeId": "store-007"
+  },
+  {
+    "id": "P02212",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Villa - New Cyprus",
+    "slug": "kiralik-villa-new-cyprus-P02212",
+    "description": "New Cyprus, Cyprus bölgesinde villa. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 8036934,
+    "location": {
+      "country": "CY",
+      "city": "New Cyprus",
+      "district": "New Cyprus Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 469",
+      "coordinates": {
+        "lat": 34.678192742578325,
+        "lng": 32.611750189873796
+      }
+    },
+    "specs": {
+      "netSize": 383,
+      "grossSize": 460,
+      "rooms": "3+2",
+      "bathrooms": 3,
+      "age": 17,
+      "floor": 15,
+      "totalFloors": 6,
+      "heating": "Merkezi",
+      "furnishing": "Unfurnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500806157354?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500289428891?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500523129699?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500796262445?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500786319505?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500258526479?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500735400006?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500067593202?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500286185497?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500799487282?w=800&q=80&category=interior"
+    ],
+    "agent": {
+      "id": "A95",
+      "name": "Agent 15",
+      "phone": "+23 507 949 2957",
+      "email": "agent80@iwrealty.com",
+      "photo": "/images/icons/png/dubai-property-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2024-12-25T10:50:47.201Z",
+    "updatedAt": "2025-11-13T10:50:47.201Z",
+    "storeId": "store-004"
+  },
+  {
+    "id": "P02213",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Müstakil Ev - Cyprus Central",
+    "slug": "satilik-müstakil-ev-cyprus-central-P02213",
+    "description": "Cyprus Central, Cyprus bölgesinde müstakil ev. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 5360304,
+    "location": {
+      "country": "CY",
+      "city": "Cyprus Central",
+      "district": "Cyprus Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 102",
+      "coordinates": {
+        "lat": 35.45912314906951,
+        "lng": 33.30522626866813
+      }
+    },
+    "specs": {
+      "netSize": 394,
+      "grossSize": 473,
+      "rooms": "1+1",
+      "bathrooms": 2,
+      "age": 12,
+      "floor": 5,
+      "totalFloors": 10,
+      "heating": "Klima",
+      "furnishing": "Unfurnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500393929592?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500535015325?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500011790554?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500517406034?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500739717576?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500157503381?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500033680600?w=800&q=80&category=architecture"
+    ],
+    "agent": {
+      "id": "A46",
+      "name": "Agent 77",
+      "phone": "+61 717 375 9984",
+      "email": "agent70@iwrealty.com",
+      "photo": "/images/icons/png/paris-heritage-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": false,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": true,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-09-23T10:50:47.201Z",
+    "updatedAt": "2025-11-13T10:50:47.201Z",
+    "storeId": "store-010"
+  },
+  {
+    "id": "P02214",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Residence - Cyprus City",
+    "slug": "kiralik-residence-cyprus-city-P02214",
+    "description": "Cyprus City, Cyprus bölgesinde residence. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 2700496,
+    "location": {
+      "country": "CY",
+      "city": "Cyprus City",
+      "district": "Cyprus City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 781",
+      "coordinates": {
+        "lat": 35.071407732597905,
+        "lng": 32.50120369929819
+      }
+    },
+    "specs": {
+      "netSize": 419,
+      "grossSize": 503,
+      "rooms": "2+1",
+      "bathrooms": 2,
+      "age": 17,
+      "floor": 10,
+      "totalFloors": 19,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Furnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500419098729?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500084398543?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500798049972?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500219831520?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500970582523?w=800&q=80&category=architecture"
+    ],
+    "agent": {
+      "id": "A79",
+      "name": "Agent 31",
+      "phone": "+87 444 621 6128",
+      "email": "agent37@iwrealty.com",
+      "photo": "/images/icons/png/berlin-urban-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-09-28T10:50:47.201Z",
+    "updatedAt": "2025-11-13T10:50:47.201Z",
+    "storeId": "store-009"
+  },
+  {
+    "id": "P02215",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Villa - Nicosia",
+    "slug": "satilik-villa-nicosia-P02215",
+    "description": "Nicosia, Cyprus bölgesinde villa. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 14155113,
+    "location": {
+      "country": "CY",
+      "city": "Nicosia",
+      "district": "Nicosia Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 988",
+      "coordinates": {
+        "lat": 34.73772692075666,
+        "lng": 33.34144018101145
+      }
+    },
+    "specs": {
+      "netSize": 183,
+      "grossSize": 220,
+      "rooms": "5+0",
+      "bathrooms": 3,
+      "age": 7,
+      "floor": 9,
+      "totalFloors": 5,
+      "heating": "Klima",
+      "furnishing": "Unfurnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500253034430?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500116605775?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500874697502?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500462116032?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500926662566?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500297532834?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500942940724?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500588224613?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500569603102?w=800&q=80&category=interior"
+    ],
+    "agent": {
+      "id": "A53",
+      "name": "Agent 92",
+      "phone": "+38 712 327 7035",
+      "email": "agent50@iwrealty.com",
+      "photo": "/images/icons/png/paris-heritage-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-04-25T10:50:47.201Z",
+    "updatedAt": "2025-11-13T10:50:47.201Z",
+    "storeId": "store-010"
+  },
+  {
+    "id": "P02216",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Müstakil Ev - Cyprus Central",
+    "slug": "kiralik-müstakil-ev-cyprus-central-P02216",
+    "description": "Cyprus Central, Cyprus bölgesinde müstakil ev. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 762668,
+    "location": {
+      "country": "CY",
+      "city": "Cyprus Central",
+      "district": "Cyprus Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 464",
+      "coordinates": {
+        "lat": 35.05372518452248,
+        "lng": 33.15904762557196
+      }
+    },
+    "specs": {
+      "netSize": 97,
+      "grossSize": 116,
+      "rooms": "4+1",
+      "bathrooms": 4,
+      "age": 1,
+      "floor": 6,
+      "totalFloors": 20,
+      "heating": "Merkezi",
+      "furnishing": "Unfurnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500148633784?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500052410907?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500206608331?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500396714500?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500699571668?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500761048348?w=800&q=80&category=interior"
+    ],
+    "agent": {
+      "id": "A1",
+      "name": "Agent 8",
+      "phone": "+71 773 919 1123",
+      "email": "agent93@iwrealty.com",
+      "photo": "/images/icons/png/berlin-urban-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-04-06T10:50:47.201Z",
+    "updatedAt": "2025-11-13T10:50:47.201Z",
+    "storeId": "store-009"
+  },
+  {
+    "id": "P02217",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Residence - Cyprus City",
+    "slug": "satilik-residence-cyprus-city-P02217",
+    "description": "Cyprus City, Cyprus bölgesinde residence. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 827280,
+    "location": {
+      "country": "CY",
+      "city": "Cyprus City",
+      "district": "Cyprus City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 856",
+      "coordinates": {
+        "lat": 34.71770626703434,
+        "lng": 33.492591673203904
+      }
+    },
+    "specs": {
+      "netSize": 387,
+      "grossSize": 464,
+      "rooms": "4+0",
+      "bathrooms": 3,
+      "age": 8,
+      "floor": 2,
+      "totalFloors": 13,
+      "heating": "Merkezi",
+      "furnishing": "Furnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500924017571?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500446179742?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500939651193?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500025176185?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500534457180?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500968526247?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500362760191?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500619459959?w=800&q=80&category=interior"
+    ],
+    "agent": {
+      "id": "A28",
+      "name": "Agent 93",
+      "phone": "+43 376 420 5197",
+      "email": "agent57@iwrealty.com",
+      "photo": "/images/icons/png/sydney-coastal-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2024-11-30T10:50:47.201Z",
+    "updatedAt": "2025-11-13T10:50:47.201Z",
+    "storeId": "store-012"
+  },
+  {
+    "id": "P02218",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Müstakil Ev - Cyprus City",
+    "slug": "kiralik-müstakil-ev-cyprus-city-P02218",
+    "description": "Cyprus City, Cyprus bölgesinde müstakil ev. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 6139359,
+    "location": {
+      "country": "CY",
+      "city": "Cyprus City",
+      "district": "Cyprus City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 993",
+      "coordinates": {
+        "lat": 34.9930365831913,
+        "lng": 32.79728824636482
+      }
+    },
+    "specs": {
+      "netSize": 392,
+      "grossSize": 470,
+      "rooms": "3+0",
+      "bathrooms": 2,
+      "age": 16,
+      "floor": 13,
+      "totalFloors": 7,
+      "heating": "Kombi",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500820521668?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500046438148?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500159993447?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500701327225?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500515618494?w=800&q=80&category=architecture"
+    ],
+    "agent": {
+      "id": "A69",
+      "name": "Agent 72",
+      "phone": "+73 404 559 8474",
+      "email": "agent42@iwrealty.com",
+      "photo": "/images/icons/png/sydney-coastal-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": true,
+      "hasSecurity": true
+    },
+    "createdAt": "2024-12-07T10:50:47.201Z",
+    "updatedAt": "2025-11-13T10:50:47.201Z",
+    "storeId": "store-012"
+  },
+  {
+    "id": "P02219",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Residence - Nicosia",
+    "slug": "satilik-residence-nicosia-P02219",
+    "description": "Nicosia, Cyprus bölgesinde residence. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 11377730,
+    "location": {
+      "country": "CY",
+      "city": "Nicosia",
+      "district": "Nicosia Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 375",
+      "coordinates": {
+        "lat": 35.30646074905501,
+        "lng": 33.225730113038175
+      }
+    },
+    "specs": {
+      "netSize": 121,
+      "grossSize": 145,
+      "rooms": "2+1",
+      "bathrooms": 1,
+      "age": 9,
+      "floor": 3,
+      "totalFloors": 9,
+      "heating": "Merkezi",
+      "furnishing": "Unfurnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500834526296?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500339767671?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500724854534?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500540393990?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500735361828?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500319690336?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500319030995?w=800&q=80&category=building"
+    ],
+    "agent": {
+      "id": "A17",
+      "name": "Agent 89",
+      "phone": "+84 427 290 3994",
+      "email": "agent48@iwrealty.com",
+      "photo": "/images/icons/png/paris-heritage-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": true,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-09-20T10:50:47.201Z",
+    "updatedAt": "2025-11-13T10:50:47.201Z",
+    "storeId": "store-010"
+  },
+  {
+    "id": "P02220",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Residence - Nicosia",
+    "slug": "kiralik-residence-nicosia-P02220",
+    "description": "Nicosia, Cyprus bölgesinde residence. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 9790368,
+    "location": {
+      "country": "CY",
+      "city": "Nicosia",
+      "district": "Nicosia Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 977",
+      "coordinates": {
+        "lat": 34.79135043788019,
+        "lng": 32.76706693991375
+      }
+    },
+    "specs": {
+      "netSize": 423,
+      "grossSize": 508,
+      "rooms": "3+0",
+      "bathrooms": 3,
+      "age": 11,
+      "floor": 12,
+      "totalFloors": 12,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Unfurnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500930564109?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500880021363?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500864388708?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500233091484?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500566856493?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500224471831?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500000939166?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500896796120?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500514626535?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500378240154?w=800&q=80&category=building"
+    ],
+    "agent": {
+      "id": "A53",
+      "name": "Agent 91",
+      "phone": "+83 907 148 1270",
+      "email": "agent48@iwrealty.com",
+      "photo": "/images/icons/png/ny-skyline-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-05-29T10:50:47.201Z",
+    "updatedAt": "2025-11-13T10:50:47.201Z",
+    "storeId": "store-008"
+  },
+  {
+    "id": "P02221",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Müstakil Ev - New Cyprus",
+    "slug": "satilik-müstakil-ev-new-cyprus-P02221",
+    "description": "New Cyprus, Cyprus bölgesinde müstakil ev. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 1251900,
+    "location": {
+      "country": "CY",
+      "city": "New Cyprus",
+      "district": "New Cyprus Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 517",
+      "coordinates": {
+        "lat": 35.30474652034396,
+        "lng": 32.94414954157571
+      }
+    },
+    "specs": {
+      "netSize": 439,
+      "grossSize": 527,
+      "rooms": "4+2",
+      "bathrooms": 1,
+      "age": 14,
+      "floor": 6,
+      "totalFloors": 7,
+      "heating": "Kombi",
+      "furnishing": "Unfurnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500031878910?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500653033193?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500348752330?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500748227987?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500213831249?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500779280921?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500083027769?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500336096917?w=800&q=80&category=real-estate"
+    ],
+    "agent": {
+      "id": "A71",
+      "name": "Agent 40",
+      "phone": "+70 298 121 3013",
+      "email": "agent88@iwrealty.com",
+      "photo": "/images/icons/png/ny-skyline-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": false,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-02-06T10:50:47.201Z",
+    "updatedAt": "2025-11-13T10:50:47.201Z",
+    "storeId": "store-008"
+  },
+  {
+    "id": "P02222",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Müstakil Ev - New Cyprus",
+    "slug": "kiralik-müstakil-ev-new-cyprus-P02222",
+    "description": "New Cyprus, Cyprus bölgesinde müstakil ev. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 13812614,
+    "location": {
+      "country": "CY",
+      "city": "New Cyprus",
+      "district": "New Cyprus Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 943",
+      "coordinates": {
+        "lat": 34.69319923625615,
+        "lng": 32.72639494870728
+      }
+    },
+    "specs": {
+      "netSize": 268,
+      "grossSize": 322,
+      "rooms": "5+2",
+      "bathrooms": 3,
+      "age": 20,
+      "floor": 1,
+      "totalFloors": 14,
+      "heating": "Merkezi",
+      "furnishing": "Furnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500040278427?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500968038658?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500270980109?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500753984209?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500651619168?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500439772599?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500381734210?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500884252245?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500169157056?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500677330561?w=800&q=80&category=interior"
+    ],
+    "agent": {
+      "id": "A4",
+      "name": "Agent 32",
+      "phone": "+57 173 725 4528",
+      "email": "agent47@iwrealty.com",
+      "photo": "/images/icons/png/antalya-investment-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-10-21T10:50:47.201Z",
+    "updatedAt": "2025-11-13T10:50:47.201Z",
+    "storeId": "store-006"
+  },
+  {
+    "id": "P02223",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Residence - Cyprus Central",
+    "slug": "satilik-residence-cyprus-central-P02223",
+    "description": "Cyprus Central, Cyprus bölgesinde residence. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 12197062,
+    "location": {
+      "country": "CY",
+      "city": "Cyprus Central",
+      "district": "Cyprus Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 660",
+      "coordinates": {
+        "lat": 34.96737502746486,
+        "lng": 33.17984575242668
+      }
+    },
+    "specs": {
+      "netSize": 234,
+      "grossSize": 281,
+      "rooms": "3+0",
+      "bathrooms": 1,
+      "age": 2,
+      "floor": 12,
+      "totalFloors": 11,
+      "heating": "Kombi",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500034850436?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500898857344?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500158172698?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500887526587?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500123067631?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500050266160?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500322526151?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500791113381?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500030099928?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500797856683?w=800&q=80&category=architecture"
+    ],
+    "agent": {
+      "id": "A74",
+      "name": "Agent 35",
+      "phone": "+58 576 183 2279",
+      "email": "agent76@iwrealty.com",
+      "photo": "/images/icons/png/paris-heritage-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": false,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-06-03T10:50:47.201Z",
+    "updatedAt": "2025-11-13T10:50:47.201Z",
+    "storeId": "store-010"
+  },
+  {
+    "id": "P02224",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Residence - Cyprus Central",
+    "slug": "kiralik-residence-cyprus-central-P02224",
+    "description": "Cyprus Central, Cyprus bölgesinde residence. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 11162928,
+    "location": {
+      "country": "CY",
+      "city": "Cyprus Central",
+      "district": "Cyprus Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 156",
+      "coordinates": {
+        "lat": 34.56553027323213,
+        "lng": 33.02607953402009
+      }
+    },
+    "specs": {
+      "netSize": 255,
+      "grossSize": 306,
+      "rooms": "3+2",
+      "bathrooms": 4,
+      "age": 2,
+      "floor": 10,
+      "totalFloors": 9,
+      "heating": "Klima",
+      "furnishing": "Unfurnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500874852318?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500034326540?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500529500729?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500279572824?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500285445671?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500078630880?w=800&q=80&category=building"
+    ],
+    "agent": {
+      "id": "A2",
+      "name": "Agent 43",
+      "phone": "+50 114 839 3557",
+      "email": "agent49@iwrealty.com",
+      "photo": "/images/icons/png/london-prime-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2024-12-05T10:50:47.201Z",
+    "updatedAt": "2025-11-13T10:50:47.201Z",
+    "storeId": "store-007"
+  },
+  {
+    "id": "P02225",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Residence - New Cyprus",
+    "slug": "satilik-residence-new-cyprus-P02225",
+    "description": "New Cyprus, Cyprus bölgesinde residence. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 3469372,
+    "location": {
+      "country": "CY",
+      "city": "New Cyprus",
+      "district": "New Cyprus Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 368",
+      "coordinates": {
+        "lat": 35.23273197772305,
+        "lng": 33.22691116993659
+      }
+    },
+    "specs": {
+      "netSize": 440,
+      "grossSize": 528,
+      "rooms": "4+0",
+      "bathrooms": 1,
+      "age": 1,
+      "floor": 8,
+      "totalFloors": 9,
+      "heating": "Merkezi",
+      "furnishing": "Unfurnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500304029507?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500451789976?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500640071419?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500894308673?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500194225383?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500053643909?w=800&q=80&category=building"
+    ],
+    "agent": {
+      "id": "A15",
+      "name": "Agent 90",
+      "phone": "+32 593 770 7410",
+      "email": "agent82@iwrealty.com",
+      "photo": "/images/icons/png/antalya-investment-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2024-12-31T10:50:47.201Z",
+    "updatedAt": "2025-11-13T10:50:47.201Z",
+    "storeId": "store-006"
+  },
+  {
+    "id": "P02226",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Daire - New Cyprus",
+    "slug": "kiralik-daire-new-cyprus-P02226",
+    "description": "New Cyprus, Cyprus bölgesinde daire. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 4480412,
+    "location": {
+      "country": "CY",
+      "city": "New Cyprus",
+      "district": "New Cyprus Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 743",
+      "coordinates": {
+        "lat": 34.667073096577056,
+        "lng": 32.80844482703076
+      }
+    },
+    "specs": {
+      "netSize": 439,
+      "grossSize": 527,
+      "rooms": "4+1",
+      "bathrooms": 4,
+      "age": 4,
+      "floor": 4,
+      "totalFloors": 10,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500019680929?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500636334052?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500220166174?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500703525266?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500036957837?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500797918686?w=800&q=80&category=house"
+    ],
+    "agent": {
+      "id": "A16",
+      "name": "Agent 96",
+      "phone": "+57 718 289 4481",
+      "email": "agent45@iwrealty.com",
+      "photo": "/images/icons/png/luxury-homes-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": false,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-10-11T10:50:47.201Z",
+    "updatedAt": "2025-11-13T10:50:47.201Z",
+    "storeId": "store-002"
+  },
+  {
+    "id": "P02227",
+    "type": "sale",
+    "category": {
+      "main": "commercial",
+      "sub": "hospital"
+    },
+    "title": "Satılık Hastane - Cyprus City",
+    "slug": "satilik-hastane-cyprus-city-P02227",
+    "description": "Cyprus City, Cyprus bölgesinde hastane. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 50370498,
+    "location": {
+      "country": "CY",
+      "city": "Cyprus City",
+      "district": "Cyprus City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 199",
+      "coordinates": {
+        "lat": 35.1898763867613,
+        "lng": 33.216874878343404
+      }
+    },
+    "specs": {
+      "netSize": 7764,
+      "grossSize": 9317,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 1,
+      "floor": 11,
+      "totalFloors": 18,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Unfurnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500884722179?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500864517306?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500365224285?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500644507548?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500798035526?w=800&q=80&category=building"
+    ],
+    "agent": {
+      "id": "A52",
+      "name": "Agent 27",
+      "phone": "+75 395 917 7609",
+      "email": "agent98@iwrealty.com",
+      "photo": "/images/icons/png/london-prime-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-01-06T10:50:47.201Z",
+    "updatedAt": "2025-11-13T10:50:47.201Z",
+    "storeId": "store-007"
+  },
+  {
+    "id": "P02228",
+    "type": "rent",
+    "category": {
+      "main": "commercial",
+      "sub": "hospital"
+    },
+    "title": "Kiralık Hastane - Nicosia",
+    "slug": "kiralik-hastane-nicosia-P02228",
+    "description": "Nicosia, Cyprus bölgesinde hastane. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 64070913,
+    "location": {
+      "country": "CY",
+      "city": "Nicosia",
+      "district": "Nicosia Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 66",
+      "coordinates": {
+        "lat": 34.61498181418313,
+        "lng": 32.7387417522655
+      }
+    },
+    "specs": {
+      "netSize": 17286,
+      "grossSize": 20743,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 9,
+      "floor": 9,
+      "totalFloors": 20,
+      "heating": "Klima",
+      "furnishing": "Unfurnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500906886031?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500572112798?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500065335739?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500658296500?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500511122704?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500539662707?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500720451781?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500872025679?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500283483599?w=800&q=80&category=building"
+    ],
+    "agent": {
+      "id": "A88",
+      "name": "Agent 82",
+      "phone": "+82 791 546 1101",
+      "email": "agent24@iwrealty.com",
+      "photo": "/images/icons/png/sg-harbour-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": true,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-10-28T10:50:47.201Z",
+    "updatedAt": "2025-11-13T10:50:47.201Z",
+    "storeId": "store-011"
+  },
+  {
+    "id": "P02229",
+    "type": "sale",
+    "category": {
+      "main": "commercial",
+      "sub": "clinic"
+    },
+    "title": "Satılık Klinik - New Cyprus",
+    "slug": "satilik-klinik-new-cyprus-P02229",
+    "description": "New Cyprus, Cyprus bölgesinde klinik. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 2595344,
+    "location": {
+      "country": "CY",
+      "city": "New Cyprus",
+      "district": "New Cyprus Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 177",
+      "coordinates": {
+        "lat": 34.891020053909095,
+        "lng": 32.94234246505524
+      }
+    },
+    "specs": {
+      "netSize": 1323,
+      "grossSize": 1588,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 1,
+      "floor": 2,
+      "totalFloors": 17,
+      "heating": "Merkezi",
+      "furnishing": "Furnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500605633233?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500975296029?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500861045734?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500549463380?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500670924899?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500885580704?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500979424035?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500330983883?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500816357458?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500292601852?w=800&q=80&category=real-estate"
+    ],
+    "agent": {
+      "id": "A88",
+      "name": "Agent 41",
+      "phone": "+72 290 187 9436",
+      "email": "agent24@iwrealty.com",
+      "photo": "/images/icons/png/luxury-homes-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": false,
+      "hasBalcony": false,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-03-12T10:50:47.201Z",
+    "updatedAt": "2025-11-13T10:50:47.201Z",
+    "storeId": "store-002"
+  },
+  {
+    "id": "P02230",
+    "type": "rent",
+    "category": {
+      "main": "commercial",
+      "sub": "clinic"
+    },
+    "title": "Kiralık Klinik - New Cyprus",
+    "slug": "kiralik-klinik-new-cyprus-P02230",
+    "description": "New Cyprus, Cyprus bölgesinde klinik. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 18146113,
+    "location": {
+      "country": "CY",
+      "city": "New Cyprus",
+      "district": "New Cyprus Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 137",
+      "coordinates": {
+        "lat": 34.601208695327735,
+        "lng": 33.25771155492725
+      }
+    },
+    "specs": {
+      "netSize": 1874,
+      "grossSize": 2249,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 10,
+      "floor": 12,
+      "totalFloors": 10,
+      "heating": "Klima",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500536120629?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500113971960?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500302588389?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500772621094?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500301540707?w=800&q=80&category=interior"
+    ],
+    "agent": {
+      "id": "A69",
+      "name": "Agent 63",
+      "phone": "+50 396 262 9334",
+      "email": "agent80@iwrealty.com",
+      "photo": "/images/icons/png/paris-heritage-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": true,
+      "hasSecurity": true
+    },
+    "createdAt": "2024-12-26T10:50:47.201Z",
+    "updatedAt": "2025-11-13T10:50:47.201Z",
+    "storeId": "store-010"
+  },
+  {
+    "id": "P02231",
+    "type": "sale",
+    "category": {
+      "main": "commercial",
+      "sub": "shop"
+    },
+    "title": "Satılık Dükkan - Nicosia",
+    "slug": "satilik-dükkan-nicosia-P02231",
+    "description": "Nicosia, Cyprus bölgesinde dükkan. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 2997448,
+    "location": {
+      "country": "CY",
+      "city": "Nicosia",
+      "district": "Nicosia Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 406",
+      "coordinates": {
+        "lat": 35.379600356083536,
+        "lng": 32.915005289678156
+      }
+    },
+    "specs": {
+      "netSize": 153,
+      "grossSize": 184,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 2,
+      "floor": 13,
+      "totalFloors": 11,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500645734670?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500245662940?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500228445797?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500423608866?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500975731591?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500641606675?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500523299167?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500388866106?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500325937061?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500757518674?w=800&q=80&category=interior"
+    ],
+    "agent": {
+      "id": "A75",
+      "name": "Agent 65",
+      "phone": "+83 732 569 7377",
+      "email": "agent41@iwrealty.com",
+      "photo": "/images/icons/png/dubai-property-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-09-22T10:50:47.201Z",
+    "updatedAt": "2025-11-13T10:50:47.201Z",
+    "storeId": "store-004"
+  },
+  {
+    "id": "P02232",
+    "type": "rent",
+    "category": {
+      "main": "commercial",
+      "sub": "shop"
+    },
+    "title": "Kiralık Dükkan - Cyprus City",
+    "slug": "kiralik-dükkan-cyprus-city-P02232",
+    "description": "Cyprus City, Cyprus bölgesinde dükkan. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 3065109,
+    "location": {
+      "country": "CY",
+      "city": "Cyprus City",
+      "district": "Cyprus City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 853",
+      "coordinates": {
+        "lat": 34.719413965228654,
+        "lng": 32.856490458223426
+      }
+    },
+    "specs": {
+      "netSize": 428,
+      "grossSize": 514,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 15,
+      "floor": 15,
+      "totalFloors": 8,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Unfurnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500480771576?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500681407954?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500583445388?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500112360917?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500836391819?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500767085574?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500172611559?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500790161623?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500989961523?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500308413737?w=800&q=80&category=building"
+    ],
+    "agent": {
+      "id": "A91",
+      "name": "Agent 87",
+      "phone": "+23 464 369 2251",
+      "email": "agent55@iwrealty.com",
+      "photo": "/images/icons/png/dubai-property-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": false,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": true,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-06-03T10:50:47.201Z",
+    "updatedAt": "2025-11-13T10:50:47.201Z",
+    "storeId": "store-004"
+  },
+  {
+    "id": "P02233",
+    "type": "sale",
+    "category": {
+      "main": "commercial",
+      "sub": "office"
+    },
+    "title": "Satılık Ofis - Cyprus Central",
+    "slug": "satilik-ofis-cyprus-central-P02233",
+    "description": "Cyprus Central, Cyprus bölgesinde ofis. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 13186544,
+    "location": {
+      "country": "CY",
+      "city": "Cyprus Central",
+      "district": "Cyprus Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 415",
+      "coordinates": {
+        "lat": 34.922723262399195,
+        "lng": 33.26636727343042
+      }
+    },
+    "specs": {
+      "netSize": 142,
+      "grossSize": 170,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 20,
+      "floor": 5,
+      "totalFloors": 11,
+      "heating": "Merkezi",
+      "furnishing": "Unfurnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500339377261?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500368798287?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500336211666?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500870398318?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500454866745?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500649397528?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500876185817?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500830706671?w=800&q=80&category=building"
+    ],
+    "agent": {
+      "id": "A74",
+      "name": "Agent 64",
+      "phone": "+76 772 674 5253",
+      "email": "agent12@iwrealty.com",
+      "photo": "/images/icons/png/luxury-homes-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": true,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-02-19T10:50:47.201Z",
+    "updatedAt": "2025-11-13T10:50:47.201Z",
+    "storeId": "store-002"
+  },
+  {
+    "id": "P02234",
+    "type": "rent",
+    "category": {
+      "main": "commercial",
+      "sub": "office"
+    },
+    "title": "Kiralık Ofis - Nicosia",
+    "slug": "kiralik-ofis-nicosia-P02234",
+    "description": "Nicosia, Cyprus bölgesinde ofis. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 13318871,
+    "location": {
+      "country": "CY",
+      "city": "Nicosia",
+      "district": "Nicosia Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 539",
+      "coordinates": {
+        "lat": 35.47727605371688,
+        "lng": 32.62270847313507
+      }
+    },
+    "specs": {
+      "netSize": 672,
+      "grossSize": 806,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 3,
+      "floor": 1,
+      "totalFloors": 12,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Unfurnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500686699857?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500668224528?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500540945783?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500640581473?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500187536627?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500623374034?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500896224313?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500309316287?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500138276352?w=800&q=80&category=house"
+    ],
+    "agent": {
+      "id": "A19",
+      "name": "Agent 66",
+      "phone": "+47 960 352 3554",
+      "email": "agent35@iwrealty.com",
+      "photo": "/images/icons/png/dubai-property-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-04-13T10:50:47.201Z",
+    "updatedAt": "2025-11-13T10:50:47.201Z",
+    "storeId": "store-004"
+  },
+  {
+    "id": "P02235",
+    "type": "sale",
+    "category": {
+      "main": "commercial",
+      "sub": "mall"
+    },
+    "title": "Satılık AVM - New Cyprus",
+    "slug": "satilik-avm-new-cyprus-P02235",
+    "description": "New Cyprus, Cyprus bölgesinde avm. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 333910040,
+    "location": {
+      "country": "CY",
+      "city": "New Cyprus",
+      "district": "New Cyprus Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 687",
+      "coordinates": {
+        "lat": 35.117974353369,
+        "lng": 33.15578241500118
+      }
+    },
+    "specs": {
+      "netSize": 34014,
+      "grossSize": 40817,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 5,
+      "floor": 12,
+      "totalFloors": 8,
+      "heating": "Klima",
+      "furnishing": "Unfurnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500590386807?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500827922248?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500568596795?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500970942565?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500699249108?w=800&q=80&category=architecture"
+    ],
+    "agent": {
+      "id": "A44",
+      "name": "Agent 58",
+      "phone": "+86 240 844 7888",
+      "email": "agent64@iwrealty.com",
+      "photo": "/images/icons/png/london-prime-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": false,
+      "hasBalcony": false,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-07-28T10:50:47.201Z",
+    "updatedAt": "2025-11-13T10:50:47.201Z",
+    "storeId": "store-007"
+  },
+  {
+    "id": "P02236",
+    "type": "rent",
+    "category": {
+      "main": "commercial",
+      "sub": "mall"
+    },
+    "title": "Kiralık AVM - New Cyprus",
+    "slug": "kiralik-avm-new-cyprus-P02236",
+    "description": "New Cyprus, Cyprus bölgesinde avm. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 166228952,
+    "location": {
+      "country": "CY",
+      "city": "New Cyprus",
+      "district": "New Cyprus Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 829",
+      "coordinates": {
+        "lat": 35.3164191065173,
+        "lng": 32.51904328159887
+      }
+    },
+    "specs": {
+      "netSize": 18045,
+      "grossSize": 21654,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 13,
+      "floor": 15,
+      "totalFloors": 14,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Furnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500504870135?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500185223408?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500460119571?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500904981714?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500301793286?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500583803259?w=800&q=80&category=architecture"
+    ],
+    "agent": {
+      "id": "A93",
+      "name": "Agent 7",
+      "phone": "+48 158 830 6439",
+      "email": "agent50@iwrealty.com",
+      "photo": "/images/icons/png/antalya-investment-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-10-21T10:50:47.201Z",
+    "updatedAt": "2025-11-13T10:50:47.201Z",
+    "storeId": "store-006"
+  },
+  {
+    "id": "P02237",
+    "type": "sale",
+    "category": {
+      "main": "commercial",
+      "sub": "hotel"
+    },
+    "title": "Satılık Otel - Nicosia",
+    "slug": "satilik-otel-nicosia-P02237",
+    "description": "Nicosia, Cyprus bölgesinde otel. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 191900050,
+    "location": {
+      "country": "CY",
+      "city": "Nicosia",
+      "district": "Nicosia Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 275",
+      "coordinates": {
+        "lat": 34.714968553676876,
+        "lng": 33.39959907528179
+      }
+    },
+    "specs": {
+      "netSize": 7921,
+      "grossSize": 9505,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 1,
+      "floor": 8,
+      "totalFloors": 12,
+      "heating": "Kombi",
+      "furnishing": "Furnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500030229964?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500276970500?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500183078981?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500899895084?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500602928983?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500797595985?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500118222293?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500590362993?w=800&q=80&category=building"
+    ],
+    "agent": {
+      "id": "A51",
+      "name": "Agent 65",
+      "phone": "+10 666 840 8108",
+      "email": "agent79@iwrealty.com",
+      "photo": "/images/icons/png/sydney-coastal-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-05-17T10:50:47.201Z",
+    "updatedAt": "2025-11-13T10:50:47.201Z",
+    "storeId": "store-012"
+  },
+  {
+    "id": "P02238",
+    "type": "rent",
+    "category": {
+      "main": "commercial",
+      "sub": "hotel"
+    },
+    "title": "Kiralık Otel - Nicosia",
+    "slug": "kiralik-otel-nicosia-P02238",
+    "description": "Nicosia, Cyprus bölgesinde otel. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 62520146,
+    "location": {
+      "country": "CY",
+      "city": "Nicosia",
+      "district": "Nicosia Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 306",
+      "coordinates": {
+        "lat": 34.852748027175814,
+        "lng": 33.23076157799268
+      }
+    },
+    "specs": {
+      "netSize": 17560,
+      "grossSize": 21072,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 4,
+      "floor": 14,
+      "totalFloors": 9,
+      "heating": "Klima",
+      "furnishing": "Unfurnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500349167625?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500562853750?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500591620348?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500512930523?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500099064551?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500085823926?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500123832293?w=800&q=80&category=house"
+    ],
+    "agent": {
+      "id": "A96",
+      "name": "Agent 54",
+      "phone": "+31 567 657 7952",
+      "email": "agent87@iwrealty.com",
+      "photo": "/images/icons/png/ny-skyline-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-05-31T10:50:47.201Z",
+    "updatedAt": "2025-11-13T10:50:47.201Z",
+    "storeId": "store-008"
+  },
+  {
+    "id": "P02239",
+    "type": "sale",
+    "category": {
+      "main": "commercial",
+      "sub": "restaurant"
+    },
+    "title": "Satılık Restoran - Nicosia",
+    "slug": "satilik-restoran-nicosia-P02239",
+    "description": "Nicosia, Cyprus bölgesinde restoran. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 2473677,
+    "location": {
+      "country": "CY",
+      "city": "Nicosia",
+      "district": "Nicosia Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 851",
+      "coordinates": {
+        "lat": 35.2122951200632,
+        "lng": 33.01470150090429
+      }
+    },
+    "specs": {
+      "netSize": 262,
+      "grossSize": 314,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 13,
+      "floor": 4,
+      "totalFloors": 16,
+      "heating": "Kombi",
+      "furnishing": "Furnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500939141480?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500539496635?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500784377447?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500079972394?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500512036710?w=800&q=80&category=interior"
+    ],
+    "agent": {
+      "id": "A80",
+      "name": "Agent 83",
+      "phone": "+30 911 250 8481",
+      "email": "agent21@iwrealty.com",
+      "photo": "/images/icons/png/paris-heritage-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-07-28T10:50:47.201Z",
+    "updatedAt": "2025-11-13T10:50:47.201Z",
+    "storeId": "store-010"
+  },
+  {
+    "id": "P02240",
+    "type": "rent",
+    "category": {
+      "main": "commercial",
+      "sub": "restaurant"
+    },
+    "title": "Kiralık Restoran - Cyprus Central",
+    "slug": "kiralik-restoran-cyprus-central-P02240",
+    "description": "Cyprus Central, Cyprus bölgesinde restoran. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 1424362,
+    "location": {
+      "country": "CY",
+      "city": "Cyprus Central",
+      "district": "Cyprus Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 165",
+      "coordinates": {
+        "lat": 34.645081441286784,
+        "lng": 33.28568179345679
+      }
+    },
+    "specs": {
+      "netSize": 825,
+      "grossSize": 990,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 4,
+      "floor": 6,
+      "totalFloors": 13,
+      "heating": "Kombi",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500932826417?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500973844396?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500562008383?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500605729886?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500420114207?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500965420341?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500438794277?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500569233786?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500610185980?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500231118347?w=800&q=80&category=real-estate"
+    ],
+    "agent": {
+      "id": "A35",
+      "name": "Agent 52",
+      "phone": "+55 434 795 9069",
+      "email": "agent88@iwrealty.com",
+      "photo": "/images/icons/png/sydney-coastal-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": true,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-01-09T10:50:47.201Z",
+    "updatedAt": "2025-11-13T10:50:47.201Z",
+    "storeId": "store-012"
+  },
+  {
+    "id": "P02241",
+    "type": "sale",
+    "category": {
+      "main": "commercial",
+      "sub": "warehouse"
+    },
+    "title": "Satılık Depo - Cyprus Central",
+    "slug": "satilik-depo-cyprus-central-P02241",
+    "description": "Cyprus Central, Cyprus bölgesinde depo. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 11336191,
+    "location": {
+      "country": "CY",
+      "city": "Cyprus Central",
+      "district": "Cyprus Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 871",
+      "coordinates": {
+        "lat": 34.810379565516534,
+        "lng": 33.01026502819898
+      }
+    },
+    "specs": {
+      "netSize": 5320,
+      "grossSize": 6384,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 18,
+      "floor": 14,
+      "totalFloors": 7,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500955594630?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500275632323?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500870051709?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500389184605?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500928397438?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500956883226?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500548867892?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500060343544?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500764550662?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500504949187?w=800&q=80&category=house"
+    ],
+    "agent": {
+      "id": "A96",
+      "name": "Agent 60",
+      "phone": "+16 565 244 1106",
+      "email": "agent72@iwrealty.com",
+      "photo": "/images/icons/png/dubai-property-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": false,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": true,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-01-28T10:50:47.201Z",
+    "updatedAt": "2025-11-13T10:50:47.201Z",
+    "storeId": "store-004"
+  },
+  {
+    "id": "P02242",
+    "type": "rent",
+    "category": {
+      "main": "commercial",
+      "sub": "warehouse"
+    },
+    "title": "Kiralık Depo - Cyprus Central",
+    "slug": "kiralik-depo-cyprus-central-P02242",
+    "description": "Cyprus Central, Cyprus bölgesinde depo. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 16324739,
+    "location": {
+      "country": "CY",
+      "city": "Cyprus Central",
+      "district": "Cyprus Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 530",
+      "coordinates": {
+        "lat": 34.79481929362002,
+        "lng": 32.98860508176276
+      }
+    },
+    "specs": {
+      "netSize": 3210,
+      "grossSize": 3852,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 14,
+      "floor": 13,
+      "totalFloors": 10,
+      "heating": "Klima",
+      "furnishing": "Furnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500778145552?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500788713802?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500036112799?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500145455633?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500661149678?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500232945448?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500306127741?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500675644178?w=800&q=80&category=real-estate"
+    ],
+    "agent": {
+      "id": "A10",
+      "name": "Agent 69",
+      "phone": "+65 870 653 6154",
+      "email": "agent39@iwrealty.com",
+      "photo": "/images/icons/png/ny-skyline-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": true,
+      "hasPool": true,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-01-16T10:50:47.201Z",
+    "updatedAt": "2025-11-13T10:50:47.201Z",
+    "storeId": "store-008"
+  }
+]

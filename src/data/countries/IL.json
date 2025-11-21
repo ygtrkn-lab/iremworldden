@@ -1,0 +1,2358 @@
+[
+  {
+    "id": "P04219",
+    "type": "sale",
+    "category": {
+      "main": "government"
+    },
+    "title": "Satılık Belediye Binası - New Israel",
+    "slug": "satilik-belediye-binası-new-israel-P04219",
+    "description": "New Israel, Israel bölgesinde belediye binası. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 41715753,
+    "location": {
+      "country": "IL",
+      "city": "New Israel",
+      "district": "New Israel Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 912",
+      "coordinates": {
+        "lat": 31.546764232302795,
+        "lng": 34.78058493418603
+      }
+    },
+    "specs": {
+      "netSize": 1887,
+      "grossSize": 2264,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 19,
+      "floor": 15,
+      "totalFloors": 16,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500591488275?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500137248464?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500649848244?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500594039790?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500917283445?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500637553408?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500646858165?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500886036581?w=800&q=80&category=house"
+    ],
+    "agent": {
+      "id": "A95",
+      "name": "Agent 92",
+      "phone": "+43 466 169 9085",
+      "email": "agent89@iwrealty.com",
+      "photo": "/images/icons/png/luxury-homes-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-10-03T10:50:47.222Z",
+    "updatedAt": "2025-11-13T10:50:47.222Z",
+    "storeId": "store-002"
+  },
+  {
+    "id": "P04220",
+    "type": "rent",
+    "category": {
+      "main": "government"
+    },
+    "title": "Kiralık Okul - New Israel",
+    "slug": "kiralik-okul-new-israel-P04220",
+    "description": "New Israel, Israel bölgesinde okul. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 42825623,
+    "location": {
+      "country": "IL",
+      "city": "New Israel",
+      "district": "New Israel Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 564",
+      "coordinates": {
+        "lat": 31.13823801896506,
+        "lng": 35.189355446452296
+      }
+    },
+    "specs": {
+      "netSize": 1459,
+      "grossSize": 1751,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 9,
+      "floor": 12,
+      "totalFloors": 20,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500698492604?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500068452349?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500949808548?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500410235204?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500823150707?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500556632511?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500789084631?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500119733742?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500273797068?w=800&q=80&category=house"
+    ],
+    "agent": {
+      "id": "A16",
+      "name": "Agent 53",
+      "phone": "+52 274 328 3241",
+      "email": "agent69@iwrealty.com",
+      "photo": "/images/icons/png/london-prime-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-03-21T10:50:47.222Z",
+    "updatedAt": "2025-11-13T10:50:47.222Z",
+    "storeId": "store-007"
+  },
+  {
+    "id": "P04221",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Müstakil Ev - Jerusalem",
+    "slug": "satilik-müstakil-ev-jerusalem-P04221",
+    "description": "Jerusalem, Israel bölgesinde müstakil ev. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 10114570,
+    "location": {
+      "country": "IL",
+      "city": "Jerusalem",
+      "district": "Jerusalem Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 113",
+      "coordinates": {
+        "lat": 31.81163887384728,
+        "lng": 35.04779355160588
+      }
+    },
+    "specs": {
+      "netSize": 464,
+      "grossSize": 557,
+      "rooms": "3+2",
+      "bathrooms": 1,
+      "age": 15,
+      "floor": 15,
+      "totalFloors": 8,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500662793620?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500484282760?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500578341581?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500656615076?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500429440675?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500967577496?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500138137978?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500292114982?w=800&q=80&category=house"
+    ],
+    "agent": {
+      "id": "A3",
+      "name": "Agent 98",
+      "phone": "+91 410 433 5745",
+      "email": "agent19@iwrealty.com",
+      "photo": "/images/icons/png/luxury-homes-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-09-27T10:50:47.222Z",
+    "updatedAt": "2025-11-13T10:50:47.222Z",
+    "storeId": "store-002"
+  },
+  {
+    "id": "P04222",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Müstakil Ev - Jerusalem",
+    "slug": "kiralik-müstakil-ev-jerusalem-P04222",
+    "description": "Jerusalem, Israel bölgesinde müstakil ev. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 12525851,
+    "location": {
+      "country": "IL",
+      "city": "Jerusalem",
+      "district": "Jerusalem Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 640",
+      "coordinates": {
+        "lat": 31.082906079505594,
+        "lng": 35.08238237868982
+      }
+    },
+    "specs": {
+      "netSize": 132,
+      "grossSize": 158,
+      "rooms": "3+0",
+      "bathrooms": 1,
+      "age": 16,
+      "floor": 4,
+      "totalFloors": 11,
+      "heating": "Kombi",
+      "furnishing": "Furnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500798630777?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500091892018?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500148608125?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500709563932?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500656339398?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500948351915?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500796348992?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500726282020?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500767970340?w=800&q=80&category=building"
+    ],
+    "agent": {
+      "id": "A91",
+      "name": "Agent 89",
+      "phone": "+37 643 335 3858",
+      "email": "agent57@iwrealty.com",
+      "photo": "/images/icons/png/izmir-sahil-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-03-26T10:50:47.222Z",
+    "updatedAt": "2025-11-13T10:50:47.222Z",
+    "storeId": "store-005"
+  },
+  {
+    "id": "P04223",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Müstakil Ev - Israel Central",
+    "slug": "satilik-müstakil-ev-israel-central-P04223",
+    "description": "Israel Central, Israel bölgesinde müstakil ev. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 10177981,
+    "location": {
+      "country": "IL",
+      "city": "Israel Central",
+      "district": "Israel Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 163",
+      "coordinates": {
+        "lat": 31.18120385974129,
+        "lng": 35.524224068626516
+      }
+    },
+    "specs": {
+      "netSize": 500,
+      "grossSize": 600,
+      "rooms": "2+2",
+      "bathrooms": 2,
+      "age": 17,
+      "floor": 13,
+      "totalFloors": 17,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Unfurnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500729589830?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500952843129?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500211477265?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500122934533?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500937996393?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500220624550?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500538409138?w=800&q=80&category=house"
+    ],
+    "agent": {
+      "id": "A5",
+      "name": "Agent 70",
+      "phone": "+83 843 958 7712",
+      "email": "agent4@iwrealty.com",
+      "photo": "/images/icons/png/paris-heritage-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-03-05T10:50:47.222Z",
+    "updatedAt": "2025-11-13T10:50:47.222Z",
+    "storeId": "store-010"
+  },
+  {
+    "id": "P04224",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Müstakil Ev - Israel Central",
+    "slug": "kiralik-müstakil-ev-israel-central-P04224",
+    "description": "Israel Central, Israel bölgesinde müstakil ev. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 7174801,
+    "location": {
+      "country": "IL",
+      "city": "Israel Central",
+      "district": "Israel Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 728",
+      "coordinates": {
+        "lat": 31.706552003876922,
+        "lng": 35.22604071334624
+      }
+    },
+    "specs": {
+      "netSize": 398,
+      "grossSize": 478,
+      "rooms": "1+2",
+      "bathrooms": 1,
+      "age": 6,
+      "floor": 8,
+      "totalFloors": 11,
+      "heating": "Kombi",
+      "furnishing": "Furnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500958317262?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500272131836?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500346219938?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500764838248?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500496823711?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500575259649?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500842880895?w=800&q=80&category=interior"
+    ],
+    "agent": {
+      "id": "A55",
+      "name": "Agent 52",
+      "phone": "+42 309 383 4985",
+      "email": "agent84@iwrealty.com",
+      "photo": "/images/icons/png/ankara-modern-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-10-23T10:50:47.222Z",
+    "updatedAt": "2025-11-13T10:50:47.222Z",
+    "storeId": "store-003"
+  },
+  {
+    "id": "P04225",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Villa - Israel Central",
+    "slug": "satilik-villa-israel-central-P04225",
+    "description": "Israel Central, Israel bölgesinde villa. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 5778205,
+    "location": {
+      "country": "IL",
+      "city": "Israel Central",
+      "district": "Israel Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 353",
+      "coordinates": {
+        "lat": 31.54320694106249,
+        "lng": 34.70308508240359
+      }
+    },
+    "specs": {
+      "netSize": 335,
+      "grossSize": 402,
+      "rooms": "3+0",
+      "bathrooms": 4,
+      "age": 1,
+      "floor": 11,
+      "totalFloors": 17,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Unfurnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500820493194?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500071566684?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500382587089?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500800682545?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500445588626?w=800&q=80&category=real-estate"
+    ],
+    "agent": {
+      "id": "A42",
+      "name": "Agent 64",
+      "phone": "+57 663 241 1356",
+      "email": "agent66@iwrealty.com",
+      "photo": "/images/icons/png/izmir-sahil-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-05-14T10:50:47.222Z",
+    "updatedAt": "2025-11-13T10:50:47.222Z",
+    "storeId": "store-005"
+  },
+  {
+    "id": "P04226",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Villa - Israel Central",
+    "slug": "kiralik-villa-israel-central-P04226",
+    "description": "Israel Central, Israel bölgesinde villa. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 9200106,
+    "location": {
+      "country": "IL",
+      "city": "Israel Central",
+      "district": "Israel Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 45",
+      "coordinates": {
+        "lat": 31.79307730958034,
+        "lng": 34.97322808998582
+      }
+    },
+    "specs": {
+      "netSize": 363,
+      "grossSize": 436,
+      "rooms": "1+2",
+      "bathrooms": 4,
+      "age": 5,
+      "floor": 7,
+      "totalFloors": 6,
+      "heating": "Kombi",
+      "furnishing": "Unfurnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500739325674?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500461080835?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500254475026?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500204134487?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500612469206?w=800&q=80&category=building"
+    ],
+    "agent": {
+      "id": "A7",
+      "name": "Agent 56",
+      "phone": "+65 941 988 5717",
+      "email": "agent44@iwrealty.com",
+      "photo": "/images/icons/png/sg-harbour-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": true,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-10-17T10:50:47.222Z",
+    "updatedAt": "2025-11-13T10:50:47.222Z",
+    "storeId": "store-011"
+  },
+  {
+    "id": "P04227",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Daire - Israel Central",
+    "slug": "satilik-daire-israel-central-P04227",
+    "description": "Israel Central, Israel bölgesinde daire. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 11574712,
+    "location": {
+      "country": "IL",
+      "city": "Israel Central",
+      "district": "Israel Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 592",
+      "coordinates": {
+        "lat": 31.877627806327734,
+        "lng": 35.23141858225544
+      }
+    },
+    "specs": {
+      "netSize": 414,
+      "grossSize": 497,
+      "rooms": "3+1",
+      "bathrooms": 1,
+      "age": 5,
+      "floor": 8,
+      "totalFloors": 17,
+      "heating": "Kombi",
+      "furnishing": "Unfurnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500573318633?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500088036081?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500993486402?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500326169084?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500301493609?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500323616913?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500634023464?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500902858334?w=800&q=80&category=building"
+    ],
+    "agent": {
+      "id": "A9",
+      "name": "Agent 80",
+      "phone": "+10 583 657 4758",
+      "email": "agent84@iwrealty.com",
+      "photo": "/images/icons/png/sg-harbour-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": false,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-03-20T10:50:47.222Z",
+    "updatedAt": "2025-11-13T10:50:47.222Z",
+    "storeId": "store-011"
+  },
+  {
+    "id": "P04228",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Villa - Israel City",
+    "slug": "kiralik-villa-israel-city-P04228",
+    "description": "Israel City, Israel bölgesinde villa. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 9642923,
+    "location": {
+      "country": "IL",
+      "city": "Israel City",
+      "district": "Israel City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 346",
+      "coordinates": {
+        "lat": 31.601182456355772,
+        "lng": 35.01982581407859
+      }
+    },
+    "specs": {
+      "netSize": 163,
+      "grossSize": 196,
+      "rooms": "1+0",
+      "bathrooms": 4,
+      "age": 20,
+      "floor": 4,
+      "totalFloors": 17,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500670421585?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500378414662?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500524887613?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500147282740?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500449606380?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500574661240?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500019131076?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500051713458?w=800&q=80&category=architecture"
+    ],
+    "agent": {
+      "id": "A63",
+      "name": "Agent 14",
+      "phone": "+63 948 951 1304",
+      "email": "agent42@iwrealty.com",
+      "photo": "/images/icons/png/izmir-sahil-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": true,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-06-12T10:50:47.222Z",
+    "updatedAt": "2025-11-13T10:50:47.222Z",
+    "storeId": "store-005"
+  },
+  {
+    "id": "P04229",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Residence - Israel Central",
+    "slug": "satilik-residence-israel-central-P04229",
+    "description": "Israel Central, Israel bölgesinde residence. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 12835628,
+    "location": {
+      "country": "IL",
+      "city": "Israel Central",
+      "district": "Israel Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 586",
+      "coordinates": {
+        "lat": 31.847487394664626,
+        "lng": 35.3978525271005
+      }
+    },
+    "specs": {
+      "netSize": 498,
+      "grossSize": 598,
+      "rooms": "5+0",
+      "bathrooms": 2,
+      "age": 2,
+      "floor": 6,
+      "totalFloors": 16,
+      "heating": "Merkezi",
+      "furnishing": "Furnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500912091565?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500940128144?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500340692374?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500479287555?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500879687716?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500329744489?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500244510169?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500732669898?w=800&q=80&category=architecture"
+    ],
+    "agent": {
+      "id": "A76",
+      "name": "Agent 6",
+      "phone": "+38 257 862 8738",
+      "email": "agent61@iwrealty.com",
+      "photo": "/images/icons/png/sg-harbour-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": false,
+      "hasBalcony": false,
+      "hasGarden": true,
+      "hasPool": true,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-03-01T10:50:47.222Z",
+    "updatedAt": "2025-11-13T10:50:47.222Z",
+    "storeId": "store-011"
+  },
+  {
+    "id": "P04230",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Villa - Israel City",
+    "slug": "kiralik-villa-israel-city-P04230",
+    "description": "Israel City, Israel bölgesinde villa. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 11755048,
+    "location": {
+      "country": "IL",
+      "city": "Israel City",
+      "district": "Israel City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 146",
+      "coordinates": {
+        "lat": 31.709589450771155,
+        "lng": 35.28837259124463
+      }
+    },
+    "specs": {
+      "netSize": 290,
+      "grossSize": 348,
+      "rooms": "3+2",
+      "bathrooms": 4,
+      "age": 15,
+      "floor": 4,
+      "totalFloors": 7,
+      "heating": "Kombi",
+      "furnishing": "Unfurnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500034250381?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500355205629?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500686623438?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500329169087?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500206581087?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500783161339?w=800&q=80&category=architecture"
+    ],
+    "agent": {
+      "id": "A32",
+      "name": "Agent 28",
+      "phone": "+45 156 687 9275",
+      "email": "agent92@iwrealty.com",
+      "photo": "/images/icons/png/dubai-property-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2024-11-16T10:50:47.222Z",
+    "updatedAt": "2025-11-13T10:50:47.222Z",
+    "storeId": "store-004"
+  },
+  {
+    "id": "P04231",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Müstakil Ev - Jerusalem",
+    "slug": "satilik-müstakil-ev-jerusalem-P04231",
+    "description": "Jerusalem, Israel bölgesinde müstakil ev. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 14131620,
+    "location": {
+      "country": "IL",
+      "city": "Jerusalem",
+      "district": "Jerusalem Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 205",
+      "coordinates": {
+        "lat": 31.139367060102305,
+        "lng": 35.17195220489504
+      }
+    },
+    "specs": {
+      "netSize": 178,
+      "grossSize": 214,
+      "rooms": "3+2",
+      "bathrooms": 1,
+      "age": 9,
+      "floor": 10,
+      "totalFloors": 13,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500712662961?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500214633223?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500723252965?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500825674161?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500763112707?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500785186536?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500984586385?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500910629349?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500218553596?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500773450849?w=800&q=80&category=building"
+    ],
+    "agent": {
+      "id": "A40",
+      "name": "Agent 6",
+      "phone": "+20 372 293 6984",
+      "email": "agent19@iwrealty.com",
+      "photo": "/images/icons/png/dubai-property-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-08-31T10:50:47.222Z",
+    "updatedAt": "2025-11-13T10:50:47.222Z",
+    "storeId": "store-004"
+  },
+  {
+    "id": "P04232",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Villa - New Israel",
+    "slug": "kiralik-villa-new-israel-P04232",
+    "description": "New Israel, Israel bölgesinde villa. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 4529855,
+    "location": {
+      "country": "IL",
+      "city": "New Israel",
+      "district": "New Israel Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 469",
+      "coordinates": {
+        "lat": 31.127516733782578,
+        "lng": 35.44013592068744
+      }
+    },
+    "specs": {
+      "netSize": 207,
+      "grossSize": 248,
+      "rooms": "4+0",
+      "bathrooms": 4,
+      "age": 8,
+      "floor": 6,
+      "totalFloors": 14,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Furnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500461051887?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500225333581?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500586964433?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500175616838?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500175217873?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500707189205?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500472509766?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500309660386?w=800&q=80&category=house"
+    ],
+    "agent": {
+      "id": "A42",
+      "name": "Agent 57",
+      "phone": "+12 862 492 2069",
+      "email": "agent25@iwrealty.com",
+      "photo": "/images/icons/png/dubai-property-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-02-19T10:50:47.222Z",
+    "updatedAt": "2025-11-13T10:50:47.222Z",
+    "storeId": "store-004"
+  },
+  {
+    "id": "P04233",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Daire - Israel Central",
+    "slug": "satilik-daire-israel-central-P04233",
+    "description": "Israel Central, Israel bölgesinde daire. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 842363,
+    "location": {
+      "country": "IL",
+      "city": "Israel Central",
+      "district": "Israel Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 284",
+      "coordinates": {
+        "lat": 31.41882703745909,
+        "lng": 35.03030496743652
+      }
+    },
+    "specs": {
+      "netSize": 249,
+      "grossSize": 299,
+      "rooms": "2+1",
+      "bathrooms": 3,
+      "age": 19,
+      "floor": 14,
+      "totalFloors": 12,
+      "heating": "Kombi",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500948442143?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500197851940?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500942606984?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500573609448?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500527168365?w=800&q=80&category=interior"
+    ],
+    "agent": {
+      "id": "A33",
+      "name": "Agent 92",
+      "phone": "+40 270 761 8866",
+      "email": "agent38@iwrealty.com",
+      "photo": "/images/icons/png/luxury-homes-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": false,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-05-18T10:50:47.222Z",
+    "updatedAt": "2025-11-13T10:50:47.222Z",
+    "storeId": "store-002"
+  },
+  {
+    "id": "P04234",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Residence - Jerusalem",
+    "slug": "kiralik-residence-jerusalem-P04234",
+    "description": "Jerusalem, Israel bölgesinde residence. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 6656447,
+    "location": {
+      "country": "IL",
+      "city": "Jerusalem",
+      "district": "Jerusalem Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 836",
+      "coordinates": {
+        "lat": 31.747131389401073,
+        "lng": 35.49103906100144
+      }
+    },
+    "specs": {
+      "netSize": 180,
+      "grossSize": 216,
+      "rooms": "3+2",
+      "bathrooms": 2,
+      "age": 5,
+      "floor": 9,
+      "totalFloors": 6,
+      "heating": "Kombi",
+      "furnishing": "Furnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500699873318?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500597982456?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500401275240?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500747442893?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500487365189?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500534940070?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500425249748?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500226445818?w=800&q=80&category=interior"
+    ],
+    "agent": {
+      "id": "A1",
+      "name": "Agent 28",
+      "phone": "+24 629 567 7450",
+      "email": "agent61@iwrealty.com",
+      "photo": "/images/icons/png/izmir-sahil-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": false,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-04-04T10:50:47.222Z",
+    "updatedAt": "2025-11-13T10:50:47.222Z",
+    "storeId": "store-005"
+  },
+  {
+    "id": "P04235",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Villa - Israel Central",
+    "slug": "satilik-villa-israel-central-P04235",
+    "description": "Israel Central, Israel bölgesinde villa. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 7657919,
+    "location": {
+      "country": "IL",
+      "city": "Israel Central",
+      "district": "Israel Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 990",
+      "coordinates": {
+        "lat": 31.925283739604836,
+        "lng": 34.74865624145088
+      }
+    },
+    "specs": {
+      "netSize": 226,
+      "grossSize": 271,
+      "rooms": "1+2",
+      "bathrooms": 1,
+      "age": 15,
+      "floor": 3,
+      "totalFloors": 20,
+      "heating": "Merkezi",
+      "furnishing": "Unfurnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500065421640?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500521975569?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500563644758?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500359328496?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500309877226?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500402584888?w=800&q=80&category=real-estate"
+    ],
+    "agent": {
+      "id": "A92",
+      "name": "Agent 69",
+      "phone": "+96 127 812 9439",
+      "email": "agent34@iwrealty.com",
+      "photo": "/images/icons/png/izmir-sahil-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-07-18T10:50:47.222Z",
+    "updatedAt": "2025-11-13T10:50:47.222Z",
+    "storeId": "store-005"
+  },
+  {
+    "id": "P04236",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Villa - Israel Central",
+    "slug": "kiralik-villa-israel-central-P04236",
+    "description": "Israel Central, Israel bölgesinde villa. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 3929851,
+    "location": {
+      "country": "IL",
+      "city": "Israel Central",
+      "district": "Israel Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 727",
+      "coordinates": {
+        "lat": 30.973979422014597,
+        "lng": 35.133349954208036
+      }
+    },
+    "specs": {
+      "netSize": 478,
+      "grossSize": 574,
+      "rooms": "1+1",
+      "bathrooms": 4,
+      "age": 9,
+      "floor": 1,
+      "totalFloors": 6,
+      "heating": "Kombi",
+      "furnishing": "Furnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500886316477?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500282916579?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500641885322?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500293954990?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500751562592?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500705626071?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500392599184?w=800&q=80&category=real-estate"
+    ],
+    "agent": {
+      "id": "A84",
+      "name": "Agent 10",
+      "phone": "+43 300 194 2123",
+      "email": "agent46@iwrealty.com",
+      "photo": "/images/icons/png/dubai-property-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": false,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-01-28T10:50:47.222Z",
+    "updatedAt": "2025-11-13T10:50:47.222Z",
+    "storeId": "store-004"
+  },
+  {
+    "id": "P04237",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Villa - Israel City",
+    "slug": "satilik-villa-israel-city-P04237",
+    "description": "Israel City, Israel bölgesinde villa. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 2770826,
+    "location": {
+      "country": "IL",
+      "city": "Israel City",
+      "district": "Israel City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 557",
+      "coordinates": {
+        "lat": 31.10355611877106,
+        "lng": 34.780555478285244
+      }
+    },
+    "specs": {
+      "netSize": 459,
+      "grossSize": 551,
+      "rooms": "3+1",
+      "bathrooms": 3,
+      "age": 9,
+      "floor": 15,
+      "totalFloors": 14,
+      "heating": "Merkezi",
+      "furnishing": "Unfurnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500304531644?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500158847203?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500772801007?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500088061014?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500908098144?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500230483544?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500308784929?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500778244194?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500055277933?w=800&q=80&category=architecture"
+    ],
+    "agent": {
+      "id": "A85",
+      "name": "Agent 80",
+      "phone": "+70 601 964 2043",
+      "email": "agent23@iwrealty.com",
+      "photo": "/images/icons/png/london-prime-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2024-12-15T10:50:47.222Z",
+    "updatedAt": "2025-11-13T10:50:47.222Z",
+    "storeId": "store-007"
+  },
+  {
+    "id": "P04238",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Daire - Israel Central",
+    "slug": "kiralik-daire-israel-central-P04238",
+    "description": "Israel Central, Israel bölgesinde daire. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 3273513,
+    "location": {
+      "country": "IL",
+      "city": "Israel Central",
+      "district": "Israel Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 741",
+      "coordinates": {
+        "lat": 31.71174391309208,
+        "lng": 34.77536797703381
+      }
+    },
+    "specs": {
+      "netSize": 240,
+      "grossSize": 288,
+      "rooms": "2+1",
+      "bathrooms": 3,
+      "age": 2,
+      "floor": 9,
+      "totalFloors": 17,
+      "heating": "Kombi",
+      "furnishing": "Furnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500867423086?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500254955651?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500236206197?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500483352198?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500051163660?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500698271199?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500681056169?w=800&q=80&category=interior"
+    ],
+    "agent": {
+      "id": "A22",
+      "name": "Agent 11",
+      "phone": "+28 827 844 9309",
+      "email": "agent98@iwrealty.com",
+      "photo": "/images/icons/png/berlin-urban-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": false,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-10-27T10:50:47.222Z",
+    "updatedAt": "2025-11-13T10:50:47.222Z",
+    "storeId": "store-009"
+  },
+  {
+    "id": "P04239",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Müstakil Ev - Israel City",
+    "slug": "satilik-müstakil-ev-israel-city-P04239",
+    "description": "Israel City, Israel bölgesinde müstakil ev. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 9594071,
+    "location": {
+      "country": "IL",
+      "city": "Israel City",
+      "district": "Israel City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 18",
+      "coordinates": {
+        "lat": 31.90219004281181,
+        "lng": 35.56960077025157
+      }
+    },
+    "specs": {
+      "netSize": 329,
+      "grossSize": 395,
+      "rooms": "3+1",
+      "bathrooms": 4,
+      "age": 6,
+      "floor": 4,
+      "totalFloors": 15,
+      "heating": "Merkezi",
+      "furnishing": "Unfurnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500247877391?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500599209305?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500341471641?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500193272019?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500242069417?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500342102919?w=800&q=80&category=architecture"
+    ],
+    "agent": {
+      "id": "A68",
+      "name": "Agent 9",
+      "phone": "+32 436 179 1499",
+      "email": "agent18@iwrealty.com",
+      "photo": "/images/icons/png/luxury-homes-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": true,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-08-27T10:50:47.222Z",
+    "updatedAt": "2025-11-13T10:50:47.222Z",
+    "storeId": "store-002"
+  },
+  {
+    "id": "P04240",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Residence - Israel Central",
+    "slug": "kiralik-residence-israel-central-P04240",
+    "description": "Israel Central, Israel bölgesinde residence. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 2056327,
+    "location": {
+      "country": "IL",
+      "city": "Israel Central",
+      "district": "Israel Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 558",
+      "coordinates": {
+        "lat": 31.84367970960086,
+        "lng": 35.23393584895935
+      }
+    },
+    "specs": {
+      "netSize": 233,
+      "grossSize": 280,
+      "rooms": "2+2",
+      "bathrooms": 2,
+      "age": 6,
+      "floor": 5,
+      "totalFloors": 8,
+      "heating": "Kombi",
+      "furnishing": "Furnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500258333494?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500599427707?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500856564051?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500825164935?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500001830367?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500086199015?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500182764398?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500190477204?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500768366006?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500472529300?w=800&q=80&category=interior"
+    ],
+    "agent": {
+      "id": "A17",
+      "name": "Agent 38",
+      "phone": "+22 610 115 6374",
+      "email": "agent47@iwrealty.com",
+      "photo": "/images/icons/png/ny-skyline-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-10-05T10:50:47.222Z",
+    "updatedAt": "2025-11-13T10:50:47.222Z",
+    "storeId": "store-008"
+  },
+  {
+    "id": "P04241",
+    "type": "sale",
+    "category": {
+      "main": "commercial",
+      "sub": "hospital"
+    },
+    "title": "Satılık Hastane - New Israel",
+    "slug": "satilik-hastane-new-israel-P04241",
+    "description": "New Israel, Israel bölgesinde hastane. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 81665701,
+    "location": {
+      "country": "IL",
+      "city": "New Israel",
+      "district": "New Israel Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 307",
+      "coordinates": {
+        "lat": 31.31608780681783,
+        "lng": 35.19898840311982
+      }
+    },
+    "specs": {
+      "netSize": 8937,
+      "grossSize": 10724,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 18,
+      "floor": 14,
+      "totalFloors": 11,
+      "heating": "Klima",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500132365571?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500321476610?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500884166737?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500707185781?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500549813646?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500964949048?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500490694981?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500931611141?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500258463202?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500219386810?w=800&q=80&category=interior"
+    ],
+    "agent": {
+      "id": "A98",
+      "name": "Agent 83",
+      "phone": "+31 281 830 2902",
+      "email": "agent21@iwrealty.com",
+      "photo": "/images/icons/png/izmir-sahil-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": false,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-10-11T10:50:47.222Z",
+    "updatedAt": "2025-11-13T10:50:47.222Z",
+    "storeId": "store-005"
+  },
+  {
+    "id": "P04242",
+    "type": "rent",
+    "category": {
+      "main": "commercial",
+      "sub": "hospital"
+    },
+    "title": "Kiralık Hastane - Jerusalem",
+    "slug": "kiralik-hastane-jerusalem-P04242",
+    "description": "Jerusalem, Israel bölgesinde hastane. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 34703621,
+    "location": {
+      "country": "IL",
+      "city": "Jerusalem",
+      "district": "Jerusalem Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 159",
+      "coordinates": {
+        "lat": 31.093260614467784,
+        "lng": 34.77985997700324
+      }
+    },
+    "specs": {
+      "netSize": 13516,
+      "grossSize": 16219,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 12,
+      "floor": 11,
+      "totalFloors": 17,
+      "heating": "Merkezi",
+      "furnishing": "Furnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500927824842?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500651527720?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500039891171?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500851405099?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500621355485?w=800&q=80&category=real-estate"
+    ],
+    "agent": {
+      "id": "A11",
+      "name": "Agent 1",
+      "phone": "+46 869 780 8644",
+      "email": "agent41@iwrealty.com",
+      "photo": "/images/icons/png/paris-heritage-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-03-08T10:50:47.222Z",
+    "updatedAt": "2025-11-13T10:50:47.222Z",
+    "storeId": "store-010"
+  },
+  {
+    "id": "P04243",
+    "type": "sale",
+    "category": {
+      "main": "commercial",
+      "sub": "clinic"
+    },
+    "title": "Satılık Klinik - Israel City",
+    "slug": "satilik-klinik-israel-city-P04243",
+    "description": "Israel City, Israel bölgesinde klinik. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 2440508,
+    "location": {
+      "country": "IL",
+      "city": "Israel City",
+      "district": "Israel City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 797",
+      "coordinates": {
+        "lat": 31.191667152849764,
+        "lng": 34.835085262496015
+      }
+    },
+    "specs": {
+      "netSize": 1688,
+      "grossSize": 2026,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 8,
+      "floor": 10,
+      "totalFloors": 8,
+      "heating": "Klima",
+      "furnishing": "Unfurnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500859923447?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500310233832?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500226142666?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500105770328?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500534133993?w=800&q=80&category=building"
+    ],
+    "agent": {
+      "id": "A63",
+      "name": "Agent 28",
+      "phone": "+20 285 677 2913",
+      "email": "agent56@iwrealty.com",
+      "photo": "/images/icons/png/sydney-coastal-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": false,
+      "hasBalcony": false,
+      "hasGarden": true,
+      "hasPool": true,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-02-21T10:50:47.222Z",
+    "updatedAt": "2025-11-13T10:50:47.222Z",
+    "storeId": "store-012"
+  },
+  {
+    "id": "P04244",
+    "type": "rent",
+    "category": {
+      "main": "commercial",
+      "sub": "clinic"
+    },
+    "title": "Kiralık Klinik - Jerusalem",
+    "slug": "kiralik-klinik-jerusalem-P04244",
+    "description": "Jerusalem, Israel bölgesinde klinik. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 16170150,
+    "location": {
+      "country": "IL",
+      "city": "Jerusalem",
+      "district": "Jerusalem Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 735",
+      "coordinates": {
+        "lat": 31.93777311212158,
+        "lng": 35.33851865115361
+      }
+    },
+    "specs": {
+      "netSize": 1068,
+      "grossSize": 1282,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 0,
+      "floor": 12,
+      "totalFloors": 15,
+      "heating": "Kombi",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500068818466?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500441735522?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500899867579?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500899770907?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500728573542?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500630762093?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500007865595?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500690051982?w=800&q=80&category=building"
+    ],
+    "agent": {
+      "id": "A99",
+      "name": "Agent 22",
+      "phone": "+82 531 677 1651",
+      "email": "agent21@iwrealty.com",
+      "photo": "/images/icons/png/london-prime-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": true,
+      "hasPool": true,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-06-06T10:50:47.222Z",
+    "updatedAt": "2025-11-13T10:50:47.222Z",
+    "storeId": "store-007"
+  },
+  {
+    "id": "P04245",
+    "type": "sale",
+    "category": {
+      "main": "commercial",
+      "sub": "shop"
+    },
+    "title": "Satılık Dükkan - New Israel",
+    "slug": "satilik-dükkan-new-israel-P04245",
+    "description": "New Israel, Israel bölgesinde dükkan. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 5436725,
+    "location": {
+      "country": "IL",
+      "city": "New Israel",
+      "district": "New Israel Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 801",
+      "coordinates": {
+        "lat": 31.109717434827314,
+        "lng": 34.653338963984524
+      }
+    },
+    "specs": {
+      "netSize": 186,
+      "grossSize": 223,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 0,
+      "floor": 8,
+      "totalFloors": 19,
+      "heating": "Kombi",
+      "furnishing": "Furnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500754257487?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500336921347?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500721283917?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500381305868?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500563781426?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500635131515?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500712451629?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500110166960?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500203590507?w=800&q=80&category=real-estate"
+    ],
+    "agent": {
+      "id": "A40",
+      "name": "Agent 55",
+      "phone": "+50 280 682 4475",
+      "email": "agent52@iwrealty.com",
+      "photo": "/images/icons/png/sg-harbour-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": false,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2024-12-18T10:50:47.222Z",
+    "updatedAt": "2025-11-13T10:50:47.222Z",
+    "storeId": "store-011"
+  },
+  {
+    "id": "P04246",
+    "type": "rent",
+    "category": {
+      "main": "commercial",
+      "sub": "shop"
+    },
+    "title": "Kiralık Dükkan - Israel City",
+    "slug": "kiralik-dükkan-israel-city-P04246",
+    "description": "Israel City, Israel bölgesinde dükkan. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 5406186,
+    "location": {
+      "country": "IL",
+      "city": "Israel City",
+      "district": "Israel City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 315",
+      "coordinates": {
+        "lat": 31.94035166306665,
+        "lng": 34.82208850517467
+      }
+    },
+    "specs": {
+      "netSize": 449,
+      "grossSize": 539,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 9,
+      "floor": 13,
+      "totalFloors": 6,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Unfurnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500160650540?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500715718239?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500888274893?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500128526453?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500139845000?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500829694056?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500532425174?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500896873265?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500242133769?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500477377076?w=800&q=80&category=building"
+    ],
+    "agent": {
+      "id": "A8",
+      "name": "Agent 51",
+      "phone": "+76 587 188 4588",
+      "email": "agent44@iwrealty.com",
+      "photo": "/images/icons/png/izmir-sahil-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": false,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": true,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-08-31T10:50:47.222Z",
+    "updatedAt": "2025-11-13T10:50:47.222Z",
+    "storeId": "store-005"
+  },
+  {
+    "id": "P04247",
+    "type": "sale",
+    "category": {
+      "main": "commercial",
+      "sub": "office"
+    },
+    "title": "Satılık Ofis - Israel City",
+    "slug": "satilik-ofis-israel-city-P04247",
+    "description": "Israel City, Israel bölgesinde ofis. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 13286390,
+    "location": {
+      "country": "IL",
+      "city": "Israel City",
+      "district": "Israel City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 181",
+      "coordinates": {
+        "lat": 31.53443164394514,
+        "lng": 35.48978291105601
+      }
+    },
+    "specs": {
+      "netSize": 558,
+      "grossSize": 670,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 15,
+      "floor": 15,
+      "totalFloors": 16,
+      "heating": "Merkezi",
+      "furnishing": "Furnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500423246926?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500219385465?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500195971934?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500409661526?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500539482492?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500076671536?w=800&q=80&category=real-estate"
+    ],
+    "agent": {
+      "id": "A66",
+      "name": "Agent 100",
+      "phone": "+51 371 464 5381",
+      "email": "agent66@iwrealty.com",
+      "photo": "/images/icons/png/ny-skyline-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": false,
+      "hasBalcony": false,
+      "hasGarden": true,
+      "hasPool": true,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-06-21T10:50:47.222Z",
+    "updatedAt": "2025-11-13T10:50:47.222Z",
+    "storeId": "store-008"
+  },
+  {
+    "id": "P04248",
+    "type": "rent",
+    "category": {
+      "main": "commercial",
+      "sub": "office"
+    },
+    "title": "Kiralık Ofis - Jerusalem",
+    "slug": "kiralik-ofis-jerusalem-P04248",
+    "description": "Jerusalem, Israel bölgesinde ofis. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 9186700,
+    "location": {
+      "country": "IL",
+      "city": "Jerusalem",
+      "district": "Jerusalem Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 211",
+      "coordinates": {
+        "lat": 31.169387334087816,
+        "lng": 35.365528470065385
+      }
+    },
+    "specs": {
+      "netSize": 597,
+      "grossSize": 716,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 7,
+      "floor": 7,
+      "totalFloors": 14,
+      "heating": "Kombi",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500589044913?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500887766758?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500329224395?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500449384211?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500795217419?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500903725781?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500011198054?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500793615248?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500039510991?w=800&q=80&category=house"
+    ],
+    "agent": {
+      "id": "A80",
+      "name": "Agent 63",
+      "phone": "+68 985 852 8080",
+      "email": "agent93@iwrealty.com",
+      "photo": "/images/icons/png/ankara-modern-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-09-18T10:50:47.222Z",
+    "updatedAt": "2025-11-13T10:50:47.222Z",
+    "storeId": "store-003"
+  },
+  {
+    "id": "P04249",
+    "type": "sale",
+    "category": {
+      "main": "commercial",
+      "sub": "mall"
+    },
+    "title": "Satılık AVM - Israel Central",
+    "slug": "satilik-avm-israel-central-P04249",
+    "description": "Israel Central, Israel bölgesinde avm. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 370495676,
+    "location": {
+      "country": "IL",
+      "city": "Israel Central",
+      "district": "Israel Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 245",
+      "coordinates": {
+        "lat": 31.33283537454322,
+        "lng": 35.39660988201893
+      }
+    },
+    "specs": {
+      "netSize": 19528,
+      "grossSize": 23434,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 5,
+      "floor": 14,
+      "totalFloors": 8,
+      "heating": "Kombi",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500708426918?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500428665028?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500474650141?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500509956655?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500608746745?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500932253743?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500890721406?w=800&q=80&category=building"
+    ],
+    "agent": {
+      "id": "A82",
+      "name": "Agent 66",
+      "phone": "+80 829 434 7062",
+      "email": "agent9@iwrealty.com",
+      "photo": "/images/icons/png/berlin-urban-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": true,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-06-06T10:50:47.222Z",
+    "updatedAt": "2025-11-13T10:50:47.222Z",
+    "storeId": "store-009"
+  },
+  {
+    "id": "P04250",
+    "type": "rent",
+    "category": {
+      "main": "commercial",
+      "sub": "mall"
+    },
+    "title": "Kiralık AVM - Israel Central",
+    "slug": "kiralik-avm-israel-central-P04250",
+    "description": "Israel Central, Israel bölgesinde avm. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 347280289,
+    "location": {
+      "country": "IL",
+      "city": "Israel Central",
+      "district": "Israel Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 245",
+      "coordinates": {
+        "lat": 30.97958889248844,
+        "lng": 35.52467659302503
+      }
+    },
+    "specs": {
+      "netSize": 44150,
+      "grossSize": 52980,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 3,
+      "floor": 1,
+      "totalFloors": 12,
+      "heating": "Klima",
+      "furnishing": "Unfurnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500306058122?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500173959335?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500571011291?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500872712356?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500088278868?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500655584538?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500273529227?w=800&q=80&category=real-estate"
+    ],
+    "agent": {
+      "id": "A82",
+      "name": "Agent 28",
+      "phone": "+24 976 783 9331",
+      "email": "agent29@iwrealty.com",
+      "photo": "/images/icons/png/izmir-sahil-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": false,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": true,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-01-03T10:50:47.222Z",
+    "updatedAt": "2025-11-13T10:50:47.222Z",
+    "storeId": "store-005"
+  },
+  {
+    "id": "P04251",
+    "type": "sale",
+    "category": {
+      "main": "commercial",
+      "sub": "hotel"
+    },
+    "title": "Satılık Otel - New Israel",
+    "slug": "satilik-otel-new-israel-P04251",
+    "description": "New Israel, Israel bölgesinde otel. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 112513504,
+    "location": {
+      "country": "IL",
+      "city": "New Israel",
+      "district": "New Israel Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 380",
+      "coordinates": {
+        "lat": 31.06693471028594,
+        "lng": 35.5982486341616
+      }
+    },
+    "specs": {
+      "netSize": 25149,
+      "grossSize": 30179,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 19,
+      "floor": 5,
+      "totalFloors": 18,
+      "heating": "Klima",
+      "furnishing": "Unfurnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500231778845?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500345676242?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500234240804?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500412582311?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500792581543?w=800&q=80&category=building"
+    ],
+    "agent": {
+      "id": "A25",
+      "name": "Agent 56",
+      "phone": "+11 218 836 3187",
+      "email": "agent40@iwrealty.com",
+      "photo": "/images/icons/png/paris-heritage-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-10-15T10:50:47.222Z",
+    "updatedAt": "2025-11-13T10:50:47.222Z",
+    "storeId": "store-010"
+  },
+  {
+    "id": "P04252",
+    "type": "rent",
+    "category": {
+      "main": "commercial",
+      "sub": "hotel"
+    },
+    "title": "Kiralık Otel - New Israel",
+    "slug": "kiralik-otel-new-israel-P04252",
+    "description": "New Israel, Israel bölgesinde otel. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 190157696,
+    "location": {
+      "country": "IL",
+      "city": "New Israel",
+      "district": "New Israel Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 977",
+      "coordinates": {
+        "lat": 31.336932668217173,
+        "lng": 35.02564296958606
+      }
+    },
+    "specs": {
+      "netSize": 29898,
+      "grossSize": 35878,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 7,
+      "floor": 13,
+      "totalFloors": 6,
+      "heating": "Merkezi",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500721783033?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500549315498?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500589132044?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500913622416?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500934918257?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500645963496?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500163854342?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500247409750?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500328951525?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500501113902?w=800&q=80&category=building"
+    ],
+    "agent": {
+      "id": "A50",
+      "name": "Agent 83",
+      "phone": "+21 674 682 3186",
+      "email": "agent84@iwrealty.com",
+      "photo": "/images/icons/png/antalya-investment-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-05-13T10:50:47.222Z",
+    "updatedAt": "2025-11-13T10:50:47.222Z",
+    "storeId": "store-006"
+  },
+  {
+    "id": "P04253",
+    "type": "sale",
+    "category": {
+      "main": "commercial",
+      "sub": "restaurant"
+    },
+    "title": "Satılık Restoran - Jerusalem",
+    "slug": "satilik-restoran-jerusalem-P04253",
+    "description": "Jerusalem, Israel bölgesinde restoran. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 9688486,
+    "location": {
+      "country": "IL",
+      "city": "Jerusalem",
+      "district": "Jerusalem Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 14",
+      "coordinates": {
+        "lat": 31.60286074168904,
+        "lng": 35.421352817571645
+      }
+    },
+    "specs": {
+      "netSize": 1475,
+      "grossSize": 1770,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 12,
+      "floor": 13,
+      "totalFloors": 5,
+      "heating": "Kombi",
+      "furnishing": "Furnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500079251256?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500567471814?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500675169665?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500822132248?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500226269539?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500415691522?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500476480362?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500537086641?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500376691053?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500075408704?w=800&q=80&category=house"
+    ],
+    "agent": {
+      "id": "A86",
+      "name": "Agent 10",
+      "phone": "+35 780 326 4521",
+      "email": "agent14@iwrealty.com",
+      "photo": "/images/icons/png/sydney-coastal-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-10-28T10:50:47.222Z",
+    "updatedAt": "2025-11-13T10:50:47.222Z",
+    "storeId": "store-012"
+  },
+  {
+    "id": "P04254",
+    "type": "rent",
+    "category": {
+      "main": "commercial",
+      "sub": "restaurant"
+    },
+    "title": "Kiralık Restoran - New Israel",
+    "slug": "kiralik-restoran-new-israel-P04254",
+    "description": "New Israel, Israel bölgesinde restoran. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 7227480,
+    "location": {
+      "country": "IL",
+      "city": "New Israel",
+      "district": "New Israel Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 529",
+      "coordinates": {
+        "lat": 31.394628706785113,
+        "lng": 35.26048432211326
+      }
+    },
+    "specs": {
+      "netSize": 286,
+      "grossSize": 343,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 8,
+      "floor": 15,
+      "totalFloors": 12,
+      "heating": "Merkezi",
+      "furnishing": "Unfurnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500355169556?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500641863992?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500849406960?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500054483425?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500115999902?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500537187383?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500130811455?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500615475868?w=800&q=80&category=building"
+    ],
+    "agent": {
+      "id": "A12",
+      "name": "Agent 16",
+      "phone": "+60 507 572 9582",
+      "email": "agent98@iwrealty.com",
+      "photo": "/images/icons/png/sg-harbour-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": true,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-02-16T10:50:47.222Z",
+    "updatedAt": "2025-11-13T10:50:47.222Z",
+    "storeId": "store-011"
+  },
+  {
+    "id": "P04255",
+    "type": "sale",
+    "category": {
+      "main": "commercial",
+      "sub": "warehouse"
+    },
+    "title": "Satılık Depo - New Israel",
+    "slug": "satilik-depo-new-israel-P04255",
+    "description": "New Israel, Israel bölgesinde depo. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 12106698,
+    "location": {
+      "country": "IL",
+      "city": "New Israel",
+      "district": "New Israel Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 363",
+      "coordinates": {
+        "lat": 31.92378349944781,
+        "lng": 35.604913026269266
+      }
+    },
+    "specs": {
+      "netSize": 2712,
+      "grossSize": 3254,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 1,
+      "floor": 9,
+      "totalFloors": 11,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Furnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500951733995?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500218136281?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500141570518?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500066556301?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500501261522?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500641218104?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500747463996?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500971356740?w=800&q=80&category=architecture"
+    ],
+    "agent": {
+      "id": "A68",
+      "name": "Agent 43",
+      "phone": "+35 583 561 8580",
+      "email": "agent75@iwrealty.com",
+      "photo": "/images/icons/png/ankara-modern-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": false,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-05-17T10:50:47.222Z",
+    "updatedAt": "2025-11-13T10:50:47.222Z",
+    "storeId": "store-003"
+  },
+  {
+    "id": "P04256",
+    "type": "rent",
+    "category": {
+      "main": "commercial",
+      "sub": "warehouse"
+    },
+    "title": "Kiralık Depo - Israel Central",
+    "slug": "kiralik-depo-israel-central-P04256",
+    "description": "Israel Central, Israel bölgesinde depo. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 16073667,
+    "location": {
+      "country": "IL",
+      "city": "Israel Central",
+      "district": "Israel Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 218",
+      "coordinates": {
+        "lat": 31.469303842126898,
+        "lng": 34.89796842143332
+      }
+    },
+    "specs": {
+      "netSize": 2299,
+      "grossSize": 2759,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 2,
+      "floor": 8,
+      "totalFloors": 12,
+      "heating": "Kombi",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500637589868?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500304616325?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500787102010?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500118050347?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500380245875?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500306229583?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500361790519?w=800&q=80&category=real-estate"
+    ],
+    "agent": {
+      "id": "A93",
+      "name": "Agent 47",
+      "phone": "+78 494 510 9030",
+      "email": "agent75@iwrealty.com",
+      "photo": "/images/icons/png/berlin-urban-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-04-10T10:50:47.222Z",
+    "updatedAt": "2025-11-13T10:50:47.222Z",
+    "storeId": "store-009"
+  }
+]

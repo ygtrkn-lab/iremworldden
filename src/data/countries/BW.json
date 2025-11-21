@@ -1,0 +1,2339 @@
+[
+  {
+    "id": "P01445",
+    "type": "sale",
+    "category": {
+      "main": "government"
+    },
+    "title": "Satılık Belediye Binası - Botswana Central",
+    "slug": "satilik-belediye-binası-botswana-central-P01445",
+    "description": "Botswana Central, Botswana bölgesinde belediye binası. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 16311355,
+    "location": {
+      "country": "BW",
+      "city": "Botswana Central",
+      "district": "Botswana Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 991",
+      "coordinates": {
+        "lat": -21.605595540115907,
+        "lng": 23.758918454109907
+      }
+    },
+    "specs": {
+      "netSize": 4102,
+      "grossSize": 4922,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 13,
+      "floor": 4,
+      "totalFloors": 6,
+      "heating": "Merkezi",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500839026453?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500456349177?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500305566240?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500678352585?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500887811093?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500533925289?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500338784871?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500002027765?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500953149411?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500075006813?w=800&q=80&category=house"
+    ],
+    "agent": {
+      "id": "A4",
+      "name": "Agent 59",
+      "phone": "+69 891 629 4623",
+      "email": "agent12@iwrealty.com",
+      "photo": "/images/icons/png/sydney-coastal-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-01-14T10:50:47.193Z",
+    "updatedAt": "2025-11-13T10:50:47.193Z",
+    "storeId": "store-012"
+  },
+  {
+    "id": "P01446",
+    "type": "rent",
+    "category": {
+      "main": "government"
+    },
+    "title": "Kiralık Hastane - New Botswana",
+    "slug": "kiralik-hastane-new-botswana-P01446",
+    "description": "New Botswana, Botswana bölgesinde hastane. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 39512433,
+    "location": {
+      "country": "BW",
+      "city": "New Botswana",
+      "district": "New Botswana Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 642",
+      "coordinates": {
+        "lat": -21.928027137509,
+        "lng": 23.60988902730478
+      }
+    },
+    "specs": {
+      "netSize": 2600,
+      "grossSize": 3120,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 17,
+      "floor": 9,
+      "totalFloors": 8,
+      "heating": "Kombi",
+      "furnishing": "Furnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500841045039?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500076931158?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500766534816?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500059388670?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500323580400?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500874144784?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500920027380?w=800&q=80&category=building"
+    ],
+    "agent": {
+      "id": "A4",
+      "name": "Agent 60",
+      "phone": "+45 877 536 2984",
+      "email": "agent4@iwrealty.com",
+      "photo": "/images/icons/png/sydney-coastal-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-09-02T10:50:47.193Z",
+    "updatedAt": "2025-11-13T10:50:47.193Z",
+    "storeId": "store-012"
+  },
+  {
+    "id": "P01447",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Daire - Botswana City",
+    "slug": "satilik-daire-botswana-city-P01447",
+    "description": "Botswana City, Botswana bölgesinde daire. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 13947820,
+    "location": {
+      "country": "BW",
+      "city": "Botswana City",
+      "district": "Botswana City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 702",
+      "coordinates": {
+        "lat": -21.7196079752457,
+        "lng": 24.483463510217412
+      }
+    },
+    "specs": {
+      "netSize": 452,
+      "grossSize": 542,
+      "rooms": "4+1",
+      "bathrooms": 2,
+      "age": 18,
+      "floor": 12,
+      "totalFloors": 5,
+      "heating": "Kombi",
+      "furnishing": "Furnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500609088244?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500037263374?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500267800534?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500637618685?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500141068894?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500651869448?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500460572528?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500760203176?w=800&q=80&category=interior"
+    ],
+    "agent": {
+      "id": "A85",
+      "name": "Agent 46",
+      "phone": "+92 690 850 1832",
+      "email": "agent86@iwrealty.com",
+      "photo": "/images/icons/png/sg-harbour-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-05-26T10:50:47.193Z",
+    "updatedAt": "2025-11-13T10:50:47.193Z",
+    "storeId": "store-011"
+  },
+  {
+    "id": "P01448",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Villa - Botswana City",
+    "slug": "kiralik-villa-botswana-city-P01448",
+    "description": "Botswana City, Botswana bölgesinde villa. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 8720145,
+    "location": {
+      "country": "BW",
+      "city": "Botswana City",
+      "district": "Botswana City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 898",
+      "coordinates": {
+        "lat": -21.5454625547619,
+        "lng": 23.529675233041882
+      }
+    },
+    "specs": {
+      "netSize": 116,
+      "grossSize": 139,
+      "rooms": "2+0",
+      "bathrooms": 2,
+      "age": 10,
+      "floor": 10,
+      "totalFloors": 18,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500524544195?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500309955100?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500793650169?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500510752068?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500214496294?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500375324492?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500295614653?w=800&q=80&category=house"
+    ],
+    "agent": {
+      "id": "A79",
+      "name": "Agent 56",
+      "phone": "+63 246 749 6672",
+      "email": "agent34@iwrealty.com",
+      "photo": "/images/icons/png/ankara-modern-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-06-11T10:50:47.193Z",
+    "updatedAt": "2025-11-13T10:50:47.193Z",
+    "storeId": "store-003"
+  },
+  {
+    "id": "P01449",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Villa - Gaborone",
+    "slug": "satilik-villa-gaborone-P01449",
+    "description": "Gaborone, Botswana bölgesinde villa. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 1255294,
+    "location": {
+      "country": "BW",
+      "city": "Gaborone",
+      "district": "Gaborone Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 685",
+      "coordinates": {
+        "lat": -22.02359320168606,
+        "lng": 24.278084536683
+      }
+    },
+    "specs": {
+      "netSize": 325,
+      "grossSize": 390,
+      "rooms": "2+0",
+      "bathrooms": 2,
+      "age": 7,
+      "floor": 7,
+      "totalFloors": 20,
+      "heating": "Klima",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500269839895?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500104983153?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500559677320?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500324803731?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500522403867?w=800&q=80&category=building"
+    ],
+    "agent": {
+      "id": "A23",
+      "name": "Agent 82",
+      "phone": "+72 724 552 3772",
+      "email": "agent58@iwrealty.com",
+      "photo": "/images/icons/png/sydney-coastal-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-11-03T10:50:47.193Z",
+    "updatedAt": "2025-11-13T10:50:47.193Z",
+    "storeId": "store-012"
+  },
+  {
+    "id": "P01450",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Müstakil Ev - Gaborone",
+    "slug": "kiralik-müstakil-ev-gaborone-P01450",
+    "description": "Gaborone, Botswana bölgesinde müstakil ev. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 14728365,
+    "location": {
+      "country": "BW",
+      "city": "Gaborone",
+      "district": "Gaborone Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 956",
+      "coordinates": {
+        "lat": -21.989602961770746,
+        "lng": 23.998166937915965
+      }
+    },
+    "specs": {
+      "netSize": 428,
+      "grossSize": 514,
+      "rooms": "3+2",
+      "bathrooms": 3,
+      "age": 5,
+      "floor": 6,
+      "totalFloors": 12,
+      "heating": "Klima",
+      "furnishing": "Furnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500433551354?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500299895284?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500919137406?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500594116229?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500615431163?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500534550552?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500368537421?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500930221555?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500966053828?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500831115992?w=800&q=80&category=real-estate"
+    ],
+    "agent": {
+      "id": "A26",
+      "name": "Agent 10",
+      "phone": "+92 698 619 8836",
+      "email": "agent22@iwrealty.com",
+      "photo": "/images/icons/png/berlin-urban-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-05-24T10:50:47.193Z",
+    "updatedAt": "2025-11-13T10:50:47.193Z",
+    "storeId": "store-009"
+  },
+  {
+    "id": "P01451",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Daire - New Botswana",
+    "slug": "satilik-daire-new-botswana-P01451",
+    "description": "New Botswana, Botswana bölgesinde daire. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 14665836,
+    "location": {
+      "country": "BW",
+      "city": "New Botswana",
+      "district": "New Botswana Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 44",
+      "coordinates": {
+        "lat": -21.64472024730432,
+        "lng": 23.989550242279986
+      }
+    },
+    "specs": {
+      "netSize": 375,
+      "grossSize": 450,
+      "rooms": "4+1",
+      "bathrooms": 2,
+      "age": 3,
+      "floor": 7,
+      "totalFloors": 12,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Furnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500570881963?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500045236095?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500479688189?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500392261620?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500185930166?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500568238863?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500984004560?w=800&q=80&category=building"
+    ],
+    "agent": {
+      "id": "A83",
+      "name": "Agent 40",
+      "phone": "+83 234 535 8637",
+      "email": "agent78@iwrealty.com",
+      "photo": "/images/icons/png/ankara-modern-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-07-28T10:50:47.193Z",
+    "updatedAt": "2025-11-13T10:50:47.193Z",
+    "storeId": "store-003"
+  },
+  {
+    "id": "P01452",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Daire - Botswana City",
+    "slug": "kiralik-daire-botswana-city-P01452",
+    "description": "Botswana City, Botswana bölgesinde daire. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 3607282,
+    "location": {
+      "country": "BW",
+      "city": "Botswana City",
+      "district": "Botswana City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 228",
+      "coordinates": {
+        "lat": -21.64880894288747,
+        "lng": 24.286992059957154
+      }
+    },
+    "specs": {
+      "netSize": 480,
+      "grossSize": 576,
+      "rooms": "4+2",
+      "bathrooms": 4,
+      "age": 1,
+      "floor": 2,
+      "totalFloors": 15,
+      "heating": "Kombi",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500180971198?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500188537254?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500105832629?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500659841613?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500761439722?w=800&q=80&category=house"
+    ],
+    "agent": {
+      "id": "A12",
+      "name": "Agent 73",
+      "phone": "+74 571 747 6994",
+      "email": "agent14@iwrealty.com",
+      "photo": "/images/icons/png/paris-heritage-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-06-28T10:50:47.193Z",
+    "updatedAt": "2025-11-13T10:50:47.193Z",
+    "storeId": "store-010"
+  },
+  {
+    "id": "P01453",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Daire - Botswana Central",
+    "slug": "satilik-daire-botswana-central-P01453",
+    "description": "Botswana Central, Botswana bölgesinde daire. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 12138100,
+    "location": {
+      "country": "BW",
+      "city": "Botswana Central",
+      "district": "Botswana Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 937",
+      "coordinates": {
+        "lat": -22.0424286970948,
+        "lng": 24.487924871663452
+      }
+    },
+    "specs": {
+      "netSize": 478,
+      "grossSize": 574,
+      "rooms": "2+0",
+      "bathrooms": 1,
+      "age": 1,
+      "floor": 12,
+      "totalFloors": 20,
+      "heating": "Merkezi",
+      "furnishing": "Unfurnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500492504929?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500418965631?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500287439284?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500825122641?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500860726017?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500800165441?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500107904601?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500330439934?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500196227823?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500138132037?w=800&q=80&category=architecture"
+    ],
+    "agent": {
+      "id": "A47",
+      "name": "Agent 21",
+      "phone": "+27 142 420 7269",
+      "email": "agent67@iwrealty.com",
+      "photo": "/images/icons/png/ankara-modern-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-06-17T10:50:47.193Z",
+    "updatedAt": "2025-11-13T10:50:47.193Z",
+    "storeId": "store-003"
+  },
+  {
+    "id": "P01454",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Müstakil Ev - Botswana City",
+    "slug": "kiralik-müstakil-ev-botswana-city-P01454",
+    "description": "Botswana City, Botswana bölgesinde müstakil ev. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 1133829,
+    "location": {
+      "country": "BW",
+      "city": "Botswana City",
+      "district": "Botswana City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 124",
+      "coordinates": {
+        "lat": -22.37685281930482,
+        "lng": 24.1446191979965
+      }
+    },
+    "specs": {
+      "netSize": 277,
+      "grossSize": 332,
+      "rooms": "3+2",
+      "bathrooms": 1,
+      "age": 16,
+      "floor": 6,
+      "totalFloors": 11,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Unfurnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500899579592?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500180779160?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500696395654?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500229850686?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500555988353?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500151506732?w=800&q=80&category=interior"
+    ],
+    "agent": {
+      "id": "A66",
+      "name": "Agent 20",
+      "phone": "+69 667 635 4022",
+      "email": "agent35@iwrealty.com",
+      "photo": "/images/icons/png/sydney-coastal-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": false,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-01-15T10:50:47.193Z",
+    "updatedAt": "2025-11-13T10:50:47.193Z",
+    "storeId": "store-012"
+  },
+  {
+    "id": "P01455",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Müstakil Ev - Gaborone",
+    "slug": "satilik-müstakil-ev-gaborone-P01455",
+    "description": "Gaborone, Botswana bölgesinde müstakil ev. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 5110831,
+    "location": {
+      "country": "BW",
+      "city": "Gaborone",
+      "district": "Gaborone Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 798",
+      "coordinates": {
+        "lat": -22.275348459551292,
+        "lng": 24.269736782630282
+      }
+    },
+    "specs": {
+      "netSize": 444,
+      "grossSize": 533,
+      "rooms": "3+2",
+      "bathrooms": 3,
+      "age": 2,
+      "floor": 9,
+      "totalFloors": 18,
+      "heating": "Kombi",
+      "furnishing": "Unfurnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500386841042?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500998951815?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500926632143?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500080926777?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500316921259?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500653375282?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500960058780?w=800&q=80&category=house"
+    ],
+    "agent": {
+      "id": "A21",
+      "name": "Agent 93",
+      "phone": "+85 568 694 1314",
+      "email": "agent13@iwrealty.com",
+      "photo": "/images/icons/png/dubai-property-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2024-12-17T10:50:47.193Z",
+    "updatedAt": "2025-11-13T10:50:47.193Z",
+    "storeId": "store-004"
+  },
+  {
+    "id": "P01456",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Residence - Botswana Central",
+    "slug": "kiralik-residence-botswana-central-P01456",
+    "description": "Botswana Central, Botswana bölgesinde residence. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 6774580,
+    "location": {
+      "country": "BW",
+      "city": "Botswana Central",
+      "district": "Botswana Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 74",
+      "coordinates": {
+        "lat": -21.81248592733831,
+        "lng": 23.746365709742285
+      }
+    },
+    "specs": {
+      "netSize": 425,
+      "grossSize": 510,
+      "rooms": "4+2",
+      "bathrooms": 4,
+      "age": 0,
+      "floor": 11,
+      "totalFloors": 19,
+      "heating": "Klima",
+      "furnishing": "Unfurnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500397193174?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500707564827?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500693331089?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500656696964?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500866550203?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500020785319?w=800&q=80&category=real-estate"
+    ],
+    "agent": {
+      "id": "A71",
+      "name": "Agent 95",
+      "phone": "+40 904 915 5882",
+      "email": "agent53@iwrealty.com",
+      "photo": "/images/icons/png/ankara-modern-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-06-08T10:50:47.193Z",
+    "updatedAt": "2025-11-13T10:50:47.193Z",
+    "storeId": "store-003"
+  },
+  {
+    "id": "P01457",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Daire - New Botswana",
+    "slug": "satilik-daire-new-botswana-P01457",
+    "description": "New Botswana, Botswana bölgesinde daire. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 4675866,
+    "location": {
+      "country": "BW",
+      "city": "New Botswana",
+      "district": "New Botswana Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 793",
+      "coordinates": {
+        "lat": -21.618086787014636,
+        "lng": 24.129308322190976
+      }
+    },
+    "specs": {
+      "netSize": 322,
+      "grossSize": 386,
+      "rooms": "3+1",
+      "bathrooms": 4,
+      "age": 6,
+      "floor": 8,
+      "totalFloors": 7,
+      "heating": "Kombi",
+      "furnishing": "Unfurnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500995284808?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500979666193?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500558194364?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500877628475?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500619342948?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500746615578?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500117167602?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500604724936?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500234052247?w=800&q=80&category=architecture"
+    ],
+    "agent": {
+      "id": "A96",
+      "name": "Agent 17",
+      "phone": "+69 782 973 8294",
+      "email": "agent63@iwrealty.com",
+      "photo": "/images/icons/png/luxury-homes-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": false,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": true,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-06-17T10:50:47.193Z",
+    "updatedAt": "2025-11-13T10:50:47.193Z",
+    "storeId": "store-002"
+  },
+  {
+    "id": "P01458",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Residence - New Botswana",
+    "slug": "kiralik-residence-new-botswana-P01458",
+    "description": "New Botswana, Botswana bölgesinde residence. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 4347578,
+    "location": {
+      "country": "BW",
+      "city": "New Botswana",
+      "district": "New Botswana Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 459",
+      "coordinates": {
+        "lat": -21.71271512198979,
+        "lng": 23.981055975462365
+      }
+    },
+    "specs": {
+      "netSize": 375,
+      "grossSize": 450,
+      "rooms": "4+2",
+      "bathrooms": 2,
+      "age": 20,
+      "floor": 6,
+      "totalFloors": 16,
+      "heating": "Klima",
+      "furnishing": "Furnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500563101805?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500823415880?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500618690021?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500942557593?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500730034606?w=800&q=80&category=interior"
+    ],
+    "agent": {
+      "id": "A94",
+      "name": "Agent 90",
+      "phone": "+68 502 450 7415",
+      "email": "agent27@iwrealty.com",
+      "photo": "/images/icons/png/dubai-property-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-10-27T10:50:47.193Z",
+    "updatedAt": "2025-11-13T10:50:47.193Z",
+    "storeId": "store-004"
+  },
+  {
+    "id": "P01459",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Villa - New Botswana",
+    "slug": "satilik-villa-new-botswana-P01459",
+    "description": "New Botswana, Botswana bölgesinde villa. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 7225076,
+    "location": {
+      "country": "BW",
+      "city": "New Botswana",
+      "district": "New Botswana Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 714",
+      "coordinates": {
+        "lat": -22.074233537229368,
+        "lng": 24.11593045281962
+      }
+    },
+    "specs": {
+      "netSize": 472,
+      "grossSize": 566,
+      "rooms": "5+1",
+      "bathrooms": 2,
+      "age": 18,
+      "floor": 12,
+      "totalFloors": 12,
+      "heating": "Merkezi",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500629565856?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500395461205?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500285474824?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500942250193?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500373869279?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500382123424?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500353437047?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500936788667?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500009278008?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500868501352?w=800&q=80&category=interior"
+    ],
+    "agent": {
+      "id": "A25",
+      "name": "Agent 89",
+      "phone": "+37 161 134 4856",
+      "email": "agent70@iwrealty.com",
+      "photo": "/images/icons/png/luxury-homes-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": true,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-05-24T10:50:47.193Z",
+    "updatedAt": "2025-11-13T10:50:47.193Z",
+    "storeId": "store-002"
+  },
+  {
+    "id": "P01460",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Villa - Botswana Central",
+    "slug": "kiralik-villa-botswana-central-P01460",
+    "description": "Botswana Central, Botswana bölgesinde villa. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 5125830,
+    "location": {
+      "country": "BW",
+      "city": "Botswana Central",
+      "district": "Botswana Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 199",
+      "coordinates": {
+        "lat": -22.095742139091914,
+        "lng": 24.019760098058352
+      }
+    },
+    "specs": {
+      "netSize": 219,
+      "grossSize": 263,
+      "rooms": "2+2",
+      "bathrooms": 3,
+      "age": 0,
+      "floor": 4,
+      "totalFloors": 17,
+      "heating": "Kombi",
+      "furnishing": "Furnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500267680284?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500706581202?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500518950053?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500739858888?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500230853891?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500218916948?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500630130504?w=800&q=80&category=architecture"
+    ],
+    "agent": {
+      "id": "A85",
+      "name": "Agent 13",
+      "phone": "+57 480 771 2070",
+      "email": "agent18@iwrealty.com",
+      "photo": "/images/icons/png/ny-skyline-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": false,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-04-27T10:50:47.193Z",
+    "updatedAt": "2025-11-13T10:50:47.193Z",
+    "storeId": "store-008"
+  },
+  {
+    "id": "P01461",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Residence - Botswana City",
+    "slug": "satilik-residence-botswana-city-P01461",
+    "description": "Botswana City, Botswana bölgesinde residence. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 14836345,
+    "location": {
+      "country": "BW",
+      "city": "Botswana City",
+      "district": "Botswana City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 486",
+      "coordinates": {
+        "lat": -22.18072656603283,
+        "lng": 24.105226729653335
+      }
+    },
+    "specs": {
+      "netSize": 83,
+      "grossSize": 100,
+      "rooms": "5+1",
+      "bathrooms": 1,
+      "age": 20,
+      "floor": 15,
+      "totalFloors": 19,
+      "heating": "Merkezi",
+      "furnishing": "Unfurnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500839225702?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500129197573?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500696637246?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500670570814?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500552684535?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500327599089?w=800&q=80&category=architecture"
+    ],
+    "agent": {
+      "id": "A32",
+      "name": "Agent 91",
+      "phone": "+31 758 560 4795",
+      "email": "agent45@iwrealty.com",
+      "photo": "/images/icons/png/london-prime-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-02-06T10:50:47.193Z",
+    "updatedAt": "2025-11-13T10:50:47.193Z",
+    "storeId": "store-007"
+  },
+  {
+    "id": "P01462",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Residence - Botswana City",
+    "slug": "kiralik-residence-botswana-city-P01462",
+    "description": "Botswana City, Botswana bölgesinde residence. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 13012060,
+    "location": {
+      "country": "BW",
+      "city": "Botswana City",
+      "district": "Botswana City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 111",
+      "coordinates": {
+        "lat": -21.605740456988215,
+        "lng": 23.650818137373058
+      }
+    },
+    "specs": {
+      "netSize": 490,
+      "grossSize": 588,
+      "rooms": "4+2",
+      "bathrooms": 3,
+      "age": 5,
+      "floor": 13,
+      "totalFloors": 17,
+      "heating": "Merkezi",
+      "furnishing": "Furnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500519178787?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500416103825?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500917863599?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500255062748?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500796000194?w=800&q=80&category=house"
+    ],
+    "agent": {
+      "id": "A59",
+      "name": "Agent 39",
+      "phone": "+17 756 578 4763",
+      "email": "agent75@iwrealty.com",
+      "photo": "/images/icons/png/berlin-urban-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": true,
+      "hasSecurity": false
+    },
+    "createdAt": "2024-11-14T10:50:47.193Z",
+    "updatedAt": "2025-11-13T10:50:47.193Z",
+    "storeId": "store-009"
+  },
+  {
+    "id": "P01463",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Müstakil Ev - Botswana Central",
+    "slug": "satilik-müstakil-ev-botswana-central-P01463",
+    "description": "Botswana Central, Botswana bölgesinde müstakil ev. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 3150367,
+    "location": {
+      "country": "BW",
+      "city": "Botswana Central",
+      "district": "Botswana Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 805",
+      "coordinates": {
+        "lat": -22.354891713447913,
+        "lng": 24.000013011633936
+      }
+    },
+    "specs": {
+      "netSize": 296,
+      "grossSize": 355,
+      "rooms": "1+2",
+      "bathrooms": 1,
+      "age": 11,
+      "floor": 15,
+      "totalFloors": 8,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500112285509?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500227396219?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500833384844?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500369238241?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500549914378?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500434004082?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500660683179?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500404443399?w=800&q=80&category=real-estate"
+    ],
+    "agent": {
+      "id": "A40",
+      "name": "Agent 44",
+      "phone": "+34 321 995 8986",
+      "email": "agent94@iwrealty.com",
+      "photo": "/images/icons/png/ny-skyline-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-10-07T10:50:47.193Z",
+    "updatedAt": "2025-11-13T10:50:47.193Z",
+    "storeId": "store-008"
+  },
+  {
+    "id": "P01464",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Daire - Gaborone",
+    "slug": "kiralik-daire-gaborone-P01464",
+    "description": "Gaborone, Botswana bölgesinde daire. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 10345726,
+    "location": {
+      "country": "BW",
+      "city": "Gaborone",
+      "district": "Gaborone Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 804",
+      "coordinates": {
+        "lat": -21.990193918091627,
+        "lng": 24.07837156639902
+      }
+    },
+    "specs": {
+      "netSize": 211,
+      "grossSize": 253,
+      "rooms": "4+2",
+      "bathrooms": 3,
+      "age": 12,
+      "floor": 1,
+      "totalFloors": 8,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Furnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500085246463?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500695802042?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500144105273?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500932328036?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500386663967?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500134189493?w=800&q=80&category=house"
+    ],
+    "agent": {
+      "id": "A56",
+      "name": "Agent 64",
+      "phone": "+76 353 717 7554",
+      "email": "agent44@iwrealty.com",
+      "photo": "/images/icons/png/paris-heritage-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": false,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-05-27T10:50:47.193Z",
+    "updatedAt": "2025-11-13T10:50:47.193Z",
+    "storeId": "store-010"
+  },
+  {
+    "id": "P01465",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Müstakil Ev - Gaborone",
+    "slug": "satilik-müstakil-ev-gaborone-P01465",
+    "description": "Gaborone, Botswana bölgesinde müstakil ev. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 12691819,
+    "location": {
+      "country": "BW",
+      "city": "Gaborone",
+      "district": "Gaborone Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 162",
+      "coordinates": {
+        "lat": -22.444309855773568,
+        "lng": 23.568227058444208
+      }
+    },
+    "specs": {
+      "netSize": 111,
+      "grossSize": 133,
+      "rooms": "1+1",
+      "bathrooms": 4,
+      "age": 12,
+      "floor": 14,
+      "totalFloors": 11,
+      "heating": "Merkezi",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500718949764?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500622514754?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500195711581?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500597211140?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500737372563?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500514876920?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500111450004?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500745850782?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500499839352?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500315615776?w=800&q=80&category=house"
+    ],
+    "agent": {
+      "id": "A56",
+      "name": "Agent 47",
+      "phone": "+38 423 531 6433",
+      "email": "agent4@iwrealty.com",
+      "photo": "/images/icons/png/london-prime-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": false,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": true,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-07-05T10:50:47.193Z",
+    "updatedAt": "2025-11-13T10:50:47.193Z",
+    "storeId": "store-007"
+  },
+  {
+    "id": "P01466",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Villa - New Botswana",
+    "slug": "kiralik-villa-new-botswana-P01466",
+    "description": "New Botswana, Botswana bölgesinde villa. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 11273354,
+    "location": {
+      "country": "BW",
+      "city": "New Botswana",
+      "district": "New Botswana Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 213",
+      "coordinates": {
+        "lat": -21.768169706008305,
+        "lng": 24.064627213306615
+      }
+    },
+    "specs": {
+      "netSize": 264,
+      "grossSize": 317,
+      "rooms": "3+0",
+      "bathrooms": 2,
+      "age": 2,
+      "floor": 4,
+      "totalFloors": 9,
+      "heating": "Merkezi",
+      "furnishing": "Furnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500221758553?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500509784542?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500941431784?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500211364881?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500508860217?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500334192179?w=800&q=80&category=building"
+    ],
+    "agent": {
+      "id": "A55",
+      "name": "Agent 41",
+      "phone": "+73 932 228 4561",
+      "email": "agent81@iwrealty.com",
+      "photo": "/images/icons/png/izmir-sahil-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": true,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-02-08T10:50:47.193Z",
+    "updatedAt": "2025-11-13T10:50:47.193Z",
+    "storeId": "store-005"
+  },
+  {
+    "id": "P01467",
+    "type": "sale",
+    "category": {
+      "main": "commercial",
+      "sub": "hospital"
+    },
+    "title": "Satılık Hastane - Botswana City",
+    "slug": "satilik-hastane-botswana-city-P01467",
+    "description": "Botswana City, Botswana bölgesinde hastane. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 89606702,
+    "location": {
+      "country": "BW",
+      "city": "Botswana City",
+      "district": "Botswana City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 54",
+      "coordinates": {
+        "lat": -22.12580525191599,
+        "lng": 23.683622212971144
+      }
+    },
+    "specs": {
+      "netSize": 14589,
+      "grossSize": 17507,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 7,
+      "floor": 12,
+      "totalFloors": 17,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500995303907?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500860893035?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500430237061?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500824150124?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500160031213?w=800&q=80&category=interior"
+    ],
+    "agent": {
+      "id": "A12",
+      "name": "Agent 41",
+      "phone": "+72 941 744 6425",
+      "email": "agent18@iwrealty.com",
+      "photo": "/images/icons/png/ny-skyline-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2024-12-14T10:50:47.193Z",
+    "updatedAt": "2025-11-13T10:50:47.193Z",
+    "storeId": "store-008"
+  },
+  {
+    "id": "P01468",
+    "type": "rent",
+    "category": {
+      "main": "commercial",
+      "sub": "hospital"
+    },
+    "title": "Kiralık Hastane - Gaborone",
+    "slug": "kiralik-hastane-gaborone-P01468",
+    "description": "Gaborone, Botswana bölgesinde hastane. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 87440022,
+    "location": {
+      "country": "BW",
+      "city": "Gaborone",
+      "district": "Gaborone Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 253",
+      "coordinates": {
+        "lat": -21.77614973798712,
+        "lng": 23.591296532360403
+      }
+    },
+    "specs": {
+      "netSize": 10740,
+      "grossSize": 12888,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 2,
+      "floor": 4,
+      "totalFloors": 15,
+      "heating": "Merkezi",
+      "furnishing": "Unfurnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500144296199?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500432096336?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500177434566?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500550276817?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500574425481?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500000932517?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500331180431?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500152997113?w=800&q=80&category=real-estate"
+    ],
+    "agent": {
+      "id": "A78",
+      "name": "Agent 49",
+      "phone": "+84 755 793 1120",
+      "email": "agent76@iwrealty.com",
+      "photo": "/images/icons/png/berlin-urban-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": true,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-10-17T10:50:47.193Z",
+    "updatedAt": "2025-11-13T10:50:47.193Z",
+    "storeId": "store-009"
+  },
+  {
+    "id": "P01469",
+    "type": "sale",
+    "category": {
+      "main": "commercial",
+      "sub": "clinic"
+    },
+    "title": "Satılık Klinik - Botswana City",
+    "slug": "satilik-klinik-botswana-city-P01469",
+    "description": "Botswana City, Botswana bölgesinde klinik. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 6884684,
+    "location": {
+      "country": "BW",
+      "city": "Botswana City",
+      "district": "Botswana City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 395",
+      "coordinates": {
+        "lat": -21.937469508815838,
+        "lng": 23.512752593223862
+      }
+    },
+    "specs": {
+      "netSize": 327,
+      "grossSize": 392,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 12,
+      "floor": 2,
+      "totalFloors": 7,
+      "heating": "Kombi",
+      "furnishing": "Unfurnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500214250301?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500929301533?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500895765373?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500125361680?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500100847031?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500678382523?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500738527578?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500874628989?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500119651514?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500513183161?w=800&q=80&category=real-estate"
+    ],
+    "agent": {
+      "id": "A43",
+      "name": "Agent 42",
+      "phone": "+71 693 382 9634",
+      "email": "agent7@iwrealty.com",
+      "photo": "/images/icons/png/ny-skyline-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": false,
+      "hasBalcony": false,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-04-25T10:50:47.193Z",
+    "updatedAt": "2025-11-13T10:50:47.193Z",
+    "storeId": "store-008"
+  },
+  {
+    "id": "P01470",
+    "type": "rent",
+    "category": {
+      "main": "commercial",
+      "sub": "clinic"
+    },
+    "title": "Kiralık Klinik - Botswana City",
+    "slug": "kiralik-klinik-botswana-city-P01470",
+    "description": "Botswana City, Botswana bölgesinde klinik. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 17692299,
+    "location": {
+      "country": "BW",
+      "city": "Botswana City",
+      "district": "Botswana City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 172",
+      "coordinates": {
+        "lat": -22.307664482784407,
+        "lng": 23.542715262571758
+      }
+    },
+    "specs": {
+      "netSize": 1411,
+      "grossSize": 1693,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 20,
+      "floor": 4,
+      "totalFloors": 8,
+      "heating": "Kombi",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500410614081?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500751026175?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500968465226?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500779360274?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500228524608?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500078714179?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500261528198?w=800&q=80&category=real-estate"
+    ],
+    "agent": {
+      "id": "A83",
+      "name": "Agent 80",
+      "phone": "+73 965 134 4702",
+      "email": "agent16@iwrealty.com",
+      "photo": "/images/icons/png/dubai-property-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": false,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": true,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-02-04T10:50:47.193Z",
+    "updatedAt": "2025-11-13T10:50:47.193Z",
+    "storeId": "store-004"
+  },
+  {
+    "id": "P01471",
+    "type": "sale",
+    "category": {
+      "main": "commercial",
+      "sub": "shop"
+    },
+    "title": "Satılık Dükkan - Gaborone",
+    "slug": "satilik-dükkan-gaborone-P01471",
+    "description": "Gaborone, Botswana bölgesinde dükkan. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 1450430,
+    "location": {
+      "country": "BW",
+      "city": "Gaborone",
+      "district": "Gaborone Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 286",
+      "coordinates": {
+        "lat": -22.11956341819987,
+        "lng": 24.08258221694308
+      }
+    },
+    "specs": {
+      "netSize": 128,
+      "grossSize": 154,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 10,
+      "floor": 13,
+      "totalFloors": 9,
+      "heating": "Klima",
+      "furnishing": "Unfurnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500300570378?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500081851768?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500954909662?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500930838412?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500984944318?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500047027346?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500948317863?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500284076526?w=800&q=80&category=interior"
+    ],
+    "agent": {
+      "id": "A39",
+      "name": "Agent 30",
+      "phone": "+15 171 521 4136",
+      "email": "agent36@iwrealty.com",
+      "photo": "/images/icons/png/paris-heritage-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": false,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-09-17T10:50:47.193Z",
+    "updatedAt": "2025-11-13T10:50:47.193Z",
+    "storeId": "store-010"
+  },
+  {
+    "id": "P01472",
+    "type": "rent",
+    "category": {
+      "main": "commercial",
+      "sub": "shop"
+    },
+    "title": "Kiralık Dükkan - Gaborone",
+    "slug": "kiralik-dükkan-gaborone-P01472",
+    "description": "Gaborone, Botswana bölgesinde dükkan. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 1588652,
+    "location": {
+      "country": "BW",
+      "city": "Gaborone",
+      "district": "Gaborone Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 540",
+      "coordinates": {
+        "lat": -21.50551579394477,
+        "lng": 23.59275080311304
+      }
+    },
+    "specs": {
+      "netSize": 402,
+      "grossSize": 482,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 4,
+      "floor": 9,
+      "totalFloors": 9,
+      "heating": "Merkezi",
+      "furnishing": "Furnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500021716471?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500664364059?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500779027116?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500486155253?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500094889319?w=800&q=80&category=building"
+    ],
+    "agent": {
+      "id": "A79",
+      "name": "Agent 61",
+      "phone": "+77 869 171 7805",
+      "email": "agent99@iwrealty.com",
+      "photo": "/images/icons/png/sg-harbour-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-08-07T10:50:47.193Z",
+    "updatedAt": "2025-11-13T10:50:47.193Z",
+    "storeId": "store-011"
+  },
+  {
+    "id": "P01473",
+    "type": "sale",
+    "category": {
+      "main": "commercial",
+      "sub": "office"
+    },
+    "title": "Satılık Ofis - Botswana City",
+    "slug": "satilik-ofis-botswana-city-P01473",
+    "description": "Botswana City, Botswana bölgesinde ofis. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 3834754,
+    "location": {
+      "country": "BW",
+      "city": "Botswana City",
+      "district": "Botswana City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 421",
+      "coordinates": {
+        "lat": -21.893276281477252,
+        "lng": 23.762810244866046
+      }
+    },
+    "specs": {
+      "netSize": 802,
+      "grossSize": 962,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 15,
+      "floor": 9,
+      "totalFloors": 8,
+      "heating": "Kombi",
+      "furnishing": "Furnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500921546015?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500716299003?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500106123814?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500148544412?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500258261651?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500473919242?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500821191254?w=800&q=80&category=house"
+    ],
+    "agent": {
+      "id": "A37",
+      "name": "Agent 64",
+      "phone": "+85 269 920 9830",
+      "email": "agent28@iwrealty.com",
+      "photo": "/images/icons/png/ny-skyline-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": true,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-08-03T10:50:47.193Z",
+    "updatedAt": "2025-11-13T10:50:47.193Z",
+    "storeId": "store-008"
+  },
+  {
+    "id": "P01474",
+    "type": "rent",
+    "category": {
+      "main": "commercial",
+      "sub": "office"
+    },
+    "title": "Kiralık Ofis - Gaborone",
+    "slug": "kiralik-ofis-gaborone-P01474",
+    "description": "Gaborone, Botswana bölgesinde ofis. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 12238576,
+    "location": {
+      "country": "BW",
+      "city": "Gaborone",
+      "district": "Gaborone Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 785",
+      "coordinates": {
+        "lat": -22.439734235885496,
+        "lng": 24.289679035287474
+      }
+    },
+    "specs": {
+      "netSize": 192,
+      "grossSize": 230,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 15,
+      "floor": 1,
+      "totalFloors": 18,
+      "heating": "Klima",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500626435836?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500166389750?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500841840840?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500832514873?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500781635399?w=800&q=80&category=house"
+    ],
+    "agent": {
+      "id": "A40",
+      "name": "Agent 61",
+      "phone": "+17 755 997 1284",
+      "email": "agent21@iwrealty.com",
+      "photo": "/images/icons/png/sg-harbour-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-04-24T10:50:47.193Z",
+    "updatedAt": "2025-11-13T10:50:47.193Z",
+    "storeId": "store-011"
+  },
+  {
+    "id": "P01475",
+    "type": "sale",
+    "category": {
+      "main": "commercial",
+      "sub": "mall"
+    },
+    "title": "Satılık AVM - New Botswana",
+    "slug": "satilik-avm-new-botswana-P01475",
+    "description": "New Botswana, Botswana bölgesinde avm. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 340904000,
+    "location": {
+      "country": "BW",
+      "city": "New Botswana",
+      "district": "New Botswana Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 718",
+      "coordinates": {
+        "lat": -22.18169960977356,
+        "lng": 23.65973401697947
+      }
+    },
+    "specs": {
+      "netSize": 40008,
+      "grossSize": 48010,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 2,
+      "floor": 12,
+      "totalFloors": 5,
+      "heating": "Kombi",
+      "furnishing": "Unfurnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500393517915?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500089550019?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500087522810?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500850257721?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500189130381?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500043863044?w=800&q=80&category=building"
+    ],
+    "agent": {
+      "id": "A45",
+      "name": "Agent 76",
+      "phone": "+65 132 893 4348",
+      "email": "agent56@iwrealty.com",
+      "photo": "/images/icons/png/dubai-property-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2024-11-29T10:50:47.193Z",
+    "updatedAt": "2025-11-13T10:50:47.193Z",
+    "storeId": "store-004"
+  },
+  {
+    "id": "P01476",
+    "type": "rent",
+    "category": {
+      "main": "commercial",
+      "sub": "mall"
+    },
+    "title": "Kiralık AVM - Botswana Central",
+    "slug": "kiralik-avm-botswana-central-P01476",
+    "description": "Botswana Central, Botswana bölgesinde avm. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 105577788,
+    "location": {
+      "country": "BW",
+      "city": "Botswana Central",
+      "district": "Botswana Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 735",
+      "coordinates": {
+        "lat": -21.839691157127664,
+        "lng": 23.79078738361922
+      }
+    },
+    "specs": {
+      "netSize": 38074,
+      "grossSize": 45689,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 9,
+      "floor": 10,
+      "totalFloors": 5,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Furnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500761261138?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500293350766?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500834658223?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500371848818?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500536704486?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500709595287?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500311819399?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500805929976?w=800&q=80&category=house"
+    ],
+    "agent": {
+      "id": "A28",
+      "name": "Agent 76",
+      "phone": "+69 480 599 2831",
+      "email": "agent100@iwrealty.com",
+      "photo": "/images/icons/png/berlin-urban-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": false,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-04-15T10:50:47.193Z",
+    "updatedAt": "2025-11-13T10:50:47.193Z",
+    "storeId": "store-009"
+  },
+  {
+    "id": "P01477",
+    "type": "sale",
+    "category": {
+      "main": "commercial",
+      "sub": "hotel"
+    },
+    "title": "Satılık Otel - Gaborone",
+    "slug": "satilik-otel-gaborone-P01477",
+    "description": "Gaborone, Botswana bölgesinde otel. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 39217845,
+    "location": {
+      "country": "BW",
+      "city": "Gaborone",
+      "district": "Gaborone Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 301",
+      "coordinates": {
+        "lat": -21.73305605818126,
+        "lng": 23.586664330461225
+      }
+    },
+    "specs": {
+      "netSize": 24410,
+      "grossSize": 29292,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 16,
+      "floor": 1,
+      "totalFloors": 7,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500566965092?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500299601808?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500997722872?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500824407218?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500441496675?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500328473545?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500326634508?w=800&q=80&category=interior"
+    ],
+    "agent": {
+      "id": "A92",
+      "name": "Agent 7",
+      "phone": "+72 825 455 5501",
+      "email": "agent5@iwrealty.com",
+      "photo": "/images/icons/png/antalya-investment-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": false,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-08-14T10:50:47.193Z",
+    "updatedAt": "2025-11-13T10:50:47.193Z",
+    "storeId": "store-006"
+  },
+  {
+    "id": "P01478",
+    "type": "rent",
+    "category": {
+      "main": "commercial",
+      "sub": "hotel"
+    },
+    "title": "Kiralık Otel - Gaborone",
+    "slug": "kiralik-otel-gaborone-P01478",
+    "description": "Gaborone, Botswana bölgesinde otel. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 125093752,
+    "location": {
+      "country": "BW",
+      "city": "Gaborone",
+      "district": "Gaborone Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 745",
+      "coordinates": {
+        "lat": -21.795056413790398,
+        "lng": 23.588586559517722
+      }
+    },
+    "specs": {
+      "netSize": 10715,
+      "grossSize": 12858,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 18,
+      "floor": 2,
+      "totalFloors": 8,
+      "heating": "Merkezi",
+      "furnishing": "Unfurnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500464527456?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500523402513?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500338566092?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500526441450?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500401179938?w=800&q=80&category=interior"
+    ],
+    "agent": {
+      "id": "A7",
+      "name": "Agent 73",
+      "phone": "+23 869 858 6751",
+      "email": "agent71@iwrealty.com",
+      "photo": "/images/icons/png/luxury-homes-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": true,
+      "hasPool": true,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-01-05T10:50:47.193Z",
+    "updatedAt": "2025-11-13T10:50:47.193Z",
+    "storeId": "store-002"
+  },
+  {
+    "id": "P01479",
+    "type": "sale",
+    "category": {
+      "main": "commercial",
+      "sub": "restaurant"
+    },
+    "title": "Satılık Restoran - New Botswana",
+    "slug": "satilik-restoran-new-botswana-P01479",
+    "description": "New Botswana, Botswana bölgesinde restoran. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 1938125,
+    "location": {
+      "country": "BW",
+      "city": "New Botswana",
+      "district": "New Botswana Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 801",
+      "coordinates": {
+        "lat": -22.232750566981974,
+        "lng": 24.021110551721854
+      }
+    },
+    "specs": {
+      "netSize": 1361,
+      "grossSize": 1633,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 19,
+      "floor": 5,
+      "totalFloors": 13,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Unfurnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500719016484?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500150388648?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500471495732?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500916849672?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500970542113?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500323604544?w=800&q=80&category=interior"
+    ],
+    "agent": {
+      "id": "A17",
+      "name": "Agent 58",
+      "phone": "+90 167 378 5510",
+      "email": "agent97@iwrealty.com",
+      "photo": "/images/icons/png/london-prime-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": true,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-11-04T10:50:47.193Z",
+    "updatedAt": "2025-11-13T10:50:47.193Z",
+    "storeId": "store-007"
+  },
+  {
+    "id": "P01480",
+    "type": "rent",
+    "category": {
+      "main": "commercial",
+      "sub": "restaurant"
+    },
+    "title": "Kiralık Restoran - Gaborone",
+    "slug": "kiralik-restoran-gaborone-P01480",
+    "description": "Gaborone, Botswana bölgesinde restoran. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 8254515,
+    "location": {
+      "country": "BW",
+      "city": "Gaborone",
+      "district": "Gaborone Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 366",
+      "coordinates": {
+        "lat": -21.992979415996153,
+        "lng": 24.039537508564123
+      }
+    },
+    "specs": {
+      "netSize": 1009,
+      "grossSize": 1211,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 20,
+      "floor": 8,
+      "totalFloors": 11,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Unfurnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500362208004?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500996749888?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500912692663?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500534401488?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500740937178?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500291452494?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500577888809?w=800&q=80&category=house"
+    ],
+    "agent": {
+      "id": "A20",
+      "name": "Agent 16",
+      "phone": "+43 659 687 9884",
+      "email": "agent49@iwrealty.com",
+      "photo": "/images/icons/png/sg-harbour-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-02-20T10:50:47.193Z",
+    "updatedAt": "2025-11-13T10:50:47.193Z",
+    "storeId": "store-011"
+  },
+  {
+    "id": "P01481",
+    "type": "sale",
+    "category": {
+      "main": "commercial",
+      "sub": "warehouse"
+    },
+    "title": "Satılık Depo - New Botswana",
+    "slug": "satilik-depo-new-botswana-P01481",
+    "description": "New Botswana, Botswana bölgesinde depo. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 23584582,
+    "location": {
+      "country": "BW",
+      "city": "New Botswana",
+      "district": "New Botswana Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 664",
+      "coordinates": {
+        "lat": -21.67602396746112,
+        "lng": 24.38613329166613
+      }
+    },
+    "specs": {
+      "netSize": 8883,
+      "grossSize": 10660,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 12,
+      "floor": 5,
+      "totalFloors": 19,
+      "heating": "Kombi",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500028084982?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500037172913?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500835747068?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500716279105?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500688058512?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500975339834?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500558279169?w=800&q=80&category=house"
+    ],
+    "agent": {
+      "id": "A31",
+      "name": "Agent 80",
+      "phone": "+61 870 127 1557",
+      "email": "agent46@iwrealty.com",
+      "photo": "/images/icons/png/luxury-homes-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": true,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-09-13T10:50:47.193Z",
+    "updatedAt": "2025-11-13T10:50:47.193Z",
+    "storeId": "store-002"
+  },
+  {
+    "id": "P01482",
+    "type": "rent",
+    "category": {
+      "main": "commercial",
+      "sub": "warehouse"
+    },
+    "title": "Kiralık Depo - Botswana City",
+    "slug": "kiralik-depo-botswana-city-P01482",
+    "description": "Botswana City, Botswana bölgesinde depo. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 4628387,
+    "location": {
+      "country": "BW",
+      "city": "Botswana City",
+      "district": "Botswana City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 96",
+      "coordinates": {
+        "lat": -21.96808696970696,
+        "lng": 23.681254956696854
+      }
+    },
+    "specs": {
+      "netSize": 4134,
+      "grossSize": 4961,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 17,
+      "floor": 6,
+      "totalFloors": 12,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500161626287?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500918331638?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500127941563?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500822824936?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500039064812?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500392672736?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500153588778?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500673804231?w=800&q=80&category=real-estate"
+    ],
+    "agent": {
+      "id": "A2",
+      "name": "Agent 47",
+      "phone": "+32 761 992 9164",
+      "email": "agent55@iwrealty.com",
+      "photo": "/images/icons/png/dubai-property-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2024-12-18T10:50:47.193Z",
+    "updatedAt": "2025-11-13T10:50:47.193Z",
+    "storeId": "store-004"
+  }
+]

@@ -1,0 +1,2344 @@
+[
+  {
+    "id": "P01597",
+    "type": "sale",
+    "category": {
+      "main": "government"
+    },
+    "title": "Satılık Devlet Binası - Bern",
+    "slug": "satilik-devlet-binası-bern-P01597",
+    "description": "Bern, Switzerland bölgesinde devlet binası. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 6593902,
+    "location": {
+      "country": "CH",
+      "city": "Bern",
+      "district": "Bern Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 968",
+      "coordinates": {
+        "lat": 46.537518578642036,
+        "lng": 8.47917322330448
+      }
+    },
+    "specs": {
+      "netSize": 3430,
+      "grossSize": 4116,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 18,
+      "floor": 8,
+      "totalFloors": 11,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Furnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500080861549?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500343223460?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500462636578?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500258108566?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500452330079?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500067574802?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500875909173?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500686619344?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500691424229?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500565024567?w=800&q=80&category=building"
+    ],
+    "agent": {
+      "id": "A34",
+      "name": "Agent 21",
+      "phone": "+71 913 815 7321",
+      "email": "agent38@iwrealty.com",
+      "photo": "/images/icons/png/ankara-modern-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": true,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-03-04T10:50:47.195Z",
+    "updatedAt": "2025-11-13T10:50:47.195Z",
+    "storeId": "store-003"
+  },
+  {
+    "id": "P01598",
+    "type": "rent",
+    "category": {
+      "main": "government"
+    },
+    "title": "Kiralık Devlet Binası - Switzerland Central",
+    "slug": "kiralik-devlet-binası-switzerland-central-P01598",
+    "description": "Switzerland Central, Switzerland bölgesinde devlet binası. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 47859447,
+    "location": {
+      "country": "CH",
+      "city": "Switzerland Central",
+      "district": "Switzerland Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 937",
+      "coordinates": {
+        "lat": 47.435793939809145,
+        "lng": 7.667204066522226
+      }
+    },
+    "specs": {
+      "netSize": 3240,
+      "grossSize": 3888,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 2,
+      "floor": 10,
+      "totalFloors": 15,
+      "heating": "Kombi",
+      "furnishing": "Unfurnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500128204355?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500881939780?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500669305824?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500451135125?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500296327410?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500039074479?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500583441207?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500523886094?w=800&q=80&category=building"
+    ],
+    "agent": {
+      "id": "A5",
+      "name": "Agent 81",
+      "phone": "+72 795 663 8609",
+      "email": "agent98@iwrealty.com",
+      "photo": "/images/icons/png/london-prime-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": false,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-03-19T10:50:47.195Z",
+    "updatedAt": "2025-11-13T10:50:47.195Z",
+    "storeId": "store-007"
+  },
+  {
+    "id": "P01599",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Villa - Switzerland Central",
+    "slug": "satilik-villa-switzerland-central-P01599",
+    "description": "Switzerland Central, Switzerland bölgesinde villa. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 10806980,
+    "location": {
+      "country": "CH",
+      "city": "Switzerland Central",
+      "district": "Switzerland Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 257",
+      "coordinates": {
+        "lat": 46.68388961483419,
+        "lng": 7.8405994205636915
+      }
+    },
+    "specs": {
+      "netSize": 287,
+      "grossSize": 344,
+      "rooms": "4+0",
+      "bathrooms": 3,
+      "age": 20,
+      "floor": 10,
+      "totalFloors": 12,
+      "heating": "Kombi",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500614618670?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500231744666?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500508421051?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500180354896?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500726272656?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500283796637?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500804594551?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500105939765?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500003575629?w=800&q=80&category=house"
+    ],
+    "agent": {
+      "id": "A94",
+      "name": "Agent 97",
+      "phone": "+37 412 743 3676",
+      "email": "agent44@iwrealty.com",
+      "photo": "/images/icons/png/luxury-homes-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-02-26T10:50:47.195Z",
+    "updatedAt": "2025-11-13T10:50:47.195Z",
+    "storeId": "store-002"
+  },
+  {
+    "id": "P01600",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Villa - Switzerland Central",
+    "slug": "kiralik-villa-switzerland-central-P01600",
+    "description": "Switzerland Central, Switzerland bölgesinde villa. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 9824698,
+    "location": {
+      "country": "CH",
+      "city": "Switzerland Central",
+      "district": "Switzerland Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 546",
+      "coordinates": {
+        "lat": 47.4598479362387,
+        "lng": 7.641898939069318
+      }
+    },
+    "specs": {
+      "netSize": 189,
+      "grossSize": 227,
+      "rooms": "4+1",
+      "bathrooms": 2,
+      "age": 9,
+      "floor": 2,
+      "totalFloors": 9,
+      "heating": "Kombi",
+      "furnishing": "Furnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500941235083?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500481184937?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500390586914?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500701615714?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500425310682?w=800&q=80&category=architecture"
+    ],
+    "agent": {
+      "id": "A88",
+      "name": "Agent 73",
+      "phone": "+34 597 836 4998",
+      "email": "agent85@iwrealty.com",
+      "photo": "/images/icons/png/paris-heritage-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-01-18T10:50:47.195Z",
+    "updatedAt": "2025-11-13T10:50:47.195Z",
+    "storeId": "store-010"
+  },
+  {
+    "id": "P01601",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Müstakil Ev - New Switzerland",
+    "slug": "satilik-müstakil-ev-new-switzerland-P01601",
+    "description": "New Switzerland, Switzerland bölgesinde müstakil ev. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 2795499,
+    "location": {
+      "country": "CH",
+      "city": "New Switzerland",
+      "district": "New Switzerland Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 409",
+      "coordinates": {
+        "lat": 46.706752131509646,
+        "lng": 7.841001858163083
+      }
+    },
+    "specs": {
+      "netSize": 306,
+      "grossSize": 367,
+      "rooms": "5+2",
+      "bathrooms": 3,
+      "age": 12,
+      "floor": 11,
+      "totalFloors": 14,
+      "heating": "Klima",
+      "furnishing": "Furnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500362383097?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500003324042?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500099302248?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500461400623?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500785334480?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500192174998?w=800&q=80&category=architecture"
+    ],
+    "agent": {
+      "id": "A74",
+      "name": "Agent 79",
+      "phone": "+97 706 597 6706",
+      "email": "agent40@iwrealty.com",
+      "photo": "/images/icons/png/paris-heritage-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": false,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-07-13T10:50:47.195Z",
+    "updatedAt": "2025-11-13T10:50:47.195Z",
+    "storeId": "store-010"
+  },
+  {
+    "id": "P01602",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Residence - Bern",
+    "slug": "kiralik-residence-bern-P01602",
+    "description": "Bern, Switzerland bölgesinde residence. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 1994033,
+    "location": {
+      "country": "CH",
+      "city": "Bern",
+      "district": "Bern Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 373",
+      "coordinates": {
+        "lat": 47.19303196186771,
+        "lng": 8.123363487572623
+      }
+    },
+    "specs": {
+      "netSize": 446,
+      "grossSize": 535,
+      "rooms": "5+1",
+      "bathrooms": 3,
+      "age": 8,
+      "floor": 7,
+      "totalFloors": 20,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Unfurnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500932119035?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500188211276?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500722614630?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500736487838?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500153877926?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500834336731?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500336288487?w=800&q=80&category=house"
+    ],
+    "agent": {
+      "id": "A14",
+      "name": "Agent 4",
+      "phone": "+96 312 102 4268",
+      "email": "agent38@iwrealty.com",
+      "photo": "/images/icons/png/dubai-property-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": false,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-05-26T10:50:47.195Z",
+    "updatedAt": "2025-11-13T10:50:47.195Z",
+    "storeId": "store-004"
+  },
+  {
+    "id": "P01603",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Villa - New Switzerland",
+    "slug": "satilik-villa-new-switzerland-P01603",
+    "description": "New Switzerland, Switzerland bölgesinde villa. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 12577611,
+    "location": {
+      "country": "CH",
+      "city": "New Switzerland",
+      "district": "New Switzerland Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 771",
+      "coordinates": {
+        "lat": 46.839685501464096,
+        "lng": 8.44779117603696
+      }
+    },
+    "specs": {
+      "netSize": 80,
+      "grossSize": 96,
+      "rooms": "1+0",
+      "bathrooms": 2,
+      "age": 3,
+      "floor": 11,
+      "totalFloors": 14,
+      "heating": "Merkezi",
+      "furnishing": "Unfurnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500215342567?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500994557283?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500592622999?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500244580353?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500323752279?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500422592435?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500424654945?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500776399606?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500152092359?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500086168733?w=800&q=80&category=real-estate"
+    ],
+    "agent": {
+      "id": "A20",
+      "name": "Agent 42",
+      "phone": "+83 563 495 1611",
+      "email": "agent99@iwrealty.com",
+      "photo": "/images/icons/png/ny-skyline-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2024-11-21T10:50:47.195Z",
+    "updatedAt": "2025-11-13T10:50:47.195Z",
+    "storeId": "store-008"
+  },
+  {
+    "id": "P01604",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Müstakil Ev - New Switzerland",
+    "slug": "kiralik-müstakil-ev-new-switzerland-P01604",
+    "description": "New Switzerland, Switzerland bölgesinde müstakil ev. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 3909948,
+    "location": {
+      "country": "CH",
+      "city": "New Switzerland",
+      "district": "New Switzerland Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 48",
+      "coordinates": {
+        "lat": 47.31860115201265,
+        "lng": 7.913489496806
+      }
+    },
+    "specs": {
+      "netSize": 398,
+      "grossSize": 478,
+      "rooms": "3+0",
+      "bathrooms": 3,
+      "age": 7,
+      "floor": 14,
+      "totalFloors": 16,
+      "heating": "Klima",
+      "furnishing": "Unfurnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500502109491?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500849558871?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500100643701?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500018138264?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500441998060?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500022369648?w=800&q=80&category=architecture"
+    ],
+    "agent": {
+      "id": "A73",
+      "name": "Agent 8",
+      "phone": "+85 455 576 1791",
+      "email": "agent60@iwrealty.com",
+      "photo": "/images/icons/png/london-prime-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": true,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-06-11T10:50:47.195Z",
+    "updatedAt": "2025-11-13T10:50:47.195Z",
+    "storeId": "store-007"
+  },
+  {
+    "id": "P01605",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Daire - New Switzerland",
+    "slug": "satilik-daire-new-switzerland-P01605",
+    "description": "New Switzerland, Switzerland bölgesinde daire. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 14200775,
+    "location": {
+      "country": "CH",
+      "city": "New Switzerland",
+      "district": "New Switzerland Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 553",
+      "coordinates": {
+        "lat": 47.350203925894775,
+        "lng": 7.799087618073149
+      }
+    },
+    "specs": {
+      "netSize": 231,
+      "grossSize": 277,
+      "rooms": "1+2",
+      "bathrooms": 1,
+      "age": 6,
+      "floor": 12,
+      "totalFloors": 14,
+      "heating": "Merkezi",
+      "furnishing": "Furnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500690251791?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500177880746?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500411254217?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500738939698?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500432065733?w=800&q=80&category=house"
+    ],
+    "agent": {
+      "id": "A46",
+      "name": "Agent 64",
+      "phone": "+89 739 550 3205",
+      "email": "agent70@iwrealty.com",
+      "photo": "/images/icons/png/dubai-property-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": false,
+      "hasBalcony": false,
+      "hasGarden": true,
+      "hasPool": true,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-09-13T10:50:47.195Z",
+    "updatedAt": "2025-11-13T10:50:47.195Z",
+    "storeId": "store-004"
+  },
+  {
+    "id": "P01606",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Daire - Switzerland Central",
+    "slug": "kiralik-daire-switzerland-central-P01606",
+    "description": "Switzerland Central, Switzerland bölgesinde daire. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 11309828,
+    "location": {
+      "country": "CH",
+      "city": "Switzerland Central",
+      "district": "Switzerland Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 781",
+      "coordinates": {
+        "lat": 47.24704678956219,
+        "lng": 8.33159181794768
+      }
+    },
+    "specs": {
+      "netSize": 364,
+      "grossSize": 437,
+      "rooms": "4+1",
+      "bathrooms": 3,
+      "age": 3,
+      "floor": 10,
+      "totalFloors": 20,
+      "heating": "Merkezi",
+      "furnishing": "Furnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500702476165?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500555988879?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500166784664?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500920829539?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500324340655?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500969726561?w=800&q=80&category=real-estate"
+    ],
+    "agent": {
+      "id": "A18",
+      "name": "Agent 22",
+      "phone": "+72 285 250 6018",
+      "email": "agent56@iwrealty.com",
+      "photo": "/images/icons/png/berlin-urban-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": true,
+      "hasPool": true,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-11-07T10:50:47.195Z",
+    "updatedAt": "2025-11-13T10:50:47.195Z",
+    "storeId": "store-009"
+  },
+  {
+    "id": "P01607",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Residence - Switzerland City",
+    "slug": "satilik-residence-switzerland-city-P01607",
+    "description": "Switzerland City, Switzerland bölgesinde residence. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 736699,
+    "location": {
+      "country": "CH",
+      "city": "Switzerland City",
+      "district": "Switzerland City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 696",
+      "coordinates": {
+        "lat": 46.68114997706417,
+        "lng": 7.541122456660455
+      }
+    },
+    "specs": {
+      "netSize": 106,
+      "grossSize": 127,
+      "rooms": "2+2",
+      "bathrooms": 4,
+      "age": 13,
+      "floor": 4,
+      "totalFloors": 9,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Unfurnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500956082313?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500787722025?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500240360368?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500133143392?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500730654648?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500323914322?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500773892551?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500666534226?w=800&q=80&category=architecture"
+    ],
+    "agent": {
+      "id": "A75",
+      "name": "Agent 68",
+      "phone": "+21 453 899 6616",
+      "email": "agent36@iwrealty.com",
+      "photo": "/images/icons/png/berlin-urban-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": false,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2024-11-26T10:50:47.195Z",
+    "updatedAt": "2025-11-13T10:50:47.195Z",
+    "storeId": "store-009"
+  },
+  {
+    "id": "P01608",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Villa - Switzerland City",
+    "slug": "kiralik-villa-switzerland-city-P01608",
+    "description": "Switzerland City, Switzerland bölgesinde villa. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 2594268,
+    "location": {
+      "country": "CH",
+      "city": "Switzerland City",
+      "district": "Switzerland City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 449",
+      "coordinates": {
+        "lat": 46.56937317527853,
+        "lng": 8.476135553138466
+      }
+    },
+    "specs": {
+      "netSize": 255,
+      "grossSize": 306,
+      "rooms": "1+2",
+      "bathrooms": 4,
+      "age": 4,
+      "floor": 5,
+      "totalFloors": 12,
+      "heating": "Merkezi",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500113729203?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500977702321?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500430258337?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500900647025?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500796093569?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500873302814?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500302310036?w=800&q=80&category=real-estate"
+    ],
+    "agent": {
+      "id": "A39",
+      "name": "Agent 44",
+      "phone": "+34 905 321 1900",
+      "email": "agent26@iwrealty.com",
+      "photo": "/images/icons/png/paris-heritage-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": true,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-03-20T10:50:47.195Z",
+    "updatedAt": "2025-11-13T10:50:47.195Z",
+    "storeId": "store-010"
+  },
+  {
+    "id": "P01609",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Müstakil Ev - New Switzerland",
+    "slug": "satilik-müstakil-ev-new-switzerland-P01609",
+    "description": "New Switzerland, Switzerland bölgesinde müstakil ev. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 11893839,
+    "location": {
+      "country": "CH",
+      "city": "New Switzerland",
+      "district": "New Switzerland Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 883",
+      "coordinates": {
+        "lat": 47.19962280820994,
+        "lng": 8.020557187519561
+      }
+    },
+    "specs": {
+      "netSize": 90,
+      "grossSize": 108,
+      "rooms": "1+1",
+      "bathrooms": 2,
+      "age": 7,
+      "floor": 5,
+      "totalFloors": 6,
+      "heating": "Klima",
+      "furnishing": "Furnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500874917020?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500452535089?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500695076847?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500315546595?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500572817568?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500933585806?w=800&q=80&category=interior"
+    ],
+    "agent": {
+      "id": "A43",
+      "name": "Agent 66",
+      "phone": "+15 419 796 3975",
+      "email": "agent76@iwrealty.com",
+      "photo": "/images/icons/png/sydney-coastal-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": false,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-04-07T10:50:47.195Z",
+    "updatedAt": "2025-11-13T10:50:47.195Z",
+    "storeId": "store-012"
+  },
+  {
+    "id": "P01610",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Müstakil Ev - Switzerland City",
+    "slug": "kiralik-müstakil-ev-switzerland-city-P01610",
+    "description": "Switzerland City, Switzerland bölgesinde müstakil ev. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 7239401,
+    "location": {
+      "country": "CH",
+      "city": "Switzerland City",
+      "district": "Switzerland City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 809",
+      "coordinates": {
+        "lat": 47.49186132859696,
+        "lng": 7.81663129096724
+      }
+    },
+    "specs": {
+      "netSize": 256,
+      "grossSize": 307,
+      "rooms": "3+0",
+      "bathrooms": 4,
+      "age": 16,
+      "floor": 14,
+      "totalFloors": 8,
+      "heating": "Kombi",
+      "furnishing": "Furnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500178816388?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500138449644?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500388987964?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500130705330?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500651789320?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500624808113?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500703091165?w=800&q=80&category=real-estate"
+    ],
+    "agent": {
+      "id": "A91",
+      "name": "Agent 29",
+      "phone": "+48 308 557 6930",
+      "email": "agent29@iwrealty.com",
+      "photo": "/images/icons/png/ankara-modern-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": false,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2024-11-22T10:50:47.195Z",
+    "updatedAt": "2025-11-13T10:50:47.195Z",
+    "storeId": "store-003"
+  },
+  {
+    "id": "P01611",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Villa - Switzerland Central",
+    "slug": "satilik-villa-switzerland-central-P01611",
+    "description": "Switzerland Central, Switzerland bölgesinde villa. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 2338346,
+    "location": {
+      "country": "CH",
+      "city": "Switzerland Central",
+      "district": "Switzerland Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 626",
+      "coordinates": {
+        "lat": 46.91309244435964,
+        "lng": 7.943683954302024
+      }
+    },
+    "specs": {
+      "netSize": 443,
+      "grossSize": 532,
+      "rooms": "2+1",
+      "bathrooms": 2,
+      "age": 4,
+      "floor": 12,
+      "totalFloors": 19,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Furnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500061887464?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500848833287?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500200379376?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500839017034?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500744573351?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500698607078?w=800&q=80&category=interior"
+    ],
+    "agent": {
+      "id": "A40",
+      "name": "Agent 30",
+      "phone": "+17 579 616 6884",
+      "email": "agent14@iwrealty.com",
+      "photo": "/images/icons/png/london-prime-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": false,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-06-03T10:50:47.195Z",
+    "updatedAt": "2025-11-13T10:50:47.195Z",
+    "storeId": "store-007"
+  },
+  {
+    "id": "P01612",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Residence - Switzerland City",
+    "slug": "kiralik-residence-switzerland-city-P01612",
+    "description": "Switzerland City, Switzerland bölgesinde residence. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 9067828,
+    "location": {
+      "country": "CH",
+      "city": "Switzerland City",
+      "district": "Switzerland City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 105",
+      "coordinates": {
+        "lat": 46.55310038001036,
+        "lng": 7.634717934297338
+      }
+    },
+    "specs": {
+      "netSize": 446,
+      "grossSize": 535,
+      "rooms": "3+0",
+      "bathrooms": 4,
+      "age": 13,
+      "floor": 13,
+      "totalFloors": 9,
+      "heating": "Klima",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500394956424?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500911104766?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500738580814?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500294263718?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500709990363?w=800&q=80&category=real-estate"
+    ],
+    "agent": {
+      "id": "A78",
+      "name": "Agent 13",
+      "phone": "+38 851 684 7715",
+      "email": "agent43@iwrealty.com",
+      "photo": "/images/icons/png/berlin-urban-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-08-28T10:50:47.195Z",
+    "updatedAt": "2025-11-13T10:50:47.195Z",
+    "storeId": "store-009"
+  },
+  {
+    "id": "P01613",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Daire - New Switzerland",
+    "slug": "satilik-daire-new-switzerland-P01613",
+    "description": "New Switzerland, Switzerland bölgesinde daire. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 3937168,
+    "location": {
+      "country": "CH",
+      "city": "New Switzerland",
+      "district": "New Switzerland Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 134",
+      "coordinates": {
+        "lat": 47.250049460944176,
+        "lng": 7.905996525575679
+      }
+    },
+    "specs": {
+      "netSize": 113,
+      "grossSize": 136,
+      "rooms": "2+0",
+      "bathrooms": 2,
+      "age": 10,
+      "floor": 2,
+      "totalFloors": 17,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Furnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500534129873?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500187760247?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500764985275?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500727962885?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500324200628?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500914262584?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500782194802?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500005026418?w=800&q=80&category=house"
+    ],
+    "agent": {
+      "id": "A78",
+      "name": "Agent 5",
+      "phone": "+58 960 134 7964",
+      "email": "agent82@iwrealty.com",
+      "photo": "/images/icons/png/paris-heritage-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": false,
+      "hasBalcony": false,
+      "hasGarden": true,
+      "hasPool": true,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-03-29T10:50:47.195Z",
+    "updatedAt": "2025-11-13T10:50:47.195Z",
+    "storeId": "store-010"
+  },
+  {
+    "id": "P01614",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Müstakil Ev - New Switzerland",
+    "slug": "kiralik-müstakil-ev-new-switzerland-P01614",
+    "description": "New Switzerland, Switzerland bölgesinde müstakil ev. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 7913403,
+    "location": {
+      "country": "CH",
+      "city": "New Switzerland",
+      "district": "New Switzerland Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 504",
+      "coordinates": {
+        "lat": 46.986482398171354,
+        "lng": 7.538445431814751
+      }
+    },
+    "specs": {
+      "netSize": 444,
+      "grossSize": 533,
+      "rooms": "1+2",
+      "bathrooms": 2,
+      "age": 3,
+      "floor": 9,
+      "totalFloors": 17,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Furnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500650730501?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500447149021?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500293492535?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500129616321?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500500053949?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500567017033?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500478771661?w=800&q=80&category=interior"
+    ],
+    "agent": {
+      "id": "A51",
+      "name": "Agent 8",
+      "phone": "+96 996 716 9104",
+      "email": "agent37@iwrealty.com",
+      "photo": "/images/icons/png/london-prime-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2024-11-30T10:50:47.195Z",
+    "updatedAt": "2025-11-13T10:50:47.195Z",
+    "storeId": "store-007"
+  },
+  {
+    "id": "P01615",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Müstakil Ev - New Switzerland",
+    "slug": "satilik-müstakil-ev-new-switzerland-P01615",
+    "description": "New Switzerland, Switzerland bölgesinde müstakil ev. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 3501595,
+    "location": {
+      "country": "CH",
+      "city": "New Switzerland",
+      "district": "New Switzerland Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 725",
+      "coordinates": {
+        "lat": 46.81034784386688,
+        "lng": 8.136236422686746
+      }
+    },
+    "specs": {
+      "netSize": 126,
+      "grossSize": 151,
+      "rooms": "2+1",
+      "bathrooms": 4,
+      "age": 8,
+      "floor": 14,
+      "totalFloors": 11,
+      "heating": "Kombi",
+      "furnishing": "Unfurnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500941152828?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500492376494?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500353222795?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500843844734?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500445993017?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500857063633?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500400309016?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500723449688?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500813901718?w=800&q=80&category=real-estate"
+    ],
+    "agent": {
+      "id": "A52",
+      "name": "Agent 91",
+      "phone": "+19 447 686 1622",
+      "email": "agent21@iwrealty.com",
+      "photo": "/images/icons/png/dubai-property-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": true,
+      "hasPool": true,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-11-07T10:50:47.195Z",
+    "updatedAt": "2025-11-13T10:50:47.195Z",
+    "storeId": "store-004"
+  },
+  {
+    "id": "P01616",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Daire - Switzerland City",
+    "slug": "kiralik-daire-switzerland-city-P01616",
+    "description": "Switzerland City, Switzerland bölgesinde daire. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 3398556,
+    "location": {
+      "country": "CH",
+      "city": "Switzerland City",
+      "district": "Switzerland City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 271",
+      "coordinates": {
+        "lat": 47.481931669518296,
+        "lng": 8.15398768334327
+      }
+    },
+    "specs": {
+      "netSize": 112,
+      "grossSize": 134,
+      "rooms": "2+1",
+      "bathrooms": 2,
+      "age": 3,
+      "floor": 8,
+      "totalFloors": 12,
+      "heating": "Kombi",
+      "furnishing": "Furnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500988588814?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500057114928?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500670358691?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500156604810?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500601163259?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500743832635?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500638770374?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500714432449?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500257332224?w=800&q=80&category=house"
+    ],
+    "agent": {
+      "id": "A68",
+      "name": "Agent 4",
+      "phone": "+43 453 508 9215",
+      "email": "agent12@iwrealty.com",
+      "photo": "/images/icons/png/ankara-modern-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": false,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": true,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-03-01T10:50:47.195Z",
+    "updatedAt": "2025-11-13T10:50:47.195Z",
+    "storeId": "store-003"
+  },
+  {
+    "id": "P01617",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Residence - New Switzerland",
+    "slug": "satilik-residence-new-switzerland-P01617",
+    "description": "New Switzerland, Switzerland bölgesinde residence. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 4547929,
+    "location": {
+      "country": "CH",
+      "city": "New Switzerland",
+      "district": "New Switzerland Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 863",
+      "coordinates": {
+        "lat": 47.050980829081084,
+        "lng": 8.422442747052617
+      }
+    },
+    "specs": {
+      "netSize": 492,
+      "grossSize": 590,
+      "rooms": "2+2",
+      "bathrooms": 3,
+      "age": 10,
+      "floor": 5,
+      "totalFloors": 13,
+      "heating": "Kombi",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500635621174?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500769667743?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500607963864?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500224095560?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500162683873?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500200482370?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500056971736?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500240405903?w=800&q=80&category=interior"
+    ],
+    "agent": {
+      "id": "A49",
+      "name": "Agent 44",
+      "phone": "+99 425 846 3652",
+      "email": "agent31@iwrealty.com",
+      "photo": "/images/icons/png/ankara-modern-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-05-18T10:50:47.195Z",
+    "updatedAt": "2025-11-13T10:50:47.195Z",
+    "storeId": "store-003"
+  },
+  {
+    "id": "P01618",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Müstakil Ev - New Switzerland",
+    "slug": "kiralik-müstakil-ev-new-switzerland-P01618",
+    "description": "New Switzerland, Switzerland bölgesinde müstakil ev. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 10227847,
+    "location": {
+      "country": "CH",
+      "city": "New Switzerland",
+      "district": "New Switzerland Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 741",
+      "coordinates": {
+        "lat": 46.93538600385086,
+        "lng": 8.215467646372122
+      }
+    },
+    "specs": {
+      "netSize": 196,
+      "grossSize": 235,
+      "rooms": "5+0",
+      "bathrooms": 3,
+      "age": 14,
+      "floor": 15,
+      "totalFloors": 16,
+      "heating": "Kombi",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500674231587?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500865946812?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500280064252?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500648600905?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500345076168?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500155716314?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500897526559?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500198067405?w=800&q=80&category=building"
+    ],
+    "agent": {
+      "id": "A60",
+      "name": "Agent 97",
+      "phone": "+53 806 849 6743",
+      "email": "agent19@iwrealty.com",
+      "photo": "/images/icons/png/sg-harbour-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-05-14T10:50:47.195Z",
+    "updatedAt": "2025-11-13T10:50:47.195Z",
+    "storeId": "store-011"
+  },
+  {
+    "id": "P01619",
+    "type": "sale",
+    "category": {
+      "main": "commercial",
+      "sub": "hospital"
+    },
+    "title": "Satılık Hastane - Bern",
+    "slug": "satilik-hastane-bern-P01619",
+    "description": "Bern, Switzerland bölgesinde hastane. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 68391122,
+    "location": {
+      "country": "CH",
+      "city": "Bern",
+      "district": "Bern Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 250",
+      "coordinates": {
+        "lat": 47.30192257281745,
+        "lng": 7.586802920432032
+      }
+    },
+    "specs": {
+      "netSize": 10388,
+      "grossSize": 12466,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 0,
+      "floor": 6,
+      "totalFloors": 18,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Unfurnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500246928263?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500226210169?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500532742432?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500793904031?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500132471596?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500439533981?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500821987134?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500076314949?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500149194465?w=800&q=80&category=interior"
+    ],
+    "agent": {
+      "id": "A2",
+      "name": "Agent 17",
+      "phone": "+80 825 994 1747",
+      "email": "agent70@iwrealty.com",
+      "photo": "/images/icons/png/sg-harbour-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": true,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-09-28T10:50:47.195Z",
+    "updatedAt": "2025-11-13T10:50:47.195Z",
+    "storeId": "store-011"
+  },
+  {
+    "id": "P01620",
+    "type": "rent",
+    "category": {
+      "main": "commercial",
+      "sub": "hospital"
+    },
+    "title": "Kiralık Hastane - Switzerland Central",
+    "slug": "kiralik-hastane-switzerland-central-P01620",
+    "description": "Switzerland Central, Switzerland bölgesinde hastane. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 74804812,
+    "location": {
+      "country": "CH",
+      "city": "Switzerland Central",
+      "district": "Switzerland Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 939",
+      "coordinates": {
+        "lat": 46.86354502691385,
+        "lng": 7.62702097012261
+      }
+    },
+    "specs": {
+      "netSize": 8600,
+      "grossSize": 10320,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 16,
+      "floor": 6,
+      "totalFloors": 19,
+      "heating": "Klima",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500342748380?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500687276821?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500487833225?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500182821743?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500231821817?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500067524689?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500692632617?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500031207639?w=800&q=80&category=interior"
+    ],
+    "agent": {
+      "id": "A88",
+      "name": "Agent 65",
+      "phone": "+36 390 236 9636",
+      "email": "agent75@iwrealty.com",
+      "photo": "/images/icons/png/berlin-urban-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-04-25T10:50:47.195Z",
+    "updatedAt": "2025-11-13T10:50:47.195Z",
+    "storeId": "store-009"
+  },
+  {
+    "id": "P01621",
+    "type": "sale",
+    "category": {
+      "main": "commercial",
+      "sub": "clinic"
+    },
+    "title": "Satılık Klinik - Switzerland City",
+    "slug": "satilik-klinik-switzerland-city-P01621",
+    "description": "Switzerland City, Switzerland bölgesinde klinik. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 10885876,
+    "location": {
+      "country": "CH",
+      "city": "Switzerland City",
+      "district": "Switzerland City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 938",
+      "coordinates": {
+        "lat": 47.39325797404692,
+        "lng": 8.435662558916595
+      }
+    },
+    "specs": {
+      "netSize": 920,
+      "grossSize": 1104,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 17,
+      "floor": 5,
+      "totalFloors": 17,
+      "heating": "Merkezi",
+      "furnishing": "Unfurnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500212328646?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500610381556?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500485867964?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500661847069?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500833954708?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500115354811?w=800&q=80&category=interior"
+    ],
+    "agent": {
+      "id": "A76",
+      "name": "Agent 41",
+      "phone": "+90 405 822 3915",
+      "email": "agent65@iwrealty.com",
+      "photo": "/images/icons/png/berlin-urban-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-09-13T10:50:47.195Z",
+    "updatedAt": "2025-11-13T10:50:47.195Z",
+    "storeId": "store-009"
+  },
+  {
+    "id": "P01622",
+    "type": "rent",
+    "category": {
+      "main": "commercial",
+      "sub": "clinic"
+    },
+    "title": "Kiralık Klinik - Switzerland Central",
+    "slug": "kiralik-klinik-switzerland-central-P01622",
+    "description": "Switzerland Central, Switzerland bölgesinde klinik. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 2236630,
+    "location": {
+      "country": "CH",
+      "city": "Switzerland Central",
+      "district": "Switzerland Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 299",
+      "coordinates": {
+        "lat": 47.3089097090656,
+        "lng": 7.713636190165667
+      }
+    },
+    "specs": {
+      "netSize": 1498,
+      "grossSize": 1798,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 10,
+      "floor": 11,
+      "totalFloors": 19,
+      "heating": "Kombi",
+      "furnishing": "Furnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500029288003?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500027043947?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500041079765?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500265478783?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500776652355?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500065683064?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500540032422?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500558745375?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500522854003?w=800&q=80&category=real-estate"
+    ],
+    "agent": {
+      "id": "A23",
+      "name": "Agent 52",
+      "phone": "+14 295 637 8737",
+      "email": "agent79@iwrealty.com",
+      "photo": "/images/icons/png/paris-heritage-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": false,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-09-23T10:50:47.195Z",
+    "updatedAt": "2025-11-13T10:50:47.195Z",
+    "storeId": "store-010"
+  },
+  {
+    "id": "P01623",
+    "type": "sale",
+    "category": {
+      "main": "commercial",
+      "sub": "shop"
+    },
+    "title": "Satılık Dükkan - Switzerland City",
+    "slug": "satilik-dükkan-switzerland-city-P01623",
+    "description": "Switzerland City, Switzerland bölgesinde dükkan. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 2096793,
+    "location": {
+      "country": "CH",
+      "city": "Switzerland City",
+      "district": "Switzerland City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 444",
+      "coordinates": {
+        "lat": 47.23862339578808,
+        "lng": 8.040179791014381
+      }
+    },
+    "specs": {
+      "netSize": 366,
+      "grossSize": 439,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 18,
+      "floor": 7,
+      "totalFloors": 13,
+      "heating": "Klima",
+      "furnishing": "Unfurnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500710546274?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500022081218?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500198458251?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500621223081?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500344892078?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500865374926?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500567268199?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500509973453?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500342583846?w=800&q=80&category=house"
+    ],
+    "agent": {
+      "id": "A83",
+      "name": "Agent 2",
+      "phone": "+81 652 215 4491",
+      "email": "agent4@iwrealty.com",
+      "photo": "/images/icons/png/sydney-coastal-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": false,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": true,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-01-13T10:50:47.195Z",
+    "updatedAt": "2025-11-13T10:50:47.195Z",
+    "storeId": "store-012"
+  },
+  {
+    "id": "P01624",
+    "type": "rent",
+    "category": {
+      "main": "commercial",
+      "sub": "shop"
+    },
+    "title": "Kiralık Dükkan - Switzerland Central",
+    "slug": "kiralik-dükkan-switzerland-central-P01624",
+    "description": "Switzerland Central, Switzerland bölgesinde dükkan. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 6099568,
+    "location": {
+      "country": "CH",
+      "city": "Switzerland Central",
+      "district": "Switzerland Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 858",
+      "coordinates": {
+        "lat": 47.430297200221595,
+        "lng": 8.26082408051503
+      }
+    },
+    "specs": {
+      "netSize": 435,
+      "grossSize": 522,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 0,
+      "floor": 7,
+      "totalFloors": 6,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Furnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500849215029?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500234293696?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500733319523?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500094177392?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500162322963?w=800&q=80&category=architecture"
+    ],
+    "agent": {
+      "id": "A57",
+      "name": "Agent 76",
+      "phone": "+94 366 599 9622",
+      "email": "agent71@iwrealty.com",
+      "photo": "/images/icons/png/izmir-sahil-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-09-02T10:50:47.195Z",
+    "updatedAt": "2025-11-13T10:50:47.195Z",
+    "storeId": "store-005"
+  },
+  {
+    "id": "P01625",
+    "type": "sale",
+    "category": {
+      "main": "commercial",
+      "sub": "office"
+    },
+    "title": "Satılık Ofis - Bern",
+    "slug": "satilik-ofis-bern-P01625",
+    "description": "Bern, Switzerland bölgesinde ofis. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 13289748,
+    "location": {
+      "country": "CH",
+      "city": "Bern",
+      "district": "Bern Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 617",
+      "coordinates": {
+        "lat": 46.69217574937763,
+        "lng": 8.486378925048557
+      }
+    },
+    "specs": {
+      "netSize": 923,
+      "grossSize": 1108,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 6,
+      "floor": 5,
+      "totalFloors": 7,
+      "heating": "Kombi",
+      "furnishing": "Unfurnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500563063773?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500549937242?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500834755726?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500122660914?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500471865215?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500814134461?w=800&q=80&category=house"
+    ],
+    "agent": {
+      "id": "A48",
+      "name": "Agent 98",
+      "phone": "+33 316 970 8020",
+      "email": "agent47@iwrealty.com",
+      "photo": "/images/icons/png/sydney-coastal-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-04-19T10:50:47.195Z",
+    "updatedAt": "2025-11-13T10:50:47.195Z",
+    "storeId": "store-012"
+  },
+  {
+    "id": "P01626",
+    "type": "rent",
+    "category": {
+      "main": "commercial",
+      "sub": "office"
+    },
+    "title": "Kiralık Ofis - Switzerland City",
+    "slug": "kiralik-ofis-switzerland-city-P01626",
+    "description": "Switzerland City, Switzerland bölgesinde ofis. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 9546134,
+    "location": {
+      "country": "CH",
+      "city": "Switzerland City",
+      "district": "Switzerland City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 807",
+      "coordinates": {
+        "lat": 46.86871630206718,
+        "lng": 7.864014178901513
+      }
+    },
+    "specs": {
+      "netSize": 337,
+      "grossSize": 404,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 17,
+      "floor": 5,
+      "totalFloors": 17,
+      "heating": "Kombi",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500303183023?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500345532315?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500885170121?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500192003980?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500508036859?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500026422932?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500495604661?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500527456121?w=800&q=80&category=house"
+    ],
+    "agent": {
+      "id": "A37",
+      "name": "Agent 92",
+      "phone": "+88 994 762 9130",
+      "email": "agent73@iwrealty.com",
+      "photo": "/images/icons/png/sydney-coastal-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-06-18T10:50:47.195Z",
+    "updatedAt": "2025-11-13T10:50:47.195Z",
+    "storeId": "store-012"
+  },
+  {
+    "id": "P01627",
+    "type": "sale",
+    "category": {
+      "main": "commercial",
+      "sub": "mall"
+    },
+    "title": "Satılık AVM - Bern",
+    "slug": "satilik-avm-bern-P01627",
+    "description": "Bern, Switzerland bölgesinde avm. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 313544460,
+    "location": {
+      "country": "CH",
+      "city": "Bern",
+      "district": "Bern Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 721",
+      "coordinates": {
+        "lat": 47.4725559969507,
+        "lng": 7.520652482554329
+      }
+    },
+    "specs": {
+      "netSize": 23481,
+      "grossSize": 28177,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 6,
+      "floor": 7,
+      "totalFloors": 19,
+      "heating": "Klima",
+      "furnishing": "Furnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500848251197?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500662023513?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500615299728?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500251446526?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500573911578?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500226870484?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500226618036?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500182574960?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500647209065?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500724525922?w=800&q=80&category=building"
+    ],
+    "agent": {
+      "id": "A100",
+      "name": "Agent 21",
+      "phone": "+83 660 485 8939",
+      "email": "agent31@iwrealty.com",
+      "photo": "/images/icons/png/izmir-sahil-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-06-30T10:50:47.195Z",
+    "updatedAt": "2025-11-13T10:50:47.195Z",
+    "storeId": "store-005"
+  },
+  {
+    "id": "P01628",
+    "type": "rent",
+    "category": {
+      "main": "commercial",
+      "sub": "mall"
+    },
+    "title": "Kiralık AVM - New Switzerland",
+    "slug": "kiralik-avm-new-switzerland-P01628",
+    "description": "New Switzerland, Switzerland bölgesinde avm. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 208574050,
+    "location": {
+      "country": "CH",
+      "city": "New Switzerland",
+      "district": "New Switzerland Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 145",
+      "coordinates": {
+        "lat": 47.25171724360969,
+        "lng": 7.6149836852193
+      }
+    },
+    "specs": {
+      "netSize": 42060,
+      "grossSize": 50472,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 19,
+      "floor": 13,
+      "totalFloors": 20,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Unfurnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500434004379?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500206134960?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500901923056?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500374092631?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500443043162?w=800&q=80&category=interior"
+    ],
+    "agent": {
+      "id": "A25",
+      "name": "Agent 90",
+      "phone": "+87 164 214 4638",
+      "email": "agent27@iwrealty.com",
+      "photo": "/images/icons/png/london-prime-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": true,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-05-12T10:50:47.195Z",
+    "updatedAt": "2025-11-13T10:50:47.195Z",
+    "storeId": "store-007"
+  },
+  {
+    "id": "P01629",
+    "type": "sale",
+    "category": {
+      "main": "commercial",
+      "sub": "hotel"
+    },
+    "title": "Satılık Otel - Switzerland City",
+    "slug": "satilik-otel-switzerland-city-P01629",
+    "description": "Switzerland City, Switzerland bölgesinde otel. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 88151746,
+    "location": {
+      "country": "CH",
+      "city": "Switzerland City",
+      "district": "Switzerland City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 643",
+      "coordinates": {
+        "lat": 46.91217430907241,
+        "lng": 7.650820249070846
+      }
+    },
+    "specs": {
+      "netSize": 23007,
+      "grossSize": 27608,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 20,
+      "floor": 4,
+      "totalFloors": 11,
+      "heating": "Kombi",
+      "furnishing": "Unfurnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500437514728?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500435401539?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500956279384?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500347752612?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500071328609?w=800&q=80&category=building"
+    ],
+    "agent": {
+      "id": "A31",
+      "name": "Agent 27",
+      "phone": "+84 573 809 5679",
+      "email": "agent75@iwrealty.com",
+      "photo": "/images/icons/png/luxury-homes-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-04-03T10:50:47.195Z",
+    "updatedAt": "2025-11-13T10:50:47.195Z",
+    "storeId": "store-002"
+  },
+  {
+    "id": "P01630",
+    "type": "rent",
+    "category": {
+      "main": "commercial",
+      "sub": "hotel"
+    },
+    "title": "Kiralık Otel - New Switzerland",
+    "slug": "kiralik-otel-new-switzerland-P01630",
+    "description": "New Switzerland, Switzerland bölgesinde otel. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 63009011,
+    "location": {
+      "country": "CH",
+      "city": "New Switzerland",
+      "district": "New Switzerland Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 158",
+      "coordinates": {
+        "lat": 46.52504710426184,
+        "lng": 7.833470135287446
+      }
+    },
+    "specs": {
+      "netSize": 14558,
+      "grossSize": 17470,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 15,
+      "floor": 11,
+      "totalFloors": 18,
+      "heating": "Merkezi",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500354023718?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500877766156?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500137655618?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500116811754?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500029997362?w=800&q=80&category=house"
+    ],
+    "agent": {
+      "id": "A74",
+      "name": "Agent 37",
+      "phone": "+96 871 795 8549",
+      "email": "agent55@iwrealty.com",
+      "photo": "/images/icons/png/luxury-homes-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": true,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-01-20T10:50:47.195Z",
+    "updatedAt": "2025-11-13T10:50:47.195Z",
+    "storeId": "store-002"
+  },
+  {
+    "id": "P01631",
+    "type": "sale",
+    "category": {
+      "main": "commercial",
+      "sub": "restaurant"
+    },
+    "title": "Satılık Restoran - Switzerland City",
+    "slug": "satilik-restoran-switzerland-city-P01631",
+    "description": "Switzerland City, Switzerland bölgesinde restoran. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 3535951,
+    "location": {
+      "country": "CH",
+      "city": "Switzerland City",
+      "district": "Switzerland City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 594",
+      "coordinates": {
+        "lat": 47.26172212714955,
+        "lng": 8.165810669800454
+      }
+    },
+    "specs": {
+      "netSize": 1329,
+      "grossSize": 1595,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 8,
+      "floor": 7,
+      "totalFloors": 7,
+      "heating": "Kombi",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500949856267?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500668578860?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500561739936?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500151806927?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500385117457?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500220001097?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500157719052?w=800&q=80&category=house"
+    ],
+    "agent": {
+      "id": "A61",
+      "name": "Agent 60",
+      "phone": "+19 357 491 2999",
+      "email": "agent61@iwrealty.com",
+      "photo": "/images/icons/png/izmir-sahil-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-01-31T10:50:47.195Z",
+    "updatedAt": "2025-11-13T10:50:47.195Z",
+    "storeId": "store-005"
+  },
+  {
+    "id": "P01632",
+    "type": "rent",
+    "category": {
+      "main": "commercial",
+      "sub": "restaurant"
+    },
+    "title": "Kiralık Restoran - New Switzerland",
+    "slug": "kiralik-restoran-new-switzerland-P01632",
+    "description": "New Switzerland, Switzerland bölgesinde restoran. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 5549597,
+    "location": {
+      "country": "CH",
+      "city": "New Switzerland",
+      "district": "New Switzerland Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 719",
+      "coordinates": {
+        "lat": 46.84599364067504,
+        "lng": 7.6210824969446715
+      }
+    },
+    "specs": {
+      "netSize": 1312,
+      "grossSize": 1574,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 16,
+      "floor": 3,
+      "totalFloors": 14,
+      "heating": "Klima",
+      "furnishing": "Furnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500583416089?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500065979068?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500823578113?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500637713709?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500026506349?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500665406451?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500708244099?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500674473232?w=800&q=80&category=interior"
+    ],
+    "agent": {
+      "id": "A48",
+      "name": "Agent 44",
+      "phone": "+89 369 113 3927",
+      "email": "agent24@iwrealty.com",
+      "photo": "/images/icons/png/sydney-coastal-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": false,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": true,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-08-04T10:50:47.195Z",
+    "updatedAt": "2025-11-13T10:50:47.195Z",
+    "storeId": "store-012"
+  },
+  {
+    "id": "P01633",
+    "type": "sale",
+    "category": {
+      "main": "commercial",
+      "sub": "warehouse"
+    },
+    "title": "Satılık Depo - Switzerland City",
+    "slug": "satilik-depo-switzerland-city-P01633",
+    "description": "Switzerland City, Switzerland bölgesinde depo. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 9273736,
+    "location": {
+      "country": "CH",
+      "city": "Switzerland City",
+      "district": "Switzerland City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 600",
+      "coordinates": {
+        "lat": 46.89089760686972,
+        "lng": 7.973565165207757
+      }
+    },
+    "specs": {
+      "netSize": 6053,
+      "grossSize": 7264,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 11,
+      "floor": 2,
+      "totalFloors": 10,
+      "heating": "Merkezi",
+      "furnishing": "Unfurnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500589603300?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500410360523?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500982555251?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500082945406?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500832492951?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500720160343?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500340880993?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500998633037?w=800&q=80&category=interior"
+    ],
+    "agent": {
+      "id": "A26",
+      "name": "Agent 73",
+      "phone": "+10 272 177 5065",
+      "email": "agent1@iwrealty.com",
+      "photo": "/images/icons/png/luxury-homes-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-09-22T10:50:47.195Z",
+    "updatedAt": "2025-11-13T10:50:47.195Z",
+    "storeId": "store-002"
+  },
+  {
+    "id": "P01634",
+    "type": "rent",
+    "category": {
+      "main": "commercial",
+      "sub": "warehouse"
+    },
+    "title": "Kiralık Depo - Bern",
+    "slug": "kiralik-depo-bern-P01634",
+    "description": "Bern, Switzerland bölgesinde depo. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 25476222,
+    "location": {
+      "country": "CH",
+      "city": "Bern",
+      "district": "Bern Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 897",
+      "coordinates": {
+        "lat": 47.23415316011497,
+        "lng": 8.214976363077641
+      }
+    },
+    "specs": {
+      "netSize": 5123,
+      "grossSize": 6148,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 5,
+      "floor": 1,
+      "totalFloors": 10,
+      "heating": "Kombi",
+      "furnishing": "Furnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500704769172?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500759991280?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500027320841?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500815082368?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500973418213?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500282551570?w=800&q=80&category=interior"
+    ],
+    "agent": {
+      "id": "A60",
+      "name": "Agent 10",
+      "phone": "+88 310 815 6879",
+      "email": "agent63@iwrealty.com",
+      "photo": "/images/icons/png/london-prime-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-02-20T10:50:47.195Z",
+    "updatedAt": "2025-11-13T10:50:47.195Z",
+    "storeId": "store-007"
+  }
+]

@@ -1,0 +1,2352 @@
+[
+  {
+    "id": "P00989",
+    "type": "sale",
+    "category": {
+      "main": "government"
+    },
+    "title": "Satılık Devlet Binası - Gustavia",
+    "slug": "satilik-devlet-binası-gustavia-P00989",
+    "description": "Gustavia, Saint Barthélemy bölgesinde devlet binası. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 45609267,
+    "location": {
+      "country": "BL",
+      "city": "Gustavia",
+      "district": "Gustavia Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 475",
+      "coordinates": {
+        "lat": 18.24480968882181,
+        "lng": -63.441887994269955
+      }
+    },
+    "specs": {
+      "netSize": 2085,
+      "grossSize": 2502,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 0,
+      "floor": 8,
+      "totalFloors": 7,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Furnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500528597285?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500524093201?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500236874775?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500653840377?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500937792225?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500626669920?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500128570014?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500298740401?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500633365552?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500974293101?w=800&q=80&category=real-estate"
+    ],
+    "agent": {
+      "id": "A80",
+      "name": "Agent 31",
+      "phone": "+42 287 422 9988",
+      "email": "agent94@iwrealty.com",
+      "photo": "/images/icons/png/izmir-sahil-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-11-05T10:50:47.187Z",
+    "updatedAt": "2025-11-13T10:50:47.187Z",
+    "storeId": "store-005"
+  },
+  {
+    "id": "P00990",
+    "type": "rent",
+    "category": {
+      "main": "government"
+    },
+    "title": "Kiralık Belediye Binası - Gustavia",
+    "slug": "kiralik-belediye-binası-gustavia-P00990",
+    "description": "Gustavia, Saint Barthélemy bölgesinde belediye binası. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 35785781,
+    "location": {
+      "country": "BL",
+      "city": "Gustavia",
+      "district": "Gustavia Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 371",
+      "coordinates": {
+        "lat": 18.679104412037947,
+        "lng": -63.164609482274116
+      }
+    },
+    "specs": {
+      "netSize": 3714,
+      "grossSize": 4457,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 20,
+      "floor": 7,
+      "totalFloors": 14,
+      "heating": "Klima",
+      "furnishing": "Furnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500787888945?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500305865331?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500845846730?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500157224470?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500169930287?w=800&q=80&category=house"
+    ],
+    "agent": {
+      "id": "A95",
+      "name": "Agent 4",
+      "phone": "+85 558 221 8863",
+      "email": "agent44@iwrealty.com",
+      "photo": "/images/icons/png/dubai-property-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-09-19T10:50:47.187Z",
+    "updatedAt": "2025-11-13T10:50:47.187Z",
+    "storeId": "store-004"
+  },
+  {
+    "id": "P00991",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Daire - Gustavia",
+    "slug": "satilik-daire-gustavia-P00991",
+    "description": "Gustavia, Saint Barthélemy bölgesinde daire. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 7809858,
+    "location": {
+      "country": "BL",
+      "city": "Gustavia",
+      "district": "Gustavia Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 530",
+      "coordinates": {
+        "lat": 18.871369731010184,
+        "lng": -63.46627883429281
+      }
+    },
+    "specs": {
+      "netSize": 196,
+      "grossSize": 235,
+      "rooms": "2+1",
+      "bathrooms": 1,
+      "age": 7,
+      "floor": 9,
+      "totalFloors": 7,
+      "heating": "Merkezi",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500558945295?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500228570798?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500905160901?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500524982771?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500119085041?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500499215289?w=800&q=80&category=interior"
+    ],
+    "agent": {
+      "id": "A5",
+      "name": "Agent 64",
+      "phone": "+75 710 845 8281",
+      "email": "agent74@iwrealty.com",
+      "photo": "/images/icons/png/luxury-homes-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-05-22T10:50:47.187Z",
+    "updatedAt": "2025-11-13T10:50:47.187Z",
+    "storeId": "store-002"
+  },
+  {
+    "id": "P00992",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Residence - Saint Barthélemy Central",
+    "slug": "kiralik-residence-saint-barthélemy-central-P00992",
+    "description": "Saint Barthélemy Central, Saint Barthélemy bölgesinde residence. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 12802251,
+    "location": {
+      "country": "BL",
+      "city": "Saint Barthélemy Central",
+      "district": "Saint Barthélemy Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 1",
+      "coordinates": {
+        "lat": 18.371170938969513,
+        "lng": -63.04643306184587
+      }
+    },
+    "specs": {
+      "netSize": 86,
+      "grossSize": 103,
+      "rooms": "2+0",
+      "bathrooms": 2,
+      "age": 10,
+      "floor": 10,
+      "totalFloors": 12,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Unfurnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500285805382?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500581271972?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500952292860?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500673537269?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500295630778?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500921195690?w=800&q=80&category=house"
+    ],
+    "agent": {
+      "id": "A32",
+      "name": "Agent 74",
+      "phone": "+57 782 643 6346",
+      "email": "agent44@iwrealty.com",
+      "photo": "/images/icons/png/ny-skyline-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-09-23T10:50:47.187Z",
+    "updatedAt": "2025-11-13T10:50:47.187Z",
+    "storeId": "store-008"
+  },
+  {
+    "id": "P00993",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Residence - Saint Barthélemy City",
+    "slug": "satilik-residence-saint-barthélemy-city-P00993",
+    "description": "Saint Barthélemy City, Saint Barthélemy bölgesinde residence. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 14388625,
+    "location": {
+      "country": "BL",
+      "city": "Saint Barthélemy City",
+      "district": "Saint Barthélemy City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 672",
+      "coordinates": {
+        "lat": 18.803511111514343,
+        "lng": -63.4306565603963
+      }
+    },
+    "specs": {
+      "netSize": 297,
+      "grossSize": 356,
+      "rooms": "2+2",
+      "bathrooms": 1,
+      "age": 12,
+      "floor": 13,
+      "totalFloors": 20,
+      "heating": "Merkezi",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500705498897?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500043288895?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500479603029?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500900536535?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500324526438?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500363317165?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500988232084?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500316000664?w=800&q=80&category=building"
+    ],
+    "agent": {
+      "id": "A36",
+      "name": "Agent 18",
+      "phone": "+63 346 924 9580",
+      "email": "agent93@iwrealty.com",
+      "photo": "/images/icons/png/ny-skyline-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": true,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-02-14T10:50:47.187Z",
+    "updatedAt": "2025-11-13T10:50:47.187Z",
+    "storeId": "store-008"
+  },
+  {
+    "id": "P00994",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Müstakil Ev - Saint Barthélemy Central",
+    "slug": "kiralik-müstakil-ev-saint-barthélemy-central-P00994",
+    "description": "Saint Barthélemy Central, Saint Barthélemy bölgesinde müstakil ev. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 8851495,
+    "location": {
+      "country": "BL",
+      "city": "Saint Barthélemy Central",
+      "district": "Saint Barthélemy Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 957",
+      "coordinates": {
+        "lat": 18.545503134949723,
+        "lng": -63.29030281394927
+      }
+    },
+    "specs": {
+      "netSize": 472,
+      "grossSize": 566,
+      "rooms": "2+2",
+      "bathrooms": 4,
+      "age": 1,
+      "floor": 2,
+      "totalFloors": 10,
+      "heating": "Merkezi",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500431533245?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500079778117?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500203207725?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500220673009?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500881748085?w=800&q=80&category=interior"
+    ],
+    "agent": {
+      "id": "A84",
+      "name": "Agent 90",
+      "phone": "+32 203 577 8818",
+      "email": "agent98@iwrealty.com",
+      "photo": "/images/icons/png/sg-harbour-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": false,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": true,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-05-30T10:50:47.187Z",
+    "updatedAt": "2025-11-13T10:50:47.187Z",
+    "storeId": "store-011"
+  },
+  {
+    "id": "P00995",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Residence - New Saint Barthélemy",
+    "slug": "satilik-residence-new-saint-barthélemy-P00995",
+    "description": "New Saint Barthélemy, Saint Barthélemy bölgesinde residence. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 11424754,
+    "location": {
+      "country": "BL",
+      "city": "New Saint Barthélemy",
+      "district": "New Saint Barthélemy Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 282",
+      "coordinates": {
+        "lat": 18.718863118045096,
+        "lng": -63.25062140530721
+      }
+    },
+    "specs": {
+      "netSize": 342,
+      "grossSize": 410,
+      "rooms": "2+0",
+      "bathrooms": 2,
+      "age": 3,
+      "floor": 13,
+      "totalFloors": 5,
+      "heating": "Klima",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500842555034?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500238572066?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500098152115?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500952206511?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500179378409?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500034559821?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500671347740?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500553319046?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500225672645?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500075279717?w=800&q=80&category=interior"
+    ],
+    "agent": {
+      "id": "A77",
+      "name": "Agent 46",
+      "phone": "+83 759 942 3591",
+      "email": "agent63@iwrealty.com",
+      "photo": "/images/icons/png/luxury-homes-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-07-08T10:50:47.187Z",
+    "updatedAt": "2025-11-13T10:50:47.187Z",
+    "storeId": "store-002"
+  },
+  {
+    "id": "P00996",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Residence - Saint Barthélemy City",
+    "slug": "kiralik-residence-saint-barthélemy-city-P00996",
+    "description": "Saint Barthélemy City, Saint Barthélemy bölgesinde residence. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 2386316,
+    "location": {
+      "country": "BL",
+      "city": "Saint Barthélemy City",
+      "district": "Saint Barthélemy City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 950",
+      "coordinates": {
+        "lat": 18.589147627429146,
+        "lng": -63.55246499677643
+      }
+    },
+    "specs": {
+      "netSize": 171,
+      "grossSize": 205,
+      "rooms": "3+2",
+      "bathrooms": 2,
+      "age": 9,
+      "floor": 9,
+      "totalFloors": 13,
+      "heating": "Merkezi",
+      "furnishing": "Furnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500404669391?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500800191736?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500715043297?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500160740528?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500954681077?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500719351311?w=800&q=80&category=architecture"
+    ],
+    "agent": {
+      "id": "A92",
+      "name": "Agent 37",
+      "phone": "+59 403 460 5320",
+      "email": "agent53@iwrealty.com",
+      "photo": "/images/icons/png/izmir-sahil-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": false,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-03-16T10:50:47.187Z",
+    "updatedAt": "2025-11-13T10:50:47.187Z",
+    "storeId": "store-005"
+  },
+  {
+    "id": "P00997",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Müstakil Ev - Saint Barthélemy City",
+    "slug": "satilik-müstakil-ev-saint-barthélemy-city-P00997",
+    "description": "Saint Barthélemy City, Saint Barthélemy bölgesinde müstakil ev. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 11930818,
+    "location": {
+      "country": "BL",
+      "city": "Saint Barthélemy City",
+      "district": "Saint Barthélemy City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 230",
+      "coordinates": {
+        "lat": 18.100571655238504,
+        "lng": -63.03165306741825
+      }
+    },
+    "specs": {
+      "netSize": 450,
+      "grossSize": 540,
+      "rooms": "4+2",
+      "bathrooms": 2,
+      "age": 11,
+      "floor": 15,
+      "totalFloors": 5,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500024481722?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500853397396?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500671593195?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500828032737?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500866766963?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500926923460?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500285988666?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500374081801?w=800&q=80&category=house"
+    ],
+    "agent": {
+      "id": "A35",
+      "name": "Agent 40",
+      "phone": "+85 962 402 2988",
+      "email": "agent2@iwrealty.com",
+      "photo": "/images/icons/png/luxury-homes-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": false,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": true,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-06-23T10:50:47.187Z",
+    "updatedAt": "2025-11-13T10:50:47.187Z",
+    "storeId": "store-002"
+  },
+  {
+    "id": "P00998",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Villa - Saint Barthélemy City",
+    "slug": "kiralik-villa-saint-barthélemy-city-P00998",
+    "description": "Saint Barthélemy City, Saint Barthélemy bölgesinde villa. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 1649083,
+    "location": {
+      "country": "BL",
+      "city": "Saint Barthélemy City",
+      "district": "Saint Barthélemy City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 965",
+      "coordinates": {
+        "lat": 18.242253924097582,
+        "lng": -63.479449626042104
+      }
+    },
+    "specs": {
+      "netSize": 130,
+      "grossSize": 156,
+      "rooms": "4+2",
+      "bathrooms": 2,
+      "age": 8,
+      "floor": 1,
+      "totalFloors": 5,
+      "heating": "Merkezi",
+      "furnishing": "Furnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500410861909?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500825140204?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500748802696?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500186344361?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500073067113?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500366987117?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500591326776?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500515546142?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500774373780?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500102981639?w=800&q=80&category=architecture"
+    ],
+    "agent": {
+      "id": "A33",
+      "name": "Agent 94",
+      "phone": "+85 406 270 4091",
+      "email": "agent23@iwrealty.com",
+      "photo": "/images/icons/png/sydney-coastal-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": false,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-02-14T10:50:47.187Z",
+    "updatedAt": "2025-11-13T10:50:47.187Z",
+    "storeId": "store-012"
+  },
+  {
+    "id": "P00999",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Daire - Gustavia",
+    "slug": "satilik-daire-gustavia-P00999",
+    "description": "Gustavia, Saint Barthélemy bölgesinde daire. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 5046576,
+    "location": {
+      "country": "BL",
+      "city": "Gustavia",
+      "district": "Gustavia Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 714",
+      "coordinates": {
+        "lat": 18.91799743339547,
+        "lng": -63.066217326600636
+      }
+    },
+    "specs": {
+      "netSize": 143,
+      "grossSize": 172,
+      "rooms": "5+0",
+      "bathrooms": 2,
+      "age": 5,
+      "floor": 5,
+      "totalFloors": 18,
+      "heating": "Kombi",
+      "furnishing": "Unfurnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500870399476?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500173541748?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500718930186?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500134525931?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500596538249?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500897279422?w=800&q=80&category=architecture"
+    ],
+    "agent": {
+      "id": "A13",
+      "name": "Agent 38",
+      "phone": "+27 939 294 7940",
+      "email": "agent33@iwrealty.com",
+      "photo": "/images/icons/png/london-prime-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-10-03T10:50:47.187Z",
+    "updatedAt": "2025-11-13T10:50:47.187Z",
+    "storeId": "store-007"
+  },
+  {
+    "id": "P01000",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Daire - Gustavia",
+    "slug": "kiralik-daire-gustavia-P01000",
+    "description": "Gustavia, Saint Barthélemy bölgesinde daire. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 7325289,
+    "location": {
+      "country": "BL",
+      "city": "Gustavia",
+      "district": "Gustavia Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 353",
+      "coordinates": {
+        "lat": 18.253430470413146,
+        "lng": -62.9959740614672
+      }
+    },
+    "specs": {
+      "netSize": 460,
+      "grossSize": 552,
+      "rooms": "2+1",
+      "bathrooms": 4,
+      "age": 2,
+      "floor": 12,
+      "totalFloors": 7,
+      "heating": "Merkezi",
+      "furnishing": "Furnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500256412174?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500220637656?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500201253233?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500953685670?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500263864985?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500346677122?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500716715967?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500749629707?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500170485282?w=800&q=80&category=house"
+    ],
+    "agent": {
+      "id": "A80",
+      "name": "Agent 14",
+      "phone": "+93 693 142 1298",
+      "email": "agent30@iwrealty.com",
+      "photo": "/images/icons/png/berlin-urban-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-02-02T10:50:47.187Z",
+    "updatedAt": "2025-11-13T10:50:47.187Z",
+    "storeId": "store-009"
+  },
+  {
+    "id": "P01001",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Müstakil Ev - Saint Barthélemy Central",
+    "slug": "satilik-müstakil-ev-saint-barthélemy-central-P01001",
+    "description": "Saint Barthélemy Central, Saint Barthélemy bölgesinde müstakil ev. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 9301918,
+    "location": {
+      "country": "BL",
+      "city": "Saint Barthélemy Central",
+      "district": "Saint Barthélemy Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 775",
+      "coordinates": {
+        "lat": 18.244670236312718,
+        "lng": -63.62117360701635
+      }
+    },
+    "specs": {
+      "netSize": 116,
+      "grossSize": 139,
+      "rooms": "2+0",
+      "bathrooms": 1,
+      "age": 10,
+      "floor": 4,
+      "totalFloors": 18,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500865861624?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500047305120?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500545536237?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500463523678?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500446250255?w=800&q=80&category=real-estate"
+    ],
+    "agent": {
+      "id": "A35",
+      "name": "Agent 46",
+      "phone": "+90 223 760 4225",
+      "email": "agent56@iwrealty.com",
+      "photo": "/images/icons/png/luxury-homes-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": true,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-03-18T10:50:47.187Z",
+    "updatedAt": "2025-11-13T10:50:47.187Z",
+    "storeId": "store-002"
+  },
+  {
+    "id": "P01002",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Daire - Saint Barthélemy City",
+    "slug": "kiralik-daire-saint-barthélemy-city-P01002",
+    "description": "Saint Barthélemy City, Saint Barthélemy bölgesinde daire. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 11060668,
+    "location": {
+      "country": "BL",
+      "city": "Saint Barthélemy City",
+      "district": "Saint Barthélemy City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 288",
+      "coordinates": {
+        "lat": 18.451519268650515,
+        "lng": -63.506320445474486
+      }
+    },
+    "specs": {
+      "netSize": 474,
+      "grossSize": 569,
+      "rooms": "2+1",
+      "bathrooms": 3,
+      "age": 9,
+      "floor": 11,
+      "totalFloors": 18,
+      "heating": "Kombi",
+      "furnishing": "Furnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500828590185?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500718268155?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500698933859?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500177610829?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500948776355?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500195903420?w=800&q=80&category=interior"
+    ],
+    "agent": {
+      "id": "A97",
+      "name": "Agent 8",
+      "phone": "+89 213 722 1928",
+      "email": "agent80@iwrealty.com",
+      "photo": "/images/icons/png/ankara-modern-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": false,
+      "hasBalcony": false,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-03-22T10:50:47.187Z",
+    "updatedAt": "2025-11-13T10:50:47.187Z",
+    "storeId": "store-003"
+  },
+  {
+    "id": "P01003",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Daire - Saint Barthélemy Central",
+    "slug": "satilik-daire-saint-barthélemy-central-P01003",
+    "description": "Saint Barthélemy Central, Saint Barthélemy bölgesinde daire. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 10571037,
+    "location": {
+      "country": "BL",
+      "city": "Saint Barthélemy Central",
+      "district": "Saint Barthélemy Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 193",
+      "coordinates": {
+        "lat": 18.66733455423032,
+        "lng": -63.45233273931011
+      }
+    },
+    "specs": {
+      "netSize": 451,
+      "grossSize": 541,
+      "rooms": "4+0",
+      "bathrooms": 3,
+      "age": 13,
+      "floor": 13,
+      "totalFloors": 7,
+      "heating": "Klima",
+      "furnishing": "Unfurnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500154164574?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500509105320?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500915149756?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500579523475?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500443331827?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500092557616?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500511042108?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500802679530?w=800&q=80&category=building"
+    ],
+    "agent": {
+      "id": "A45",
+      "name": "Agent 78",
+      "phone": "+98 371 905 6320",
+      "email": "agent62@iwrealty.com",
+      "photo": "/images/icons/png/sydney-coastal-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": true,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-05-06T10:50:47.187Z",
+    "updatedAt": "2025-11-13T10:50:47.187Z",
+    "storeId": "store-012"
+  },
+  {
+    "id": "P01004",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Villa - Saint Barthélemy City",
+    "slug": "kiralik-villa-saint-barthélemy-city-P01004",
+    "description": "Saint Barthélemy City, Saint Barthélemy bölgesinde villa. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 9532855,
+    "location": {
+      "country": "BL",
+      "city": "Saint Barthélemy City",
+      "district": "Saint Barthélemy City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 374",
+      "coordinates": {
+        "lat": 18.249598453734585,
+        "lng": -63.25455160623872
+      }
+    },
+    "specs": {
+      "netSize": 167,
+      "grossSize": 200,
+      "rooms": "4+2",
+      "bathrooms": 2,
+      "age": 18,
+      "floor": 3,
+      "totalFloors": 17,
+      "heating": "Merkezi",
+      "furnishing": "Unfurnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500748196171?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500949688188?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500954277352?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500966757225?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500272072153?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500717037758?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500780123076?w=800&q=80&category=architecture"
+    ],
+    "agent": {
+      "id": "A8",
+      "name": "Agent 7",
+      "phone": "+29 475 251 1614",
+      "email": "agent64@iwrealty.com",
+      "photo": "/images/icons/png/antalya-investment-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": false,
+      "hasBalcony": false,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-01-14T10:50:47.187Z",
+    "updatedAt": "2025-11-13T10:50:47.187Z",
+    "storeId": "store-006"
+  },
+  {
+    "id": "P01005",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Daire - New Saint Barthélemy",
+    "slug": "satilik-daire-new-saint-barthélemy-P01005",
+    "description": "New Saint Barthélemy, Saint Barthélemy bölgesinde daire. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 7536633,
+    "location": {
+      "country": "BL",
+      "city": "New Saint Barthélemy",
+      "district": "New Saint Barthélemy Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 923",
+      "coordinates": {
+        "lat": 18.396036110143775,
+        "lng": -62.93436719349635
+      }
+    },
+    "specs": {
+      "netSize": 382,
+      "grossSize": 458,
+      "rooms": "1+0",
+      "bathrooms": 3,
+      "age": 10,
+      "floor": 5,
+      "totalFloors": 5,
+      "heating": "Merkezi",
+      "furnishing": "Unfurnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500486671293?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500591442353?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500029489077?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500593636002?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500484217442?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500752206095?w=800&q=80&category=building"
+    ],
+    "agent": {
+      "id": "A65",
+      "name": "Agent 71",
+      "phone": "+73 543 626 9901",
+      "email": "agent17@iwrealty.com",
+      "photo": "/images/icons/png/ankara-modern-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": false,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2024-12-05T10:50:47.187Z",
+    "updatedAt": "2025-11-13T10:50:47.187Z",
+    "storeId": "store-003"
+  },
+  {
+    "id": "P01006",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Daire - Gustavia",
+    "slug": "kiralik-daire-gustavia-P01006",
+    "description": "Gustavia, Saint Barthélemy bölgesinde daire. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 10759816,
+    "location": {
+      "country": "BL",
+      "city": "Gustavia",
+      "district": "Gustavia Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 421",
+      "coordinates": {
+        "lat": 18.41437884032683,
+        "lng": -63.67292381548108
+      }
+    },
+    "specs": {
+      "netSize": 278,
+      "grossSize": 334,
+      "rooms": "3+1",
+      "bathrooms": 3,
+      "age": 2,
+      "floor": 15,
+      "totalFloors": 12,
+      "heating": "Kombi",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500571879437?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500900376564?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500721211905?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500111692722?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500103081200?w=800&q=80&category=interior"
+    ],
+    "agent": {
+      "id": "A55",
+      "name": "Agent 6",
+      "phone": "+98 255 242 2081",
+      "email": "agent18@iwrealty.com",
+      "photo": "/images/icons/png/berlin-urban-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": true,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-10-05T10:50:47.187Z",
+    "updatedAt": "2025-11-13T10:50:47.187Z",
+    "storeId": "store-009"
+  },
+  {
+    "id": "P01007",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Daire - New Saint Barthélemy",
+    "slug": "satilik-daire-new-saint-barthélemy-P01007",
+    "description": "New Saint Barthélemy, Saint Barthélemy bölgesinde daire. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 7348433,
+    "location": {
+      "country": "BL",
+      "city": "New Saint Barthélemy",
+      "district": "New Saint Barthélemy Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 189",
+      "coordinates": {
+        "lat": 18.032969152513473,
+        "lng": -63.69702127379716
+      }
+    },
+    "specs": {
+      "netSize": 177,
+      "grossSize": 212,
+      "rooms": "5+1",
+      "bathrooms": 4,
+      "age": 19,
+      "floor": 13,
+      "totalFloors": 10,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Furnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500447855181?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500576568077?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500985236330?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500806476020?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500959921547?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500555127614?w=800&q=80&category=real-estate"
+    ],
+    "agent": {
+      "id": "A89",
+      "name": "Agent 21",
+      "phone": "+90 663 393 7513",
+      "email": "agent8@iwrealty.com",
+      "photo": "/images/icons/png/dubai-property-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-01-22T10:50:47.187Z",
+    "updatedAt": "2025-11-13T10:50:47.187Z",
+    "storeId": "store-004"
+  },
+  {
+    "id": "P01008",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Müstakil Ev - Saint Barthélemy City",
+    "slug": "kiralik-müstakil-ev-saint-barthélemy-city-P01008",
+    "description": "Saint Barthélemy City, Saint Barthélemy bölgesinde müstakil ev. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 8809007,
+    "location": {
+      "country": "BL",
+      "city": "Saint Barthélemy City",
+      "district": "Saint Barthélemy City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 472",
+      "coordinates": {
+        "lat": 18.395929036149973,
+        "lng": -63.3429022786688
+      }
+    },
+    "specs": {
+      "netSize": 311,
+      "grossSize": 373,
+      "rooms": "4+1",
+      "bathrooms": 2,
+      "age": 18,
+      "floor": 8,
+      "totalFloors": 11,
+      "heating": "Kombi",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500842885766?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500351773351?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500724667966?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500824567027?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500645303476?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500392854006?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500641042499?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500599546109?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500158819495?w=800&q=80&category=architecture"
+    ],
+    "agent": {
+      "id": "A48",
+      "name": "Agent 12",
+      "phone": "+24 587 872 3873",
+      "email": "agent35@iwrealty.com",
+      "photo": "/images/icons/png/luxury-homes-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": false,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-08-09T10:50:47.187Z",
+    "updatedAt": "2025-11-13T10:50:47.187Z",
+    "storeId": "store-002"
+  },
+  {
+    "id": "P01009",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Residence - New Saint Barthélemy",
+    "slug": "satilik-residence-new-saint-barthélemy-P01009",
+    "description": "New Saint Barthélemy, Saint Barthélemy bölgesinde residence. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 871212,
+    "location": {
+      "country": "BL",
+      "city": "New Saint Barthélemy",
+      "district": "New Saint Barthélemy Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 233",
+      "coordinates": {
+        "lat": 18.323754091171345,
+        "lng": -63.881472006309615
+      }
+    },
+    "specs": {
+      "netSize": 285,
+      "grossSize": 342,
+      "rooms": "4+2",
+      "bathrooms": 4,
+      "age": 19,
+      "floor": 8,
+      "totalFloors": 9,
+      "heating": "Klima",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500073875696?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500281979830?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500903795213?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500155625790?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500852780384?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500338304001?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500150004786?w=800&q=80&category=architecture"
+    ],
+    "agent": {
+      "id": "A47",
+      "name": "Agent 18",
+      "phone": "+84 653 613 9131",
+      "email": "agent39@iwrealty.com",
+      "photo": "/images/icons/png/sydney-coastal-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": false,
+      "hasBalcony": false,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-01-10T10:50:47.187Z",
+    "updatedAt": "2025-11-13T10:50:47.187Z",
+    "storeId": "store-012"
+  },
+  {
+    "id": "P01010",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Müstakil Ev - Gustavia",
+    "slug": "kiralik-müstakil-ev-gustavia-P01010",
+    "description": "Gustavia, Saint Barthélemy bölgesinde müstakil ev. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 1078896,
+    "location": {
+      "country": "BL",
+      "city": "Gustavia",
+      "district": "Gustavia Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 434",
+      "coordinates": {
+        "lat": 18.84529013393862,
+        "lng": -63.20075513327401
+      }
+    },
+    "specs": {
+      "netSize": 195,
+      "grossSize": 234,
+      "rooms": "5+0",
+      "bathrooms": 1,
+      "age": 7,
+      "floor": 12,
+      "totalFloors": 16,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Unfurnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500314613720?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500024608224?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500297300314?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500477278234?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500367087728?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500526222093?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500719366979?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500816285803?w=800&q=80&category=interior"
+    ],
+    "agent": {
+      "id": "A67",
+      "name": "Agent 66",
+      "phone": "+72 901 934 1709",
+      "email": "agent85@iwrealty.com",
+      "photo": "/images/icons/png/ankara-modern-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": false,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-06-08T10:50:47.187Z",
+    "updatedAt": "2025-11-13T10:50:47.187Z",
+    "storeId": "store-003"
+  },
+  {
+    "id": "P01011",
+    "type": "sale",
+    "category": {
+      "main": "commercial",
+      "sub": "hospital"
+    },
+    "title": "Satılık Hastane - Gustavia",
+    "slug": "satilik-hastane-gustavia-P01011",
+    "description": "Gustavia, Saint Barthélemy bölgesinde hastane. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 68755945,
+    "location": {
+      "country": "BL",
+      "city": "Gustavia",
+      "district": "Gustavia Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 987",
+      "coordinates": {
+        "lat": 18.089123399688045,
+        "lng": -63.73753350857357
+      }
+    },
+    "specs": {
+      "netSize": 19054,
+      "grossSize": 22865,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 5,
+      "floor": 3,
+      "totalFloors": 19,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Unfurnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500528154747?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500662415948?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500661322312?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500231338281?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500825610496?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500236631390?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500971393517?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500368316636?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500344284125?w=800&q=80&category=interior"
+    ],
+    "agent": {
+      "id": "A2",
+      "name": "Agent 42",
+      "phone": "+95 495 202 2932",
+      "email": "agent83@iwrealty.com",
+      "photo": "/images/icons/png/ny-skyline-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-06-14T10:50:47.187Z",
+    "updatedAt": "2025-11-13T10:50:47.187Z",
+    "storeId": "store-008"
+  },
+  {
+    "id": "P01012",
+    "type": "rent",
+    "category": {
+      "main": "commercial",
+      "sub": "hospital"
+    },
+    "title": "Kiralık Hastane - Saint Barthélemy Central",
+    "slug": "kiralik-hastane-saint-barthélemy-central-P01012",
+    "description": "Saint Barthélemy Central, Saint Barthélemy bölgesinde hastane. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 36447760,
+    "location": {
+      "country": "BL",
+      "city": "Saint Barthélemy Central",
+      "district": "Saint Barthélemy Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 175",
+      "coordinates": {
+        "lat": 18.887458191174353,
+        "lng": -63.36288715892108
+      }
+    },
+    "specs": {
+      "netSize": 7194,
+      "grossSize": 8633,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 12,
+      "floor": 9,
+      "totalFloors": 14,
+      "heating": "Klima",
+      "furnishing": "Unfurnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500707130126?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500601483970?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500717069981?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500425656636?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500651831300?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500959756882?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500508147856?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500380886590?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500663484996?w=800&q=80&category=house"
+    ],
+    "agent": {
+      "id": "A13",
+      "name": "Agent 74",
+      "phone": "+65 493 329 6480",
+      "email": "agent20@iwrealty.com",
+      "photo": "/images/icons/png/sydney-coastal-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-08-30T10:50:47.187Z",
+    "updatedAt": "2025-11-13T10:50:47.187Z",
+    "storeId": "store-012"
+  },
+  {
+    "id": "P01013",
+    "type": "sale",
+    "category": {
+      "main": "commercial",
+      "sub": "clinic"
+    },
+    "title": "Satılık Klinik - Gustavia",
+    "slug": "satilik-klinik-gustavia-P01013",
+    "description": "Gustavia, Saint Barthélemy bölgesinde klinik. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 6686820,
+    "location": {
+      "country": "BL",
+      "city": "Gustavia",
+      "district": "Gustavia Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 882",
+      "coordinates": {
+        "lat": 18.420754358800504,
+        "lng": -63.332883663709545
+      }
+    },
+    "specs": {
+      "netSize": 708,
+      "grossSize": 850,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 1,
+      "floor": 12,
+      "totalFloors": 17,
+      "heating": "Kombi",
+      "furnishing": "Furnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500846581058?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500133554280?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500945102437?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500341542961?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500899986740?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500601656036?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500980647535?w=800&q=80&category=real-estate"
+    ],
+    "agent": {
+      "id": "A45",
+      "name": "Agent 58",
+      "phone": "+90 982 547 2183",
+      "email": "agent51@iwrealty.com",
+      "photo": "/images/icons/png/antalya-investment-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-09-27T10:50:47.187Z",
+    "updatedAt": "2025-11-13T10:50:47.187Z",
+    "storeId": "store-006"
+  },
+  {
+    "id": "P01014",
+    "type": "rent",
+    "category": {
+      "main": "commercial",
+      "sub": "clinic"
+    },
+    "title": "Kiralık Klinik - New Saint Barthélemy",
+    "slug": "kiralik-klinik-new-saint-barthélemy-P01014",
+    "description": "New Saint Barthélemy, Saint Barthélemy bölgesinde klinik. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 4906810,
+    "location": {
+      "country": "BL",
+      "city": "New Saint Barthélemy",
+      "district": "New Saint Barthélemy Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 3",
+      "coordinates": {
+        "lat": 18.44233191465627,
+        "lng": -63.874029888293244
+      }
+    },
+    "specs": {
+      "netSize": 775,
+      "grossSize": 930,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 15,
+      "floor": 7,
+      "totalFloors": 7,
+      "heating": "Kombi",
+      "furnishing": "Furnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500782690810?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500595677624?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500527351220?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500370062179?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500955962621?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500219162809?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500977305850?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500446499295?w=800&q=80&category=architecture"
+    ],
+    "agent": {
+      "id": "A18",
+      "name": "Agent 39",
+      "phone": "+28 354 678 8779",
+      "email": "agent73@iwrealty.com",
+      "photo": "/images/icons/png/antalya-investment-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": true,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-05-31T10:50:47.187Z",
+    "updatedAt": "2025-11-13T10:50:47.187Z",
+    "storeId": "store-006"
+  },
+  {
+    "id": "P01015",
+    "type": "sale",
+    "category": {
+      "main": "commercial",
+      "sub": "shop"
+    },
+    "title": "Satılık Dükkan - Saint Barthélemy Central",
+    "slug": "satilik-dükkan-saint-barthélemy-central-P01015",
+    "description": "Saint Barthélemy Central, Saint Barthélemy bölgesinde dükkan. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 4132179,
+    "location": {
+      "country": "BL",
+      "city": "Saint Barthélemy Central",
+      "district": "Saint Barthélemy Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 184",
+      "coordinates": {
+        "lat": 18.896783574720022,
+        "lng": -63.05355625756756
+      }
+    },
+    "specs": {
+      "netSize": 186,
+      "grossSize": 223,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 5,
+      "floor": 10,
+      "totalFloors": 11,
+      "heating": "Kombi",
+      "furnishing": "Unfurnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500546669728?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500981690390?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500065935193?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500034018262?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500906247301?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500102912174?w=800&q=80&category=real-estate"
+    ],
+    "agent": {
+      "id": "A2",
+      "name": "Agent 14",
+      "phone": "+85 950 976 3745",
+      "email": "agent18@iwrealty.com",
+      "photo": "/images/icons/png/berlin-urban-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2024-12-18T10:50:47.187Z",
+    "updatedAt": "2025-11-13T10:50:47.187Z",
+    "storeId": "store-009"
+  },
+  {
+    "id": "P01016",
+    "type": "rent",
+    "category": {
+      "main": "commercial",
+      "sub": "shop"
+    },
+    "title": "Kiralık Dükkan - Saint Barthélemy City",
+    "slug": "kiralik-dükkan-saint-barthélemy-city-P01016",
+    "description": "Saint Barthélemy City, Saint Barthélemy bölgesinde dükkan. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 6991684,
+    "location": {
+      "country": "BL",
+      "city": "Saint Barthélemy City",
+      "district": "Saint Barthélemy City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 734",
+      "coordinates": {
+        "lat": 18.428205651584385,
+        "lng": -63.13118433536719
+      }
+    },
+    "specs": {
+      "netSize": 464,
+      "grossSize": 557,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 7,
+      "floor": 9,
+      "totalFloors": 11,
+      "heating": "Klima",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500648865888?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500661917384?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500252758507?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500651701041?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500195386749?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500794138176?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500486769906?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500172355774?w=800&q=80&category=interior"
+    ],
+    "agent": {
+      "id": "A71",
+      "name": "Agent 75",
+      "phone": "+15 242 450 9830",
+      "email": "agent81@iwrealty.com",
+      "photo": "/images/icons/png/berlin-urban-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-05-01T10:50:47.187Z",
+    "updatedAt": "2025-11-13T10:50:47.187Z",
+    "storeId": "store-009"
+  },
+  {
+    "id": "P01017",
+    "type": "sale",
+    "category": {
+      "main": "commercial",
+      "sub": "office"
+    },
+    "title": "Satılık Ofis - Saint Barthélemy City",
+    "slug": "satilik-ofis-saint-barthélemy-city-P01017",
+    "description": "Saint Barthélemy City, Saint Barthélemy bölgesinde ofis. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 11997028,
+    "location": {
+      "country": "BL",
+      "city": "Saint Barthélemy City",
+      "district": "Saint Barthélemy City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 75",
+      "coordinates": {
+        "lat": 18.53982777316619,
+        "lng": -63.31937473758055
+      }
+    },
+    "specs": {
+      "netSize": 883,
+      "grossSize": 1060,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 12,
+      "floor": 12,
+      "totalFloors": 14,
+      "heating": "Merkezi",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500175607448?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500195409368?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500456038619?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500714089790?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500226579557?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500469618151?w=800&q=80&category=architecture"
+    ],
+    "agent": {
+      "id": "A69",
+      "name": "Agent 89",
+      "phone": "+74 225 538 3273",
+      "email": "agent92@iwrealty.com",
+      "photo": "/images/icons/png/izmir-sahil-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-05-14T10:50:47.187Z",
+    "updatedAt": "2025-11-13T10:50:47.187Z",
+    "storeId": "store-005"
+  },
+  {
+    "id": "P01018",
+    "type": "rent",
+    "category": {
+      "main": "commercial",
+      "sub": "office"
+    },
+    "title": "Kiralık Ofis - Saint Barthélemy Central",
+    "slug": "kiralik-ofis-saint-barthélemy-central-P01018",
+    "description": "Saint Barthélemy Central, Saint Barthélemy bölgesinde ofis. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 2832679,
+    "location": {
+      "country": "BL",
+      "city": "Saint Barthélemy Central",
+      "district": "Saint Barthélemy Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 736",
+      "coordinates": {
+        "lat": 18.85554430945027,
+        "lng": -63.52880592383033
+      }
+    },
+    "specs": {
+      "netSize": 173,
+      "grossSize": 208,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 12,
+      "floor": 1,
+      "totalFloors": 18,
+      "heating": "Merkezi",
+      "furnishing": "Furnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500714273156?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500515326286?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500984103068?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500114132407?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500266654271?w=800&q=80&category=real-estate"
+    ],
+    "agent": {
+      "id": "A3",
+      "name": "Agent 61",
+      "phone": "+60 570 142 7338",
+      "email": "agent80@iwrealty.com",
+      "photo": "/images/icons/png/berlin-urban-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": false,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-08-19T10:50:47.187Z",
+    "updatedAt": "2025-11-13T10:50:47.187Z",
+    "storeId": "store-009"
+  },
+  {
+    "id": "P01019",
+    "type": "sale",
+    "category": {
+      "main": "commercial",
+      "sub": "mall"
+    },
+    "title": "Satılık AVM - New Saint Barthélemy",
+    "slug": "satilik-avm-new-saint-barthélemy-P01019",
+    "description": "New Saint Barthélemy, Saint Barthélemy bölgesinde avm. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 430161740,
+    "location": {
+      "country": "BL",
+      "city": "New Saint Barthélemy",
+      "district": "New Saint Barthélemy Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 643",
+      "coordinates": {
+        "lat": 18.703535317498147,
+        "lng": -63.211123312006386
+      }
+    },
+    "specs": {
+      "netSize": 30709,
+      "grossSize": 36851,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 12,
+      "floor": 3,
+      "totalFloors": 15,
+      "heating": "Klima",
+      "furnishing": "Furnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500949395020?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500386865042?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500121610796?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500061088020?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500792335195?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500920912595?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500949443131?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500043557757?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500753686812?w=800&q=80&category=architecture"
+    ],
+    "agent": {
+      "id": "A53",
+      "name": "Agent 77",
+      "phone": "+70 405 160 6545",
+      "email": "agent26@iwrealty.com",
+      "photo": "/images/icons/png/paris-heritage-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": true,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-02-25T10:50:47.187Z",
+    "updatedAt": "2025-11-13T10:50:47.187Z",
+    "storeId": "store-010"
+  },
+  {
+    "id": "P01020",
+    "type": "rent",
+    "category": {
+      "main": "commercial",
+      "sub": "mall"
+    },
+    "title": "Kiralık AVM - New Saint Barthélemy",
+    "slug": "kiralik-avm-new-saint-barthélemy-P01020",
+    "description": "New Saint Barthélemy, Saint Barthélemy bölgesinde avm. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 365758370,
+    "location": {
+      "country": "BL",
+      "city": "New Saint Barthélemy",
+      "district": "New Saint Barthélemy Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 365",
+      "coordinates": {
+        "lat": 18.924229833597714,
+        "lng": -63.302009507383595
+      }
+    },
+    "specs": {
+      "netSize": 32004,
+      "grossSize": 38405,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 10,
+      "floor": 12,
+      "totalFloors": 9,
+      "heating": "Kombi",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500625650929?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500869082292?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500992399918?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500079707225?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500525133316?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500535408408?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500816466408?w=800&q=80&category=real-estate"
+    ],
+    "agent": {
+      "id": "A26",
+      "name": "Agent 70",
+      "phone": "+88 869 758 9419",
+      "email": "agent38@iwrealty.com",
+      "photo": "/images/icons/png/sydney-coastal-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-02-23T10:50:47.187Z",
+    "updatedAt": "2025-11-13T10:50:47.187Z",
+    "storeId": "store-012"
+  },
+  {
+    "id": "P01021",
+    "type": "sale",
+    "category": {
+      "main": "commercial",
+      "sub": "hotel"
+    },
+    "title": "Satılık Otel - Saint Barthélemy City",
+    "slug": "satilik-otel-saint-barthélemy-city-P01021",
+    "description": "Saint Barthélemy City, Saint Barthélemy bölgesinde otel. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 127861332,
+    "location": {
+      "country": "BL",
+      "city": "Saint Barthélemy City",
+      "district": "Saint Barthélemy City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 768",
+      "coordinates": {
+        "lat": 18.059756920776884,
+        "lng": -63.49629756354455
+      }
+    },
+    "specs": {
+      "netSize": 28742,
+      "grossSize": 34490,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 0,
+      "floor": 10,
+      "totalFloors": 15,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500615253980?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500344686410?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500215887624?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500288624054?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500643288030?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500227550150?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500471778022?w=800&q=80&category=building"
+    ],
+    "agent": {
+      "id": "A30",
+      "name": "Agent 32",
+      "phone": "+19 699 501 5286",
+      "email": "agent41@iwrealty.com",
+      "photo": "/images/icons/png/luxury-homes-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": false,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-02-17T10:50:47.187Z",
+    "updatedAt": "2025-11-13T10:50:47.187Z",
+    "storeId": "store-002"
+  },
+  {
+    "id": "P01022",
+    "type": "rent",
+    "category": {
+      "main": "commercial",
+      "sub": "hotel"
+    },
+    "title": "Kiralık Otel - New Saint Barthélemy",
+    "slug": "kiralik-otel-new-saint-barthélemy-P01022",
+    "description": "New Saint Barthélemy, Saint Barthélemy bölgesinde otel. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 46578481,
+    "location": {
+      "country": "BL",
+      "city": "New Saint Barthélemy",
+      "district": "New Saint Barthélemy Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 10",
+      "coordinates": {
+        "lat": 18.01679910561955,
+        "lng": -63.753443266455626
+      }
+    },
+    "specs": {
+      "netSize": 9446,
+      "grossSize": 11335,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 16,
+      "floor": 8,
+      "totalFloors": 11,
+      "heating": "Klima",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500063306787?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500712507658?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500236463908?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500134925092?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500826798632?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500557184237?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500806106698?w=800&q=80&category=interior"
+    ],
+    "agent": {
+      "id": "A1",
+      "name": "Agent 59",
+      "phone": "+17 352 513 6072",
+      "email": "agent94@iwrealty.com",
+      "photo": "/images/icons/png/sg-harbour-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": false,
+      "hasBalcony": false,
+      "hasGarden": true,
+      "hasPool": true,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-04-26T10:50:47.187Z",
+    "updatedAt": "2025-11-13T10:50:47.187Z",
+    "storeId": "store-011"
+  },
+  {
+    "id": "P01023",
+    "type": "sale",
+    "category": {
+      "main": "commercial",
+      "sub": "restaurant"
+    },
+    "title": "Satılık Restoran - New Saint Barthélemy",
+    "slug": "satilik-restoran-new-saint-barthélemy-P01023",
+    "description": "New Saint Barthélemy, Saint Barthélemy bölgesinde restoran. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 7470904,
+    "location": {
+      "country": "BL",
+      "city": "New Saint Barthélemy",
+      "district": "New Saint Barthélemy Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 331",
+      "coordinates": {
+        "lat": 18.89089044986033,
+        "lng": -63.416188157089785
+      }
+    },
+    "specs": {
+      "netSize": 979,
+      "grossSize": 1175,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 2,
+      "floor": 7,
+      "totalFloors": 8,
+      "heating": "Kombi",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500352755895?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500059930865?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500056938380?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500071193937?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500515835202?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500857289783?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500617559985?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500639808056?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500197401365?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500349136008?w=800&q=80&category=architecture"
+    ],
+    "agent": {
+      "id": "A86",
+      "name": "Agent 6",
+      "phone": "+41 106 399 9980",
+      "email": "agent13@iwrealty.com",
+      "photo": "/images/icons/png/sydney-coastal-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": true,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-10-13T10:50:47.187Z",
+    "updatedAt": "2025-11-13T10:50:47.187Z",
+    "storeId": "store-012"
+  },
+  {
+    "id": "P01024",
+    "type": "rent",
+    "category": {
+      "main": "commercial",
+      "sub": "restaurant"
+    },
+    "title": "Kiralık Restoran - Saint Barthélemy City",
+    "slug": "kiralik-restoran-saint-barthélemy-city-P01024",
+    "description": "Saint Barthélemy City, Saint Barthélemy bölgesinde restoran. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 1224563,
+    "location": {
+      "country": "BL",
+      "city": "Saint Barthélemy City",
+      "district": "Saint Barthélemy City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 224",
+      "coordinates": {
+        "lat": 18.99977057107566,
+        "lng": -63.37050478274486
+      }
+    },
+    "specs": {
+      "netSize": 913,
+      "grossSize": 1096,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 5,
+      "floor": 3,
+      "totalFloors": 14,
+      "heating": "Klima",
+      "furnishing": "Unfurnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500770966528?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500237784325?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500250965722?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500919998302?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500467691238?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500908898592?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500165603928?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500890129278?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500167159543?w=800&q=80&category=real-estate"
+    ],
+    "agent": {
+      "id": "A13",
+      "name": "Agent 4",
+      "phone": "+61 944 781 8201",
+      "email": "agent86@iwrealty.com",
+      "photo": "/images/icons/png/antalya-investment-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-02-16T10:50:47.187Z",
+    "updatedAt": "2025-11-13T10:50:47.187Z",
+    "storeId": "store-006"
+  },
+  {
+    "id": "P01025",
+    "type": "sale",
+    "category": {
+      "main": "commercial",
+      "sub": "warehouse"
+    },
+    "title": "Satılık Depo - New Saint Barthélemy",
+    "slug": "satilik-depo-new-saint-barthélemy-P01025",
+    "description": "New Saint Barthélemy, Saint Barthélemy bölgesinde depo. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 8144875,
+    "location": {
+      "country": "BL",
+      "city": "New Saint Barthélemy",
+      "district": "New Saint Barthélemy Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 74",
+      "coordinates": {
+        "lat": 18.90665600456378,
+        "lng": -63.89215247349753
+      }
+    },
+    "specs": {
+      "netSize": 832,
+      "grossSize": 998,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 17,
+      "floor": 3,
+      "totalFloors": 12,
+      "heating": "Kombi",
+      "furnishing": "Furnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500113978639?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500654262244?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500525717198?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500107496283?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500416698959?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500073232489?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500999587329?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500730325190?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500487431771?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500190089168?w=800&q=80&category=real-estate"
+    ],
+    "agent": {
+      "id": "A42",
+      "name": "Agent 45",
+      "phone": "+40 200 313 4207",
+      "email": "agent46@iwrealty.com",
+      "photo": "/images/icons/png/sg-harbour-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-07-29T10:50:47.187Z",
+    "updatedAt": "2025-11-13T10:50:47.187Z",
+    "storeId": "store-011"
+  },
+  {
+    "id": "P01026",
+    "type": "rent",
+    "category": {
+      "main": "commercial",
+      "sub": "warehouse"
+    },
+    "title": "Kiralık Depo - New Saint Barthélemy",
+    "slug": "kiralik-depo-new-saint-barthélemy-P01026",
+    "description": "New Saint Barthélemy, Saint Barthélemy bölgesinde depo. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 8611511,
+    "location": {
+      "country": "BL",
+      "city": "New Saint Barthélemy",
+      "district": "New Saint Barthélemy Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 258",
+      "coordinates": {
+        "lat": 18.954897594208912,
+        "lng": -63.24231365626059
+      }
+    },
+    "specs": {
+      "netSize": 3778,
+      "grossSize": 4534,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 2,
+      "floor": 2,
+      "totalFloors": 12,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500468677853?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500856681769?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500240851012?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500081880354?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500890637315?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500409700409?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500242973880?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500815308401?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500549590728?w=800&q=80&category=real-estate"
+    ],
+    "agent": {
+      "id": "A41",
+      "name": "Agent 12",
+      "phone": "+70 149 493 7225",
+      "email": "agent24@iwrealty.com",
+      "photo": "/images/icons/png/izmir-sahil-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-01-26T10:50:47.187Z",
+    "updatedAt": "2025-11-13T10:50:47.187Z",
+    "storeId": "store-005"
+  }
+]

@@ -1,0 +1,2362 @@
+[
+  {
+    "id": "P08665",
+    "type": "sale",
+    "category": {
+      "main": "government"
+    },
+    "title": "Satılık Belediye Binası - New Tuvalu",
+    "slug": "satilik-belediye-binası-new-tuvalu-P08665",
+    "description": "New Tuvalu, Tuvalu bölgesinde belediye binası. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 36432839,
+    "location": {
+      "country": "TV",
+      "city": "New Tuvalu",
+      "district": "New Tuvalu Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 973",
+      "coordinates": {
+        "lat": -8.474135457445042,
+        "lng": 178.3991111325126
+      }
+    },
+    "specs": {
+      "netSize": 1458,
+      "grossSize": 1750,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 18,
+      "floor": 6,
+      "totalFloors": 19,
+      "heating": "Klima",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500081872068?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500873584434?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500619913980?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500171463305?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500121543538?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500429832002?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500149068681?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500578689173?w=800&q=80&category=building"
+    ],
+    "agent": {
+      "id": "A34",
+      "name": "Agent 75",
+      "phone": "+44 469 751 9501",
+      "email": "agent3@iwrealty.com",
+      "photo": "/images/icons/png/dubai-property-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-05-25T10:50:47.273Z",
+    "updatedAt": "2025-11-13T10:50:47.273Z",
+    "storeId": "store-004"
+  },
+  {
+    "id": "P08666",
+    "type": "rent",
+    "category": {
+      "main": "government"
+    },
+    "title": "Kiralık Okul - Tuvalu City",
+    "slug": "kiralik-okul-tuvalu-city-P08666",
+    "description": "Tuvalu City, Tuvalu bölgesinde okul. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 29340718,
+    "location": {
+      "country": "TV",
+      "city": "Tuvalu City",
+      "district": "Tuvalu City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 325",
+      "coordinates": {
+        "lat": -8.11989884571958,
+        "lng": 178.4564430619476
+      }
+    },
+    "specs": {
+      "netSize": 2720,
+      "grossSize": 3264,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 17,
+      "floor": 10,
+      "totalFloors": 20,
+      "heating": "Klima",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500376662482?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500552770682?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500038160704?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500351921448?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500411485078?w=800&q=80&category=real-estate"
+    ],
+    "agent": {
+      "id": "A31",
+      "name": "Agent 81",
+      "phone": "+39 841 963 8565",
+      "email": "agent52@iwrealty.com",
+      "photo": "/images/icons/png/paris-heritage-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": true,
+      "hasPool": true,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-10-23T10:50:47.273Z",
+    "updatedAt": "2025-11-13T10:50:47.273Z",
+    "storeId": "store-010"
+  },
+  {
+    "id": "P08667",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Villa - Tuvalu Central",
+    "slug": "satilik-villa-tuvalu-central-P08667",
+    "description": "Tuvalu Central, Tuvalu bölgesinde villa. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 2767912,
+    "location": {
+      "country": "TV",
+      "city": "Tuvalu Central",
+      "district": "Tuvalu Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 887",
+      "coordinates": {
+        "lat": -8.437256190625565,
+        "lng": 177.70441092782698
+      }
+    },
+    "specs": {
+      "netSize": 81,
+      "grossSize": 97,
+      "rooms": "3+2",
+      "bathrooms": 3,
+      "age": 18,
+      "floor": 15,
+      "totalFloors": 10,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500001001738?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500712452606?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500845947165?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500556122320?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500403324859?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500338295132?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500895278221?w=800&q=80&category=interior"
+    ],
+    "agent": {
+      "id": "A31",
+      "name": "Agent 1",
+      "phone": "+29 844 286 7967",
+      "email": "agent29@iwrealty.com",
+      "photo": "/images/icons/png/london-prime-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": false,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-09-13T10:50:47.273Z",
+    "updatedAt": "2025-11-13T10:50:47.273Z",
+    "storeId": "store-007"
+  },
+  {
+    "id": "P08668",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Daire - Funafuti",
+    "slug": "kiralik-daire-funafuti-P08668",
+    "description": "Funafuti, Tuvalu bölgesinde daire. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 9442153,
+    "location": {
+      "country": "TV",
+      "city": "Funafuti",
+      "district": "Funafuti Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 689",
+      "coordinates": {
+        "lat": -8.474174634049044,
+        "lng": 177.81389594947987
+      }
+    },
+    "specs": {
+      "netSize": 192,
+      "grossSize": 230,
+      "rooms": "1+0",
+      "bathrooms": 4,
+      "age": 12,
+      "floor": 6,
+      "totalFloors": 12,
+      "heating": "Kombi",
+      "furnishing": "Furnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500247971201?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500603488212?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500182348669?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500584685030?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500114187442?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500782233799?w=800&q=80&category=house"
+    ],
+    "agent": {
+      "id": "A34",
+      "name": "Agent 25",
+      "phone": "+65 181 717 4584",
+      "email": "agent59@iwrealty.com",
+      "photo": "/images/icons/png/paris-heritage-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": true,
+      "hasSecurity": true
+    },
+    "createdAt": "2024-11-16T10:50:47.273Z",
+    "updatedAt": "2025-11-13T10:50:47.273Z",
+    "storeId": "store-010"
+  },
+  {
+    "id": "P08669",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Müstakil Ev - New Tuvalu",
+    "slug": "satilik-müstakil-ev-new-tuvalu-P08669",
+    "description": "New Tuvalu, Tuvalu bölgesinde müstakil ev. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 12630623,
+    "location": {
+      "country": "TV",
+      "city": "New Tuvalu",
+      "district": "New Tuvalu Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 157",
+      "coordinates": {
+        "lat": -8.25534954481027,
+        "lng": 178.1002273021695
+      }
+    },
+    "specs": {
+      "netSize": 151,
+      "grossSize": 181,
+      "rooms": "2+2",
+      "bathrooms": 1,
+      "age": 19,
+      "floor": 2,
+      "totalFloors": 8,
+      "heating": "Klima",
+      "furnishing": "Furnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500262296561?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500460788390?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500716556935?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500351863231?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500896085849?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500982434359?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500049510137?w=800&q=80&category=real-estate"
+    ],
+    "agent": {
+      "id": "A59",
+      "name": "Agent 72",
+      "phone": "+83 903 668 5731",
+      "email": "agent93@iwrealty.com",
+      "photo": "/images/icons/png/izmir-sahil-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-10-21T10:50:47.273Z",
+    "updatedAt": "2025-11-13T10:50:47.273Z",
+    "storeId": "store-005"
+  },
+  {
+    "id": "P08670",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Daire - New Tuvalu",
+    "slug": "kiralik-daire-new-tuvalu-P08670",
+    "description": "New Tuvalu, Tuvalu bölgesinde daire. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 12720842,
+    "location": {
+      "country": "TV",
+      "city": "New Tuvalu",
+      "district": "New Tuvalu Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 552",
+      "coordinates": {
+        "lat": -7.817753301605871,
+        "lng": 177.8446161240831
+      }
+    },
+    "specs": {
+      "netSize": 247,
+      "grossSize": 296,
+      "rooms": "5+2",
+      "bathrooms": 3,
+      "age": 14,
+      "floor": 13,
+      "totalFloors": 11,
+      "heating": "Kombi",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500896856841?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500399838864?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500293502520?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500768464649?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500218337879?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500829996561?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500450500921?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500093555617?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500052399737?w=800&q=80&category=real-estate"
+    ],
+    "agent": {
+      "id": "A23",
+      "name": "Agent 3",
+      "phone": "+34 242 782 7090",
+      "email": "agent16@iwrealty.com",
+      "photo": "/images/icons/png/ny-skyline-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": true,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-05-17T10:50:47.273Z",
+    "updatedAt": "2025-11-13T10:50:47.273Z",
+    "storeId": "store-008"
+  },
+  {
+    "id": "P08671",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Müstakil Ev - New Tuvalu",
+    "slug": "satilik-müstakil-ev-new-tuvalu-P08671",
+    "description": "New Tuvalu, Tuvalu bölgesinde müstakil ev. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 7913398,
+    "location": {
+      "country": "TV",
+      "city": "New Tuvalu",
+      "district": "New Tuvalu Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 959",
+      "coordinates": {
+        "lat": -8.43243834497781,
+        "lng": 177.64262754983372
+      }
+    },
+    "specs": {
+      "netSize": 367,
+      "grossSize": 440,
+      "rooms": "4+1",
+      "bathrooms": 3,
+      "age": 17,
+      "floor": 14,
+      "totalFloors": 18,
+      "heating": "Kombi",
+      "furnishing": "Furnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500672651587?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500321297590?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500750152515?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500566566773?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500936627403?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500592663903?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500157176520?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500364932264?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500518329818?w=800&q=80&category=house"
+    ],
+    "agent": {
+      "id": "A28",
+      "name": "Agent 3",
+      "phone": "+42 178 235 5587",
+      "email": "agent22@iwrealty.com",
+      "photo": "/images/icons/png/ankara-modern-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-07-07T10:50:47.273Z",
+    "updatedAt": "2025-11-13T10:50:47.273Z",
+    "storeId": "store-003"
+  },
+  {
+    "id": "P08672",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Villa - Funafuti",
+    "slug": "kiralik-villa-funafuti-P08672",
+    "description": "Funafuti, Tuvalu bölgesinde villa. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 12877587,
+    "location": {
+      "country": "TV",
+      "city": "Funafuti",
+      "district": "Funafuti Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 289",
+      "coordinates": {
+        "lat": -7.675333793693985,
+        "lng": 177.51970080592935
+      }
+    },
+    "specs": {
+      "netSize": 291,
+      "grossSize": 349,
+      "rooms": "2+0",
+      "bathrooms": 2,
+      "age": 19,
+      "floor": 7,
+      "totalFloors": 19,
+      "heating": "Klima",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500326809339?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500065346710?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500187290035?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500020368418?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500417133058?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500743047789?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500936144126?w=800&q=80&category=house"
+    ],
+    "agent": {
+      "id": "A16",
+      "name": "Agent 3",
+      "phone": "+74 420 934 2727",
+      "email": "agent36@iwrealty.com",
+      "photo": "/images/icons/png/berlin-urban-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": false,
+      "hasBalcony": false,
+      "hasGarden": true,
+      "hasPool": true,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-11-05T10:50:47.273Z",
+    "updatedAt": "2025-11-13T10:50:47.273Z",
+    "storeId": "store-009"
+  },
+  {
+    "id": "P08673",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Müstakil Ev - Funafuti",
+    "slug": "satilik-müstakil-ev-funafuti-P08673",
+    "description": "Funafuti, Tuvalu bölgesinde müstakil ev. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 4343044,
+    "location": {
+      "country": "TV",
+      "city": "Funafuti",
+      "district": "Funafuti Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 334",
+      "coordinates": {
+        "lat": -7.863980575393982,
+        "lng": 178.05265324400804
+      }
+    },
+    "specs": {
+      "netSize": 190,
+      "grossSize": 228,
+      "rooms": "5+0",
+      "bathrooms": 2,
+      "age": 12,
+      "floor": 8,
+      "totalFloors": 11,
+      "heating": "Klima",
+      "furnishing": "Furnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500330718341?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500207085366?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500442518717?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500762422143?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500477471264?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500827995264?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500137256660?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500810610023?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500415735457?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500501644959?w=800&q=80&category=interior"
+    ],
+    "agent": {
+      "id": "A77",
+      "name": "Agent 83",
+      "phone": "+69 697 669 1976",
+      "email": "agent27@iwrealty.com",
+      "photo": "/images/icons/png/antalya-investment-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": false,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": true,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-09-29T10:50:47.273Z",
+    "updatedAt": "2025-11-13T10:50:47.273Z",
+    "storeId": "store-006"
+  },
+  {
+    "id": "P08674",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Villa - Tuvalu City",
+    "slug": "kiralik-villa-tuvalu-city-P08674",
+    "description": "Tuvalu City, Tuvalu bölgesinde villa. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 6721284,
+    "location": {
+      "country": "TV",
+      "city": "Tuvalu City",
+      "district": "Tuvalu City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 626",
+      "coordinates": {
+        "lat": -7.795579630642697,
+        "lng": 177.67852224079067
+      }
+    },
+    "specs": {
+      "netSize": 292,
+      "grossSize": 350,
+      "rooms": "5+1",
+      "bathrooms": 4,
+      "age": 7,
+      "floor": 8,
+      "totalFloors": 19,
+      "heating": "Merkezi",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500680534702?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500857390380?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500845648582?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500064429438?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500556666730?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500981663943?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500814472081?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500908161066?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500911452414?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500682666058?w=800&q=80&category=interior"
+    ],
+    "agent": {
+      "id": "A39",
+      "name": "Agent 79",
+      "phone": "+32 653 144 8337",
+      "email": "agent76@iwrealty.com",
+      "photo": "/images/icons/png/dubai-property-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2024-11-13T10:50:47.273Z",
+    "updatedAt": "2025-11-13T10:50:47.273Z",
+    "storeId": "store-004"
+  },
+  {
+    "id": "P08675",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Müstakil Ev - Funafuti",
+    "slug": "satilik-müstakil-ev-funafuti-P08675",
+    "description": "Funafuti, Tuvalu bölgesinde müstakil ev. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 3333026,
+    "location": {
+      "country": "TV",
+      "city": "Funafuti",
+      "district": "Funafuti Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 109",
+      "coordinates": {
+        "lat": -7.567005934088594,
+        "lng": 178.03645906197332
+      }
+    },
+    "specs": {
+      "netSize": 344,
+      "grossSize": 413,
+      "rooms": "5+0",
+      "bathrooms": 1,
+      "age": 14,
+      "floor": 10,
+      "totalFloors": 17,
+      "heating": "Merkezi",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500866514543?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500869206965?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500106276957?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500530925295?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500716016469?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500758057640?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500207216777?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500621578005?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500830787974?w=800&q=80&category=architecture"
+    ],
+    "agent": {
+      "id": "A92",
+      "name": "Agent 16",
+      "phone": "+16 701 105 4277",
+      "email": "agent49@iwrealty.com",
+      "photo": "/images/icons/png/berlin-urban-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-08-25T10:50:47.273Z",
+    "updatedAt": "2025-11-13T10:50:47.273Z",
+    "storeId": "store-009"
+  },
+  {
+    "id": "P08676",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Villa - Tuvalu City",
+    "slug": "kiralik-villa-tuvalu-city-P08676",
+    "description": "Tuvalu City, Tuvalu bölgesinde villa. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 9001854,
+    "location": {
+      "country": "TV",
+      "city": "Tuvalu City",
+      "district": "Tuvalu City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 423",
+      "coordinates": {
+        "lat": -7.586351472608595,
+        "lng": 177.99652553636415
+      }
+    },
+    "specs": {
+      "netSize": 291,
+      "grossSize": 349,
+      "rooms": "2+1",
+      "bathrooms": 4,
+      "age": 7,
+      "floor": 12,
+      "totalFloors": 19,
+      "heating": "Merkezi",
+      "furnishing": "Furnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500227530662?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500692863573?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500760314501?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500275758978?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500534391433?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500964000208?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500230282560?w=800&q=80&category=building"
+    ],
+    "agent": {
+      "id": "A57",
+      "name": "Agent 49",
+      "phone": "+72 272 721 1455",
+      "email": "agent88@iwrealty.com",
+      "photo": "/images/icons/png/paris-heritage-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-08-15T10:50:47.273Z",
+    "updatedAt": "2025-11-13T10:50:47.273Z",
+    "storeId": "store-010"
+  },
+  {
+    "id": "P08677",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Villa - New Tuvalu",
+    "slug": "satilik-villa-new-tuvalu-P08677",
+    "description": "New Tuvalu, Tuvalu bölgesinde villa. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 12321055,
+    "location": {
+      "country": "TV",
+      "city": "New Tuvalu",
+      "district": "New Tuvalu Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 574",
+      "coordinates": {
+        "lat": -7.912883138783983,
+        "lng": 177.5448428285967
+      }
+    },
+    "specs": {
+      "netSize": 270,
+      "grossSize": 324,
+      "rooms": "3+1",
+      "bathrooms": 2,
+      "age": 0,
+      "floor": 6,
+      "totalFloors": 12,
+      "heating": "Kombi",
+      "furnishing": "Unfurnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500117403264?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500258978576?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500104175875?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500321125927?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500471151455?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500753863666?w=800&q=80&category=architecture"
+    ],
+    "agent": {
+      "id": "A14",
+      "name": "Agent 47",
+      "phone": "+93 546 618 2799",
+      "email": "agent53@iwrealty.com",
+      "photo": "/images/icons/png/sydney-coastal-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-01-10T10:50:47.273Z",
+    "updatedAt": "2025-11-13T10:50:47.273Z",
+    "storeId": "store-012"
+  },
+  {
+    "id": "P08678",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Residence - Tuvalu City",
+    "slug": "kiralik-residence-tuvalu-city-P08678",
+    "description": "Tuvalu City, Tuvalu bölgesinde residence. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 14580422,
+    "location": {
+      "country": "TV",
+      "city": "Tuvalu City",
+      "district": "Tuvalu City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 984",
+      "coordinates": {
+        "lat": -7.940962666020274,
+        "lng": 178.21322599208648
+      }
+    },
+    "specs": {
+      "netSize": 282,
+      "grossSize": 338,
+      "rooms": "2+0",
+      "bathrooms": 1,
+      "age": 16,
+      "floor": 2,
+      "totalFloors": 7,
+      "heating": "Merkezi",
+      "furnishing": "Furnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500999493727?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500915741546?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500497846017?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500881799822?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500654236663?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500853328868?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500349230308?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500178974003?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500759859590?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500354235270?w=800&q=80&category=house"
+    ],
+    "agent": {
+      "id": "A33",
+      "name": "Agent 58",
+      "phone": "+96 750 661 2745",
+      "email": "agent37@iwrealty.com",
+      "photo": "/images/icons/png/sydney-coastal-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-07-18T10:50:47.273Z",
+    "updatedAt": "2025-11-13T10:50:47.273Z",
+    "storeId": "store-012"
+  },
+  {
+    "id": "P08679",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Müstakil Ev - Funafuti",
+    "slug": "satilik-müstakil-ev-funafuti-P08679",
+    "description": "Funafuti, Tuvalu bölgesinde müstakil ev. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 14526490,
+    "location": {
+      "country": "TV",
+      "city": "Funafuti",
+      "district": "Funafuti Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 926",
+      "coordinates": {
+        "lat": -7.994699773899399,
+        "lng": 178.1658693371359
+      }
+    },
+    "specs": {
+      "netSize": 478,
+      "grossSize": 574,
+      "rooms": "2+2",
+      "bathrooms": 3,
+      "age": 17,
+      "floor": 11,
+      "totalFloors": 5,
+      "heating": "Kombi",
+      "furnishing": "Furnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500036352389?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500277873582?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500564317032?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500455342575?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500776175467?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500796191038?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500978046475?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500315757082?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500110767425?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500987422830?w=800&q=80&category=architecture"
+    ],
+    "agent": {
+      "id": "A65",
+      "name": "Agent 59",
+      "phone": "+95 712 404 5420",
+      "email": "agent40@iwrealty.com",
+      "photo": "/images/icons/png/luxury-homes-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-04-23T10:50:47.273Z",
+    "updatedAt": "2025-11-13T10:50:47.273Z",
+    "storeId": "store-002"
+  },
+  {
+    "id": "P08680",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Residence - New Tuvalu",
+    "slug": "kiralik-residence-new-tuvalu-P08680",
+    "description": "New Tuvalu, Tuvalu bölgesinde residence. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 14481194,
+    "location": {
+      "country": "TV",
+      "city": "New Tuvalu",
+      "district": "New Tuvalu Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 93",
+      "coordinates": {
+        "lat": -8.306962262508348,
+        "lng": 177.5461346813037
+      }
+    },
+    "specs": {
+      "netSize": 157,
+      "grossSize": 188,
+      "rooms": "2+1",
+      "bathrooms": 3,
+      "age": 1,
+      "floor": 8,
+      "totalFloors": 17,
+      "heating": "Klima",
+      "furnishing": "Unfurnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500404232860?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500349157522?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500103826058?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500490502371?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500959495488?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500663989651?w=800&q=80&category=real-estate"
+    ],
+    "agent": {
+      "id": "A26",
+      "name": "Agent 31",
+      "phone": "+15 643 600 5122",
+      "email": "agent74@iwrealty.com",
+      "photo": "/images/icons/png/ny-skyline-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": false,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-02-23T10:50:47.273Z",
+    "updatedAt": "2025-11-13T10:50:47.273Z",
+    "storeId": "store-008"
+  },
+  {
+    "id": "P08681",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Müstakil Ev - New Tuvalu",
+    "slug": "satilik-müstakil-ev-new-tuvalu-P08681",
+    "description": "New Tuvalu, Tuvalu bölgesinde müstakil ev. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 5873902,
+    "location": {
+      "country": "TV",
+      "city": "New Tuvalu",
+      "district": "New Tuvalu Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 383",
+      "coordinates": {
+        "lat": -8.248058704649328,
+        "lng": 178.37377217658383
+      }
+    },
+    "specs": {
+      "netSize": 439,
+      "grossSize": 527,
+      "rooms": "5+0",
+      "bathrooms": 1,
+      "age": 11,
+      "floor": 5,
+      "totalFloors": 7,
+      "heating": "Klima",
+      "furnishing": "Unfurnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500529270522?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500245372041?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500542200290?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500242213103?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500439607099?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500703961532?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500854931200?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500176482863?w=800&q=80&category=architecture"
+    ],
+    "agent": {
+      "id": "A95",
+      "name": "Agent 67",
+      "phone": "+45 895 164 1530",
+      "email": "agent23@iwrealty.com",
+      "photo": "/images/icons/png/berlin-urban-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": true,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-04-21T10:50:47.273Z",
+    "updatedAt": "2025-11-13T10:50:47.273Z",
+    "storeId": "store-009"
+  },
+  {
+    "id": "P08682",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Residence - Tuvalu Central",
+    "slug": "kiralik-residence-tuvalu-central-P08682",
+    "description": "Tuvalu Central, Tuvalu bölgesinde residence. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 10572173,
+    "location": {
+      "country": "TV",
+      "city": "Tuvalu Central",
+      "district": "Tuvalu Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 87",
+      "coordinates": {
+        "lat": -8.148426141728061,
+        "lng": 178.4976077121759
+      }
+    },
+    "specs": {
+      "netSize": 363,
+      "grossSize": 436,
+      "rooms": "5+2",
+      "bathrooms": 3,
+      "age": 19,
+      "floor": 1,
+      "totalFloors": 6,
+      "heating": "Kombi",
+      "furnishing": "Unfurnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500915070743?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500640512743?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500011130522?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500035183214?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500259536007?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500270063592?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500351158688?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500436691230?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500119860955?w=800&q=80&category=architecture"
+    ],
+    "agent": {
+      "id": "A88",
+      "name": "Agent 87",
+      "phone": "+39 912 782 2741",
+      "email": "agent58@iwrealty.com",
+      "photo": "/images/icons/png/ny-skyline-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-08-25T10:50:47.273Z",
+    "updatedAt": "2025-11-13T10:50:47.273Z",
+    "storeId": "store-008"
+  },
+  {
+    "id": "P08683",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Residence - Tuvalu Central",
+    "slug": "satilik-residence-tuvalu-central-P08683",
+    "description": "Tuvalu Central, Tuvalu bölgesinde residence. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 9004556,
+    "location": {
+      "country": "TV",
+      "city": "Tuvalu Central",
+      "district": "Tuvalu Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 458",
+      "coordinates": {
+        "lat": -7.9142887465626695,
+        "lng": 178.14176406401444
+      }
+    },
+    "specs": {
+      "netSize": 120,
+      "grossSize": 144,
+      "rooms": "2+1",
+      "bathrooms": 2,
+      "age": 16,
+      "floor": 3,
+      "totalFloors": 7,
+      "heating": "Klima",
+      "furnishing": "Furnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500317846286?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500198685260?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500371564720?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500788820660?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500453116153?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500873794495?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500671157782?w=800&q=80&category=house"
+    ],
+    "agent": {
+      "id": "A47",
+      "name": "Agent 65",
+      "phone": "+99 916 834 5232",
+      "email": "agent100@iwrealty.com",
+      "photo": "/images/icons/png/antalya-investment-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-02-10T10:50:47.273Z",
+    "updatedAt": "2025-11-13T10:50:47.273Z",
+    "storeId": "store-006"
+  },
+  {
+    "id": "P08684",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Residence - Tuvalu Central",
+    "slug": "kiralik-residence-tuvalu-central-P08684",
+    "description": "Tuvalu Central, Tuvalu bölgesinde residence. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 2380141,
+    "location": {
+      "country": "TV",
+      "city": "Tuvalu Central",
+      "district": "Tuvalu Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 330",
+      "coordinates": {
+        "lat": -7.588968485709987,
+        "lng": 177.80761829772712
+      }
+    },
+    "specs": {
+      "netSize": 487,
+      "grossSize": 584,
+      "rooms": "1+2",
+      "bathrooms": 2,
+      "age": 1,
+      "floor": 15,
+      "totalFloors": 13,
+      "heating": "Klima",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500777359874?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500923567351?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500155748161?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500568203257?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500587181176?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500292994399?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500502434304?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500599972061?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500093999967?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500720038980?w=800&q=80&category=real-estate"
+    ],
+    "agent": {
+      "id": "A6",
+      "name": "Agent 21",
+      "phone": "+90 239 406 8599",
+      "email": "agent88@iwrealty.com",
+      "photo": "/images/icons/png/luxury-homes-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": true,
+      "hasSecurity": true
+    },
+    "createdAt": "2024-12-20T10:50:47.273Z",
+    "updatedAt": "2025-11-13T10:50:47.273Z",
+    "storeId": "store-002"
+  },
+  {
+    "id": "P08685",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Müstakil Ev - Tuvalu City",
+    "slug": "satilik-müstakil-ev-tuvalu-city-P08685",
+    "description": "Tuvalu City, Tuvalu bölgesinde müstakil ev. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 5726208,
+    "location": {
+      "country": "TV",
+      "city": "Tuvalu City",
+      "district": "Tuvalu City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 140",
+      "coordinates": {
+        "lat": -7.798037686924198,
+        "lng": 177.61281918569048
+      }
+    },
+    "specs": {
+      "netSize": 190,
+      "grossSize": 228,
+      "rooms": "3+1",
+      "bathrooms": 4,
+      "age": 3,
+      "floor": 11,
+      "totalFloors": 20,
+      "heating": "Kombi",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500016656301?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500562038835?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500700318422?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500566069205?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500866953710?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500471492783?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500795797062?w=800&q=80&category=interior"
+    ],
+    "agent": {
+      "id": "A20",
+      "name": "Agent 40",
+      "phone": "+23 607 928 2917",
+      "email": "agent23@iwrealty.com",
+      "photo": "/images/icons/png/ny-skyline-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-03-31T10:50:47.273Z",
+    "updatedAt": "2025-11-13T10:50:47.273Z",
+    "storeId": "store-008"
+  },
+  {
+    "id": "P08686",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Daire - New Tuvalu",
+    "slug": "kiralik-daire-new-tuvalu-P08686",
+    "description": "New Tuvalu, Tuvalu bölgesinde daire. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 9857148,
+    "location": {
+      "country": "TV",
+      "city": "New Tuvalu",
+      "district": "New Tuvalu Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 994",
+      "coordinates": {
+        "lat": -7.914992798139551,
+        "lng": 177.84712230139758
+      }
+    },
+    "specs": {
+      "netSize": 144,
+      "grossSize": 173,
+      "rooms": "4+0",
+      "bathrooms": 2,
+      "age": 12,
+      "floor": 6,
+      "totalFloors": 12,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Furnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500423964512?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500188860716?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500184875287?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500384073759?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500475639031?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500562115537?w=800&q=80&category=building"
+    ],
+    "agent": {
+      "id": "A99",
+      "name": "Agent 94",
+      "phone": "+87 443 756 7437",
+      "email": "agent87@iwrealty.com",
+      "photo": "/images/icons/png/antalya-investment-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": false,
+      "hasBalcony": false,
+      "hasGarden": true,
+      "hasPool": true,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-09-26T10:50:47.273Z",
+    "updatedAt": "2025-11-13T10:50:47.273Z",
+    "storeId": "store-006"
+  },
+  {
+    "id": "P08687",
+    "type": "sale",
+    "category": {
+      "main": "commercial",
+      "sub": "hospital"
+    },
+    "title": "Satılık Hastane - Tuvalu City",
+    "slug": "satilik-hastane-tuvalu-city-P08687",
+    "description": "Tuvalu City, Tuvalu bölgesinde hastane. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 84256074,
+    "location": {
+      "country": "TV",
+      "city": "Tuvalu City",
+      "district": "Tuvalu City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 777",
+      "coordinates": {
+        "lat": -8.143206363381214,
+        "lng": 177.77095205963374
+      }
+    },
+    "specs": {
+      "netSize": 11246,
+      "grossSize": 13495,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 6,
+      "floor": 2,
+      "totalFloors": 6,
+      "heating": "Kombi",
+      "furnishing": "Unfurnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500304294250?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500375588341?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500647090134?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500459250159?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500886359769?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500823260505?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500192821079?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500997430846?w=800&q=80&category=real-estate"
+    ],
+    "agent": {
+      "id": "A97",
+      "name": "Agent 10",
+      "phone": "+19 545 156 9110",
+      "email": "agent25@iwrealty.com",
+      "photo": "/images/icons/png/paris-heritage-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": false,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-07-07T10:50:47.273Z",
+    "updatedAt": "2025-11-13T10:50:47.273Z",
+    "storeId": "store-010"
+  },
+  {
+    "id": "P08688",
+    "type": "rent",
+    "category": {
+      "main": "commercial",
+      "sub": "hospital"
+    },
+    "title": "Kiralık Hastane - New Tuvalu",
+    "slug": "kiralik-hastane-new-tuvalu-P08688",
+    "description": "New Tuvalu, Tuvalu bölgesinde hastane. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 67877096,
+    "location": {
+      "country": "TV",
+      "city": "New Tuvalu",
+      "district": "New Tuvalu Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 593",
+      "coordinates": {
+        "lat": -8.499425941046006,
+        "lng": 178.25255464491886
+      }
+    },
+    "specs": {
+      "netSize": 5002,
+      "grossSize": 6002,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 3,
+      "floor": 12,
+      "totalFloors": 11,
+      "heating": "Kombi",
+      "furnishing": "Furnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500776974775?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500881635397?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500783878588?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500987035204?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500474326250?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500611141719?w=800&q=80&category=house"
+    ],
+    "agent": {
+      "id": "A15",
+      "name": "Agent 30",
+      "phone": "+33 750 506 6130",
+      "email": "agent53@iwrealty.com",
+      "photo": "/images/icons/png/ny-skyline-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-05-15T10:50:47.273Z",
+    "updatedAt": "2025-11-13T10:50:47.273Z",
+    "storeId": "store-008"
+  },
+  {
+    "id": "P08689",
+    "type": "sale",
+    "category": {
+      "main": "commercial",
+      "sub": "clinic"
+    },
+    "title": "Satılık Klinik - New Tuvalu",
+    "slug": "satilik-klinik-new-tuvalu-P08689",
+    "description": "New Tuvalu, Tuvalu bölgesinde klinik. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 19798859,
+    "location": {
+      "country": "TV",
+      "city": "New Tuvalu",
+      "district": "New Tuvalu Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 800",
+      "coordinates": {
+        "lat": -8.08298681730406,
+        "lng": 178.16431168182444
+      }
+    },
+    "specs": {
+      "netSize": 1165,
+      "grossSize": 1398,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 4,
+      "floor": 15,
+      "totalFloors": 9,
+      "heating": "Klima",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500963048682?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500872341199?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500221282403?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500180849579?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500960860371?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500538652208?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500917052368?w=800&q=80&category=interior"
+    ],
+    "agent": {
+      "id": "A64",
+      "name": "Agent 97",
+      "phone": "+73 371 333 9477",
+      "email": "agent2@iwrealty.com",
+      "photo": "/images/icons/png/sydney-coastal-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-09-27T10:50:47.273Z",
+    "updatedAt": "2025-11-13T10:50:47.273Z",
+    "storeId": "store-012"
+  },
+  {
+    "id": "P08690",
+    "type": "rent",
+    "category": {
+      "main": "commercial",
+      "sub": "clinic"
+    },
+    "title": "Kiralık Klinik - New Tuvalu",
+    "slug": "kiralik-klinik-new-tuvalu-P08690",
+    "description": "New Tuvalu, Tuvalu bölgesinde klinik. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 10159623,
+    "location": {
+      "country": "TV",
+      "city": "New Tuvalu",
+      "district": "New Tuvalu Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 271",
+      "coordinates": {
+        "lat": -8.238873119716558,
+        "lng": 177.57391374538952
+      }
+    },
+    "specs": {
+      "netSize": 647,
+      "grossSize": 776,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 3,
+      "floor": 10,
+      "totalFloors": 20,
+      "heating": "Kombi",
+      "furnishing": "Unfurnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500206887036?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500686189652?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500925355387?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500468992455?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500875882629?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500219797706?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500613065087?w=800&q=80&category=real-estate"
+    ],
+    "agent": {
+      "id": "A27",
+      "name": "Agent 27",
+      "phone": "+10 826 919 9223",
+      "email": "agent90@iwrealty.com",
+      "photo": "/images/icons/png/paris-heritage-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": true,
+      "hasSecurity": true
+    },
+    "createdAt": "2024-12-28T10:50:47.273Z",
+    "updatedAt": "2025-11-13T10:50:47.273Z",
+    "storeId": "store-010"
+  },
+  {
+    "id": "P08691",
+    "type": "sale",
+    "category": {
+      "main": "commercial",
+      "sub": "shop"
+    },
+    "title": "Satılık Dükkan - Funafuti",
+    "slug": "satilik-dükkan-funafuti-P08691",
+    "description": "Funafuti, Tuvalu bölgesinde dükkan. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 4455738,
+    "location": {
+      "country": "TV",
+      "city": "Funafuti",
+      "district": "Funafuti Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 102",
+      "coordinates": {
+        "lat": -8.009177233625632,
+        "lng": 178.1616490931485
+      }
+    },
+    "specs": {
+      "netSize": 142,
+      "grossSize": 170,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 7,
+      "floor": 12,
+      "totalFloors": 14,
+      "heating": "Klima",
+      "furnishing": "Unfurnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500352797168?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500510872479?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500795110511?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500225191756?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500830104162?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500261993565?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500313423353?w=800&q=80&category=real-estate"
+    ],
+    "agent": {
+      "id": "A11",
+      "name": "Agent 48",
+      "phone": "+73 821 803 6411",
+      "email": "agent42@iwrealty.com",
+      "photo": "/images/icons/png/izmir-sahil-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": false,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-09-16T10:50:47.273Z",
+    "updatedAt": "2025-11-13T10:50:47.273Z",
+    "storeId": "store-005"
+  },
+  {
+    "id": "P08692",
+    "type": "rent",
+    "category": {
+      "main": "commercial",
+      "sub": "shop"
+    },
+    "title": "Kiralık Dükkan - Funafuti",
+    "slug": "kiralik-dükkan-funafuti-P08692",
+    "description": "Funafuti, Tuvalu bölgesinde dükkan. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 1689152,
+    "location": {
+      "country": "TV",
+      "city": "Funafuti",
+      "district": "Funafuti Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 697",
+      "coordinates": {
+        "lat": -7.542444748896409,
+        "lng": 177.86786709841647
+      }
+    },
+    "specs": {
+      "netSize": 179,
+      "grossSize": 215,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 5,
+      "floor": 2,
+      "totalFloors": 15,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Unfurnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500874347256?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500507899866?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500259027199?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500463335845?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500792142796?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500528236066?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500729396348?w=800&q=80&category=house"
+    ],
+    "agent": {
+      "id": "A1",
+      "name": "Agent 76",
+      "phone": "+60 198 605 3588",
+      "email": "agent43@iwrealty.com",
+      "photo": "/images/icons/png/sg-harbour-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-05-07T10:50:47.273Z",
+    "updatedAt": "2025-11-13T10:50:47.273Z",
+    "storeId": "store-011"
+  },
+  {
+    "id": "P08693",
+    "type": "sale",
+    "category": {
+      "main": "commercial",
+      "sub": "office"
+    },
+    "title": "Satılık Ofis - New Tuvalu",
+    "slug": "satilik-ofis-new-tuvalu-P08693",
+    "description": "New Tuvalu, Tuvalu bölgesinde ofis. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 6530003,
+    "location": {
+      "country": "TV",
+      "city": "New Tuvalu",
+      "district": "New Tuvalu Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 636",
+      "coordinates": {
+        "lat": -7.723373993163674,
+        "lng": 178.32827552088074
+      }
+    },
+    "specs": {
+      "netSize": 761,
+      "grossSize": 913,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 18,
+      "floor": 12,
+      "totalFloors": 19,
+      "heating": "Merkezi",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500452110691?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500293277746?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500602088609?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500331248049?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500377356146?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500306118727?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500145032085?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500688305313?w=800&q=80&category=house"
+    ],
+    "agent": {
+      "id": "A6",
+      "name": "Agent 90",
+      "phone": "+53 635 611 6482",
+      "email": "agent4@iwrealty.com",
+      "photo": "/images/icons/png/izmir-sahil-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-02-23T10:50:47.273Z",
+    "updatedAt": "2025-11-13T10:50:47.273Z",
+    "storeId": "store-005"
+  },
+  {
+    "id": "P08694",
+    "type": "rent",
+    "category": {
+      "main": "commercial",
+      "sub": "office"
+    },
+    "title": "Kiralık Ofis - New Tuvalu",
+    "slug": "kiralik-ofis-new-tuvalu-P08694",
+    "description": "New Tuvalu, Tuvalu bölgesinde ofis. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 4448387,
+    "location": {
+      "country": "TV",
+      "city": "New Tuvalu",
+      "district": "New Tuvalu Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 908",
+      "coordinates": {
+        "lat": -7.981673108727039,
+        "lng": 177.67546999469243
+      }
+    },
+    "specs": {
+      "netSize": 691,
+      "grossSize": 829,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 7,
+      "floor": 7,
+      "totalFloors": 7,
+      "heating": "Klima",
+      "furnishing": "Unfurnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500215000476?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500419472790?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500974731144?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500529589527?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500640019784?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500041243989?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500300148298?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500089760518?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500957313908?w=800&q=80&category=architecture"
+    ],
+    "agent": {
+      "id": "A55",
+      "name": "Agent 59",
+      "phone": "+74 282 130 4076",
+      "email": "agent98@iwrealty.com",
+      "photo": "/images/icons/png/paris-heritage-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": true,
+      "hasSecurity": false
+    },
+    "createdAt": "2024-12-02T10:50:47.273Z",
+    "updatedAt": "2025-11-13T10:50:47.273Z",
+    "storeId": "store-010"
+  },
+  {
+    "id": "P08695",
+    "type": "sale",
+    "category": {
+      "main": "commercial",
+      "sub": "mall"
+    },
+    "title": "Satılık AVM - Funafuti",
+    "slug": "satilik-avm-funafuti-P08695",
+    "description": "Funafuti, Tuvalu bölgesinde avm. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 229387515,
+    "location": {
+      "country": "TV",
+      "city": "Funafuti",
+      "district": "Funafuti Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 768",
+      "coordinates": {
+        "lat": -7.990058682710815,
+        "lng": 178.352095296837
+      }
+    },
+    "specs": {
+      "netSize": 14289,
+      "grossSize": 17147,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 19,
+      "floor": 11,
+      "totalFloors": 12,
+      "heating": "Kombi",
+      "furnishing": "Unfurnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500009931935?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500878950319?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500729311619?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500847619836?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500597799155?w=800&q=80&category=interior"
+    ],
+    "agent": {
+      "id": "A73",
+      "name": "Agent 83",
+      "phone": "+23 621 722 4156",
+      "email": "agent85@iwrealty.com",
+      "photo": "/images/icons/png/ankara-modern-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2024-12-03T10:50:47.273Z",
+    "updatedAt": "2025-11-13T10:50:47.273Z",
+    "storeId": "store-003"
+  },
+  {
+    "id": "P08696",
+    "type": "rent",
+    "category": {
+      "main": "commercial",
+      "sub": "mall"
+    },
+    "title": "Kiralık AVM - Tuvalu Central",
+    "slug": "kiralik-avm-tuvalu-central-P08696",
+    "description": "Tuvalu Central, Tuvalu bölgesinde avm. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 229208486,
+    "location": {
+      "country": "TV",
+      "city": "Tuvalu Central",
+      "district": "Tuvalu Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 198",
+      "coordinates": {
+        "lat": -7.755059947246833,
+        "lng": 177.80189624370047
+      }
+    },
+    "specs": {
+      "netSize": 41079,
+      "grossSize": 49295,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 11,
+      "floor": 8,
+      "totalFloors": 20,
+      "heating": "Kombi",
+      "furnishing": "Unfurnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500697055557?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500481587957?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500151641492?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500353101447?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500431821148?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500816897298?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500175342441?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500579772617?w=800&q=80&category=house"
+    ],
+    "agent": {
+      "id": "A73",
+      "name": "Agent 35",
+      "phone": "+19 973 190 2836",
+      "email": "agent9@iwrealty.com",
+      "photo": "/images/icons/png/paris-heritage-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-09-10T10:50:47.273Z",
+    "updatedAt": "2025-11-13T10:50:47.273Z",
+    "storeId": "store-010"
+  },
+  {
+    "id": "P08697",
+    "type": "sale",
+    "category": {
+      "main": "commercial",
+      "sub": "hotel"
+    },
+    "title": "Satılık Otel - Funafuti",
+    "slug": "satilik-otel-funafuti-P08697",
+    "description": "Funafuti, Tuvalu bölgesinde otel. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 96044344,
+    "location": {
+      "country": "TV",
+      "city": "Funafuti",
+      "district": "Funafuti Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 388",
+      "coordinates": {
+        "lat": -7.816243843223045,
+        "lng": 178.04569586852796
+      }
+    },
+    "specs": {
+      "netSize": 19747,
+      "grossSize": 23696,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 19,
+      "floor": 8,
+      "totalFloors": 7,
+      "heating": "Kombi",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500792315595?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500341832538?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500113151868?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500053770663?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500020134833?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500498975176?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500598423315?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500914592600?w=800&q=80&category=house"
+    ],
+    "agent": {
+      "id": "A66",
+      "name": "Agent 92",
+      "phone": "+29 730 461 7495",
+      "email": "agent43@iwrealty.com",
+      "photo": "/images/icons/png/antalya-investment-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-03-04T10:50:47.273Z",
+    "updatedAt": "2025-11-13T10:50:47.273Z",
+    "storeId": "store-006"
+  },
+  {
+    "id": "P08698",
+    "type": "rent",
+    "category": {
+      "main": "commercial",
+      "sub": "hotel"
+    },
+    "title": "Kiralık Otel - Tuvalu Central",
+    "slug": "kiralik-otel-tuvalu-central-P08698",
+    "description": "Tuvalu Central, Tuvalu bölgesinde otel. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 191875497,
+    "location": {
+      "country": "TV",
+      "city": "Tuvalu Central",
+      "district": "Tuvalu Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 946",
+      "coordinates": {
+        "lat": -7.933843079416382,
+        "lng": 178.40535621837523
+      }
+    },
+    "specs": {
+      "netSize": 6135,
+      "grossSize": 7362,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 11,
+      "floor": 5,
+      "totalFloors": 13,
+      "heating": "Kombi",
+      "furnishing": "Unfurnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500861466232?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500891472297?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500231766820?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500867092052?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500337285242?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500572835719?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500051932667?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500930607932?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500914950457?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500962746225?w=800&q=80&category=interior"
+    ],
+    "agent": {
+      "id": "A54",
+      "name": "Agent 59",
+      "phone": "+61 698 317 5355",
+      "email": "agent89@iwrealty.com",
+      "photo": "/images/icons/png/sydney-coastal-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": false,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-08-04T10:50:47.273Z",
+    "updatedAt": "2025-11-13T10:50:47.273Z",
+    "storeId": "store-012"
+  },
+  {
+    "id": "P08699",
+    "type": "sale",
+    "category": {
+      "main": "commercial",
+      "sub": "restaurant"
+    },
+    "title": "Satılık Restoran - New Tuvalu",
+    "slug": "satilik-restoran-new-tuvalu-P08699",
+    "description": "New Tuvalu, Tuvalu bölgesinde restoran. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 2762013,
+    "location": {
+      "country": "TV",
+      "city": "New Tuvalu",
+      "district": "New Tuvalu Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 861",
+      "coordinates": {
+        "lat": -8.179842793331334,
+        "lng": 177.9090842105127
+      }
+    },
+    "specs": {
+      "netSize": 392,
+      "grossSize": 470,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 19,
+      "floor": 13,
+      "totalFloors": 14,
+      "heating": "Kombi",
+      "furnishing": "Unfurnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500529451253?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500987267018?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500213688301?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500097171068?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500028804904?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500906762435?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500421482565?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500881546114?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500805574348?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500634809678?w=800&q=80&category=interior"
+    ],
+    "agent": {
+      "id": "A68",
+      "name": "Agent 38",
+      "phone": "+75 862 351 5088",
+      "email": "agent91@iwrealty.com",
+      "photo": "/images/icons/png/berlin-urban-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-11-06T10:50:47.273Z",
+    "updatedAt": "2025-11-13T10:50:47.273Z",
+    "storeId": "store-009"
+  },
+  {
+    "id": "P08700",
+    "type": "rent",
+    "category": {
+      "main": "commercial",
+      "sub": "restaurant"
+    },
+    "title": "Kiralık Restoran - New Tuvalu",
+    "slug": "kiralik-restoran-new-tuvalu-P08700",
+    "description": "New Tuvalu, Tuvalu bölgesinde restoran. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 8055060,
+    "location": {
+      "country": "TV",
+      "city": "New Tuvalu",
+      "district": "New Tuvalu Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 949",
+      "coordinates": {
+        "lat": -7.822363662225974,
+        "lng": 177.79881168831108
+      }
+    },
+    "specs": {
+      "netSize": 1498,
+      "grossSize": 1798,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 18,
+      "floor": 13,
+      "totalFloors": 13,
+      "heating": "Merkezi",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500821692232?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500098158837?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500902350699?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500943680639?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500315456423?w=800&q=80&category=architecture"
+    ],
+    "agent": {
+      "id": "A49",
+      "name": "Agent 36",
+      "phone": "+13 621 589 7886",
+      "email": "agent2@iwrealty.com",
+      "photo": "/images/icons/png/antalya-investment-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-09-01T10:50:47.273Z",
+    "updatedAt": "2025-11-13T10:50:47.273Z",
+    "storeId": "store-006"
+  },
+  {
+    "id": "P08701",
+    "type": "sale",
+    "category": {
+      "main": "commercial",
+      "sub": "warehouse"
+    },
+    "title": "Satılık Depo - New Tuvalu",
+    "slug": "satilik-depo-new-tuvalu-P08701",
+    "description": "New Tuvalu, Tuvalu bölgesinde depo. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 12427666,
+    "location": {
+      "country": "TV",
+      "city": "New Tuvalu",
+      "district": "New Tuvalu Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 413",
+      "coordinates": {
+        "lat": -8.0362108843749,
+        "lng": 177.79193830778937
+      }
+    },
+    "specs": {
+      "netSize": 2660,
+      "grossSize": 3192,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 14,
+      "floor": 15,
+      "totalFloors": 18,
+      "heating": "Merkezi",
+      "furnishing": "Unfurnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500865991571?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500861529262?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500989773616?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500977251712?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500574632880?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500983220953?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500433130812?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500975822668?w=800&q=80&category=real-estate"
+    ],
+    "agent": {
+      "id": "A47",
+      "name": "Agent 46",
+      "phone": "+37 692 658 3375",
+      "email": "agent55@iwrealty.com",
+      "photo": "/images/icons/png/sg-harbour-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": true,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-02-21T10:50:47.273Z",
+    "updatedAt": "2025-11-13T10:50:47.273Z",
+    "storeId": "store-011"
+  },
+  {
+    "id": "P08702",
+    "type": "rent",
+    "category": {
+      "main": "commercial",
+      "sub": "warehouse"
+    },
+    "title": "Kiralık Depo - Funafuti",
+    "slug": "kiralik-depo-funafuti-P08702",
+    "description": "Funafuti, Tuvalu bölgesinde depo. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 27745929,
+    "location": {
+      "country": "TV",
+      "city": "Funafuti",
+      "district": "Funafuti Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 269",
+      "coordinates": {
+        "lat": -8.28102504671127,
+        "lng": 178.38657701193782
+      }
+    },
+    "specs": {
+      "netSize": 8559,
+      "grossSize": 10271,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 2,
+      "floor": 14,
+      "totalFloors": 9,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500707960780?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500796790873?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500529444135?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500632985614?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500192891556?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500947124675?w=800&q=80&category=architecture"
+    ],
+    "agent": {
+      "id": "A59",
+      "name": "Agent 76",
+      "phone": "+89 224 712 8513",
+      "email": "agent74@iwrealty.com",
+      "photo": "/images/icons/png/sg-harbour-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": false,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-04-21T10:50:47.273Z",
+    "updatedAt": "2025-11-13T10:50:47.273Z",
+    "storeId": "store-011"
+  }
+]

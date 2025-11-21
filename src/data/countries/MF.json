@@ -1,0 +1,2370 @@
+[
+  {
+    "id": "P05245",
+    "type": "sale",
+    "category": {
+      "main": "government"
+    },
+    "title": "Satılık Belediye Binası - Saint Martin Central",
+    "slug": "satilik-belediye-binası-saint-martin-central-P05245",
+    "description": "Saint Martin Central, Saint Martin bölgesinde belediye binası. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 27544372,
+    "location": {
+      "country": "MF",
+      "city": "Saint Martin Central",
+      "district": "Saint Martin Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 265",
+      "coordinates": {
+        "lat": 17.768630556873223,
+        "lng": -64.23065652173827
+      }
+    },
+    "specs": {
+      "netSize": 2250,
+      "grossSize": 2700,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 8,
+      "floor": 6,
+      "totalFloors": 19,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Furnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500447967658?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500234753836?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500890133259?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500834290721?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500872802127?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500676124663?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500212453046?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500389081566?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500366977054?w=800&q=80&category=interior"
+    ],
+    "agent": {
+      "id": "A85",
+      "name": "Agent 4",
+      "phone": "+13 981 636 4196",
+      "email": "agent74@iwrealty.com",
+      "photo": "/images/icons/png/luxury-homes-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": true,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-10-18T10:50:47.235Z",
+    "updatedAt": "2025-11-13T10:50:47.235Z",
+    "storeId": "store-002"
+  },
+  {
+    "id": "P05246",
+    "type": "rent",
+    "category": {
+      "main": "government"
+    },
+    "title": "Kiralık Belediye Binası - New Saint Martin",
+    "slug": "kiralik-belediye-binası-new-saint-martin-P05246",
+    "description": "New Saint Martin, Saint Martin bölgesinde belediye binası. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 6244848,
+    "location": {
+      "country": "MF",
+      "city": "New Saint Martin",
+      "district": "New Saint Martin Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 590",
+      "coordinates": {
+        "lat": 17.62206830426177,
+        "lng": -64.15871844221134
+      }
+    },
+    "specs": {
+      "netSize": 2982,
+      "grossSize": 3578,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 11,
+      "floor": 5,
+      "totalFloors": 7,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Unfurnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500215540583?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500752228583?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500886660815?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500897020020?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500475513663?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500703399829?w=800&q=80&category=real-estate"
+    ],
+    "agent": {
+      "id": "A100",
+      "name": "Agent 82",
+      "phone": "+97 408 897 7126",
+      "email": "agent59@iwrealty.com",
+      "photo": "/images/icons/png/izmir-sahil-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": false,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-05-15T10:50:47.235Z",
+    "updatedAt": "2025-11-13T10:50:47.235Z",
+    "storeId": "store-005"
+  },
+  {
+    "id": "P05247",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Residence - Saint Martin City",
+    "slug": "satilik-residence-saint-martin-city-P05247",
+    "description": "Saint Martin City, Saint Martin bölgesinde residence. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 3999578,
+    "location": {
+      "country": "MF",
+      "city": "Saint Martin City",
+      "district": "Saint Martin City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 3",
+      "coordinates": {
+        "lat": 17.986763217867022,
+        "lng": -64.28607096213146
+      }
+    },
+    "specs": {
+      "netSize": 121,
+      "grossSize": 145,
+      "rooms": "2+2",
+      "bathrooms": 3,
+      "age": 0,
+      "floor": 7,
+      "totalFloors": 11,
+      "heating": "Kombi",
+      "furnishing": "Furnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500668394750?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500800750245?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500757473500?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500681684534?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500702303112?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500401778450?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500528323716?w=800&q=80&category=building"
+    ],
+    "agent": {
+      "id": "A91",
+      "name": "Agent 63",
+      "phone": "+12 557 243 1299",
+      "email": "agent49@iwrealty.com",
+      "photo": "/images/icons/png/sg-harbour-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-03-11T10:50:47.235Z",
+    "updatedAt": "2025-11-13T10:50:47.235Z",
+    "storeId": "store-011"
+  },
+  {
+    "id": "P05248",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Residence - Saint Martin Central",
+    "slug": "kiralik-residence-saint-martin-central-P05248",
+    "description": "Saint Martin Central, Saint Martin bölgesinde residence. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 11627899,
+    "location": {
+      "country": "MF",
+      "city": "Saint Martin Central",
+      "district": "Saint Martin Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 711",
+      "coordinates": {
+        "lat": 18.169412963056583,
+        "lng": -64.18409714733282
+      }
+    },
+    "specs": {
+      "netSize": 129,
+      "grossSize": 155,
+      "rooms": "2+0",
+      "bathrooms": 3,
+      "age": 20,
+      "floor": 9,
+      "totalFloors": 6,
+      "heating": "Kombi",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500008801255?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500563518497?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500880739867?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500879790844?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500069376762?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500474531887?w=800&q=80&category=building"
+    ],
+    "agent": {
+      "id": "A65",
+      "name": "Agent 38",
+      "phone": "+81 411 692 9312",
+      "email": "agent81@iwrealty.com",
+      "photo": "/images/icons/png/berlin-urban-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2024-11-25T10:50:47.235Z",
+    "updatedAt": "2025-11-13T10:50:47.235Z",
+    "storeId": "store-009"
+  },
+  {
+    "id": "P05249",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Müstakil Ev - New Saint Martin",
+    "slug": "satilik-müstakil-ev-new-saint-martin-P05249",
+    "description": "New Saint Martin, Saint Martin bölgesinde müstakil ev. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 14979863,
+    "location": {
+      "country": "MF",
+      "city": "New Saint Martin",
+      "district": "New Saint Martin Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 768",
+      "coordinates": {
+        "lat": 17.70469082604339,
+        "lng": -63.74567095743029
+      }
+    },
+    "specs": {
+      "netSize": 328,
+      "grossSize": 394,
+      "rooms": "5+0",
+      "bathrooms": 3,
+      "age": 14,
+      "floor": 12,
+      "totalFloors": 7,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Unfurnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500434621495?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500840458132?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500749124872?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500027186107?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500337611723?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500944385131?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500973500558?w=800&q=80&category=architecture"
+    ],
+    "agent": {
+      "id": "A22",
+      "name": "Agent 49",
+      "phone": "+50 939 135 5420",
+      "email": "agent66@iwrealty.com",
+      "photo": "/images/icons/png/sg-harbour-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-01-12T10:50:47.235Z",
+    "updatedAt": "2025-11-13T10:50:47.235Z",
+    "storeId": "store-011"
+  },
+  {
+    "id": "P05250",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Müstakil Ev - Saint Martin Central",
+    "slug": "kiralik-müstakil-ev-saint-martin-central-P05250",
+    "description": "Saint Martin Central, Saint Martin bölgesinde müstakil ev. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 12024863,
+    "location": {
+      "country": "MF",
+      "city": "Saint Martin Central",
+      "district": "Saint Martin Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 499",
+      "coordinates": {
+        "lat": 18.131122184784964,
+        "lng": -63.50735078355531
+      }
+    },
+    "specs": {
+      "netSize": 394,
+      "grossSize": 473,
+      "rooms": "4+1",
+      "bathrooms": 3,
+      "age": 1,
+      "floor": 7,
+      "totalFloors": 13,
+      "heating": "Kombi",
+      "furnishing": "Furnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500591448732?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500426653349?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500375620390?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500648632107?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500331545809?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500829113076?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500145043834?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500821462507?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500979266917?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500318562002?w=800&q=80&category=interior"
+    ],
+    "agent": {
+      "id": "A10",
+      "name": "Agent 16",
+      "phone": "+49 365 559 3243",
+      "email": "agent7@iwrealty.com",
+      "photo": "/images/icons/png/dubai-property-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-02-13T10:50:47.235Z",
+    "updatedAt": "2025-11-13T10:50:47.235Z",
+    "storeId": "store-004"
+  },
+  {
+    "id": "P05251",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Villa - Saint Martin Central",
+    "slug": "satilik-villa-saint-martin-central-P05251",
+    "description": "Saint Martin Central, Saint Martin bölgesinde villa. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 6001784,
+    "location": {
+      "country": "MF",
+      "city": "Saint Martin Central",
+      "district": "Saint Martin Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 65",
+      "coordinates": {
+        "lat": 17.851844066059908,
+        "lng": -63.782451281707736
+      }
+    },
+    "specs": {
+      "netSize": 255,
+      "grossSize": 306,
+      "rooms": "4+1",
+      "bathrooms": 4,
+      "age": 9,
+      "floor": 2,
+      "totalFloors": 5,
+      "heating": "Kombi",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500017284970?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500430124344?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500295302912?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500825804389?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500699963112?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500104616806?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500570615246?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500873160217?w=800&q=80&category=interior"
+    ],
+    "agent": {
+      "id": "A14",
+      "name": "Agent 89",
+      "phone": "+35 989 200 7818",
+      "email": "agent94@iwrealty.com",
+      "photo": "/images/icons/png/paris-heritage-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-06-23T10:50:47.235Z",
+    "updatedAt": "2025-11-13T10:50:47.235Z",
+    "storeId": "store-010"
+  },
+  {
+    "id": "P05252",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Residence - New Saint Martin",
+    "slug": "kiralik-residence-new-saint-martin-P05252",
+    "description": "New Saint Martin, Saint Martin bölgesinde residence. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 6288251,
+    "location": {
+      "country": "MF",
+      "city": "New Saint Martin",
+      "district": "New Saint Martin Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 427",
+      "coordinates": {
+        "lat": 18.29692893785966,
+        "lng": -64.23098958123519
+      }
+    },
+    "specs": {
+      "netSize": 86,
+      "grossSize": 103,
+      "rooms": "1+2",
+      "bathrooms": 3,
+      "age": 4,
+      "floor": 8,
+      "totalFloors": 5,
+      "heating": "Kombi",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500137871592?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500629156373?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500071508422?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500795616020?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500015934368?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500491528098?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500408808821?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500632691282?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500622824644?w=800&q=80&category=real-estate"
+    ],
+    "agent": {
+      "id": "A38",
+      "name": "Agent 71",
+      "phone": "+77 708 748 5157",
+      "email": "agent40@iwrealty.com",
+      "photo": "/images/icons/png/luxury-homes-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": false,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": true,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-04-29T10:50:47.235Z",
+    "updatedAt": "2025-11-13T10:50:47.235Z",
+    "storeId": "store-002"
+  },
+  {
+    "id": "P05253",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Daire - Saint Martin Central",
+    "slug": "satilik-daire-saint-martin-central-P05253",
+    "description": "Saint Martin Central, Saint Martin bölgesinde daire. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 10242783,
+    "location": {
+      "country": "MF",
+      "city": "Saint Martin Central",
+      "district": "Saint Martin Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 158",
+      "coordinates": {
+        "lat": 18.009686385948577,
+        "lng": -63.833628775298436
+      }
+    },
+    "specs": {
+      "netSize": 249,
+      "grossSize": 299,
+      "rooms": "5+2",
+      "bathrooms": 3,
+      "age": 10,
+      "floor": 1,
+      "totalFloors": 8,
+      "heating": "Merkezi",
+      "furnishing": "Furnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500860637001?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500620333268?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500189443566?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500785100105?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500677081590?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500412768706?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500707191051?w=800&q=80&category=architecture"
+    ],
+    "agent": {
+      "id": "A77",
+      "name": "Agent 25",
+      "phone": "+55 945 231 9140",
+      "email": "agent39@iwrealty.com",
+      "photo": "/images/icons/png/ny-skyline-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": false,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": true,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-06-22T10:50:47.235Z",
+    "updatedAt": "2025-11-13T10:50:47.235Z",
+    "storeId": "store-008"
+  },
+  {
+    "id": "P05254",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Villa - Saint Martin Central",
+    "slug": "kiralik-villa-saint-martin-central-P05254",
+    "description": "Saint Martin Central, Saint Martin bölgesinde villa. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 12705985,
+    "location": {
+      "country": "MF",
+      "city": "Saint Martin Central",
+      "district": "Saint Martin Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 68",
+      "coordinates": {
+        "lat": 17.701450637041766,
+        "lng": -64.26339905326263
+      }
+    },
+    "specs": {
+      "netSize": 80,
+      "grossSize": 96,
+      "rooms": "2+0",
+      "bathrooms": 3,
+      "age": 10,
+      "floor": 14,
+      "totalFloors": 14,
+      "heating": "Merkezi",
+      "furnishing": "Unfurnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500046838947?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500047245718?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500925683035?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500853962333?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500818579445?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500967660063?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500728426689?w=800&q=80&category=house"
+    ],
+    "agent": {
+      "id": "A92",
+      "name": "Agent 8",
+      "phone": "+86 990 696 4499",
+      "email": "agent8@iwrealty.com",
+      "photo": "/images/icons/png/ankara-modern-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-07-10T10:50:47.235Z",
+    "updatedAt": "2025-11-13T10:50:47.235Z",
+    "storeId": "store-003"
+  },
+  {
+    "id": "P05255",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Villa - Saint Martin Central",
+    "slug": "satilik-villa-saint-martin-central-P05255",
+    "description": "Saint Martin Central, Saint Martin bölgesinde villa. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 2183654,
+    "location": {
+      "country": "MF",
+      "city": "Saint Martin Central",
+      "district": "Saint Martin Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 867",
+      "coordinates": {
+        "lat": 18.362265896956206,
+        "lng": -63.60686819143532
+      }
+    },
+    "specs": {
+      "netSize": 153,
+      "grossSize": 184,
+      "rooms": "2+0",
+      "bathrooms": 2,
+      "age": 7,
+      "floor": 12,
+      "totalFloors": 16,
+      "heating": "Kombi",
+      "furnishing": "Furnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500420447544?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500239522493?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500265213094?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500975991841?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500403111873?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500666865924?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500157814089?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500780443379?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500937399349?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500240877673?w=800&q=80&category=real-estate"
+    ],
+    "agent": {
+      "id": "A70",
+      "name": "Agent 45",
+      "phone": "+92 962 235 8916",
+      "email": "agent56@iwrealty.com",
+      "photo": "/images/icons/png/luxury-homes-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-04-05T10:50:47.235Z",
+    "updatedAt": "2025-11-13T10:50:47.235Z",
+    "storeId": "store-002"
+  },
+  {
+    "id": "P05256",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Villa - Marigot",
+    "slug": "kiralik-villa-marigot-P05256",
+    "description": "Marigot, Saint Martin bölgesinde villa. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 9072102,
+    "location": {
+      "country": "MF",
+      "city": "Marigot",
+      "district": "Marigot Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 724",
+      "coordinates": {
+        "lat": 18.11760648148464,
+        "lng": -63.83416051745142
+      }
+    },
+    "specs": {
+      "netSize": 119,
+      "grossSize": 143,
+      "rooms": "2+1",
+      "bathrooms": 1,
+      "age": 1,
+      "floor": 11,
+      "totalFloors": 9,
+      "heating": "Kombi",
+      "furnishing": "Furnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500346001396?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500660463682?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500160343154?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500909782740?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500452897159?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500043248389?w=800&q=80&category=real-estate"
+    ],
+    "agent": {
+      "id": "A80",
+      "name": "Agent 90",
+      "phone": "+87 870 444 7427",
+      "email": "agent87@iwrealty.com",
+      "photo": "/images/icons/png/london-prime-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": false,
+      "hasBalcony": false,
+      "hasGarden": true,
+      "hasPool": true,
+      "hasSecurity": true
+    },
+    "createdAt": "2024-11-14T10:50:47.235Z",
+    "updatedAt": "2025-11-13T10:50:47.235Z",
+    "storeId": "store-007"
+  },
+  {
+    "id": "P05257",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Daire - Marigot",
+    "slug": "satilik-daire-marigot-P05257",
+    "description": "Marigot, Saint Martin bölgesinde daire. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 10026257,
+    "location": {
+      "country": "MF",
+      "city": "Marigot",
+      "district": "Marigot Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 286",
+      "coordinates": {
+        "lat": 18.181223381100835,
+        "lng": -63.70416429953934
+      }
+    },
+    "specs": {
+      "netSize": 272,
+      "grossSize": 326,
+      "rooms": "1+2",
+      "bathrooms": 3,
+      "age": 5,
+      "floor": 1,
+      "totalFloors": 15,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500779352659?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500532459181?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500735390040?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500573618938?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500360845886?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500238078050?w=800&q=80&category=architecture"
+    ],
+    "agent": {
+      "id": "A57",
+      "name": "Agent 74",
+      "phone": "+54 914 239 8551",
+      "email": "agent14@iwrealty.com",
+      "photo": "/images/icons/png/sydney-coastal-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": false,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-03-26T10:50:47.235Z",
+    "updatedAt": "2025-11-13T10:50:47.235Z",
+    "storeId": "store-012"
+  },
+  {
+    "id": "P05258",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Daire - Marigot",
+    "slug": "kiralik-daire-marigot-P05258",
+    "description": "Marigot, Saint Martin bölgesinde daire. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 4078495,
+    "location": {
+      "country": "MF",
+      "city": "Marigot",
+      "district": "Marigot Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 154",
+      "coordinates": {
+        "lat": 17.7709280390032,
+        "lng": -64.27399113096087
+      }
+    },
+    "specs": {
+      "netSize": 272,
+      "grossSize": 326,
+      "rooms": "3+1",
+      "bathrooms": 3,
+      "age": 8,
+      "floor": 1,
+      "totalFloors": 7,
+      "heating": "Merkezi",
+      "furnishing": "Furnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500010994207?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500209281555?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500649016479?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500447025982?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500113041601?w=800&q=80&category=real-estate"
+    ],
+    "agent": {
+      "id": "A82",
+      "name": "Agent 48",
+      "phone": "+65 968 352 8350",
+      "email": "agent71@iwrealty.com",
+      "photo": "/images/icons/png/paris-heritage-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-09-03T10:50:47.235Z",
+    "updatedAt": "2025-11-13T10:50:47.235Z",
+    "storeId": "store-010"
+  },
+  {
+    "id": "P05259",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Villa - New Saint Martin",
+    "slug": "satilik-villa-new-saint-martin-P05259",
+    "description": "New Saint Martin, Saint Martin bölgesinde villa. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 9816773,
+    "location": {
+      "country": "MF",
+      "city": "New Saint Martin",
+      "district": "New Saint Martin Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 924",
+      "coordinates": {
+        "lat": 17.902394716486132,
+        "lng": -63.45732985311142
+      }
+    },
+    "specs": {
+      "netSize": 112,
+      "grossSize": 134,
+      "rooms": "5+1",
+      "bathrooms": 4,
+      "age": 10,
+      "floor": 12,
+      "totalFloors": 14,
+      "heating": "Klima",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500285012794?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500241763075?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500084348777?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500400121602?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500671470132?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500339858173?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500882428615?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500395323220?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500082176152?w=800&q=80&category=house"
+    ],
+    "agent": {
+      "id": "A42",
+      "name": "Agent 74",
+      "phone": "+97 964 135 4155",
+      "email": "agent71@iwrealty.com",
+      "photo": "/images/icons/png/izmir-sahil-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2024-12-24T10:50:47.235Z",
+    "updatedAt": "2025-11-13T10:50:47.235Z",
+    "storeId": "store-005"
+  },
+  {
+    "id": "P05260",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Müstakil Ev - Saint Martin Central",
+    "slug": "kiralik-müstakil-ev-saint-martin-central-P05260",
+    "description": "Saint Martin Central, Saint Martin bölgesinde müstakil ev. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 6743409,
+    "location": {
+      "country": "MF",
+      "city": "Saint Martin Central",
+      "district": "Saint Martin Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 57",
+      "coordinates": {
+        "lat": 17.969874948560996,
+        "lng": -63.522785065381875
+      }
+    },
+    "specs": {
+      "netSize": 109,
+      "grossSize": 131,
+      "rooms": "4+2",
+      "bathrooms": 2,
+      "age": 5,
+      "floor": 12,
+      "totalFloors": 17,
+      "heating": "Klima",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500721959993?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500282718773?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500340862524?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500227937162?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500747770011?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500835100118?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500360899377?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500268990710?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500320449133?w=800&q=80&category=real-estate"
+    ],
+    "agent": {
+      "id": "A76",
+      "name": "Agent 30",
+      "phone": "+76 855 268 5948",
+      "email": "agent78@iwrealty.com",
+      "photo": "/images/icons/png/antalya-investment-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": false,
+      "hasBalcony": false,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-10-21T10:50:47.235Z",
+    "updatedAt": "2025-11-13T10:50:47.235Z",
+    "storeId": "store-006"
+  },
+  {
+    "id": "P05261",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Residence - New Saint Martin",
+    "slug": "satilik-residence-new-saint-martin-P05261",
+    "description": "New Saint Martin, Saint Martin bölgesinde residence. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 2956799,
+    "location": {
+      "country": "MF",
+      "city": "New Saint Martin",
+      "district": "New Saint Martin Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 504",
+      "coordinates": {
+        "lat": 18.502232336970394,
+        "lng": -64.08773239008858
+      }
+    },
+    "specs": {
+      "netSize": 211,
+      "grossSize": 253,
+      "rooms": "5+1",
+      "bathrooms": 4,
+      "age": 8,
+      "floor": 8,
+      "totalFloors": 8,
+      "heating": "Klima",
+      "furnishing": "Furnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500198636057?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500471844410?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500941809958?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500147374331?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500199608537?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500220333334?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500053112191?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500980348138?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500564141775?w=800&q=80&category=real-estate"
+    ],
+    "agent": {
+      "id": "A8",
+      "name": "Agent 50",
+      "phone": "+34 960 616 2754",
+      "email": "agent10@iwrealty.com",
+      "photo": "/images/icons/png/london-prime-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-07-10T10:50:47.235Z",
+    "updatedAt": "2025-11-13T10:50:47.235Z",
+    "storeId": "store-007"
+  },
+  {
+    "id": "P05262",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Müstakil Ev - Saint Martin Central",
+    "slug": "kiralik-müstakil-ev-saint-martin-central-P05262",
+    "description": "Saint Martin Central, Saint Martin bölgesinde müstakil ev. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 3867163,
+    "location": {
+      "country": "MF",
+      "city": "Saint Martin Central",
+      "district": "Saint Martin Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 318",
+      "coordinates": {
+        "lat": 17.601349405057807,
+        "lng": -63.47820658258186
+      }
+    },
+    "specs": {
+      "netSize": 483,
+      "grossSize": 580,
+      "rooms": "2+0",
+      "bathrooms": 1,
+      "age": 16,
+      "floor": 11,
+      "totalFloors": 6,
+      "heating": "Klima",
+      "furnishing": "Unfurnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500139947619?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500136374179?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500095532089?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500022364712?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500094370543?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500612235008?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500701692182?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500851695029?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500809246575?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500121743060?w=800&q=80&category=real-estate"
+    ],
+    "agent": {
+      "id": "A66",
+      "name": "Agent 85",
+      "phone": "+15 548 211 3693",
+      "email": "agent37@iwrealty.com",
+      "photo": "/images/icons/png/antalya-investment-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": false,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-10-11T10:50:47.235Z",
+    "updatedAt": "2025-11-13T10:50:47.235Z",
+    "storeId": "store-006"
+  },
+  {
+    "id": "P05263",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Daire - Saint Martin City",
+    "slug": "satilik-daire-saint-martin-city-P05263",
+    "description": "Saint Martin City, Saint Martin bölgesinde daire. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 6253393,
+    "location": {
+      "country": "MF",
+      "city": "Saint Martin City",
+      "district": "Saint Martin City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 489",
+      "coordinates": {
+        "lat": 18.11529497137614,
+        "lng": -63.75754965782369
+      }
+    },
+    "specs": {
+      "netSize": 191,
+      "grossSize": 229,
+      "rooms": "4+0",
+      "bathrooms": 1,
+      "age": 2,
+      "floor": 11,
+      "totalFloors": 6,
+      "heating": "Kombi",
+      "furnishing": "Furnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500666095651?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500669115441?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500095837061?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500728801053?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500064993003?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500461707563?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500930406402?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500090924626?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500178626396?w=800&q=80&category=building"
+    ],
+    "agent": {
+      "id": "A27",
+      "name": "Agent 12",
+      "phone": "+21 234 344 4623",
+      "email": "agent100@iwrealty.com",
+      "photo": "/images/icons/png/london-prime-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": true,
+      "hasPool": true,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-08-27T10:50:47.235Z",
+    "updatedAt": "2025-11-13T10:50:47.235Z",
+    "storeId": "store-007"
+  },
+  {
+    "id": "P05264",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Müstakil Ev - Saint Martin Central",
+    "slug": "kiralik-müstakil-ev-saint-martin-central-P05264",
+    "description": "Saint Martin Central, Saint Martin bölgesinde müstakil ev. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 3529430,
+    "location": {
+      "country": "MF",
+      "city": "Saint Martin Central",
+      "district": "Saint Martin Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 457",
+      "coordinates": {
+        "lat": 18.125175398327507,
+        "lng": -63.68000392042334
+      }
+    },
+    "specs": {
+      "netSize": 96,
+      "grossSize": 115,
+      "rooms": "3+2",
+      "bathrooms": 1,
+      "age": 18,
+      "floor": 13,
+      "totalFloors": 7,
+      "heating": "Kombi",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500382768009?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500478700019?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500848842110?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500489655164?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500217028528?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500419648589?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500257451808?w=800&q=80&category=real-estate"
+    ],
+    "agent": {
+      "id": "A68",
+      "name": "Agent 66",
+      "phone": "+43 364 283 9647",
+      "email": "agent45@iwrealty.com",
+      "photo": "/images/icons/png/antalya-investment-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": true,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-01-30T10:50:47.235Z",
+    "updatedAt": "2025-11-13T10:50:47.235Z",
+    "storeId": "store-006"
+  },
+  {
+    "id": "P05265",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Daire - Saint Martin City",
+    "slug": "satilik-daire-saint-martin-city-P05265",
+    "description": "Saint Martin City, Saint Martin bölgesinde daire. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 14731712,
+    "location": {
+      "country": "MF",
+      "city": "Saint Martin City",
+      "district": "Saint Martin City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 709",
+      "coordinates": {
+        "lat": 17.997450830218074,
+        "lng": -63.456378245977476
+      }
+    },
+    "specs": {
+      "netSize": 476,
+      "grossSize": 571,
+      "rooms": "4+1",
+      "bathrooms": 3,
+      "age": 4,
+      "floor": 1,
+      "totalFloors": 8,
+      "heating": "Merkezi",
+      "furnishing": "Unfurnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500319871268?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500194976084?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500231671857?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500068234598?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500903166193?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500158522021?w=800&q=80&category=house"
+    ],
+    "agent": {
+      "id": "A83",
+      "name": "Agent 93",
+      "phone": "+30 813 810 5802",
+      "email": "agent61@iwrealty.com",
+      "photo": "/images/icons/png/paris-heritage-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": false,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-06-26T10:50:47.235Z",
+    "updatedAt": "2025-11-13T10:50:47.235Z",
+    "storeId": "store-010"
+  },
+  {
+    "id": "P05266",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Residence - Saint Martin Central",
+    "slug": "kiralik-residence-saint-martin-central-P05266",
+    "description": "Saint Martin Central, Saint Martin bölgesinde residence. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 11683058,
+    "location": {
+      "country": "MF",
+      "city": "Saint Martin Central",
+      "district": "Saint Martin Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 846",
+      "coordinates": {
+        "lat": 18.038375323918316,
+        "lng": -63.69192179065963
+      }
+    },
+    "specs": {
+      "netSize": 224,
+      "grossSize": 269,
+      "rooms": "5+0",
+      "bathrooms": 2,
+      "age": 16,
+      "floor": 3,
+      "totalFloors": 15,
+      "heating": "Merkezi",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500627561118?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500920112932?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500862218287?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500041442637?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500794655507?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500105635103?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500975605274?w=800&q=80&category=house"
+    ],
+    "agent": {
+      "id": "A71",
+      "name": "Agent 76",
+      "phone": "+21 187 210 9594",
+      "email": "agent41@iwrealty.com",
+      "photo": "/images/icons/png/ankara-modern-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-02-20T10:50:47.235Z",
+    "updatedAt": "2025-11-13T10:50:47.235Z",
+    "storeId": "store-003"
+  },
+  {
+    "id": "P05267",
+    "type": "sale",
+    "category": {
+      "main": "commercial",
+      "sub": "hospital"
+    },
+    "title": "Satılık Hastane - New Saint Martin",
+    "slug": "satilik-hastane-new-saint-martin-P05267",
+    "description": "New Saint Martin, Saint Martin bölgesinde hastane. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 86457719,
+    "location": {
+      "country": "MF",
+      "city": "New Saint Martin",
+      "district": "New Saint Martin Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 605",
+      "coordinates": {
+        "lat": 18.46006096306863,
+        "lng": -63.57969870471445
+      }
+    },
+    "specs": {
+      "netSize": 8102,
+      "grossSize": 9722,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 0,
+      "floor": 2,
+      "totalFloors": 8,
+      "heating": "Merkezi",
+      "furnishing": "Unfurnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500952340239?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500164275748?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500755998010?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500376775766?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500007763168?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500371688324?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500931977972?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500921942413?w=800&q=80&category=architecture"
+    ],
+    "agent": {
+      "id": "A90",
+      "name": "Agent 69",
+      "phone": "+76 988 834 5268",
+      "email": "agent6@iwrealty.com",
+      "photo": "/images/icons/png/sydney-coastal-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": true,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-04-21T10:50:47.235Z",
+    "updatedAt": "2025-11-13T10:50:47.235Z",
+    "storeId": "store-012"
+  },
+  {
+    "id": "P05268",
+    "type": "rent",
+    "category": {
+      "main": "commercial",
+      "sub": "hospital"
+    },
+    "title": "Kiralık Hastane - Marigot",
+    "slug": "kiralik-hastane-marigot-P05268",
+    "description": "Marigot, Saint Martin bölgesinde hastane. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 98804062,
+    "location": {
+      "country": "MF",
+      "city": "Marigot",
+      "district": "Marigot Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 825",
+      "coordinates": {
+        "lat": 17.670507695328762,
+        "lng": -63.66676008401435
+      }
+    },
+    "specs": {
+      "netSize": 10919,
+      "grossSize": 13103,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 6,
+      "floor": 5,
+      "totalFloors": 14,
+      "heating": "Merkezi",
+      "furnishing": "Unfurnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500637218775?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500783200834?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500681808082?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500157217316?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500388184790?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500549978746?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500986866852?w=800&q=80&category=architecture"
+    ],
+    "agent": {
+      "id": "A51",
+      "name": "Agent 30",
+      "phone": "+25 408 512 5772",
+      "email": "agent22@iwrealty.com",
+      "photo": "/images/icons/png/ankara-modern-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-04-02T10:50:47.235Z",
+    "updatedAt": "2025-11-13T10:50:47.235Z",
+    "storeId": "store-003"
+  },
+  {
+    "id": "P05269",
+    "type": "sale",
+    "category": {
+      "main": "commercial",
+      "sub": "clinic"
+    },
+    "title": "Satılık Klinik - New Saint Martin",
+    "slug": "satilik-klinik-new-saint-martin-P05269",
+    "description": "New Saint Martin, Saint Martin bölgesinde klinik. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 13597764,
+    "location": {
+      "country": "MF",
+      "city": "New Saint Martin",
+      "district": "New Saint Martin Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 613",
+      "coordinates": {
+        "lat": 18.349478495196895,
+        "lng": -64.02150879548375
+      }
+    },
+    "specs": {
+      "netSize": 358,
+      "grossSize": 430,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 16,
+      "floor": 2,
+      "totalFloors": 17,
+      "heating": "Merkezi",
+      "furnishing": "Unfurnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500826881539?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500426407012?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500092226314?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500243613513?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500195136189?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500912354438?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500390351953?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500701345043?w=800&q=80&category=building"
+    ],
+    "agent": {
+      "id": "A30",
+      "name": "Agent 56",
+      "phone": "+85 492 213 5067",
+      "email": "agent39@iwrealty.com",
+      "photo": "/images/icons/png/ny-skyline-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-11-10T10:50:47.235Z",
+    "updatedAt": "2025-11-13T10:50:47.235Z",
+    "storeId": "store-008"
+  },
+  {
+    "id": "P05270",
+    "type": "rent",
+    "category": {
+      "main": "commercial",
+      "sub": "clinic"
+    },
+    "title": "Kiralık Klinik - Saint Martin City",
+    "slug": "kiralik-klinik-saint-martin-city-P05270",
+    "description": "Saint Martin City, Saint Martin bölgesinde klinik. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 5465288,
+    "location": {
+      "country": "MF",
+      "city": "Saint Martin City",
+      "district": "Saint Martin City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 514",
+      "coordinates": {
+        "lat": 18.519747223464385,
+        "lng": -64.37100951516132
+      }
+    },
+    "specs": {
+      "netSize": 1642,
+      "grossSize": 1970,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 6,
+      "floor": 2,
+      "totalFloors": 6,
+      "heating": "Klima",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500671657804?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500993588172?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500984858480?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500956536699?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500976204928?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500382591546?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500586636074?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500378075202?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500335131791?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500709005865?w=800&q=80&category=house"
+    ],
+    "agent": {
+      "id": "A45",
+      "name": "Agent 82",
+      "phone": "+62 223 672 4422",
+      "email": "agent73@iwrealty.com",
+      "photo": "/images/icons/png/antalya-investment-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": true,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-08-19T10:50:47.235Z",
+    "updatedAt": "2025-11-13T10:50:47.235Z",
+    "storeId": "store-006"
+  },
+  {
+    "id": "P05271",
+    "type": "sale",
+    "category": {
+      "main": "commercial",
+      "sub": "shop"
+    },
+    "title": "Satılık Dükkan - Marigot",
+    "slug": "satilik-dükkan-marigot-P05271",
+    "description": "Marigot, Saint Martin bölgesinde dükkan. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 1227621,
+    "location": {
+      "country": "MF",
+      "city": "Marigot",
+      "district": "Marigot Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 462",
+      "coordinates": {
+        "lat": 17.6664620360053,
+        "lng": -63.891030188930195
+      }
+    },
+    "specs": {
+      "netSize": 153,
+      "grossSize": 184,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 4,
+      "floor": 5,
+      "totalFloors": 18,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Unfurnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500955757158?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500466059815?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500217057609?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500872126930?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500415771404?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500805002096?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500660420036?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500998948417?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500927501971?w=800&q=80&category=architecture"
+    ],
+    "agent": {
+      "id": "A86",
+      "name": "Agent 70",
+      "phone": "+43 303 974 7443",
+      "email": "agent99@iwrealty.com",
+      "photo": "/images/icons/png/london-prime-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-08-06T10:50:47.235Z",
+    "updatedAt": "2025-11-13T10:50:47.235Z",
+    "storeId": "store-007"
+  },
+  {
+    "id": "P05272",
+    "type": "rent",
+    "category": {
+      "main": "commercial",
+      "sub": "shop"
+    },
+    "title": "Kiralık Dükkan - Marigot",
+    "slug": "kiralik-dükkan-marigot-P05272",
+    "description": "Marigot, Saint Martin bölgesinde dükkan. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 6534399,
+    "location": {
+      "country": "MF",
+      "city": "Marigot",
+      "district": "Marigot Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 425",
+      "coordinates": {
+        "lat": 18.23916490470548,
+        "lng": -64.13785733237962
+      }
+    },
+    "specs": {
+      "netSize": 308,
+      "grossSize": 370,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 6,
+      "floor": 10,
+      "totalFloors": 14,
+      "heating": "Klima",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500382171124?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500627483065?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500774712044?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500424835949?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500695477122?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500937646483?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500932494122?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500700570515?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500599339624?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500458788867?w=800&q=80&category=building"
+    ],
+    "agent": {
+      "id": "A19",
+      "name": "Agent 35",
+      "phone": "+15 544 178 1127",
+      "email": "agent25@iwrealty.com",
+      "photo": "/images/icons/png/sg-harbour-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": true,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-11-12T10:50:47.235Z",
+    "updatedAt": "2025-11-13T10:50:47.235Z",
+    "storeId": "store-011"
+  },
+  {
+    "id": "P05273",
+    "type": "sale",
+    "category": {
+      "main": "commercial",
+      "sub": "office"
+    },
+    "title": "Satılık Ofis - Marigot",
+    "slug": "satilik-ofis-marigot-P05273",
+    "description": "Marigot, Saint Martin bölgesinde ofis. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 2898933,
+    "location": {
+      "country": "MF",
+      "city": "Marigot",
+      "district": "Marigot Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 805",
+      "coordinates": {
+        "lat": 18.463830755087372,
+        "lng": -63.45101109069905
+      }
+    },
+    "specs": {
+      "netSize": 344,
+      "grossSize": 413,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 13,
+      "floor": 13,
+      "totalFloors": 5,
+      "heating": "Kombi",
+      "furnishing": "Furnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500262629058?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500630179802?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500660650796?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500665516763?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500340712104?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500946828913?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500605887368?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500013229249?w=800&q=80&category=real-estate"
+    ],
+    "agent": {
+      "id": "A13",
+      "name": "Agent 100",
+      "phone": "+90 734 400 3225",
+      "email": "agent71@iwrealty.com",
+      "photo": "/images/icons/png/luxury-homes-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": false,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-07-13T10:50:47.235Z",
+    "updatedAt": "2025-11-13T10:50:47.235Z",
+    "storeId": "store-002"
+  },
+  {
+    "id": "P05274",
+    "type": "rent",
+    "category": {
+      "main": "commercial",
+      "sub": "office"
+    },
+    "title": "Kiralık Ofis - Saint Martin Central",
+    "slug": "kiralik-ofis-saint-martin-central-P05274",
+    "description": "Saint Martin Central, Saint Martin bölgesinde ofis. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 1832904,
+    "location": {
+      "country": "MF",
+      "city": "Saint Martin Central",
+      "district": "Saint Martin Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 296",
+      "coordinates": {
+        "lat": 17.82793359121405,
+        "lng": -63.564608965013726
+      }
+    },
+    "specs": {
+      "netSize": 598,
+      "grossSize": 718,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 19,
+      "floor": 9,
+      "totalFloors": 15,
+      "heating": "Klima",
+      "furnishing": "Unfurnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500770236105?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500399370848?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500182260150?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500278848605?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500079556421?w=800&q=80&category=house"
+    ],
+    "agent": {
+      "id": "A39",
+      "name": "Agent 96",
+      "phone": "+71 437 325 2087",
+      "email": "agent68@iwrealty.com",
+      "photo": "/images/icons/png/paris-heritage-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": false,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": true,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-01-31T10:50:47.235Z",
+    "updatedAt": "2025-11-13T10:50:47.235Z",
+    "storeId": "store-010"
+  },
+  {
+    "id": "P05275",
+    "type": "sale",
+    "category": {
+      "main": "commercial",
+      "sub": "mall"
+    },
+    "title": "Satılık AVM - Saint Martin City",
+    "slug": "satilik-avm-saint-martin-city-P05275",
+    "description": "Saint Martin City, Saint Martin bölgesinde avm. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 78236885,
+    "location": {
+      "country": "MF",
+      "city": "Saint Martin City",
+      "district": "Saint Martin City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 400",
+      "coordinates": {
+        "lat": 18.33661477472013,
+        "lng": -63.85055402669951
+      }
+    },
+    "specs": {
+      "netSize": 7839,
+      "grossSize": 9407,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 19,
+      "floor": 7,
+      "totalFloors": 15,
+      "heating": "Kombi",
+      "furnishing": "Unfurnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500739806458?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500918978519?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500705917216?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500951763072?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500313913657?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500878966188?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500686686820?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500414572562?w=800&q=80&category=real-estate"
+    ],
+    "agent": {
+      "id": "A94",
+      "name": "Agent 15",
+      "phone": "+65 122 870 2489",
+      "email": "agent96@iwrealty.com",
+      "photo": "/images/icons/png/izmir-sahil-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": false,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-10-10T10:50:47.235Z",
+    "updatedAt": "2025-11-13T10:50:47.235Z",
+    "storeId": "store-005"
+  },
+  {
+    "id": "P05276",
+    "type": "rent",
+    "category": {
+      "main": "commercial",
+      "sub": "mall"
+    },
+    "title": "Kiralık AVM - Saint Martin Central",
+    "slug": "kiralik-avm-saint-martin-central-P05276",
+    "description": "Saint Martin Central, Saint Martin bölgesinde avm. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 158477162,
+    "location": {
+      "country": "MF",
+      "city": "Saint Martin Central",
+      "district": "Saint Martin Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 312",
+      "coordinates": {
+        "lat": 18.049507524415095,
+        "lng": -64.03688249819473
+      }
+    },
+    "specs": {
+      "netSize": 43190,
+      "grossSize": 51828,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 15,
+      "floor": 9,
+      "totalFloors": 12,
+      "heating": "Kombi",
+      "furnishing": "Unfurnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500683071644?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500706245828?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500881414985?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500455459388?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500012735205?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500980006175?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500507767953?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500511400927?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500281868080?w=800&q=80&category=interior"
+    ],
+    "agent": {
+      "id": "A100",
+      "name": "Agent 20",
+      "phone": "+32 519 746 3122",
+      "email": "agent73@iwrealty.com",
+      "photo": "/images/icons/png/ankara-modern-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-04-08T10:50:47.235Z",
+    "updatedAt": "2025-11-13T10:50:47.235Z",
+    "storeId": "store-003"
+  },
+  {
+    "id": "P05277",
+    "type": "sale",
+    "category": {
+      "main": "commercial",
+      "sub": "hotel"
+    },
+    "title": "Satılık Otel - Saint Martin City",
+    "slug": "satilik-otel-saint-martin-city-P05277",
+    "description": "Saint Martin City, Saint Martin bölgesinde otel. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 143477450,
+    "location": {
+      "country": "MF",
+      "city": "Saint Martin City",
+      "district": "Saint Martin City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 731",
+      "coordinates": {
+        "lat": 17.731718598942187,
+        "lng": -63.86422773862377
+      }
+    },
+    "specs": {
+      "netSize": 11520,
+      "grossSize": 13824,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 14,
+      "floor": 9,
+      "totalFloors": 8,
+      "heating": "Kombi",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500933089136?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500870323792?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500965475280?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500472114279?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500073723751?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500481256380?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500051887919?w=800&q=80&category=architecture"
+    ],
+    "agent": {
+      "id": "A49",
+      "name": "Agent 76",
+      "phone": "+21 577 686 3598",
+      "email": "agent73@iwrealty.com",
+      "photo": "/images/icons/png/luxury-homes-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": false,
+      "hasBalcony": false,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-09-28T10:50:47.235Z",
+    "updatedAt": "2025-11-13T10:50:47.235Z",
+    "storeId": "store-002"
+  },
+  {
+    "id": "P05278",
+    "type": "rent",
+    "category": {
+      "main": "commercial",
+      "sub": "hotel"
+    },
+    "title": "Kiralık Otel - New Saint Martin",
+    "slug": "kiralik-otel-new-saint-martin-P05278",
+    "description": "New Saint Martin, Saint Martin bölgesinde otel. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 118000515,
+    "location": {
+      "country": "MF",
+      "city": "New Saint Martin",
+      "district": "New Saint Martin Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 842",
+      "coordinates": {
+        "lat": 18.143698852158106,
+        "lng": -63.45885191308081
+      }
+    },
+    "specs": {
+      "netSize": 22370,
+      "grossSize": 26844,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 0,
+      "floor": 7,
+      "totalFloors": 18,
+      "heating": "Merkezi",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500604828889?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500487042946?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500047508800?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500992593819?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500218281503?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500174267777?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500955685902?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500513778880?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500932063388?w=800&q=80&category=architecture"
+    ],
+    "agent": {
+      "id": "A58",
+      "name": "Agent 23",
+      "phone": "+53 495 934 8073",
+      "email": "agent95@iwrealty.com",
+      "photo": "/images/icons/png/sydney-coastal-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": true,
+      "hasPool": true,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-08-12T10:50:47.235Z",
+    "updatedAt": "2025-11-13T10:50:47.235Z",
+    "storeId": "store-012"
+  },
+  {
+    "id": "P05279",
+    "type": "sale",
+    "category": {
+      "main": "commercial",
+      "sub": "restaurant"
+    },
+    "title": "Satılık Restoran - New Saint Martin",
+    "slug": "satilik-restoran-new-saint-martin-P05279",
+    "description": "New Saint Martin, Saint Martin bölgesinde restoran. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 6151874,
+    "location": {
+      "country": "MF",
+      "city": "New Saint Martin",
+      "district": "New Saint Martin Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 715",
+      "coordinates": {
+        "lat": 18.107001186126794,
+        "lng": -64.18304372612982
+      }
+    },
+    "specs": {
+      "netSize": 543,
+      "grossSize": 652,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 18,
+      "floor": 6,
+      "totalFloors": 20,
+      "heating": "Klima",
+      "furnishing": "Furnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500604378639?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500280856228?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500413302753?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500431794777?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500093019103?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500335079860?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500880833771?w=800&q=80&category=interior"
+    ],
+    "agent": {
+      "id": "A81",
+      "name": "Agent 12",
+      "phone": "+56 762 786 7761",
+      "email": "agent2@iwrealty.com",
+      "photo": "/images/icons/png/luxury-homes-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": true,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-09-06T10:50:47.235Z",
+    "updatedAt": "2025-11-13T10:50:47.235Z",
+    "storeId": "store-002"
+  },
+  {
+    "id": "P05280",
+    "type": "rent",
+    "category": {
+      "main": "commercial",
+      "sub": "restaurant"
+    },
+    "title": "Kiralık Restoran - Marigot",
+    "slug": "kiralik-restoran-marigot-P05280",
+    "description": "Marigot, Saint Martin bölgesinde restoran. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 1799519,
+    "location": {
+      "country": "MF",
+      "city": "Marigot",
+      "district": "Marigot Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 14",
+      "coordinates": {
+        "lat": 18.35043709146282,
+        "lng": -63.67055589350263
+      }
+    },
+    "specs": {
+      "netSize": 249,
+      "grossSize": 299,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 5,
+      "floor": 8,
+      "totalFloors": 5,
+      "heating": "Merkezi",
+      "furnishing": "Unfurnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500548838465?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500653406635?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500992317579?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500638409790?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500389905256?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500095336845?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500148368565?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500438421537?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500450908009?w=800&q=80&category=architecture"
+    ],
+    "agent": {
+      "id": "A27",
+      "name": "Agent 82",
+      "phone": "+48 358 255 8830",
+      "email": "agent59@iwrealty.com",
+      "photo": "/images/icons/png/dubai-property-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-06-09T10:50:47.235Z",
+    "updatedAt": "2025-11-13T10:50:47.235Z",
+    "storeId": "store-004"
+  },
+  {
+    "id": "P05281",
+    "type": "sale",
+    "category": {
+      "main": "commercial",
+      "sub": "warehouse"
+    },
+    "title": "Satılık Depo - New Saint Martin",
+    "slug": "satilik-depo-new-saint-martin-P05281",
+    "description": "New Saint Martin, Saint Martin bölgesinde depo. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 26708158,
+    "location": {
+      "country": "MF",
+      "city": "New Saint Martin",
+      "district": "New Saint Martin Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 719",
+      "coordinates": {
+        "lat": 18.142645188350848,
+        "lng": -64.15282921140748
+      }
+    },
+    "specs": {
+      "netSize": 5327,
+      "grossSize": 6392,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 20,
+      "floor": 15,
+      "totalFloors": 12,
+      "heating": "Klima",
+      "furnishing": "Unfurnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500793012089?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500412030209?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500841110959?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500360096036?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500189599436?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500808485151?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500267304025?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500072520105?w=800&q=80&category=architecture"
+    ],
+    "agent": {
+      "id": "A93",
+      "name": "Agent 57",
+      "phone": "+95 271 932 3746",
+      "email": "agent2@iwrealty.com",
+      "photo": "/images/icons/png/berlin-urban-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-09-04T10:50:47.235Z",
+    "updatedAt": "2025-11-13T10:50:47.235Z",
+    "storeId": "store-009"
+  },
+  {
+    "id": "P05282",
+    "type": "rent",
+    "category": {
+      "main": "commercial",
+      "sub": "warehouse"
+    },
+    "title": "Kiralık Depo - Saint Martin City",
+    "slug": "kiralik-depo-saint-martin-city-P05282",
+    "description": "Saint Martin City, Saint Martin bölgesinde depo. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 29650621,
+    "location": {
+      "country": "MF",
+      "city": "Saint Martin City",
+      "district": "Saint Martin City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 543",
+      "coordinates": {
+        "lat": 18.50806451016663,
+        "lng": -63.63710538162442
+      }
+    },
+    "specs": {
+      "netSize": 4661,
+      "grossSize": 5593,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 6,
+      "floor": 10,
+      "totalFloors": 14,
+      "heating": "Klima",
+      "furnishing": "Furnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500471059761?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500537590664?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500488763369?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500339787629?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500436238371?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500327139379?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500190084045?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500356205256?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500313813114?w=800&q=80&category=house"
+    ],
+    "agent": {
+      "id": "A47",
+      "name": "Agent 52",
+      "phone": "+83 321 177 6467",
+      "email": "agent8@iwrealty.com",
+      "photo": "/images/icons/png/ny-skyline-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": true,
+      "hasSecurity": true
+    },
+    "createdAt": "2024-12-10T10:50:47.235Z",
+    "updatedAt": "2025-11-13T10:50:47.235Z",
+    "storeId": "store-008"
+  }
+]

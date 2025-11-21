@@ -1,0 +1,2375 @@
+[
+  {
+    "id": "P03801",
+    "type": "sale",
+    "category": {
+      "main": "government"
+    },
+    "title": "Satılık Hastane - New Croatia",
+    "slug": "satilik-hastane-new-croatia-P03801",
+    "description": "New Croatia, Croatia bölgesinde hastane. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 23473410,
+    "location": {
+      "country": "HR",
+      "city": "New Croatia",
+      "district": "New Croatia Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 682",
+      "coordinates": {
+        "lat": 44.99138591915164,
+        "lng": 15.370345550067597
+      }
+    },
+    "specs": {
+      "netSize": 3472,
+      "grossSize": 4166,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 7,
+      "floor": 1,
+      "totalFloors": 8,
+      "heating": "Merkezi",
+      "furnishing": "Furnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500554283067?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500740624310?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500030469211?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500809347724?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500620790534?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500751605339?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500244956001?w=800&q=80&category=interior"
+    ],
+    "agent": {
+      "id": "A99",
+      "name": "Agent 74",
+      "phone": "+35 227 829 4600",
+      "email": "agent62@iwrealty.com",
+      "photo": "/images/icons/png/sg-harbour-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": true,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-09-11T10:50:47.218Z",
+    "updatedAt": "2025-11-13T10:50:47.218Z",
+    "storeId": "store-011"
+  },
+  {
+    "id": "P03802",
+    "type": "rent",
+    "category": {
+      "main": "government"
+    },
+    "title": "Kiralık Devlet Binası - Croatia Central",
+    "slug": "kiralik-devlet-binası-croatia-central-P03802",
+    "description": "Croatia Central, Croatia bölgesinde devlet binası. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 44750425,
+    "location": {
+      "country": "HR",
+      "city": "Croatia Central",
+      "district": "Croatia Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 403",
+      "coordinates": {
+        "lat": 45.06220601520559,
+        "lng": 15.482977271529629
+      }
+    },
+    "specs": {
+      "netSize": 1028,
+      "grossSize": 1234,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 19,
+      "floor": 11,
+      "totalFloors": 19,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500200031498?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500465256597?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500413804037?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500605878724?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500316124186?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500903829125?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500383221795?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500123799143?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500041434548?w=800&q=80&category=building"
+    ],
+    "agent": {
+      "id": "A60",
+      "name": "Agent 13",
+      "phone": "+81 949 289 3971",
+      "email": "agent80@iwrealty.com",
+      "photo": "/images/icons/png/ankara-modern-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-09-06T10:50:47.218Z",
+    "updatedAt": "2025-11-13T10:50:47.218Z",
+    "storeId": "store-003"
+  },
+  {
+    "id": "P03803",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Daire - New Croatia",
+    "slug": "satilik-daire-new-croatia-P03803",
+    "description": "New Croatia, Croatia bölgesinde daire. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 14335825,
+    "location": {
+      "country": "HR",
+      "city": "New Croatia",
+      "district": "New Croatia Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 216",
+      "coordinates": {
+        "lat": 45.41738656808874,
+        "lng": 15.61156254171529
+      }
+    },
+    "specs": {
+      "netSize": 163,
+      "grossSize": 196,
+      "rooms": "3+2",
+      "bathrooms": 2,
+      "age": 5,
+      "floor": 8,
+      "totalFloors": 9,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Unfurnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500931294594?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500958799316?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500924031009?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500796626971?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500802240984?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500863788802?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500181046072?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500417333762?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500046130994?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500813762586?w=800&q=80&category=house"
+    ],
+    "agent": {
+      "id": "A67",
+      "name": "Agent 87",
+      "phone": "+51 503 888 3442",
+      "email": "agent7@iwrealty.com",
+      "photo": "/images/icons/png/dubai-property-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-04-19T10:50:47.218Z",
+    "updatedAt": "2025-11-13T10:50:47.218Z",
+    "storeId": "store-004"
+  },
+  {
+    "id": "P03804",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Daire - New Croatia",
+    "slug": "kiralik-daire-new-croatia-P03804",
+    "description": "New Croatia, Croatia bölgesinde daire. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 945793,
+    "location": {
+      "country": "HR",
+      "city": "New Croatia",
+      "district": "New Croatia Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 127",
+      "coordinates": {
+        "lat": 45.65897101541823,
+        "lng": 15.86697418764592
+      }
+    },
+    "specs": {
+      "netSize": 383,
+      "grossSize": 460,
+      "rooms": "4+0",
+      "bathrooms": 3,
+      "age": 6,
+      "floor": 6,
+      "totalFloors": 7,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Unfurnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500222022042?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500092072830?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500638175234?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500279338722?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500162513573?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500700655782?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500928875810?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500303895057?w=800&q=80&category=real-estate"
+    ],
+    "agent": {
+      "id": "A46",
+      "name": "Agent 95",
+      "phone": "+47 146 430 6028",
+      "email": "agent94@iwrealty.com",
+      "photo": "/images/icons/png/london-prime-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": false,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-03-28T10:50:47.218Z",
+    "updatedAt": "2025-11-13T10:50:47.218Z",
+    "storeId": "store-007"
+  },
+  {
+    "id": "P03805",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Müstakil Ev - Croatia City",
+    "slug": "satilik-müstakil-ev-croatia-city-P03805",
+    "description": "Croatia City, Croatia bölgesinde müstakil ev. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 9491541,
+    "location": {
+      "country": "HR",
+      "city": "Croatia City",
+      "district": "Croatia City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 266",
+      "coordinates": {
+        "lat": 44.91560760159548,
+        "lng": 15.409201986670615
+      }
+    },
+    "specs": {
+      "netSize": 225,
+      "grossSize": 270,
+      "rooms": "5+0",
+      "bathrooms": 2,
+      "age": 19,
+      "floor": 12,
+      "totalFloors": 17,
+      "heating": "Klima",
+      "furnishing": "Furnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500887523613?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500729051827?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500576330397?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500413219867?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500825438052?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500711923110?w=800&q=80&category=house"
+    ],
+    "agent": {
+      "id": "A48",
+      "name": "Agent 58",
+      "phone": "+99 358 786 2284",
+      "email": "agent43@iwrealty.com",
+      "photo": "/images/icons/png/sg-harbour-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": true,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-04-15T10:50:47.218Z",
+    "updatedAt": "2025-11-13T10:50:47.218Z",
+    "storeId": "store-011"
+  },
+  {
+    "id": "P03806",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Villa - Zagreb",
+    "slug": "kiralik-villa-zagreb-P03806",
+    "description": "Zagreb, Croatia bölgesinde villa. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 850925,
+    "location": {
+      "country": "HR",
+      "city": "Zagreb",
+      "district": "Zagreb Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 999",
+      "coordinates": {
+        "lat": 44.83595945110775,
+        "lng": 15.527819081002074
+      }
+    },
+    "specs": {
+      "netSize": 477,
+      "grossSize": 572,
+      "rooms": "2+1",
+      "bathrooms": 2,
+      "age": 6,
+      "floor": 3,
+      "totalFloors": 6,
+      "heating": "Klima",
+      "furnishing": "Furnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500683145894?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500083394541?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500396897423?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500507915895?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500965485710?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500339260915?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500044867794?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500961336987?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500039232939?w=800&q=80&category=house"
+    ],
+    "agent": {
+      "id": "A22",
+      "name": "Agent 12",
+      "phone": "+37 690 869 6438",
+      "email": "agent29@iwrealty.com",
+      "photo": "/images/icons/png/london-prime-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-05-12T10:50:47.218Z",
+    "updatedAt": "2025-11-13T10:50:47.218Z",
+    "storeId": "store-007"
+  },
+  {
+    "id": "P03807",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Residence - Croatia Central",
+    "slug": "satilik-residence-croatia-central-P03807",
+    "description": "Croatia Central, Croatia bölgesinde residence. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 2359715,
+    "location": {
+      "country": "HR",
+      "city": "Croatia Central",
+      "district": "Croatia Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 579",
+      "coordinates": {
+        "lat": 45.205677702223966,
+        "lng": 15.499302867922035
+      }
+    },
+    "specs": {
+      "netSize": 498,
+      "grossSize": 598,
+      "rooms": "4+1",
+      "bathrooms": 2,
+      "age": 0,
+      "floor": 14,
+      "totalFloors": 16,
+      "heating": "Klima",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500364895149?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500909758984?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500716803238?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500556712542?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500832107249?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500957731736?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500935189007?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500512871228?w=800&q=80&category=building"
+    ],
+    "agent": {
+      "id": "A35",
+      "name": "Agent 21",
+      "phone": "+55 958 478 3577",
+      "email": "agent96@iwrealty.com",
+      "photo": "/images/icons/png/ankara-modern-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-01-02T10:50:47.218Z",
+    "updatedAt": "2025-11-13T10:50:47.218Z",
+    "storeId": "store-003"
+  },
+  {
+    "id": "P03808",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Daire - Croatia Central",
+    "slug": "kiralik-daire-croatia-central-P03808",
+    "description": "Croatia Central, Croatia bölgesinde daire. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 2057679,
+    "location": {
+      "country": "HR",
+      "city": "Croatia Central",
+      "district": "Croatia Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 861",
+      "coordinates": {
+        "lat": 45.49564163906802,
+        "lng": 15.251279652099875
+      }
+    },
+    "specs": {
+      "netSize": 467,
+      "grossSize": 560,
+      "rooms": "5+2",
+      "bathrooms": 2,
+      "age": 20,
+      "floor": 11,
+      "totalFloors": 10,
+      "heating": "Klima",
+      "furnishing": "Furnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500633561054?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500223627127?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500735749312?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500212310960?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500923395527?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500536491380?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500325456844?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500736825672?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500886117484?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500154723229?w=800&q=80&category=real-estate"
+    ],
+    "agent": {
+      "id": "A25",
+      "name": "Agent 14",
+      "phone": "+58 515 104 9326",
+      "email": "agent31@iwrealty.com",
+      "photo": "/images/icons/png/ankara-modern-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": false,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-07-07T10:50:47.218Z",
+    "updatedAt": "2025-11-13T10:50:47.218Z",
+    "storeId": "store-003"
+  },
+  {
+    "id": "P03809",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Residence - New Croatia",
+    "slug": "satilik-residence-new-croatia-P03809",
+    "description": "New Croatia, Croatia bölgesinde residence. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 2655673,
+    "location": {
+      "country": "HR",
+      "city": "New Croatia",
+      "district": "New Croatia Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 503",
+      "coordinates": {
+        "lat": 45.078863534441965,
+        "lng": 15.309979985837547
+      }
+    },
+    "specs": {
+      "netSize": 369,
+      "grossSize": 443,
+      "rooms": "2+0",
+      "bathrooms": 1,
+      "age": 9,
+      "floor": 12,
+      "totalFloors": 20,
+      "heating": "Klima",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500415901651?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500612229085?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500344275217?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500116008526?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500476092370?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500065175605?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500333403947?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500622170345?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500396483747?w=800&q=80&category=house"
+    ],
+    "agent": {
+      "id": "A30",
+      "name": "Agent 98",
+      "phone": "+66 698 985 6455",
+      "email": "agent63@iwrealty.com",
+      "photo": "/images/icons/png/izmir-sahil-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-04-13T10:50:47.218Z",
+    "updatedAt": "2025-11-13T10:50:47.218Z",
+    "storeId": "store-005"
+  },
+  {
+    "id": "P03810",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Daire - Zagreb",
+    "slug": "kiralik-daire-zagreb-P03810",
+    "description": "Zagreb, Croatia bölgesinde daire. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 3789165,
+    "location": {
+      "country": "HR",
+      "city": "Zagreb",
+      "district": "Zagreb Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 656",
+      "coordinates": {
+        "lat": 45.231563992141886,
+        "lng": 15.393085372229788
+      }
+    },
+    "specs": {
+      "netSize": 469,
+      "grossSize": 563,
+      "rooms": "1+1",
+      "bathrooms": 4,
+      "age": 17,
+      "floor": 8,
+      "totalFloors": 18,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500582840921?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500032474601?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500842664368?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500823969138?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500208137504?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500100660181?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500567747344?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500579984148?w=800&q=80&category=architecture"
+    ],
+    "agent": {
+      "id": "A55",
+      "name": "Agent 99",
+      "phone": "+72 314 897 2942",
+      "email": "agent65@iwrealty.com",
+      "photo": "/images/icons/png/dubai-property-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": true,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-07-17T10:50:47.218Z",
+    "updatedAt": "2025-11-13T10:50:47.218Z",
+    "storeId": "store-004"
+  },
+  {
+    "id": "P03811",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Müstakil Ev - New Croatia",
+    "slug": "satilik-müstakil-ev-new-croatia-P03811",
+    "description": "New Croatia, Croatia bölgesinde müstakil ev. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 11437338,
+    "location": {
+      "country": "HR",
+      "city": "New Croatia",
+      "district": "New Croatia Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 701",
+      "coordinates": {
+        "lat": 45.25927352775783,
+        "lng": 15.889967510939973
+      }
+    },
+    "specs": {
+      "netSize": 449,
+      "grossSize": 539,
+      "rooms": "1+1",
+      "bathrooms": 3,
+      "age": 1,
+      "floor": 6,
+      "totalFloors": 13,
+      "heating": "Kombi",
+      "furnishing": "Furnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500522381314?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500481321335?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500918183122?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500991429341?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500534508969?w=800&q=80&category=interior"
+    ],
+    "agent": {
+      "id": "A24",
+      "name": "Agent 34",
+      "phone": "+45 259 153 6544",
+      "email": "agent89@iwrealty.com",
+      "photo": "/images/icons/png/paris-heritage-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": true,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-09-04T10:50:47.218Z",
+    "updatedAt": "2025-11-13T10:50:47.218Z",
+    "storeId": "store-010"
+  },
+  {
+    "id": "P03812",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Müstakil Ev - Croatia City",
+    "slug": "kiralik-müstakil-ev-croatia-city-P03812",
+    "description": "Croatia City, Croatia bölgesinde müstakil ev. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 4655391,
+    "location": {
+      "country": "HR",
+      "city": "Croatia City",
+      "district": "Croatia City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 356",
+      "coordinates": {
+        "lat": 45.579462823737586,
+        "lng": 15.038916522284817
+      }
+    },
+    "specs": {
+      "netSize": 322,
+      "grossSize": 386,
+      "rooms": "3+1",
+      "bathrooms": 4,
+      "age": 10,
+      "floor": 12,
+      "totalFloors": 13,
+      "heating": "Klima",
+      "furnishing": "Furnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500628592715?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500789535377?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500197649241?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500243496135?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500686248753?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500743134348?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500027501869?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500638459922?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500328038126?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500526833907?w=800&q=80&category=house"
+    ],
+    "agent": {
+      "id": "A65",
+      "name": "Agent 95",
+      "phone": "+34 154 887 6229",
+      "email": "agent3@iwrealty.com",
+      "photo": "/images/icons/png/sg-harbour-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-06-20T10:50:47.218Z",
+    "updatedAt": "2025-11-13T10:50:47.218Z",
+    "storeId": "store-011"
+  },
+  {
+    "id": "P03813",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Residence - Croatia Central",
+    "slug": "satilik-residence-croatia-central-P03813",
+    "description": "Croatia Central, Croatia bölgesinde residence. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 848925,
+    "location": {
+      "country": "HR",
+      "city": "Croatia Central",
+      "district": "Croatia Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 760",
+      "coordinates": {
+        "lat": 45.27638524573922,
+        "lng": 15.249387389629529
+      }
+    },
+    "specs": {
+      "netSize": 367,
+      "grossSize": 440,
+      "rooms": "2+2",
+      "bathrooms": 2,
+      "age": 9,
+      "floor": 2,
+      "totalFloors": 16,
+      "heating": "Merkezi",
+      "furnishing": "Unfurnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500843071195?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500553342847?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500048223071?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500084631971?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500124523159?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500441516569?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500421315743?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500192235262?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500414672854?w=800&q=80&category=real-estate"
+    ],
+    "agent": {
+      "id": "A74",
+      "name": "Agent 11",
+      "phone": "+96 967 825 3786",
+      "email": "agent100@iwrealty.com",
+      "photo": "/images/icons/png/ankara-modern-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-06-28T10:50:47.218Z",
+    "updatedAt": "2025-11-13T10:50:47.218Z",
+    "storeId": "store-003"
+  },
+  {
+    "id": "P03814",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Daire - Croatia Central",
+    "slug": "kiralik-daire-croatia-central-P03814",
+    "description": "Croatia Central, Croatia bölgesinde daire. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 3800930,
+    "location": {
+      "country": "HR",
+      "city": "Croatia Central",
+      "district": "Croatia Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 415",
+      "coordinates": {
+        "lat": 45.64370558122271,
+        "lng": 15.951078211874083
+      }
+    },
+    "specs": {
+      "netSize": 189,
+      "grossSize": 227,
+      "rooms": "3+2",
+      "bathrooms": 1,
+      "age": 20,
+      "floor": 5,
+      "totalFloors": 11,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Furnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500927238090?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500696184405?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500503533488?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500336105542?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500153041521?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500809223577?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500881705111?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500680379548?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500460897931?w=800&q=80&category=interior"
+    ],
+    "agent": {
+      "id": "A91",
+      "name": "Agent 86",
+      "phone": "+61 422 602 2738",
+      "email": "agent72@iwrealty.com",
+      "photo": "/images/icons/png/paris-heritage-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": true,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-10-12T10:50:47.218Z",
+    "updatedAt": "2025-11-13T10:50:47.218Z",
+    "storeId": "store-010"
+  },
+  {
+    "id": "P03815",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Daire - Zagreb",
+    "slug": "satilik-daire-zagreb-P03815",
+    "description": "Zagreb, Croatia bölgesinde daire. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 3418199,
+    "location": {
+      "country": "HR",
+      "city": "Zagreb",
+      "district": "Zagreb Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 327",
+      "coordinates": {
+        "lat": 44.821356582307786,
+        "lng": 15.889268375251044
+      }
+    },
+    "specs": {
+      "netSize": 97,
+      "grossSize": 116,
+      "rooms": "1+0",
+      "bathrooms": 3,
+      "age": 10,
+      "floor": 15,
+      "totalFloors": 5,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Furnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500235381170?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500468625071?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500974868246?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500198372862?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500954264212?w=800&q=80&category=house"
+    ],
+    "agent": {
+      "id": "A51",
+      "name": "Agent 82",
+      "phone": "+97 280 637 1923",
+      "email": "agent58@iwrealty.com",
+      "photo": "/images/icons/png/antalya-investment-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-10-09T10:50:47.218Z",
+    "updatedAt": "2025-11-13T10:50:47.218Z",
+    "storeId": "store-006"
+  },
+  {
+    "id": "P03816",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Daire - Croatia City",
+    "slug": "kiralik-daire-croatia-city-P03816",
+    "description": "Croatia City, Croatia bölgesinde daire. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 8288519,
+    "location": {
+      "country": "HR",
+      "city": "Croatia City",
+      "district": "Croatia City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 708",
+      "coordinates": {
+        "lat": 44.75779956143965,
+        "lng": 15.541797539481944
+      }
+    },
+    "specs": {
+      "netSize": 371,
+      "grossSize": 445,
+      "rooms": "4+1",
+      "bathrooms": 4,
+      "age": 17,
+      "floor": 4,
+      "totalFloors": 18,
+      "heating": "Merkezi",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500331233041?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500831250849?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500825390601?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500334912440?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500252703534?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500432250197?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500501849365?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500380952958?w=800&q=80&category=real-estate"
+    ],
+    "agent": {
+      "id": "A79",
+      "name": "Agent 23",
+      "phone": "+62 132 595 2752",
+      "email": "agent21@iwrealty.com",
+      "photo": "/images/icons/png/antalya-investment-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": false,
+      "hasBalcony": false,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-04-13T10:50:47.218Z",
+    "updatedAt": "2025-11-13T10:50:47.218Z",
+    "storeId": "store-006"
+  },
+  {
+    "id": "P03817",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Villa - New Croatia",
+    "slug": "satilik-villa-new-croatia-P03817",
+    "description": "New Croatia, Croatia bölgesinde villa. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 14263199,
+    "location": {
+      "country": "HR",
+      "city": "New Croatia",
+      "district": "New Croatia Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 478",
+      "coordinates": {
+        "lat": 45.035568368068226,
+        "lng": 15.28122465535197
+      }
+    },
+    "specs": {
+      "netSize": 286,
+      "grossSize": 343,
+      "rooms": "1+0",
+      "bathrooms": 1,
+      "age": 7,
+      "floor": 15,
+      "totalFloors": 18,
+      "heating": "Merkezi",
+      "furnishing": "Furnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500297238160?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500897394683?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500129781042?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500307737816?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500760970334?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500227230180?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500574222841?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500498873366?w=800&q=80&category=architecture"
+    ],
+    "agent": {
+      "id": "A59",
+      "name": "Agent 27",
+      "phone": "+80 217 377 7361",
+      "email": "agent2@iwrealty.com",
+      "photo": "/images/icons/png/ny-skyline-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-06-12T10:50:47.218Z",
+    "updatedAt": "2025-11-13T10:50:47.218Z",
+    "storeId": "store-008"
+  },
+  {
+    "id": "P03818",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Daire - Croatia City",
+    "slug": "kiralik-daire-croatia-city-P03818",
+    "description": "Croatia City, Croatia bölgesinde daire. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 10849662,
+    "location": {
+      "country": "HR",
+      "city": "Croatia City",
+      "district": "Croatia City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 112",
+      "coordinates": {
+        "lat": 44.79391555164314,
+        "lng": 15.31792950158271
+      }
+    },
+    "specs": {
+      "netSize": 297,
+      "grossSize": 356,
+      "rooms": "3+1",
+      "bathrooms": 3,
+      "age": 5,
+      "floor": 2,
+      "totalFloors": 12,
+      "heating": "Kombi",
+      "furnishing": "Furnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500218129392?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500500334934?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500498353250?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500307303731?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500856436438?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500745174907?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500491893166?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500569200554?w=800&q=80&category=interior"
+    ],
+    "agent": {
+      "id": "A77",
+      "name": "Agent 13",
+      "phone": "+80 474 265 8688",
+      "email": "agent74@iwrealty.com",
+      "photo": "/images/icons/png/ankara-modern-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-07-21T10:50:47.218Z",
+    "updatedAt": "2025-11-13T10:50:47.218Z",
+    "storeId": "store-003"
+  },
+  {
+    "id": "P03819",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Villa - Zagreb",
+    "slug": "satilik-villa-zagreb-P03819",
+    "description": "Zagreb, Croatia bölgesinde villa. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 10416272,
+    "location": {
+      "country": "HR",
+      "city": "Zagreb",
+      "district": "Zagreb Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 779",
+      "coordinates": {
+        "lat": 45.473260814113225,
+        "lng": 15.411223878532564
+      }
+    },
+    "specs": {
+      "netSize": 208,
+      "grossSize": 250,
+      "rooms": "3+0",
+      "bathrooms": 2,
+      "age": 1,
+      "floor": 13,
+      "totalFloors": 11,
+      "heating": "Klima",
+      "furnishing": "Unfurnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500533171433?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500498684396?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500132090812?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500946166993?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500701510538?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500158865428?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500883109936?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500226801099?w=800&q=80&category=real-estate"
+    ],
+    "agent": {
+      "id": "A98",
+      "name": "Agent 80",
+      "phone": "+62 850 564 5148",
+      "email": "agent66@iwrealty.com",
+      "photo": "/images/icons/png/berlin-urban-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": true,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-01-14T10:50:47.218Z",
+    "updatedAt": "2025-11-13T10:50:47.218Z",
+    "storeId": "store-009"
+  },
+  {
+    "id": "P03820",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Residence - Croatia City",
+    "slug": "kiralik-residence-croatia-city-P03820",
+    "description": "Croatia City, Croatia bölgesinde residence. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 10485865,
+    "location": {
+      "country": "HR",
+      "city": "Croatia City",
+      "district": "Croatia City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 759",
+      "coordinates": {
+        "lat": 45.10185995639448,
+        "lng": 15.428534050589738
+      }
+    },
+    "specs": {
+      "netSize": 146,
+      "grossSize": 175,
+      "rooms": "5+1",
+      "bathrooms": 1,
+      "age": 6,
+      "floor": 10,
+      "totalFloors": 14,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Unfurnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500419888865?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500501794907?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500533408549?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500176685587?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500015402907?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500398108502?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500148751018?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500794505046?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500210483102?w=800&q=80&category=interior"
+    ],
+    "agent": {
+      "id": "A59",
+      "name": "Agent 99",
+      "phone": "+38 847 729 8422",
+      "email": "agent71@iwrealty.com",
+      "photo": "/images/icons/png/ny-skyline-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": false,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-03-04T10:50:47.218Z",
+    "updatedAt": "2025-11-13T10:50:47.218Z",
+    "storeId": "store-008"
+  },
+  {
+    "id": "P03821",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Villa - Zagreb",
+    "slug": "satilik-villa-zagreb-P03821",
+    "description": "Zagreb, Croatia bölgesinde villa. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 4633779,
+    "location": {
+      "country": "HR",
+      "city": "Zagreb",
+      "district": "Zagreb Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 981",
+      "coordinates": {
+        "lat": 45.11102124592692,
+        "lng": 15.040667555127087
+      }
+    },
+    "specs": {
+      "netSize": 221,
+      "grossSize": 265,
+      "rooms": "3+0",
+      "bathrooms": 2,
+      "age": 8,
+      "floor": 5,
+      "totalFloors": 6,
+      "heating": "Kombi",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500665008873?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500862881963?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500116180404?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500746266399?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500352541247?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500235971164?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500527338095?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500171883889?w=800&q=80&category=real-estate"
+    ],
+    "agent": {
+      "id": "A60",
+      "name": "Agent 3",
+      "phone": "+91 258 479 3168",
+      "email": "agent30@iwrealty.com",
+      "photo": "/images/icons/png/london-prime-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-08-15T10:50:47.218Z",
+    "updatedAt": "2025-11-13T10:50:47.218Z",
+    "storeId": "store-007"
+  },
+  {
+    "id": "P03822",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Daire - Croatia Central",
+    "slug": "kiralik-daire-croatia-central-P03822",
+    "description": "Croatia Central, Croatia bölgesinde daire. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 13624203,
+    "location": {
+      "country": "HR",
+      "city": "Croatia Central",
+      "district": "Croatia Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 682",
+      "coordinates": {
+        "lat": 44.7908541731434,
+        "lng": 15.689599876755475
+      }
+    },
+    "specs": {
+      "netSize": 352,
+      "grossSize": 422,
+      "rooms": "2+0",
+      "bathrooms": 1,
+      "age": 10,
+      "floor": 10,
+      "totalFloors": 17,
+      "heating": "Kombi",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500392611561?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500483128501?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500936047241?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500121388431?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500687509686?w=800&q=80&category=house"
+    ],
+    "agent": {
+      "id": "A48",
+      "name": "Agent 16",
+      "phone": "+86 378 657 7754",
+      "email": "agent63@iwrealty.com",
+      "photo": "/images/icons/png/dubai-property-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": false,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-01-28T10:50:47.218Z",
+    "updatedAt": "2025-11-13T10:50:47.218Z",
+    "storeId": "store-004"
+  },
+  {
+    "id": "P03823",
+    "type": "sale",
+    "category": {
+      "main": "commercial",
+      "sub": "hospital"
+    },
+    "title": "Satılık Hastane - Croatia Central",
+    "slug": "satilik-hastane-croatia-central-P03823",
+    "description": "Croatia Central, Croatia bölgesinde hastane. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 98161807,
+    "location": {
+      "country": "HR",
+      "city": "Croatia Central",
+      "district": "Croatia Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 922",
+      "coordinates": {
+        "lat": 44.8002165198058,
+        "lng": 15.016219207441747
+      }
+    },
+    "specs": {
+      "netSize": 14715,
+      "grossSize": 17658,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 7,
+      "floor": 15,
+      "totalFloors": 7,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Furnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500199932915?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500058337981?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500688675792?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500632997537?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500936247887?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500601271433?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500619501046?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500294008242?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500515180388?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500517259186?w=800&q=80&category=architecture"
+    ],
+    "agent": {
+      "id": "A73",
+      "name": "Agent 18",
+      "phone": "+32 543 806 2976",
+      "email": "agent9@iwrealty.com",
+      "photo": "/images/icons/png/dubai-property-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-03-16T10:50:47.218Z",
+    "updatedAt": "2025-11-13T10:50:47.218Z",
+    "storeId": "store-004"
+  },
+  {
+    "id": "P03824",
+    "type": "rent",
+    "category": {
+      "main": "commercial",
+      "sub": "hospital"
+    },
+    "title": "Kiralık Hastane - Croatia Central",
+    "slug": "kiralik-hastane-croatia-central-P03824",
+    "description": "Croatia Central, Croatia bölgesinde hastane. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 91469015,
+    "location": {
+      "country": "HR",
+      "city": "Croatia Central",
+      "district": "Croatia Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 751",
+      "coordinates": {
+        "lat": 44.93601127274844,
+        "lng": 15.689105753029004
+      }
+    },
+    "specs": {
+      "netSize": 19774,
+      "grossSize": 23729,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 0,
+      "floor": 3,
+      "totalFloors": 11,
+      "heating": "Klima",
+      "furnishing": "Unfurnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500007975013?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500920267379?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500048742330?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500238498041?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500253855751?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500480240864?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500959120115?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500489756824?w=800&q=80&category=building"
+    ],
+    "agent": {
+      "id": "A58",
+      "name": "Agent 43",
+      "phone": "+78 685 676 8089",
+      "email": "agent58@iwrealty.com",
+      "photo": "/images/icons/png/ankara-modern-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-04-24T10:50:47.218Z",
+    "updatedAt": "2025-11-13T10:50:47.218Z",
+    "storeId": "store-003"
+  },
+  {
+    "id": "P03825",
+    "type": "sale",
+    "category": {
+      "main": "commercial",
+      "sub": "clinic"
+    },
+    "title": "Satılık Klinik - Zagreb",
+    "slug": "satilik-klinik-zagreb-P03825",
+    "description": "Zagreb, Croatia bölgesinde klinik. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 9193899,
+    "location": {
+      "country": "HR",
+      "city": "Zagreb",
+      "district": "Zagreb Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 825",
+      "coordinates": {
+        "lat": 45.30101179268312,
+        "lng": 15.075538256507897
+      }
+    },
+    "specs": {
+      "netSize": 900,
+      "grossSize": 1080,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 12,
+      "floor": 2,
+      "totalFloors": 14,
+      "heating": "Kombi",
+      "furnishing": "Unfurnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500960771688?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500778410267?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500910148902?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500210556753?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500385501871?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500436670619?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500323624081?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500540271922?w=800&q=80&category=building"
+    ],
+    "agent": {
+      "id": "A34",
+      "name": "Agent 46",
+      "phone": "+26 162 172 2195",
+      "email": "agent51@iwrealty.com",
+      "photo": "/images/icons/png/ny-skyline-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": true,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-08-18T10:50:47.218Z",
+    "updatedAt": "2025-11-13T10:50:47.218Z",
+    "storeId": "store-008"
+  },
+  {
+    "id": "P03826",
+    "type": "rent",
+    "category": {
+      "main": "commercial",
+      "sub": "clinic"
+    },
+    "title": "Kiralık Klinik - New Croatia",
+    "slug": "kiralik-klinik-new-croatia-P03826",
+    "description": "New Croatia, Croatia bölgesinde klinik. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 3854495,
+    "location": {
+      "country": "HR",
+      "city": "New Croatia",
+      "district": "New Croatia Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 802",
+      "coordinates": {
+        "lat": 45.41924082249839,
+        "lng": 15.420552470762003
+      }
+    },
+    "specs": {
+      "netSize": 1051,
+      "grossSize": 1261,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 20,
+      "floor": 5,
+      "totalFloors": 20,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500425607849?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500489398360?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500215107579?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500398176848?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500290529528?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500590854042?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500970153716?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500919630867?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500541810039?w=800&q=80&category=architecture"
+    ],
+    "agent": {
+      "id": "A89",
+      "name": "Agent 42",
+      "phone": "+18 802 217 6320",
+      "email": "agent97@iwrealty.com",
+      "photo": "/images/icons/png/dubai-property-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": true,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-01-06T10:50:47.218Z",
+    "updatedAt": "2025-11-13T10:50:47.218Z",
+    "storeId": "store-004"
+  },
+  {
+    "id": "P03827",
+    "type": "sale",
+    "category": {
+      "main": "commercial",
+      "sub": "shop"
+    },
+    "title": "Satılık Dükkan - Zagreb",
+    "slug": "satilik-dükkan-zagreb-P03827",
+    "description": "Zagreb, Croatia bölgesinde dükkan. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 7198018,
+    "location": {
+      "country": "HR",
+      "city": "Zagreb",
+      "district": "Zagreb Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 498",
+      "coordinates": {
+        "lat": 45.375174340089444,
+        "lng": 15.509321488628476
+      }
+    },
+    "specs": {
+      "netSize": 232,
+      "grossSize": 278,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 12,
+      "floor": 4,
+      "totalFloors": 11,
+      "heating": "Klima",
+      "furnishing": "Unfurnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500162497818?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500760788719?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500204601090?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500806607165?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500903801919?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500050895502?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500751938717?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500313816155?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500262446482?w=800&q=80&category=real-estate"
+    ],
+    "agent": {
+      "id": "A90",
+      "name": "Agent 13",
+      "phone": "+45 366 737 9453",
+      "email": "agent74@iwrealty.com",
+      "photo": "/images/icons/png/izmir-sahil-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-01-13T10:50:47.218Z",
+    "updatedAt": "2025-11-13T10:50:47.218Z",
+    "storeId": "store-005"
+  },
+  {
+    "id": "P03828",
+    "type": "rent",
+    "category": {
+      "main": "commercial",
+      "sub": "shop"
+    },
+    "title": "Kiralık Dükkan - Croatia Central",
+    "slug": "kiralik-dükkan-croatia-central-P03828",
+    "description": "Croatia Central, Croatia bölgesinde dükkan. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 1857358,
+    "location": {
+      "country": "HR",
+      "city": "Croatia Central",
+      "district": "Croatia Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 145",
+      "coordinates": {
+        "lat": 45.24146990286711,
+        "lng": 15.331499981510166
+      }
+    },
+    "specs": {
+      "netSize": 336,
+      "grossSize": 403,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 20,
+      "floor": 3,
+      "totalFloors": 19,
+      "heating": "Merkezi",
+      "furnishing": "Furnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500627739576?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500937303693?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500266017269?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500215779317?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500990796648?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500008160918?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500511626881?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500714311588?w=800&q=80&category=architecture"
+    ],
+    "agent": {
+      "id": "A8",
+      "name": "Agent 49",
+      "phone": "+24 292 397 5144",
+      "email": "agent23@iwrealty.com",
+      "photo": "/images/icons/png/sg-harbour-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": false,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": true,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-01-28T10:50:47.218Z",
+    "updatedAt": "2025-11-13T10:50:47.218Z",
+    "storeId": "store-011"
+  },
+  {
+    "id": "P03829",
+    "type": "sale",
+    "category": {
+      "main": "commercial",
+      "sub": "office"
+    },
+    "title": "Satılık Ofis - Croatia City",
+    "slug": "satilik-ofis-croatia-city-P03829",
+    "description": "Croatia City, Croatia bölgesinde ofis. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 11730495,
+    "location": {
+      "country": "HR",
+      "city": "Croatia City",
+      "district": "Croatia City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 944",
+      "coordinates": {
+        "lat": 44.70636506719079,
+        "lng": 15.135594428046137
+      }
+    },
+    "specs": {
+      "netSize": 692,
+      "grossSize": 830,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 15,
+      "floor": 12,
+      "totalFloors": 6,
+      "heating": "Kombi",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500671003439?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500237347151?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500218935866?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500625666138?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500036584735?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500658888406?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500532978666?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500873314898?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500785941087?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500444546115?w=800&q=80&category=house"
+    ],
+    "agent": {
+      "id": "A13",
+      "name": "Agent 56",
+      "phone": "+85 136 445 4790",
+      "email": "agent87@iwrealty.com",
+      "photo": "/images/icons/png/ny-skyline-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-07-22T10:50:47.218Z",
+    "updatedAt": "2025-11-13T10:50:47.218Z",
+    "storeId": "store-008"
+  },
+  {
+    "id": "P03830",
+    "type": "rent",
+    "category": {
+      "main": "commercial",
+      "sub": "office"
+    },
+    "title": "Kiralık Ofis - Croatia City",
+    "slug": "kiralik-ofis-croatia-city-P03830",
+    "description": "Croatia City, Croatia bölgesinde ofis. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 12250929,
+    "location": {
+      "country": "HR",
+      "city": "Croatia City",
+      "district": "Croatia City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 167",
+      "coordinates": {
+        "lat": 45.33302296182095,
+        "lng": 15.4662627509763
+      }
+    },
+    "specs": {
+      "netSize": 707,
+      "grossSize": 848,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 13,
+      "floor": 5,
+      "totalFloors": 6,
+      "heating": "Kombi",
+      "furnishing": "Furnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500970311263?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500552554309?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500531826936?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500659086864?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500766243237?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500705053260?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500633040497?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500202355124?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500350219259?w=800&q=80&category=building"
+    ],
+    "agent": {
+      "id": "A65",
+      "name": "Agent 34",
+      "phone": "+63 800 609 1080",
+      "email": "agent87@iwrealty.com",
+      "photo": "/images/icons/png/ny-skyline-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-01-23T10:50:47.218Z",
+    "updatedAt": "2025-11-13T10:50:47.218Z",
+    "storeId": "store-008"
+  },
+  {
+    "id": "P03831",
+    "type": "sale",
+    "category": {
+      "main": "commercial",
+      "sub": "mall"
+    },
+    "title": "Satılık AVM - Croatia Central",
+    "slug": "satilik-avm-croatia-central-P03831",
+    "description": "Croatia Central, Croatia bölgesinde avm. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 369036132,
+    "location": {
+      "country": "HR",
+      "city": "Croatia Central",
+      "district": "Croatia Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 840",
+      "coordinates": {
+        "lat": 45.65698393961254,
+        "lng": 15.952492260790796
+      }
+    },
+    "specs": {
+      "netSize": 15672,
+      "grossSize": 18806,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 8,
+      "floor": 14,
+      "totalFloors": 15,
+      "heating": "Kombi",
+      "furnishing": "Unfurnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500714314724?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500739135705?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500721824940?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500079201300?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500007991460?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500976800052?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500836037442?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500102910599?w=800&q=80&category=architecture"
+    ],
+    "agent": {
+      "id": "A24",
+      "name": "Agent 1",
+      "phone": "+97 812 910 2664",
+      "email": "agent84@iwrealty.com",
+      "photo": "/images/icons/png/antalya-investment-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": true,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-04-25T10:50:47.218Z",
+    "updatedAt": "2025-11-13T10:50:47.218Z",
+    "storeId": "store-006"
+  },
+  {
+    "id": "P03832",
+    "type": "rent",
+    "category": {
+      "main": "commercial",
+      "sub": "mall"
+    },
+    "title": "Kiralık AVM - New Croatia",
+    "slug": "kiralik-avm-new-croatia-P03832",
+    "description": "New Croatia, Croatia bölgesinde avm. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 251550436,
+    "location": {
+      "country": "HR",
+      "city": "New Croatia",
+      "district": "New Croatia Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 92",
+      "coordinates": {
+        "lat": 45.55643115362763,
+        "lng": 15.185735680872492
+      }
+    },
+    "specs": {
+      "netSize": 10238,
+      "grossSize": 12286,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 20,
+      "floor": 5,
+      "totalFloors": 8,
+      "heating": "Merkezi",
+      "furnishing": "Unfurnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500723320424?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500123297784?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500797231754?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500593711365?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500580803895?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500779756500?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500192622781?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500519112727?w=800&q=80&category=architecture"
+    ],
+    "agent": {
+      "id": "A62",
+      "name": "Agent 82",
+      "phone": "+68 645 385 5196",
+      "email": "agent87@iwrealty.com",
+      "photo": "/images/icons/png/london-prime-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": true,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-04-18T10:50:47.218Z",
+    "updatedAt": "2025-11-13T10:50:47.218Z",
+    "storeId": "store-007"
+  },
+  {
+    "id": "P03833",
+    "type": "sale",
+    "category": {
+      "main": "commercial",
+      "sub": "hotel"
+    },
+    "title": "Satılık Otel - Croatia Central",
+    "slug": "satilik-otel-croatia-central-P03833",
+    "description": "Croatia Central, Croatia bölgesinde otel. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 72675326,
+    "location": {
+      "country": "HR",
+      "city": "Croatia Central",
+      "district": "Croatia Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 445",
+      "coordinates": {
+        "lat": 45.08524720523535,
+        "lng": 15.362699990366213
+      }
+    },
+    "specs": {
+      "netSize": 9487,
+      "grossSize": 11384,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 1,
+      "floor": 10,
+      "totalFloors": 17,
+      "heating": "Kombi",
+      "furnishing": "Furnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500738844872?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500533256093?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500554999517?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500813918031?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500728041875?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500626688473?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500266013746?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500268743690?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500193725094?w=800&q=80&category=house"
+    ],
+    "agent": {
+      "id": "A66",
+      "name": "Agent 58",
+      "phone": "+52 185 987 3698",
+      "email": "agent96@iwrealty.com",
+      "photo": "/images/icons/png/antalya-investment-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-02-08T10:50:47.218Z",
+    "updatedAt": "2025-11-13T10:50:47.218Z",
+    "storeId": "store-006"
+  },
+  {
+    "id": "P03834",
+    "type": "rent",
+    "category": {
+      "main": "commercial",
+      "sub": "hotel"
+    },
+    "title": "Kiralık Otel - New Croatia",
+    "slug": "kiralik-otel-new-croatia-P03834",
+    "description": "New Croatia, Croatia bölgesinde otel. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 38123933,
+    "location": {
+      "country": "HR",
+      "city": "New Croatia",
+      "district": "New Croatia Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 241",
+      "coordinates": {
+        "lat": 45.37692335547809,
+        "lng": 15.34910044071829
+      }
+    },
+    "specs": {
+      "netSize": 11806,
+      "grossSize": 14167,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 8,
+      "floor": 8,
+      "totalFloors": 7,
+      "heating": "Merkezi",
+      "furnishing": "Furnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500799229956?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500747016149?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500640055321?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500084728639?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500580351255?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500678586399?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500905803555?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500095660629?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500379445059?w=800&q=80&category=building"
+    ],
+    "agent": {
+      "id": "A88",
+      "name": "Agent 15",
+      "phone": "+31 889 807 8960",
+      "email": "agent76@iwrealty.com",
+      "photo": "/images/icons/png/berlin-urban-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": false,
+      "hasBalcony": false,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-03-10T10:50:47.219Z",
+    "updatedAt": "2025-11-13T10:50:47.219Z",
+    "storeId": "store-009"
+  },
+  {
+    "id": "P03835",
+    "type": "sale",
+    "category": {
+      "main": "commercial",
+      "sub": "restaurant"
+    },
+    "title": "Satılık Restoran - Croatia City",
+    "slug": "satilik-restoran-croatia-city-P03835",
+    "description": "Croatia City, Croatia bölgesinde restoran. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 3733398,
+    "location": {
+      "country": "HR",
+      "city": "Croatia City",
+      "district": "Croatia City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 326",
+      "coordinates": {
+        "lat": 45.00849733384444,
+        "lng": 15.13568972491389
+      }
+    },
+    "specs": {
+      "netSize": 974,
+      "grossSize": 1169,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 3,
+      "floor": 9,
+      "totalFloors": 6,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Unfurnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500317400937?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500374228196?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500319234639?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500791900661?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500858298499?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500893660980?w=800&q=80&category=architecture"
+    ],
+    "agent": {
+      "id": "A92",
+      "name": "Agent 99",
+      "phone": "+38 521 896 5842",
+      "email": "agent32@iwrealty.com",
+      "photo": "/images/icons/png/paris-heritage-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2024-12-23T10:50:47.219Z",
+    "updatedAt": "2025-11-13T10:50:47.219Z",
+    "storeId": "store-010"
+  },
+  {
+    "id": "P03836",
+    "type": "rent",
+    "category": {
+      "main": "commercial",
+      "sub": "restaurant"
+    },
+    "title": "Kiralık Restoran - Croatia Central",
+    "slug": "kiralik-restoran-croatia-central-P03836",
+    "description": "Croatia Central, Croatia bölgesinde restoran. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 1812803,
+    "location": {
+      "country": "HR",
+      "city": "Croatia Central",
+      "district": "Croatia Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 500",
+      "coordinates": {
+        "lat": 45.21915307792643,
+        "lng": 15.425689998944723
+      }
+    },
+    "specs": {
+      "netSize": 689,
+      "grossSize": 827,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 15,
+      "floor": 14,
+      "totalFloors": 17,
+      "heating": "Merkezi",
+      "furnishing": "Unfurnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500015383412?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500941285704?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500094143321?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500129540554?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500533025711?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500590927472?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500223051492?w=800&q=80&category=real-estate"
+    ],
+    "agent": {
+      "id": "A100",
+      "name": "Agent 76",
+      "phone": "+38 827 393 9840",
+      "email": "agent58@iwrealty.com",
+      "photo": "/images/icons/png/london-prime-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": true,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-08-12T10:50:47.219Z",
+    "updatedAt": "2025-11-13T10:50:47.219Z",
+    "storeId": "store-007"
+  },
+  {
+    "id": "P03837",
+    "type": "sale",
+    "category": {
+      "main": "commercial",
+      "sub": "warehouse"
+    },
+    "title": "Satılık Depo - Croatia City",
+    "slug": "satilik-depo-croatia-city-P03837",
+    "description": "Croatia City, Croatia bölgesinde depo. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 26120879,
+    "location": {
+      "country": "HR",
+      "city": "Croatia City",
+      "district": "Croatia City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 679",
+      "coordinates": {
+        "lat": 45.47351433785569,
+        "lng": 15.88093100122174
+      }
+    },
+    "specs": {
+      "netSize": 9673,
+      "grossSize": 11608,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 13,
+      "floor": 12,
+      "totalFloors": 7,
+      "heating": "Klima",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500163275549?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500460286808?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500230789463?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500113738659?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500874499239?w=800&q=80&category=interior"
+    ],
+    "agent": {
+      "id": "A84",
+      "name": "Agent 34",
+      "phone": "+56 306 457 9897",
+      "email": "agent62@iwrealty.com",
+      "photo": "/images/icons/png/london-prime-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": false,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-08-24T10:50:47.219Z",
+    "updatedAt": "2025-11-13T10:50:47.219Z",
+    "storeId": "store-007"
+  },
+  {
+    "id": "P03838",
+    "type": "rent",
+    "category": {
+      "main": "commercial",
+      "sub": "warehouse"
+    },
+    "title": "Kiralık Depo - New Croatia",
+    "slug": "kiralik-depo-new-croatia-P03838",
+    "description": "New Croatia, Croatia bölgesinde depo. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 25750752,
+    "location": {
+      "country": "HR",
+      "city": "New Croatia",
+      "district": "New Croatia Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 439",
+      "coordinates": {
+        "lat": 45.28783309906161,
+        "lng": 15.877676124467195
+      }
+    },
+    "specs": {
+      "netSize": 5626,
+      "grossSize": 6751,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 1,
+      "floor": 6,
+      "totalFloors": 17,
+      "heating": "Klima",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500607505227?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500151177455?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500239764409?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500257818440?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500134214803?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500966131461?w=800&q=80&category=real-estate"
+    ],
+    "agent": {
+      "id": "A49",
+      "name": "Agent 18",
+      "phone": "+33 904 441 9037",
+      "email": "agent14@iwrealty.com",
+      "photo": "/images/icons/png/sg-harbour-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": false,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": true,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-07-30T10:50:47.219Z",
+    "updatedAt": "2025-11-13T10:50:47.219Z",
+    "storeId": "store-011"
+  }
+]

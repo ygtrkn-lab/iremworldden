@@ -1,0 +1,2346 @@
+[
+  {
+    "id": "P02547",
+    "type": "sale",
+    "category": {
+      "main": "government"
+    },
+    "title": "Satılık Belediye Binası - Cairo",
+    "slug": "satilik-belediye-binası-cairo-P02547",
+    "description": "Cairo, Egypt bölgesinde belediye binası. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 28039185,
+    "location": {
+      "country": "EG",
+      "city": "Cairo",
+      "district": "Cairo Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 691",
+      "coordinates": {
+        "lat": 26.98126344953316,
+        "lng": 30.243057646513776
+      }
+    },
+    "specs": {
+      "netSize": 3109,
+      "grossSize": 3731,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 8,
+      "floor": 2,
+      "totalFloors": 15,
+      "heating": "Merkezi",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500620091643?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500459647658?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500233811277?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500745308017?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500928590476?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500498538092?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500045333011?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500537794513?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500625320604?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500368942744?w=800&q=80&category=real-estate"
+    ],
+    "agent": {
+      "id": "A59",
+      "name": "Agent 63",
+      "phone": "+89 570 646 2670",
+      "email": "agent32@iwrealty.com",
+      "photo": "/images/icons/png/paris-heritage-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": false,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-08-02T10:50:47.205Z",
+    "updatedAt": "2025-11-13T10:50:47.205Z",
+    "storeId": "store-010"
+  },
+  {
+    "id": "P02548",
+    "type": "rent",
+    "category": {
+      "main": "government"
+    },
+    "title": "Kiralık Belediye Binası - New Egypt",
+    "slug": "kiralik-belediye-binası-new-egypt-P02548",
+    "description": "New Egypt, Egypt bölgesinde belediye binası. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 28888215,
+    "location": {
+      "country": "EG",
+      "city": "New Egypt",
+      "district": "New Egypt Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 247",
+      "coordinates": {
+        "lat": 27.131267310239053,
+        "lng": 29.56973514718511
+      }
+    },
+    "specs": {
+      "netSize": 3029,
+      "grossSize": 3635,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 4,
+      "floor": 8,
+      "totalFloors": 13,
+      "heating": "Klima",
+      "furnishing": "Furnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500017683180?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500761958838?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500559960848?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500608090366?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500258873574?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500167616449?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500288461066?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500917094677?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500159905333?w=800&q=80&category=building"
+    ],
+    "agent": {
+      "id": "A40",
+      "name": "Agent 55",
+      "phone": "+15 543 850 2877",
+      "email": "agent49@iwrealty.com",
+      "photo": "/images/icons/png/sg-harbour-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-09-03T10:50:47.205Z",
+    "updatedAt": "2025-11-13T10:50:47.205Z",
+    "storeId": "store-011"
+  },
+  {
+    "id": "P02549",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Daire - Egypt City",
+    "slug": "satilik-daire-egypt-city-P02549",
+    "description": "Egypt City, Egypt bölgesinde daire. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 10068041,
+    "location": {
+      "country": "EG",
+      "city": "Egypt City",
+      "district": "Egypt City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 226",
+      "coordinates": {
+        "lat": 26.709115957526127,
+        "lng": 29.924646265360096
+      }
+    },
+    "specs": {
+      "netSize": 221,
+      "grossSize": 265,
+      "rooms": "4+1",
+      "bathrooms": 1,
+      "age": 15,
+      "floor": 1,
+      "totalFloors": 17,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Furnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500020352935?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500386014826?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500771208697?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500004927242?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500425063439?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500126230712?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500952941252?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500706861770?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500882183825?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500210885020?w=800&q=80&category=architecture"
+    ],
+    "agent": {
+      "id": "A46",
+      "name": "Agent 53",
+      "phone": "+13 144 894 8822",
+      "email": "agent84@iwrealty.com",
+      "photo": "/images/icons/png/antalya-investment-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2024-11-25T10:50:47.205Z",
+    "updatedAt": "2025-11-13T10:50:47.205Z",
+    "storeId": "store-006"
+  },
+  {
+    "id": "P02550",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Residence - Egypt City",
+    "slug": "kiralik-residence-egypt-city-P02550",
+    "description": "Egypt City, Egypt bölgesinde residence. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 3303309,
+    "location": {
+      "country": "EG",
+      "city": "Egypt City",
+      "district": "Egypt City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 43",
+      "coordinates": {
+        "lat": 27.044132040303577,
+        "lng": 29.712571668414594
+      }
+    },
+    "specs": {
+      "netSize": 436,
+      "grossSize": 523,
+      "rooms": "3+0",
+      "bathrooms": 1,
+      "age": 18,
+      "floor": 4,
+      "totalFloors": 12,
+      "heating": "Merkezi",
+      "furnishing": "Furnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500958284083?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500020068614?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500584799062?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500118058515?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500161346187?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500261006015?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500732274404?w=800&q=80&category=interior"
+    ],
+    "agent": {
+      "id": "A56",
+      "name": "Agent 76",
+      "phone": "+78 437 168 6326",
+      "email": "agent66@iwrealty.com",
+      "photo": "/images/icons/png/paris-heritage-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": false,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-01-02T10:50:47.205Z",
+    "updatedAt": "2025-11-13T10:50:47.205Z",
+    "storeId": "store-010"
+  },
+  {
+    "id": "P02551",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Residence - New Egypt",
+    "slug": "satilik-residence-new-egypt-P02551",
+    "description": "New Egypt, Egypt bölgesinde residence. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 12909444,
+    "location": {
+      "country": "EG",
+      "city": "New Egypt",
+      "district": "New Egypt Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 444",
+      "coordinates": {
+        "lat": 27.057847809830434,
+        "lng": 29.672029427579325
+      }
+    },
+    "specs": {
+      "netSize": 416,
+      "grossSize": 499,
+      "rooms": "1+0",
+      "bathrooms": 1,
+      "age": 1,
+      "floor": 1,
+      "totalFloors": 7,
+      "heating": "Klima",
+      "furnishing": "Furnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500192168748?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500344604633?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500133313941?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500187414539?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500792484413?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500187332467?w=800&q=80&category=architecture"
+    ],
+    "agent": {
+      "id": "A75",
+      "name": "Agent 24",
+      "phone": "+80 976 285 7684",
+      "email": "agent11@iwrealty.com",
+      "photo": "/images/icons/png/dubai-property-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": false,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-02-21T10:50:47.205Z",
+    "updatedAt": "2025-11-13T10:50:47.205Z",
+    "storeId": "store-004"
+  },
+  {
+    "id": "P02552",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Müstakil Ev - Egypt City",
+    "slug": "kiralik-müstakil-ev-egypt-city-P02552",
+    "description": "Egypt City, Egypt bölgesinde müstakil ev. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 4721017,
+    "location": {
+      "country": "EG",
+      "city": "Egypt City",
+      "district": "Egypt City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 634",
+      "coordinates": {
+        "lat": 27.04917351049619,
+        "lng": 29.7812319103685
+      }
+    },
+    "specs": {
+      "netSize": 309,
+      "grossSize": 371,
+      "rooms": "5+1",
+      "bathrooms": 3,
+      "age": 3,
+      "floor": 6,
+      "totalFloors": 9,
+      "heating": "Klima",
+      "furnishing": "Furnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500740464429?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500090328192?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500537468430?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500388265325?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500709762157?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500709791274?w=800&q=80&category=interior"
+    ],
+    "agent": {
+      "id": "A32",
+      "name": "Agent 14",
+      "phone": "+90 835 415 2835",
+      "email": "agent72@iwrealty.com",
+      "photo": "/images/icons/png/sg-harbour-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-11-08T10:50:47.205Z",
+    "updatedAt": "2025-11-13T10:50:47.205Z",
+    "storeId": "store-011"
+  },
+  {
+    "id": "P02553",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Müstakil Ev - Cairo",
+    "slug": "satilik-müstakil-ev-cairo-P02553",
+    "description": "Cairo, Egypt bölgesinde müstakil ev. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 11201196,
+    "location": {
+      "country": "EG",
+      "city": "Cairo",
+      "district": "Cairo Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 162",
+      "coordinates": {
+        "lat": 26.864519011446255,
+        "lng": 29.859557505963895
+      }
+    },
+    "specs": {
+      "netSize": 490,
+      "grossSize": 588,
+      "rooms": "1+2",
+      "bathrooms": 2,
+      "age": 7,
+      "floor": 14,
+      "totalFloors": 6,
+      "heating": "Klima",
+      "furnishing": "Furnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500704643743?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500745338835?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500768290673?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500574595017?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500250039234?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500724550547?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500524327680?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500097526505?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500795061095?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500271756387?w=800&q=80&category=house"
+    ],
+    "agent": {
+      "id": "A27",
+      "name": "Agent 7",
+      "phone": "+73 272 877 7847",
+      "email": "agent17@iwrealty.com",
+      "photo": "/images/icons/png/luxury-homes-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": false,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": true,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-10-23T10:50:47.205Z",
+    "updatedAt": "2025-11-13T10:50:47.205Z",
+    "storeId": "store-002"
+  },
+  {
+    "id": "P02554",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Villa - New Egypt",
+    "slug": "kiralik-villa-new-egypt-P02554",
+    "description": "New Egypt, Egypt bölgesinde villa. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 6716844,
+    "location": {
+      "country": "EG",
+      "city": "New Egypt",
+      "district": "New Egypt Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 141",
+      "coordinates": {
+        "lat": 27.204702772167487,
+        "lng": 29.864576160661798
+      }
+    },
+    "specs": {
+      "netSize": 327,
+      "grossSize": 392,
+      "rooms": "4+1",
+      "bathrooms": 4,
+      "age": 4,
+      "floor": 4,
+      "totalFloors": 10,
+      "heating": "Kombi",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500565173546?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500976960637?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500847454979?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500534787471?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500722590867?w=800&q=80&category=architecture"
+    ],
+    "agent": {
+      "id": "A26",
+      "name": "Agent 34",
+      "phone": "+39 990 471 3874",
+      "email": "agent90@iwrealty.com",
+      "photo": "/images/icons/png/antalya-investment-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-11-08T10:50:47.205Z",
+    "updatedAt": "2025-11-13T10:50:47.205Z",
+    "storeId": "store-006"
+  },
+  {
+    "id": "P02555",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Daire - Egypt Central",
+    "slug": "satilik-daire-egypt-central-P02555",
+    "description": "Egypt Central, Egypt bölgesinde daire. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 8266333,
+    "location": {
+      "country": "EG",
+      "city": "Egypt Central",
+      "district": "Egypt Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 744",
+      "coordinates": {
+        "lat": 26.828194207994883,
+        "lng": 29.989444030304657
+      }
+    },
+    "specs": {
+      "netSize": 352,
+      "grossSize": 422,
+      "rooms": "1+0",
+      "bathrooms": 2,
+      "age": 15,
+      "floor": 13,
+      "totalFloors": 7,
+      "heating": "Merkezi",
+      "furnishing": "Furnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500796688434?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500823501933?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500098036804?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500383865177?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500010577812?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500711780390?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500539045163?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500249280491?w=800&q=80&category=architecture"
+    ],
+    "agent": {
+      "id": "A24",
+      "name": "Agent 93",
+      "phone": "+77 484 816 2946",
+      "email": "agent66@iwrealty.com",
+      "photo": "/images/icons/png/sg-harbour-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-01-14T10:50:47.205Z",
+    "updatedAt": "2025-11-13T10:50:47.205Z",
+    "storeId": "store-011"
+  },
+  {
+    "id": "P02556",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Daire - Egypt City",
+    "slug": "kiralik-daire-egypt-city-P02556",
+    "description": "Egypt City, Egypt bölgesinde daire. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 7892082,
+    "location": {
+      "country": "EG",
+      "city": "Egypt City",
+      "district": "Egypt City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 119",
+      "coordinates": {
+        "lat": 27.44832290725648,
+        "lng": 29.90230927064253
+      }
+    },
+    "specs": {
+      "netSize": 211,
+      "grossSize": 253,
+      "rooms": "2+0",
+      "bathrooms": 4,
+      "age": 1,
+      "floor": 14,
+      "totalFloors": 18,
+      "heating": "Merkezi",
+      "furnishing": "Furnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500751672647?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500543027628?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500383406607?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500010498727?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500455730593?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500644907499?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500211187002?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500807944090?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500859090922?w=800&q=80&category=house"
+    ],
+    "agent": {
+      "id": "A42",
+      "name": "Agent 100",
+      "phone": "+44 294 706 4759",
+      "email": "agent52@iwrealty.com",
+      "photo": "/images/icons/png/izmir-sahil-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-10-26T10:50:47.205Z",
+    "updatedAt": "2025-11-13T10:50:47.205Z",
+    "storeId": "store-005"
+  },
+  {
+    "id": "P02557",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Daire - New Egypt",
+    "slug": "satilik-daire-new-egypt-P02557",
+    "description": "New Egypt, Egypt bölgesinde daire. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 2964368,
+    "location": {
+      "country": "EG",
+      "city": "New Egypt",
+      "district": "New Egypt Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 646",
+      "coordinates": {
+        "lat": 26.625966899853367,
+        "lng": 30.057503024416462
+      }
+    },
+    "specs": {
+      "netSize": 491,
+      "grossSize": 589,
+      "rooms": "3+1",
+      "bathrooms": 4,
+      "age": 2,
+      "floor": 5,
+      "totalFloors": 6,
+      "heating": "Kombi",
+      "furnishing": "Unfurnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500308740508?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500306006052?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500924695840?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500562790414?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500384476123?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500222660158?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500708005037?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500261443366?w=800&q=80&category=building"
+    ],
+    "agent": {
+      "id": "A74",
+      "name": "Agent 92",
+      "phone": "+27 554 593 7042",
+      "email": "agent48@iwrealty.com",
+      "photo": "/images/icons/png/sydney-coastal-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-01-15T10:50:47.205Z",
+    "updatedAt": "2025-11-13T10:50:47.205Z",
+    "storeId": "store-012"
+  },
+  {
+    "id": "P02558",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Residence - Egypt City",
+    "slug": "kiralik-residence-egypt-city-P02558",
+    "description": "Egypt City, Egypt bölgesinde residence. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 876942,
+    "location": {
+      "country": "EG",
+      "city": "Egypt City",
+      "district": "Egypt City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 478",
+      "coordinates": {
+        "lat": 27.256117764369456,
+        "lng": 30.256837279342584
+      }
+    },
+    "specs": {
+      "netSize": 188,
+      "grossSize": 226,
+      "rooms": "4+0",
+      "bathrooms": 3,
+      "age": 13,
+      "floor": 7,
+      "totalFloors": 16,
+      "heating": "Klima",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500798452051?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500104994103?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500627193122?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500397186434?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500698831775?w=800&q=80&category=interior"
+    ],
+    "agent": {
+      "id": "A42",
+      "name": "Agent 96",
+      "phone": "+32 682 355 6108",
+      "email": "agent3@iwrealty.com",
+      "photo": "/images/icons/png/sg-harbour-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-10-14T10:50:47.205Z",
+    "updatedAt": "2025-11-13T10:50:47.205Z",
+    "storeId": "store-011"
+  },
+  {
+    "id": "P02559",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Residence - Cairo",
+    "slug": "satilik-residence-cairo-P02559",
+    "description": "Cairo, Egypt bölgesinde residence. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 6618130,
+    "location": {
+      "country": "EG",
+      "city": "Cairo",
+      "district": "Cairo Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 628",
+      "coordinates": {
+        "lat": 27.108613981693583,
+        "lng": 29.779594446630952
+      }
+    },
+    "specs": {
+      "netSize": 465,
+      "grossSize": 558,
+      "rooms": "3+2",
+      "bathrooms": 1,
+      "age": 9,
+      "floor": 11,
+      "totalFloors": 5,
+      "heating": "Klima",
+      "furnishing": "Furnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500362072266?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500631937277?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500108058194?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500221186001?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500586768558?w=800&q=80&category=house"
+    ],
+    "agent": {
+      "id": "A7",
+      "name": "Agent 36",
+      "phone": "+49 751 298 7786",
+      "email": "agent14@iwrealty.com",
+      "photo": "/images/icons/png/dubai-property-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": true,
+      "hasPool": true,
+      "hasSecurity": true
+    },
+    "createdAt": "2024-11-16T10:50:47.205Z",
+    "updatedAt": "2025-11-13T10:50:47.205Z",
+    "storeId": "store-004"
+  },
+  {
+    "id": "P02560",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Villa - New Egypt",
+    "slug": "kiralik-villa-new-egypt-P02560",
+    "description": "New Egypt, Egypt bölgesinde villa. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 14414378,
+    "location": {
+      "country": "EG",
+      "city": "New Egypt",
+      "district": "New Egypt Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 223",
+      "coordinates": {
+        "lat": 27.39925413851625,
+        "lng": 29.85369680588854
+      }
+    },
+    "specs": {
+      "netSize": 248,
+      "grossSize": 298,
+      "rooms": "4+0",
+      "bathrooms": 1,
+      "age": 3,
+      "floor": 7,
+      "totalFloors": 8,
+      "heating": "Merkezi",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500179587184?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500331513300?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500252451555?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500271676524?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500818211529?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500095947684?w=800&q=80&category=real-estate"
+    ],
+    "agent": {
+      "id": "A68",
+      "name": "Agent 6",
+      "phone": "+17 895 826 5426",
+      "email": "agent75@iwrealty.com",
+      "photo": "/images/icons/png/dubai-property-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-05-08T10:50:47.205Z",
+    "updatedAt": "2025-11-13T10:50:47.205Z",
+    "storeId": "store-004"
+  },
+  {
+    "id": "P02561",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Residence - Egypt Central",
+    "slug": "satilik-residence-egypt-central-P02561",
+    "description": "Egypt Central, Egypt bölgesinde residence. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 5165070,
+    "location": {
+      "country": "EG",
+      "city": "Egypt Central",
+      "district": "Egypt Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 565",
+      "coordinates": {
+        "lat": 27.292907579716026,
+        "lng": 30.1944845012724
+      }
+    },
+    "specs": {
+      "netSize": 194,
+      "grossSize": 233,
+      "rooms": "5+1",
+      "bathrooms": 1,
+      "age": 2,
+      "floor": 9,
+      "totalFloors": 15,
+      "heating": "Kombi",
+      "furnishing": "Unfurnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500476735807?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500911529336?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500435811311?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500752741385?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500206475488?w=800&q=80&category=building"
+    ],
+    "agent": {
+      "id": "A22",
+      "name": "Agent 30",
+      "phone": "+61 440 307 9669",
+      "email": "agent35@iwrealty.com",
+      "photo": "/images/icons/png/london-prime-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-04-23T10:50:47.205Z",
+    "updatedAt": "2025-11-13T10:50:47.205Z",
+    "storeId": "store-007"
+  },
+  {
+    "id": "P02562",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Villa - Egypt Central",
+    "slug": "kiralik-villa-egypt-central-P02562",
+    "description": "Egypt Central, Egypt bölgesinde villa. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 5220177,
+    "location": {
+      "country": "EG",
+      "city": "Egypt Central",
+      "district": "Egypt Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 147",
+      "coordinates": {
+        "lat": 27.17929483387068,
+        "lng": 29.767699362815772
+      }
+    },
+    "specs": {
+      "netSize": 470,
+      "grossSize": 564,
+      "rooms": "3+2",
+      "bathrooms": 3,
+      "age": 0,
+      "floor": 6,
+      "totalFloors": 14,
+      "heating": "Klima",
+      "furnishing": "Unfurnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500840999775?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500908060944?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500709724959?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500525219330?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500829572190?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500544408797?w=800&q=80&category=building"
+    ],
+    "agent": {
+      "id": "A83",
+      "name": "Agent 85",
+      "phone": "+98 992 937 1068",
+      "email": "agent99@iwrealty.com",
+      "photo": "/images/icons/png/ny-skyline-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2024-11-14T10:50:47.205Z",
+    "updatedAt": "2025-11-13T10:50:47.205Z",
+    "storeId": "store-008"
+  },
+  {
+    "id": "P02563",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Residence - Cairo",
+    "slug": "satilik-residence-cairo-P02563",
+    "description": "Cairo, Egypt bölgesinde residence. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 7559618,
+    "location": {
+      "country": "EG",
+      "city": "Cairo",
+      "district": "Cairo Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 842",
+      "coordinates": {
+        "lat": 26.601757907962313,
+        "lng": 30.426676349245565
+      }
+    },
+    "specs": {
+      "netSize": 221,
+      "grossSize": 265,
+      "rooms": "2+0",
+      "bathrooms": 3,
+      "age": 1,
+      "floor": 7,
+      "totalFloors": 19,
+      "heating": "Klima",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500006906884?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500020547527?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500777346010?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500585242225?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500085874226?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500909618546?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500393684673?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500789988751?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500480424412?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500045829944?w=800&q=80&category=architecture"
+    ],
+    "agent": {
+      "id": "A52",
+      "name": "Agent 38",
+      "phone": "+77 527 602 9784",
+      "email": "agent24@iwrealty.com",
+      "photo": "/images/icons/png/london-prime-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": true,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-05-06T10:50:47.205Z",
+    "updatedAt": "2025-11-13T10:50:47.205Z",
+    "storeId": "store-007"
+  },
+  {
+    "id": "P02564",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Villa - Egypt Central",
+    "slug": "kiralik-villa-egypt-central-P02564",
+    "description": "Egypt Central, Egypt bölgesinde villa. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 12245800,
+    "location": {
+      "country": "EG",
+      "city": "Egypt Central",
+      "district": "Egypt Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 219",
+      "coordinates": {
+        "lat": 27.07192028958558,
+        "lng": 29.71237300562249
+      }
+    },
+    "specs": {
+      "netSize": 186,
+      "grossSize": 223,
+      "rooms": "3+0",
+      "bathrooms": 2,
+      "age": 13,
+      "floor": 11,
+      "totalFloors": 9,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500770840342?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500341141387?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500108128684?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500997029829?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500428380909?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500949506220?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500900860832?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500725350127?w=800&q=80&category=real-estate"
+    ],
+    "agent": {
+      "id": "A30",
+      "name": "Agent 64",
+      "phone": "+88 885 571 1591",
+      "email": "agent48@iwrealty.com",
+      "photo": "/images/icons/png/antalya-investment-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-05-18T10:50:47.205Z",
+    "updatedAt": "2025-11-13T10:50:47.205Z",
+    "storeId": "store-006"
+  },
+  {
+    "id": "P02565",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Daire - Egypt City",
+    "slug": "satilik-daire-egypt-city-P02565",
+    "description": "Egypt City, Egypt bölgesinde daire. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 7156755,
+    "location": {
+      "country": "EG",
+      "city": "Egypt City",
+      "district": "Egypt City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 725",
+      "coordinates": {
+        "lat": 26.858766547775886,
+        "lng": 29.901843189068625
+      }
+    },
+    "specs": {
+      "netSize": 396,
+      "grossSize": 475,
+      "rooms": "1+2",
+      "bathrooms": 2,
+      "age": 6,
+      "floor": 11,
+      "totalFloors": 10,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Unfurnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500938226745?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500780682322?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500962045211?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500560446838?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500956748889?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500051614192?w=800&q=80&category=building"
+    ],
+    "agent": {
+      "id": "A45",
+      "name": "Agent 4",
+      "phone": "+27 724 907 7263",
+      "email": "agent55@iwrealty.com",
+      "photo": "/images/icons/png/paris-heritage-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": false,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-07-13T10:50:47.205Z",
+    "updatedAt": "2025-11-13T10:50:47.205Z",
+    "storeId": "store-010"
+  },
+  {
+    "id": "P02566",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Daire - New Egypt",
+    "slug": "kiralik-daire-new-egypt-P02566",
+    "description": "New Egypt, Egypt bölgesinde daire. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 14939352,
+    "location": {
+      "country": "EG",
+      "city": "New Egypt",
+      "district": "New Egypt Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 759",
+      "coordinates": {
+        "lat": 26.62574980710123,
+        "lng": 29.505791564434176
+      }
+    },
+    "specs": {
+      "netSize": 94,
+      "grossSize": 113,
+      "rooms": "1+2",
+      "bathrooms": 4,
+      "age": 11,
+      "floor": 3,
+      "totalFloors": 7,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Furnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500922050890?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500847280046?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500813404264?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500797850580?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500388410850?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500321934771?w=800&q=80&category=interior"
+    ],
+    "agent": {
+      "id": "A58",
+      "name": "Agent 48",
+      "phone": "+70 191 358 4745",
+      "email": "agent83@iwrealty.com",
+      "photo": "/images/icons/png/sydney-coastal-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-04-07T10:50:47.205Z",
+    "updatedAt": "2025-11-13T10:50:47.205Z",
+    "storeId": "store-012"
+  },
+  {
+    "id": "P02567",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Villa - Egypt City",
+    "slug": "satilik-villa-egypt-city-P02567",
+    "description": "Egypt City, Egypt bölgesinde villa. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 14815324,
+    "location": {
+      "country": "EG",
+      "city": "Egypt City",
+      "district": "Egypt City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 373",
+      "coordinates": {
+        "lat": 26.66889539114167,
+        "lng": 29.634669171863695
+      }
+    },
+    "specs": {
+      "netSize": 470,
+      "grossSize": 564,
+      "rooms": "4+2",
+      "bathrooms": 3,
+      "age": 19,
+      "floor": 6,
+      "totalFloors": 16,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500082685454?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500585465592?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500065346310?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500662586753?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500563237428?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500403583659?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500378187381?w=800&q=80&category=architecture"
+    ],
+    "agent": {
+      "id": "A70",
+      "name": "Agent 30",
+      "phone": "+89 691 318 1095",
+      "email": "agent2@iwrealty.com",
+      "photo": "/images/icons/png/ankara-modern-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": false,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-02-11T10:50:47.205Z",
+    "updatedAt": "2025-11-13T10:50:47.205Z",
+    "storeId": "store-003"
+  },
+  {
+    "id": "P02568",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Müstakil Ev - Cairo",
+    "slug": "kiralik-müstakil-ev-cairo-P02568",
+    "description": "Cairo, Egypt bölgesinde müstakil ev. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 6621007,
+    "location": {
+      "country": "EG",
+      "city": "Cairo",
+      "district": "Cairo Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 975",
+      "coordinates": {
+        "lat": 26.924385649239024,
+        "lng": 30.35420911599789
+      }
+    },
+    "specs": {
+      "netSize": 439,
+      "grossSize": 527,
+      "rooms": "4+2",
+      "bathrooms": 3,
+      "age": 6,
+      "floor": 7,
+      "totalFloors": 17,
+      "heating": "Klima",
+      "furnishing": "Furnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500634746639?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500471815671?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500909823329?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500734715003?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500594991225?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500811764902?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500796663874?w=800&q=80&category=house"
+    ],
+    "agent": {
+      "id": "A7",
+      "name": "Agent 1",
+      "phone": "+88 648 445 2527",
+      "email": "agent99@iwrealty.com",
+      "photo": "/images/icons/png/london-prime-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": false,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-07-14T10:50:47.205Z",
+    "updatedAt": "2025-11-13T10:50:47.205Z",
+    "storeId": "store-007"
+  },
+  {
+    "id": "P02569",
+    "type": "sale",
+    "category": {
+      "main": "commercial",
+      "sub": "hospital"
+    },
+    "title": "Satılık Hastane - Egypt Central",
+    "slug": "satilik-hastane-egypt-central-P02569",
+    "description": "Egypt Central, Egypt bölgesinde hastane. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 21962970,
+    "location": {
+      "country": "EG",
+      "city": "Egypt Central",
+      "district": "Egypt Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 135",
+      "coordinates": {
+        "lat": 26.756532232760186,
+        "lng": 30.376023838903325
+      }
+    },
+    "specs": {
+      "netSize": 5701,
+      "grossSize": 6841,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 19,
+      "floor": 4,
+      "totalFloors": 8,
+      "heating": "Klima",
+      "furnishing": "Furnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500519881669?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500406640893?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500124074627?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500133367592?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500297439722?w=800&q=80&category=interior"
+    ],
+    "agent": {
+      "id": "A76",
+      "name": "Agent 97",
+      "phone": "+40 513 910 3644",
+      "email": "agent24@iwrealty.com",
+      "photo": "/images/icons/png/sydney-coastal-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-02-26T10:50:47.205Z",
+    "updatedAt": "2025-11-13T10:50:47.205Z",
+    "storeId": "store-012"
+  },
+  {
+    "id": "P02570",
+    "type": "rent",
+    "category": {
+      "main": "commercial",
+      "sub": "hospital"
+    },
+    "title": "Kiralık Hastane - Cairo",
+    "slug": "kiralik-hastane-cairo-P02570",
+    "description": "Cairo, Egypt bölgesinde hastane. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 10415845,
+    "location": {
+      "country": "EG",
+      "city": "Cairo",
+      "district": "Cairo Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 615",
+      "coordinates": {
+        "lat": 26.63956549725449,
+        "lng": 29.554013157177476
+      }
+    },
+    "specs": {
+      "netSize": 4090,
+      "grossSize": 4908,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 6,
+      "floor": 4,
+      "totalFloors": 5,
+      "heating": "Merkezi",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500554364004?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500904766948?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500709021006?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500486931415?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500114851690?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500009157541?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500069770902?w=800&q=80&category=interior"
+    ],
+    "agent": {
+      "id": "A49",
+      "name": "Agent 14",
+      "phone": "+85 328 243 5670",
+      "email": "agent46@iwrealty.com",
+      "photo": "/images/icons/png/london-prime-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-05-07T10:50:47.205Z",
+    "updatedAt": "2025-11-13T10:50:47.205Z",
+    "storeId": "store-007"
+  },
+  {
+    "id": "P02571",
+    "type": "sale",
+    "category": {
+      "main": "commercial",
+      "sub": "clinic"
+    },
+    "title": "Satılık Klinik - Egypt Central",
+    "slug": "satilik-klinik-egypt-central-P02571",
+    "description": "Egypt Central, Egypt bölgesinde klinik. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 7798674,
+    "location": {
+      "country": "EG",
+      "city": "Egypt Central",
+      "district": "Egypt Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 441",
+      "coordinates": {
+        "lat": 26.59343970911958,
+        "lng": 29.882523088479903
+      }
+    },
+    "specs": {
+      "netSize": 783,
+      "grossSize": 940,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 10,
+      "floor": 14,
+      "totalFloors": 5,
+      "heating": "Merkezi",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500633496726?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500795618062?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500436694867?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500883722164?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500277645470?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500658002732?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500375245216?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500993087642?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500834806568?w=800&q=80&category=real-estate"
+    ],
+    "agent": {
+      "id": "A95",
+      "name": "Agent 44",
+      "phone": "+89 601 727 6502",
+      "email": "agent15@iwrealty.com",
+      "photo": "/images/icons/png/izmir-sahil-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-04-21T10:50:47.205Z",
+    "updatedAt": "2025-11-13T10:50:47.205Z",
+    "storeId": "store-005"
+  },
+  {
+    "id": "P02572",
+    "type": "rent",
+    "category": {
+      "main": "commercial",
+      "sub": "clinic"
+    },
+    "title": "Kiralık Klinik - Egypt Central",
+    "slug": "kiralik-klinik-egypt-central-P02572",
+    "description": "Egypt Central, Egypt bölgesinde klinik. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 19555712,
+    "location": {
+      "country": "EG",
+      "city": "Egypt Central",
+      "district": "Egypt Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 729",
+      "coordinates": {
+        "lat": 27.394114848475517,
+        "lng": 30.467651958867258
+      }
+    },
+    "specs": {
+      "netSize": 1816,
+      "grossSize": 2179,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 6,
+      "floor": 1,
+      "totalFloors": 9,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Furnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500723210168?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500874195523?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500710548104?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500470662297?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500680542299?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500290142425?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500043274317?w=800&q=80&category=interior"
+    ],
+    "agent": {
+      "id": "A66",
+      "name": "Agent 86",
+      "phone": "+97 471 186 7906",
+      "email": "agent66@iwrealty.com",
+      "photo": "/images/icons/png/antalya-investment-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": false,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-06-05T10:50:47.205Z",
+    "updatedAt": "2025-11-13T10:50:47.205Z",
+    "storeId": "store-006"
+  },
+  {
+    "id": "P02573",
+    "type": "sale",
+    "category": {
+      "main": "commercial",
+      "sub": "shop"
+    },
+    "title": "Satılık Dükkan - Egypt Central",
+    "slug": "satilik-dükkan-egypt-central-P02573",
+    "description": "Egypt Central, Egypt bölgesinde dükkan. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 5172409,
+    "location": {
+      "country": "EG",
+      "city": "Egypt Central",
+      "district": "Egypt Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 350",
+      "coordinates": {
+        "lat": 27.454395067679037,
+        "lng": 29.674291811174754
+      }
+    },
+    "specs": {
+      "netSize": 259,
+      "grossSize": 311,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 4,
+      "floor": 13,
+      "totalFloors": 8,
+      "heating": "Kombi",
+      "furnishing": "Furnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500717147144?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500854834006?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500796058002?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500767969104?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500052967535?w=800&q=80&category=architecture"
+    ],
+    "agent": {
+      "id": "A69",
+      "name": "Agent 66",
+      "phone": "+14 991 482 1941",
+      "email": "agent13@iwrealty.com",
+      "photo": "/images/icons/png/izmir-sahil-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": true,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-06-23T10:50:47.205Z",
+    "updatedAt": "2025-11-13T10:50:47.205Z",
+    "storeId": "store-005"
+  },
+  {
+    "id": "P02574",
+    "type": "rent",
+    "category": {
+      "main": "commercial",
+      "sub": "shop"
+    },
+    "title": "Kiralık Dükkan - Cairo",
+    "slug": "kiralik-dükkan-cairo-P02574",
+    "description": "Cairo, Egypt bölgesinde dükkan. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 2081971,
+    "location": {
+      "country": "EG",
+      "city": "Cairo",
+      "district": "Cairo Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 931",
+      "coordinates": {
+        "lat": 26.55122783613801,
+        "lng": 30.42292559041703
+      }
+    },
+    "specs": {
+      "netSize": 100,
+      "grossSize": 120,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 1,
+      "floor": 9,
+      "totalFloors": 18,
+      "heating": "Kombi",
+      "furnishing": "Furnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500683474807?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500302453392?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500576962115?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500558669600?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500533043043?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500302004813?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500331116735?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500672399334?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500208587100?w=800&q=80&category=house"
+    ],
+    "agent": {
+      "id": "A79",
+      "name": "Agent 43",
+      "phone": "+73 182 217 8846",
+      "email": "agent3@iwrealty.com",
+      "photo": "/images/icons/png/izmir-sahil-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-02-16T10:50:47.205Z",
+    "updatedAt": "2025-11-13T10:50:47.205Z",
+    "storeId": "store-005"
+  },
+  {
+    "id": "P02575",
+    "type": "sale",
+    "category": {
+      "main": "commercial",
+      "sub": "office"
+    },
+    "title": "Satılık Ofis - Egypt City",
+    "slug": "satilik-ofis-egypt-city-P02575",
+    "description": "Egypt City, Egypt bölgesinde ofis. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 8992619,
+    "location": {
+      "country": "EG",
+      "city": "Egypt City",
+      "district": "Egypt City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 583",
+      "coordinates": {
+        "lat": 27.477676082133762,
+        "lng": 30.438041341189162
+      }
+    },
+    "specs": {
+      "netSize": 167,
+      "grossSize": 200,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 10,
+      "floor": 4,
+      "totalFloors": 13,
+      "heating": "Kombi",
+      "furnishing": "Unfurnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500160711633?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500264159809?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500368902546?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500133474916?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500772508225?w=800&q=80&category=real-estate"
+    ],
+    "agent": {
+      "id": "A55",
+      "name": "Agent 57",
+      "phone": "+67 985 666 1541",
+      "email": "agent96@iwrealty.com",
+      "photo": "/images/icons/png/sg-harbour-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": true,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-07-04T10:50:47.205Z",
+    "updatedAt": "2025-11-13T10:50:47.205Z",
+    "storeId": "store-011"
+  },
+  {
+    "id": "P02576",
+    "type": "rent",
+    "category": {
+      "main": "commercial",
+      "sub": "office"
+    },
+    "title": "Kiralık Ofis - New Egypt",
+    "slug": "kiralik-ofis-new-egypt-P02576",
+    "description": "New Egypt, Egypt bölgesinde ofis. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 6190428,
+    "location": {
+      "country": "EG",
+      "city": "New Egypt",
+      "district": "New Egypt Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 105",
+      "coordinates": {
+        "lat": 26.658457023114117,
+        "lng": 30.341768066172783
+      }
+    },
+    "specs": {
+      "netSize": 699,
+      "grossSize": 839,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 8,
+      "floor": 5,
+      "totalFloors": 10,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Unfurnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500768846384?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500880815602?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500596345859?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500349451901?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500888081039?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500534256613?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500150412726?w=800&q=80&category=interior"
+    ],
+    "agent": {
+      "id": "A62",
+      "name": "Agent 13",
+      "phone": "+44 345 944 5501",
+      "email": "agent2@iwrealty.com",
+      "photo": "/images/icons/png/sydney-coastal-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": true,
+      "hasSecurity": true
+    },
+    "createdAt": "2024-11-22T10:50:47.205Z",
+    "updatedAt": "2025-11-13T10:50:47.205Z",
+    "storeId": "store-012"
+  },
+  {
+    "id": "P02577",
+    "type": "sale",
+    "category": {
+      "main": "commercial",
+      "sub": "mall"
+    },
+    "title": "Satılık AVM - New Egypt",
+    "slug": "satilik-avm-new-egypt-P02577",
+    "description": "New Egypt, Egypt bölgesinde avm. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 253376842,
+    "location": {
+      "country": "EG",
+      "city": "New Egypt",
+      "district": "New Egypt Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 189",
+      "coordinates": {
+        "lat": 27.364914576294275,
+        "lng": 30.351382613074325
+      }
+    },
+    "specs": {
+      "netSize": 49185,
+      "grossSize": 59022,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 8,
+      "floor": 11,
+      "totalFloors": 10,
+      "heating": "Kombi",
+      "furnishing": "Unfurnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500118617855?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500787567917?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500796624234?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500943138740?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500959883871?w=800&q=80&category=house"
+    ],
+    "agent": {
+      "id": "A10",
+      "name": "Agent 40",
+      "phone": "+77 930 967 3585",
+      "email": "agent78@iwrealty.com",
+      "photo": "/images/icons/png/london-prime-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": false,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-03-13T10:50:47.205Z",
+    "updatedAt": "2025-11-13T10:50:47.205Z",
+    "storeId": "store-007"
+  },
+  {
+    "id": "P02578",
+    "type": "rent",
+    "category": {
+      "main": "commercial",
+      "sub": "mall"
+    },
+    "title": "Kiralık AVM - Cairo",
+    "slug": "kiralik-avm-cairo-P02578",
+    "description": "Cairo, Egypt bölgesinde avm. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 296860017,
+    "location": {
+      "country": "EG",
+      "city": "Cairo",
+      "district": "Cairo Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 354",
+      "coordinates": {
+        "lat": 26.543297140996167,
+        "lng": 30.4797702771443
+      }
+    },
+    "specs": {
+      "netSize": 15053,
+      "grossSize": 18064,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 11,
+      "floor": 14,
+      "totalFloors": 5,
+      "heating": "Kombi",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500832906858?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500381756810?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500656417695?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500881452798?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500465908640?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500842164150?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500189063806?w=800&q=80&category=house"
+    ],
+    "agent": {
+      "id": "A8",
+      "name": "Agent 63",
+      "phone": "+42 813 251 9088",
+      "email": "agent36@iwrealty.com",
+      "photo": "/images/icons/png/ankara-modern-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-02-09T10:50:47.205Z",
+    "updatedAt": "2025-11-13T10:50:47.205Z",
+    "storeId": "store-003"
+  },
+  {
+    "id": "P02579",
+    "type": "sale",
+    "category": {
+      "main": "commercial",
+      "sub": "hotel"
+    },
+    "title": "Satılık Otel - New Egypt",
+    "slug": "satilik-otel-new-egypt-P02579",
+    "description": "New Egypt, Egypt bölgesinde otel. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 170048896,
+    "location": {
+      "country": "EG",
+      "city": "New Egypt",
+      "district": "New Egypt Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 497",
+      "coordinates": {
+        "lat": 26.82588178104491,
+        "lng": 29.91990366479185
+      }
+    },
+    "specs": {
+      "netSize": 3627,
+      "grossSize": 4352,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 15,
+      "floor": 14,
+      "totalFloors": 18,
+      "heating": "Kombi",
+      "furnishing": "Furnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500475047290?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500560196066?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500367330606?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500301172989?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500500768931?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500823061670?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500548020075?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500166859657?w=800&q=80&category=interior"
+    ],
+    "agent": {
+      "id": "A15",
+      "name": "Agent 16",
+      "phone": "+31 646 962 4520",
+      "email": "agent35@iwrealty.com",
+      "photo": "/images/icons/png/sydney-coastal-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": true,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-05-16T10:50:47.205Z",
+    "updatedAt": "2025-11-13T10:50:47.205Z",
+    "storeId": "store-012"
+  },
+  {
+    "id": "P02580",
+    "type": "rent",
+    "category": {
+      "main": "commercial",
+      "sub": "hotel"
+    },
+    "title": "Kiralık Otel - Egypt City",
+    "slug": "kiralik-otel-egypt-city-P02580",
+    "description": "Egypt City, Egypt bölgesinde otel. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 185923658,
+    "location": {
+      "country": "EG",
+      "city": "Egypt City",
+      "district": "Egypt City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 794",
+      "coordinates": {
+        "lat": 26.635038303771854,
+        "lng": 29.921934471839123
+      }
+    },
+    "specs": {
+      "netSize": 21180,
+      "grossSize": 25416,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 14,
+      "floor": 1,
+      "totalFloors": 12,
+      "heating": "Kombi",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500220802943?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500721541219?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500864353869?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500920780758?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500344128336?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500032888168?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500276320631?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500252179216?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500724901201?w=800&q=80&category=building"
+    ],
+    "agent": {
+      "id": "A38",
+      "name": "Agent 57",
+      "phone": "+92 150 958 7762",
+      "email": "agent63@iwrealty.com",
+      "photo": "/images/icons/png/dubai-property-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": false,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-10-14T10:50:47.205Z",
+    "updatedAt": "2025-11-13T10:50:47.205Z",
+    "storeId": "store-004"
+  },
+  {
+    "id": "P02581",
+    "type": "sale",
+    "category": {
+      "main": "commercial",
+      "sub": "restaurant"
+    },
+    "title": "Satılık Restoran - Egypt City",
+    "slug": "satilik-restoran-egypt-city-P02581",
+    "description": "Egypt City, Egypt bölgesinde restoran. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 6151418,
+    "location": {
+      "country": "EG",
+      "city": "Egypt City",
+      "district": "Egypt City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 847",
+      "coordinates": {
+        "lat": 26.91721001966895,
+        "lng": 30.023716373165517
+      }
+    },
+    "specs": {
+      "netSize": 1117,
+      "grossSize": 1340,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 4,
+      "floor": 4,
+      "totalFloors": 18,
+      "heating": "Merkezi",
+      "furnishing": "Unfurnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500681807150?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500804831469?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500546209142?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500608194083?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500916658755?w=800&q=80&category=interior"
+    ],
+    "agent": {
+      "id": "A43",
+      "name": "Agent 36",
+      "phone": "+25 179 867 3562",
+      "email": "agent43@iwrealty.com",
+      "photo": "/images/icons/png/ny-skyline-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": true,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-10-24T10:50:47.205Z",
+    "updatedAt": "2025-11-13T10:50:47.205Z",
+    "storeId": "store-008"
+  },
+  {
+    "id": "P02582",
+    "type": "rent",
+    "category": {
+      "main": "commercial",
+      "sub": "restaurant"
+    },
+    "title": "Kiralık Restoran - Egypt City",
+    "slug": "kiralik-restoran-egypt-city-P02582",
+    "description": "Egypt City, Egypt bölgesinde restoran. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 3819731,
+    "location": {
+      "country": "EG",
+      "city": "Egypt City",
+      "district": "Egypt City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 956",
+      "coordinates": {
+        "lat": 26.575137165806186,
+        "lng": 30.31565867406937
+      }
+    },
+    "specs": {
+      "netSize": 202,
+      "grossSize": 242,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 4,
+      "floor": 14,
+      "totalFloors": 9,
+      "heating": "Merkezi",
+      "furnishing": "Unfurnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500019649197?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500609251088?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500613144976?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500614923544?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500880547742?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500426796548?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500376332599?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500566015403?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500486018515?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500090038288?w=800&q=80&category=interior"
+    ],
+    "agent": {
+      "id": "A25",
+      "name": "Agent 95",
+      "phone": "+61 546 645 7528",
+      "email": "agent98@iwrealty.com",
+      "photo": "/images/icons/png/sg-harbour-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-04-20T10:50:47.205Z",
+    "updatedAt": "2025-11-13T10:50:47.205Z",
+    "storeId": "store-011"
+  },
+  {
+    "id": "P02583",
+    "type": "sale",
+    "category": {
+      "main": "commercial",
+      "sub": "warehouse"
+    },
+    "title": "Satılık Depo - Cairo",
+    "slug": "satilik-depo-cairo-P02583",
+    "description": "Cairo, Egypt bölgesinde depo. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 3801523,
+    "location": {
+      "country": "EG",
+      "city": "Cairo",
+      "district": "Cairo Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 62",
+      "coordinates": {
+        "lat": 27.022344504779877,
+        "lng": 30.44120463625614
+      }
+    },
+    "specs": {
+      "netSize": 7941,
+      "grossSize": 9529,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 18,
+      "floor": 10,
+      "totalFloors": 15,
+      "heating": "Kombi",
+      "furnishing": "Unfurnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500382330111?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500004583857?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500167987711?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500541825983?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500050225056?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500574508968?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500547155494?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500475489225?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500815064949?w=800&q=80&category=real-estate"
+    ],
+    "agent": {
+      "id": "A60",
+      "name": "Agent 70",
+      "phone": "+78 431 119 4037",
+      "email": "agent68@iwrealty.com",
+      "photo": "/images/icons/png/sydney-coastal-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-08-20T10:50:47.205Z",
+    "updatedAt": "2025-11-13T10:50:47.205Z",
+    "storeId": "store-012"
+  },
+  {
+    "id": "P02584",
+    "type": "rent",
+    "category": {
+      "main": "commercial",
+      "sub": "warehouse"
+    },
+    "title": "Kiralık Depo - Egypt City",
+    "slug": "kiralik-depo-egypt-city-P02584",
+    "description": "Egypt City, Egypt bölgesinde depo. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 12555128,
+    "location": {
+      "country": "EG",
+      "city": "Egypt City",
+      "district": "Egypt City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 197",
+      "coordinates": {
+        "lat": 26.675019657125155,
+        "lng": 29.658823278706027
+      }
+    },
+    "specs": {
+      "netSize": 2785,
+      "grossSize": 3342,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 20,
+      "floor": 11,
+      "totalFloors": 6,
+      "heating": "Kombi",
+      "furnishing": "Furnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500353893636?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500228435543?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500050237101?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500052905221?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500397607978?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500792835472?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500922724697?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500083265945?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500383230414?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500101799787?w=800&q=80&category=real-estate"
+    ],
+    "agent": {
+      "id": "A20",
+      "name": "Agent 43",
+      "phone": "+38 908 137 2234",
+      "email": "agent79@iwrealty.com",
+      "photo": "/images/icons/png/sg-harbour-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-03-30T10:50:47.205Z",
+    "updatedAt": "2025-11-13T10:50:47.205Z",
+    "storeId": "store-011"
+  }
+]

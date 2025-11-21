@@ -1,0 +1,2348 @@
+[
+  {
+    "id": "P07601",
+    "type": "sale",
+    "category": {
+      "main": "government"
+    },
+    "title": "Satılık Hastane - Sierra Leone City",
+    "slug": "satilik-hastane-sierra-leone-city-P07601",
+    "description": "Sierra Leone City, Sierra Leone bölgesinde hastane. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 41509635,
+    "location": {
+      "country": "SL",
+      "city": "Sierra Leone City",
+      "district": "Sierra Leone City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 376",
+      "coordinates": {
+        "lat": 8.151317282406389,
+        "lng": -11.523539671713252
+      }
+    },
+    "specs": {
+      "netSize": 3676,
+      "grossSize": 4411,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 20,
+      "floor": 1,
+      "totalFloors": 19,
+      "heating": "Klima",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500028817031?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500617292160?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500944385477?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500326749688?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500298146164?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500637992012?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500376869055?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500312546649?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500582391061?w=800&q=80&category=architecture"
+    ],
+    "agent": {
+      "id": "A29",
+      "name": "Agent 70",
+      "phone": "+81 826 183 9517",
+      "email": "agent62@iwrealty.com",
+      "photo": "/images/icons/png/paris-heritage-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": false,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-05-31T10:50:47.258Z",
+    "updatedAt": "2025-11-13T10:50:47.258Z",
+    "storeId": "store-010"
+  },
+  {
+    "id": "P07602",
+    "type": "rent",
+    "category": {
+      "main": "government"
+    },
+    "title": "Kiralık Belediye Binası - Sierra Leone Central",
+    "slug": "kiralik-belediye-binası-sierra-leone-central-P07602",
+    "description": "Sierra Leone Central, Sierra Leone bölgesinde belediye binası. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 29638325,
+    "location": {
+      "country": "SL",
+      "city": "Sierra Leone Central",
+      "district": "Sierra Leone Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 971",
+      "coordinates": {
+        "lat": 8.237353182979142,
+        "lng": -11.531457518737536
+      }
+    },
+    "specs": {
+      "netSize": 2747,
+      "grossSize": 3296,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 7,
+      "floor": 11,
+      "totalFloors": 17,
+      "heating": "Merkezi",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500424488379?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500158791870?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500761610461?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500640624739?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500788311696?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500343876360?w=800&q=80&category=architecture"
+    ],
+    "agent": {
+      "id": "A48",
+      "name": "Agent 4",
+      "phone": "+92 959 201 7010",
+      "email": "agent77@iwrealty.com",
+      "photo": "/images/icons/png/berlin-urban-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": false,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": true,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-07-20T10:50:47.259Z",
+    "updatedAt": "2025-11-13T10:50:47.259Z",
+    "storeId": "store-009"
+  },
+  {
+    "id": "P07603",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Daire - Sierra Leone City",
+    "slug": "satilik-daire-sierra-leone-city-P07603",
+    "description": "Sierra Leone City, Sierra Leone bölgesinde daire. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 1292094,
+    "location": {
+      "country": "SL",
+      "city": "Sierra Leone City",
+      "district": "Sierra Leone City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 194",
+      "coordinates": {
+        "lat": 8.431059658703255,
+        "lng": -11.46728884905441
+      }
+    },
+    "specs": {
+      "netSize": 454,
+      "grossSize": 545,
+      "rooms": "1+1",
+      "bathrooms": 4,
+      "age": 12,
+      "floor": 6,
+      "totalFloors": 15,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Unfurnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500051006781?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500946537232?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500742610545?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500603797440?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500938577492?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500244904252?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500531419683?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500148981418?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500116865905?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500720063916?w=800&q=80&category=building"
+    ],
+    "agent": {
+      "id": "A18",
+      "name": "Agent 99",
+      "phone": "+98 440 659 9755",
+      "email": "agent90@iwrealty.com",
+      "photo": "/images/icons/png/sydney-coastal-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-04-09T10:50:47.259Z",
+    "updatedAt": "2025-11-13T10:50:47.259Z",
+    "storeId": "store-012"
+  },
+  {
+    "id": "P07604",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Daire - Freetown",
+    "slug": "kiralik-daire-freetown-P07604",
+    "description": "Freetown, Sierra Leone bölgesinde daire. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 10114521,
+    "location": {
+      "country": "SL",
+      "city": "Freetown",
+      "district": "Freetown Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 897",
+      "coordinates": {
+        "lat": 8.27823566191443,
+        "lng": -11.283130410836515
+      }
+    },
+    "specs": {
+      "netSize": 94,
+      "grossSize": 113,
+      "rooms": "2+2",
+      "bathrooms": 4,
+      "age": 12,
+      "floor": 6,
+      "totalFloors": 10,
+      "heating": "Kombi",
+      "furnishing": "Furnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500015120064?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500593678913?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500733328476?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500209599877?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500285505902?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500998731541?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500149066997?w=800&q=80&category=real-estate"
+    ],
+    "agent": {
+      "id": "A27",
+      "name": "Agent 41",
+      "phone": "+47 634 488 2379",
+      "email": "agent42@iwrealty.com",
+      "photo": "/images/icons/png/ankara-modern-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": false,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": true,
+      "hasSecurity": true
+    },
+    "createdAt": "2024-11-18T10:50:47.259Z",
+    "updatedAt": "2025-11-13T10:50:47.259Z",
+    "storeId": "store-003"
+  },
+  {
+    "id": "P07605",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Villa - Sierra Leone City",
+    "slug": "satilik-villa-sierra-leone-city-P07605",
+    "description": "Sierra Leone City, Sierra Leone bölgesinde villa. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 5437174,
+    "location": {
+      "country": "SL",
+      "city": "Sierra Leone City",
+      "district": "Sierra Leone City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 681",
+      "coordinates": {
+        "lat": 8.970151726135729,
+        "lng": -11.19666300831685
+      }
+    },
+    "specs": {
+      "netSize": 146,
+      "grossSize": 175,
+      "rooms": "1+2",
+      "bathrooms": 3,
+      "age": 4,
+      "floor": 7,
+      "totalFloors": 18,
+      "heating": "Kombi",
+      "furnishing": "Unfurnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500730460273?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500882179107?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500090026580?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500352801750?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500358559933?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500421559730?w=800&q=80&category=interior"
+    ],
+    "agent": {
+      "id": "A20",
+      "name": "Agent 67",
+      "phone": "+93 697 242 1874",
+      "email": "agent65@iwrealty.com",
+      "photo": "/images/icons/png/antalya-investment-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-02-26T10:50:47.259Z",
+    "updatedAt": "2025-11-13T10:50:47.259Z",
+    "storeId": "store-006"
+  },
+  {
+    "id": "P07606",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Residence - Sierra Leone Central",
+    "slug": "kiralik-residence-sierra-leone-central-P07606",
+    "description": "Sierra Leone Central, Sierra Leone bölgesinde residence. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 11413910,
+    "location": {
+      "country": "SL",
+      "city": "Sierra Leone Central",
+      "district": "Sierra Leone Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 689",
+      "coordinates": {
+        "lat": 8.697310027469317,
+        "lng": -11.053393805675093
+      }
+    },
+    "specs": {
+      "netSize": 99,
+      "grossSize": 119,
+      "rooms": "4+2",
+      "bathrooms": 1,
+      "age": 19,
+      "floor": 11,
+      "totalFloors": 7,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Unfurnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500402784499?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500627986121?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500644446181?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500260157193?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500812493838?w=800&q=80&category=building"
+    ],
+    "agent": {
+      "id": "A86",
+      "name": "Agent 100",
+      "phone": "+35 667 454 9947",
+      "email": "agent83@iwrealty.com",
+      "photo": "/images/icons/png/antalya-investment-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-03-31T10:50:47.259Z",
+    "updatedAt": "2025-11-13T10:50:47.259Z",
+    "storeId": "store-006"
+  },
+  {
+    "id": "P07607",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Villa - New Sierra Leone",
+    "slug": "satilik-villa-new-sierra-leone-P07607",
+    "description": "New Sierra Leone, Sierra Leone bölgesinde villa. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 14598723,
+    "location": {
+      "country": "SL",
+      "city": "New Sierra Leone",
+      "district": "New Sierra Leone Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 255",
+      "coordinates": {
+        "lat": 8.445235224857065,
+        "lng": -11.84547649533455
+      }
+    },
+    "specs": {
+      "netSize": 208,
+      "grossSize": 250,
+      "rooms": "3+1",
+      "bathrooms": 4,
+      "age": 9,
+      "floor": 14,
+      "totalFloors": 19,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Furnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500993921772?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500613429573?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500725257876?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500857538259?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500374622706?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500313357695?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500250282573?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500994181919?w=800&q=80&category=building"
+    ],
+    "agent": {
+      "id": "A24",
+      "name": "Agent 8",
+      "phone": "+61 271 521 8595",
+      "email": "agent92@iwrealty.com",
+      "photo": "/images/icons/png/sg-harbour-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-02-27T10:50:47.259Z",
+    "updatedAt": "2025-11-13T10:50:47.259Z",
+    "storeId": "store-011"
+  },
+  {
+    "id": "P07608",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Daire - Sierra Leone City",
+    "slug": "kiralik-daire-sierra-leone-city-P07608",
+    "description": "Sierra Leone City, Sierra Leone bölgesinde daire. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 2273707,
+    "location": {
+      "country": "SL",
+      "city": "Sierra Leone City",
+      "district": "Sierra Leone City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 689",
+      "coordinates": {
+        "lat": 8.830639143296322,
+        "lng": -11.784718393431117
+      }
+    },
+    "specs": {
+      "netSize": 452,
+      "grossSize": 542,
+      "rooms": "3+0",
+      "bathrooms": 3,
+      "age": 16,
+      "floor": 7,
+      "totalFloors": 9,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Furnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500987209085?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500420185145?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500062327687?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500194270171?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500302856485?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500463855242?w=800&q=80&category=architecture"
+    ],
+    "agent": {
+      "id": "A63",
+      "name": "Agent 17",
+      "phone": "+68 100 772 1526",
+      "email": "agent10@iwrealty.com",
+      "photo": "/images/icons/png/ny-skyline-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-01-08T10:50:47.259Z",
+    "updatedAt": "2025-11-13T10:50:47.259Z",
+    "storeId": "store-008"
+  },
+  {
+    "id": "P07609",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Müstakil Ev - New Sierra Leone",
+    "slug": "satilik-müstakil-ev-new-sierra-leone-P07609",
+    "description": "New Sierra Leone, Sierra Leone bölgesinde müstakil ev. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 3927731,
+    "location": {
+      "country": "SL",
+      "city": "New Sierra Leone",
+      "district": "New Sierra Leone Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 224",
+      "coordinates": {
+        "lat": 8.74233756314739,
+        "lng": -11.559901640732589
+      }
+    },
+    "specs": {
+      "netSize": 212,
+      "grossSize": 254,
+      "rooms": "2+1",
+      "bathrooms": 4,
+      "age": 0,
+      "floor": 7,
+      "totalFloors": 20,
+      "heating": "Merkezi",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500128985370?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500885224591?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500066373828?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500275269001?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500868136214?w=800&q=80&category=architecture"
+    ],
+    "agent": {
+      "id": "A18",
+      "name": "Agent 62",
+      "phone": "+67 518 152 6388",
+      "email": "agent20@iwrealty.com",
+      "photo": "/images/icons/png/paris-heritage-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": false,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2024-12-06T10:50:47.259Z",
+    "updatedAt": "2025-11-13T10:50:47.259Z",
+    "storeId": "store-010"
+  },
+  {
+    "id": "P07610",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Müstakil Ev - Sierra Leone Central",
+    "slug": "kiralik-müstakil-ev-sierra-leone-central-P07610",
+    "description": "Sierra Leone Central, Sierra Leone bölgesinde müstakil ev. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 13985485,
+    "location": {
+      "country": "SL",
+      "city": "Sierra Leone Central",
+      "district": "Sierra Leone Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 129",
+      "coordinates": {
+        "lat": 8.387149850064755,
+        "lng": -11.493095847071555
+      }
+    },
+    "specs": {
+      "netSize": 437,
+      "grossSize": 524,
+      "rooms": "3+0",
+      "bathrooms": 2,
+      "age": 18,
+      "floor": 11,
+      "totalFloors": 13,
+      "heating": "Kombi",
+      "furnishing": "Furnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500678690810?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500379169515?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500688789109?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500075648453?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500101478488?w=800&q=80&category=real-estate"
+    ],
+    "agent": {
+      "id": "A47",
+      "name": "Agent 69",
+      "phone": "+29 454 902 7079",
+      "email": "agent54@iwrealty.com",
+      "photo": "/images/icons/png/dubai-property-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-09-24T10:50:47.259Z",
+    "updatedAt": "2025-11-13T10:50:47.259Z",
+    "storeId": "store-004"
+  },
+  {
+    "id": "P07611",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Villa - Sierra Leone Central",
+    "slug": "satilik-villa-sierra-leone-central-P07611",
+    "description": "Sierra Leone Central, Sierra Leone bölgesinde villa. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 14027057,
+    "location": {
+      "country": "SL",
+      "city": "Sierra Leone Central",
+      "district": "Sierra Leone Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 460",
+      "coordinates": {
+        "lat": 8.329511985776707,
+        "lng": -11.139239570215974
+      }
+    },
+    "specs": {
+      "netSize": 230,
+      "grossSize": 276,
+      "rooms": "2+1",
+      "bathrooms": 1,
+      "age": 3,
+      "floor": 2,
+      "totalFloors": 20,
+      "heating": "Kombi",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500029699612?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500907336199?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500515451258?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500949560184?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500567867965?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500017020434?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500098571023?w=800&q=80&category=house"
+    ],
+    "agent": {
+      "id": "A44",
+      "name": "Agent 98",
+      "phone": "+82 467 832 9335",
+      "email": "agent78@iwrealty.com",
+      "photo": "/images/icons/png/paris-heritage-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-10-25T10:50:47.259Z",
+    "updatedAt": "2025-11-13T10:50:47.259Z",
+    "storeId": "store-010"
+  },
+  {
+    "id": "P07612",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Daire - Sierra Leone City",
+    "slug": "kiralik-daire-sierra-leone-city-P07612",
+    "description": "Sierra Leone City, Sierra Leone bölgesinde daire. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 5695103,
+    "location": {
+      "country": "SL",
+      "city": "Sierra Leone City",
+      "district": "Sierra Leone City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 363",
+      "coordinates": {
+        "lat": 8.453263788480387,
+        "lng": -11.903901160293733
+      }
+    },
+    "specs": {
+      "netSize": 110,
+      "grossSize": 132,
+      "rooms": "3+0",
+      "bathrooms": 1,
+      "age": 5,
+      "floor": 2,
+      "totalFloors": 6,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Unfurnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500287315769?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500294996771?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500894094467?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500213413059?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500663071697?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500704924127?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500425441104?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500988758224?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500011797782?w=800&q=80&category=building"
+    ],
+    "agent": {
+      "id": "A2",
+      "name": "Agent 54",
+      "phone": "+85 616 202 3327",
+      "email": "agent6@iwrealty.com",
+      "photo": "/images/icons/png/paris-heritage-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": false,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-03-19T10:50:47.259Z",
+    "updatedAt": "2025-11-13T10:50:47.259Z",
+    "storeId": "store-010"
+  },
+  {
+    "id": "P07613",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Müstakil Ev - Sierra Leone City",
+    "slug": "satilik-müstakil-ev-sierra-leone-city-P07613",
+    "description": "Sierra Leone City, Sierra Leone bölgesinde müstakil ev. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 1325458,
+    "location": {
+      "country": "SL",
+      "city": "Sierra Leone City",
+      "district": "Sierra Leone City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 638",
+      "coordinates": {
+        "lat": 8.512268120837575,
+        "lng": -11.630302292837063
+      }
+    },
+    "specs": {
+      "netSize": 490,
+      "grossSize": 588,
+      "rooms": "4+1",
+      "bathrooms": 2,
+      "age": 15,
+      "floor": 6,
+      "totalFloors": 7,
+      "heating": "Merkezi",
+      "furnishing": "Furnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500100921232?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500779566212?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500956890521?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500887725095?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500179121589?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500645781281?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500402300999?w=800&q=80&category=building"
+    ],
+    "agent": {
+      "id": "A35",
+      "name": "Agent 92",
+      "phone": "+42 992 218 2362",
+      "email": "agent34@iwrealty.com",
+      "photo": "/images/icons/png/berlin-urban-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-04-02T10:50:47.259Z",
+    "updatedAt": "2025-11-13T10:50:47.259Z",
+    "storeId": "store-009"
+  },
+  {
+    "id": "P07614",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Müstakil Ev - Sierra Leone Central",
+    "slug": "kiralik-müstakil-ev-sierra-leone-central-P07614",
+    "description": "Sierra Leone Central, Sierra Leone bölgesinde müstakil ev. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 10273571,
+    "location": {
+      "country": "SL",
+      "city": "Sierra Leone Central",
+      "district": "Sierra Leone Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 831",
+      "coordinates": {
+        "lat": 8.699806262012817,
+        "lng": -11.781328564961257
+      }
+    },
+    "specs": {
+      "netSize": 277,
+      "grossSize": 332,
+      "rooms": "3+1",
+      "bathrooms": 3,
+      "age": 4,
+      "floor": 13,
+      "totalFloors": 11,
+      "heating": "Merkezi",
+      "furnishing": "Unfurnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500607335199?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500896621421?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500798095393?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500244248327?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500024890802?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500982611518?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500841549581?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500814631164?w=800&q=80&category=real-estate"
+    ],
+    "agent": {
+      "id": "A80",
+      "name": "Agent 83",
+      "phone": "+13 446 931 4746",
+      "email": "agent94@iwrealty.com",
+      "photo": "/images/icons/png/sydney-coastal-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-03-26T10:50:47.259Z",
+    "updatedAt": "2025-11-13T10:50:47.259Z",
+    "storeId": "store-012"
+  },
+  {
+    "id": "P07615",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Villa - New Sierra Leone",
+    "slug": "satilik-villa-new-sierra-leone-P07615",
+    "description": "New Sierra Leone, Sierra Leone bölgesinde villa. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 8913694,
+    "location": {
+      "country": "SL",
+      "city": "New Sierra Leone",
+      "district": "New Sierra Leone Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 614",
+      "coordinates": {
+        "lat": 8.030408550707701,
+        "lng": -11.04252767146633
+      }
+    },
+    "specs": {
+      "netSize": 491,
+      "grossSize": 589,
+      "rooms": "5+2",
+      "bathrooms": 3,
+      "age": 17,
+      "floor": 7,
+      "totalFloors": 9,
+      "heating": "Klima",
+      "furnishing": "Unfurnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500929089341?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500568114752?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500499169670?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500523336464?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500191642945?w=800&q=80&category=architecture"
+    ],
+    "agent": {
+      "id": "A29",
+      "name": "Agent 68",
+      "phone": "+89 776 813 3705",
+      "email": "agent74@iwrealty.com",
+      "photo": "/images/icons/png/berlin-urban-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2024-12-12T10:50:47.259Z",
+    "updatedAt": "2025-11-13T10:50:47.259Z",
+    "storeId": "store-009"
+  },
+  {
+    "id": "P07616",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Villa - Sierra Leone City",
+    "slug": "kiralik-villa-sierra-leone-city-P07616",
+    "description": "Sierra Leone City, Sierra Leone bölgesinde villa. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 9731695,
+    "location": {
+      "country": "SL",
+      "city": "Sierra Leone City",
+      "district": "Sierra Leone City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 385",
+      "coordinates": {
+        "lat": 8.792987154063217,
+        "lng": -11.055149889809504
+      }
+    },
+    "specs": {
+      "netSize": 99,
+      "grossSize": 119,
+      "rooms": "3+0",
+      "bathrooms": 1,
+      "age": 12,
+      "floor": 5,
+      "totalFloors": 6,
+      "heating": "Kombi",
+      "furnishing": "Unfurnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500891663204?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500307379011?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500682733947?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500686434564?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500179589683?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500585928222?w=800&q=80&category=house"
+    ],
+    "agent": {
+      "id": "A6",
+      "name": "Agent 57",
+      "phone": "+78 412 532 3697",
+      "email": "agent95@iwrealty.com",
+      "photo": "/images/icons/png/berlin-urban-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": true,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-03-18T10:50:47.259Z",
+    "updatedAt": "2025-11-13T10:50:47.259Z",
+    "storeId": "store-009"
+  },
+  {
+    "id": "P07617",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Müstakil Ev - Sierra Leone Central",
+    "slug": "satilik-müstakil-ev-sierra-leone-central-P07617",
+    "description": "Sierra Leone Central, Sierra Leone bölgesinde müstakil ev. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 12376800,
+    "location": {
+      "country": "SL",
+      "city": "Sierra Leone Central",
+      "district": "Sierra Leone Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 121",
+      "coordinates": {
+        "lat": 8.447835405946892,
+        "lng": -11.252011683959484
+      }
+    },
+    "specs": {
+      "netSize": 93,
+      "grossSize": 112,
+      "rooms": "2+1",
+      "bathrooms": 4,
+      "age": 12,
+      "floor": 4,
+      "totalFloors": 5,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500456678447?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500362444016?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500531332195?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500764401916?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500450813637?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500957315618?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500742041895?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500680070975?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500181777381?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500535417312?w=800&q=80&category=architecture"
+    ],
+    "agent": {
+      "id": "A77",
+      "name": "Agent 59",
+      "phone": "+85 114 387 9017",
+      "email": "agent13@iwrealty.com",
+      "photo": "/images/icons/png/ankara-modern-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": true,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-04-22T10:50:47.259Z",
+    "updatedAt": "2025-11-13T10:50:47.259Z",
+    "storeId": "store-003"
+  },
+  {
+    "id": "P07618",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Residence - Sierra Leone City",
+    "slug": "kiralik-residence-sierra-leone-city-P07618",
+    "description": "Sierra Leone City, Sierra Leone bölgesinde residence. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 9864394,
+    "location": {
+      "country": "SL",
+      "city": "Sierra Leone City",
+      "district": "Sierra Leone City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 681",
+      "coordinates": {
+        "lat": 8.919931301643759,
+        "lng": -11.666353954151923
+      }
+    },
+    "specs": {
+      "netSize": 233,
+      "grossSize": 280,
+      "rooms": "1+1",
+      "bathrooms": 4,
+      "age": 5,
+      "floor": 3,
+      "totalFloors": 5,
+      "heating": "Merkezi",
+      "furnishing": "Unfurnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500027059115?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500291695315?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500469044751?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500940888902?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500030343638?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500303364287?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500966513868?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500378460682?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500391159550?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500887648041?w=800&q=80&category=interior"
+    ],
+    "agent": {
+      "id": "A20",
+      "name": "Agent 56",
+      "phone": "+63 967 151 5543",
+      "email": "agent78@iwrealty.com",
+      "photo": "/images/icons/png/dubai-property-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": false,
+      "hasBalcony": false,
+      "hasGarden": true,
+      "hasPool": true,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-10-19T10:50:47.259Z",
+    "updatedAt": "2025-11-13T10:50:47.259Z",
+    "storeId": "store-004"
+  },
+  {
+    "id": "P07619",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Müstakil Ev - New Sierra Leone",
+    "slug": "satilik-müstakil-ev-new-sierra-leone-P07619",
+    "description": "New Sierra Leone, Sierra Leone bölgesinde müstakil ev. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 10245993,
+    "location": {
+      "country": "SL",
+      "city": "New Sierra Leone",
+      "district": "New Sierra Leone Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 38",
+      "coordinates": {
+        "lat": 8.874583863524983,
+        "lng": -11.853357706156777
+      }
+    },
+    "specs": {
+      "netSize": 189,
+      "grossSize": 227,
+      "rooms": "3+0",
+      "bathrooms": 3,
+      "age": 3,
+      "floor": 7,
+      "totalFloors": 6,
+      "heating": "Klima",
+      "furnishing": "Unfurnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500395492555?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500914630890?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500799360155?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500671467451?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500064234692?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500585770284?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500100323171?w=800&q=80&category=real-estate"
+    ],
+    "agent": {
+      "id": "A75",
+      "name": "Agent 34",
+      "phone": "+74 850 890 4876",
+      "email": "agent73@iwrealty.com",
+      "photo": "/images/icons/png/sydney-coastal-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-02-03T10:50:47.259Z",
+    "updatedAt": "2025-11-13T10:50:47.259Z",
+    "storeId": "store-012"
+  },
+  {
+    "id": "P07620",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Villa - Sierra Leone Central",
+    "slug": "kiralik-villa-sierra-leone-central-P07620",
+    "description": "Sierra Leone Central, Sierra Leone bölgesinde villa. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 7806902,
+    "location": {
+      "country": "SL",
+      "city": "Sierra Leone Central",
+      "district": "Sierra Leone Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 335",
+      "coordinates": {
+        "lat": 8.082891964007324,
+        "lng": -11.408826213752373
+      }
+    },
+    "specs": {
+      "netSize": 352,
+      "grossSize": 422,
+      "rooms": "5+1",
+      "bathrooms": 3,
+      "age": 0,
+      "floor": 1,
+      "totalFloors": 19,
+      "heating": "Klima",
+      "furnishing": "Furnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500498894636?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500062635224?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500027457859?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500891550465?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500398248938?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500435117793?w=800&q=80&category=house"
+    ],
+    "agent": {
+      "id": "A13",
+      "name": "Agent 96",
+      "phone": "+52 411 625 7614",
+      "email": "agent69@iwrealty.com",
+      "photo": "/images/icons/png/berlin-urban-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": false,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-08-19T10:50:47.259Z",
+    "updatedAt": "2025-11-13T10:50:47.259Z",
+    "storeId": "store-009"
+  },
+  {
+    "id": "P07621",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Daire - Sierra Leone Central",
+    "slug": "satilik-daire-sierra-leone-central-P07621",
+    "description": "Sierra Leone Central, Sierra Leone bölgesinde daire. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 7404094,
+    "location": {
+      "country": "SL",
+      "city": "Sierra Leone Central",
+      "district": "Sierra Leone Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 815",
+      "coordinates": {
+        "lat": 8.404599860312816,
+        "lng": -11.850028157464935
+      }
+    },
+    "specs": {
+      "netSize": 393,
+      "grossSize": 472,
+      "rooms": "2+2",
+      "bathrooms": 3,
+      "age": 10,
+      "floor": 8,
+      "totalFloors": 14,
+      "heating": "Kombi",
+      "furnishing": "Unfurnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500400511897?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500829217111?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500860330688?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500073813982?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500506170843?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500842456326?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500356590668?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500004132500?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500195686643?w=800&q=80&category=interior"
+    ],
+    "agent": {
+      "id": "A33",
+      "name": "Agent 46",
+      "phone": "+78 300 960 9705",
+      "email": "agent32@iwrealty.com",
+      "photo": "/images/icons/png/dubai-property-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2024-12-27T10:50:47.259Z",
+    "updatedAt": "2025-11-13T10:50:47.259Z",
+    "storeId": "store-004"
+  },
+  {
+    "id": "P07622",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Daire - Sierra Leone City",
+    "slug": "kiralik-daire-sierra-leone-city-P07622",
+    "description": "Sierra Leone City, Sierra Leone bölgesinde daire. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 7317526,
+    "location": {
+      "country": "SL",
+      "city": "Sierra Leone City",
+      "district": "Sierra Leone City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 844",
+      "coordinates": {
+        "lat": 8.402791737263712,
+        "lng": -11.037319367988623
+      }
+    },
+    "specs": {
+      "netSize": 451,
+      "grossSize": 541,
+      "rooms": "5+0",
+      "bathrooms": 4,
+      "age": 4,
+      "floor": 3,
+      "totalFloors": 19,
+      "heating": "Kombi",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500068396364?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500805341094?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500887300944?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500274774850?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500881684625?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500158084495?w=800&q=80&category=real-estate"
+    ],
+    "agent": {
+      "id": "A80",
+      "name": "Agent 30",
+      "phone": "+17 371 888 1453",
+      "email": "agent73@iwrealty.com",
+      "photo": "/images/icons/png/luxury-homes-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-04-01T10:50:47.259Z",
+    "updatedAt": "2025-11-13T10:50:47.259Z",
+    "storeId": "store-002"
+  },
+  {
+    "id": "P07623",
+    "type": "sale",
+    "category": {
+      "main": "commercial",
+      "sub": "hospital"
+    },
+    "title": "Satılık Hastane - Sierra Leone City",
+    "slug": "satilik-hastane-sierra-leone-city-P07623",
+    "description": "Sierra Leone City, Sierra Leone bölgesinde hastane. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 70645116,
+    "location": {
+      "country": "SL",
+      "city": "Sierra Leone City",
+      "district": "Sierra Leone City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 176",
+      "coordinates": {
+        "lat": 8.485605472983202,
+        "lng": -11.277884974724914
+      }
+    },
+    "specs": {
+      "netSize": 4552,
+      "grossSize": 5462,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 7,
+      "floor": 13,
+      "totalFloors": 18,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Furnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500757502374?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500541495914?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500410188204?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500906863687?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500728217385?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500905274815?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500346188754?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500038928693?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500337440583?w=800&q=80&category=architecture"
+    ],
+    "agent": {
+      "id": "A30",
+      "name": "Agent 44",
+      "phone": "+23 640 310 1785",
+      "email": "agent64@iwrealty.com",
+      "photo": "/images/icons/png/ankara-modern-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-03-13T10:50:47.259Z",
+    "updatedAt": "2025-11-13T10:50:47.259Z",
+    "storeId": "store-003"
+  },
+  {
+    "id": "P07624",
+    "type": "rent",
+    "category": {
+      "main": "commercial",
+      "sub": "hospital"
+    },
+    "title": "Kiralık Hastane - Sierra Leone City",
+    "slug": "kiralik-hastane-sierra-leone-city-P07624",
+    "description": "Sierra Leone City, Sierra Leone bölgesinde hastane. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 83270335,
+    "location": {
+      "country": "SL",
+      "city": "Sierra Leone City",
+      "district": "Sierra Leone City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 580",
+      "coordinates": {
+        "lat": 8.16377629013708,
+        "lng": -11.720238857422176
+      }
+    },
+    "specs": {
+      "netSize": 17855,
+      "grossSize": 21426,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 13,
+      "floor": 13,
+      "totalFloors": 18,
+      "heating": "Klima",
+      "furnishing": "Unfurnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500828661499?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500736691722?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500978268924?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500114501862?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500498159516?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500952085430?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500058445160?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500663366102?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500015951080?w=800&q=80&category=interior"
+    ],
+    "agent": {
+      "id": "A1",
+      "name": "Agent 46",
+      "phone": "+61 617 816 7649",
+      "email": "agent11@iwrealty.com",
+      "photo": "/images/icons/png/paris-heritage-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-07-04T10:50:47.259Z",
+    "updatedAt": "2025-11-13T10:50:47.259Z",
+    "storeId": "store-010"
+  },
+  {
+    "id": "P07625",
+    "type": "sale",
+    "category": {
+      "main": "commercial",
+      "sub": "clinic"
+    },
+    "title": "Satılık Klinik - Freetown",
+    "slug": "satilik-klinik-freetown-P07625",
+    "description": "Freetown, Sierra Leone bölgesinde klinik. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 19814183,
+    "location": {
+      "country": "SL",
+      "city": "Freetown",
+      "district": "Freetown Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 671",
+      "coordinates": {
+        "lat": 8.70567322243296,
+        "lng": -11.103447666917896
+      }
+    },
+    "specs": {
+      "netSize": 678,
+      "grossSize": 814,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 17,
+      "floor": 4,
+      "totalFloors": 6,
+      "heating": "Klima",
+      "furnishing": "Furnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500435803552?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500328361500?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500370765507?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500292959132?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500167126917?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500916377836?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500087902068?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500994527020?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500627591288?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500116435696?w=800&q=80&category=architecture"
+    ],
+    "agent": {
+      "id": "A37",
+      "name": "Agent 52",
+      "phone": "+18 750 903 3722",
+      "email": "agent66@iwrealty.com",
+      "photo": "/images/icons/png/luxury-homes-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-10-18T10:50:47.259Z",
+    "updatedAt": "2025-11-13T10:50:47.259Z",
+    "storeId": "store-002"
+  },
+  {
+    "id": "P07626",
+    "type": "rent",
+    "category": {
+      "main": "commercial",
+      "sub": "clinic"
+    },
+    "title": "Kiralık Klinik - New Sierra Leone",
+    "slug": "kiralik-klinik-new-sierra-leone-P07626",
+    "description": "New Sierra Leone, Sierra Leone bölgesinde klinik. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 8311285,
+    "location": {
+      "country": "SL",
+      "city": "New Sierra Leone",
+      "district": "New Sierra Leone Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 214",
+      "coordinates": {
+        "lat": 8.695706657130202,
+        "lng": -11.324074912251737
+      }
+    },
+    "specs": {
+      "netSize": 1143,
+      "grossSize": 1372,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 19,
+      "floor": 6,
+      "totalFloors": 8,
+      "heating": "Kombi",
+      "furnishing": "Furnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500408331240?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500676318951?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500774370639?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500355649696?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500589838769?w=800&q=80&category=building"
+    ],
+    "agent": {
+      "id": "A33",
+      "name": "Agent 96",
+      "phone": "+44 903 968 9407",
+      "email": "agent71@iwrealty.com",
+      "photo": "/images/icons/png/london-prime-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-06-05T10:50:47.259Z",
+    "updatedAt": "2025-11-13T10:50:47.259Z",
+    "storeId": "store-007"
+  },
+  {
+    "id": "P07627",
+    "type": "sale",
+    "category": {
+      "main": "commercial",
+      "sub": "shop"
+    },
+    "title": "Satılık Dükkan - Sierra Leone City",
+    "slug": "satilik-dükkan-sierra-leone-city-P07627",
+    "description": "Sierra Leone City, Sierra Leone bölgesinde dükkan. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 5736054,
+    "location": {
+      "country": "SL",
+      "city": "Sierra Leone City",
+      "district": "Sierra Leone City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 307",
+      "coordinates": {
+        "lat": 8.83945129201213,
+        "lng": -11.81262918441316
+      }
+    },
+    "specs": {
+      "netSize": 352,
+      "grossSize": 422,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 5,
+      "floor": 1,
+      "totalFloors": 14,
+      "heating": "Merkezi",
+      "furnishing": "Furnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500869315516?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500339065291?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500007751329?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500851268979?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500472687514?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500104919300?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500838067157?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500085290576?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500734380028?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500879910345?w=800&q=80&category=building"
+    ],
+    "agent": {
+      "id": "A56",
+      "name": "Agent 94",
+      "phone": "+24 649 262 4885",
+      "email": "agent30@iwrealty.com",
+      "photo": "/images/icons/png/paris-heritage-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-01-09T10:50:47.259Z",
+    "updatedAt": "2025-11-13T10:50:47.259Z",
+    "storeId": "store-010"
+  },
+  {
+    "id": "P07628",
+    "type": "rent",
+    "category": {
+      "main": "commercial",
+      "sub": "shop"
+    },
+    "title": "Kiralık Dükkan - Sierra Leone Central",
+    "slug": "kiralik-dükkan-sierra-leone-central-P07628",
+    "description": "Sierra Leone Central, Sierra Leone bölgesinde dükkan. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 1416915,
+    "location": {
+      "country": "SL",
+      "city": "Sierra Leone Central",
+      "district": "Sierra Leone Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 580",
+      "coordinates": {
+        "lat": 8.511529317550934,
+        "lng": -11.667146364133862
+      }
+    },
+    "specs": {
+      "netSize": 268,
+      "grossSize": 322,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 13,
+      "floor": 13,
+      "totalFloors": 11,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Unfurnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500076450250?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500348669537?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500383128068?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500444914975?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500052386768?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500547253415?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500563213067?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500956844831?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500152671853?w=800&q=80&category=building"
+    ],
+    "agent": {
+      "id": "A28",
+      "name": "Agent 99",
+      "phone": "+31 732 522 5372",
+      "email": "agent75@iwrealty.com",
+      "photo": "/images/icons/png/izmir-sahil-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": true,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-05-31T10:50:47.259Z",
+    "updatedAt": "2025-11-13T10:50:47.259Z",
+    "storeId": "store-005"
+  },
+  {
+    "id": "P07629",
+    "type": "sale",
+    "category": {
+      "main": "commercial",
+      "sub": "office"
+    },
+    "title": "Satılık Ofis - New Sierra Leone",
+    "slug": "satilik-ofis-new-sierra-leone-P07629",
+    "description": "New Sierra Leone, Sierra Leone bölgesinde ofis. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 6704707,
+    "location": {
+      "country": "SL",
+      "city": "New Sierra Leone",
+      "district": "New Sierra Leone Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 890",
+      "coordinates": {
+        "lat": 8.934463997725041,
+        "lng": -11.611590722985904
+      }
+    },
+    "specs": {
+      "netSize": 688,
+      "grossSize": 826,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 4,
+      "floor": 5,
+      "totalFloors": 14,
+      "heating": "Klima",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500720152159?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500665082599?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500017788519?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500734328998?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500039309124?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500166334526?w=800&q=80&category=real-estate"
+    ],
+    "agent": {
+      "id": "A17",
+      "name": "Agent 2",
+      "phone": "+81 501 992 6107",
+      "email": "agent47@iwrealty.com",
+      "photo": "/images/icons/png/ny-skyline-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-05-28T10:50:47.259Z",
+    "updatedAt": "2025-11-13T10:50:47.259Z",
+    "storeId": "store-008"
+  },
+  {
+    "id": "P07630",
+    "type": "rent",
+    "category": {
+      "main": "commercial",
+      "sub": "office"
+    },
+    "title": "Kiralık Ofis - New Sierra Leone",
+    "slug": "kiralik-ofis-new-sierra-leone-P07630",
+    "description": "New Sierra Leone, Sierra Leone bölgesinde ofis. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 8988261,
+    "location": {
+      "country": "SL",
+      "city": "New Sierra Leone",
+      "district": "New Sierra Leone Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 787",
+      "coordinates": {
+        "lat": 8.421154254686167,
+        "lng": -11.039961750146347
+      }
+    },
+    "specs": {
+      "netSize": 174,
+      "grossSize": 209,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 10,
+      "floor": 5,
+      "totalFloors": 8,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500442877049?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500619859554?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500739413925?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500100782984?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500149030832?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500257455283?w=800&q=80&category=architecture"
+    ],
+    "agent": {
+      "id": "A83",
+      "name": "Agent 81",
+      "phone": "+15 151 204 6230",
+      "email": "agent60@iwrealty.com",
+      "photo": "/images/icons/png/antalya-investment-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-09-13T10:50:47.259Z",
+    "updatedAt": "2025-11-13T10:50:47.259Z",
+    "storeId": "store-006"
+  },
+  {
+    "id": "P07631",
+    "type": "sale",
+    "category": {
+      "main": "commercial",
+      "sub": "mall"
+    },
+    "title": "Satılık AVM - Freetown",
+    "slug": "satilik-avm-freetown-P07631",
+    "description": "Freetown, Sierra Leone bölgesinde avm. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 220368793,
+    "location": {
+      "country": "SL",
+      "city": "Freetown",
+      "district": "Freetown Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 821",
+      "coordinates": {
+        "lat": 8.872696642961824,
+        "lng": -11.743802288980994
+      }
+    },
+    "specs": {
+      "netSize": 36980,
+      "grossSize": 44376,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 2,
+      "floor": 12,
+      "totalFloors": 10,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Unfurnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500595814309?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500338422400?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500604418251?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500987127757?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500216289202?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500575910637?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500547727139?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500312321524?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500290248659?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500839610998?w=800&q=80&category=building"
+    ],
+    "agent": {
+      "id": "A19",
+      "name": "Agent 19",
+      "phone": "+21 351 775 5676",
+      "email": "agent52@iwrealty.com",
+      "photo": "/images/icons/png/ny-skyline-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": true,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-10-17T10:50:47.259Z",
+    "updatedAt": "2025-11-13T10:50:47.259Z",
+    "storeId": "store-008"
+  },
+  {
+    "id": "P07632",
+    "type": "rent",
+    "category": {
+      "main": "commercial",
+      "sub": "mall"
+    },
+    "title": "Kiralık AVM - Freetown",
+    "slug": "kiralik-avm-freetown-P07632",
+    "description": "Freetown, Sierra Leone bölgesinde avm. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 106811875,
+    "location": {
+      "country": "SL",
+      "city": "Freetown",
+      "district": "Freetown Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 675",
+      "coordinates": {
+        "lat": 8.575953071117127,
+        "lng": -11.345173829325258
+      }
+    },
+    "specs": {
+      "netSize": 15039,
+      "grossSize": 18047,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 13,
+      "floor": 15,
+      "totalFloors": 16,
+      "heating": "Merkezi",
+      "furnishing": "Unfurnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500849069339?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500467567706?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500214150901?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500329082681?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500029712016?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500253928969?w=800&q=80&category=building"
+    ],
+    "agent": {
+      "id": "A10",
+      "name": "Agent 31",
+      "phone": "+52 815 950 1784",
+      "email": "agent33@iwrealty.com",
+      "photo": "/images/icons/png/berlin-urban-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": false,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-02-19T10:50:47.259Z",
+    "updatedAt": "2025-11-13T10:50:47.259Z",
+    "storeId": "store-009"
+  },
+  {
+    "id": "P07633",
+    "type": "sale",
+    "category": {
+      "main": "commercial",
+      "sub": "hotel"
+    },
+    "title": "Satılık Otel - New Sierra Leone",
+    "slug": "satilik-otel-new-sierra-leone-P07633",
+    "description": "New Sierra Leone, Sierra Leone bölgesinde otel. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 161466119,
+    "location": {
+      "country": "SL",
+      "city": "New Sierra Leone",
+      "district": "New Sierra Leone Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 909",
+      "coordinates": {
+        "lat": 8.534800511022706,
+        "lng": -11.498988679993348
+      }
+    },
+    "specs": {
+      "netSize": 19193,
+      "grossSize": 23032,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 15,
+      "floor": 5,
+      "totalFloors": 12,
+      "heating": "Kombi",
+      "furnishing": "Furnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500277554574?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500307615798?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500438680479?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500639114507?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500014712392?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500778908452?w=800&q=80&category=real-estate"
+    ],
+    "agent": {
+      "id": "A18",
+      "name": "Agent 85",
+      "phone": "+34 447 687 1480",
+      "email": "agent95@iwrealty.com",
+      "photo": "/images/icons/png/berlin-urban-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": false,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-03-07T10:50:47.259Z",
+    "updatedAt": "2025-11-13T10:50:47.259Z",
+    "storeId": "store-009"
+  },
+  {
+    "id": "P07634",
+    "type": "rent",
+    "category": {
+      "main": "commercial",
+      "sub": "hotel"
+    },
+    "title": "Kiralık Otel - New Sierra Leone",
+    "slug": "kiralik-otel-new-sierra-leone-P07634",
+    "description": "New Sierra Leone, Sierra Leone bölgesinde otel. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 81235826,
+    "location": {
+      "country": "SL",
+      "city": "New Sierra Leone",
+      "district": "New Sierra Leone Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 254",
+      "coordinates": {
+        "lat": 8.926297550891743,
+        "lng": -11.260564698888125
+      }
+    },
+    "specs": {
+      "netSize": 21727,
+      "grossSize": 26072,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 2,
+      "floor": 10,
+      "totalFloors": 16,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500627067397?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500576019807?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500499635230?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500543820740?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500804515446?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500092934230?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500481463875?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500105120047?w=800&q=80&category=interior"
+    ],
+    "agent": {
+      "id": "A66",
+      "name": "Agent 78",
+      "phone": "+64 235 440 9449",
+      "email": "agent16@iwrealty.com",
+      "photo": "/images/icons/png/paris-heritage-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": true,
+      "hasPool": true,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-06-20T10:50:47.259Z",
+    "updatedAt": "2025-11-13T10:50:47.259Z",
+    "storeId": "store-010"
+  },
+  {
+    "id": "P07635",
+    "type": "sale",
+    "category": {
+      "main": "commercial",
+      "sub": "restaurant"
+    },
+    "title": "Satılık Restoran - Sierra Leone Central",
+    "slug": "satilik-restoran-sierra-leone-central-P07635",
+    "description": "Sierra Leone Central, Sierra Leone bölgesinde restoran. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 9339858,
+    "location": {
+      "country": "SL",
+      "city": "Sierra Leone Central",
+      "district": "Sierra Leone Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 362",
+      "coordinates": {
+        "lat": 8.702461184235993,
+        "lng": -11.448439015752848
+      }
+    },
+    "specs": {
+      "netSize": 1313,
+      "grossSize": 1576,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 12,
+      "floor": 1,
+      "totalFloors": 6,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Unfurnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500028579862?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500745588128?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500138388961?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500264437132?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500527595135?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500810373336?w=800&q=80&category=building"
+    ],
+    "agent": {
+      "id": "A74",
+      "name": "Agent 94",
+      "phone": "+10 407 186 5496",
+      "email": "agent11@iwrealty.com",
+      "photo": "/images/icons/png/antalya-investment-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2024-12-13T10:50:47.259Z",
+    "updatedAt": "2025-11-13T10:50:47.259Z",
+    "storeId": "store-006"
+  },
+  {
+    "id": "P07636",
+    "type": "rent",
+    "category": {
+      "main": "commercial",
+      "sub": "restaurant"
+    },
+    "title": "Kiralık Restoran - Sierra Leone Central",
+    "slug": "kiralik-restoran-sierra-leone-central-P07636",
+    "description": "Sierra Leone Central, Sierra Leone bölgesinde restoran. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 3887882,
+    "location": {
+      "country": "SL",
+      "city": "Sierra Leone Central",
+      "district": "Sierra Leone Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 390",
+      "coordinates": {
+        "lat": 8.753156379346137,
+        "lng": -11.090698825233249
+      }
+    },
+    "specs": {
+      "netSize": 423,
+      "grossSize": 508,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 11,
+      "floor": 13,
+      "totalFloors": 6,
+      "heating": "Kombi",
+      "furnishing": "Furnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500491827375?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500578418889?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500198615286?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500597168580?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500071207745?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500956678724?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500620720532?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500838566014?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500795013637?w=800&q=80&category=house"
+    ],
+    "agent": {
+      "id": "A10",
+      "name": "Agent 67",
+      "phone": "+65 297 622 7672",
+      "email": "agent47@iwrealty.com",
+      "photo": "/images/icons/png/luxury-homes-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": false,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": true,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-06-12T10:50:47.259Z",
+    "updatedAt": "2025-11-13T10:50:47.259Z",
+    "storeId": "store-002"
+  },
+  {
+    "id": "P07637",
+    "type": "sale",
+    "category": {
+      "main": "commercial",
+      "sub": "warehouse"
+    },
+    "title": "Satılık Depo - Freetown",
+    "slug": "satilik-depo-freetown-P07637",
+    "description": "Freetown, Sierra Leone bölgesinde depo. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 25991479,
+    "location": {
+      "country": "SL",
+      "city": "Freetown",
+      "district": "Freetown Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 572",
+      "coordinates": {
+        "lat": 8.663871362012825,
+        "lng": -11.77270335075053
+      }
+    },
+    "specs": {
+      "netSize": 9342,
+      "grossSize": 11210,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 6,
+      "floor": 9,
+      "totalFloors": 17,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Unfurnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500013118177?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500717822333?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500719942282?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500683011569?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500971208079?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500929386562?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500014145245?w=800&q=80&category=house"
+    ],
+    "agent": {
+      "id": "A85",
+      "name": "Agent 11",
+      "phone": "+20 152 209 7975",
+      "email": "agent24@iwrealty.com",
+      "photo": "/images/icons/png/sydney-coastal-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-07-05T10:50:47.259Z",
+    "updatedAt": "2025-11-13T10:50:47.259Z",
+    "storeId": "store-012"
+  },
+  {
+    "id": "P07638",
+    "type": "rent",
+    "category": {
+      "main": "commercial",
+      "sub": "warehouse"
+    },
+    "title": "Kiralık Depo - New Sierra Leone",
+    "slug": "kiralik-depo-new-sierra-leone-P07638",
+    "description": "New Sierra Leone, Sierra Leone bölgesinde depo. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 7674185,
+    "location": {
+      "country": "SL",
+      "city": "New Sierra Leone",
+      "district": "New Sierra Leone Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 578",
+      "coordinates": {
+        "lat": 8.798119530478099,
+        "lng": -11.265711132693962
+      }
+    },
+    "specs": {
+      "netSize": 531,
+      "grossSize": 637,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 20,
+      "floor": 15,
+      "totalFloors": 8,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Unfurnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500514955368?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500691176791?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500755167315?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500836997245?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500175529857?w=800&q=80&category=building"
+    ],
+    "agent": {
+      "id": "A43",
+      "name": "Agent 92",
+      "phone": "+66 456 955 3981",
+      "email": "agent82@iwrealty.com",
+      "photo": "/images/icons/png/antalya-investment-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-10-13T10:50:47.259Z",
+    "updatedAt": "2025-11-13T10:50:47.259Z",
+    "storeId": "store-006"
+  }
+]

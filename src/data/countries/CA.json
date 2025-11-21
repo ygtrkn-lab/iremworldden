@@ -1,0 +1,2359 @@
+[
+  {
+    "id": "P01521",
+    "type": "sale",
+    "category": {
+      "main": "government"
+    },
+    "title": "Satılık Belediye Binası - New Canada",
+    "slug": "satilik-belediye-binası-new-canada-P01521",
+    "description": "New Canada, Canada bölgesinde belediye binası. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 16100871,
+    "location": {
+      "country": "CA",
+      "city": "New Canada",
+      "district": "New Canada Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 458",
+      "coordinates": {
+        "lat": 60.249664839586316,
+        "lng": -94.69984763322711
+      }
+    },
+    "specs": {
+      "netSize": 4872,
+      "grossSize": 5846,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 18,
+      "floor": 14,
+      "totalFloors": 19,
+      "heating": "Klima",
+      "furnishing": "Furnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500999660684?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500665139003?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500745920130?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500090283874?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500889982276?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500810652378?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500749690253?w=800&q=80&category=real-estate"
+    ],
+    "agent": {
+      "id": "A66",
+      "name": "Agent 46",
+      "phone": "+22 191 567 3664",
+      "email": "agent90@iwrealty.com",
+      "photo": "/images/icons/png/ny-skyline-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": false,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": true,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-02-01T10:50:47.194Z",
+    "updatedAt": "2025-11-13T10:50:47.194Z",
+    "storeId": "store-008"
+  },
+  {
+    "id": "P01522",
+    "type": "rent",
+    "category": {
+      "main": "government"
+    },
+    "title": "Kiralık Devlet Binası - Canada City",
+    "slug": "kiralik-devlet-binası-canada-city-P01522",
+    "description": "Canada City, Canada bölgesinde devlet binası. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 17826185,
+    "location": {
+      "country": "CA",
+      "city": "Canada City",
+      "district": "Canada City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 192",
+      "coordinates": {
+        "lat": 59.88977775726389,
+        "lng": -95.46465902685395
+      }
+    },
+    "specs": {
+      "netSize": 4916,
+      "grossSize": 5899,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 4,
+      "floor": 14,
+      "totalFloors": 8,
+      "heating": "Kombi",
+      "furnishing": "Furnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500894320856?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500566750635?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500328453993?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500455924138?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500916106054?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500079271802?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500701951064?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500017477427?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500046930240?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500757545184?w=800&q=80&category=real-estate"
+    ],
+    "agent": {
+      "id": "A51",
+      "name": "Agent 44",
+      "phone": "+45 159 501 3238",
+      "email": "agent6@iwrealty.com",
+      "photo": "/images/icons/png/london-prime-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": false,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": true,
+      "hasSecurity": true
+    },
+    "createdAt": "2024-12-28T10:50:47.194Z",
+    "updatedAt": "2025-11-13T10:50:47.194Z",
+    "storeId": "store-007"
+  },
+  {
+    "id": "P01523",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Müstakil Ev - Canada Central",
+    "slug": "satilik-müstakil-ev-canada-central-P01523",
+    "description": "Canada Central, Canada bölgesinde müstakil ev. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 1930722,
+    "location": {
+      "country": "CA",
+      "city": "Canada Central",
+      "district": "Canada Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 858",
+      "coordinates": {
+        "lat": 59.751039093121,
+        "lng": -95.35261956252249
+      }
+    },
+    "specs": {
+      "netSize": 426,
+      "grossSize": 511,
+      "rooms": "3+2",
+      "bathrooms": 1,
+      "age": 12,
+      "floor": 4,
+      "totalFloors": 13,
+      "heating": "Kombi",
+      "furnishing": "Unfurnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500709703204?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500290668473?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500838983840?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500207771969?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500611037192?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500975041518?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500983276215?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500366453571?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500784489833?w=800&q=80&category=interior"
+    ],
+    "agent": {
+      "id": "A95",
+      "name": "Agent 93",
+      "phone": "+31 412 673 8914",
+      "email": "agent59@iwrealty.com",
+      "photo": "/images/icons/png/ankara-modern-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-08-29T10:50:47.194Z",
+    "updatedAt": "2025-11-13T10:50:47.194Z",
+    "storeId": "store-003"
+  },
+  {
+    "id": "P01524",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Daire - Canada Central",
+    "slug": "kiralik-daire-canada-central-P01524",
+    "description": "Canada Central, Canada bölgesinde daire. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 3271278,
+    "location": {
+      "country": "CA",
+      "city": "Canada Central",
+      "district": "Canada Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 40",
+      "coordinates": {
+        "lat": 60.096729137271645,
+        "lng": -94.98560626627108
+      }
+    },
+    "specs": {
+      "netSize": 278,
+      "grossSize": 334,
+      "rooms": "5+2",
+      "bathrooms": 2,
+      "age": 19,
+      "floor": 2,
+      "totalFloors": 18,
+      "heating": "Merkezi",
+      "furnishing": "Furnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500677788116?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500093278255?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500325383084?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500208357197?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500869932012?w=800&q=80&category=interior"
+    ],
+    "agent": {
+      "id": "A75",
+      "name": "Agent 42",
+      "phone": "+95 991 119 1019",
+      "email": "agent44@iwrealty.com",
+      "photo": "/images/icons/png/izmir-sahil-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": true,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-05-27T10:50:47.194Z",
+    "updatedAt": "2025-11-13T10:50:47.194Z",
+    "storeId": "store-005"
+  },
+  {
+    "id": "P01525",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Daire - Canada City",
+    "slug": "satilik-daire-canada-city-P01525",
+    "description": "Canada City, Canada bölgesinde daire. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 11658630,
+    "location": {
+      "country": "CA",
+      "city": "Canada City",
+      "district": "Canada City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 670",
+      "coordinates": {
+        "lat": 59.50254027163367,
+        "lng": -94.62517412880254
+      }
+    },
+    "specs": {
+      "netSize": 320,
+      "grossSize": 384,
+      "rooms": "2+0",
+      "bathrooms": 1,
+      "age": 6,
+      "floor": 10,
+      "totalFloors": 5,
+      "heating": "Merkezi",
+      "furnishing": "Furnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500412546509?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500918214198?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500933875999?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500836117395?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500678716523?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500857165217?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500009748433?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500117800677?w=800&q=80&category=building"
+    ],
+    "agent": {
+      "id": "A17",
+      "name": "Agent 43",
+      "phone": "+99 112 883 1520",
+      "email": "agent49@iwrealty.com",
+      "photo": "/images/icons/png/ny-skyline-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": false,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2024-12-15T10:50:47.194Z",
+    "updatedAt": "2025-11-13T10:50:47.194Z",
+    "storeId": "store-008"
+  },
+  {
+    "id": "P01526",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Daire - Canada Central",
+    "slug": "kiralik-daire-canada-central-P01526",
+    "description": "Canada Central, Canada bölgesinde daire. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 14049137,
+    "location": {
+      "country": "CA",
+      "city": "Canada Central",
+      "district": "Canada Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 755",
+      "coordinates": {
+        "lat": 60.05944439788681,
+        "lng": -95.24622935816996
+      }
+    },
+    "specs": {
+      "netSize": 343,
+      "grossSize": 412,
+      "rooms": "3+2",
+      "bathrooms": 4,
+      "age": 20,
+      "floor": 6,
+      "totalFloors": 15,
+      "heating": "Kombi",
+      "furnishing": "Unfurnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500848969347?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500922884170?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500554684290?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500475843727?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500785642216?w=800&q=80&category=building"
+    ],
+    "agent": {
+      "id": "A29",
+      "name": "Agent 64",
+      "phone": "+82 737 536 4165",
+      "email": "agent75@iwrealty.com",
+      "photo": "/images/icons/png/sydney-coastal-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-03-30T10:50:47.194Z",
+    "updatedAt": "2025-11-13T10:50:47.194Z",
+    "storeId": "store-012"
+  },
+  {
+    "id": "P01527",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Müstakil Ev - Canada City",
+    "slug": "satilik-müstakil-ev-canada-city-P01527",
+    "description": "Canada City, Canada bölgesinde müstakil ev. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 6984219,
+    "location": {
+      "country": "CA",
+      "city": "Canada City",
+      "district": "Canada City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 781",
+      "coordinates": {
+        "lat": 60.31899673388878,
+        "lng": -94.93333179567485
+      }
+    },
+    "specs": {
+      "netSize": 155,
+      "grossSize": 186,
+      "rooms": "1+0",
+      "bathrooms": 4,
+      "age": 18,
+      "floor": 14,
+      "totalFloors": 6,
+      "heating": "Merkezi",
+      "furnishing": "Unfurnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500897038820?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500818566115?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500713669852?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500451491218?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500248244621?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500113348291?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500505753379?w=800&q=80&category=building"
+    ],
+    "agent": {
+      "id": "A42",
+      "name": "Agent 66",
+      "phone": "+93 207 396 8349",
+      "email": "agent37@iwrealty.com",
+      "photo": "/images/icons/png/sydney-coastal-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-10-09T10:50:47.194Z",
+    "updatedAt": "2025-11-13T10:50:47.194Z",
+    "storeId": "store-012"
+  },
+  {
+    "id": "P01528",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Müstakil Ev - New Canada",
+    "slug": "kiralik-müstakil-ev-new-canada-P01528",
+    "description": "New Canada, Canada bölgesinde müstakil ev. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 10012269,
+    "location": {
+      "country": "CA",
+      "city": "New Canada",
+      "district": "New Canada Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 571",
+      "coordinates": {
+        "lat": 59.862103910454735,
+        "lng": -94.80239214378011
+      }
+    },
+    "specs": {
+      "netSize": 175,
+      "grossSize": 210,
+      "rooms": "1+2",
+      "bathrooms": 3,
+      "age": 6,
+      "floor": 10,
+      "totalFloors": 8,
+      "heating": "Kombi",
+      "furnishing": "Unfurnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500813608255?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500373055306?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500380474898?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500678768251?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500059982470?w=800&q=80&category=building"
+    ],
+    "agent": {
+      "id": "A14",
+      "name": "Agent 73",
+      "phone": "+78 486 653 1521",
+      "email": "agent94@iwrealty.com",
+      "photo": "/images/icons/png/dubai-property-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": true,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-02-24T10:50:47.194Z",
+    "updatedAt": "2025-11-13T10:50:47.194Z",
+    "storeId": "store-004"
+  },
+  {
+    "id": "P01529",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Müstakil Ev - New Canada",
+    "slug": "satilik-müstakil-ev-new-canada-P01529",
+    "description": "New Canada, Canada bölgesinde müstakil ev. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 833600,
+    "location": {
+      "country": "CA",
+      "city": "New Canada",
+      "district": "New Canada Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 903",
+      "coordinates": {
+        "lat": 59.58518691461257,
+        "lng": -95.35725682819906
+      }
+    },
+    "specs": {
+      "netSize": 372,
+      "grossSize": 446,
+      "rooms": "2+2",
+      "bathrooms": 4,
+      "age": 18,
+      "floor": 3,
+      "totalFloors": 5,
+      "heating": "Kombi",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500190718662?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500102537272?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500118415298?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500689670378?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500990864728?w=800&q=80&category=building"
+    ],
+    "agent": {
+      "id": "A66",
+      "name": "Agent 60",
+      "phone": "+37 204 969 8608",
+      "email": "agent70@iwrealty.com",
+      "photo": "/images/icons/png/sydney-coastal-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": true,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-07-14T10:50:47.194Z",
+    "updatedAt": "2025-11-13T10:50:47.194Z",
+    "storeId": "store-012"
+  },
+  {
+    "id": "P01530",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Villa - Ottawa",
+    "slug": "kiralik-villa-ottawa-P01530",
+    "description": "Ottawa, Canada bölgesinde villa. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 8050736,
+    "location": {
+      "country": "CA",
+      "city": "Ottawa",
+      "district": "Ottawa Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 716",
+      "coordinates": {
+        "lat": 59.761929113527685,
+        "lng": -95.25453495064367
+      }
+    },
+    "specs": {
+      "netSize": 261,
+      "grossSize": 313,
+      "rooms": "4+2",
+      "bathrooms": 2,
+      "age": 5,
+      "floor": 11,
+      "totalFloors": 17,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500560017924?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500277846531?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500325905954?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500159953116?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500092066927?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500714334973?w=800&q=80&category=interior"
+    ],
+    "agent": {
+      "id": "A44",
+      "name": "Agent 5",
+      "phone": "+78 916 177 2419",
+      "email": "agent7@iwrealty.com",
+      "photo": "/images/icons/png/luxury-homes-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-09-25T10:50:47.194Z",
+    "updatedAt": "2025-11-13T10:50:47.194Z",
+    "storeId": "store-002"
+  },
+  {
+    "id": "P01531",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Müstakil Ev - Canada Central",
+    "slug": "satilik-müstakil-ev-canada-central-P01531",
+    "description": "Canada Central, Canada bölgesinde müstakil ev. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 6983093,
+    "location": {
+      "country": "CA",
+      "city": "Canada Central",
+      "district": "Canada Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 722",
+      "coordinates": {
+        "lat": 59.62265429354859,
+        "lng": -95.18581474765386
+      }
+    },
+    "specs": {
+      "netSize": 351,
+      "grossSize": 421,
+      "rooms": "5+0",
+      "bathrooms": 2,
+      "age": 20,
+      "floor": 5,
+      "totalFloors": 20,
+      "heating": "Kombi",
+      "furnishing": "Furnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500744128723?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500818354710?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500155520098?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500408201381?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500710945344?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500934118211?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500509578899?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500456019997?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500989197605?w=800&q=80&category=interior"
+    ],
+    "agent": {
+      "id": "A90",
+      "name": "Agent 88",
+      "phone": "+27 981 821 7854",
+      "email": "agent59@iwrealty.com",
+      "photo": "/images/icons/png/izmir-sahil-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": true,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-07-30T10:50:47.194Z",
+    "updatedAt": "2025-11-13T10:50:47.194Z",
+    "storeId": "store-005"
+  },
+  {
+    "id": "P01532",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Daire - Ottawa",
+    "slug": "kiralik-daire-ottawa-P01532",
+    "description": "Ottawa, Canada bölgesinde daire. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 2013322,
+    "location": {
+      "country": "CA",
+      "city": "Ottawa",
+      "district": "Ottawa Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 403",
+      "coordinates": {
+        "lat": 60.454421159585316,
+        "lng": -95.21185378219609
+      }
+    },
+    "specs": {
+      "netSize": 118,
+      "grossSize": 142,
+      "rooms": "3+2",
+      "bathrooms": 1,
+      "age": 17,
+      "floor": 14,
+      "totalFloors": 9,
+      "heating": "Merkezi",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500884755621?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500155044389?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500434925553?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500306559910?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500970400473?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500552105380?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500298156051?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500551415345?w=800&q=80&category=interior"
+    ],
+    "agent": {
+      "id": "A100",
+      "name": "Agent 8",
+      "phone": "+27 386 445 1395",
+      "email": "agent32@iwrealty.com",
+      "photo": "/images/icons/png/london-prime-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-07-15T10:50:47.194Z",
+    "updatedAt": "2025-11-13T10:50:47.194Z",
+    "storeId": "store-007"
+  },
+  {
+    "id": "P01533",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Daire - Ottawa",
+    "slug": "satilik-daire-ottawa-P01533",
+    "description": "Ottawa, Canada bölgesinde daire. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 4586378,
+    "location": {
+      "country": "CA",
+      "city": "Ottawa",
+      "district": "Ottawa Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 164",
+      "coordinates": {
+        "lat": 59.74980430482629,
+        "lng": -95.47583399067973
+      }
+    },
+    "specs": {
+      "netSize": 112,
+      "grossSize": 134,
+      "rooms": "4+0",
+      "bathrooms": 2,
+      "age": 6,
+      "floor": 2,
+      "totalFloors": 8,
+      "heating": "Merkezi",
+      "furnishing": "Unfurnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500005843961?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500879424570?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500324563182?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500750608651?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500266993556?w=800&q=80&category=building"
+    ],
+    "agent": {
+      "id": "A74",
+      "name": "Agent 77",
+      "phone": "+51 568 802 7393",
+      "email": "agent31@iwrealty.com",
+      "photo": "/images/icons/png/izmir-sahil-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": false,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": true,
+      "hasSecurity": true
+    },
+    "createdAt": "2024-12-16T10:50:47.194Z",
+    "updatedAt": "2025-11-13T10:50:47.194Z",
+    "storeId": "store-005"
+  },
+  {
+    "id": "P01534",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Müstakil Ev - New Canada",
+    "slug": "kiralik-müstakil-ev-new-canada-P01534",
+    "description": "New Canada, Canada bölgesinde müstakil ev. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 11767355,
+    "location": {
+      "country": "CA",
+      "city": "New Canada",
+      "district": "New Canada Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 63",
+      "coordinates": {
+        "lat": 59.933162317487614,
+        "lng": -95.48444770059315
+      }
+    },
+    "specs": {
+      "netSize": 201,
+      "grossSize": 241,
+      "rooms": "1+1",
+      "bathrooms": 2,
+      "age": 16,
+      "floor": 5,
+      "totalFloors": 17,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Furnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500992460054?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500853266383?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500998159279?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500256110319?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500702869483?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500616344646?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500661110011?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500791391138?w=800&q=80&category=building"
+    ],
+    "agent": {
+      "id": "A35",
+      "name": "Agent 70",
+      "phone": "+66 617 630 6054",
+      "email": "agent18@iwrealty.com",
+      "photo": "/images/icons/png/sg-harbour-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2024-12-27T10:50:47.194Z",
+    "updatedAt": "2025-11-13T10:50:47.194Z",
+    "storeId": "store-011"
+  },
+  {
+    "id": "P01535",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Villa - Ottawa",
+    "slug": "satilik-villa-ottawa-P01535",
+    "description": "Ottawa, Canada bölgesinde villa. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 1849640,
+    "location": {
+      "country": "CA",
+      "city": "Ottawa",
+      "district": "Ottawa Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 904",
+      "coordinates": {
+        "lat": 59.760100859973036,
+        "lng": -94.79298370857511
+      }
+    },
+    "specs": {
+      "netSize": 268,
+      "grossSize": 322,
+      "rooms": "2+0",
+      "bathrooms": 3,
+      "age": 14,
+      "floor": 8,
+      "totalFloors": 5,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500125264949?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500283327429?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500651064679?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500208450942?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500287842940?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500255606634?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500139338634?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500751413559?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500222335366?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500977869356?w=800&q=80&category=house"
+    ],
+    "agent": {
+      "id": "A77",
+      "name": "Agent 39",
+      "phone": "+11 319 518 8346",
+      "email": "agent20@iwrealty.com",
+      "photo": "/images/icons/png/ny-skyline-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": false,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": true,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-04-30T10:50:47.194Z",
+    "updatedAt": "2025-11-13T10:50:47.194Z",
+    "storeId": "store-008"
+  },
+  {
+    "id": "P01536",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Residence - New Canada",
+    "slug": "kiralik-residence-new-canada-P01536",
+    "description": "New Canada, Canada bölgesinde residence. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 11430864,
+    "location": {
+      "country": "CA",
+      "city": "New Canada",
+      "district": "New Canada Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 452",
+      "coordinates": {
+        "lat": 60.33000574662926,
+        "lng": -95.13786157737094
+      }
+    },
+    "specs": {
+      "netSize": 415,
+      "grossSize": 498,
+      "rooms": "4+1",
+      "bathrooms": 2,
+      "age": 3,
+      "floor": 2,
+      "totalFloors": 15,
+      "heating": "Kombi",
+      "furnishing": "Unfurnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500020247568?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500988496339?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500354860059?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500432995418?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500406843053?w=800&q=80&category=building"
+    ],
+    "agent": {
+      "id": "A30",
+      "name": "Agent 55",
+      "phone": "+22 501 861 2571",
+      "email": "agent54@iwrealty.com",
+      "photo": "/images/icons/png/ankara-modern-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-01-22T10:50:47.194Z",
+    "updatedAt": "2025-11-13T10:50:47.194Z",
+    "storeId": "store-003"
+  },
+  {
+    "id": "P01537",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Residence - Canada Central",
+    "slug": "satilik-residence-canada-central-P01537",
+    "description": "Canada Central, Canada bölgesinde residence. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 9643538,
+    "location": {
+      "country": "CA",
+      "city": "Canada Central",
+      "district": "Canada Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 892",
+      "coordinates": {
+        "lat": 59.61393572457498,
+        "lng": -94.52819592094488
+      }
+    },
+    "specs": {
+      "netSize": 338,
+      "grossSize": 406,
+      "rooms": "4+2",
+      "bathrooms": 2,
+      "age": 7,
+      "floor": 1,
+      "totalFloors": 5,
+      "heating": "Klima",
+      "furnishing": "Unfurnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500671027038?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500077292605?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500636176605?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500653450657?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500870899549?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500751452221?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500265216184?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500402557052?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500463352743?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500814692128?w=800&q=80&category=house"
+    ],
+    "agent": {
+      "id": "A68",
+      "name": "Agent 27",
+      "phone": "+14 229 851 2787",
+      "email": "agent66@iwrealty.com",
+      "photo": "/images/icons/png/london-prime-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": true,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-04-05T10:50:47.194Z",
+    "updatedAt": "2025-11-13T10:50:47.194Z",
+    "storeId": "store-007"
+  },
+  {
+    "id": "P01538",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Villa - Ottawa",
+    "slug": "kiralik-villa-ottawa-P01538",
+    "description": "Ottawa, Canada bölgesinde villa. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 6386893,
+    "location": {
+      "country": "CA",
+      "city": "Ottawa",
+      "district": "Ottawa Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 177",
+      "coordinates": {
+        "lat": 59.75266362366075,
+        "lng": -95.1242076011306
+      }
+    },
+    "specs": {
+      "netSize": 183,
+      "grossSize": 220,
+      "rooms": "5+1",
+      "bathrooms": 3,
+      "age": 1,
+      "floor": 4,
+      "totalFloors": 17,
+      "heating": "Klima",
+      "furnishing": "Furnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500641488710?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500925339670?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500126371728?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500861332731?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500718834241?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500055210053?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500829565921?w=800&q=80&category=real-estate"
+    ],
+    "agent": {
+      "id": "A81",
+      "name": "Agent 6",
+      "phone": "+80 429 288 2045",
+      "email": "agent33@iwrealty.com",
+      "photo": "/images/icons/png/izmir-sahil-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-02-28T10:50:47.194Z",
+    "updatedAt": "2025-11-13T10:50:47.194Z",
+    "storeId": "store-005"
+  },
+  {
+    "id": "P01539",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Daire - Ottawa",
+    "slug": "satilik-daire-ottawa-P01539",
+    "description": "Ottawa, Canada bölgesinde daire. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 4602439,
+    "location": {
+      "country": "CA",
+      "city": "Ottawa",
+      "district": "Ottawa Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 48",
+      "coordinates": {
+        "lat": 60.32077924401933,
+        "lng": -95.13988527586494
+      }
+    },
+    "specs": {
+      "netSize": 420,
+      "grossSize": 504,
+      "rooms": "4+2",
+      "bathrooms": 1,
+      "age": 12,
+      "floor": 15,
+      "totalFloors": 19,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Unfurnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500584018382?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500148731688?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500491995975?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500218651590?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500467484618?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500760433454?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500997703368?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500283735285?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500517030781?w=800&q=80&category=building"
+    ],
+    "agent": {
+      "id": "A34",
+      "name": "Agent 38",
+      "phone": "+11 708 358 3696",
+      "email": "agent64@iwrealty.com",
+      "photo": "/images/icons/png/sg-harbour-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": true,
+      "hasPool": true,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-11-11T10:50:47.194Z",
+    "updatedAt": "2025-11-13T10:50:47.194Z",
+    "storeId": "store-011"
+  },
+  {
+    "id": "P01540",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Daire - Ottawa",
+    "slug": "kiralik-daire-ottawa-P01540",
+    "description": "Ottawa, Canada bölgesinde daire. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 12449921,
+    "location": {
+      "country": "CA",
+      "city": "Ottawa",
+      "district": "Ottawa Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 710",
+      "coordinates": {
+        "lat": 59.597855357153186,
+        "lng": -94.57084286004101
+      }
+    },
+    "specs": {
+      "netSize": 475,
+      "grossSize": 570,
+      "rooms": "1+1",
+      "bathrooms": 4,
+      "age": 16,
+      "floor": 4,
+      "totalFloors": 5,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Furnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500930649142?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500326674898?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500154885040?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500678320088?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500101877483?w=800&q=80&category=architecture"
+    ],
+    "agent": {
+      "id": "A73",
+      "name": "Agent 35",
+      "phone": "+29 624 415 3236",
+      "email": "agent81@iwrealty.com",
+      "photo": "/images/icons/png/berlin-urban-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": false,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-03-02T10:50:47.194Z",
+    "updatedAt": "2025-11-13T10:50:47.194Z",
+    "storeId": "store-009"
+  },
+  {
+    "id": "P01541",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Villa - Canada Central",
+    "slug": "satilik-villa-canada-central-P01541",
+    "description": "Canada Central, Canada bölgesinde villa. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 9563852,
+    "location": {
+      "country": "CA",
+      "city": "Canada Central",
+      "district": "Canada Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 433",
+      "coordinates": {
+        "lat": 59.60204488429183,
+        "lng": -94.92246380646272
+      }
+    },
+    "specs": {
+      "netSize": 163,
+      "grossSize": 196,
+      "rooms": "4+1",
+      "bathrooms": 4,
+      "age": 5,
+      "floor": 11,
+      "totalFloors": 14,
+      "heating": "Kombi",
+      "furnishing": "Unfurnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500863698968?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500204540592?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500226592316?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500367157905?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500833053942?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500591160368?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500132483570?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500345408057?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500549984594?w=800&q=80&category=interior"
+    ],
+    "agent": {
+      "id": "A42",
+      "name": "Agent 47",
+      "phone": "+15 414 759 5912",
+      "email": "agent58@iwrealty.com",
+      "photo": "/images/icons/png/izmir-sahil-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-05-11T10:50:47.194Z",
+    "updatedAt": "2025-11-13T10:50:47.194Z",
+    "storeId": "store-005"
+  },
+  {
+    "id": "P01542",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Villa - Ottawa",
+    "slug": "kiralik-villa-ottawa-P01542",
+    "description": "Ottawa, Canada bölgesinde villa. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 10592980,
+    "location": {
+      "country": "CA",
+      "city": "Ottawa",
+      "district": "Ottawa Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 832",
+      "coordinates": {
+        "lat": 59.88427615679297,
+        "lng": -94.609704213748
+      }
+    },
+    "specs": {
+      "netSize": 440,
+      "grossSize": 528,
+      "rooms": "1+0",
+      "bathrooms": 2,
+      "age": 11,
+      "floor": 15,
+      "totalFloors": 7,
+      "heating": "Merkezi",
+      "furnishing": "Furnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500174711053?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500353049971?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500572118388?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500987001981?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500816302681?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500298144475?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500236314228?w=800&q=80&category=architecture"
+    ],
+    "agent": {
+      "id": "A59",
+      "name": "Agent 11",
+      "phone": "+21 714 359 9585",
+      "email": "agent34@iwrealty.com",
+      "photo": "/images/icons/png/london-prime-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2024-11-17T10:50:47.194Z",
+    "updatedAt": "2025-11-13T10:50:47.194Z",
+    "storeId": "store-007"
+  },
+  {
+    "id": "P01543",
+    "type": "sale",
+    "category": {
+      "main": "commercial",
+      "sub": "hospital"
+    },
+    "title": "Satılık Hastane - Canada Central",
+    "slug": "satilik-hastane-canada-central-P01543",
+    "description": "Canada Central, Canada bölgesinde hastane. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 78451927,
+    "location": {
+      "country": "CA",
+      "city": "Canada Central",
+      "district": "Canada Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 915",
+      "coordinates": {
+        "lat": 59.54265470647909,
+        "lng": -95.37909230547291
+      }
+    },
+    "specs": {
+      "netSize": 7973,
+      "grossSize": 9568,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 18,
+      "floor": 1,
+      "totalFloors": 12,
+      "heating": "Klima",
+      "furnishing": "Unfurnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500077846463?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500160219513?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500061987408?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500319532643?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500810986198?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500255787724?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500131710954?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500142592515?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500898241564?w=800&q=80&category=building"
+    ],
+    "agent": {
+      "id": "A17",
+      "name": "Agent 24",
+      "phone": "+27 753 988 8882",
+      "email": "agent40@iwrealty.com",
+      "photo": "/images/icons/png/paris-heritage-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-08-09T10:50:47.194Z",
+    "updatedAt": "2025-11-13T10:50:47.194Z",
+    "storeId": "store-010"
+  },
+  {
+    "id": "P01544",
+    "type": "rent",
+    "category": {
+      "main": "commercial",
+      "sub": "hospital"
+    },
+    "title": "Kiralık Hastane - Ottawa",
+    "slug": "kiralik-hastane-ottawa-P01544",
+    "description": "Ottawa, Canada bölgesinde hastane. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 23206503,
+    "location": {
+      "country": "CA",
+      "city": "Ottawa",
+      "district": "Ottawa Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 102",
+      "coordinates": {
+        "lat": 59.760920848995774,
+        "lng": -94.84242579835279
+      }
+    },
+    "specs": {
+      "netSize": 17750,
+      "grossSize": 21300,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 10,
+      "floor": 14,
+      "totalFloors": 5,
+      "heating": "Merkezi",
+      "furnishing": "Unfurnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500920247406?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500867548895?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500973898155?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500721272033?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500202561146?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500251323172?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500521863293?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500418542503?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500184093834?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500994287699?w=800&q=80&category=interior"
+    ],
+    "agent": {
+      "id": "A19",
+      "name": "Agent 65",
+      "phone": "+75 528 843 5282",
+      "email": "agent1@iwrealty.com",
+      "photo": "/images/icons/png/sg-harbour-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": false,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-05-03T10:50:47.194Z",
+    "updatedAt": "2025-11-13T10:50:47.194Z",
+    "storeId": "store-011"
+  },
+  {
+    "id": "P01545",
+    "type": "sale",
+    "category": {
+      "main": "commercial",
+      "sub": "clinic"
+    },
+    "title": "Satılık Klinik - New Canada",
+    "slug": "satilik-klinik-new-canada-P01545",
+    "description": "New Canada, Canada bölgesinde klinik. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 2397375,
+    "location": {
+      "country": "CA",
+      "city": "New Canada",
+      "district": "New Canada Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 114",
+      "coordinates": {
+        "lat": 60.43264714540683,
+        "lng": -95.22068035033098
+      }
+    },
+    "specs": {
+      "netSize": 1364,
+      "grossSize": 1637,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 0,
+      "floor": 9,
+      "totalFloors": 14,
+      "heating": "Klima",
+      "furnishing": "Unfurnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500760067386?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500210710796?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500484198965?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500301415361?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500220573959?w=800&q=80&category=house"
+    ],
+    "agent": {
+      "id": "A93",
+      "name": "Agent 64",
+      "phone": "+13 887 784 6449",
+      "email": "agent53@iwrealty.com",
+      "photo": "/images/icons/png/dubai-property-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": false,
+      "hasBalcony": false,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-11-07T10:50:47.194Z",
+    "updatedAt": "2025-11-13T10:50:47.194Z",
+    "storeId": "store-004"
+  },
+  {
+    "id": "P01546",
+    "type": "rent",
+    "category": {
+      "main": "commercial",
+      "sub": "clinic"
+    },
+    "title": "Kiralık Klinik - New Canada",
+    "slug": "kiralik-klinik-new-canada-P01546",
+    "description": "New Canada, Canada bölgesinde klinik. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 9721324,
+    "location": {
+      "country": "CA",
+      "city": "New Canada",
+      "district": "New Canada Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 183",
+      "coordinates": {
+        "lat": 60.03183027898558,
+        "lng": -95.03362552771006
+      }
+    },
+    "specs": {
+      "netSize": 863,
+      "grossSize": 1036,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 16,
+      "floor": 15,
+      "totalFloors": 20,
+      "heating": "Merkezi",
+      "furnishing": "Unfurnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500108737913?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500379063480?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500747293083?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500521305686?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500813540747?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500208665849?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500863053307?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500085790101?w=800&q=80&category=interior"
+    ],
+    "agent": {
+      "id": "A73",
+      "name": "Agent 61",
+      "phone": "+92 443 435 8560",
+      "email": "agent34@iwrealty.com",
+      "photo": "/images/icons/png/dubai-property-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": true,
+      "hasPool": true,
+      "hasSecurity": true
+    },
+    "createdAt": "2024-12-08T10:50:47.194Z",
+    "updatedAt": "2025-11-13T10:50:47.194Z",
+    "storeId": "store-004"
+  },
+  {
+    "id": "P01547",
+    "type": "sale",
+    "category": {
+      "main": "commercial",
+      "sub": "shop"
+    },
+    "title": "Satılık Dükkan - Canada Central",
+    "slug": "satilik-dükkan-canada-central-P01547",
+    "description": "Canada Central, Canada bölgesinde dükkan. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 6166992,
+    "location": {
+      "country": "CA",
+      "city": "Canada Central",
+      "district": "Canada Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 345",
+      "coordinates": {
+        "lat": 59.58077292300066,
+        "lng": -94.79261393444028
+      }
+    },
+    "specs": {
+      "netSize": 404,
+      "grossSize": 485,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 11,
+      "floor": 13,
+      "totalFloors": 12,
+      "heating": "Kombi",
+      "furnishing": "Furnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500114761286?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500750531266?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500191556654?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500568796860?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500878369165?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500707332960?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500247122718?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500143020343?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500353842865?w=800&q=80&category=architecture"
+    ],
+    "agent": {
+      "id": "A94",
+      "name": "Agent 19",
+      "phone": "+55 208 695 3919",
+      "email": "agent9@iwrealty.com",
+      "photo": "/images/icons/png/ny-skyline-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": false,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-03-27T10:50:47.194Z",
+    "updatedAt": "2025-11-13T10:50:47.194Z",
+    "storeId": "store-008"
+  },
+  {
+    "id": "P01548",
+    "type": "rent",
+    "category": {
+      "main": "commercial",
+      "sub": "shop"
+    },
+    "title": "Kiralık Dükkan - Canada Central",
+    "slug": "kiralik-dükkan-canada-central-P01548",
+    "description": "Canada Central, Canada bölgesinde dükkan. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 3823123,
+    "location": {
+      "country": "CA",
+      "city": "Canada Central",
+      "district": "Canada Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 262",
+      "coordinates": {
+        "lat": 60.381713278188066,
+        "lng": -95.32598170227138
+      }
+    },
+    "specs": {
+      "netSize": 285,
+      "grossSize": 342,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 4,
+      "floor": 15,
+      "totalFloors": 10,
+      "heating": "Kombi",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500162060978?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500157446619?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500475716670?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500195535433?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500658681729?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500771560804?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500778838631?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500608329347?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500352212666?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500892726667?w=800&q=80&category=interior"
+    ],
+    "agent": {
+      "id": "A16",
+      "name": "Agent 65",
+      "phone": "+77 632 973 3055",
+      "email": "agent76@iwrealty.com",
+      "photo": "/images/icons/png/luxury-homes-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-07-04T10:50:47.194Z",
+    "updatedAt": "2025-11-13T10:50:47.194Z",
+    "storeId": "store-002"
+  },
+  {
+    "id": "P01549",
+    "type": "sale",
+    "category": {
+      "main": "commercial",
+      "sub": "office"
+    },
+    "title": "Satılık Ofis - Canada City",
+    "slug": "satilik-ofis-canada-city-P01549",
+    "description": "Canada City, Canada bölgesinde ofis. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 9972752,
+    "location": {
+      "country": "CA",
+      "city": "Canada City",
+      "district": "Canada City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 79",
+      "coordinates": {
+        "lat": 59.80210957771748,
+        "lng": -94.7254677168648
+      }
+    },
+    "specs": {
+      "netSize": 325,
+      "grossSize": 390,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 12,
+      "floor": 10,
+      "totalFloors": 5,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Furnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500200612219?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500271744310?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500021205002?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500063678055?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500245538059?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500198319486?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500383936065?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500846930135?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500797690564?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500134539795?w=800&q=80&category=real-estate"
+    ],
+    "agent": {
+      "id": "A66",
+      "name": "Agent 20",
+      "phone": "+97 304 399 8107",
+      "email": "agent5@iwrealty.com",
+      "photo": "/images/icons/png/berlin-urban-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-02-18T10:50:47.194Z",
+    "updatedAt": "2025-11-13T10:50:47.194Z",
+    "storeId": "store-009"
+  },
+  {
+    "id": "P01550",
+    "type": "rent",
+    "category": {
+      "main": "commercial",
+      "sub": "office"
+    },
+    "title": "Kiralık Ofis - Canada Central",
+    "slug": "kiralik-ofis-canada-central-P01550",
+    "description": "Canada Central, Canada bölgesinde ofis. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 10063766,
+    "location": {
+      "country": "CA",
+      "city": "Canada Central",
+      "district": "Canada Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 57",
+      "coordinates": {
+        "lat": 60.46583599807977,
+        "lng": -95.06538339255806
+      }
+    },
+    "specs": {
+      "netSize": 781,
+      "grossSize": 937,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 8,
+      "floor": 3,
+      "totalFloors": 17,
+      "heating": "Kombi",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500145737252?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500208260986?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500238977549?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500853339731?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500040515525?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500101041501?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500640793107?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500493628522?w=800&q=80&category=building"
+    ],
+    "agent": {
+      "id": "A3",
+      "name": "Agent 16",
+      "phone": "+37 855 600 4534",
+      "email": "agent37@iwrealty.com",
+      "photo": "/images/icons/png/berlin-urban-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-05-04T10:50:47.194Z",
+    "updatedAt": "2025-11-13T10:50:47.194Z",
+    "storeId": "store-009"
+  },
+  {
+    "id": "P01551",
+    "type": "sale",
+    "category": {
+      "main": "commercial",
+      "sub": "mall"
+    },
+    "title": "Satılık AVM - Canada Central",
+    "slug": "satilik-avm-canada-central-P01551",
+    "description": "Canada Central, Canada bölgesinde avm. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 72747403,
+    "location": {
+      "country": "CA",
+      "city": "Canada Central",
+      "district": "Canada Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 28",
+      "coordinates": {
+        "lat": 60.07117347934186,
+        "lng": -94.7666524815088
+      }
+    },
+    "specs": {
+      "netSize": 48203,
+      "grossSize": 57844,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 15,
+      "floor": 12,
+      "totalFloors": 15,
+      "heating": "Klima",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500694338550?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500044937906?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500402752398?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500987437499?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500292845024?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500222191073?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500193950745?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500817865719?w=800&q=80&category=house"
+    ],
+    "agent": {
+      "id": "A41",
+      "name": "Agent 55",
+      "phone": "+66 362 462 7385",
+      "email": "agent76@iwrealty.com",
+      "photo": "/images/icons/png/antalya-investment-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": false,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-01-05T10:50:47.194Z",
+    "updatedAt": "2025-11-13T10:50:47.194Z",
+    "storeId": "store-006"
+  },
+  {
+    "id": "P01552",
+    "type": "rent",
+    "category": {
+      "main": "commercial",
+      "sub": "mall"
+    },
+    "title": "Kiralık AVM - Ottawa",
+    "slug": "kiralik-avm-ottawa-P01552",
+    "description": "Ottawa, Canada bölgesinde avm. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 310690346,
+    "location": {
+      "country": "CA",
+      "city": "Ottawa",
+      "district": "Ottawa Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 741",
+      "coordinates": {
+        "lat": 59.6278407254817,
+        "lng": -94.86313062312283
+      }
+    },
+    "specs": {
+      "netSize": 7715,
+      "grossSize": 9258,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 0,
+      "floor": 7,
+      "totalFloors": 15,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Furnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500178126033?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500221688583?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500792287055?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500951833040?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500085239006?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500404368658?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500537061742?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500104403253?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500855087900?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500786354564?w=800&q=80&category=house"
+    ],
+    "agent": {
+      "id": "A62",
+      "name": "Agent 98",
+      "phone": "+85 418 921 4192",
+      "email": "agent56@iwrealty.com",
+      "photo": "/images/icons/png/paris-heritage-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-02-28T10:50:47.194Z",
+    "updatedAt": "2025-11-13T10:50:47.194Z",
+    "storeId": "store-010"
+  },
+  {
+    "id": "P01553",
+    "type": "sale",
+    "category": {
+      "main": "commercial",
+      "sub": "hotel"
+    },
+    "title": "Satılık Otel - Canada Central",
+    "slug": "satilik-otel-canada-central-P01553",
+    "description": "Canada Central, Canada bölgesinde otel. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 51982902,
+    "location": {
+      "country": "CA",
+      "city": "Canada Central",
+      "district": "Canada Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 185",
+      "coordinates": {
+        "lat": 60.19548171170799,
+        "lng": -94.86101913566961
+      }
+    },
+    "specs": {
+      "netSize": 27901,
+      "grossSize": 33481,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 9,
+      "floor": 11,
+      "totalFloors": 12,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Unfurnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500920380280?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500456932648?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500727464388?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500039203763?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500633182609?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500812100413?w=800&q=80&category=architecture"
+    ],
+    "agent": {
+      "id": "A32",
+      "name": "Agent 66",
+      "phone": "+62 163 234 1654",
+      "email": "agent55@iwrealty.com",
+      "photo": "/images/icons/png/sg-harbour-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": false,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-09-05T10:50:47.194Z",
+    "updatedAt": "2025-11-13T10:50:47.194Z",
+    "storeId": "store-011"
+  },
+  {
+    "id": "P01554",
+    "type": "rent",
+    "category": {
+      "main": "commercial",
+      "sub": "hotel"
+    },
+    "title": "Kiralık Otel - Ottawa",
+    "slug": "kiralik-otel-ottawa-P01554",
+    "description": "Ottawa, Canada bölgesinde otel. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 50426576,
+    "location": {
+      "country": "CA",
+      "city": "Ottawa",
+      "district": "Ottawa Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 914",
+      "coordinates": {
+        "lat": 59.94942524214096,
+        "lng": -94.81330947068612
+      }
+    },
+    "specs": {
+      "netSize": 15468,
+      "grossSize": 18562,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 2,
+      "floor": 7,
+      "totalFloors": 16,
+      "heating": "Klima",
+      "furnishing": "Unfurnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500784886082?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500632290248?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500367514139?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500937542794?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500774420320?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500024046277?w=800&q=80&category=house"
+    ],
+    "agent": {
+      "id": "A90",
+      "name": "Agent 71",
+      "phone": "+71 603 397 9506",
+      "email": "agent63@iwrealty.com",
+      "photo": "/images/icons/png/ankara-modern-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-01-27T10:50:47.194Z",
+    "updatedAt": "2025-11-13T10:50:47.194Z",
+    "storeId": "store-003"
+  },
+  {
+    "id": "P01555",
+    "type": "sale",
+    "category": {
+      "main": "commercial",
+      "sub": "restaurant"
+    },
+    "title": "Satılık Restoran - Canada Central",
+    "slug": "satilik-restoran-canada-central-P01555",
+    "description": "Canada Central, Canada bölgesinde restoran. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 5249876,
+    "location": {
+      "country": "CA",
+      "city": "Canada Central",
+      "district": "Canada Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 997",
+      "coordinates": {
+        "lat": 60.466363227780036,
+        "lng": -94.76172393108767
+      }
+    },
+    "specs": {
+      "netSize": 1174,
+      "grossSize": 1409,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 6,
+      "floor": 12,
+      "totalFloors": 9,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Furnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500825487112?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500736235360?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500705340298?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500363996116?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500738221080?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500365541100?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500137276304?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500319531749?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500736111151?w=800&q=80&category=interior"
+    ],
+    "agent": {
+      "id": "A42",
+      "name": "Agent 29",
+      "phone": "+56 655 812 1988",
+      "email": "agent100@iwrealty.com",
+      "photo": "/images/icons/png/luxury-homes-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-01-12T10:50:47.194Z",
+    "updatedAt": "2025-11-13T10:50:47.194Z",
+    "storeId": "store-002"
+  },
+  {
+    "id": "P01556",
+    "type": "rent",
+    "category": {
+      "main": "commercial",
+      "sub": "restaurant"
+    },
+    "title": "Kiralık Restoran - Canada Central",
+    "slug": "kiralik-restoran-canada-central-P01556",
+    "description": "Canada Central, Canada bölgesinde restoran. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 1322608,
+    "location": {
+      "country": "CA",
+      "city": "Canada Central",
+      "district": "Canada Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 6",
+      "coordinates": {
+        "lat": 60.48387333990804,
+        "lng": -95.35858346138896
+      }
+    },
+    "specs": {
+      "netSize": 444,
+      "grossSize": 533,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 11,
+      "floor": 10,
+      "totalFloors": 8,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Furnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500629574534?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500895569228?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500972422717?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500196756972?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500531634711?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500098880995?w=800&q=80&category=real-estate"
+    ],
+    "agent": {
+      "id": "A47",
+      "name": "Agent 39",
+      "phone": "+65 892 898 6454",
+      "email": "agent27@iwrealty.com",
+      "photo": "/images/icons/png/ny-skyline-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-05-27T10:50:47.194Z",
+    "updatedAt": "2025-11-13T10:50:47.194Z",
+    "storeId": "store-008"
+  },
+  {
+    "id": "P01557",
+    "type": "sale",
+    "category": {
+      "main": "commercial",
+      "sub": "warehouse"
+    },
+    "title": "Satılık Depo - Canada Central",
+    "slug": "satilik-depo-canada-central-P01557",
+    "description": "Canada Central, Canada bölgesinde depo. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 22246087,
+    "location": {
+      "country": "CA",
+      "city": "Canada Central",
+      "district": "Canada Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 444",
+      "coordinates": {
+        "lat": 60.35552352655215,
+        "lng": -95.17833452118133
+      }
+    },
+    "specs": {
+      "netSize": 1194,
+      "grossSize": 1433,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 4,
+      "floor": 13,
+      "totalFloors": 18,
+      "heating": "Klima",
+      "furnishing": "Unfurnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500157557374?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500728685135?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500083572563?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500393584376?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500670588518?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500111779107?w=800&q=80&category=house"
+    ],
+    "agent": {
+      "id": "A63",
+      "name": "Agent 92",
+      "phone": "+70 426 597 5081",
+      "email": "agent72@iwrealty.com",
+      "photo": "/images/icons/png/sydney-coastal-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2024-12-11T10:50:47.194Z",
+    "updatedAt": "2025-11-13T10:50:47.194Z",
+    "storeId": "store-012"
+  },
+  {
+    "id": "P01558",
+    "type": "rent",
+    "category": {
+      "main": "commercial",
+      "sub": "warehouse"
+    },
+    "title": "Kiralık Depo - Canada Central",
+    "slug": "kiralik-depo-canada-central-P01558",
+    "description": "Canada Central, Canada bölgesinde depo. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 20844984,
+    "location": {
+      "country": "CA",
+      "city": "Canada Central",
+      "district": "Canada Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 699",
+      "coordinates": {
+        "lat": 59.772756091193955,
+        "lng": -95.04925689477606
+      }
+    },
+    "specs": {
+      "netSize": 550,
+      "grossSize": 660,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 9,
+      "floor": 11,
+      "totalFloors": 14,
+      "heating": "Klima",
+      "furnishing": "Unfurnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500419085874?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500657029297?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500948330537?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500227991076?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500633080672?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500277006349?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500126604611?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500460798781?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500800463915?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500610218333?w=800&q=80&category=building"
+    ],
+    "agent": {
+      "id": "A16",
+      "name": "Agent 30",
+      "phone": "+72 661 661 8322",
+      "email": "agent30@iwrealty.com",
+      "photo": "/images/icons/png/sydney-coastal-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": false,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-09-10T10:50:47.194Z",
+    "updatedAt": "2025-11-13T10:50:47.194Z",
+    "storeId": "store-012"
+  }
+]

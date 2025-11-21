@@ -1,0 +1,2365 @@
+[
+  {
+    "id": "P03079",
+    "type": "sale",
+    "category": {
+      "main": "government"
+    },
+    "title": "Satılık Devlet Binası - New Georgia",
+    "slug": "satilik-devlet-binası-new-georgia-P03079",
+    "description": "New Georgia, Georgia bölgesinde devlet binası. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 17763892,
+    "location": {
+      "country": "GE",
+      "city": "New Georgia",
+      "district": "New Georgia Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 812",
+      "coordinates": {
+        "lat": 41.58282505921431,
+        "lng": 43.81153410071227
+      }
+    },
+    "specs": {
+      "netSize": 3487,
+      "grossSize": 4184,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 4,
+      "floor": 1,
+      "totalFloors": 19,
+      "heating": "Klima",
+      "furnishing": "Furnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500301163135?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500562163022?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500975830482?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500353364957?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500346487020?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500918630359?w=800&q=80&category=architecture"
+    ],
+    "agent": {
+      "id": "A58",
+      "name": "Agent 33",
+      "phone": "+31 582 829 8991",
+      "email": "agent6@iwrealty.com",
+      "photo": "/images/icons/png/berlin-urban-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-10-06T10:50:47.209Z",
+    "updatedAt": "2025-11-13T10:50:47.209Z",
+    "storeId": "store-009"
+  },
+  {
+    "id": "P03080",
+    "type": "rent",
+    "category": {
+      "main": "government"
+    },
+    "title": "Kiralık Okul - Georgia Central",
+    "slug": "kiralik-okul-georgia-central-P03080",
+    "description": "Georgia Central, Georgia bölgesinde okul. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 31677594,
+    "location": {
+      "country": "GE",
+      "city": "Georgia Central",
+      "district": "Georgia Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 264",
+      "coordinates": {
+        "lat": 42.19461199900759,
+        "lng": 43.38204350490435
+      }
+    },
+    "specs": {
+      "netSize": 4500,
+      "grossSize": 5400,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 3,
+      "floor": 6,
+      "totalFloors": 12,
+      "heating": "Merkezi",
+      "furnishing": "Unfurnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500311117348?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500538640537?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500927803181?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500967170105?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500929714121?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500136793872?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500228385103?w=800&q=80&category=house"
+    ],
+    "agent": {
+      "id": "A28",
+      "name": "Agent 96",
+      "phone": "+87 739 613 4928",
+      "email": "agent47@iwrealty.com",
+      "photo": "/images/icons/png/london-prime-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-08-30T10:50:47.209Z",
+    "updatedAt": "2025-11-13T10:50:47.209Z",
+    "storeId": "store-007"
+  },
+  {
+    "id": "P03081",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Müstakil Ev - Georgia City",
+    "slug": "satilik-müstakil-ev-georgia-city-P03081",
+    "description": "Georgia City, Georgia bölgesinde müstakil ev. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 14261277,
+    "location": {
+      "country": "GE",
+      "city": "Georgia City",
+      "district": "Georgia City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 429",
+      "coordinates": {
+        "lat": 41.6387032114574,
+        "lng": 43.42108384135419
+      }
+    },
+    "specs": {
+      "netSize": 106,
+      "grossSize": 127,
+      "rooms": "3+0",
+      "bathrooms": 4,
+      "age": 8,
+      "floor": 5,
+      "totalFloors": 14,
+      "heating": "Merkezi",
+      "furnishing": "Furnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500424961396?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500061897687?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500577898819?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500292745252?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500082581471?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500762762258?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500529588135?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500915752574?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500869579723?w=800&q=80&category=architecture"
+    ],
+    "agent": {
+      "id": "A44",
+      "name": "Agent 95",
+      "phone": "+79 417 929 3596",
+      "email": "agent40@iwrealty.com",
+      "photo": "/images/icons/png/izmir-sahil-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-05-21T10:50:47.209Z",
+    "updatedAt": "2025-11-13T10:50:47.209Z",
+    "storeId": "store-005"
+  },
+  {
+    "id": "P03082",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Müstakil Ev - New Georgia",
+    "slug": "kiralik-müstakil-ev-new-georgia-P03082",
+    "description": "New Georgia, Georgia bölgesinde müstakil ev. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 5666212,
+    "location": {
+      "country": "GE",
+      "city": "New Georgia",
+      "district": "New Georgia Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 86",
+      "coordinates": {
+        "lat": 42.08077521069709,
+        "lng": 43.10646853798056
+      }
+    },
+    "specs": {
+      "netSize": 230,
+      "grossSize": 276,
+      "rooms": "1+2",
+      "bathrooms": 4,
+      "age": 9,
+      "floor": 1,
+      "totalFloors": 11,
+      "heating": "Kombi",
+      "furnishing": "Unfurnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500080287319?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500869423199?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500346214558?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500945032666?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500061859514?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500620160961?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500332861861?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500663270274?w=800&q=80&category=architecture"
+    ],
+    "agent": {
+      "id": "A95",
+      "name": "Agent 30",
+      "phone": "+92 775 697 7925",
+      "email": "agent63@iwrealty.com",
+      "photo": "/images/icons/png/antalya-investment-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-07-27T10:50:47.210Z",
+    "updatedAt": "2025-11-13T10:50:47.210Z",
+    "storeId": "store-006"
+  },
+  {
+    "id": "P03083",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Müstakil Ev - Tbilisi",
+    "slug": "satilik-müstakil-ev-tbilisi-P03083",
+    "description": "Tbilisi, Georgia bölgesinde müstakil ev. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 1015569,
+    "location": {
+      "country": "GE",
+      "city": "Tbilisi",
+      "district": "Tbilisi Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 440",
+      "coordinates": {
+        "lat": 42.143130451032896,
+        "lng": 43.664467169028896
+      }
+    },
+    "specs": {
+      "netSize": 321,
+      "grossSize": 385,
+      "rooms": "5+2",
+      "bathrooms": 2,
+      "age": 11,
+      "floor": 5,
+      "totalFloors": 14,
+      "heating": "Klima",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500178232756?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500342431011?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500214885343?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500366345312?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500328684045?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500108973419?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500600010799?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500268728861?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500813684880?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500762838115?w=800&q=80&category=interior"
+    ],
+    "agent": {
+      "id": "A71",
+      "name": "Agent 47",
+      "phone": "+90 706 946 2083",
+      "email": "agent88@iwrealty.com",
+      "photo": "/images/icons/png/ny-skyline-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": false,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-04-28T10:50:47.210Z",
+    "updatedAt": "2025-11-13T10:50:47.210Z",
+    "storeId": "store-008"
+  },
+  {
+    "id": "P03084",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Daire - Georgia City",
+    "slug": "kiralik-daire-georgia-city-P03084",
+    "description": "Georgia City, Georgia bölgesinde daire. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 2528360,
+    "location": {
+      "country": "GE",
+      "city": "Georgia City",
+      "district": "Georgia City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 312",
+      "coordinates": {
+        "lat": 42.34318902501024,
+        "lng": 43.663377371378694
+      }
+    },
+    "specs": {
+      "netSize": 408,
+      "grossSize": 490,
+      "rooms": "4+0",
+      "bathrooms": 2,
+      "age": 7,
+      "floor": 5,
+      "totalFloors": 16,
+      "heating": "Klima",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500709212353?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500307767890?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500396532918?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500965683856?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500009642681?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500087299461?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500899534372?w=800&q=80&category=building"
+    ],
+    "agent": {
+      "id": "A77",
+      "name": "Agent 56",
+      "phone": "+71 917 814 9498",
+      "email": "agent55@iwrealty.com",
+      "photo": "/images/icons/png/dubai-property-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": true,
+      "hasSecurity": true
+    },
+    "createdAt": "2024-11-23T10:50:47.210Z",
+    "updatedAt": "2025-11-13T10:50:47.210Z",
+    "storeId": "store-004"
+  },
+  {
+    "id": "P03085",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Daire - Georgia City",
+    "slug": "satilik-daire-georgia-city-P03085",
+    "description": "Georgia City, Georgia bölgesinde daire. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 4870546,
+    "location": {
+      "country": "GE",
+      "city": "Georgia City",
+      "district": "Georgia City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 418",
+      "coordinates": {
+        "lat": 42.38389647852196,
+        "lng": 43.25621487134801
+      }
+    },
+    "specs": {
+      "netSize": 391,
+      "grossSize": 469,
+      "rooms": "5+1",
+      "bathrooms": 4,
+      "age": 17,
+      "floor": 6,
+      "totalFloors": 14,
+      "heating": "Merkezi",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500113842413?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500103060624?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500945122532?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500253222569?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500562348631?w=800&q=80&category=building"
+    ],
+    "agent": {
+      "id": "A41",
+      "name": "Agent 58",
+      "phone": "+59 674 646 2104",
+      "email": "agent99@iwrealty.com",
+      "photo": "/images/icons/png/berlin-urban-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": false,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": true,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-02-17T10:50:47.210Z",
+    "updatedAt": "2025-11-13T10:50:47.210Z",
+    "storeId": "store-009"
+  },
+  {
+    "id": "P03086",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Daire - Georgia Central",
+    "slug": "kiralik-daire-georgia-central-P03086",
+    "description": "Georgia Central, Georgia bölgesinde daire. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 2891140,
+    "location": {
+      "country": "GE",
+      "city": "Georgia Central",
+      "district": "Georgia Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 38",
+      "coordinates": {
+        "lat": 42.43478333118343,
+        "lng": 43.952987696923685
+      }
+    },
+    "specs": {
+      "netSize": 151,
+      "grossSize": 181,
+      "rooms": "2+1",
+      "bathrooms": 2,
+      "age": 12,
+      "floor": 3,
+      "totalFloors": 17,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Unfurnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500190992207?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500922661636?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500298752061?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500019156501?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500475106942?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500947905313?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500549083957?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500147048480?w=800&q=80&category=real-estate"
+    ],
+    "agent": {
+      "id": "A53",
+      "name": "Agent 97",
+      "phone": "+44 495 731 6018",
+      "email": "agent22@iwrealty.com",
+      "photo": "/images/icons/png/berlin-urban-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": true,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-09-18T10:50:47.210Z",
+    "updatedAt": "2025-11-13T10:50:47.210Z",
+    "storeId": "store-009"
+  },
+  {
+    "id": "P03087",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Residence - Georgia City",
+    "slug": "satilik-residence-georgia-city-P03087",
+    "description": "Georgia City, Georgia bölgesinde residence. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 5301238,
+    "location": {
+      "country": "GE",
+      "city": "Georgia City",
+      "district": "Georgia City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 888",
+      "coordinates": {
+        "lat": 41.80360179830135,
+        "lng": 43.431183369825284
+      }
+    },
+    "specs": {
+      "netSize": 238,
+      "grossSize": 286,
+      "rooms": "3+0",
+      "bathrooms": 3,
+      "age": 17,
+      "floor": 7,
+      "totalFloors": 8,
+      "heating": "Klima",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500240827977?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500060667038?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500147783380?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500926084790?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500038230736?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500876458415?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500108330977?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500133957032?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500310435342?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500755891496?w=800&q=80&category=interior"
+    ],
+    "agent": {
+      "id": "A80",
+      "name": "Agent 95",
+      "phone": "+53 102 494 1679",
+      "email": "agent39@iwrealty.com",
+      "photo": "/images/icons/png/paris-heritage-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-02-23T10:50:47.210Z",
+    "updatedAt": "2025-11-13T10:50:47.210Z",
+    "storeId": "store-010"
+  },
+  {
+    "id": "P03088",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Residence - Georgia City",
+    "slug": "kiralik-residence-georgia-city-P03088",
+    "description": "Georgia City, Georgia bölgesinde residence. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 7408784,
+    "location": {
+      "country": "GE",
+      "city": "Georgia City",
+      "district": "Georgia City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 855",
+      "coordinates": {
+        "lat": 41.5637849396036,
+        "lng": 43.36427605079619
+      }
+    },
+    "specs": {
+      "netSize": 375,
+      "grossSize": 450,
+      "rooms": "3+0",
+      "bathrooms": 4,
+      "age": 1,
+      "floor": 9,
+      "totalFloors": 14,
+      "heating": "Kombi",
+      "furnishing": "Unfurnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500078032910?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500167698839?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500673907480?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500096179137?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500334943997?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500033810042?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500101799166?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500414610220?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500766578323?w=800&q=80&category=architecture"
+    ],
+    "agent": {
+      "id": "A54",
+      "name": "Agent 33",
+      "phone": "+69 418 809 8532",
+      "email": "agent84@iwrealty.com",
+      "photo": "/images/icons/png/london-prime-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-01-07T10:50:47.210Z",
+    "updatedAt": "2025-11-13T10:50:47.210Z",
+    "storeId": "store-007"
+  },
+  {
+    "id": "P03089",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Residence - Georgia Central",
+    "slug": "satilik-residence-georgia-central-P03089",
+    "description": "Georgia Central, Georgia bölgesinde residence. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 4905332,
+    "location": {
+      "country": "GE",
+      "city": "Georgia Central",
+      "district": "Georgia Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 722",
+      "coordinates": {
+        "lat": 41.63633493276277,
+        "lng": 43.63228185607603
+      }
+    },
+    "specs": {
+      "netSize": 135,
+      "grossSize": 162,
+      "rooms": "3+1",
+      "bathrooms": 3,
+      "age": 3,
+      "floor": 1,
+      "totalFloors": 14,
+      "heating": "Klima",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500952947278?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500220372610?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500972245818?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500439856381?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500463096791?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500019683760?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500746874747?w=800&q=80&category=house"
+    ],
+    "agent": {
+      "id": "A36",
+      "name": "Agent 32",
+      "phone": "+13 125 523 8576",
+      "email": "agent65@iwrealty.com",
+      "photo": "/images/icons/png/london-prime-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-10-20T10:50:47.210Z",
+    "updatedAt": "2025-11-13T10:50:47.210Z",
+    "storeId": "store-007"
+  },
+  {
+    "id": "P03090",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Müstakil Ev - Tbilisi",
+    "slug": "kiralik-müstakil-ev-tbilisi-P03090",
+    "description": "Tbilisi, Georgia bölgesinde müstakil ev. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 1671354,
+    "location": {
+      "country": "GE",
+      "city": "Tbilisi",
+      "district": "Tbilisi Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 40",
+      "coordinates": {
+        "lat": 42.02412055029204,
+        "lng": 43.063296178267464
+      }
+    },
+    "specs": {
+      "netSize": 194,
+      "grossSize": 233,
+      "rooms": "2+0",
+      "bathrooms": 3,
+      "age": 12,
+      "floor": 1,
+      "totalFloors": 16,
+      "heating": "Klima",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500183397342?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500937554660?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500376650387?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500221078484?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500776555121?w=800&q=80&category=house"
+    ],
+    "agent": {
+      "id": "A70",
+      "name": "Agent 70",
+      "phone": "+77 279 482 7283",
+      "email": "agent23@iwrealty.com",
+      "photo": "/images/icons/png/sydney-coastal-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": false,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-01-30T10:50:47.210Z",
+    "updatedAt": "2025-11-13T10:50:47.210Z",
+    "storeId": "store-012"
+  },
+  {
+    "id": "P03091",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Residence - Georgia City",
+    "slug": "satilik-residence-georgia-city-P03091",
+    "description": "Georgia City, Georgia bölgesinde residence. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 12760830,
+    "location": {
+      "country": "GE",
+      "city": "Georgia City",
+      "district": "Georgia City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 253",
+      "coordinates": {
+        "lat": 41.79049296915139,
+        "lng": 43.3272822120408
+      }
+    },
+    "specs": {
+      "netSize": 170,
+      "grossSize": 204,
+      "rooms": "3+2",
+      "bathrooms": 4,
+      "age": 5,
+      "floor": 10,
+      "totalFloors": 17,
+      "heating": "Klima",
+      "furnishing": "Furnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500909665905?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500717986069?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500550182226?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500324095519?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500092552333?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500761759148?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500152381184?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500675584219?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500332440101?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500927508638?w=800&q=80&category=interior"
+    ],
+    "agent": {
+      "id": "A67",
+      "name": "Agent 65",
+      "phone": "+95 553 736 2428",
+      "email": "agent97@iwrealty.com",
+      "photo": "/images/icons/png/luxury-homes-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": true,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-10-23T10:50:47.210Z",
+    "updatedAt": "2025-11-13T10:50:47.210Z",
+    "storeId": "store-002"
+  },
+  {
+    "id": "P03092",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Daire - Georgia Central",
+    "slug": "kiralik-daire-georgia-central-P03092",
+    "description": "Georgia Central, Georgia bölgesinde daire. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 10132112,
+    "location": {
+      "country": "GE",
+      "city": "Georgia Central",
+      "district": "Georgia Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 102",
+      "coordinates": {
+        "lat": 41.63453042812541,
+        "lng": 43.19802077030463
+      }
+    },
+    "specs": {
+      "netSize": 315,
+      "grossSize": 378,
+      "rooms": "3+2",
+      "bathrooms": 1,
+      "age": 15,
+      "floor": 12,
+      "totalFloors": 8,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Unfurnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500174231115?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500754427773?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500484665966?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500704696756?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500090868946?w=800&q=80&category=house"
+    ],
+    "agent": {
+      "id": "A96",
+      "name": "Agent 6",
+      "phone": "+76 667 227 5216",
+      "email": "agent92@iwrealty.com",
+      "photo": "/images/icons/png/izmir-sahil-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": true,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-06-10T10:50:47.210Z",
+    "updatedAt": "2025-11-13T10:50:47.210Z",
+    "storeId": "store-005"
+  },
+  {
+    "id": "P03093",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Daire - Georgia Central",
+    "slug": "satilik-daire-georgia-central-P03093",
+    "description": "Georgia Central, Georgia bölgesinde daire. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 3667273,
+    "location": {
+      "country": "GE",
+      "city": "Georgia Central",
+      "district": "Georgia Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 765",
+      "coordinates": {
+        "lat": 42.393351673642854,
+        "lng": 43.14031766870035
+      }
+    },
+    "specs": {
+      "netSize": 152,
+      "grossSize": 182,
+      "rooms": "2+0",
+      "bathrooms": 3,
+      "age": 11,
+      "floor": 5,
+      "totalFloors": 14,
+      "heating": "Merkezi",
+      "furnishing": "Furnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500418047401?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500791217077?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500168528050?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500677987384?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500356763075?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500428637285?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500335813708?w=800&q=80&category=building"
+    ],
+    "agent": {
+      "id": "A58",
+      "name": "Agent 1",
+      "phone": "+63 313 560 9127",
+      "email": "agent64@iwrealty.com",
+      "photo": "/images/icons/png/paris-heritage-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": true,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-01-15T10:50:47.210Z",
+    "updatedAt": "2025-11-13T10:50:47.210Z",
+    "storeId": "store-010"
+  },
+  {
+    "id": "P03094",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Villa - New Georgia",
+    "slug": "kiralik-villa-new-georgia-P03094",
+    "description": "New Georgia, Georgia bölgesinde villa. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 6790415,
+    "location": {
+      "country": "GE",
+      "city": "New Georgia",
+      "district": "New Georgia Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 662",
+      "coordinates": {
+        "lat": 41.72451106466436,
+        "lng": 43.49533239096067
+      }
+    },
+    "specs": {
+      "netSize": 90,
+      "grossSize": 108,
+      "rooms": "2+0",
+      "bathrooms": 4,
+      "age": 5,
+      "floor": 4,
+      "totalFloors": 14,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500766074559?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500170473088?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500656603254?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500153969753?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500320628124?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500867431666?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500704678870?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500367253026?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500875509981?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500894340188?w=800&q=80&category=real-estate"
+    ],
+    "agent": {
+      "id": "A48",
+      "name": "Agent 55",
+      "phone": "+25 375 350 9063",
+      "email": "agent8@iwrealty.com",
+      "photo": "/images/icons/png/london-prime-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-06-03T10:50:47.210Z",
+    "updatedAt": "2025-11-13T10:50:47.210Z",
+    "storeId": "store-007"
+  },
+  {
+    "id": "P03095",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Residence - New Georgia",
+    "slug": "satilik-residence-new-georgia-P03095",
+    "description": "New Georgia, Georgia bölgesinde residence. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 5493383,
+    "location": {
+      "country": "GE",
+      "city": "New Georgia",
+      "district": "New Georgia Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 596",
+      "coordinates": {
+        "lat": 42.4106178637881,
+        "lng": 43.04915809013061
+      }
+    },
+    "specs": {
+      "netSize": 273,
+      "grossSize": 328,
+      "rooms": "5+1",
+      "bathrooms": 1,
+      "age": 14,
+      "floor": 3,
+      "totalFloors": 5,
+      "heating": "Klima",
+      "furnishing": "Unfurnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500394140873?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500049124263?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500358953379?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500630640651?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500583639203?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500607952100?w=800&q=80&category=architecture"
+    ],
+    "agent": {
+      "id": "A6",
+      "name": "Agent 70",
+      "phone": "+50 613 927 4046",
+      "email": "agent60@iwrealty.com",
+      "photo": "/images/icons/png/paris-heritage-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2024-11-26T10:50:47.210Z",
+    "updatedAt": "2025-11-13T10:50:47.210Z",
+    "storeId": "store-010"
+  },
+  {
+    "id": "P03096",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Villa - Georgia Central",
+    "slug": "kiralik-villa-georgia-central-P03096",
+    "description": "Georgia Central, Georgia bölgesinde villa. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 9395934,
+    "location": {
+      "country": "GE",
+      "city": "Georgia Central",
+      "district": "Georgia Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 22",
+      "coordinates": {
+        "lat": 41.997289727328926,
+        "lng": 43.9281141633808
+      }
+    },
+    "specs": {
+      "netSize": 276,
+      "grossSize": 331,
+      "rooms": "2+0",
+      "bathrooms": 3,
+      "age": 1,
+      "floor": 2,
+      "totalFloors": 17,
+      "heating": "Kombi",
+      "furnishing": "Furnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500599051560?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500092320974?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500049005805?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500542246607?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500486497691?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500588214131?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500022391035?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500356516088?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500285121134?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500159684251?w=800&q=80&category=building"
+    ],
+    "agent": {
+      "id": "A35",
+      "name": "Agent 60",
+      "phone": "+45 924 870 9693",
+      "email": "agent2@iwrealty.com",
+      "photo": "/images/icons/png/dubai-property-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-03-31T10:50:47.210Z",
+    "updatedAt": "2025-11-13T10:50:47.210Z",
+    "storeId": "store-004"
+  },
+  {
+    "id": "P03097",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Müstakil Ev - Tbilisi",
+    "slug": "satilik-müstakil-ev-tbilisi-P03097",
+    "description": "Tbilisi, Georgia bölgesinde müstakil ev. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 2406191,
+    "location": {
+      "country": "GE",
+      "city": "Tbilisi",
+      "district": "Tbilisi Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 892",
+      "coordinates": {
+        "lat": 41.777897309805475,
+        "lng": 43.95209447048971
+      }
+    },
+    "specs": {
+      "netSize": 497,
+      "grossSize": 596,
+      "rooms": "3+2",
+      "bathrooms": 1,
+      "age": 2,
+      "floor": 2,
+      "totalFloors": 17,
+      "heating": "Kombi",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500032249598?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500766239433?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500053887051?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500649162504?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500267226011?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500239578560?w=800&q=80&category=real-estate"
+    ],
+    "agent": {
+      "id": "A95",
+      "name": "Agent 93",
+      "phone": "+75 813 411 6094",
+      "email": "agent18@iwrealty.com",
+      "photo": "/images/icons/png/london-prime-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": false,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": true,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-07-16T10:50:47.210Z",
+    "updatedAt": "2025-11-13T10:50:47.210Z",
+    "storeId": "store-007"
+  },
+  {
+    "id": "P03098",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Müstakil Ev - Georgia Central",
+    "slug": "kiralik-müstakil-ev-georgia-central-P03098",
+    "description": "Georgia Central, Georgia bölgesinde müstakil ev. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 12511599,
+    "location": {
+      "country": "GE",
+      "city": "Georgia Central",
+      "district": "Georgia Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 353",
+      "coordinates": {
+        "lat": 42.44466022746237,
+        "lng": 43.39483951329213
+      }
+    },
+    "specs": {
+      "netSize": 268,
+      "grossSize": 322,
+      "rooms": "1+0",
+      "bathrooms": 1,
+      "age": 16,
+      "floor": 4,
+      "totalFloors": 6,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Unfurnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500100448084?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500527140371?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500696658247?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500701140903?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500531947291?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500629214438?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500218515620?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500733130625?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500636037979?w=800&q=80&category=real-estate"
+    ],
+    "agent": {
+      "id": "A24",
+      "name": "Agent 18",
+      "phone": "+99 712 791 9650",
+      "email": "agent42@iwrealty.com",
+      "photo": "/images/icons/png/paris-heritage-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-10-15T10:50:47.210Z",
+    "updatedAt": "2025-11-13T10:50:47.210Z",
+    "storeId": "store-010"
+  },
+  {
+    "id": "P03099",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Müstakil Ev - New Georgia",
+    "slug": "satilik-müstakil-ev-new-georgia-P03099",
+    "description": "New Georgia, Georgia bölgesinde müstakil ev. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 7610707,
+    "location": {
+      "country": "GE",
+      "city": "New Georgia",
+      "district": "New Georgia Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 523",
+      "coordinates": {
+        "lat": 41.5237070605533,
+        "lng": 43.87799878496943
+      }
+    },
+    "specs": {
+      "netSize": 197,
+      "grossSize": 236,
+      "rooms": "1+1",
+      "bathrooms": 3,
+      "age": 13,
+      "floor": 10,
+      "totalFloors": 15,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Unfurnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500824074323?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500830032417?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500370204539?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500144714084?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500921814117?w=800&q=80&category=interior"
+    ],
+    "agent": {
+      "id": "A87",
+      "name": "Agent 89",
+      "phone": "+83 599 754 2289",
+      "email": "agent7@iwrealty.com",
+      "photo": "/images/icons/png/london-prime-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-11-12T10:50:47.210Z",
+    "updatedAt": "2025-11-13T10:50:47.210Z",
+    "storeId": "store-007"
+  },
+  {
+    "id": "P03100",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Müstakil Ev - Georgia Central",
+    "slug": "kiralik-müstakil-ev-georgia-central-P03100",
+    "description": "Georgia Central, Georgia bölgesinde müstakil ev. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 7407545,
+    "location": {
+      "country": "GE",
+      "city": "Georgia Central",
+      "district": "Georgia Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 287",
+      "coordinates": {
+        "lat": 41.53176028356815,
+        "lng": 43.38476223223117
+      }
+    },
+    "specs": {
+      "netSize": 448,
+      "grossSize": 538,
+      "rooms": "1+2",
+      "bathrooms": 1,
+      "age": 19,
+      "floor": 11,
+      "totalFloors": 17,
+      "heating": "Klima",
+      "furnishing": "Unfurnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500619483890?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500979353245?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500300702199?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500714032047?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500279829123?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500533010080?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500922996189?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500450112719?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500026315016?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500621066074?w=800&q=80&category=house"
+    ],
+    "agent": {
+      "id": "A45",
+      "name": "Agent 72",
+      "phone": "+34 275 730 3023",
+      "email": "agent39@iwrealty.com",
+      "photo": "/images/icons/png/dubai-property-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": true,
+      "hasPool": true,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-11-03T10:50:47.210Z",
+    "updatedAt": "2025-11-13T10:50:47.210Z",
+    "storeId": "store-004"
+  },
+  {
+    "id": "P03101",
+    "type": "sale",
+    "category": {
+      "main": "commercial",
+      "sub": "hospital"
+    },
+    "title": "Satılık Hastane - Tbilisi",
+    "slug": "satilik-hastane-tbilisi-P03101",
+    "description": "Tbilisi, Georgia bölgesinde hastane. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 66028629,
+    "location": {
+      "country": "GE",
+      "city": "Tbilisi",
+      "district": "Tbilisi Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 642",
+      "coordinates": {
+        "lat": 42.40621506646041,
+        "lng": 43.958682372688195
+      }
+    },
+    "specs": {
+      "netSize": 11873,
+      "grossSize": 14248,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 11,
+      "floor": 4,
+      "totalFloors": 19,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500100782573?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500604400244?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500632430587?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500958583174?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500852341910?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500335533112?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500151812559?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500877060792?w=800&q=80&category=architecture"
+    ],
+    "agent": {
+      "id": "A30",
+      "name": "Agent 73",
+      "phone": "+26 618 964 2293",
+      "email": "agent23@iwrealty.com",
+      "photo": "/images/icons/png/izmir-sahil-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": false,
+      "hasBalcony": false,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-08-14T10:50:47.210Z",
+    "updatedAt": "2025-11-13T10:50:47.210Z",
+    "storeId": "store-005"
+  },
+  {
+    "id": "P03102",
+    "type": "rent",
+    "category": {
+      "main": "commercial",
+      "sub": "hospital"
+    },
+    "title": "Kiralık Hastane - Georgia Central",
+    "slug": "kiralik-hastane-georgia-central-P03102",
+    "description": "Georgia Central, Georgia bölgesinde hastane. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 65504844,
+    "location": {
+      "country": "GE",
+      "city": "Georgia Central",
+      "district": "Georgia Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 386",
+      "coordinates": {
+        "lat": 41.793036578323196,
+        "lng": 43.42405137972066
+      }
+    },
+    "specs": {
+      "netSize": 17749,
+      "grossSize": 21299,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 15,
+      "floor": 14,
+      "totalFloors": 16,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Furnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500949112336?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500406330750?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500249116082?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500022514285?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500925698437?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500524275766?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500779484375?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500747093541?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500134104466?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500251154823?w=800&q=80&category=real-estate"
+    ],
+    "agent": {
+      "id": "A31",
+      "name": "Agent 83",
+      "phone": "+31 452 512 2242",
+      "email": "agent5@iwrealty.com",
+      "photo": "/images/icons/png/izmir-sahil-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-05-06T10:50:47.210Z",
+    "updatedAt": "2025-11-13T10:50:47.210Z",
+    "storeId": "store-005"
+  },
+  {
+    "id": "P03103",
+    "type": "sale",
+    "category": {
+      "main": "commercial",
+      "sub": "clinic"
+    },
+    "title": "Satılık Klinik - New Georgia",
+    "slug": "satilik-klinik-new-georgia-P03103",
+    "description": "New Georgia, Georgia bölgesinde klinik. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 18634168,
+    "location": {
+      "country": "GE",
+      "city": "New Georgia",
+      "district": "New Georgia Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 189",
+      "coordinates": {
+        "lat": 41.74459114318168,
+        "lng": 43.4209100898555
+      }
+    },
+    "specs": {
+      "netSize": 1848,
+      "grossSize": 2218,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 13,
+      "floor": 3,
+      "totalFloors": 20,
+      "heating": "Merkezi",
+      "furnishing": "Unfurnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500291706045?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500877946659?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500455981591?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500138226053?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500418619235?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500622549119?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500364808382?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500021192165?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500819730295?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500628032129?w=800&q=80&category=real-estate"
+    ],
+    "agent": {
+      "id": "A27",
+      "name": "Agent 70",
+      "phone": "+76 195 794 1250",
+      "email": "agent51@iwrealty.com",
+      "photo": "/images/icons/png/dubai-property-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-02-17T10:50:47.210Z",
+    "updatedAt": "2025-11-13T10:50:47.210Z",
+    "storeId": "store-004"
+  },
+  {
+    "id": "P03104",
+    "type": "rent",
+    "category": {
+      "main": "commercial",
+      "sub": "clinic"
+    },
+    "title": "Kiralık Klinik - Tbilisi",
+    "slug": "kiralik-klinik-tbilisi-P03104",
+    "description": "Tbilisi, Georgia bölgesinde klinik. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 3630520,
+    "location": {
+      "country": "GE",
+      "city": "Tbilisi",
+      "district": "Tbilisi Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 869",
+      "coordinates": {
+        "lat": 42.1694119019724,
+        "lng": 43.34369662849249
+      }
+    },
+    "specs": {
+      "netSize": 1474,
+      "grossSize": 1769,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 17,
+      "floor": 13,
+      "totalFloors": 10,
+      "heating": "Merkezi",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500224381516?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500144939540?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500498204472?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500192845484?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500900638908?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500491868900?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500160558949?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500897321226?w=800&q=80&category=house"
+    ],
+    "agent": {
+      "id": "A47",
+      "name": "Agent 86",
+      "phone": "+53 949 964 8870",
+      "email": "agent36@iwrealty.com",
+      "photo": "/images/icons/png/ankara-modern-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": false,
+      "hasBalcony": false,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-07-07T10:50:47.210Z",
+    "updatedAt": "2025-11-13T10:50:47.210Z",
+    "storeId": "store-003"
+  },
+  {
+    "id": "P03105",
+    "type": "sale",
+    "category": {
+      "main": "commercial",
+      "sub": "shop"
+    },
+    "title": "Satılık Dükkan - New Georgia",
+    "slug": "satilik-dükkan-new-georgia-P03105",
+    "description": "New Georgia, Georgia bölgesinde dükkan. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 967303,
+    "location": {
+      "country": "GE",
+      "city": "New Georgia",
+      "district": "New Georgia Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 763",
+      "coordinates": {
+        "lat": 41.596824186584655,
+        "lng": 43.874279617932125
+      }
+    },
+    "specs": {
+      "netSize": 149,
+      "grossSize": 179,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 14,
+      "floor": 1,
+      "totalFloors": 13,
+      "heating": "Merkezi",
+      "furnishing": "Furnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500079820351?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500512962590?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500312739373?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500705791476?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500755235968?w=800&q=80&category=real-estate"
+    ],
+    "agent": {
+      "id": "A51",
+      "name": "Agent 29",
+      "phone": "+85 720 932 6534",
+      "email": "agent34@iwrealty.com",
+      "photo": "/images/icons/png/antalya-investment-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": true,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-10-06T10:50:47.210Z",
+    "updatedAt": "2025-11-13T10:50:47.210Z",
+    "storeId": "store-006"
+  },
+  {
+    "id": "P03106",
+    "type": "rent",
+    "category": {
+      "main": "commercial",
+      "sub": "shop"
+    },
+    "title": "Kiralık Dükkan - Georgia City",
+    "slug": "kiralik-dükkan-georgia-city-P03106",
+    "description": "Georgia City, Georgia bölgesinde dükkan. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 4749755,
+    "location": {
+      "country": "GE",
+      "city": "Georgia City",
+      "district": "Georgia City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 147",
+      "coordinates": {
+        "lat": 41.66034590234899,
+        "lng": 43.281901739108584
+      }
+    },
+    "specs": {
+      "netSize": 187,
+      "grossSize": 224,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 15,
+      "floor": 8,
+      "totalFloors": 7,
+      "heating": "Kombi",
+      "furnishing": "Furnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500803726367?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500200287236?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500276650437?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500927688817?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500604382898?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500097674521?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500862356477?w=800&q=80&category=interior"
+    ],
+    "agent": {
+      "id": "A77",
+      "name": "Agent 50",
+      "phone": "+40 328 598 1210",
+      "email": "agent79@iwrealty.com",
+      "photo": "/images/icons/png/izmir-sahil-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": false,
+      "hasBalcony": false,
+      "hasGarden": true,
+      "hasPool": true,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-09-04T10:50:47.210Z",
+    "updatedAt": "2025-11-13T10:50:47.210Z",
+    "storeId": "store-005"
+  },
+  {
+    "id": "P03107",
+    "type": "sale",
+    "category": {
+      "main": "commercial",
+      "sub": "office"
+    },
+    "title": "Satılık Ofis - New Georgia",
+    "slug": "satilik-ofis-new-georgia-P03107",
+    "description": "New Georgia, Georgia bölgesinde ofis. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 7726855,
+    "location": {
+      "country": "GE",
+      "city": "New Georgia",
+      "district": "New Georgia Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 369",
+      "coordinates": {
+        "lat": 41.519317096183606,
+        "lng": 43.77165070161732
+      }
+    },
+    "specs": {
+      "netSize": 996,
+      "grossSize": 1195,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 0,
+      "floor": 7,
+      "totalFloors": 11,
+      "heating": "Klima",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500601952838?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500667114761?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500987982933?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500396198291?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500951179367?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500673427168?w=800&q=80&category=architecture"
+    ],
+    "agent": {
+      "id": "A46",
+      "name": "Agent 11",
+      "phone": "+66 376 138 8727",
+      "email": "agent49@iwrealty.com",
+      "photo": "/images/icons/png/dubai-property-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-07-12T10:50:47.210Z",
+    "updatedAt": "2025-11-13T10:50:47.210Z",
+    "storeId": "store-004"
+  },
+  {
+    "id": "P03108",
+    "type": "rent",
+    "category": {
+      "main": "commercial",
+      "sub": "office"
+    },
+    "title": "Kiralık Ofis - Georgia City",
+    "slug": "kiralik-ofis-georgia-city-P03108",
+    "description": "Georgia City, Georgia bölgesinde ofis. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 2101773,
+    "location": {
+      "country": "GE",
+      "city": "Georgia City",
+      "district": "Georgia City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 943",
+      "coordinates": {
+        "lat": 41.682351228709614,
+        "lng": 43.44694739619967
+      }
+    },
+    "specs": {
+      "netSize": 874,
+      "grossSize": 1049,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 11,
+      "floor": 1,
+      "totalFloors": 13,
+      "heating": "Kombi",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500917150780?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500362567727?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500861999836?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500494126131?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500251734931?w=800&q=80&category=architecture"
+    ],
+    "agent": {
+      "id": "A6",
+      "name": "Agent 79",
+      "phone": "+24 558 897 3203",
+      "email": "agent58@iwrealty.com",
+      "photo": "/images/icons/png/ny-skyline-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": true,
+      "hasPool": true,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-03-21T10:50:47.210Z",
+    "updatedAt": "2025-11-13T10:50:47.210Z",
+    "storeId": "store-008"
+  },
+  {
+    "id": "P03109",
+    "type": "sale",
+    "category": {
+      "main": "commercial",
+      "sub": "mall"
+    },
+    "title": "Satılık AVM - Tbilisi",
+    "slug": "satilik-avm-tbilisi-P03109",
+    "description": "Tbilisi, Georgia bölgesinde avm. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 114754567,
+    "location": {
+      "country": "GE",
+      "city": "Tbilisi",
+      "district": "Tbilisi Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 202",
+      "coordinates": {
+        "lat": 41.52131148719145,
+        "lng": 43.43738543867383
+      }
+    },
+    "specs": {
+      "netSize": 31697,
+      "grossSize": 38036,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 13,
+      "floor": 7,
+      "totalFloors": 20,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Furnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500834854763?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500733727878?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500118142613?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500188197651?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500120579992?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500376902937?w=800&q=80&category=architecture"
+    ],
+    "agent": {
+      "id": "A49",
+      "name": "Agent 55",
+      "phone": "+19 842 292 2695",
+      "email": "agent62@iwrealty.com",
+      "photo": "/images/icons/png/paris-heritage-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": true,
+      "hasSecurity": true
+    },
+    "createdAt": "2024-12-08T10:50:47.210Z",
+    "updatedAt": "2025-11-13T10:50:47.210Z",
+    "storeId": "store-010"
+  },
+  {
+    "id": "P03110",
+    "type": "rent",
+    "category": {
+      "main": "commercial",
+      "sub": "mall"
+    },
+    "title": "Kiralık AVM - Georgia City",
+    "slug": "kiralik-avm-georgia-city-P03110",
+    "description": "Georgia City, Georgia bölgesinde avm. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 302002768,
+    "location": {
+      "country": "GE",
+      "city": "Georgia City",
+      "district": "Georgia City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 508",
+      "coordinates": {
+        "lat": 41.96509137260842,
+        "lng": 43.48892876876587
+      }
+    },
+    "specs": {
+      "netSize": 41176,
+      "grossSize": 49411,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 11,
+      "floor": 8,
+      "totalFloors": 11,
+      "heating": "Kombi",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500286835004?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500351105139?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500977791961?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500960433036?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500628038896?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500811713715?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500929429979?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500961657357?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500995454050?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500839325955?w=800&q=80&category=building"
+    ],
+    "agent": {
+      "id": "A94",
+      "name": "Agent 25",
+      "phone": "+35 691 437 5853",
+      "email": "agent92@iwrealty.com",
+      "photo": "/images/icons/png/dubai-property-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": false,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-01-04T10:50:47.210Z",
+    "updatedAt": "2025-11-13T10:50:47.210Z",
+    "storeId": "store-004"
+  },
+  {
+    "id": "P03111",
+    "type": "sale",
+    "category": {
+      "main": "commercial",
+      "sub": "hotel"
+    },
+    "title": "Satılık Otel - Tbilisi",
+    "slug": "satilik-otel-tbilisi-P03111",
+    "description": "Tbilisi, Georgia bölgesinde otel. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 117320507,
+    "location": {
+      "country": "GE",
+      "city": "Tbilisi",
+      "district": "Tbilisi Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 503",
+      "coordinates": {
+        "lat": 42.23681976216633,
+        "lng": 43.997352996836185
+      }
+    },
+    "specs": {
+      "netSize": 4694,
+      "grossSize": 5633,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 18,
+      "floor": 10,
+      "totalFloors": 11,
+      "heating": "Merkezi",
+      "furnishing": "Furnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500941992366?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500465331953?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500929598661?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500322637903?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500428159755?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500492060212?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500347892572?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500866483441?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500394690647?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500852610549?w=800&q=80&category=building"
+    ],
+    "agent": {
+      "id": "A36",
+      "name": "Agent 78",
+      "phone": "+55 239 705 9242",
+      "email": "agent90@iwrealty.com",
+      "photo": "/images/icons/png/ankara-modern-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": false,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-02-12T10:50:47.210Z",
+    "updatedAt": "2025-11-13T10:50:47.210Z",
+    "storeId": "store-003"
+  },
+  {
+    "id": "P03112",
+    "type": "rent",
+    "category": {
+      "main": "commercial",
+      "sub": "hotel"
+    },
+    "title": "Kiralık Otel - New Georgia",
+    "slug": "kiralik-otel-new-georgia-P03112",
+    "description": "New Georgia, Georgia bölgesinde otel. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 140497717,
+    "location": {
+      "country": "GE",
+      "city": "New Georgia",
+      "district": "New Georgia Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 416",
+      "coordinates": {
+        "lat": 41.568052868552655,
+        "lng": 43.367741958735635
+      }
+    },
+    "specs": {
+      "netSize": 14430,
+      "grossSize": 17316,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 13,
+      "floor": 6,
+      "totalFloors": 5,
+      "heating": "Merkezi",
+      "furnishing": "Unfurnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500412526793?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500283871412?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500957477091?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500281681595?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500147884631?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500367238077?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500645770999?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500168390245?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500078789203?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500726353893?w=800&q=80&category=building"
+    ],
+    "agent": {
+      "id": "A4",
+      "name": "Agent 13",
+      "phone": "+11 629 244 8984",
+      "email": "agent57@iwrealty.com",
+      "photo": "/images/icons/png/izmir-sahil-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": false,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2024-12-02T10:50:47.210Z",
+    "updatedAt": "2025-11-13T10:50:47.210Z",
+    "storeId": "store-005"
+  },
+  {
+    "id": "P03113",
+    "type": "sale",
+    "category": {
+      "main": "commercial",
+      "sub": "restaurant"
+    },
+    "title": "Satılık Restoran - Georgia Central",
+    "slug": "satilik-restoran-georgia-central-P03113",
+    "description": "Georgia Central, Georgia bölgesinde restoran. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 3435083,
+    "location": {
+      "country": "GE",
+      "city": "Georgia Central",
+      "district": "Georgia Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 775",
+      "coordinates": {
+        "lat": 41.958275060957455,
+        "lng": 43.37425646802488
+      }
+    },
+    "specs": {
+      "netSize": 1372,
+      "grossSize": 1646,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 19,
+      "floor": 6,
+      "totalFloors": 16,
+      "heating": "Kombi",
+      "furnishing": "Furnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500806423636?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500947619883?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500590363187?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500863283429?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500261563026?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500281114892?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500690211848?w=800&q=80&category=architecture"
+    ],
+    "agent": {
+      "id": "A9",
+      "name": "Agent 13",
+      "phone": "+23 767 506 6946",
+      "email": "agent76@iwrealty.com",
+      "photo": "/images/icons/png/berlin-urban-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-09-02T10:50:47.210Z",
+    "updatedAt": "2025-11-13T10:50:47.210Z",
+    "storeId": "store-009"
+  },
+  {
+    "id": "P03114",
+    "type": "rent",
+    "category": {
+      "main": "commercial",
+      "sub": "restaurant"
+    },
+    "title": "Kiralık Restoran - New Georgia",
+    "slug": "kiralik-restoran-new-georgia-P03114",
+    "description": "New Georgia, Georgia bölgesinde restoran. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 8648588,
+    "location": {
+      "country": "GE",
+      "city": "New Georgia",
+      "district": "New Georgia Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 45",
+      "coordinates": {
+        "lat": 41.56746383206208,
+        "lng": 43.38208276832752
+      }
+    },
+    "specs": {
+      "netSize": 1420,
+      "grossSize": 1704,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 2,
+      "floor": 6,
+      "totalFloors": 15,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500998575350?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500113239525?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500989743251?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500917543416?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500391914224?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500313293982?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500197483910?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500206027660?w=800&q=80&category=architecture"
+    ],
+    "agent": {
+      "id": "A96",
+      "name": "Agent 93",
+      "phone": "+42 228 102 4619",
+      "email": "agent63@iwrealty.com",
+      "photo": "/images/icons/png/london-prime-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": false,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": true,
+      "hasSecurity": false
+    },
+    "createdAt": "2024-11-28T10:50:47.210Z",
+    "updatedAt": "2025-11-13T10:50:47.210Z",
+    "storeId": "store-007"
+  },
+  {
+    "id": "P03115",
+    "type": "sale",
+    "category": {
+      "main": "commercial",
+      "sub": "warehouse"
+    },
+    "title": "Satılık Depo - New Georgia",
+    "slug": "satilik-depo-new-georgia-P03115",
+    "description": "New Georgia, Georgia bölgesinde depo. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 27095257,
+    "location": {
+      "country": "GE",
+      "city": "New Georgia",
+      "district": "New Georgia Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 502",
+      "coordinates": {
+        "lat": 42.05273654616472,
+        "lng": 43.37092429960434
+      }
+    },
+    "specs": {
+      "netSize": 4044,
+      "grossSize": 4853,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 12,
+      "floor": 5,
+      "totalFloors": 6,
+      "heating": "Klima",
+      "furnishing": "Furnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500511687338?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500147590487?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500897841339?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500940273433?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500057453704?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500961949812?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500136890885?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500969624819?w=800&q=80&category=architecture"
+    ],
+    "agent": {
+      "id": "A43",
+      "name": "Agent 100",
+      "phone": "+15 312 123 8688",
+      "email": "agent42@iwrealty.com",
+      "photo": "/images/icons/png/paris-heritage-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-09-15T10:50:47.210Z",
+    "updatedAt": "2025-11-13T10:50:47.210Z",
+    "storeId": "store-010"
+  },
+  {
+    "id": "P03116",
+    "type": "rent",
+    "category": {
+      "main": "commercial",
+      "sub": "warehouse"
+    },
+    "title": "Kiralık Depo - Georgia Central",
+    "slug": "kiralik-depo-georgia-central-P03116",
+    "description": "Georgia Central, Georgia bölgesinde depo. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 15889250,
+    "location": {
+      "country": "GE",
+      "city": "Georgia Central",
+      "district": "Georgia Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 370",
+      "coordinates": {
+        "lat": 42.496056597961285,
+        "lng": 43.587301457748396
+      }
+    },
+    "specs": {
+      "netSize": 8676,
+      "grossSize": 10411,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 11,
+      "floor": 6,
+      "totalFloors": 5,
+      "heating": "Merkezi",
+      "furnishing": "Furnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500553084413?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500396179712?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500126049743?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500205734069?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500487235713?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500936180131?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500973057845?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500957730625?w=800&q=80&category=house"
+    ],
+    "agent": {
+      "id": "A9",
+      "name": "Agent 41",
+      "phone": "+94 388 553 5394",
+      "email": "agent44@iwrealty.com",
+      "photo": "/images/icons/png/berlin-urban-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": true,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-08-04T10:50:47.210Z",
+    "updatedAt": "2025-11-13T10:50:47.210Z",
+    "storeId": "store-009"
+  }
+]

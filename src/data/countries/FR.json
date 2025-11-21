@@ -1,0 +1,2352 @@
+[
+  {
+    "id": "P02889",
+    "type": "sale",
+    "category": {
+      "main": "government"
+    },
+    "title": "Satılık Okul - Paris",
+    "slug": "satilik-okul-paris-P02889",
+    "description": "Paris, France bölgesinde okul. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 9190379,
+    "location": {
+      "country": "FR",
+      "city": "Paris",
+      "district": "Paris Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 24",
+      "coordinates": {
+        "lat": 45.53943752781038,
+        "lng": 1.6883468413561782
+      }
+    },
+    "specs": {
+      "netSize": 4646,
+      "grossSize": 5575,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 5,
+      "floor": 6,
+      "totalFloors": 13,
+      "heating": "Merkezi",
+      "furnishing": "Unfurnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500075466251?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500868949287?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500687654469?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500205673903?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500962754131?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500939059147?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500204224239?w=800&q=80&category=architecture"
+    ],
+    "agent": {
+      "id": "A29",
+      "name": "Agent 92",
+      "phone": "+56 688 601 2425",
+      "email": "agent97@iwrealty.com",
+      "photo": "/images/icons/png/paris-heritage-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-02-07T10:50:47.208Z",
+    "updatedAt": "2025-11-13T10:50:47.208Z",
+    "storeId": "store-010"
+  },
+  {
+    "id": "P02890",
+    "type": "rent",
+    "category": {
+      "main": "government"
+    },
+    "title": "Kiralık Hastane - New France",
+    "slug": "kiralik-hastane-new-france-P02890",
+    "description": "New France, France bölgesinde hastane. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 26247561,
+    "location": {
+      "country": "FR",
+      "city": "New France",
+      "district": "New France Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 304",
+      "coordinates": {
+        "lat": 46.22265460176161,
+        "lng": 2.465900855041547
+      }
+    },
+    "specs": {
+      "netSize": 4657,
+      "grossSize": 5588,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 1,
+      "floor": 5,
+      "totalFloors": 7,
+      "heating": "Merkezi",
+      "furnishing": "Unfurnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500504939677?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500752978670?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500387774785?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500708271876?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500754859678?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500426674001?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500940895463?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500979280369?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500151159906?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500820553743?w=800&q=80&category=house"
+    ],
+    "agent": {
+      "id": "A33",
+      "name": "Agent 19",
+      "phone": "+13 991 252 8697",
+      "email": "agent96@iwrealty.com",
+      "photo": "/images/icons/png/paris-heritage-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-01-16T10:50:47.208Z",
+    "updatedAt": "2025-11-13T10:50:47.208Z",
+    "storeId": "store-010"
+  },
+  {
+    "id": "P02891",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Müstakil Ev - France City",
+    "slug": "satilik-müstakil-ev-france-city-P02891",
+    "description": "France City, France bölgesinde müstakil ev. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 12413936,
+    "location": {
+      "country": "FR",
+      "city": "France City",
+      "district": "France City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 70",
+      "coordinates": {
+        "lat": 46.38441642285104,
+        "lng": 2.0895512004555963
+      }
+    },
+    "specs": {
+      "netSize": 340,
+      "grossSize": 408,
+      "rooms": "4+2",
+      "bathrooms": 3,
+      "age": 11,
+      "floor": 2,
+      "totalFloors": 5,
+      "heating": "Merkezi",
+      "furnishing": "Unfurnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500492887625?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500690488133?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500412869091?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500064437942?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500252329010?w=800&q=80&category=interior"
+    ],
+    "agent": {
+      "id": "A57",
+      "name": "Agent 84",
+      "phone": "+10 465 619 8713",
+      "email": "agent11@iwrealty.com",
+      "photo": "/images/icons/png/paris-heritage-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-06-13T10:50:47.208Z",
+    "updatedAt": "2025-11-13T10:50:47.208Z",
+    "storeId": "store-010"
+  },
+  {
+    "id": "P02892",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Müstakil Ev - Paris",
+    "slug": "kiralik-müstakil-ev-paris-P02892",
+    "description": "Paris, France bölgesinde müstakil ev. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 14091872,
+    "location": {
+      "country": "FR",
+      "city": "Paris",
+      "district": "Paris Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 914",
+      "coordinates": {
+        "lat": 46.46528459681103,
+        "lng": 2.434894930548912
+      }
+    },
+    "specs": {
+      "netSize": 105,
+      "grossSize": 126,
+      "rooms": "2+1",
+      "bathrooms": 2,
+      "age": 11,
+      "floor": 10,
+      "totalFloors": 9,
+      "heating": "Merkezi",
+      "furnishing": "Unfurnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500490426851?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500307907267?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500658444872?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500956522356?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500078185636?w=800&q=80&category=real-estate"
+    ],
+    "agent": {
+      "id": "A11",
+      "name": "Agent 58",
+      "phone": "+82 386 624 2503",
+      "email": "agent90@iwrealty.com",
+      "photo": "/images/icons/png/paris-heritage-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-10-14T10:50:47.208Z",
+    "updatedAt": "2025-11-13T10:50:47.208Z",
+    "storeId": "store-010"
+  },
+  {
+    "id": "P02893",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Villa - Paris",
+    "slug": "satilik-villa-paris-P02893",
+    "description": "Paris, France bölgesinde villa. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 1154342,
+    "location": {
+      "country": "FR",
+      "city": "Paris",
+      "district": "Paris Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 149",
+      "coordinates": {
+        "lat": 46.24702914407306,
+        "lng": 2.3849000104166236
+      }
+    },
+    "specs": {
+      "netSize": 112,
+      "grossSize": 134,
+      "rooms": "1+2",
+      "bathrooms": 2,
+      "age": 18,
+      "floor": 9,
+      "totalFloors": 18,
+      "heating": "Klima",
+      "furnishing": "Unfurnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500157980076?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500344258235?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500688949308?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500735826103?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500108503213?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500868388739?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500784743218?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500326533442?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500638969885?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500204204249?w=800&q=80&category=interior"
+    ],
+    "agent": {
+      "id": "A93",
+      "name": "Agent 18",
+      "phone": "+46 402 846 2209",
+      "email": "agent54@iwrealty.com",
+      "photo": "/images/icons/png/paris-heritage-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-06-05T10:50:47.208Z",
+    "updatedAt": "2025-11-13T10:50:47.208Z",
+    "storeId": "store-010"
+  },
+  {
+    "id": "P02894",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Residence - Paris",
+    "slug": "kiralik-residence-paris-P02894",
+    "description": "Paris, France bölgesinde residence. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 2385545,
+    "location": {
+      "country": "FR",
+      "city": "Paris",
+      "district": "Paris Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 538",
+      "coordinates": {
+        "lat": 46.39667160575878,
+        "lng": 2.1613711207100414
+      }
+    },
+    "specs": {
+      "netSize": 234,
+      "grossSize": 281,
+      "rooms": "5+0",
+      "bathrooms": 1,
+      "age": 4,
+      "floor": 3,
+      "totalFloors": 12,
+      "heating": "Kombi",
+      "furnishing": "Unfurnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500291682062?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500612714253?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500446059184?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500743195877?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500541761115?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500862794222?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500078695368?w=800&q=80&category=house"
+    ],
+    "agent": {
+      "id": "A77",
+      "name": "Agent 81",
+      "phone": "+55 613 505 2302",
+      "email": "agent1@iwrealty.com",
+      "photo": "/images/icons/png/paris-heritage-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-10-10T10:50:47.208Z",
+    "updatedAt": "2025-11-13T10:50:47.208Z",
+    "storeId": "store-010"
+  },
+  {
+    "id": "P02895",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Daire - France City",
+    "slug": "satilik-daire-france-city-P02895",
+    "description": "France City, France bölgesinde daire. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 9233520,
+    "location": {
+      "country": "FR",
+      "city": "France City",
+      "district": "France City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 900",
+      "coordinates": {
+        "lat": 45.96590569059031,
+        "lng": 2.318669259389286
+      }
+    },
+    "specs": {
+      "netSize": 437,
+      "grossSize": 524,
+      "rooms": "1+0",
+      "bathrooms": 1,
+      "age": 16,
+      "floor": 12,
+      "totalFloors": 14,
+      "heating": "Kombi",
+      "furnishing": "Furnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500493260580?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500408232920?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500313018079?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500378826563?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500159909473?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500602935647?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500580155336?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500260762242?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500758018600?w=800&q=80&category=real-estate"
+    ],
+    "agent": {
+      "id": "A40",
+      "name": "Agent 26",
+      "phone": "+62 578 209 4882",
+      "email": "agent35@iwrealty.com",
+      "photo": "/images/icons/png/paris-heritage-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-04-10T10:50:47.208Z",
+    "updatedAt": "2025-11-13T10:50:47.208Z",
+    "storeId": "store-010"
+  },
+  {
+    "id": "P02896",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Residence - New France",
+    "slug": "kiralik-residence-new-france-P02896",
+    "description": "New France, France bölgesinde residence. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 8317835,
+    "location": {
+      "country": "FR",
+      "city": "New France",
+      "district": "New France Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 236",
+      "coordinates": {
+        "lat": 46.106450776635896,
+        "lng": 1.7827450131371627
+      }
+    },
+    "specs": {
+      "netSize": 407,
+      "grossSize": 488,
+      "rooms": "1+1",
+      "bathrooms": 3,
+      "age": 8,
+      "floor": 14,
+      "totalFloors": 6,
+      "heating": "Kombi",
+      "furnishing": "Furnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500411165167?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500108848402?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500939679540?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500944376718?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500009649832?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500334330767?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500226389778?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500047732833?w=800&q=80&category=real-estate"
+    ],
+    "agent": {
+      "id": "A28",
+      "name": "Agent 84",
+      "phone": "+52 244 272 6126",
+      "email": "agent30@iwrealty.com",
+      "photo": "/images/icons/png/paris-heritage-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": true,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-09-07T10:50:47.208Z",
+    "updatedAt": "2025-11-13T10:50:47.208Z",
+    "storeId": "store-010"
+  },
+  {
+    "id": "P02897",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Daire - New France",
+    "slug": "satilik-daire-new-france-P02897",
+    "description": "New France, France bölgesinde daire. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 9904825,
+    "location": {
+      "country": "FR",
+      "city": "New France",
+      "district": "New France Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 179",
+      "coordinates": {
+        "lat": 45.915621657773364,
+        "lng": 1.8082970088388532
+      }
+    },
+    "specs": {
+      "netSize": 457,
+      "grossSize": 548,
+      "rooms": "4+0",
+      "bathrooms": 3,
+      "age": 1,
+      "floor": 5,
+      "totalFloors": 6,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Furnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500494694114?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500674326781?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500238414186?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500042986051?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500080386137?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500957413361?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500984721153?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500587564303?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500767201906?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500646254813?w=800&q=80&category=architecture"
+    ],
+    "agent": {
+      "id": "A26",
+      "name": "Agent 71",
+      "phone": "+87 370 990 8726",
+      "email": "agent68@iwrealty.com",
+      "photo": "/images/icons/png/paris-heritage-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": true,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-08-15T10:50:47.208Z",
+    "updatedAt": "2025-11-13T10:50:47.208Z",
+    "storeId": "store-010"
+  },
+  {
+    "id": "P02898",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Müstakil Ev - New France",
+    "slug": "kiralik-müstakil-ev-new-france-P02898",
+    "description": "New France, France bölgesinde müstakil ev. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 14242817,
+    "location": {
+      "country": "FR",
+      "city": "New France",
+      "district": "New France Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 699",
+      "coordinates": {
+        "lat": 46.035107414175904,
+        "lng": 2.1024576710895952
+      }
+    },
+    "specs": {
+      "netSize": 158,
+      "grossSize": 190,
+      "rooms": "3+0",
+      "bathrooms": 1,
+      "age": 19,
+      "floor": 10,
+      "totalFloors": 20,
+      "heating": "Klima",
+      "furnishing": "Unfurnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500133363062?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500417082406?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500871986548?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500942963540?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500172371906?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500971514783?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500482066492?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500525669741?w=800&q=80&category=house"
+    ],
+    "agent": {
+      "id": "A96",
+      "name": "Agent 20",
+      "phone": "+80 329 645 7304",
+      "email": "agent26@iwrealty.com",
+      "photo": "/images/icons/png/paris-heritage-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": false,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-10-02T10:50:47.208Z",
+    "updatedAt": "2025-11-13T10:50:47.208Z",
+    "storeId": "store-010"
+  },
+  {
+    "id": "P02899",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Daire - France Central",
+    "slug": "satilik-daire-france-central-P02899",
+    "description": "France Central, France bölgesinde daire. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 1682315,
+    "location": {
+      "country": "FR",
+      "city": "France Central",
+      "district": "France Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 800",
+      "coordinates": {
+        "lat": 46.314827793363385,
+        "lng": 1.986551118313058
+      }
+    },
+    "specs": {
+      "netSize": 169,
+      "grossSize": 203,
+      "rooms": "4+0",
+      "bathrooms": 2,
+      "age": 11,
+      "floor": 15,
+      "totalFloors": 12,
+      "heating": "Kombi",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500185864225?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500343817842?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500091331766?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500002983576?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500389748982?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500784681777?w=800&q=80&category=architecture"
+    ],
+    "agent": {
+      "id": "A9",
+      "name": "Agent 94",
+      "phone": "+94 852 729 6864",
+      "email": "agent68@iwrealty.com",
+      "photo": "/images/icons/png/paris-heritage-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-08-07T10:50:47.208Z",
+    "updatedAt": "2025-11-13T10:50:47.208Z",
+    "storeId": "store-010"
+  },
+  {
+    "id": "P02900",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Villa - New France",
+    "slug": "kiralik-villa-new-france-P02900",
+    "description": "New France, France bölgesinde villa. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 4022980,
+    "location": {
+      "country": "FR",
+      "city": "New France",
+      "district": "New France Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 808",
+      "coordinates": {
+        "lat": 46.22081647136322,
+        "lng": 1.748460270871162
+      }
+    },
+    "specs": {
+      "netSize": 224,
+      "grossSize": 269,
+      "rooms": "5+2",
+      "bathrooms": 1,
+      "age": 4,
+      "floor": 6,
+      "totalFloors": 14,
+      "heating": "Klima",
+      "furnishing": "Furnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500160427179?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500350428869?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500271067257?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500027907585?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500957097062?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500473799241?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500557233244?w=800&q=80&category=interior"
+    ],
+    "agent": {
+      "id": "A54",
+      "name": "Agent 58",
+      "phone": "+80 143 698 7500",
+      "email": "agent71@iwrealty.com",
+      "photo": "/images/icons/png/paris-heritage-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-08-24T10:50:47.208Z",
+    "updatedAt": "2025-11-13T10:50:47.208Z",
+    "storeId": "store-010"
+  },
+  {
+    "id": "P02901",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Müstakil Ev - France Central",
+    "slug": "satilik-müstakil-ev-france-central-P02901",
+    "description": "France Central, France bölgesinde müstakil ev. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 13615077,
+    "location": {
+      "country": "FR",
+      "city": "France Central",
+      "district": "France Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 329",
+      "coordinates": {
+        "lat": 45.6073755477665,
+        "lng": 1.5822401733735425
+      }
+    },
+    "specs": {
+      "netSize": 339,
+      "grossSize": 407,
+      "rooms": "4+0",
+      "bathrooms": 1,
+      "age": 3,
+      "floor": 13,
+      "totalFloors": 5,
+      "heating": "Kombi",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500461418678?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500152433380?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500258567905?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500465705158?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500401480322?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500920555056?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500999949837?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500301113907?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500756748073?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500891854706?w=800&q=80&category=architecture"
+    ],
+    "agent": {
+      "id": "A78",
+      "name": "Agent 86",
+      "phone": "+27 185 738 8497",
+      "email": "agent18@iwrealty.com",
+      "photo": "/images/icons/png/paris-heritage-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-03-03T10:50:47.208Z",
+    "updatedAt": "2025-11-13T10:50:47.208Z",
+    "storeId": "store-010"
+  },
+  {
+    "id": "P02902",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Daire - France Central",
+    "slug": "kiralik-daire-france-central-P02902",
+    "description": "France Central, France bölgesinde daire. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 6805744,
+    "location": {
+      "country": "FR",
+      "city": "France Central",
+      "district": "France Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 638",
+      "coordinates": {
+        "lat": 46.03474929225416,
+        "lng": 2.174360388459855
+      }
+    },
+    "specs": {
+      "netSize": 434,
+      "grossSize": 521,
+      "rooms": "3+1",
+      "bathrooms": 1,
+      "age": 2,
+      "floor": 12,
+      "totalFloors": 13,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Unfurnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500995637076?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500576657535?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500027060634?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500987960441?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500156231274?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500348771790?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500035247673?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500942128239?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500531743357?w=800&q=80&category=real-estate"
+    ],
+    "agent": {
+      "id": "A25",
+      "name": "Agent 27",
+      "phone": "+77 861 999 8411",
+      "email": "agent4@iwrealty.com",
+      "photo": "/images/icons/png/paris-heritage-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-09-10T10:50:47.208Z",
+    "updatedAt": "2025-11-13T10:50:47.208Z",
+    "storeId": "store-010"
+  },
+  {
+    "id": "P02903",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Residence - France City",
+    "slug": "satilik-residence-france-city-P02903",
+    "description": "France City, France bölgesinde residence. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 14487078,
+    "location": {
+      "country": "FR",
+      "city": "France City",
+      "district": "France City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 518",
+      "coordinates": {
+        "lat": 46.26937072901278,
+        "lng": 1.740263855434823
+      }
+    },
+    "specs": {
+      "netSize": 197,
+      "grossSize": 236,
+      "rooms": "4+1",
+      "bathrooms": 3,
+      "age": 8,
+      "floor": 7,
+      "totalFloors": 5,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Furnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500418863262?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500705664615?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500347580189?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500205757803?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500285211145?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500934947178?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500934828992?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500698545689?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500604519099?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500821833036?w=800&q=80&category=architecture"
+    ],
+    "agent": {
+      "id": "A100",
+      "name": "Agent 49",
+      "phone": "+24 606 288 2364",
+      "email": "agent65@iwrealty.com",
+      "photo": "/images/icons/png/paris-heritage-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": true,
+      "hasSecurity": true
+    },
+    "createdAt": "2024-12-29T10:50:47.208Z",
+    "updatedAt": "2025-11-13T10:50:47.208Z",
+    "storeId": "store-010"
+  },
+  {
+    "id": "P02904",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Müstakil Ev - France Central",
+    "slug": "kiralik-müstakil-ev-france-central-P02904",
+    "description": "France Central, France bölgesinde müstakil ev. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 6942933,
+    "location": {
+      "country": "FR",
+      "city": "France Central",
+      "district": "France Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 19",
+      "coordinates": {
+        "lat": 46.138339283034995,
+        "lng": 2.1848649804651004
+      }
+    },
+    "specs": {
+      "netSize": 432,
+      "grossSize": 518,
+      "rooms": "1+2",
+      "bathrooms": 1,
+      "age": 3,
+      "floor": 15,
+      "totalFloors": 14,
+      "heating": "Klima",
+      "furnishing": "Unfurnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500039361132?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500687907483?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500158910069?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500337494726?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500186101019?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500749394530?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500152384703?w=800&q=80&category=house"
+    ],
+    "agent": {
+      "id": "A38",
+      "name": "Agent 74",
+      "phone": "+13 382 728 2789",
+      "email": "agent7@iwrealty.com",
+      "photo": "/images/icons/png/paris-heritage-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-11-07T10:50:47.208Z",
+    "updatedAt": "2025-11-13T10:50:47.208Z",
+    "storeId": "store-010"
+  },
+  {
+    "id": "P02905",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Müstakil Ev - France Central",
+    "slug": "satilik-müstakil-ev-france-central-P02905",
+    "description": "France Central, France bölgesinde müstakil ev. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 1841851,
+    "location": {
+      "country": "FR",
+      "city": "France Central",
+      "district": "France Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 30",
+      "coordinates": {
+        "lat": 45.994887914891635,
+        "lng": 2.4915475038367343
+      }
+    },
+    "specs": {
+      "netSize": 425,
+      "grossSize": 510,
+      "rooms": "3+0",
+      "bathrooms": 1,
+      "age": 16,
+      "floor": 11,
+      "totalFloors": 12,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Furnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500791455721?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500466001760?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500904508170?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500353838679?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500051712956?w=800&q=80&category=architecture"
+    ],
+    "agent": {
+      "id": "A91",
+      "name": "Agent 35",
+      "phone": "+59 551 752 8742",
+      "email": "agent58@iwrealty.com",
+      "photo": "/images/icons/png/paris-heritage-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": true,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-01-15T10:50:47.208Z",
+    "updatedAt": "2025-11-13T10:50:47.208Z",
+    "storeId": "store-010"
+  },
+  {
+    "id": "P02906",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Villa - Paris",
+    "slug": "kiralik-villa-paris-P02906",
+    "description": "Paris, France bölgesinde villa. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 7969619,
+    "location": {
+      "country": "FR",
+      "city": "Paris",
+      "district": "Paris Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 278",
+      "coordinates": {
+        "lat": 46.4541239757827,
+        "lng": 1.507247868026993
+      }
+    },
+    "specs": {
+      "netSize": 270,
+      "grossSize": 324,
+      "rooms": "1+2",
+      "bathrooms": 2,
+      "age": 16,
+      "floor": 11,
+      "totalFloors": 15,
+      "heating": "Kombi",
+      "furnishing": "Furnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500262995883?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500488658389?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500719347246?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500663087568?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500232805028?w=800&q=80&category=building"
+    ],
+    "agent": {
+      "id": "A57",
+      "name": "Agent 86",
+      "phone": "+22 236 735 8175",
+      "email": "agent70@iwrealty.com",
+      "photo": "/images/icons/png/paris-heritage-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-07-16T10:50:47.208Z",
+    "updatedAt": "2025-11-13T10:50:47.208Z",
+    "storeId": "store-010"
+  },
+  {
+    "id": "P02907",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Daire - France City",
+    "slug": "satilik-daire-france-city-P02907",
+    "description": "France City, France bölgesinde daire. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 7247254,
+    "location": {
+      "country": "FR",
+      "city": "France City",
+      "district": "France City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 827",
+      "coordinates": {
+        "lat": 45.776093094727834,
+        "lng": 1.8771353558780044
+      }
+    },
+    "specs": {
+      "netSize": 316,
+      "grossSize": 379,
+      "rooms": "2+2",
+      "bathrooms": 2,
+      "age": 19,
+      "floor": 9,
+      "totalFloors": 7,
+      "heating": "Merkezi",
+      "furnishing": "Furnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500289962350?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500233480893?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500624619847?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500331843058?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500126465134?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500993385625?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500814962600?w=800&q=80&category=house"
+    ],
+    "agent": {
+      "id": "A70",
+      "name": "Agent 82",
+      "phone": "+23 443 629 8039",
+      "email": "agent50@iwrealty.com",
+      "photo": "/images/icons/png/paris-heritage-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": false,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-05-14T10:50:47.208Z",
+    "updatedAt": "2025-11-13T10:50:47.208Z",
+    "storeId": "store-010"
+  },
+  {
+    "id": "P02908",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Müstakil Ev - Paris",
+    "slug": "kiralik-müstakil-ev-paris-P02908",
+    "description": "Paris, France bölgesinde müstakil ev. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 6033406,
+    "location": {
+      "country": "FR",
+      "city": "Paris",
+      "district": "Paris Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 767",
+      "coordinates": {
+        "lat": 45.65861154941866,
+        "lng": 2.4692675496081087
+      }
+    },
+    "specs": {
+      "netSize": 221,
+      "grossSize": 265,
+      "rooms": "5+1",
+      "bathrooms": 4,
+      "age": 16,
+      "floor": 8,
+      "totalFloors": 17,
+      "heating": "Kombi",
+      "furnishing": "Unfurnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500439730191?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500408606436?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500006823249?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500821345607?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500848344845?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500527087249?w=800&q=80&category=building"
+    ],
+    "agent": {
+      "id": "A87",
+      "name": "Agent 32",
+      "phone": "+70 617 264 6858",
+      "email": "agent4@iwrealty.com",
+      "photo": "/images/icons/png/paris-heritage-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": true,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-10-06T10:50:47.208Z",
+    "updatedAt": "2025-11-13T10:50:47.208Z",
+    "storeId": "store-010"
+  },
+  {
+    "id": "P02909",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Residence - Paris",
+    "slug": "satilik-residence-paris-P02909",
+    "description": "Paris, France bölgesinde residence. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 6918263,
+    "location": {
+      "country": "FR",
+      "city": "Paris",
+      "district": "Paris Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 195",
+      "coordinates": {
+        "lat": 45.631091205570286,
+        "lng": 2.4189456879597864
+      }
+    },
+    "specs": {
+      "netSize": 468,
+      "grossSize": 562,
+      "rooms": "3+2",
+      "bathrooms": 2,
+      "age": 18,
+      "floor": 6,
+      "totalFloors": 16,
+      "heating": "Kombi",
+      "furnishing": "Unfurnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500022556153?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500834298688?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500053979519?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500739765434?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500232332111?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500465302541?w=800&q=80&category=interior"
+    ],
+    "agent": {
+      "id": "A69",
+      "name": "Agent 15",
+      "phone": "+11 640 595 9625",
+      "email": "agent38@iwrealty.com",
+      "photo": "/images/icons/png/paris-heritage-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": true,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-11-09T10:50:47.208Z",
+    "updatedAt": "2025-11-13T10:50:47.208Z",
+    "storeId": "store-010"
+  },
+  {
+    "id": "P02910",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Residence - France Central",
+    "slug": "kiralik-residence-france-central-P02910",
+    "description": "France Central, France bölgesinde residence. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 11459166,
+    "location": {
+      "country": "FR",
+      "city": "France Central",
+      "district": "France Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 820",
+      "coordinates": {
+        "lat": 45.98703493297285,
+        "lng": 1.7671297376782311
+      }
+    },
+    "specs": {
+      "netSize": 341,
+      "grossSize": 409,
+      "rooms": "5+2",
+      "bathrooms": 3,
+      "age": 11,
+      "floor": 8,
+      "totalFloors": 18,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Unfurnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500465045503?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500822232077?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500187903277?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500460818473?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500450012328?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500034233170?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500550861099?w=800&q=80&category=house"
+    ],
+    "agent": {
+      "id": "A33",
+      "name": "Agent 68",
+      "phone": "+95 353 468 7826",
+      "email": "agent41@iwrealty.com",
+      "photo": "/images/icons/png/paris-heritage-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-11-12T10:50:47.208Z",
+    "updatedAt": "2025-11-13T10:50:47.208Z",
+    "storeId": "store-010"
+  },
+  {
+    "id": "P02911",
+    "type": "sale",
+    "category": {
+      "main": "commercial",
+      "sub": "hospital"
+    },
+    "title": "Satılık Hastane - Paris",
+    "slug": "satilik-hastane-paris-P02911",
+    "description": "Paris, France bölgesinde hastane. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 33115088,
+    "location": {
+      "country": "FR",
+      "city": "Paris",
+      "district": "Paris Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 536",
+      "coordinates": {
+        "lat": 45.8922447820009,
+        "lng": 2.4736158921681124
+      }
+    },
+    "specs": {
+      "netSize": 12303,
+      "grossSize": 14764,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 9,
+      "floor": 14,
+      "totalFloors": 6,
+      "heating": "Klima",
+      "furnishing": "Furnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500503315988?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500457026807?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500941329082?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500276985992?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500499077355?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500025019576?w=800&q=80&category=real-estate"
+    ],
+    "agent": {
+      "id": "A56",
+      "name": "Agent 90",
+      "phone": "+37 287 521 5745",
+      "email": "agent99@iwrealty.com",
+      "photo": "/images/icons/png/paris-heritage-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-02-03T10:50:47.208Z",
+    "updatedAt": "2025-11-13T10:50:47.208Z",
+    "storeId": "store-010"
+  },
+  {
+    "id": "P02912",
+    "type": "rent",
+    "category": {
+      "main": "commercial",
+      "sub": "hospital"
+    },
+    "title": "Kiralık Hastane - New France",
+    "slug": "kiralik-hastane-new-france-P02912",
+    "description": "New France, France bölgesinde hastane. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 86793109,
+    "location": {
+      "country": "FR",
+      "city": "New France",
+      "district": "New France Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 395",
+      "coordinates": {
+        "lat": 46.36942078405669,
+        "lng": 1.7417400793412727
+      }
+    },
+    "specs": {
+      "netSize": 4250,
+      "grossSize": 5100,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 15,
+      "floor": 6,
+      "totalFloors": 6,
+      "heating": "Merkezi",
+      "furnishing": "Furnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500824874079?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500373984522?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500183538801?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500392902869?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500142190535?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500428850168?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500371346341?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500639805817?w=800&q=80&category=interior"
+    ],
+    "agent": {
+      "id": "A16",
+      "name": "Agent 48",
+      "phone": "+14 285 309 3098",
+      "email": "agent70@iwrealty.com",
+      "photo": "/images/icons/png/paris-heritage-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": true,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-09-06T10:50:47.208Z",
+    "updatedAt": "2025-11-13T10:50:47.208Z",
+    "storeId": "store-010"
+  },
+  {
+    "id": "P02913",
+    "type": "sale",
+    "category": {
+      "main": "commercial",
+      "sub": "clinic"
+    },
+    "title": "Satılık Klinik - France City",
+    "slug": "satilik-klinik-france-city-P02913",
+    "description": "France City, France bölgesinde klinik. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 8428427,
+    "location": {
+      "country": "FR",
+      "city": "France City",
+      "district": "France City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 310",
+      "coordinates": {
+        "lat": 45.7351592210444,
+        "lng": 1.736214385737188
+      }
+    },
+    "specs": {
+      "netSize": 1793,
+      "grossSize": 2152,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 6,
+      "floor": 9,
+      "totalFloors": 7,
+      "heating": "Kombi",
+      "furnishing": "Furnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500126459951?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500968885124?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500296779452?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500772526933?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500846990776?w=800&q=80&category=architecture"
+    ],
+    "agent": {
+      "id": "A23",
+      "name": "Agent 36",
+      "phone": "+11 299 824 2751",
+      "email": "agent93@iwrealty.com",
+      "photo": "/images/icons/png/paris-heritage-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": false,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": true,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-01-25T10:50:47.208Z",
+    "updatedAt": "2025-11-13T10:50:47.208Z",
+    "storeId": "store-010"
+  },
+  {
+    "id": "P02914",
+    "type": "rent",
+    "category": {
+      "main": "commercial",
+      "sub": "clinic"
+    },
+    "title": "Kiralık Klinik - Paris",
+    "slug": "kiralik-klinik-paris-P02914",
+    "description": "Paris, France bölgesinde klinik. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 11575369,
+    "location": {
+      "country": "FR",
+      "city": "Paris",
+      "district": "Paris Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 854",
+      "coordinates": {
+        "lat": 45.50157138339059,
+        "lng": 2.0458893457892726
+      }
+    },
+    "specs": {
+      "netSize": 540,
+      "grossSize": 648,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 17,
+      "floor": 9,
+      "totalFloors": 14,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Furnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500631407901?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500515219163?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500241348087?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500899456686?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500605020515?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500310292828?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500187272653?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500406749051?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500900291776?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500395496942?w=800&q=80&category=building"
+    ],
+    "agent": {
+      "id": "A88",
+      "name": "Agent 16",
+      "phone": "+28 291 581 2680",
+      "email": "agent65@iwrealty.com",
+      "photo": "/images/icons/png/paris-heritage-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-09-05T10:50:47.208Z",
+    "updatedAt": "2025-11-13T10:50:47.208Z",
+    "storeId": "store-010"
+  },
+  {
+    "id": "P02915",
+    "type": "sale",
+    "category": {
+      "main": "commercial",
+      "sub": "shop"
+    },
+    "title": "Satılık Dükkan - France City",
+    "slug": "satilik-dükkan-france-city-P02915",
+    "description": "France City, France bölgesinde dükkan. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 3718552,
+    "location": {
+      "country": "FR",
+      "city": "France City",
+      "district": "France City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 68",
+      "coordinates": {
+        "lat": 46.13244738613373,
+        "lng": 2.1912915579960113
+      }
+    },
+    "specs": {
+      "netSize": 483,
+      "grossSize": 580,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 1,
+      "floor": 12,
+      "totalFloors": 9,
+      "heating": "Merkezi",
+      "furnishing": "Unfurnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500022914974?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500663633770?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500328529119?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500273143462?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500641621084?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500980228945?w=800&q=80&category=building"
+    ],
+    "agent": {
+      "id": "A59",
+      "name": "Agent 20",
+      "phone": "+60 358 115 7604",
+      "email": "agent24@iwrealty.com",
+      "photo": "/images/icons/png/paris-heritage-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": false,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": true,
+      "hasSecurity": true
+    },
+    "createdAt": "2024-11-26T10:50:47.208Z",
+    "updatedAt": "2025-11-13T10:50:47.208Z",
+    "storeId": "store-010"
+  },
+  {
+    "id": "P02916",
+    "type": "rent",
+    "category": {
+      "main": "commercial",
+      "sub": "shop"
+    },
+    "title": "Kiralık Dükkan - France City",
+    "slug": "kiralik-dükkan-france-city-P02916",
+    "description": "France City, France bölgesinde dükkan. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 1275975,
+    "location": {
+      "country": "FR",
+      "city": "France City",
+      "district": "France City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 612",
+      "coordinates": {
+        "lat": 46.40387771251896,
+        "lng": 2.469129461609305
+      }
+    },
+    "specs": {
+      "netSize": 150,
+      "grossSize": 180,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 15,
+      "floor": 4,
+      "totalFloors": 15,
+      "heating": "Klima",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500244625454?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500316907902?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500972513860?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500091226094?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500082117774?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500428711122?w=800&q=80&category=house"
+    ],
+    "agent": {
+      "id": "A48",
+      "name": "Agent 35",
+      "phone": "+26 107 262 5678",
+      "email": "agent60@iwrealty.com",
+      "photo": "/images/icons/png/paris-heritage-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-06-06T10:50:47.208Z",
+    "updatedAt": "2025-11-13T10:50:47.208Z",
+    "storeId": "store-010"
+  },
+  {
+    "id": "P02917",
+    "type": "sale",
+    "category": {
+      "main": "commercial",
+      "sub": "office"
+    },
+    "title": "Satılık Ofis - France City",
+    "slug": "satilik-ofis-france-city-P02917",
+    "description": "France City, France bölgesinde ofis. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 7068527,
+    "location": {
+      "country": "FR",
+      "city": "France City",
+      "district": "France City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 395",
+      "coordinates": {
+        "lat": 46.47263714087673,
+        "lng": 1.9797745496947474
+      }
+    },
+    "specs": {
+      "netSize": 220,
+      "grossSize": 264,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 19,
+      "floor": 10,
+      "totalFloors": 6,
+      "heating": "Merkezi",
+      "furnishing": "Furnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500747906134?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500125938773?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500319264046?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500908388258?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500545259478?w=800&q=80&category=building"
+    ],
+    "agent": {
+      "id": "A23",
+      "name": "Agent 64",
+      "phone": "+10 761 647 1873",
+      "email": "agent41@iwrealty.com",
+      "photo": "/images/icons/png/paris-heritage-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-01-29T10:50:47.208Z",
+    "updatedAt": "2025-11-13T10:50:47.208Z",
+    "storeId": "store-010"
+  },
+  {
+    "id": "P02918",
+    "type": "rent",
+    "category": {
+      "main": "commercial",
+      "sub": "office"
+    },
+    "title": "Kiralık Ofis - New France",
+    "slug": "kiralik-ofis-new-france-P02918",
+    "description": "New France, France bölgesinde ofis. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 9788076,
+    "location": {
+      "country": "FR",
+      "city": "New France",
+      "district": "New France Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 557",
+      "coordinates": {
+        "lat": 45.7933857809322,
+        "lng": 2.152970130134166
+      }
+    },
+    "specs": {
+      "netSize": 639,
+      "grossSize": 767,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 20,
+      "floor": 3,
+      "totalFloors": 14,
+      "heating": "Klima",
+      "furnishing": "Unfurnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500507944961?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500518932286?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500651209517?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500325645192?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500518302569?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500906484417?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500077105323?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500845974641?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500771654753?w=800&q=80&category=house"
+    ],
+    "agent": {
+      "id": "A3",
+      "name": "Agent 95",
+      "phone": "+45 471 454 5515",
+      "email": "agent70@iwrealty.com",
+      "photo": "/images/icons/png/paris-heritage-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": false,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": true,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-04-07T10:50:47.208Z",
+    "updatedAt": "2025-11-13T10:50:47.208Z",
+    "storeId": "store-010"
+  },
+  {
+    "id": "P02919",
+    "type": "sale",
+    "category": {
+      "main": "commercial",
+      "sub": "mall"
+    },
+    "title": "Satılık AVM - New France",
+    "slug": "satilik-avm-new-france-P02919",
+    "description": "New France, France bölgesinde avm. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 404179101,
+    "location": {
+      "country": "FR",
+      "city": "New France",
+      "district": "New France Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 390",
+      "coordinates": {
+        "lat": 46.13358382861566,
+        "lng": 2.0166119424019042
+      }
+    },
+    "specs": {
+      "netSize": 14289,
+      "grossSize": 17147,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 9,
+      "floor": 6,
+      "totalFloors": 16,
+      "heating": "Merkezi",
+      "furnishing": "Unfurnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500353726904?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500709031626?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500979987819?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500861458918?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500980456552?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500342628219?w=800&q=80&category=real-estate"
+    ],
+    "agent": {
+      "id": "A42",
+      "name": "Agent 92",
+      "phone": "+27 811 350 7480",
+      "email": "agent36@iwrealty.com",
+      "photo": "/images/icons/png/paris-heritage-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-01-19T10:50:47.208Z",
+    "updatedAt": "2025-11-13T10:50:47.208Z",
+    "storeId": "store-010"
+  },
+  {
+    "id": "P02920",
+    "type": "rent",
+    "category": {
+      "main": "commercial",
+      "sub": "mall"
+    },
+    "title": "Kiralık AVM - New France",
+    "slug": "kiralik-avm-new-france-P02920",
+    "description": "New France, France bölgesinde avm. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 451097192,
+    "location": {
+      "country": "FR",
+      "city": "New France",
+      "district": "New France Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 984",
+      "coordinates": {
+        "lat": 45.690354836567174,
+        "lng": 2.460769539237093
+      }
+    },
+    "specs": {
+      "netSize": 41264,
+      "grossSize": 49517,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 1,
+      "floor": 1,
+      "totalFloors": 15,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Unfurnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500985324646?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500363593272?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500244878926?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500974954642?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500520955398?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500468670769?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500630962659?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500226515202?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500245163303?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500764494016?w=800&q=80&category=architecture"
+    ],
+    "agent": {
+      "id": "A5",
+      "name": "Agent 72",
+      "phone": "+98 779 698 8159",
+      "email": "agent93@iwrealty.com",
+      "photo": "/images/icons/png/paris-heritage-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": false,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": true,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-05-21T10:50:47.208Z",
+    "updatedAt": "2025-11-13T10:50:47.208Z",
+    "storeId": "store-010"
+  },
+  {
+    "id": "P02921",
+    "type": "sale",
+    "category": {
+      "main": "commercial",
+      "sub": "hotel"
+    },
+    "title": "Satılık Otel - France City",
+    "slug": "satilik-otel-france-city-P02921",
+    "description": "France City, France bölgesinde otel. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 169149573,
+    "location": {
+      "country": "FR",
+      "city": "France City",
+      "district": "France City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 930",
+      "coordinates": {
+        "lat": 45.65529140728748,
+        "lng": 1.9374257355080733
+      }
+    },
+    "specs": {
+      "netSize": 11232,
+      "grossSize": 13478,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 1,
+      "floor": 5,
+      "totalFloors": 5,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500466161475?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500313957192?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500006470002?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500776345967?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500845693309?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500058994207?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500302254203?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500001499913?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500994024578?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500428624929?w=800&q=80&category=real-estate"
+    ],
+    "agent": {
+      "id": "A88",
+      "name": "Agent 5",
+      "phone": "+26 289 590 2501",
+      "email": "agent51@iwrealty.com",
+      "photo": "/images/icons/png/paris-heritage-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": true,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-04-21T10:50:47.208Z",
+    "updatedAt": "2025-11-13T10:50:47.208Z",
+    "storeId": "store-010"
+  },
+  {
+    "id": "P02922",
+    "type": "rent",
+    "category": {
+      "main": "commercial",
+      "sub": "hotel"
+    },
+    "title": "Kiralık Otel - Paris",
+    "slug": "kiralik-otel-paris-P02922",
+    "description": "Paris, France bölgesinde otel. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 80096991,
+    "location": {
+      "country": "FR",
+      "city": "Paris",
+      "district": "Paris Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 102",
+      "coordinates": {
+        "lat": 46.235228419980785,
+        "lng": 1.5475423746525931
+      }
+    },
+    "specs": {
+      "netSize": 27494,
+      "grossSize": 32993,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 20,
+      "floor": 11,
+      "totalFloors": 16,
+      "heating": "Merkezi",
+      "furnishing": "Unfurnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500973027558?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500582650173?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500781878035?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500516946297?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500986675990?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500627428458?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500559078085?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500622499459?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500349490722?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500879790063?w=800&q=80&category=architecture"
+    ],
+    "agent": {
+      "id": "A50",
+      "name": "Agent 50",
+      "phone": "+19 644 397 3686",
+      "email": "agent75@iwrealty.com",
+      "photo": "/images/icons/png/paris-heritage-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": true,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-05-28T10:50:47.208Z",
+    "updatedAt": "2025-11-13T10:50:47.208Z",
+    "storeId": "store-010"
+  },
+  {
+    "id": "P02923",
+    "type": "sale",
+    "category": {
+      "main": "commercial",
+      "sub": "restaurant"
+    },
+    "title": "Satılık Restoran - France Central",
+    "slug": "satilik-restoran-france-central-P02923",
+    "description": "France Central, France bölgesinde restoran. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 6401912,
+    "location": {
+      "country": "FR",
+      "city": "France Central",
+      "district": "France Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 531",
+      "coordinates": {
+        "lat": 46.128729094549016,
+        "lng": 1.7802239915099913
+      }
+    },
+    "specs": {
+      "netSize": 1251,
+      "grossSize": 1501,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 10,
+      "floor": 11,
+      "totalFloors": 16,
+      "heating": "Kombi",
+      "furnishing": "Unfurnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500183917202?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500257430464?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500088982254?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500714004980?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500459030875?w=800&q=80&category=building"
+    ],
+    "agent": {
+      "id": "A31",
+      "name": "Agent 55",
+      "phone": "+34 449 364 3110",
+      "email": "agent71@iwrealty.com",
+      "photo": "/images/icons/png/paris-heritage-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": false,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-07-13T10:50:47.208Z",
+    "updatedAt": "2025-11-13T10:50:47.208Z",
+    "storeId": "store-010"
+  },
+  {
+    "id": "P02924",
+    "type": "rent",
+    "category": {
+      "main": "commercial",
+      "sub": "restaurant"
+    },
+    "title": "Kiralık Restoran - France Central",
+    "slug": "kiralik-restoran-france-central-P02924",
+    "description": "France Central, France bölgesinde restoran. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 9402433,
+    "location": {
+      "country": "FR",
+      "city": "France Central",
+      "district": "France Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 143",
+      "coordinates": {
+        "lat": 45.501928155308406,
+        "lng": 1.9100595705911663
+      }
+    },
+    "specs": {
+      "netSize": 1266,
+      "grossSize": 1519,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 17,
+      "floor": 11,
+      "totalFloors": 7,
+      "heating": "Kombi",
+      "furnishing": "Unfurnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500731685708?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500287054506?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500658610826?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500266069787?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500567575823?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500090382673?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500768352674?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500786113418?w=800&q=80&category=interior"
+    ],
+    "agent": {
+      "id": "A61",
+      "name": "Agent 94",
+      "phone": "+32 656 977 4243",
+      "email": "agent14@iwrealty.com",
+      "photo": "/images/icons/png/paris-heritage-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": true,
+      "hasSecurity": false
+    },
+    "createdAt": "2024-12-28T10:50:47.208Z",
+    "updatedAt": "2025-11-13T10:50:47.208Z",
+    "storeId": "store-010"
+  },
+  {
+    "id": "P02925",
+    "type": "sale",
+    "category": {
+      "main": "commercial",
+      "sub": "warehouse"
+    },
+    "title": "Satılık Depo - France City",
+    "slug": "satilik-depo-france-city-P02925",
+    "description": "France City, France bölgesinde depo. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 26066131,
+    "location": {
+      "country": "FR",
+      "city": "France City",
+      "district": "France City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 571",
+      "coordinates": {
+        "lat": 46.33922005802905,
+        "lng": 1.8701523038359127
+      }
+    },
+    "specs": {
+      "netSize": 1532,
+      "grossSize": 1838,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 0,
+      "floor": 6,
+      "totalFloors": 17,
+      "heating": "Merkezi",
+      "furnishing": "Unfurnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500040060539?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500247172869?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500579536535?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500507268642?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500454851861?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500138330544?w=800&q=80&category=house"
+    ],
+    "agent": {
+      "id": "A73",
+      "name": "Agent 1",
+      "phone": "+26 529 214 6128",
+      "email": "agent61@iwrealty.com",
+      "photo": "/images/icons/png/paris-heritage-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-08-09T10:50:47.208Z",
+    "updatedAt": "2025-11-13T10:50:47.208Z",
+    "storeId": "store-010"
+  },
+  {
+    "id": "P02926",
+    "type": "rent",
+    "category": {
+      "main": "commercial",
+      "sub": "warehouse"
+    },
+    "title": "Kiralık Depo - France Central",
+    "slug": "kiralik-depo-france-central-P02926",
+    "description": "France Central, France bölgesinde depo. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 17710275,
+    "location": {
+      "country": "FR",
+      "city": "France Central",
+      "district": "France Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 954",
+      "coordinates": {
+        "lat": 45.826544675685845,
+        "lng": 1.6653224110108094
+      }
+    },
+    "specs": {
+      "netSize": 6419,
+      "grossSize": 7703,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 17,
+      "floor": 4,
+      "totalFloors": 9,
+      "heating": "Merkezi",
+      "furnishing": "Unfurnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500818438879?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500352050428?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500441891294?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500106930640?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500611444328?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500933755993?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500552513831?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500780998989?w=800&q=80&category=real-estate"
+    ],
+    "agent": {
+      "id": "A88",
+      "name": "Agent 18",
+      "phone": "+68 114 551 9634",
+      "email": "agent43@iwrealty.com",
+      "photo": "/images/icons/png/paris-heritage-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-02-09T10:50:47.208Z",
+    "updatedAt": "2025-11-13T10:50:47.208Z",
+    "storeId": "store-010"
+  }
+]

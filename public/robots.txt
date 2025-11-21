@@ -1,0 +1,23 @@
+# https://www.robotstxt.org/robotstxt.html
+
+User-agent: *
+Allow: /
+
+# Sitemaps
+Sitemap: https://iremworld.com/sitemap.xml
+
+# Disallow admin and management routes
+Disallow: /iw-management/
+Disallow: /login/
+Disallow: /api/
+
+# Allow key property listing pages
+Allow: /for-rent/
+Allow: /for-sale/
+Allow: /kiralik/
+Allow: /satilik/
+Allow: /all/
+Allow: /investment-opportunities/
+
+# Crawl-delay
+Crawl-delay: 1

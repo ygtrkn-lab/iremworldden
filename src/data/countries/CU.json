@@ -1,0 +1,2353 @@
+[
+  {
+    "id": "P02053",
+    "type": "sale",
+    "category": {
+      "main": "government"
+    },
+    "title": "Satılık Devlet Binası - Cuba Central",
+    "slug": "satilik-devlet-binası-cuba-central-P02053",
+    "description": "Cuba Central, Cuba bölgesinde devlet binası. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 33860684,
+    "location": {
+      "country": "CU",
+      "city": "Cuba Central",
+      "district": "Cuba Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 18",
+      "coordinates": {
+        "lat": 21.312906572938118,
+        "lng": -80.17159011499997
+      }
+    },
+    "specs": {
+      "netSize": 2636,
+      "grossSize": 3163,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 10,
+      "floor": 15,
+      "totalFloors": 12,
+      "heating": "Kombi",
+      "furnishing": "Furnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500480406699?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500055652769?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500887016396?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500693263558?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500618394126?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500836518506?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500271236107?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500891596182?w=800&q=80&category=house"
+    ],
+    "agent": {
+      "id": "A62",
+      "name": "Agent 95",
+      "phone": "+69 920 748 9427",
+      "email": "agent9@iwrealty.com",
+      "photo": "/images/icons/png/berlin-urban-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-03-23T10:50:47.200Z",
+    "updatedAt": "2025-11-13T10:50:47.200Z",
+    "storeId": "store-009"
+  },
+  {
+    "id": "P02054",
+    "type": "rent",
+    "category": {
+      "main": "government"
+    },
+    "title": "Kiralık Okul - New Cuba",
+    "slug": "kiralik-okul-new-cuba-P02054",
+    "description": "New Cuba, Cuba bölgesinde okul. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 41433760,
+    "location": {
+      "country": "CU",
+      "city": "New Cuba",
+      "district": "New Cuba Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 781",
+      "coordinates": {
+        "lat": 21.09221655413757,
+        "lng": -80.17509280401981
+      }
+    },
+    "specs": {
+      "netSize": 2166,
+      "grossSize": 2599,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 18,
+      "floor": 1,
+      "totalFloors": 9,
+      "heating": "Kombi",
+      "furnishing": "Furnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500275999944?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500502226611?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500834232333?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500389084077?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500627845859?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500635207948?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500697977061?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500881038327?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500087914940?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500415328061?w=800&q=80&category=architecture"
+    ],
+    "agent": {
+      "id": "A10",
+      "name": "Agent 82",
+      "phone": "+44 954 999 4843",
+      "email": "agent86@iwrealty.com",
+      "photo": "/images/icons/png/antalya-investment-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-01-16T10:50:47.200Z",
+    "updatedAt": "2025-11-13T10:50:47.200Z",
+    "storeId": "store-006"
+  },
+  {
+    "id": "P02055",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Müstakil Ev - Cuba Central",
+    "slug": "satilik-müstakil-ev-cuba-central-P02055",
+    "description": "Cuba Central, Cuba bölgesinde müstakil ev. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 10297635,
+    "location": {
+      "country": "CU",
+      "city": "Cuba Central",
+      "district": "Cuba Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 340",
+      "coordinates": {
+        "lat": 21.55343108356297,
+        "lng": -79.95619579500021
+      }
+    },
+    "specs": {
+      "netSize": 204,
+      "grossSize": 245,
+      "rooms": "5+2",
+      "bathrooms": 1,
+      "age": 10,
+      "floor": 12,
+      "totalFloors": 9,
+      "heating": "Merkezi",
+      "furnishing": "Furnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500357946103?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500399117154?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500001132649?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500373602323?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500839379102?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500825847958?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500815843210?w=800&q=80&category=real-estate"
+    ],
+    "agent": {
+      "id": "A23",
+      "name": "Agent 27",
+      "phone": "+72 624 458 6140",
+      "email": "agent57@iwrealty.com",
+      "photo": "/images/icons/png/luxury-homes-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2024-12-05T10:50:47.200Z",
+    "updatedAt": "2025-11-13T10:50:47.200Z",
+    "storeId": "store-002"
+  },
+  {
+    "id": "P02056",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Müstakil Ev - Havana",
+    "slug": "kiralik-müstakil-ev-havana-P02056",
+    "description": "Havana, Cuba bölgesinde müstakil ev. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 10144503,
+    "location": {
+      "country": "CU",
+      "city": "Havana",
+      "district": "Havana Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 580",
+      "coordinates": {
+        "lat": 21.697768183607348,
+        "lng": -79.76686539242483
+      }
+    },
+    "specs": {
+      "netSize": 442,
+      "grossSize": 530,
+      "rooms": "1+2",
+      "bathrooms": 3,
+      "age": 15,
+      "floor": 12,
+      "totalFloors": 15,
+      "heating": "Klima",
+      "furnishing": "Furnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500372726425?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500861074588?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500140296058?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500657881453?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500799400559?w=800&q=80&category=real-estate"
+    ],
+    "agent": {
+      "id": "A31",
+      "name": "Agent 37",
+      "phone": "+49 277 480 8519",
+      "email": "agent17@iwrealty.com",
+      "photo": "/images/icons/png/sg-harbour-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": true,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-08-30T10:50:47.200Z",
+    "updatedAt": "2025-11-13T10:50:47.200Z",
+    "storeId": "store-011"
+  },
+  {
+    "id": "P02057",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Residence - Cuba Central",
+    "slug": "satilik-residence-cuba-central-P02057",
+    "description": "Cuba Central, Cuba bölgesinde residence. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 10924782,
+    "location": {
+      "country": "CU",
+      "city": "Cuba Central",
+      "district": "Cuba Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 314",
+      "coordinates": {
+        "lat": 21.05109265457526,
+        "lng": -79.68930456426553
+      }
+    },
+    "specs": {
+      "netSize": 483,
+      "grossSize": 580,
+      "rooms": "5+1",
+      "bathrooms": 4,
+      "age": 12,
+      "floor": 6,
+      "totalFloors": 15,
+      "heating": "Klima",
+      "furnishing": "Furnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500441990372?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500421816520?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500586278671?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500730238071?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500221329520?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500011011812?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500869036956?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500721189622?w=800&q=80&category=building"
+    ],
+    "agent": {
+      "id": "A88",
+      "name": "Agent 4",
+      "phone": "+67 701 818 6820",
+      "email": "agent15@iwrealty.com",
+      "photo": "/images/icons/png/london-prime-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-10-27T10:50:47.200Z",
+    "updatedAt": "2025-11-13T10:50:47.200Z",
+    "storeId": "store-007"
+  },
+  {
+    "id": "P02058",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Villa - New Cuba",
+    "slug": "kiralik-villa-new-cuba-P02058",
+    "description": "New Cuba, Cuba bölgesinde villa. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 6228688,
+    "location": {
+      "country": "CU",
+      "city": "New Cuba",
+      "district": "New Cuba Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 227",
+      "coordinates": {
+        "lat": 21.06247516285296,
+        "lng": -80.47708120646689
+      }
+    },
+    "specs": {
+      "netSize": 416,
+      "grossSize": 499,
+      "rooms": "4+1",
+      "bathrooms": 4,
+      "age": 17,
+      "floor": 14,
+      "totalFloors": 17,
+      "heating": "Klima",
+      "furnishing": "Furnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500156170450?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500908918797?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500668711652?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500086364845?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500866328027?w=800&q=80&category=interior"
+    ],
+    "agent": {
+      "id": "A43",
+      "name": "Agent 1",
+      "phone": "+52 499 582 8485",
+      "email": "agent95@iwrealty.com",
+      "photo": "/images/icons/png/ankara-modern-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-08-21T10:50:47.200Z",
+    "updatedAt": "2025-11-13T10:50:47.200Z",
+    "storeId": "store-003"
+  },
+  {
+    "id": "P02059",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Residence - Cuba Central",
+    "slug": "satilik-residence-cuba-central-P02059",
+    "description": "Cuba Central, Cuba bölgesinde residence. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 13767759,
+    "location": {
+      "country": "CU",
+      "city": "Cuba Central",
+      "district": "Cuba Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 261",
+      "coordinates": {
+        "lat": 21.79094110756486,
+        "lng": -79.66354610254058
+      }
+    },
+    "specs": {
+      "netSize": 407,
+      "grossSize": 488,
+      "rooms": "3+1",
+      "bathrooms": 4,
+      "age": 19,
+      "floor": 10,
+      "totalFloors": 18,
+      "heating": "Klima",
+      "furnishing": "Furnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500957289494?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500043678753?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500726946543?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500076850173?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500232147156?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500023206332?w=800&q=80&category=building"
+    ],
+    "agent": {
+      "id": "A86",
+      "name": "Agent 7",
+      "phone": "+79 243 867 6252",
+      "email": "agent21@iwrealty.com",
+      "photo": "/images/icons/png/antalya-investment-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-10-19T10:50:47.200Z",
+    "updatedAt": "2025-11-13T10:50:47.200Z",
+    "storeId": "store-006"
+  },
+  {
+    "id": "P02060",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Villa - Cuba Central",
+    "slug": "kiralik-villa-cuba-central-P02060",
+    "description": "Cuba Central, Cuba bölgesinde villa. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 4308421,
+    "location": {
+      "country": "CU",
+      "city": "Cuba Central",
+      "district": "Cuba Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 540",
+      "coordinates": {
+        "lat": 21.601870965486775,
+        "lng": -80.33238602370797
+      }
+    },
+    "specs": {
+      "netSize": 188,
+      "grossSize": 226,
+      "rooms": "4+1",
+      "bathrooms": 3,
+      "age": 8,
+      "floor": 8,
+      "totalFloors": 17,
+      "heating": "Kombi",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500929498194?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500646624270?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500901306011?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500480413986?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500579012528?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500039215175?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500181048430?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500256310054?w=800&q=80&category=real-estate"
+    ],
+    "agent": {
+      "id": "A32",
+      "name": "Agent 2",
+      "phone": "+50 312 497 8414",
+      "email": "agent87@iwrealty.com",
+      "photo": "/images/icons/png/izmir-sahil-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-05-23T10:50:47.200Z",
+    "updatedAt": "2025-11-13T10:50:47.200Z",
+    "storeId": "store-005"
+  },
+  {
+    "id": "P02061",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Villa - New Cuba",
+    "slug": "satilik-villa-new-cuba-P02061",
+    "description": "New Cuba, Cuba bölgesinde villa. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 3234256,
+    "location": {
+      "country": "CU",
+      "city": "New Cuba",
+      "district": "New Cuba Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 748",
+      "coordinates": {
+        "lat": 21.64380719315467,
+        "lng": -79.55824376150302
+      }
+    },
+    "specs": {
+      "netSize": 394,
+      "grossSize": 473,
+      "rooms": "1+1",
+      "bathrooms": 2,
+      "age": 5,
+      "floor": 7,
+      "totalFloors": 12,
+      "heating": "Merkezi",
+      "furnishing": "Unfurnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500502423233?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500385705710?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500230646677?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500727278939?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500620587051?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500653927017?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500524914667?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500656515448?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500103096862?w=800&q=80&category=architecture"
+    ],
+    "agent": {
+      "id": "A72",
+      "name": "Agent 36",
+      "phone": "+90 326 961 2605",
+      "email": "agent33@iwrealty.com",
+      "photo": "/images/icons/png/ankara-modern-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": false,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": true,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-02-17T10:50:47.200Z",
+    "updatedAt": "2025-11-13T10:50:47.200Z",
+    "storeId": "store-003"
+  },
+  {
+    "id": "P02062",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Villa - New Cuba",
+    "slug": "kiralik-villa-new-cuba-P02062",
+    "description": "New Cuba, Cuba bölgesinde villa. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 4045867,
+    "location": {
+      "country": "CU",
+      "city": "New Cuba",
+      "district": "New Cuba Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 413",
+      "coordinates": {
+        "lat": 21.68847413522209,
+        "lng": -79.78474924948131
+      }
+    },
+    "specs": {
+      "netSize": 155,
+      "grossSize": 186,
+      "rooms": "5+1",
+      "bathrooms": 3,
+      "age": 8,
+      "floor": 15,
+      "totalFloors": 6,
+      "heating": "Merkezi",
+      "furnishing": "Furnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500155394854?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500034913378?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500552486002?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500614105405?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500799247097?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500316832524?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500988178541?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500243637040?w=800&q=80&category=house"
+    ],
+    "agent": {
+      "id": "A46",
+      "name": "Agent 80",
+      "phone": "+90 131 869 2974",
+      "email": "agent6@iwrealty.com",
+      "photo": "/images/icons/png/antalya-investment-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": false,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-10-01T10:50:47.200Z",
+    "updatedAt": "2025-11-13T10:50:47.200Z",
+    "storeId": "store-006"
+  },
+  {
+    "id": "P02063",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Residence - Havana",
+    "slug": "satilik-residence-havana-P02063",
+    "description": "Havana, Cuba bölgesinde residence. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 5752724,
+    "location": {
+      "country": "CU",
+      "city": "Havana",
+      "district": "Havana Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 894",
+      "coordinates": {
+        "lat": 21.138314202417522,
+        "lng": -80.0315665357376
+      }
+    },
+    "specs": {
+      "netSize": 448,
+      "grossSize": 538,
+      "rooms": "1+1",
+      "bathrooms": 1,
+      "age": 15,
+      "floor": 13,
+      "totalFloors": 14,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Furnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500689306132?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500226754559?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500908503439?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500275675763?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500691691314?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500823147732?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500749400333?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500919589817?w=800&q=80&category=building"
+    ],
+    "agent": {
+      "id": "A39",
+      "name": "Agent 38",
+      "phone": "+78 929 655 7385",
+      "email": "agent92@iwrealty.com",
+      "photo": "/images/icons/png/london-prime-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2024-12-29T10:50:47.200Z",
+    "updatedAt": "2025-11-13T10:50:47.200Z",
+    "storeId": "store-007"
+  },
+  {
+    "id": "P02064",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Daire - New Cuba",
+    "slug": "kiralik-daire-new-cuba-P02064",
+    "description": "New Cuba, Cuba bölgesinde daire. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 3673136,
+    "location": {
+      "country": "CU",
+      "city": "New Cuba",
+      "district": "New Cuba Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 97",
+      "coordinates": {
+        "lat": 21.654881975542548,
+        "lng": -79.96119170067992
+      }
+    },
+    "specs": {
+      "netSize": 373,
+      "grossSize": 448,
+      "rooms": "4+0",
+      "bathrooms": 4,
+      "age": 12,
+      "floor": 4,
+      "totalFloors": 8,
+      "heating": "Kombi",
+      "furnishing": "Furnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500550111296?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500684120644?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500772117485?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500823116498?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500173357996?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500757318259?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500168062371?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500132413355?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500561313074?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500522143598?w=800&q=80&category=real-estate"
+    ],
+    "agent": {
+      "id": "A51",
+      "name": "Agent 61",
+      "phone": "+85 172 926 4295",
+      "email": "agent83@iwrealty.com",
+      "photo": "/images/icons/png/ny-skyline-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-06-29T10:50:47.200Z",
+    "updatedAt": "2025-11-13T10:50:47.200Z",
+    "storeId": "store-008"
+  },
+  {
+    "id": "P02065",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Müstakil Ev - Havana",
+    "slug": "satilik-müstakil-ev-havana-P02065",
+    "description": "Havana, Cuba bölgesinde müstakil ev. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 12701338,
+    "location": {
+      "country": "CU",
+      "city": "Havana",
+      "district": "Havana Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 893",
+      "coordinates": {
+        "lat": 21.109752026468644,
+        "lng": -80.0091271321613
+      }
+    },
+    "specs": {
+      "netSize": 266,
+      "grossSize": 319,
+      "rooms": "5+2",
+      "bathrooms": 3,
+      "age": 8,
+      "floor": 11,
+      "totalFloors": 5,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500906051103?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500730469762?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500875460683?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500989320455?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500903850857?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500505460545?w=800&q=80&category=house"
+    ],
+    "agent": {
+      "id": "A61",
+      "name": "Agent 8",
+      "phone": "+85 321 953 6336",
+      "email": "agent78@iwrealty.com",
+      "photo": "/images/icons/png/ankara-modern-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": false,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-01-30T10:50:47.200Z",
+    "updatedAt": "2025-11-13T10:50:47.200Z",
+    "storeId": "store-003"
+  },
+  {
+    "id": "P02066",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Residence - New Cuba",
+    "slug": "kiralik-residence-new-cuba-P02066",
+    "description": "New Cuba, Cuba bölgesinde residence. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 13325601,
+    "location": {
+      "country": "CU",
+      "city": "New Cuba",
+      "district": "New Cuba Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 46",
+      "coordinates": {
+        "lat": 21.717712519893055,
+        "lng": -80.02876408084279
+      }
+    },
+    "specs": {
+      "netSize": 358,
+      "grossSize": 430,
+      "rooms": "3+2",
+      "bathrooms": 1,
+      "age": 3,
+      "floor": 2,
+      "totalFloors": 20,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Furnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500711758503?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500028092756?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500374873422?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500841930432?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500009315484?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500909023318?w=800&q=80&category=architecture"
+    ],
+    "agent": {
+      "id": "A55",
+      "name": "Agent 75",
+      "phone": "+95 388 628 8732",
+      "email": "agent77@iwrealty.com",
+      "photo": "/images/icons/png/london-prime-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": false,
+      "hasBalcony": false,
+      "hasGarden": true,
+      "hasPool": true,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-07-12T10:50:47.200Z",
+    "updatedAt": "2025-11-13T10:50:47.200Z",
+    "storeId": "store-007"
+  },
+  {
+    "id": "P02067",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Müstakil Ev - Cuba City",
+    "slug": "satilik-müstakil-ev-cuba-city-P02067",
+    "description": "Cuba City, Cuba bölgesinde müstakil ev. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 6419723,
+    "location": {
+      "country": "CU",
+      "city": "Cuba City",
+      "district": "Cuba City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 687",
+      "coordinates": {
+        "lat": 21.92461744653298,
+        "lng": -80.2638565171984
+      }
+    },
+    "specs": {
+      "netSize": 414,
+      "grossSize": 497,
+      "rooms": "1+1",
+      "bathrooms": 1,
+      "age": 15,
+      "floor": 3,
+      "totalFloors": 18,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Unfurnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500898822646?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500074687035?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500398363102?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500565450622?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500515742733?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500401695942?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500338365309?w=800&q=80&category=building"
+    ],
+    "agent": {
+      "id": "A35",
+      "name": "Agent 10",
+      "phone": "+39 843 514 1400",
+      "email": "agent12@iwrealty.com",
+      "photo": "/images/icons/png/izmir-sahil-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-04-19T10:50:47.200Z",
+    "updatedAt": "2025-11-13T10:50:47.200Z",
+    "storeId": "store-005"
+  },
+  {
+    "id": "P02068",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Daire - Cuba Central",
+    "slug": "kiralik-daire-cuba-central-P02068",
+    "description": "Cuba Central, Cuba bölgesinde daire. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 9505079,
+    "location": {
+      "country": "CU",
+      "city": "Cuba Central",
+      "district": "Cuba Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 903",
+      "coordinates": {
+        "lat": 21.454301677064784,
+        "lng": -80.49245903555978
+      }
+    },
+    "specs": {
+      "netSize": 192,
+      "grossSize": 230,
+      "rooms": "5+2",
+      "bathrooms": 1,
+      "age": 14,
+      "floor": 9,
+      "totalFloors": 6,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Unfurnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500498052721?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500084643193?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500361432272?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500510253058?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500060254805?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500950386937?w=800&q=80&category=interior"
+    ],
+    "agent": {
+      "id": "A6",
+      "name": "Agent 77",
+      "phone": "+79 307 782 4061",
+      "email": "agent30@iwrealty.com",
+      "photo": "/images/icons/png/london-prime-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": false,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": true,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-11-11T10:50:47.200Z",
+    "updatedAt": "2025-11-13T10:50:47.200Z",
+    "storeId": "store-007"
+  },
+  {
+    "id": "P02069",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Residence - Cuba Central",
+    "slug": "satilik-residence-cuba-central-P02069",
+    "description": "Cuba Central, Cuba bölgesinde residence. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 6136605,
+    "location": {
+      "country": "CU",
+      "city": "Cuba Central",
+      "district": "Cuba Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 550",
+      "coordinates": {
+        "lat": 21.557746776025112,
+        "lng": -80.0068280636369
+      }
+    },
+    "specs": {
+      "netSize": 495,
+      "grossSize": 594,
+      "rooms": "5+1",
+      "bathrooms": 1,
+      "age": 3,
+      "floor": 10,
+      "totalFloors": 6,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Furnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500830249967?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500187872119?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500657289511?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500176901425?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500923781836?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500325717557?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500119673382?w=800&q=80&category=house"
+    ],
+    "agent": {
+      "id": "A100",
+      "name": "Agent 22",
+      "phone": "+67 134 244 3673",
+      "email": "agent20@iwrealty.com",
+      "photo": "/images/icons/png/sydney-coastal-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": false,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2024-11-26T10:50:47.200Z",
+    "updatedAt": "2025-11-13T10:50:47.200Z",
+    "storeId": "store-012"
+  },
+  {
+    "id": "P02070",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Daire - New Cuba",
+    "slug": "kiralik-daire-new-cuba-P02070",
+    "description": "New Cuba, Cuba bölgesinde daire. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 9893560,
+    "location": {
+      "country": "CU",
+      "city": "New Cuba",
+      "district": "New Cuba Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 592",
+      "coordinates": {
+        "lat": 21.074607437935107,
+        "lng": -80.08426064924647
+      }
+    },
+    "specs": {
+      "netSize": 94,
+      "grossSize": 113,
+      "rooms": "5+0",
+      "bathrooms": 2,
+      "age": 1,
+      "floor": 9,
+      "totalFloors": 18,
+      "heating": "Merkezi",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500690946049?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500262346728?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500429394046?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500375622217?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500059742292?w=800&q=80&category=house"
+    ],
+    "agent": {
+      "id": "A71",
+      "name": "Agent 74",
+      "phone": "+31 114 295 4857",
+      "email": "agent46@iwrealty.com",
+      "photo": "/images/icons/png/luxury-homes-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-03-19T10:50:47.200Z",
+    "updatedAt": "2025-11-13T10:50:47.200Z",
+    "storeId": "store-002"
+  },
+  {
+    "id": "P02071",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Villa - New Cuba",
+    "slug": "satilik-villa-new-cuba-P02071",
+    "description": "New Cuba, Cuba bölgesinde villa. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 7855068,
+    "location": {
+      "country": "CU",
+      "city": "New Cuba",
+      "district": "New Cuba Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 685",
+      "coordinates": {
+        "lat": 21.36119424631038,
+        "lng": -80.00812327232204
+      }
+    },
+    "specs": {
+      "netSize": 152,
+      "grossSize": 182,
+      "rooms": "1+1",
+      "bathrooms": 4,
+      "age": 5,
+      "floor": 3,
+      "totalFloors": 6,
+      "heating": "Klima",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500602244482?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500865685739?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500237597388?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500895097309?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500411265180?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500529599048?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500011929242?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500683868296?w=800&q=80&category=building"
+    ],
+    "agent": {
+      "id": "A13",
+      "name": "Agent 35",
+      "phone": "+72 484 142 6577",
+      "email": "agent55@iwrealty.com",
+      "photo": "/images/icons/png/ny-skyline-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-02-17T10:50:47.200Z",
+    "updatedAt": "2025-11-13T10:50:47.200Z",
+    "storeId": "store-008"
+  },
+  {
+    "id": "P02072",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Müstakil Ev - Cuba City",
+    "slug": "kiralik-müstakil-ev-cuba-city-P02072",
+    "description": "Cuba City, Cuba bölgesinde müstakil ev. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 3926026,
+    "location": {
+      "country": "CU",
+      "city": "Cuba City",
+      "district": "Cuba City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 662",
+      "coordinates": {
+        "lat": 21.10107038397779,
+        "lng": -80.39415240868426
+      }
+    },
+    "specs": {
+      "netSize": 476,
+      "grossSize": 571,
+      "rooms": "5+2",
+      "bathrooms": 4,
+      "age": 5,
+      "floor": 5,
+      "totalFloors": 6,
+      "heating": "Merkezi",
+      "furnishing": "Unfurnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500355711976?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500337897371?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500708325965?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500864775697?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500995040150?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500278827903?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500022036333?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500207057619?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500874213026?w=800&q=80&category=building"
+    ],
+    "agent": {
+      "id": "A75",
+      "name": "Agent 70",
+      "phone": "+31 783 110 1267",
+      "email": "agent68@iwrealty.com",
+      "photo": "/images/icons/png/sg-harbour-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-09-17T10:50:47.200Z",
+    "updatedAt": "2025-11-13T10:50:47.200Z",
+    "storeId": "store-011"
+  },
+  {
+    "id": "P02073",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Villa - Cuba Central",
+    "slug": "satilik-villa-cuba-central-P02073",
+    "description": "Cuba Central, Cuba bölgesinde villa. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 9309389,
+    "location": {
+      "country": "CU",
+      "city": "Cuba Central",
+      "district": "Cuba Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 232",
+      "coordinates": {
+        "lat": 21.598046876246762,
+        "lng": -79.87422335671579
+      }
+    },
+    "specs": {
+      "netSize": 418,
+      "grossSize": 502,
+      "rooms": "2+2",
+      "bathrooms": 2,
+      "age": 20,
+      "floor": 6,
+      "totalFloors": 9,
+      "heating": "Klima",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500107968064?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500658526618?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500952047578?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500446933272?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500667963997?w=800&q=80&category=interior"
+    ],
+    "agent": {
+      "id": "A16",
+      "name": "Agent 80",
+      "phone": "+32 865 698 1400",
+      "email": "agent96@iwrealty.com",
+      "photo": "/images/icons/png/sg-harbour-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-04-07T10:50:47.200Z",
+    "updatedAt": "2025-11-13T10:50:47.200Z",
+    "storeId": "store-011"
+  },
+  {
+    "id": "P02074",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Villa - Havana",
+    "slug": "kiralik-villa-havana-P02074",
+    "description": "Havana, Cuba bölgesinde villa. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 4131904,
+    "location": {
+      "country": "CU",
+      "city": "Havana",
+      "district": "Havana Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 298",
+      "coordinates": {
+        "lat": 21.034567000431046,
+        "lng": -79.86020470784355
+      }
+    },
+    "specs": {
+      "netSize": 206,
+      "grossSize": 247,
+      "rooms": "4+2",
+      "bathrooms": 4,
+      "age": 10,
+      "floor": 9,
+      "totalFloors": 6,
+      "heating": "Klima",
+      "furnishing": "Unfurnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500103285208?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500350322839?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500288232329?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500912217729?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500095693928?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500975529095?w=800&q=80&category=interior"
+    ],
+    "agent": {
+      "id": "A34",
+      "name": "Agent 27",
+      "phone": "+44 797 715 9221",
+      "email": "agent11@iwrealty.com",
+      "photo": "/images/icons/png/luxury-homes-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-05-07T10:50:47.200Z",
+    "updatedAt": "2025-11-13T10:50:47.200Z",
+    "storeId": "store-002"
+  },
+  {
+    "id": "P02075",
+    "type": "sale",
+    "category": {
+      "main": "commercial",
+      "sub": "hospital"
+    },
+    "title": "Satılık Hastane - Cuba City",
+    "slug": "satilik-hastane-cuba-city-P02075",
+    "description": "Cuba City, Cuba bölgesinde hastane. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 58194151,
+    "location": {
+      "country": "CU",
+      "city": "Cuba City",
+      "district": "Cuba City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 163",
+      "coordinates": {
+        "lat": 21.424723390202125,
+        "lng": -79.60281510099294
+      }
+    },
+    "specs": {
+      "netSize": 17948,
+      "grossSize": 21538,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 7,
+      "floor": 10,
+      "totalFloors": 6,
+      "heating": "Klima",
+      "furnishing": "Furnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500996671951?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500882887404?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500910519534?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500311441815?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500715690545?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500651022160?w=800&q=80&category=architecture"
+    ],
+    "agent": {
+      "id": "A42",
+      "name": "Agent 23",
+      "phone": "+18 309 488 8999",
+      "email": "agent39@iwrealty.com",
+      "photo": "/images/icons/png/london-prime-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-09-06T10:50:47.200Z",
+    "updatedAt": "2025-11-13T10:50:47.200Z",
+    "storeId": "store-007"
+  },
+  {
+    "id": "P02076",
+    "type": "rent",
+    "category": {
+      "main": "commercial",
+      "sub": "hospital"
+    },
+    "title": "Kiralık Hastane - Havana",
+    "slug": "kiralik-hastane-havana-P02076",
+    "description": "Havana, Cuba bölgesinde hastane. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 25673511,
+    "location": {
+      "country": "CU",
+      "city": "Havana",
+      "district": "Havana Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 108",
+      "coordinates": {
+        "lat": 21.867195807383933,
+        "lng": -80.29473093530125
+      }
+    },
+    "specs": {
+      "netSize": 8569,
+      "grossSize": 10283,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 20,
+      "floor": 2,
+      "totalFloors": 17,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Unfurnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500152158799?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500687713743?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500701948139?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500358888237?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500055413266?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500320002572?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500542124792?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500287940617?w=800&q=80&category=architecture"
+    ],
+    "agent": {
+      "id": "A60",
+      "name": "Agent 88",
+      "phone": "+79 203 580 6235",
+      "email": "agent83@iwrealty.com",
+      "photo": "/images/icons/png/sydney-coastal-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-07-22T10:50:47.200Z",
+    "updatedAt": "2025-11-13T10:50:47.200Z",
+    "storeId": "store-012"
+  },
+  {
+    "id": "P02077",
+    "type": "sale",
+    "category": {
+      "main": "commercial",
+      "sub": "clinic"
+    },
+    "title": "Satılık Klinik - Cuba Central",
+    "slug": "satilik-klinik-cuba-central-P02077",
+    "description": "Cuba Central, Cuba bölgesinde klinik. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 4468378,
+    "location": {
+      "country": "CU",
+      "city": "Cuba Central",
+      "district": "Cuba Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 132",
+      "coordinates": {
+        "lat": 21.7027297790355,
+        "lng": -80.3051514962968
+      }
+    },
+    "specs": {
+      "netSize": 576,
+      "grossSize": 691,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 10,
+      "floor": 14,
+      "totalFloors": 14,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Unfurnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500518739499?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500651564005?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500937797468?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500017024274?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500140147974?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500348076614?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500702490388?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500248174110?w=800&q=80&category=house"
+    ],
+    "agent": {
+      "id": "A11",
+      "name": "Agent 28",
+      "phone": "+71 686 928 4063",
+      "email": "agent58@iwrealty.com",
+      "photo": "/images/icons/png/luxury-homes-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-10-23T10:50:47.200Z",
+    "updatedAt": "2025-11-13T10:50:47.200Z",
+    "storeId": "store-002"
+  },
+  {
+    "id": "P02078",
+    "type": "rent",
+    "category": {
+      "main": "commercial",
+      "sub": "clinic"
+    },
+    "title": "Kiralık Klinik - Cuba Central",
+    "slug": "kiralik-klinik-cuba-central-P02078",
+    "description": "Cuba Central, Cuba bölgesinde klinik. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 7202289,
+    "location": {
+      "country": "CU",
+      "city": "Cuba Central",
+      "district": "Cuba Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 703",
+      "coordinates": {
+        "lat": 21.30214691336671,
+        "lng": -80.48940988957959
+      }
+    },
+    "specs": {
+      "netSize": 249,
+      "grossSize": 299,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 7,
+      "floor": 7,
+      "totalFloors": 17,
+      "heating": "Kombi",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500384616086?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500006357501?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500295587530?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500260628086?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500996256647?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500540200988?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500520060347?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500863704299?w=800&q=80&category=real-estate"
+    ],
+    "agent": {
+      "id": "A18",
+      "name": "Agent 46",
+      "phone": "+29 683 522 1487",
+      "email": "agent11@iwrealty.com",
+      "photo": "/images/icons/png/sydney-coastal-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-02-02T10:50:47.200Z",
+    "updatedAt": "2025-11-13T10:50:47.200Z",
+    "storeId": "store-012"
+  },
+  {
+    "id": "P02079",
+    "type": "sale",
+    "category": {
+      "main": "commercial",
+      "sub": "shop"
+    },
+    "title": "Satılık Dükkan - Havana",
+    "slug": "satilik-dükkan-havana-P02079",
+    "description": "Havana, Cuba bölgesinde dükkan. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 4338893,
+    "location": {
+      "country": "CU",
+      "city": "Havana",
+      "district": "Havana Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 337",
+      "coordinates": {
+        "lat": 21.00080174558349,
+        "lng": -80.4815428261979
+      }
+    },
+    "specs": {
+      "netSize": 491,
+      "grossSize": 589,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 4,
+      "floor": 1,
+      "totalFloors": 9,
+      "heating": "Kombi",
+      "furnishing": "Furnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500189623638?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500467858398?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500076221637?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500680800719?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500325716257?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500208773257?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500867378286?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500124439891?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500107030755?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500561610133?w=800&q=80&category=architecture"
+    ],
+    "agent": {
+      "id": "A79",
+      "name": "Agent 43",
+      "phone": "+79 231 651 1133",
+      "email": "agent87@iwrealty.com",
+      "photo": "/images/icons/png/izmir-sahil-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2024-11-23T10:50:47.200Z",
+    "updatedAt": "2025-11-13T10:50:47.200Z",
+    "storeId": "store-005"
+  },
+  {
+    "id": "P02080",
+    "type": "rent",
+    "category": {
+      "main": "commercial",
+      "sub": "shop"
+    },
+    "title": "Kiralık Dükkan - Cuba Central",
+    "slug": "kiralik-dükkan-cuba-central-P02080",
+    "description": "Cuba Central, Cuba bölgesinde dükkan. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 5119320,
+    "location": {
+      "country": "CU",
+      "city": "Cuba Central",
+      "district": "Cuba Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 855",
+      "coordinates": {
+        "lat": 21.608796394585546,
+        "lng": -79.56080184520152
+      }
+    },
+    "specs": {
+      "netSize": 184,
+      "grossSize": 221,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 7,
+      "floor": 11,
+      "totalFloors": 6,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Unfurnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500346014891?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500799820722?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500878555723?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500520504279?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500700838813?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500010663751?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500474163890?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500533929762?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500965318033?w=800&q=80&category=house"
+    ],
+    "agent": {
+      "id": "A6",
+      "name": "Agent 22",
+      "phone": "+56 393 968 2265",
+      "email": "agent29@iwrealty.com",
+      "photo": "/images/icons/png/ankara-modern-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": true,
+      "hasPool": true,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-11-12T10:50:47.200Z",
+    "updatedAt": "2025-11-13T10:50:47.200Z",
+    "storeId": "store-003"
+  },
+  {
+    "id": "P02081",
+    "type": "sale",
+    "category": {
+      "main": "commercial",
+      "sub": "office"
+    },
+    "title": "Satılık Ofis - Cuba Central",
+    "slug": "satilik-ofis-cuba-central-P02081",
+    "description": "Cuba Central, Cuba bölgesinde ofis. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 12398408,
+    "location": {
+      "country": "CU",
+      "city": "Cuba Central",
+      "district": "Cuba Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 54",
+      "coordinates": {
+        "lat": 21.548153777140406,
+        "lng": -79.61871456736331
+      }
+    },
+    "specs": {
+      "netSize": 473,
+      "grossSize": 568,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 18,
+      "floor": 3,
+      "totalFloors": 14,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Furnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500969434422?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500150168271?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500899136880?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500569831709?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500074978282?w=800&q=80&category=architecture"
+    ],
+    "agent": {
+      "id": "A90",
+      "name": "Agent 67",
+      "phone": "+44 123 938 3104",
+      "email": "agent51@iwrealty.com",
+      "photo": "/images/icons/png/paris-heritage-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-03-21T10:50:47.200Z",
+    "updatedAt": "2025-11-13T10:50:47.200Z",
+    "storeId": "store-010"
+  },
+  {
+    "id": "P02082",
+    "type": "rent",
+    "category": {
+      "main": "commercial",
+      "sub": "office"
+    },
+    "title": "Kiralık Ofis - Havana",
+    "slug": "kiralik-ofis-havana-P02082",
+    "description": "Havana, Cuba bölgesinde ofis. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 6402827,
+    "location": {
+      "country": "CU",
+      "city": "Havana",
+      "district": "Havana Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 578",
+      "coordinates": {
+        "lat": 21.991553425028513,
+        "lng": -79.90674886597441
+      }
+    },
+    "specs": {
+      "netSize": 435,
+      "grossSize": 522,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 8,
+      "floor": 14,
+      "totalFloors": 9,
+      "heating": "Kombi",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500786728905?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500485431570?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500056628095?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500816878400?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500159365141?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500987409670?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500826002896?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500156164483?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500189993558?w=800&q=80&category=building"
+    ],
+    "agent": {
+      "id": "A40",
+      "name": "Agent 96",
+      "phone": "+45 804 309 7525",
+      "email": "agent31@iwrealty.com",
+      "photo": "/images/icons/png/izmir-sahil-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2024-12-26T10:50:47.200Z",
+    "updatedAt": "2025-11-13T10:50:47.200Z",
+    "storeId": "store-005"
+  },
+  {
+    "id": "P02083",
+    "type": "sale",
+    "category": {
+      "main": "commercial",
+      "sub": "mall"
+    },
+    "title": "Satılık AVM - Cuba Central",
+    "slug": "satilik-avm-cuba-central-P02083",
+    "description": "Cuba Central, Cuba bölgesinde avm. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 407586951,
+    "location": {
+      "country": "CU",
+      "city": "Cuba Central",
+      "district": "Cuba Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 537",
+      "coordinates": {
+        "lat": 21.35769633504961,
+        "lng": -80.21516050866582
+      }
+    },
+    "specs": {
+      "netSize": 39901,
+      "grossSize": 47881,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 5,
+      "floor": 13,
+      "totalFloors": 9,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Unfurnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500320767555?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500689495100?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500139254454?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500387282624?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500318862283?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500413592951?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500926037729?w=800&q=80&category=real-estate"
+    ],
+    "agent": {
+      "id": "A53",
+      "name": "Agent 54",
+      "phone": "+98 205 970 2071",
+      "email": "agent32@iwrealty.com",
+      "photo": "/images/icons/png/luxury-homes-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": true,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-09-29T10:50:47.200Z",
+    "updatedAt": "2025-11-13T10:50:47.200Z",
+    "storeId": "store-002"
+  },
+  {
+    "id": "P02084",
+    "type": "rent",
+    "category": {
+      "main": "commercial",
+      "sub": "mall"
+    },
+    "title": "Kiralık AVM - Havana",
+    "slug": "kiralik-avm-havana-P02084",
+    "description": "Havana, Cuba bölgesinde avm. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 350594499,
+    "location": {
+      "country": "CU",
+      "city": "Havana",
+      "district": "Havana Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 266",
+      "coordinates": {
+        "lat": 21.838731170665444,
+        "lng": -79.56623908593315
+      }
+    },
+    "specs": {
+      "netSize": 27437,
+      "grossSize": 32924,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 18,
+      "floor": 7,
+      "totalFloors": 10,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500327832449?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500932637751?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500752824818?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500376644938?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500391817888?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500313419277?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500163843042?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500735518106?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500235666321?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500298530457?w=800&q=80&category=house"
+    ],
+    "agent": {
+      "id": "A8",
+      "name": "Agent 23",
+      "phone": "+14 889 455 7197",
+      "email": "agent54@iwrealty.com",
+      "photo": "/images/icons/png/antalya-investment-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-02-16T10:50:47.200Z",
+    "updatedAt": "2025-11-13T10:50:47.200Z",
+    "storeId": "store-006"
+  },
+  {
+    "id": "P02085",
+    "type": "sale",
+    "category": {
+      "main": "commercial",
+      "sub": "hotel"
+    },
+    "title": "Satılık Otel - Cuba City",
+    "slug": "satilik-otel-cuba-city-P02085",
+    "description": "Cuba City, Cuba bölgesinde otel. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 47904585,
+    "location": {
+      "country": "CU",
+      "city": "Cuba City",
+      "district": "Cuba City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 871",
+      "coordinates": {
+        "lat": 21.50451933384313,
+        "lng": -79.6769115782278
+      }
+    },
+    "specs": {
+      "netSize": 11121,
+      "grossSize": 13345,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 17,
+      "floor": 3,
+      "totalFloors": 8,
+      "heating": "Merkezi",
+      "furnishing": "Furnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500954898421?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500225319631?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500983114814?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500795978845?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500914450273?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500666712095?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500176377284?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500222343180?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500832962969?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500407314982?w=800&q=80&category=interior"
+    ],
+    "agent": {
+      "id": "A5",
+      "name": "Agent 87",
+      "phone": "+90 716 626 2881",
+      "email": "agent22@iwrealty.com",
+      "photo": "/images/icons/png/antalya-investment-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": false,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-06-06T10:50:47.200Z",
+    "updatedAt": "2025-11-13T10:50:47.200Z",
+    "storeId": "store-006"
+  },
+  {
+    "id": "P02086",
+    "type": "rent",
+    "category": {
+      "main": "commercial",
+      "sub": "hotel"
+    },
+    "title": "Kiralık Otel - Havana",
+    "slug": "kiralik-otel-havana-P02086",
+    "description": "Havana, Cuba bölgesinde otel. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 173156723,
+    "location": {
+      "country": "CU",
+      "city": "Havana",
+      "district": "Havana Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 98",
+      "coordinates": {
+        "lat": 21.452029589189664,
+        "lng": -79.94320186208138
+      }
+    },
+    "specs": {
+      "netSize": 21283,
+      "grossSize": 25540,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 2,
+      "floor": 4,
+      "totalFloors": 5,
+      "heating": "Merkezi",
+      "furnishing": "Unfurnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500775759776?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500647834505?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500253071256?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500208808645?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500863885425?w=800&q=80&category=interior"
+    ],
+    "agent": {
+      "id": "A64",
+      "name": "Agent 24",
+      "phone": "+86 662 531 1437",
+      "email": "agent87@iwrealty.com",
+      "photo": "/images/icons/png/antalya-investment-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": false,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": true,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-01-28T10:50:47.200Z",
+    "updatedAt": "2025-11-13T10:50:47.200Z",
+    "storeId": "store-006"
+  },
+  {
+    "id": "P02087",
+    "type": "sale",
+    "category": {
+      "main": "commercial",
+      "sub": "restaurant"
+    },
+    "title": "Satılık Restoran - Cuba Central",
+    "slug": "satilik-restoran-cuba-central-P02087",
+    "description": "Cuba Central, Cuba bölgesinde restoran. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 2926588,
+    "location": {
+      "country": "CU",
+      "city": "Cuba Central",
+      "district": "Cuba Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 953",
+      "coordinates": {
+        "lat": 21.642833517379767,
+        "lng": -80.04432426364288
+      }
+    },
+    "specs": {
+      "netSize": 1420,
+      "grossSize": 1704,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 2,
+      "floor": 12,
+      "totalFloors": 20,
+      "heating": "Merkezi",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500237325736?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500632884776?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500591525890?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500602562140?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500001213067?w=800&q=80&category=building"
+    ],
+    "agent": {
+      "id": "A18",
+      "name": "Agent 54",
+      "phone": "+23 718 495 6056",
+      "email": "agent65@iwrealty.com",
+      "photo": "/images/icons/png/sydney-coastal-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": false,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": true,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-06-04T10:50:47.200Z",
+    "updatedAt": "2025-11-13T10:50:47.200Z",
+    "storeId": "store-012"
+  },
+  {
+    "id": "P02088",
+    "type": "rent",
+    "category": {
+      "main": "commercial",
+      "sub": "restaurant"
+    },
+    "title": "Kiralık Restoran - Cuba Central",
+    "slug": "kiralik-restoran-cuba-central-P02088",
+    "description": "Cuba Central, Cuba bölgesinde restoran. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 3795413,
+    "location": {
+      "country": "CU",
+      "city": "Cuba Central",
+      "district": "Cuba Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 518",
+      "coordinates": {
+        "lat": 21.86942240493737,
+        "lng": -80.43729163601402
+      }
+    },
+    "specs": {
+      "netSize": 386,
+      "grossSize": 463,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 4,
+      "floor": 9,
+      "totalFloors": 7,
+      "heating": "Kombi",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500227710606?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500658756929?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500255732612?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500834308179?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500566301574?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500104336559?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500666680194?w=800&q=80&category=real-estate"
+    ],
+    "agent": {
+      "id": "A42",
+      "name": "Agent 22",
+      "phone": "+99 236 874 9432",
+      "email": "agent98@iwrealty.com",
+      "photo": "/images/icons/png/berlin-urban-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": true,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-09-23T10:50:47.200Z",
+    "updatedAt": "2025-11-13T10:50:47.200Z",
+    "storeId": "store-009"
+  },
+  {
+    "id": "P02089",
+    "type": "sale",
+    "category": {
+      "main": "commercial",
+      "sub": "warehouse"
+    },
+    "title": "Satılık Depo - Cuba Central",
+    "slug": "satilik-depo-cuba-central-P02089",
+    "description": "Cuba Central, Cuba bölgesinde depo. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 13557469,
+    "location": {
+      "country": "CU",
+      "city": "Cuba Central",
+      "district": "Cuba Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 666",
+      "coordinates": {
+        "lat": 21.727498978458847,
+        "lng": -79.67181796570515
+      }
+    },
+    "specs": {
+      "netSize": 1614,
+      "grossSize": 1937,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 8,
+      "floor": 14,
+      "totalFloors": 12,
+      "heating": "Merkezi",
+      "furnishing": "Unfurnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500347242707?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500500540537?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500874681860?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500344196945?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500627256125?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500996465841?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500869280453?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500956863258?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500597955209?w=800&q=80&category=real-estate"
+    ],
+    "agent": {
+      "id": "A61",
+      "name": "Agent 4",
+      "phone": "+47 324 988 6411",
+      "email": "agent63@iwrealty.com",
+      "photo": "/images/icons/png/berlin-urban-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": false,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": true,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-11-03T10:50:47.200Z",
+    "updatedAt": "2025-11-13T10:50:47.200Z",
+    "storeId": "store-009"
+  },
+  {
+    "id": "P02090",
+    "type": "rent",
+    "category": {
+      "main": "commercial",
+      "sub": "warehouse"
+    },
+    "title": "Kiralık Depo - Havana",
+    "slug": "kiralik-depo-havana-P02090",
+    "description": "Havana, Cuba bölgesinde depo. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 22739205,
+    "location": {
+      "country": "CU",
+      "city": "Havana",
+      "district": "Havana Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 844",
+      "coordinates": {
+        "lat": 21.59847971852189,
+        "lng": -79.81267752221343
+      }
+    },
+    "specs": {
+      "netSize": 8932,
+      "grossSize": 10718,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 15,
+      "floor": 10,
+      "totalFloors": 5,
+      "heating": "Klima",
+      "furnishing": "Unfurnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500300710694?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500771513916?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500787714049?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500614907700?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500383564212?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500802264817?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500819010861?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500587168524?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500739523097?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500510930275?w=800&q=80&category=house"
+    ],
+    "agent": {
+      "id": "A7",
+      "name": "Agent 64",
+      "phone": "+86 193 429 2711",
+      "email": "agent60@iwrealty.com",
+      "photo": "/images/icons/png/ny-skyline-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-06-10T10:50:47.200Z",
+    "updatedAt": "2025-11-13T10:50:47.200Z",
+    "storeId": "store-008"
+  }
+]

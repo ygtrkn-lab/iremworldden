@@ -1,0 +1,2343 @@
+[
+  {
+    "id": "P09197",
+    "type": "sale",
+    "category": {
+      "main": "government"
+    },
+    "title": "Satılık Okul - Hanoi",
+    "slug": "satilik-okul-hanoi-P09197",
+    "description": "Hanoi, Vietnam bölgesinde okul. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 20108725,
+    "location": {
+      "country": "VN",
+      "city": "Hanoi",
+      "district": "Hanoi Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 829",
+      "coordinates": {
+        "lat": 16.350726262080343,
+        "lng": 108.19618141100362
+      }
+    },
+    "specs": {
+      "netSize": 1121,
+      "grossSize": 1345,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 6,
+      "floor": 11,
+      "totalFloors": 16,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Furnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500832456164?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500027900141?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500632502753?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500699902249?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500358232122?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500873948788?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500248127351?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500561284646?w=800&q=80&category=real-estate"
+    ],
+    "agent": {
+      "id": "A43",
+      "name": "Agent 98",
+      "phone": "+27 983 385 7956",
+      "email": "agent2@iwrealty.com",
+      "photo": "/images/icons/png/dubai-property-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2024-12-19T10:50:47.278Z",
+    "updatedAt": "2025-11-13T10:50:47.278Z",
+    "storeId": "store-004"
+  },
+  {
+    "id": "P09198",
+    "type": "rent",
+    "category": {
+      "main": "government"
+    },
+    "title": "Kiralık Hastane - Vietnam Central",
+    "slug": "kiralik-hastane-vietnam-central-P09198",
+    "description": "Vietnam Central, Vietnam bölgesinde hastane. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 18331255,
+    "location": {
+      "country": "VN",
+      "city": "Vietnam Central",
+      "district": "Vietnam Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 173",
+      "coordinates": {
+        "lat": 16.423264333444216,
+        "lng": 107.95710709839685
+      }
+    },
+    "specs": {
+      "netSize": 3905,
+      "grossSize": 4686,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 0,
+      "floor": 8,
+      "totalFloors": 9,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Furnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500511221178?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500343586106?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500343926595?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500634405051?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500784630251?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500764885467?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500379228039?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500460215572?w=800&q=80&category=interior"
+    ],
+    "agent": {
+      "id": "A96",
+      "name": "Agent 76",
+      "phone": "+49 635 491 7572",
+      "email": "agent89@iwrealty.com",
+      "photo": "/images/icons/png/ankara-modern-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": false,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2024-11-14T10:50:47.278Z",
+    "updatedAt": "2025-11-13T10:50:47.278Z",
+    "storeId": "store-003"
+  },
+  {
+    "id": "P09199",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Müstakil Ev - New Vietnam",
+    "slug": "satilik-müstakil-ev-new-vietnam-P09199",
+    "description": "New Vietnam, Vietnam bölgesinde müstakil ev. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 8783049,
+    "location": {
+      "country": "VN",
+      "city": "New Vietnam",
+      "district": "New Vietnam Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 980",
+      "coordinates": {
+        "lat": 16.035045389748365,
+        "lng": 108.08506503127497
+      }
+    },
+    "specs": {
+      "netSize": 103,
+      "grossSize": 124,
+      "rooms": "1+2",
+      "bathrooms": 1,
+      "age": 3,
+      "floor": 4,
+      "totalFloors": 20,
+      "heating": "Kombi",
+      "furnishing": "Unfurnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500701972924?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500969997049?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500016967938?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500195642111?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500556740188?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500948128480?w=800&q=80&category=architecture"
+    ],
+    "agent": {
+      "id": "A5",
+      "name": "Agent 95",
+      "phone": "+85 335 115 6228",
+      "email": "agent67@iwrealty.com",
+      "photo": "/images/icons/png/sg-harbour-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-08-21T10:50:47.278Z",
+    "updatedAt": "2025-11-13T10:50:47.278Z",
+    "storeId": "store-011"
+  },
+  {
+    "id": "P09200",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Daire - New Vietnam",
+    "slug": "kiralik-daire-new-vietnam-P09200",
+    "description": "New Vietnam, Vietnam bölgesinde daire. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 14831391,
+    "location": {
+      "country": "VN",
+      "city": "New Vietnam",
+      "district": "New Vietnam Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 783",
+      "coordinates": {
+        "lat": 16.367282199692887,
+        "lng": 108.25157960344892
+      }
+    },
+    "specs": {
+      "netSize": 213,
+      "grossSize": 256,
+      "rooms": "2+2",
+      "bathrooms": 4,
+      "age": 1,
+      "floor": 9,
+      "totalFloors": 12,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Furnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500611823057?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500927736036?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500427127725?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500881873713?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500299409688?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500654822665?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500001736822?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500564457621?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500517390500?w=800&q=80&category=house"
+    ],
+    "agent": {
+      "id": "A27",
+      "name": "Agent 23",
+      "phone": "+73 946 229 2204",
+      "email": "agent12@iwrealty.com",
+      "photo": "/images/icons/png/sg-harbour-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": false,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-03-02T10:50:47.278Z",
+    "updatedAt": "2025-11-13T10:50:47.278Z",
+    "storeId": "store-011"
+  },
+  {
+    "id": "P09201",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Residence - New Vietnam",
+    "slug": "satilik-residence-new-vietnam-P09201",
+    "description": "New Vietnam, Vietnam bölgesinde residence. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 4619854,
+    "location": {
+      "country": "VN",
+      "city": "New Vietnam",
+      "district": "New Vietnam Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 231",
+      "coordinates": {
+        "lat": 15.724821632483726,
+        "lng": 107.62640332212617
+      }
+    },
+    "specs": {
+      "netSize": 83,
+      "grossSize": 100,
+      "rooms": "5+2",
+      "bathrooms": 4,
+      "age": 13,
+      "floor": 5,
+      "totalFloors": 6,
+      "heating": "Kombi",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500551165470?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500464420503?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500289275520?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500742118780?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500671587294?w=800&q=80&category=house"
+    ],
+    "agent": {
+      "id": "A54",
+      "name": "Agent 5",
+      "phone": "+45 290 121 2719",
+      "email": "agent30@iwrealty.com",
+      "photo": "/images/icons/png/antalya-investment-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": true,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-05-31T10:50:47.278Z",
+    "updatedAt": "2025-11-13T10:50:47.278Z",
+    "storeId": "store-006"
+  },
+  {
+    "id": "P09202",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Daire - Vietnam Central",
+    "slug": "kiralik-daire-vietnam-central-P09202",
+    "description": "Vietnam Central, Vietnam bölgesinde daire. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 2358444,
+    "location": {
+      "country": "VN",
+      "city": "Vietnam Central",
+      "district": "Vietnam Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 168",
+      "coordinates": {
+        "lat": 16.141340492714395,
+        "lng": 107.81152887027174
+      }
+    },
+    "specs": {
+      "netSize": 469,
+      "grossSize": 563,
+      "rooms": "5+0",
+      "bathrooms": 4,
+      "age": 2,
+      "floor": 1,
+      "totalFloors": 13,
+      "heating": "Merkezi",
+      "furnishing": "Furnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500658413372?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500882557626?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500491364697?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500179346817?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500979091667?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500218750579?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500361433096?w=800&q=80&category=house"
+    ],
+    "agent": {
+      "id": "A73",
+      "name": "Agent 41",
+      "phone": "+50 358 785 5525",
+      "email": "agent66@iwrealty.com",
+      "photo": "/images/icons/png/sydney-coastal-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-10-22T10:50:47.278Z",
+    "updatedAt": "2025-11-13T10:50:47.278Z",
+    "storeId": "store-012"
+  },
+  {
+    "id": "P09203",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Daire - Hanoi",
+    "slug": "satilik-daire-hanoi-P09203",
+    "description": "Hanoi, Vietnam bölgesinde daire. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 7810296,
+    "location": {
+      "country": "VN",
+      "city": "Hanoi",
+      "district": "Hanoi Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 393",
+      "coordinates": {
+        "lat": 16.57760656930638,
+        "lng": 107.41917622037882
+      }
+    },
+    "specs": {
+      "netSize": 355,
+      "grossSize": 426,
+      "rooms": "4+0",
+      "bathrooms": 3,
+      "age": 2,
+      "floor": 4,
+      "totalFloors": 12,
+      "heating": "Kombi",
+      "furnishing": "Unfurnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500604302710?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500204484722?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500741158555?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500021465340?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500344142166?w=800&q=80&category=building"
+    ],
+    "agent": {
+      "id": "A56",
+      "name": "Agent 89",
+      "phone": "+51 921 235 9956",
+      "email": "agent81@iwrealty.com",
+      "photo": "/images/icons/png/izmir-sahil-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": false,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2024-11-26T10:50:47.278Z",
+    "updatedAt": "2025-11-13T10:50:47.278Z",
+    "storeId": "store-005"
+  },
+  {
+    "id": "P09204",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Daire - New Vietnam",
+    "slug": "kiralik-daire-new-vietnam-P09204",
+    "description": "New Vietnam, Vietnam bölgesinde daire. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 13927307,
+    "location": {
+      "country": "VN",
+      "city": "New Vietnam",
+      "district": "New Vietnam Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 873",
+      "coordinates": {
+        "lat": 15.688906639934476,
+        "lng": 108.3296465942371
+      }
+    },
+    "specs": {
+      "netSize": 319,
+      "grossSize": 383,
+      "rooms": "4+1",
+      "bathrooms": 2,
+      "age": 16,
+      "floor": 11,
+      "totalFloors": 11,
+      "heating": "Klima",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500291668422?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500216225936?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500394344610?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500154664823?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500886705499?w=800&q=80&category=architecture"
+    ],
+    "agent": {
+      "id": "A86",
+      "name": "Agent 1",
+      "phone": "+89 135 185 2662",
+      "email": "agent6@iwrealty.com",
+      "photo": "/images/icons/png/dubai-property-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": false,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": true,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-09-07T10:50:47.278Z",
+    "updatedAt": "2025-11-13T10:50:47.278Z",
+    "storeId": "store-004"
+  },
+  {
+    "id": "P09205",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Villa - Vietnam City",
+    "slug": "satilik-villa-vietnam-city-P09205",
+    "description": "Vietnam City, Vietnam bölgesinde villa. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 509099,
+    "location": {
+      "country": "VN",
+      "city": "Vietnam City",
+      "district": "Vietnam City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 145",
+      "coordinates": {
+        "lat": 15.832022329511783,
+        "lng": 107.80257275696657
+      }
+    },
+    "specs": {
+      "netSize": 418,
+      "grossSize": 502,
+      "rooms": "5+0",
+      "bathrooms": 2,
+      "age": 8,
+      "floor": 15,
+      "totalFloors": 19,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Unfurnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500378340224?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500364542653?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500710696561?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500831546625?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500112464409?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500017767460?w=800&q=80&category=interior"
+    ],
+    "agent": {
+      "id": "A71",
+      "name": "Agent 84",
+      "phone": "+87 601 929 1172",
+      "email": "agent82@iwrealty.com",
+      "photo": "/images/icons/png/sydney-coastal-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": false,
+      "hasBalcony": false,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-07-06T10:50:47.278Z",
+    "updatedAt": "2025-11-13T10:50:47.278Z",
+    "storeId": "store-012"
+  },
+  {
+    "id": "P09206",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Daire - Vietnam City",
+    "slug": "kiralik-daire-vietnam-city-P09206",
+    "description": "Vietnam City, Vietnam bölgesinde daire. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 3735230,
+    "location": {
+      "country": "VN",
+      "city": "Vietnam City",
+      "district": "Vietnam City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 25",
+      "coordinates": {
+        "lat": 15.83816557291036,
+        "lng": 108.29578370409702
+      }
+    },
+    "specs": {
+      "netSize": 168,
+      "grossSize": 202,
+      "rooms": "4+0",
+      "bathrooms": 2,
+      "age": 15,
+      "floor": 5,
+      "totalFloors": 6,
+      "heating": "Merkezi",
+      "furnishing": "Unfurnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500489377133?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500853234481?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500815933163?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500734844621?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500067203814?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500920526209?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500298427813?w=800&q=80&category=house"
+    ],
+    "agent": {
+      "id": "A55",
+      "name": "Agent 84",
+      "phone": "+28 902 880 6527",
+      "email": "agent74@iwrealty.com",
+      "photo": "/images/icons/png/luxury-homes-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-02-27T10:50:47.278Z",
+    "updatedAt": "2025-11-13T10:50:47.278Z",
+    "storeId": "store-002"
+  },
+  {
+    "id": "P09207",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Residence - Vietnam City",
+    "slug": "satilik-residence-vietnam-city-P09207",
+    "description": "Vietnam City, Vietnam bölgesinde residence. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 3997947,
+    "location": {
+      "country": "VN",
+      "city": "Vietnam City",
+      "district": "Vietnam City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 63",
+      "coordinates": {
+        "lat": 16.515741919783814,
+        "lng": 108.24984073205492
+      }
+    },
+    "specs": {
+      "netSize": 239,
+      "grossSize": 287,
+      "rooms": "4+1",
+      "bathrooms": 4,
+      "age": 7,
+      "floor": 1,
+      "totalFloors": 12,
+      "heating": "Klima",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500361188855?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500168973669?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500521817962?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500021929533?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500891957409?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500437100905?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500112277170?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500182815690?w=800&q=80&category=architecture"
+    ],
+    "agent": {
+      "id": "A7",
+      "name": "Agent 70",
+      "phone": "+35 103 466 2148",
+      "email": "agent5@iwrealty.com",
+      "photo": "/images/icons/png/paris-heritage-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-08-10T10:50:47.278Z",
+    "updatedAt": "2025-11-13T10:50:47.278Z",
+    "storeId": "store-010"
+  },
+  {
+    "id": "P09208",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Villa - Hanoi",
+    "slug": "kiralik-villa-hanoi-P09208",
+    "description": "Hanoi, Vietnam bölgesinde villa. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 1218227,
+    "location": {
+      "country": "VN",
+      "city": "Hanoi",
+      "district": "Hanoi Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 343",
+      "coordinates": {
+        "lat": 15.731552111589927,
+        "lng": 108.32427776734971
+      }
+    },
+    "specs": {
+      "netSize": 294,
+      "grossSize": 353,
+      "rooms": "3+0",
+      "bathrooms": 2,
+      "age": 0,
+      "floor": 11,
+      "totalFloors": 18,
+      "heating": "Kombi",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500869669693?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500182559714?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500409992121?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500933963296?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500995626136?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500034668804?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500127679951?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500611872352?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500950881429?w=800&q=80&category=house"
+    ],
+    "agent": {
+      "id": "A51",
+      "name": "Agent 36",
+      "phone": "+33 115 682 3040",
+      "email": "agent7@iwrealty.com",
+      "photo": "/images/icons/png/sydney-coastal-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2024-12-15T10:50:47.278Z",
+    "updatedAt": "2025-11-13T10:50:47.278Z",
+    "storeId": "store-012"
+  },
+  {
+    "id": "P09209",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Villa - New Vietnam",
+    "slug": "satilik-villa-new-vietnam-P09209",
+    "description": "New Vietnam, Vietnam bölgesinde villa. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 6864687,
+    "location": {
+      "country": "VN",
+      "city": "New Vietnam",
+      "district": "New Vietnam Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 810",
+      "coordinates": {
+        "lat": 16.330350606017053,
+        "lng": 107.44182071164369
+      }
+    },
+    "specs": {
+      "netSize": 363,
+      "grossSize": 436,
+      "rooms": "2+2",
+      "bathrooms": 4,
+      "age": 15,
+      "floor": 12,
+      "totalFloors": 8,
+      "heating": "Merkezi",
+      "furnishing": "Unfurnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500765694687?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500229145667?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500070353233?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500994140261?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500500272892?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500383487716?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500715096781?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500848486880?w=800&q=80&category=house"
+    ],
+    "agent": {
+      "id": "A20",
+      "name": "Agent 25",
+      "phone": "+91 382 321 7500",
+      "email": "agent54@iwrealty.com",
+      "photo": "/images/icons/png/paris-heritage-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-04-23T10:50:47.278Z",
+    "updatedAt": "2025-11-13T10:50:47.278Z",
+    "storeId": "store-010"
+  },
+  {
+    "id": "P09210",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Daire - Hanoi",
+    "slug": "kiralik-daire-hanoi-P09210",
+    "description": "Hanoi, Vietnam bölgesinde daire. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 2581496,
+    "location": {
+      "country": "VN",
+      "city": "Hanoi",
+      "district": "Hanoi Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 593",
+      "coordinates": {
+        "lat": 16.068646244035577,
+        "lng": 107.98577502728673
+      }
+    },
+    "specs": {
+      "netSize": 247,
+      "grossSize": 296,
+      "rooms": "3+1",
+      "bathrooms": 3,
+      "age": 18,
+      "floor": 14,
+      "totalFloors": 6,
+      "heating": "Merkezi",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500792800580?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500183138069?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500222481572?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500427873430?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500560690123?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500632335087?w=800&q=80&category=building"
+    ],
+    "agent": {
+      "id": "A28",
+      "name": "Agent 14",
+      "phone": "+60 414 511 7962",
+      "email": "agent9@iwrealty.com",
+      "photo": "/images/icons/png/paris-heritage-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": true,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-02-13T10:50:47.278Z",
+    "updatedAt": "2025-11-13T10:50:47.278Z",
+    "storeId": "store-010"
+  },
+  {
+    "id": "P09211",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Daire - Vietnam City",
+    "slug": "satilik-daire-vietnam-city-P09211",
+    "description": "Vietnam City, Vietnam bölgesinde daire. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 7986861,
+    "location": {
+      "country": "VN",
+      "city": "Vietnam City",
+      "district": "Vietnam City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 640",
+      "coordinates": {
+        "lat": 16.307784997159825,
+        "lng": 108.13395080209412
+      }
+    },
+    "specs": {
+      "netSize": 200,
+      "grossSize": 240,
+      "rooms": "5+1",
+      "bathrooms": 3,
+      "age": 6,
+      "floor": 9,
+      "totalFloors": 5,
+      "heating": "Klima",
+      "furnishing": "Furnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500632303548?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500728835277?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500414368530?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500388305177?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500227214920?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500169831597?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500890255792?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500857230124?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500229567291?w=800&q=80&category=architecture"
+    ],
+    "agent": {
+      "id": "A13",
+      "name": "Agent 44",
+      "phone": "+58 595 214 4386",
+      "email": "agent1@iwrealty.com",
+      "photo": "/images/icons/png/london-prime-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": false,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-03-12T10:50:47.278Z",
+    "updatedAt": "2025-11-13T10:50:47.278Z",
+    "storeId": "store-007"
+  },
+  {
+    "id": "P09212",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Müstakil Ev - Vietnam Central",
+    "slug": "kiralik-müstakil-ev-vietnam-central-P09212",
+    "description": "Vietnam Central, Vietnam bölgesinde müstakil ev. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 14506379,
+    "location": {
+      "country": "VN",
+      "city": "Vietnam Central",
+      "district": "Vietnam Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 58",
+      "coordinates": {
+        "lat": 16.25145891145549,
+        "lng": 107.90362229538574
+      }
+    },
+    "specs": {
+      "netSize": 329,
+      "grossSize": 395,
+      "rooms": "3+1",
+      "bathrooms": 2,
+      "age": 9,
+      "floor": 3,
+      "totalFloors": 15,
+      "heating": "Merkezi",
+      "furnishing": "Furnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500947427710?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500128139545?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500633149154?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500147345180?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500039595536?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500806994938?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500574044453?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500167732449?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500308015895?w=800&q=80&category=building"
+    ],
+    "agent": {
+      "id": "A6",
+      "name": "Agent 40",
+      "phone": "+48 842 196 6724",
+      "email": "agent71@iwrealty.com",
+      "photo": "/images/icons/png/ankara-modern-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-06-19T10:50:47.278Z",
+    "updatedAt": "2025-11-13T10:50:47.278Z",
+    "storeId": "store-003"
+  },
+  {
+    "id": "P09213",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Müstakil Ev - Vietnam Central",
+    "slug": "satilik-müstakil-ev-vietnam-central-P09213",
+    "description": "Vietnam Central, Vietnam bölgesinde müstakil ev. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 14791706,
+    "location": {
+      "country": "VN",
+      "city": "Vietnam Central",
+      "district": "Vietnam Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 712",
+      "coordinates": {
+        "lat": 16.574114358269487,
+        "lng": 107.42938703541714
+      }
+    },
+    "specs": {
+      "netSize": 108,
+      "grossSize": 130,
+      "rooms": "4+0",
+      "bathrooms": 1,
+      "age": 15,
+      "floor": 14,
+      "totalFloors": 7,
+      "heating": "Kombi",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500983256345?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500452201750?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500509751681?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500351955716?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500243207270?w=800&q=80&category=real-estate"
+    ],
+    "agent": {
+      "id": "A66",
+      "name": "Agent 61",
+      "phone": "+12 218 657 4568",
+      "email": "agent81@iwrealty.com",
+      "photo": "/images/icons/png/antalya-investment-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-01-28T10:50:47.278Z",
+    "updatedAt": "2025-11-13T10:50:47.278Z",
+    "storeId": "store-006"
+  },
+  {
+    "id": "P09214",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Residence - Vietnam Central",
+    "slug": "kiralik-residence-vietnam-central-P09214",
+    "description": "Vietnam Central, Vietnam bölgesinde residence. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 2112093,
+    "location": {
+      "country": "VN",
+      "city": "Vietnam Central",
+      "district": "Vietnam Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 808",
+      "coordinates": {
+        "lat": 16.11251303106462,
+        "lng": 107.6729166253852
+      }
+    },
+    "specs": {
+      "netSize": 81,
+      "grossSize": 97,
+      "rooms": "5+1",
+      "bathrooms": 1,
+      "age": 18,
+      "floor": 8,
+      "totalFloors": 12,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Unfurnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500835421816?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500848887422?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500650912800?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500832117090?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500996302235?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500743994186?w=800&q=80&category=architecture"
+    ],
+    "agent": {
+      "id": "A16",
+      "name": "Agent 56",
+      "phone": "+44 419 584 5059",
+      "email": "agent72@iwrealty.com",
+      "photo": "/images/icons/png/luxury-homes-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-03-15T10:50:47.278Z",
+    "updatedAt": "2025-11-13T10:50:47.278Z",
+    "storeId": "store-002"
+  },
+  {
+    "id": "P09215",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Villa - New Vietnam",
+    "slug": "satilik-villa-new-vietnam-P09215",
+    "description": "New Vietnam, Vietnam bölgesinde villa. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 12088846,
+    "location": {
+      "country": "VN",
+      "city": "New Vietnam",
+      "district": "New Vietnam Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 625",
+      "coordinates": {
+        "lat": 16.46155589524887,
+        "lng": 108.04122387550048
+      }
+    },
+    "specs": {
+      "netSize": 167,
+      "grossSize": 200,
+      "rooms": "1+1",
+      "bathrooms": 2,
+      "age": 6,
+      "floor": 13,
+      "totalFloors": 17,
+      "heating": "Merkezi",
+      "furnishing": "Furnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500648169484?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500673487889?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500589541596?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500796940317?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500914986535?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500136696653?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500579685292?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500728605842?w=800&q=80&category=real-estate"
+    ],
+    "agent": {
+      "id": "A43",
+      "name": "Agent 78",
+      "phone": "+91 261 746 3288",
+      "email": "agent20@iwrealty.com",
+      "photo": "/images/icons/png/ankara-modern-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-11-07T10:50:47.278Z",
+    "updatedAt": "2025-11-13T10:50:47.278Z",
+    "storeId": "store-003"
+  },
+  {
+    "id": "P09216",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Daire - Hanoi",
+    "slug": "kiralik-daire-hanoi-P09216",
+    "description": "Hanoi, Vietnam bölgesinde daire. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 13554297,
+    "location": {
+      "country": "VN",
+      "city": "Hanoi",
+      "district": "Hanoi Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 28",
+      "coordinates": {
+        "lat": 16.44510674328071,
+        "lng": 107.94359546296445
+      }
+    },
+    "specs": {
+      "netSize": 324,
+      "grossSize": 389,
+      "rooms": "4+0",
+      "bathrooms": 3,
+      "age": 19,
+      "floor": 3,
+      "totalFloors": 10,
+      "heating": "Klima",
+      "furnishing": "Furnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500151010777?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500392088903?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500951030736?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500601531887?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500599097338?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500532681990?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500517331130?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500997623159?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500964492346?w=800&q=80&category=building"
+    ],
+    "agent": {
+      "id": "A43",
+      "name": "Agent 66",
+      "phone": "+49 108 737 8336",
+      "email": "agent66@iwrealty.com",
+      "photo": "/images/icons/png/ny-skyline-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": true,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-01-16T10:50:47.278Z",
+    "updatedAt": "2025-11-13T10:50:47.278Z",
+    "storeId": "store-008"
+  },
+  {
+    "id": "P09217",
+    "type": "sale",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Satılık Villa - Hanoi",
+    "slug": "satilik-villa-hanoi-P09217",
+    "description": "Hanoi, Vietnam bölgesinde villa. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 12589459,
+    "location": {
+      "country": "VN",
+      "city": "Hanoi",
+      "district": "Hanoi Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 59",
+      "coordinates": {
+        "lat": 15.739293001748546,
+        "lng": 107.88821176704086
+      }
+    },
+    "specs": {
+      "netSize": 156,
+      "grossSize": 187,
+      "rooms": "4+2",
+      "bathrooms": 3,
+      "age": 1,
+      "floor": 1,
+      "totalFloors": 18,
+      "heating": "Kombi",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500390758308?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500105343194?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500746848252?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500003024015?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500262729063?w=800&q=80&category=building"
+    ],
+    "agent": {
+      "id": "A80",
+      "name": "Agent 62",
+      "phone": "+85 872 523 1726",
+      "email": "agent27@iwrealty.com",
+      "photo": "/images/icons/png/luxury-homes-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2024-11-26T10:50:47.278Z",
+    "updatedAt": "2025-11-13T10:50:47.278Z",
+    "storeId": "store-002"
+  },
+  {
+    "id": "P09218",
+    "type": "rent",
+    "category": {
+      "main": "residential"
+    },
+    "title": "Kiralık Villa - Hanoi",
+    "slug": "kiralik-villa-hanoi-P09218",
+    "description": "Hanoi, Vietnam bölgesinde villa. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 8730876,
+    "location": {
+      "country": "VN",
+      "city": "Hanoi",
+      "district": "Hanoi Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 365",
+      "coordinates": {
+        "lat": 15.94084059303634,
+        "lng": 107.71946036533612
+      }
+    },
+    "specs": {
+      "netSize": 268,
+      "grossSize": 322,
+      "rooms": "2+2",
+      "bathrooms": 1,
+      "age": 5,
+      "floor": 13,
+      "totalFloors": 20,
+      "heating": "Kombi",
+      "furnishing": "Furnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500421316707?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500045271989?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500504261589?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500407362863?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500434786721?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500328208230?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500974115514?w=800&q=80&category=real-estate"
+    ],
+    "agent": {
+      "id": "A72",
+      "name": "Agent 95",
+      "phone": "+65 444 183 1053",
+      "email": "agent36@iwrealty.com",
+      "photo": "/images/icons/png/paris-heritage-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-03-04T10:50:47.278Z",
+    "updatedAt": "2025-11-13T10:50:47.278Z",
+    "storeId": "store-010"
+  },
+  {
+    "id": "P09219",
+    "type": "sale",
+    "category": {
+      "main": "commercial",
+      "sub": "hospital"
+    },
+    "title": "Satılık Hastane - Vietnam City",
+    "slug": "satilik-hastane-vietnam-city-P09219",
+    "description": "Vietnam City, Vietnam bölgesinde hastane. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 25028639,
+    "location": {
+      "country": "VN",
+      "city": "Vietnam City",
+      "district": "Vietnam City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 270",
+      "coordinates": {
+        "lat": 16.272826879833737,
+        "lng": 108.25432853252796
+      }
+    },
+    "specs": {
+      "netSize": 16185,
+      "grossSize": 19422,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 12,
+      "floor": 4,
+      "totalFloors": 16,
+      "heating": "Kombi",
+      "furnishing": "Unfurnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500527834142?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500837754022?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500233882510?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500793581670?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500638172924?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500682898341?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500371823747?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500585080087?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500182571865?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500868637486?w=800&q=80&category=building"
+    ],
+    "agent": {
+      "id": "A89",
+      "name": "Agent 11",
+      "phone": "+96 707 133 3307",
+      "email": "agent10@iwrealty.com",
+      "photo": "/images/icons/png/ankara-modern-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": false,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-06-18T10:50:47.278Z",
+    "updatedAt": "2025-11-13T10:50:47.278Z",
+    "storeId": "store-003"
+  },
+  {
+    "id": "P09220",
+    "type": "rent",
+    "category": {
+      "main": "commercial",
+      "sub": "hospital"
+    },
+    "title": "Kiralık Hastane - Vietnam City",
+    "slug": "kiralik-hastane-vietnam-city-P09220",
+    "description": "Vietnam City, Vietnam bölgesinde hastane. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 11069568,
+    "location": {
+      "country": "VN",
+      "city": "Vietnam City",
+      "district": "Vietnam City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 231",
+      "coordinates": {
+        "lat": 15.892094047203651,
+        "lng": 107.90248096591642
+      }
+    },
+    "specs": {
+      "netSize": 15600,
+      "grossSize": 18720,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 2,
+      "floor": 12,
+      "totalFloors": 13,
+      "heating": "Klima",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500147777390?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500864240625?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500513193026?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500487693769?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500578940514?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500020876639?w=800&q=80&category=real-estate"
+    ],
+    "agent": {
+      "id": "A34",
+      "name": "Agent 96",
+      "phone": "+16 417 902 4239",
+      "email": "agent38@iwrealty.com",
+      "photo": "/images/icons/png/ny-skyline-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": false,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": true,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-03-14T10:50:47.278Z",
+    "updatedAt": "2025-11-13T10:50:47.278Z",
+    "storeId": "store-008"
+  },
+  {
+    "id": "P09221",
+    "type": "sale",
+    "category": {
+      "main": "commercial",
+      "sub": "clinic"
+    },
+    "title": "Satılık Klinik - Vietnam Central",
+    "slug": "satilik-klinik-vietnam-central-P09221",
+    "description": "Vietnam Central, Vietnam bölgesinde klinik. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 18047463,
+    "location": {
+      "country": "VN",
+      "city": "Vietnam Central",
+      "district": "Vietnam Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 73",
+      "coordinates": {
+        "lat": 16.265715548258516,
+        "lng": 108.19059277706998
+      }
+    },
+    "specs": {
+      "netSize": 583,
+      "grossSize": 700,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 4,
+      "floor": 9,
+      "totalFloors": 19,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Unfurnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500835799940?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500058242137?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500706368119?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500904845281?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500149806783?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500626302202?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500887196979?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500765236016?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500092653584?w=800&q=80&category=interior"
+    ],
+    "agent": {
+      "id": "A1",
+      "name": "Agent 80",
+      "phone": "+66 196 831 8743",
+      "email": "agent94@iwrealty.com",
+      "photo": "/images/icons/png/ankara-modern-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": true,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-01-04T10:50:47.278Z",
+    "updatedAt": "2025-11-13T10:50:47.278Z",
+    "storeId": "store-003"
+  },
+  {
+    "id": "P09222",
+    "type": "rent",
+    "category": {
+      "main": "commercial",
+      "sub": "clinic"
+    },
+    "title": "Kiralık Klinik - Vietnam City",
+    "slug": "kiralik-klinik-vietnam-city-P09222",
+    "description": "Vietnam City, Vietnam bölgesinde klinik. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 5414975,
+    "location": {
+      "country": "VN",
+      "city": "Vietnam City",
+      "district": "Vietnam City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 432",
+      "coordinates": {
+        "lat": 16.153483276778466,
+        "lng": 108.29042275484863
+      }
+    },
+    "specs": {
+      "netSize": 1157,
+      "grossSize": 1388,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 3,
+      "floor": 11,
+      "totalFloors": 18,
+      "heating": "Merkezi",
+      "furnishing": "Unfurnished",
+      "balconyCount": 1
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500528085807?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500216139249?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500784713151?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500792300226?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500712179208?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500694581492?w=800&q=80&category=building"
+    ],
+    "agent": {
+      "id": "A65",
+      "name": "Agent 28",
+      "phone": "+10 945 265 5530",
+      "email": "agent2@iwrealty.com",
+      "photo": "/images/icons/png/izmir-sahil-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": true,
+      "hasPool": true,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-08-03T10:50:47.278Z",
+    "updatedAt": "2025-11-13T10:50:47.278Z",
+    "storeId": "store-005"
+  },
+  {
+    "id": "P09223",
+    "type": "sale",
+    "category": {
+      "main": "commercial",
+      "sub": "shop"
+    },
+    "title": "Satılık Dükkan - Hanoi",
+    "slug": "satilik-dükkan-hanoi-P09223",
+    "description": "Hanoi, Vietnam bölgesinde dükkan. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 3839308,
+    "location": {
+      "country": "VN",
+      "city": "Hanoi",
+      "district": "Hanoi Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 258",
+      "coordinates": {
+        "lat": 16.439766547831766,
+        "lng": 108.22977853639355
+      }
+    },
+    "specs": {
+      "netSize": 188,
+      "grossSize": 226,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 11,
+      "floor": 4,
+      "totalFloors": 16,
+      "heating": "Kombi",
+      "furnishing": "Furnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500099904300?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500930794872?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500175322211?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500016898918?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500339383906?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500977487977?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500279619634?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500422003183?w=800&q=80&category=real-estate"
+    ],
+    "agent": {
+      "id": "A70",
+      "name": "Agent 29",
+      "phone": "+67 631 486 3036",
+      "email": "agent97@iwrealty.com",
+      "photo": "/images/icons/png/luxury-homes-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2024-12-23T10:50:47.278Z",
+    "updatedAt": "2025-11-13T10:50:47.278Z",
+    "storeId": "store-002"
+  },
+  {
+    "id": "P09224",
+    "type": "rent",
+    "category": {
+      "main": "commercial",
+      "sub": "shop"
+    },
+    "title": "Kiralık Dükkan - Vietnam Central",
+    "slug": "kiralik-dükkan-vietnam-central-P09224",
+    "description": "Vietnam Central, Vietnam bölgesinde dükkan. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 4542148,
+    "location": {
+      "country": "VN",
+      "city": "Vietnam Central",
+      "district": "Vietnam Central Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 672",
+      "coordinates": {
+        "lat": 15.828265608129618,
+        "lng": 107.39470604976313
+      }
+    },
+    "specs": {
+      "netSize": 315,
+      "grossSize": 378,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 16,
+      "floor": 3,
+      "totalFloors": 20,
+      "heating": "Kombi",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500000234580?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500085334487?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500066679214?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500955971560?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500759053820?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500711949503?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500035911468?w=800&q=80&category=real-estate"
+    ],
+    "agent": {
+      "id": "A53",
+      "name": "Agent 94",
+      "phone": "+19 536 112 3740",
+      "email": "agent18@iwrealty.com",
+      "photo": "/images/icons/png/dubai-property-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-03-15T10:50:47.278Z",
+    "updatedAt": "2025-11-13T10:50:47.278Z",
+    "storeId": "store-004"
+  },
+  {
+    "id": "P09225",
+    "type": "sale",
+    "category": {
+      "main": "commercial",
+      "sub": "office"
+    },
+    "title": "Satılık Ofis - Hanoi",
+    "slug": "satilik-ofis-hanoi-P09225",
+    "description": "Hanoi, Vietnam bölgesinde ofis. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 13902378,
+    "location": {
+      "country": "VN",
+      "city": "Hanoi",
+      "district": "Hanoi Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 5",
+      "coordinates": {
+        "lat": 15.706469596876511,
+        "lng": 108.28293606994984
+      }
+    },
+    "specs": {
+      "netSize": 877,
+      "grossSize": 1052,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 0,
+      "floor": 5,
+      "totalFloors": 10,
+      "heating": "Klima",
+      "furnishing": "Unfurnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500503535252?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500295897414?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500062838737?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500226726878?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500433573739?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500609656141?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500225622321?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500591791783?w=800&q=80&category=building"
+    ],
+    "agent": {
+      "id": "A39",
+      "name": "Agent 32",
+      "phone": "+59 740 397 9588",
+      "email": "agent85@iwrealty.com",
+      "photo": "/images/icons/png/london-prime-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-05-02T10:50:47.278Z",
+    "updatedAt": "2025-11-13T10:50:47.278Z",
+    "storeId": "store-007"
+  },
+  {
+    "id": "P09226",
+    "type": "rent",
+    "category": {
+      "main": "commercial",
+      "sub": "office"
+    },
+    "title": "Kiralık Ofis - New Vietnam",
+    "slug": "kiralik-ofis-new-vietnam-P09226",
+    "description": "New Vietnam, Vietnam bölgesinde ofis. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 5368819,
+    "location": {
+      "country": "VN",
+      "city": "New Vietnam",
+      "district": "New Vietnam Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 419",
+      "coordinates": {
+        "lat": 16.387707724654,
+        "lng": 107.63060193795464
+      }
+    },
+    "specs": {
+      "netSize": 234,
+      "grossSize": 281,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 8,
+      "floor": 6,
+      "totalFloors": 9,
+      "heating": "Kombi",
+      "furnishing": "Unfurnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500938760876?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500557172689?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500723237462?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500816545569?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500826706578?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500735090061?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500298422648?w=800&q=80&category=interior"
+    ],
+    "agent": {
+      "id": "A95",
+      "name": "Agent 98",
+      "phone": "+43 343 464 3817",
+      "email": "agent57@iwrealty.com",
+      "photo": "/images/icons/png/ankara-modern-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-01-18T10:50:47.278Z",
+    "updatedAt": "2025-11-13T10:50:47.278Z",
+    "storeId": "store-003"
+  },
+  {
+    "id": "P09227",
+    "type": "sale",
+    "category": {
+      "main": "commercial",
+      "sub": "mall"
+    },
+    "title": "Satılık AVM - Vietnam City",
+    "slug": "satilik-avm-vietnam-city-P09227",
+    "description": "Vietnam City, Vietnam bölgesinde avm. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 460838910,
+    "location": {
+      "country": "VN",
+      "city": "Vietnam City",
+      "district": "Vietnam City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 625",
+      "coordinates": {
+        "lat": 16.649810158278306,
+        "lng": 107.58756439672895
+      }
+    },
+    "specs": {
+      "netSize": 26121,
+      "grossSize": 31345,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 11,
+      "floor": 1,
+      "totalFloors": 13,
+      "heating": "Klima",
+      "furnishing": "Unfurnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500410760981?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500151195290?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500879744840?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500169079332?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500805537039?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500196738676?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500316838479?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500724664563?w=800&q=80&category=house"
+    ],
+    "agent": {
+      "id": "A63",
+      "name": "Agent 38",
+      "phone": "+33 645 621 2322",
+      "email": "agent52@iwrealty.com",
+      "photo": "/images/icons/png/sydney-coastal-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": true,
+      "hasSecurity": true
+    },
+    "createdAt": "2024-11-25T10:50:47.278Z",
+    "updatedAt": "2025-11-13T10:50:47.278Z",
+    "storeId": "store-012"
+  },
+  {
+    "id": "P09228",
+    "type": "rent",
+    "category": {
+      "main": "commercial",
+      "sub": "mall"
+    },
+    "title": "Kiralık AVM - Vietnam City",
+    "slug": "kiralik-avm-vietnam-city-P09228",
+    "description": "Vietnam City, Vietnam bölgesinde avm. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 81385155,
+    "location": {
+      "country": "VN",
+      "city": "Vietnam City",
+      "district": "Vietnam City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 936",
+      "coordinates": {
+        "lat": 15.996792662382337,
+        "lng": 107.52769892080772
+      }
+    },
+    "specs": {
+      "netSize": 43450,
+      "grossSize": 52140,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 1,
+      "floor": 8,
+      "totalFloors": 11,
+      "heating": "Kombi",
+      "furnishing": "Unfurnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500215949774?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500750345925?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500828024779?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500746064560?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500433175022?w=800&q=80&category=building"
+    ],
+    "agent": {
+      "id": "A50",
+      "name": "Agent 86",
+      "phone": "+78 390 738 7337",
+      "email": "agent33@iwrealty.com",
+      "photo": "/images/icons/png/dubai-property-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2024-12-10T10:50:47.278Z",
+    "updatedAt": "2025-11-13T10:50:47.278Z",
+    "storeId": "store-004"
+  },
+  {
+    "id": "P09229",
+    "type": "sale",
+    "category": {
+      "main": "commercial",
+      "sub": "hotel"
+    },
+    "title": "Satılık Otel - Vietnam City",
+    "slug": "satilik-otel-vietnam-city-P09229",
+    "description": "Vietnam City, Vietnam bölgesinde otel. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 94016949,
+    "location": {
+      "country": "VN",
+      "city": "Vietnam City",
+      "district": "Vietnam City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 477",
+      "coordinates": {
+        "lat": 15.717709146623298,
+        "lng": 107.70725560333776
+      }
+    },
+    "specs": {
+      "netSize": 4393,
+      "grossSize": 5272,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 12,
+      "floor": 6,
+      "totalFloors": 17,
+      "heating": "Kombi",
+      "furnishing": "Unfurnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500463194783?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500980647648?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500598196472?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500707119657?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500220715263?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500746090463?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500210093240?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500759303207?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500084584481?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500482139950?w=800&q=80&category=building"
+    ],
+    "agent": {
+      "id": "A21",
+      "name": "Agent 67",
+      "phone": "+40 951 843 5123",
+      "email": "agent92@iwrealty.com",
+      "photo": "/images/icons/png/antalya-investment-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": false,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-01-10T10:50:47.278Z",
+    "updatedAt": "2025-11-13T10:50:47.278Z",
+    "storeId": "store-006"
+  },
+  {
+    "id": "P09230",
+    "type": "rent",
+    "category": {
+      "main": "commercial",
+      "sub": "hotel"
+    },
+    "title": "Kiralık Otel - New Vietnam",
+    "slug": "kiralik-otel-new-vietnam-P09230",
+    "description": "New Vietnam, Vietnam bölgesinde otel. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 30578383,
+    "location": {
+      "country": "VN",
+      "city": "New Vietnam",
+      "district": "New Vietnam Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 831",
+      "coordinates": {
+        "lat": 16.473254433068796,
+        "lng": 108.14696337170747
+      }
+    },
+    "specs": {
+      "netSize": 13560,
+      "grossSize": 16272,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 12,
+      "floor": 11,
+      "totalFloors": 9,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Furnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500186351716?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500476799037?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500807549680?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500306102603?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500949345995?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500055990678?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500989950706?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500454118801?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500806486979?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500360282789?w=800&q=80&category=house"
+    ],
+    "agent": {
+      "id": "A96",
+      "name": "Agent 14",
+      "phone": "+63 191 359 6456",
+      "email": "agent49@iwrealty.com",
+      "photo": "/images/icons/png/berlin-urban-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2024-11-26T10:50:47.278Z",
+    "updatedAt": "2025-11-13T10:50:47.278Z",
+    "storeId": "store-009"
+  },
+  {
+    "id": "P09231",
+    "type": "sale",
+    "category": {
+      "main": "commercial",
+      "sub": "restaurant"
+    },
+    "title": "Satılık Restoran - Vietnam City",
+    "slug": "satilik-restoran-vietnam-city-P09231",
+    "description": "Vietnam City, Vietnam bölgesinde restoran. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 6395382,
+    "location": {
+      "country": "VN",
+      "city": "Vietnam City",
+      "district": "Vietnam City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 148",
+      "coordinates": {
+        "lat": 16.29146900051184,
+        "lng": 108.28312363041162
+      }
+    },
+    "specs": {
+      "netSize": 1416,
+      "grossSize": 1699,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 4,
+      "floor": 5,
+      "totalFloors": 19,
+      "heating": "Kombi",
+      "furnishing": "Unfurnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500097894680?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500481077104?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500065679952?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500588931568?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500402421729?w=800&q=80&category=house"
+    ],
+    "agent": {
+      "id": "A52",
+      "name": "Agent 64",
+      "phone": "+43 762 352 2736",
+      "email": "agent88@iwrealty.com",
+      "photo": "/images/icons/png/paris-heritage-logo.png"
+    },
+    "features": {
+      "hasParking": true,
+      "hasElevator": false,
+      "hasBalcony": true,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-07-04T10:50:47.278Z",
+    "updatedAt": "2025-11-13T10:50:47.278Z",
+    "storeId": "store-010"
+  },
+  {
+    "id": "P09232",
+    "type": "rent",
+    "category": {
+      "main": "commercial",
+      "sub": "restaurant"
+    },
+    "title": "Kiralık Restoran - Vietnam City",
+    "slug": "kiralik-restoran-vietnam-city-P09232",
+    "description": "Vietnam City, Vietnam bölgesinde restoran. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 2992372,
+    "location": {
+      "country": "VN",
+      "city": "Vietnam City",
+      "district": "Vietnam City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 635",
+      "coordinates": {
+        "lat": 16.027987815119456,
+        "lng": 108.16514616897831
+      }
+    },
+    "specs": {
+      "netSize": 1459,
+      "grossSize": 1751,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 12,
+      "floor": 14,
+      "totalFloors": 13,
+      "heating": "Klima",
+      "furnishing": "Unfurnished",
+      "balconyCount": 3
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500058820834?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500867412972?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500871457293?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500587699705?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500282395958?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500004351535?w=800&q=80&category=house"
+    ],
+    "agent": {
+      "id": "A15",
+      "name": "Agent 100",
+      "phone": "+94 668 166 7229",
+      "email": "agent26@iwrealty.com",
+      "photo": "/images/icons/png/ankara-modern-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": false,
+      "hasGarden": false,
+      "hasPool": false,
+      "hasSecurity": false
+    },
+    "createdAt": "2025-06-21T10:50:47.278Z",
+    "updatedAt": "2025-11-13T10:50:47.278Z",
+    "storeId": "store-003"
+  },
+  {
+    "id": "P09233",
+    "type": "sale",
+    "category": {
+      "main": "commercial",
+      "sub": "warehouse"
+    },
+    "title": "Satılık Depo - Vietnam City",
+    "slug": "satilik-depo-vietnam-city-P09233",
+    "description": "Vietnam City, Vietnam bölgesinde depo. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 13166451,
+    "location": {
+      "country": "VN",
+      "city": "Vietnam City",
+      "district": "Vietnam City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 527",
+      "coordinates": {
+        "lat": 15.686068524972834,
+        "lng": 107.62796904719774
+      }
+    },
+    "specs": {
+      "netSize": 7898,
+      "grossSize": 9478,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 3,
+      "floor": 3,
+      "totalFloors": 19,
+      "heating": "Yerden Isıtma",
+      "furnishing": "Unfurnished",
+      "balconyCount": 0
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500467137197?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500537533805?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500858694727?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500229839389?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500475583467?w=800&q=80&category=building",
+      "https://images.unsplash.com/photo-1500736767737?w=800&q=80&category=interior",
+      "https://images.unsplash.com/photo-1500200073846?w=800&q=80&category=house",
+      "https://images.unsplash.com/photo-1500875915872?w=800&q=80&category=architecture"
+    ],
+    "agent": {
+      "id": "A23",
+      "name": "Agent 89",
+      "phone": "+18 928 371 1080",
+      "email": "agent90@iwrealty.com",
+      "photo": "/images/icons/png/berlin-urban-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": true,
+      "hasBalcony": true,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-07-22T10:50:47.278Z",
+    "updatedAt": "2025-11-13T10:50:47.278Z",
+    "storeId": "store-009"
+  },
+  {
+    "id": "P09234",
+    "type": "rent",
+    "category": {
+      "main": "commercial",
+      "sub": "warehouse"
+    },
+    "title": "Kiralık Depo - Vietnam City",
+    "slug": "kiralik-depo-vietnam-city-P09234",
+    "description": "Vietnam City, Vietnam bölgesinde depo. Modern tasarım, merkezi konum, yüksek yatırım değeri.",
+    "price": 12531856,
+    "location": {
+      "country": "VN",
+      "city": "Vietnam City",
+      "district": "Vietnam City Center",
+      "neighborhood": "Downtown",
+      "address": "Main Street 19",
+      "coordinates": {
+        "lat": 15.781001297382133,
+        "lng": 107.63799178936108
+      }
+    },
+    "specs": {
+      "netSize": 2394,
+      "grossSize": 2873,
+      "rooms": null,
+      "bathrooms": null,
+      "age": 10,
+      "floor": 6,
+      "totalFloors": 15,
+      "heating": "Kombi",
+      "furnishing": "Semi-Furnished",
+      "balconyCount": 2
+    },
+    "images": [
+      "https://images.unsplash.com/photo-1500128415899?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500449127600?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500836182632?w=800&q=80&category=architecture",
+      "https://images.unsplash.com/photo-1500887064112?w=800&q=80&category=real-estate",
+      "https://images.unsplash.com/photo-1500915017361?w=800&q=80&category=interior"
+    ],
+    "agent": {
+      "id": "A46",
+      "name": "Agent 78",
+      "phone": "+49 659 818 3658",
+      "email": "agent44@iwrealty.com",
+      "photo": "/images/icons/png/ankara-modern-logo.png"
+    },
+    "features": {
+      "hasParking": false,
+      "hasElevator": false,
+      "hasBalcony": false,
+      "hasGarden": true,
+      "hasPool": false,
+      "hasSecurity": true
+    },
+    "createdAt": "2025-09-04T10:50:47.278Z",
+    "updatedAt": "2025-11-13T10:50:47.278Z",
+    "storeId": "store-003"
+  }
+]
