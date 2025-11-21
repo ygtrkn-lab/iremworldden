@@ -461,15 +461,17 @@ export async function POST(request: NextRequest) {
       if (/(sat(ı|i)l(ı|i)k|sale|buying)/.test(normalized)) params.type = 'sale';
       if (/(kiral(ı|i)k|rent|rental)/.test(normalized)) params.type = 'rent';
 
-      // Category detection
-      if (/(daire|apartment|flat)/.test(normalized)) params.category = 'residential';
-      if (/(ofis|office)/.test(normalized)) params.category = 'commercial';
-      if (/(villa)/.test(normalized)) params.category = 'residential';
-      if (/(arsa|land)/.test(normalized)) params.category = 'land';
+      // Category detection - match with JSON structure (category.sub)
+      if (/(daire|apartment|flat)/.test(normalized)) params.categorySub = 'Daire';
+      if (/(ofis|office)/.test(normalized)) params.categorySub = 'Ofis';
+      if (/(villa)/.test(normalized)) params.categorySub = 'Villa';
+      if (/(arsa|land)/.test(normalized)) params.categoryMain = 'Arsa';
 
-      // City extraction (simple - can be enhanced with NER)
-      const cityMatch = msg.match(/(?:istanbul|ankara|izmir|antalya|bursa|adana)/i);
-      if (cityMatch) params.city = cityMatch[0];
+      // City extraction (Turkish city names from JSON)
+      const cityMatch = msg.match(/(?:(i|ı)stanbul|ankara|izmir|antalya|bursa|adana|konya|gaziantep|mersin)/i);
+      if (cityMatch) {
+        params.city = cityMatch[0].replace(/^i/, 'İ').replace(/^ı/, 'I');
+      }
 
       return params;
     };
@@ -479,15 +481,62 @@ export async function POST(request: NextRequest) {
       try {
         const searchParams = extractSearchParams(message, countryName);
         
-        // Call internal property search API
-        const searchResponse = await fetch(`${request.url.split('/api/')[0]}/api/ai/search-properties`, {
-          method: 'POST',
-          headers: { 'Content-Type': 'application/json' },
-          body: JSON.stringify({ ...searchParams, limit: 5 }),
-        });
+        // Get country code from countryName or default to TR
+        const countryCodeForSearch = countryCode || 'TR';
+        
+        // Fetch properties from JSON file
+        const baseUrl = request.url.split('/api/')[0];
+        const propertiesResponse = await fetch(
+          `${baseUrl}/api/properties-json?country=${countryCodeForSearch}&type=${searchParams.type || ''}`,
+          { cache: 'no-store' }
+        );
 
-        if (searchResponse.ok) {
-          propertySearchResults = await searchResponse.json();
+        if (propertiesResponse.ok) {
+          const propertiesData = await propertiesResponse.json();
+          if (propertiesData.success && propertiesData.data) {
+            let properties = propertiesData.data;
+            
+            // Apply filters
+            if (searchParams.city) {
+              properties = properties.filter((p: any) => 
+                p.location?.city?.toLowerCase().includes(searchParams.city.toLowerCase())
+              );
+            }
+            
+            if (searchParams.categorySub) {
+              properties = properties.filter((p: any) => 
+                p.category?.sub?.toLowerCase() === searchParams.categorySub.toLowerCase()
+              );
+            }
+            
+            if (searchParams.categoryMain) {
+              properties = properties.filter((p: any) => 
+                p.category?.main?.toLowerCase() === searchParams.categoryMain.toLowerCase()
+              );
+            }
+            
+            // Limit to top 5 results
+            properties = properties.slice(0, 5);
+            
+            propertySearchResults = {
+              success: true,
+              total: properties.length,
+              count: properties.length,
+              properties: properties.map((p: any) => ({
+                id: p.id,
+                title: p.title,
+                type: p.type,
+                category: p.category?.main,
+                price: p.price,
+                city: p.location?.city,
+                district: p.location?.district,
+                neighborhood: p.location?.neighborhood,
+                netSize: p.specs?.netSize || p.specs?.grossSize,
+                rooms: p.specs?.rooms,
+                age: p.specs?.age || 0
+              }))
+            };
+          }
         }
       } catch (err) {
         console.warn('Property search failed:', err instanceof Error ? err.message : String(err));
@@ -506,29 +555,25 @@ export async function POST(request: NextRequest) {
     // Inject property search results if available
     if (propertySearchResults) {
       if (propertySearchResults.success && propertySearchResults.count > 0) {
-        const searchContext = `İLAN ARAMA SONUÇLARI:\nToplam ${propertySearchResults.total} ilan bulundu. İlk ${propertySearchResults.count} sonuç:\n\n` +
-          propertySearchResults.properties.map((p: any, i: number) => 
-            `${i + 1}. ${p.title}\n` +
-            `   - Tür: ${p.type === 'sale' ? 'Satılık' : 'Kiralık'} | Kategori: ${p.category}\n` +
-            `   - Konum: ${p.city}${p.district ? `, ${p.district}` : ''}${p.neighborhood ? `, ${p.neighborhood}` : ''}\n` +
-            `   - Fiyat: ${p.price.toLocaleString('tr-TR')} TL | Alan: ${p.netSize}m²\n` +
-            `   - Oda: ${p.rooms} | Yaş: ${p.age} yıl\n` +
-            `   - Link: https://iremworld.com/property/${p.id}`
-          ).join('\n\n') +
-          `\n\nBu ilanları kullanıcıya özetle ve HTML link formatında paylaş: <a href=\"https://iremworld.com/property/ID\" target=\"_blank\">İlan Detayları</a>. Gerçek ilan ID'lerini kullan.`;
+        const searchContext = `İLAN ARAMA SONUÇLARI:\nToplam ${propertySearchResults.total} ilan bulundu:\n\n` +
+          propertySearchResults.properties.map((p: any, i: number) => {
+            const priceStr = typeof p.price === 'number' ? p.price.toLocaleString('tr-TR') : p.price || 'Fiyat belirtilmemiş';
+            const sizeStr = p.netSize ? `${p.netSize}m²` : 'Bilgi yok';
+            return `${i + 1}. ${p.title}\n` +
+              `   - Tür: ${p.type === 'sale' ? 'Satılık' : 'Kiralık'} | Kategori: ${p.category || 'Konut'}\n` +
+              `   - Konum: ${p.city || ''}${p.district ? `, ${p.district}` : ''}${p.neighborhood ? `, ${p.neighborhood}` : ''}\n` +
+              `   - Fiyat: ${priceStr} TL | Alan: ${sizeStr}\n` +
+              `   - Oda: ${p.rooms || '-'} | Yaş: ${p.age || 'Belirtilmemiş'}\n` +
+              `   - Link: https://iremworld.com/property/${p.id}`;
+          }).join('\n\n') +
+          `\n\nBu ilanları kullanıcıya kısa ve öz şekilde özetle. Her ilan için HTML link formatı kullan: <a href=\"https://iremworld.com/property/ID\" target=\"_blank\">İlan Detayları</a>`;
         
         messages.push({ role: 'system', content: searchContext });
-      } else if (!propertySearchResults.success) {
-        // Database error - inform user politely
-        messages.push({ 
-          role: 'system', 
-          content: 'İLAN ARAMA: Veritabanı bağlantısı şu anda kullanılamıyor. Lütfen daha sonra tekrar deneyin veya doğrudan site üzerinden arama yapın.' 
-        });
       } else if (propertySearchResults.total === 0) {
         // No results found
         messages.push({ 
           role: 'system', 
-          content: `İLAN ARAMA: Arama kriterlerinize uygun ilan bulunamadı. Farklı kriterlerle aramayı deneyin.` 
+          content: `İLAN ARAMA: Arama kriterlerinize uygun ilan bulunamadı. Lütfen farklı kriterlerle (şehir, tür, kategori) aramayı deneyin.` 
         });
       }
     }
