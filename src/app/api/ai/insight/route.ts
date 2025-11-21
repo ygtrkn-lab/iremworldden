@@ -148,6 +148,24 @@ const isAboutAllowedCountryTopic = (text: string | undefined | null) => {
   return false;
 };
 
+// Detect if a question is an investment/advice query about regions or 'best areas' etc.
+const isInvestmentQuery = (text: string | undefined | null) => {
+  if (!text) return false;
+  const norm = normalizeText(text);
+  const investmentKeywords = [
+    'yatirim', 'yatırım', 'yatırım bölgeleri', 'yatırım için', 'en iyi bölge', 'en iyi bölgeler', 'yatirimlık', 'yatirimlik', 'yatırımın en iyi', 'yatırım alanı'
+  ];
+  return investmentKeywords.some(k => norm.includes(k));
+};
+
+// Detect explicit user intent to list properties/ads e.g. 'ilan', 'göster', 'listele', 'bul'
+const isExplicitPropertySearchRequest = (text: string | undefined | null) => {
+  if (!text) return false;
+  const norm = normalizeText(text);
+  const explicitKeywords = ['ilan', 'ara', 'göster', 'listele', 'bul', 'goster', 'gosterir'];
+  return explicitKeywords.some(k => norm.includes(k));
+};
+
 const buildContextBlock = (countryName?: string, countryCode?: string, context?: CountryContext) => {
   const rows: string[] = [];
 
@@ -222,6 +240,12 @@ const systemPrompt = `Sen IREMWORLD'ün yapay zeka asistanısın. Seçilen ülke
   `İLAN ARAMA: Eğer sistem sana "İLAN ARAMA SONUÇLARI" context'i verdiyse:\n` +
     `- Önce "Toplam X ilan bulundu" yaz\n` +
     `- Sadece kısa bir özet veya tek satırlık açıklama ver (örnek: "Toplam X ilan bulundu. Aşağıdaki ilanları inceleyebilirsiniz.") ve ilanların detaylarını metin içinde tekrar listeleme.\n` +
+    `YATIRIM SORULARI: Eğer kullanıcı gayrimenkul yatırımı hakkında bölge önerisi / "en iyi bölgeler" / yatırım fırsatları gibi genel danışma talebi gönderirse:
+     - Öncelikle kısa bir genel analiz ve nedenleri (piyasa momentumu, altyapı, kira verimi, talep/arz dengesi gibi) açıklayınız (2-3 kısa paragraf)
+     - Eğer güvenilir kaynak veya istatistikten yararlanıyorsanız kısaça referans verin (örn. TÜİK, yerel emlak raporları, yatırım trendleri) veya "yerel raporlar ve piyasa verileri" şeklinde belirtin
+     - Bu tip sorularda ilan listelemeyin; kullanıcı "ilan göster" veya "ilan ara" diye spesifik olarak isterse eşleştirin ve ilan kartları gösterin
+     - Özetle: ANALİZ + NEDENLER + GÜVENİLİR KAYNAK (kısa), ilanlar yalnızca açıkça istenirse gösterilir.
+    ` +
     `- İlanları detaylı listelemek istemen durumunda, bu tekrarı yapma; istemci ilanları kutu (card) halinde görüntüleyecek.\n` +
     `- Opsiyonel olarak her ilan için sadece tek satırda "Başlık — Şehir — Fiyat" gibi kısa bilgi ver, uzun listeler veya tekrarlı detaylar yazma.\n` +
     `- Link'i tam URL olarak ver (gerekiyorsa anchor tag halinde).\n` +
@@ -479,7 +503,8 @@ export async function POST(request: NextRequest) {
     };
 
     let propertySearchResults = null;
-    if (isPropertySearchQuery(message)) {
+    const wantsInvestmentNarrative = isInvestmentQuery(message) && !isExplicitPropertySearchRequest(message);
+    if (isPropertySearchQuery(message) && !wantsInvestmentNarrative) {
       try {
         const searchParams = extractSearchParams(message, countryName);
         
@@ -544,6 +569,10 @@ export async function POST(request: NextRequest) {
         console.warn('Property search failed:', err instanceof Error ? err.message : String(err));
         // Continue with regular AI response even if search fails
       }
+    }
+    // If this is an investment query, do not show property listings by default
+    if (wantsInvestmentNarrative && propertySearchResults) {
+      propertySearchResults = null;
     }
 
     const messages: Array<{ role: 'system' | 'user' | 'assistant'; content: string }> = [
