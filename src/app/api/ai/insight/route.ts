@@ -672,6 +672,10 @@ export async function POST(request: NextRequest) {
       answer: finalReply,
       usage: completion.usage,
       properties: propertySearchResults?.properties ?? [],
+      meta: {
+        investmentNarrative: !!wantsInvestmentNarrative,
+        searchExecuted: Boolean(propertySearchResults && propertySearchResults.count > 0),
+      }
     });
   } catch (error) {
     console.error('AI insight error:', error);
