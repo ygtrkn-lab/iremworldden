@@ -504,19 +504,33 @@ export async function POST(request: NextRequest) {
     }
 
     // Inject property search results if available
-    if (propertySearchResults && propertySearchResults.success && propertySearchResults.count > 0) {
-      const searchContext = `İLAN ARAMA SONUÇLARI:\nToplam ${propertySearchResults.total} ilan bulundu. İlk ${propertySearchResults.count} sonuç:\n\n` +
-        propertySearchResults.properties.map((p: any, i: number) => 
-          `${i + 1}. ${p.title}\n` +
-          `   - Tür: ${p.type === 'sale' ? 'Satılık' : 'Kiralık'} | Kategori: ${p.category}\n` +
-          `   - Konum: ${p.city}${p.district ? `, ${p.district}` : ''}${p.neighborhood ? `, ${p.neighborhood}` : ''}\n` +
-          `   - Fiyat: ${p.price.toLocaleString('tr-TR')} TL | Alan: ${p.netSize}m²\n` +
-          `   - Oda: ${p.rooms} | Yaş: ${p.age} yıl\n` +
-          `   - Link: https://iremworld.com/property/${p.id}`
-        ).join('\n\n') +
-        `\n\nBu ilanları kullanıcıya özetle ve HTML link formatında paylaş: <a href=\"https://iremworld.com/property/ID\" target=\"_blank\">İlan Detayları</a>. Gerçek ilan ID'lerini kullan.`;
-      
-      messages.push({ role: 'system', content: searchContext });
+    if (propertySearchResults) {
+      if (propertySearchResults.success && propertySearchResults.count > 0) {
+        const searchContext = `İLAN ARAMA SONUÇLARI:\nToplam ${propertySearchResults.total} ilan bulundu. İlk ${propertySearchResults.count} sonuç:\n\n` +
+          propertySearchResults.properties.map((p: any, i: number) => 
+            `${i + 1}. ${p.title}\n` +
+            `   - Tür: ${p.type === 'sale' ? 'Satılık' : 'Kiralık'} | Kategori: ${p.category}\n` +
+            `   - Konum: ${p.city}${p.district ? `, ${p.district}` : ''}${p.neighborhood ? `, ${p.neighborhood}` : ''}\n` +
+            `   - Fiyat: ${p.price.toLocaleString('tr-TR')} TL | Alan: ${p.netSize}m²\n` +
+            `   - Oda: ${p.rooms} | Yaş: ${p.age} yıl\n` +
+            `   - Link: https://iremworld.com/property/${p.id}`
+          ).join('\n\n') +
+          `\n\nBu ilanları kullanıcıya özetle ve HTML link formatında paylaş: <a href=\"https://iremworld.com/property/ID\" target=\"_blank\">İlan Detayları</a>. Gerçek ilan ID'lerini kullan.`;
+        
+        messages.push({ role: 'system', content: searchContext });
+      } else if (!propertySearchResults.success) {
+        // Database error - inform user politely
+        messages.push({ 
+          role: 'system', 
+          content: 'İLAN ARAMA: Veritabanı bağlantısı şu anda kullanılamıyor. Lütfen daha sonra tekrar deneyin veya doğrudan site üzerinden arama yapın.' 
+        });
+      } else if (propertySearchResults.total === 0) {
+        // No results found
+        messages.push({ 
+          role: 'system', 
+          content: `İLAN ARAMA: Arama kriterlerinize uygun ilan bulunamadı. Farklı kriterlerle aramayı deneyin.` 
+        });
+      }
     }
 
     messages.push(
