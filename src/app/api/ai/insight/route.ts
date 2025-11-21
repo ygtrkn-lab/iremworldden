@@ -617,7 +617,12 @@ export async function POST(request: NextRequest) {
       return text.replace(/^Ben IREMWORLD’ün yapay zeka asistanıyım\.?\s*/i, '').trim();
     };
 
-    const finalReply = sanitizeReply(assistantReply);
+    let finalReply = sanitizeReply(assistantReply);
+
+    // If we have structured property results, prefer a concise summary
+    if (propertySearchResults && propertySearchResults.success && propertySearchResults.total > 0) {
+      finalReply = `Toplam ${propertySearchResults.total} ilan bulundu. Aşağıdaki ilanları inceleyebilirsiniz.`;
+    }
 
     if (!finalReply) {
       return NextResponse.json(
