@@ -2555,31 +2555,6 @@ export default function PortalLanding({ onEnter }: { onEnter: () => void }) {
                           </svg>
                           Yaşam Kalitesi
                         </span>
-                        <span className="portal-card-badge inline-flex items-center gap-1 px-1.5 xs:px-2 sm:px-3 py-0.5 sm:py-1 bg-[#fff0e5] text-[#f07f38] rounded-full text-[0.6rem] xs:text-[0.65rem] sm:text-xs font-medium whitespace-nowrap">
-                          <svg className="w-3 h-3" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                            <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M17 20h5v-2a3 3 0 00-5.356-1.857M17 20H7m10 0v-2c0-.656-.126-1.283-.356-1.857M7 20H2v-2a3 3 0 015.356-1.857M7 20v-2c0-.656.126-1.283.356-1.857m0 0A5.002 5.002 0 0112 11a5.002 5.002 0 014.644 3.143M8.756 14.143a3 3 0 015.488 0" />
-                          </svg>
-                          Nüfus
-                        </span>
-                        <span className="portal-card-badge inline-flex items-center gap-1 px-1.5 xs:px-2 sm:px-3 py-0.5 sm:py-1 bg-[#fff0e5] text-[#f07f38] rounded-full text-[0.6rem] xs:text-[0.65rem] sm:text-xs font-medium whitespace-nowrap">
-                          <svg className="w-3 h-3" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                            <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M12 8c1.657 0 3-1.343 3-3S13.657 2 12 2 9 3.343 9 5s1.343 3 3 3zm0 2c-2.21 0-6 1.105-6 3.3V18h12v-4.7c0-2.195-3.79-3.3-6-3.3z" />
-                            <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M18 8c1.105 0 2-.672 2-1.5S19.105 5 18 5s-2 .672-2 1.5 0 1.5 2 1.5zm0 2c-.69 0-1.343.098-1.938.27M6 8c-1.105 0-2-.672-2-1.5S4.895 5 6 5s2 .672 2 1.5S7.105 8 6 8zm0 2c.69 0 1.343.098 1.938.27" />
-                          </svg>
-                          Din / Kültür
-                        </span>
-                        <span className="portal-card-badge inline-flex items-center gap-1 px-1.5 xs:px-2 sm:px-3 py-0.5 sm:py-1 bg-[#fff0e5] text-[#f07f38] rounded-full text-[0.6rem] xs:text-[0.65rem] sm:text-xs font-medium whitespace-nowrap">
-                          <svg className="w-3 h-3" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                            <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M12 3l8 4-8 4-8-4 8-4zm0 8l8 4-8 4-8-4 8-4zm0 0v8" />
-                          </svg>
-                          İpotek / Mortgage
-                        </span>
-                        <span className="portal-card-badge inline-flex items-center gap-1 px-1.5 xs:px-2 sm:px-3 py-0.5 sm:py-1 bg-[#fff0e5] text-[#f07f38] rounded-full text-[0.6rem] xs:text-[0.65rem] sm:text-xs font-medium whitespace-nowrap">
-                          <svg className="w-3 h-3" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                            <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M8 17l4 4 4-4m-4 4V3" />
-                          </svg>
-                          Kira Fiyatları
-                        </span>
                       </div>
                       <div
                         ref={insightCtaRef}
