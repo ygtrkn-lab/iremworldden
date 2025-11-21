@@ -215,10 +215,15 @@ const extractText = (content: string | Array<ChatCompletionContentPart | string>
 const systemPrompt = `Sen IREMWORLD'ün yapay zeka asistanısın. Seçilen ülke hakkında kısa, net ve hızlı yanıtlar ver.\n` +
   `KURALLAR:\n` +
   `1. SADECE seçilen ülke hakkında cevap ver (gayrimenkul, yatırım, yaşam, kültür, yemek, ulaşım, meslek, eğitim vb. her konu dahil).\n` +
-  `2. Yanıtları 2-3 cümle veya kısa paragraflarla sınırla. ÖZ ve DOĞRUDAN yanıt ver.\n` +
+  `2. Yanıtlarını 2-3 cümle veya kısa paragraflarla sınırla. ÖZ ve DOĞRUDAN yanıt ver.\n` +
   `3. Gereksiz giriş/kapanış cümleleri kullanma. Soruya direkt cevap ver.\n` +
   `4. Emin olmadığın bilgiler için "genel olarak" veya "tipik olarak" ifadelerini kullan.\n` +
   `5. Kullanıcının dilinde yanıt ver.\n` +
+  `İLAN ARAMA: Eğer sistem sana "İLAN ARAMA SONUÇLARI" context'i verdiyse:\n` +
+  `- Bulunan ilanları kısa özetle (max 3-4 cümle)\n` +
+  `- Her ilan için başlık, fiyat, konum ve linki listele\n` +
+  `- Link formatı: [İlan Başlığı](link)\n` +
+  `- "Toplam X ilan bulundu" bilgisini ekle\n` +
   `AMAÇ: Hızlı ve faydalı bilgi sağla.`;
 
 
@@ -436,12 +441,82 @@ export async function POST(request: NextRequest) {
       // ignore cache errors
     }
 
+    // PROPERTY SEARCH DETECTION: Check if user is asking about properties/listings
+    const isPropertySearchQuery = (msg: string) => {
+      const normalized = msg.toLowerCase();
+      const searchKeywords = [
+        'ara', 'arıyor', 'bul', 'ilan', 'emlak', 'property', 'listing',
+        'satılık', 'kiralık', 'sale', 'rent', 'daire', 'ev', 'ofis', 'villa',
+        'apartment', 'house', 'office', 'konut', 'gayrimenkul'
+      ];
+      return searchKeywords.some(kw => normalized.includes(kw));
+    };
+
+    // Extract search parameters from natural language query
+    const extractSearchParams = (msg: string, country?: string) => {
+      const normalized = msg.toLowerCase();
+      const params: any = {};
+
+      // Type detection
+      if (/(sat(ı|i)l(ı|i)k|sale|buying)/.test(normalized)) params.type = 'sale';
+      if (/(kiral(ı|i)k|rent|rental)/.test(normalized)) params.type = 'rent';
+
+      // Category detection
+      if (/(daire|apartment|flat)/.test(normalized)) params.category = 'residential';
+      if (/(ofis|office)/.test(normalized)) params.category = 'commercial';
+      if (/(villa)/.test(normalized)) params.category = 'residential';
+      if (/(arsa|land)/.test(normalized)) params.category = 'land';
+
+      // City extraction (simple - can be enhanced with NER)
+      const cityMatch = msg.match(/(?:istanbul|ankara|izmir|antalya|bursa|adana)/i);
+      if (cityMatch) params.city = cityMatch[0];
+
+      return params;
+    };
+
+    let propertySearchResults = null;
+    if (isPropertySearchQuery(message)) {
+      try {
+        const searchParams = extractSearchParams(message, countryName);
+        
+        // Call internal property search API
+        const searchResponse = await fetch(`${request.url.split('/api/')[0]}/api/ai/search-properties`, {
+          method: 'POST',
+          headers: { 'Content-Type': 'application/json' },
+          body: JSON.stringify({ ...searchParams, limit: 5 }),
+        });
+
+        if (searchResponse.ok) {
+          propertySearchResults = await searchResponse.json();
+        }
+      } catch (err) {
+        console.warn('Property search failed:', err instanceof Error ? err.message : String(err));
+        // Continue with regular AI response even if search fails
+      }
+    }
+
     const messages: Array<{ role: 'system' | 'user' | 'assistant'; content: string }> = [
       { role: 'system', content: systemPrompt }
     ];
 
     if (contextBlock) {
       messages.push({ role: 'system', content: `Ülke bağlamı:\n${contextBlock}` });
+    }
+
+    // Inject property search results if available
+    if (propertySearchResults && propertySearchResults.success && propertySearchResults.count > 0) {
+      const searchContext = `İLAN ARAMA SONUÇLARI:\nToplam ${propertySearchResults.total} ilan bulundu. İlk ${propertySearchResults.count} sonuç:\n\n` +
+        propertySearchResults.properties.map((p: any, i: number) => 
+          `${i + 1}. ${p.title}\n` +
+          `   - Tür: ${p.type === 'sale' ? 'Satılık' : 'Kiralık'} | Kategori: ${p.category}\n` +
+          `   - Konum: ${p.city}${p.district ? `, ${p.district}` : ''}${p.neighborhood ? `, ${p.neighborhood}` : ''}\n` +
+          `   - Fiyat: ${p.price.toLocaleString('tr-TR')} TL | Alan: ${p.netSize}m²\n` +
+          `   - Oda: ${p.rooms} | Yaş: ${p.age} yıl\n` +
+          `   - Link: https://iremworld.com${p.link}`
+        ).join('\n\n') +
+        `\n\nBu ilanları kullanıcıya özetle ve linkleri paylaş. Gerçek ilan verileri bunlardır.`;
+      
+      messages.push({ role: 'system', content: searchContext });
     }
 
     messages.push(
