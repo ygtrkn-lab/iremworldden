@@ -634,6 +634,7 @@ export async function POST(request: NextRequest) {
     return NextResponse.json({
       answer: finalReply,
       usage: completion.usage,
+      properties: propertySearchResults?.properties ?? [],
     });
   } catch (error) {
     console.error('AI insight error:', error);

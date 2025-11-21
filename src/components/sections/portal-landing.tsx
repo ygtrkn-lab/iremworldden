@@ -357,6 +357,13 @@ type InsightMessage = {
   role: 'user' | 'assistant';
   content: string;
   timestamp: string;
+  properties?: Array<{
+    id: string;
+    title: string;
+    price?: number | string;
+    city?: string;
+    link?: string;
+  }>;
 };
 
 const INSIGHT_HISTORY_LIMIT = 8;
@@ -1971,10 +1978,20 @@ export default function PortalLanding({ onEnter }: { onEnter: () => void }) {
           ? data.answer.trim()
           : 'Yanıt oluşturulamadı. Lütfen tekrar deneyin.';
 
+      const replyProperties: InsightMessage['properties'] = Array.isArray(data?.properties)
+        ? data.properties.map((p: any) => ({
+            id: p.id,
+            title: p.title,
+            price: p.price,
+            city: p.city,
+            link: `https://iremworld.com/property/${p.id}`,
+          }))
+        : [];
+
       setInsightMessages(prev =>
         prev.map(message =>
           message.id === pendingMessage.id
-            ? { ...message, content: assistantReply, timestamp: new Date().toISOString() }
+            ? { ...message, content: assistantReply, properties: replyProperties, timestamp: new Date().toISOString() }
             : message
         )
       );
@@ -1982,7 +1999,7 @@ export default function PortalLanding({ onEnter }: { onEnter: () => void }) {
       // Save or update current session for the user so it appears in history
       try {
         const userId = getUserId();
-        const toSave = [...insightMessages, userMessage, { ...pendingMessage, content: assistantReply, timestamp: new Date().toISOString() }];
+        const toSave = [...insightMessages, userMessage, { ...pendingMessage, content: assistantReply, properties: replyProperties, timestamp: new Date().toISOString() }];
         const resSession = await fetch('/api/ai/sessions', {
           method: 'POST',
           headers: { 
@@ -3005,6 +3022,22 @@ export default function PortalLanding({ onEnter }: { onEnter: () => void }) {
                             {message.role === 'user' ? 'Siz' : 'AI Asistan'}
                           </div>
                           <p className="text-xs xs:text-sm leading-relaxed whitespace-pre-wrap">{message.content}</p>
+                          {message.properties && message.properties.length > 0 && (
+                            <div className="mt-2 space-y-2">
+                              {message.properties.map(p => (
+                                <a
+                                  key={p.id}
+                                  href={p.link}
+                                  target="_blank"
+                                  rel="noopener noreferrer"
+                                  className="block rounded-md border border-gray-100 p-2 hover:shadow-sm hover:bg-gray-50"
+                                >
+                                  <div className="text-sm font-semibold text-gray-900">{p.title}</div>
+                                  <div className="text-[11px] text-gray-500 mt-0.5">{p.city}{p.price ? ` — ${typeof p.price === 'number' ? new Intl.NumberFormat('tr-TR').format(p.price) + ' TL' : p.price}` : ''}</div>
+                                </a>
+                              ))}
+                            </div>
+                          )}
                         </div>
                       </motion.div>
                     ))}
