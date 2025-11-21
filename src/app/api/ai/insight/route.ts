@@ -220,10 +220,12 @@ const systemPrompt = `Sen IREMWORLD'ün yapay zeka asistanısın. Seçilen ülke
   `4. Emin olmadığın bilgiler için "genel olarak" veya "tipik olarak" ifadelerini kullan.\n` +
   `5. Kullanıcının dilinde yanıt ver.\n` +
   `İLAN ARAMA: Eğer sistem sana "İLAN ARAMA SONUÇLARI" context'i verdiyse:\n` +
-  `- Önce "Toplam X ilan bulundu" yaz\n` +
-  `- Her ilan için numara, başlık, fiyat, konum bilgilerini listele\n` +
-  `- Link'i tam URL olarak ver: <a href=\"URL\" target=\"_blank\">İlan Detayları</a>\n` +
-  `- Kısa ve öz tut, gereksiz açıklama yapma\n` +
+    `- Önce "Toplam X ilan bulundu" yaz\n` +
+    `- Sadece kısa bir özet veya tek satırlık açıklama ver (örnek: "Toplam X ilan bulundu. Aşağıdaki ilanları inceleyebilirsiniz.") ve ilanların detaylarını metin içinde tekrar listeleme.\n` +
+    `- İlanları detaylı listelemek istemen durumunda, bu tekrarı yapma; istemci ilanları kutu (card) halinde görüntüleyecek.\n` +
+    `- Opsiyonel olarak her ilan için sadece tek satırda "Başlık — Şehir — Fiyat" gibi kısa bilgi ver, uzun listeler veya tekrarlı detaylar yazma.\n` +
+    `- Link'i tam URL olarak ver (gerekiyorsa anchor tag halinde).\n` +
+    `- Kısa ve öz tut, gereksiz açıklama yapma\n` +
   `AMAÇ: Hızlı ve faydalı bilgi sağla.`;
 
 
@@ -559,12 +561,13 @@ export async function POST(request: NextRequest) {
           propertySearchResults.properties.map((p: any, i: number) => {
             const priceStr = typeof p.price === 'number' ? p.price.toLocaleString('tr-TR') : p.price || 'Fiyat belirtilmemiş';
             const sizeStr = p.netSize ? `${p.netSize}m²` : 'Bilgi yok';
-            return `${i + 1}. ${p.title}\n` +
+            const propUrl = `https://iremworld.com/property/${p.id}`;
+              return `${i + 1}. ${p.title}\n` +
               `   - Tür: ${p.type === 'sale' ? 'Satılık' : 'Kiralık'} | Kategori: ${p.category || 'Konut'}\n` +
               `   - Konum: ${p.city || ''}${p.district ? `, ${p.district}` : ''}${p.neighborhood ? `, ${p.neighborhood}` : ''}\n` +
               `   - Fiyat: ${priceStr} TL | Alan: ${sizeStr}\n` +
-              `   - Oda: ${p.rooms || '-'} | Yaş: ${p.age || 'Belirtilmemiş'}\n` +
-              `   - Link: https://iremworld.com/property/${p.id}`;
+                `   - Oda: ${p.rooms || '-'} | Yaş: ${p.age || 'Belirtilmemiş'}\n` +
+                `   - Link: <a href=\"${propUrl}\" target=\"_blank\">İlan Detayları</a> (${propUrl})`;
           }).join('\n\n') +
           `\n\nBu ilanları kullanıcıya kısa ve öz şekilde özetle. Her ilan için HTML link formatı kullan: <a href=\"https://iremworld.com/property/ID\" target=\"_blank\">İlan Detayları</a>`;
         
